@@ -15,6 +15,7 @@ jobs:
         with:
           repository: ietf-ribose/ieee-rawbib
           token: ${{ secrets.IETF_RIBOSE_CI_PAT }}
+          path: ieee-rawbib
       - name: Use Ruby
         uses: ruby/setup-ruby@v1
         with:
