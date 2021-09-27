@@ -1,0 +1,64 @@
+---
+id: IEEEStd896.5a-1994
+title:
+- type: title-main
+  content: 'IEEE Standard for Futurebus+, Profile M (Military): Errata, Corrections,
+    and Clarifications'
+  format: text/plain
+- type: main
+  content: 'IEEE Standard for Futurebus+, Profile M (Military): Errata, Corrections,
+    and Clarifications'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/696975
+  type: src
+type: standard
+docid:
+- id: IEEE Std 896.5a-1994
+  type: IEEE
+- id: 0-7381-4423-1
+  type: ISBN
+- id: 10.1109/IEEESTD.1995.122629
+  type: DOI
+docnumber: 896.5a-1994
+date:
+- type: created
+  value: '1995'
+- type: issued
+  value: '1994-12-13'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: 'The following topics were dealt with: The supplement contains errata,
+    corrections, and clarifications to IEEE Std 896.5-1993. Futurebus+/sup TM/ standards
+    provide system developers with a set of tools with which high performance bus-based
+    systems may be developed. This architecture provides a wide range of performance
+    scalability over both cost and time for multiple generations of single- and multiple-bus
+    multiprocessor systems. This document, a companion standard to ISO/IEC 10857:1994
+    [ANSI/IEEE Std 896.1, 1994 Edition], builds on the logical layer by adding requirements
+    for three military profiles. It is to these profiles that products will claim
+    conformance.<<ETX>>'
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1995'
+keyword:
+- IEEE standards
+- Data buses
+ics:
+  code: '35.160'
+  text: Microprocessor systems

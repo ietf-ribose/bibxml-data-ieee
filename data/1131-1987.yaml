@@ -1,0 +1,60 @@
+---
+id: ANSI/IEEEStd1131-1987
+title:
+- type: title-main
+  content: IEEE Standard Cryostat End-Cap Dimensions for Germanium Semiconductor Gamma-Ray
+    Spectometers
+  format: text/plain
+- type: main
+  content: IEEE Standard Cryostat End-Cap Dimensions for Germanium Semiconductor Gamma-Ray
+    Spectometers
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/25333
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 1131-1987
+  type: IEEE
+- id: 0-7381-4144-5
+  type: ISBN
+- id: 10.1109/IEEESTD.1988.121946
+  type: DOI
+docnumber: 1131-1987
+date:
+- type: created
+  value: '1988'
+- type: issued
+  value: '1987-12-10'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This standard establishes fixed dimensions for end-caps in the interests
+    of interchangeability of cryostats from various manufacturers. Seven standard
+    diameters and five minimum lengths are specified for the cylindrical surface separating
+    the environment from the vacuum enclosure around the Ge crystal.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1988'
+keyword:
+- Gamma-ray spectroscopy
+- Germanium
+- Standards
+ics:
+  code: '17.240'
+  text: Radiation measurements

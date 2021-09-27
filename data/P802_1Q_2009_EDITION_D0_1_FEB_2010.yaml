@@ -1,0 +1,69 @@
+---
+id: IEEEUnapprovedDraftStdP802.1Q,2009Edition/D0.1,Feb2010
+title:
+- type: title-main
+  content: DRAFT IEEE Standard for Local and metropolitan area networks-Virtual Bridged
+    Local Area Networks
+  format: text/plain
+- type: main
+  content: DRAFT IEEE Standard for Local and metropolitan area networks-Virtual Bridged
+    Local Area Networks
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/5422051
+  type: src
+type: standard
+docid:
+- id: IEEE Unapproved Draft Std P802.1Q, 2009 Edition/D0.1, Feb 2010
+  type: IEEE
+- id: 978-1-5044-4020-2
+  type: ISBN
+docnumber: P802.1Q, 2009 Edition/D0.1, Feb 2010
+date:
+  type: created
+  value: '2010'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This standard specifies how the MAC Service is supported by Virtual Bridged
+    Local Area Networks, the principles of operation of those networks, and the operation
+    of VLAN-aware Bridges, including management, protocols, and algorithms. The amendments
+    that were specified in IEEE Std 802.1AD enable a service provider to use the architecture
+    and protocols defined in this standard to offer the equivalent of separate LANs,
+    Bridged Local Area Networks, or Virtual Bridged Local Area Networks to a number
+    of customers, while requiring no cooperation between the customers, and minimal
+    cooperation between each customer and the service provider.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+keyword:
+- IEEE standards
+- Local area networks
+- Metropolitan area networks
+- Bridged Local Area Networks
+- local area networks (LANs)
+- MAC Bridges
+- metropolitan area networks
+- Multiple Spanning Tree Protocol (MSTP)
+- Rapid Spanning Tree Protocol (RSTP)
+- Virtual Bridged Local Area Networks (virtual LANs)
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer

@@ -1,0 +1,42 @@
+---
+id: IEEEUnapprovedDraftStdP1028/D5.1,Sep,07
+title:
+- type: title-main
+  content: IEEE Draft Standard for Software Reviews and Audits
+  format: text/plain
+- type: main
+  content: IEEE Draft Standard for Software Reviews and Audits
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4343665
+  type: src
+type: standard
+docid:
+- id: IEEE Unapproved Draft Std P1028/D5.1, Sep, 07
+  type: IEEE
+- id: 978-1-5044-2813-2
+  type: ISBN
+docnumber: P1028/D5.1, Sep, 07
+date:
+  type: created
+  value: '2007'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+ics:
+  code: '35.080'
+  text: Software

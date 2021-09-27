@@ -1,0 +1,44 @@
+---
+id: IEEEStdP802.1X-REV/D11
+title:
+- type: title-main
+  content: 'Approved IEEE Draft Standards for Local and Metropolitan Area Networks:
+    Port-Based Network Access Control Replaced by 802.1X-2004'
+  format: text/plain
+- type: main
+  content: 'Approved IEEE Draft Standards for Local and Metropolitan Area Networks:
+    Port-Based Network Access Control Replaced by 802.1X-2004'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4039841
+  type: src
+type: standard
+docid:
+- id: IEEE Std P802.1X-REV/D11
+  type: IEEE
+- id: 978-1-5044-4016-5
+  type: ISBN
+docnumber: P802.1X-REV/D11
+date:
+  type: created
+  value: '2004'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2004'
+ics:
+  code: '35.110'
+  text: Networking

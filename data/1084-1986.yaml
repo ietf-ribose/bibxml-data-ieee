@@ -1,0 +1,64 @@
+---
+id: ANSI/IEEEStd1084-1986
+title:
+- type: title-main
+  content: IEEE Standard Glossary of Mathematics of Computing Terminology
+  format: text/plain
+- type: main
+  content: IEEE Standard Glossary of Mathematics of Computing Terminology
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/26589
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 1084-1986
+  type: IEEE
+- id: 0-7381-4541-6
+  type: ISBN
+- id: 10.1109/IEEESTD.1986.79649
+  type: DOI
+docnumber: 1084-1986
+date:
+- type: created
+  value: '1986'
+- type: issued
+  value: '1986-03-13'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This dictionary defines terms in the field of Mathematics of Computing.
+    Topics covered include Boolean algebra, number systems, computer arithmetic, complementation,
+    shifts, arithmetic errors, error detection and correction, number conversions,
+    numeric codes, mathematical notation, and basic mathematics. Every effort has
+    been made to include all terms in general usage in this field.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1986'
+keyword:
+- Boolean algebra
+- Digital arithmetic
+- Error correction
+- Error analysis
+- Terminology
+- Mathematics
+ics:
+- code: 01.040.35
+  text: Information technology. Office machines (Vocabularies)
+- code: '35.020'
+  text: Information technology in general

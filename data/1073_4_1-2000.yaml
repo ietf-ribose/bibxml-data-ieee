@@ -1,0 +1,64 @@
+---
+id: IEEEStd1073.4.1,2000Edition
+title:
+- type: title-intro
+  content: IEEE Standard for Medical Device Communications
+  format: text/plain
+- type: title-main
+  content: Physical Layer Interface
+  format: text/plain
+- type: title-part
+  content: Cable Connected
+  format: text/plain
+- type: main
+  content: IEEE Standard for Medical Device Communications - Physical Layer Interface
+    - Cable Connected
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/825131
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1073.4.1, 2000 Edition
+  type: IEEE
+- id: 0-7381-1817-6
+  type: ISBN
+- id: 10.1109/IEEESTD.2000.90916
+  type: DOI
+docnumber: 1073.4.1-2000
+date:
+- type: created
+  value: '2000'
+- type: issued
+  value: '1999-10-20'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: A physical interface for the interconnection of computers and medical devices
+    in the IEEE 1073 family of standards is defined. This interface is intended to
+    be highly robust in an environment where devices are frequently connected to and
+    disconnected from the network. The physical and electrical characteristics of
+    the connector and signals necessary to exchange digital information between cable-connected,
+    medical devices and host computer systems are specified.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2000'
+keyword: Cables
+ics:
+  code: 35.240.80
+  text: IT applications in health care technology

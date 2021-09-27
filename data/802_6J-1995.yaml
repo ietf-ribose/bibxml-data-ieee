@@ -1,0 +1,69 @@
+---
+id: IEEEStd802.6j-1995
+title:
+- type: title-main
+  content: 'IEEE Standards for Local and Metropolitan Area Networks: Supplement to
+    Distributed Queue Dual Bus (DQDB) Access Method and Physical Layer Specifications.
+    Connection-Oriented Service on a Distributed Queue Dual Bus (DQDB) Subnetwork
+    of a Metropolitan Area Network (MAN)'
+  format: text/plain
+- type: main
+  content: 'IEEE Standards for Local and Metropolitan Area Networks: Supplement to
+    Distributed Queue Dual Bus (DQDB) Access Method and Physical Layer Specifications.
+    Connection-Oriented Service on a Distributed Queue Dual Bus (DQDB) Subnetwork
+    of a Metropolitan Area Network (MAN)'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/476643
+  type: src
+type: standard
+docid:
+- id: IEEE Std 802.6j-1995
+  type: IEEE
+- id: 1-55937-545-0
+  type: ISBN
+- id: 10.1109/IEEESTD.1995.79553
+  type: DOI
+docnumber: 802.6j-1995
+date:
+- type: updated
+  value: '1995-11-09'
+- type: created
+  value: '1995'
+- type: issued
+  value: '1995-03-16'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Enhanced Queued Arbitrated (QA) Functions, which can support applications
+    requiring bandwidth guarantees and delay limits on a DQDB subnetwork,are specified.
+    Connection-Oriented Convergence Functions (COCFs) using the enhanced QA Functions,
+    which are necessary to support connection-oriented service, are also specified.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1995'
+keyword:
+- Access protocols
+- Metropolitan area networks
+- IEEE standards
+- Communication standards
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.10
+  text: Physical layer

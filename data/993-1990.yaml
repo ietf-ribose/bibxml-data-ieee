@@ -1,0 +1,56 @@
+---
+id: IEEEStd993-1990
+title:
+- type: title-main
+  content: IEEE Trial-Use Standard for Test Equipment Description Language (TEDL)
+  format: text/plain
+- type: main
+  content: IEEE Trial-Use Standard for Test Equipment Description Language (TEDL)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/587768
+  type: src
+type: standard
+docid:
+- id: IEEE Std 993-1990
+  type: IEEE
+- id: 1-55937-029-7
+  type: ISBN
+- id: 10.1109/IEEESTD.1990.82369
+  type: DOI
+docnumber: 993-1990
+date:
+- type: created
+  value: '1990'
+- type: issued
+  value: '1990-02-15'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: IEEE Std 993-1990, IEEE Trial-Use Standard for Test Equipment Description
+    Language (TEDL), defines a language useful for describing automatic test equipment
+    (ATE) instrumentation and configurations, as well as interface test adapters (ITA).
+    Principally intended for testing environments using the ATLAS test language, TEDL
+    can also be used to describe instrumentation in non-ATLAS environments.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1990'
+keyword: Automatic test equipment
+ics:
+  code: '35.060'
+  text: Languages used in information technology

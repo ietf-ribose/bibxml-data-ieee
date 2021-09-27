@@ -1,0 +1,56 @@
+---
+id: IEEEStd1513-2001
+title:
+- type: title-main
+  content: IEEE Recommended Practice for Qualification of Concentrator Photovoltaic
+    (PV) Receiver Sections and Modules
+  format: text/plain
+- type: main
+  content: IEEE Recommended Practice for Qualification of Concentrator Photovoltaic
+    (PV) Receiver Sections and Modules
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/929434
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1513-2001
+  type: IEEE
+- id: 0-7381-2832-5
+  type: ISBN
+- id: 10.1109/IEEESTD.2001.92764
+  type: DOI
+docnumber: 1513-2001
+date:
+- type: created
+  value: '2001'
+- type: issued
+  value: '2001-03-17'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: The minimum tests and inspections required to evaluate photovoltaic concentrating
+    modules, and a common approach (e.g., between producer and purchaser) in conducting
+    qualification tests are provided.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2001'
+keyword: IEEE standards
+ics:
+  code: '27.160'
+  text: Solar energy engineering

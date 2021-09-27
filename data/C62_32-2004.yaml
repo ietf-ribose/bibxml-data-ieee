@@ -1,0 +1,55 @@
+---
+id: IEEEStdC62.32-2004(RevisionofIEEEStdC62.32-1981)
+title:
+- type: title-main
+  content: IEEE Standard Test Methods for Low-Voltage Air Gap Surge-Protective Device
+    Components (Excluding Valve and Expulsion Types)
+  format: text/plain
+- type: main
+  content: IEEE Standard Test Methods for Low-Voltage Air Gap Surge-Protective Device
+    Components (Excluding Valve and Expulsion Types)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/1431278
+  type: src
+type: standard
+docid:
+- id: IEEE Std C62.32-2004 (Revision of IEEE Std C62.32-1981)
+  type: IEEE
+- id: 0-7381-4657-9
+  type: ISBN
+- id: 10.1109/IEEESTD.2005.95941
+  type: DOI
+docnumber: C62.32-2004
+date:
+- type: created
+  value: '2005'
+- type: issued
+  value: '2005-04-12'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This standard applies to air gaps for overvoltage protection applications
+    on systems with operating voltages equal to or less than 600 V rms. This standard
+    contains a series of standard tests for determining the electrical characteristics
+    of these air gap devices. This standard's test criteria and definitions provide
+    a common engineering language beneficial to users and manufacturers of air gap
+    surge protective devices.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2005'
+ics:
+  code: 29.120.50
+  text: Fuses and other overcurrent protection devices

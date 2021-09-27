@@ -1,0 +1,53 @@
+---
+id: IEEEStd1244.1-2000
+title:
+- type: title-main
+  content: IEEE Standard for Media Management System (MMS) Architecture
+  format: text/plain
+- type: main
+  content: IEEE Standard for Media Management System (MMS) Architecture
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/879341
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1244.1-2000
+  type: IEEE
+- id: 0-7381-2506-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2000.91948
+  type: DOI
+docnumber: 1244.1-2000
+date:
+- type: created
+  value: '2000'
+- type: issued
+  value: '2000-06-21'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: The architecture of a distributed, platform-independent system that manages
+    removable media, including both disk and tape, using robotic and manual methods
+    are specified. The general schema for managing media, the components of the software
+    system, and the supporting data model used by the software system for managing
+    this media are described by this standard. Details of major components of the
+    system are specified by companion standards.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2000'
+ics:
+  code: '35.080'
+  text: Software

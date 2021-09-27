@@ -1,0 +1,42 @@
+---
+id: IEEEStdP738/D2
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Standard for Calculating the Current-Temperature
+    of Bare Overhead Conductors (Revision of 738-1993)
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Standard for Calculating the Current-Temperature
+    of Bare Overhead Conductors (Revision of 738-1993)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040894
+  type: src
+type: standard
+docid:
+  id: IEEE Std P738/D2
+  type: IEEE
+docnumber: P738/D2
+date:
+  type: created
+  value: '2006'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+ics:
+  code: 29.240.20
+  text: Power transmission and distribution lines

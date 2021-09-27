@@ -1,0 +1,67 @@
+---
+id: ANSI/IEEEStd1030-1987
+title:
+- type: title-intro
+  content: IEEE Guide for Specification of High-Voltage Direct-Current Systems. Part
+    I
+  format: text/plain
+- type: title-main
+  content: Steady-State Performance
+  format: text/plain
+- type: main
+  content: IEEE Guide for Specification of High-Voltage Direct-Current Systems. Part
+    I - Steady-State Performance
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/26485
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 1030-1987
+  type: IEEE
+- id: 0-7381-4137-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1988.122644
+  type: DOI
+docnumber: 1030-1987
+date:
+- type: created
+  value: '1988'
+- type: issued
+  value: '1987-03-12'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: The report provides general guidance on the steady-state performance requirements
+    of high-voltage direct-current (HVDC) systems. It concerns the steady-state performance
+    of two-terminal HVDC systems utilizing 12 pulse converter units consisting of
+    three-phase bridge (double way) connections. Excluded are multi-terminal HVDC
+    transmission systems. Both converters are assumed to use thyristor valves as the
+    main semiconductor valves and to have power flow capability in both directions.
+    No consideration is given to diode valves.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1988'
+keyword:
+- DC power transmission
+- Power conversion
+- Standards
+- Thyristor applications
+ics:
+  code: 29.240.01
+  text: Power transmission and distribution networks in general

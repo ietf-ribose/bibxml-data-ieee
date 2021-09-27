@@ -1,0 +1,42 @@
+---
+id: IEEEStdPC37.230/D4.0
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Guide for Protective Relay Applications to Distribution
+    Lines
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Guide for Protective Relay Applications to Distribution
+    Lines
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040693
+  type: src
+type: standard
+docid:
+  id: IEEE Std PC37.230/D4.0
+  type: IEEE
+docnumber: PC37.230/D4.0
+date:
+  type: created
+  value: '2006'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+ics:
+  code: '29.180'
+  text: Relays

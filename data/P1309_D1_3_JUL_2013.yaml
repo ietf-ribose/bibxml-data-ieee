@@ -1,0 +1,80 @@
+---
+id: IEEEP1309/D1.3,July2013
+title:
+- type: title-main
+  content: IEEE Approved Draft Standard for Calibration of Electromagnetic Field Sensors
+    and Probes, Excluding Antennas, from 9 kHz to 40 GHz
+  format: text/plain
+- type: main
+  content: IEEE Approved Draft Standard for Calibration of Electromagnetic Field Sensors
+    and Probes, Excluding Antennas, from 9 kHz to 40 GHz
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/6566009
+  type: src
+type: standard
+docid:
+- id: IEEE P1309/D1.3, July 2013
+  type: IEEE
+- id: 978-0-7381-8547-7
+  type: ISBN
+docnumber: P1309/D1.3, Jul 2013
+date:
+- type: created
+  value: '2013-11-22'
+- type: published
+  value: '2013-07-23'
+- type: issued
+  value: '2013-10-31'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: Piscataway
+      country: USA
+  role: publisher
+revdate: '2013-07-23'
+language: en
+script: Latn
+abstract:
+  content: Consensus calibration methods for electromagnetic (EM) field sensors and
+    probes are provided. Data recording and reporting requirements are given, and
+    methods for estimating measurement uncertainty are specified.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2013'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 1309-2005 (Revision of IEEE Std 1309-1996)
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+fetched: '2021-09-27'
+keyword:
+- IEEE standards
+- Calibration
+- Electric field measurements
+- Measurement uncertainty
+- Electromagnetic fields
+- calibration
+- electric field measurement
+- electromagnetic
+- field probe
+- field sensor
+- instrumentation measurement uncertainty
+ics:
+  code: 17.220.01
+  text: Electricity. Magnetism. General aspects

@@ -1,0 +1,106 @@
+---
+id: InternationalStandardISO/IEC8802-9-1996(E)ANSI/IEEEStd802.9,1996Edition
+title:
+- type: title-intro
+  content: ISO/IEC/IEEE International Standard Information technology
+  format: text/plain
+- type: title-main
+  content: Telecommunications and information exchange between systems
+  format: text/plain
+- type: title-part
+  content: 'Local and metropolitan area networks -- Specific requirements -- Part
+    9: Integrated Services (IS) LAN Interface at the Medium Access Control (MAC) and
+    Physical (PHY) Layers'
+  format: text/plain
+- type: main
+  content: 'ISO/IEC/IEEE International Standard Information technology - Telecommunications
+    and information exchange between systems - Local and metropolitan area networks
+    -- Specific requirements -- Part 9: Integrated Services (IS) LAN Interface at
+    the Medium Access Control (MAC) and Physical (PHY) Layers'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/6804712
+  type: src
+type: standard
+docid:
+- id: 'International Standard ISO/IEC 8802-9: 1996(E) ANSI/IEEE Std 802.9, 1996 Edition'
+  type: IEEE
+- id: 978-0-7381-0298-6
+  type: ISBN
+- id: 10.1109/IEEESTD.1997.6804712
+  type: DOI
+docnumber: 8802-9-1996
+date:
+- type: created
+  value: '1997'
+- type: published
+  value: '2014-04-23'
+- type: issued
+  value: '2014-04-23'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: Piscataway
+      country: USA
+  role: publisher
+revdate: '2014-04-23'
+language: en
+script: Latn
+abstract:
+  content: A unified access method that offers integrated services (IS) to the desktop
+    for a variety of publicly and privately administered backbone networks (e.g.,
+    ANSI FDDI, IEEE 802.x and ISDN) is defined. In addition, the interface at the
+    MAC sublayer and the PHY Layer is specified.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+  - name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  - name: ISO
+  - name: IEC
+  from: '1996'
+keyword:
+- IEEE standards
+- ISO standards
+- IEC standards
+- Information technology
+- Local area networks
+- Metropolitan area networks
+- Information exchange
+- Media Access Protocol
+- access unit (AU)
+- data link layer
+- hybrid multiplexer (HMUX)
+- integrated services digital network
+- ISDN
+- intergrated services terminal equipment
+- ISTE
+- layer management entity
+- LAN
+- logical link control
+- managed object
+- management information base (MIB)
+- MAC
+- medium access control
+- MAN
+- physical medium dependent
+- physical signalling
+- private switching network
+- protocol data unit (PDU)
+- service access point
+- time division multiplexer (TDM)
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: 35.100.20
+  text: Data link layer
+- code: '35.110'
+  text: Networking
+- code: '35.200'
+  text: Interface and interconnection equipment

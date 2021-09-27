@@ -1,0 +1,56 @@
+---
+id: IEEEStd1532-2002(RevisionofIEEEStd1532-2001)
+title:
+- type: title-main
+  content: IEEE Standard for In-System Configuration of Programmable Devices
+  format: text/plain
+- type: main
+  content: IEEE Standard for In-System Configuration of Programmable Devices
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/1176958
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1532-2002 (Revision of IEEE Std 1532-2001)
+  type: IEEE
+- id: 0-7381-3507-0
+  type: ISBN
+- id: 10.1109/IEEESTD.2003.94229
+  type: DOI
+docnumber: 1532-2002
+date:
+- type: created
+  value: '2003'
+- type: issued
+  value: '2002-12-11'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: The communication protocol described by IEEE Std 1149.1-2001 (Standard
+    Test Access Port and Boundary-Scan Architecture) has been adopted by this standard
+    for providing standardized programming access and methodology for programmable
+    integrated circuit devices. Devices that implement this standard will first be
+    compliant with IEEE Std 1149.1-2001, which is used for testing purposes. A device,
+    or set of devices, implementing this standard can be programmed (written), read
+    back, erased, and verified, singly or concurrently, with a standardized set of
+    resources. Sample implementation and application details (which are not part of
+    this standard) are included for illustrative purposes.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2003'
+ics:
+  code: '35.180'
+  text: IT terminal and other peripheral equipment

@@ -1,0 +1,67 @@
+---
+id: IEEEStd610.7-1995
+title:
+- type: title-main
+  content: IEEE Standard Glossary of Computer Networking Terminology
+  format: text/plain
+- type: main
+  content: IEEE Standard Glossary of Computer Networking Terminology
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/467542
+  type: src
+type: standard
+docid:
+- id: IEEE Std 610.7-1995
+  type: IEEE
+- id: 0-7381-4575-0
+  type: ISBN
+- id: 10.1109/IEEESTD.1995.122636
+  type: DOI
+docnumber: 610.7-1995
+date:
+- type: updated
+  value: '1995-09-26'
+- type: created
+  value: '1995'
+- type: issued
+  value: '1995-06-14'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: 'Terms that pertain to data communications and networking, from the following
+    areas, are defined: data transmission, general communications, general networks,
+    local area networks, network communications security, network errors, networking
+    hardware, network management, network nodes, network signaling, open system architecture,
+    packet, protocols, standards and standards organizations, telephony. The glossary
+    is primarily a compilation of terms defined in individual IEEE standards, but
+    also includes a number of common terms.<<ETX>>'
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1995'
+keyword:
+- IEEE standards
+- Terminology
+- Computer networks
+- Data communication
+- Communication standards
+ics:
+- code: 01.040.35
+  text: Information technology. Office machines (Vocabularies)
+- code: '35.110'
+  text: Networking

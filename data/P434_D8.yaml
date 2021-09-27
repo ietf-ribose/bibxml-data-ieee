@@ -1,0 +1,44 @@
+---
+id: IEEEStdP434/D8
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Guide for Functional Evaluation of Insulation Systems
+    for AC Electric Machines Rated 2300 V and Above (Superseded by D9)
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Guide for Functional Evaluation of Insulation Systems
+    for AC Electric Machines Rated 2300 V and Above (Superseded by D9)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040179
+  type: src
+type: standard
+docid:
+- id: IEEE Std P434/D8
+  type: IEEE
+- id: 978-1-5044-3175-0
+  type: ISBN
+docnumber: P434/D8
+date:
+  type: created
+  value: '2005'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2005'
+ics:
+  code: 29.080.30
+  text: Insulation systems

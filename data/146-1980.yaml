@@ -1,0 +1,45 @@
+---
+id: ANSI/IEEEStd146-1980
+title:
+- type: title-main
+  content: IEEE Standard Definitions of Fundamental Waveguide Terms
+  format: text/plain
+- type: main
+  content: IEEE Standard Definitions of Fundamental Waveguide Terms
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/574714
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 146-1980
+  type: IEEE
+- id: 0-7381-4170-4
+  type: ISBN
+- id: 10.1109/IEEESTD.1980.81713
+  type: DOI
+docnumber: 146-1980
+date:
+- type: created
+  value: '1980'
+- type: issued
+  value: '1980-03-13'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1980'
+ics:
+- code: 01.040.33
+  text: Telecommunications. Audio and video engineering (Vocabularies)
+- code: 33.120.10
+  text: Coaxial cables. Waveguides

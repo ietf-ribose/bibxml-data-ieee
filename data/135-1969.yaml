@@ -1,0 +1,68 @@
+---
+id: IEEEStdNo.135
+title:
+- type: title-main
+  content: IEEE Recommended Practice for Aircraft, Missile, and Space Equipment Electrical
+    Insulation Tests
+  format: text/plain
+- type: main
+  content: IEEE Recommended Practice for Aircraft, Missile, and Space Equipment Electrical
+    Insulation Tests
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/19462
+  type: src
+type: standard
+docid:
+- id: IEEE Std No.135
+  type: IEEE
+- id: 0-7381-4550-5
+  type: ISBN
+- id: 10.1109/IEEESTD.1969.120233
+  type: DOI
+docnumber: 135-1969
+date:
+- type: created
+  value: '1969'
+- type: issued
+  value: '1969'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: It is the purpose of this Recommended Practice to define acceptable methods
+    of testing electrical insulation in flight electric equipment. Test procedures
+    are recommended for inspection of equipment electrical insulation to determine
+    its flight worthiness after service, repair, and/or periods of storage. This Recommended
+    Practice is intended only as a guide to acceptable procedure. It is not intended
+    to be used as a test specification for specific equipment. The values of test
+    voltages and other test conditions for specific equipment are always determined
+    by the procurement specification for that particular equipment.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1969'
+keyword:
+- Aircraft
+- Inspection
+- Insulation testing
+- Maintenance
+- Missiles
+- Space vehicle power systems
+- Standards
+ics:
+  code: '49.060'
+  text: Aerospace electric equipment and systems

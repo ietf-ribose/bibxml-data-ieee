@@ -1,0 +1,46 @@
+---
+id: IEEEUnapprovedDraftStdP1900.2_D4,Oct2007
+title:
+- type: title-main
+  content: IEEE Draft Recommended Practice for the Analysis of In-Band and Adjacent
+    Band Interference and Coexistence Between Radio Systems
+  format: text/plain
+- type: main
+  content: IEEE Draft Recommended Practice for the Analysis of In-Band and Adjacent
+    Band Interference and Coexistence Between Radio Systems
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4360097
+  type: src
+type: standard
+docid:
+- id: IEEE Unapproved Draft Std P1900.2_D4, Oct 2007
+  type: IEEE
+- id: 978-1-5044-3135-4
+  type: ISBN
+docnumber: P1900.2_D4, Oct 2007
+date:
+  type: created
+  value: '2007'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+ics:
+- code: 33.060.01
+  text: Radiocommunications in general
+- code: '35.110'
+  text: Networking

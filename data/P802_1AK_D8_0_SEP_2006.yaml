@@ -1,0 +1,44 @@
+---
+id: IEEEStdP802.1ak/D8.0,Sep2006
+title:
+- type: title-main
+  content: 'Unapproved IEEE Draft Standard for Local and Metropolitan Area Networks-Virtual
+    Bridged Local Area Networks- Amendment 07: Multiple Registration Protocol'
+  format: text/plain
+- type: main
+  content: 'Unapproved IEEE Draft Standard for Local and Metropolitan Area Networks-Virtual
+    Bridged Local Area Networks- Amendment 07: Multiple Registration Protocol'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4152558
+  type: src
+type: standard
+docid:
+  id: IEEE Std P802.1ak/D8.0, Sep 2006
+  type: IEEE
+docnumber: P802.1ak/D8.0, Sep 2006
+date:
+  type: created
+  value: '2006'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+ics:
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer

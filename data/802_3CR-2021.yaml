@@ -1,0 +1,93 @@
+---
+id: IEEEStd802.3cr-2021(AmendmenttoIEEEStd802.3-2018asamendedbyIEEE802.3cb-2018,IEEE802.3bt-2018,IEEE802.3cd-2018,IEEE802.3cn-2019,IEEE802.3cg-2019,IEEE802.3cq-2020,IEEE802.3cm-2020,IEEE802.3ch-2020,andIEEE802.3ca-2020)
+title:
+- type: title-main
+  content: 'IEEE Standard for Ethernet Amendment 10: Maintenance #14: Isolation'
+  format: text/plain
+- type: main
+  content: 'IEEE Standard for Ethernet Amendment 10: Maintenance #14: Isolation'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/9361511
+  type: src
+type: standard
+docid:
+- id: IEEE Std 802.3cr-2021 (Amendment to IEEE Std 802.3-2018 as amended by IEEE 802.3cb-2018,
+    IEEE 802.3bt-2018, IEEE 802.3cd-2018, IEEE 802.3cn-2019, IEEE 802.3cg-2019, IEEE
+    802.3cq-2020, IEEE 802.3cm-2020, IEEE 802.3ch-2020, and IEEE 802.3ca-2020)
+  type: IEEE
+- id: 978-1-5044-7381-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2021.9361511
+  type: DOI
+docnumber: 802.3cr-2021
+date:
+- type: updated
+  value: '2021-04-16'
+- type: created
+  value: '2021-02-24'
+- type: published
+  value: '2021-02-23'
+- type: issued
+  value: '2021-02-09'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2021-02-23'
+language: en
+script: Latn
+abstract:
+- content: This amendment to IEEE Std 802.3-2018 replaces references to the IEC 60950
+    series of standards with appropriate references to the IEC 62368 series and makes
+    appropriate changes to the standard corresponding to the new references.
+  language: en
+  script: Latn
+  format: text/plain
+- content: This amendment to IEEE Std 802.3-2018 replaces references to the IEC 60950
+    series of standards with appropriate references to the IEC 62368 series and makes
+    appropriate changes to the standard corresponding to the new references. (The
+    PDF of this standard is available at no cost to you compliments of the IEEE GET
+    program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2021'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)
+      format: text/plain
+  description:
+    content: amends
+    language: en
+    script: Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Ethernet
+- Safety
+- Maintenance engineering
+- Ethernet
+- IEC 60950
+- IEC 62368
+- IEEE 802.3&#8482;
+- IEEE 802.3cr&#8482;
+- isolation
+- safety
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking

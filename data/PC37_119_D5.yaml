@@ -1,0 +1,44 @@
+---
+id: IEEEStdPC37.119/D5
+title:
+- type: title-main
+  content: Unapproved Draft IEEE Guide for Breaker Failure Protection of Power Circuit
+    Breakers (Superseded by Approved IEEE Draft)
+  format: text/plain
+- type: main
+  content: Unapproved Draft IEEE Guide for Breaker Failure Protection of Power Circuit
+    Breakers (Superseded by Approved IEEE Draft)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040684
+  type: src
+type: standard
+docid:
+- id: IEEE Std PC37.119/D5
+  type: IEEE
+- id: 978-1-5044-3430-0
+  type: ISBN
+docnumber: PC37.119/D5
+date:
+  type: created
+  value: '2004'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2004'
+ics:
+  code: 29.120.40
+  text: Switches

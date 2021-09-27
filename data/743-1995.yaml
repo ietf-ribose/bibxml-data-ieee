@@ -1,0 +1,58 @@
+---
+id: IEEEStd743-1995
+title:
+- type: title-main
+  content: IEEE Standard Equipment Requirements and Measurement Techniques for Analog
+    Transmission Parameters for Telecommunications
+  format: text/plain
+- type: main
+  content: IEEE Standard Equipment Requirements and Measurement Techniques for Analog
+    Transmission Parameters for Telecommunications
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/531663
+  type: src
+type: standard
+docid:
+- id: IEEE Std 743-1995
+  type: IEEE
+- id: 1-55937-714-3
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.81076
+  type: DOI
+docnumber: 743-1995
+date:
+- type: created
+  value: '1996'
+- type: issued
+  value: '1995-12-12'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Performance requirements for test equipment that measures the analog transmission
+    parameters of subscriber loops, message trunks, PBX trunks, and ties lines are
+    specified. Requirements for these measurements with DS1 bit stream access are
+    also provided. The measurement of loss, noise, and impulse noise on non-loaded
+    cable pairs used for digital subscriber lines is also addressed.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+keyword: Communication standards
+ics:
+  code: 33.060.20
+  text: Receiving and transmitting equipment

@@ -1,0 +1,47 @@
+---
+id: IEEEUnapprovedDraftStdPC57.13.1/D8.0,Jul2006
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Guide for Field Testing of Relaying Current Transformers
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Guide for Field Testing of Relaying Current Transformers
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4197875
+  type: src
+type: standard
+docid:
+  id: IEEE Unapproved Draft Std PC57.13.1/D8.0, Jul 2006
+  type: IEEE
+docnumber: PC57.13.1/D8.0, Jul 2006
+date:
+  type: created
+  value: '2007'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2007'
+relation:
+  type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE Std C57.13.1-2017 (Revision of IEEE Std C57.13.1-2006)
+      format: text/plain
+fetched: '2021-09-27'
+ics:
+  code: '29.200'
+  text: Rectifiers. Converters. Stabilized power supply

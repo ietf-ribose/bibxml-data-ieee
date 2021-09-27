@@ -1,0 +1,73 @@
+---
+id: IEEEStd1073.3.1-1994
+title:
+- type: title-main
+  content: IEEE Standard for Medical Device Communications-Transport Profile-Connection
+    Mode
+  format: text/plain
+- type: main
+  content: IEEE Standard for Medical Device Communications-Transport Profile-Connection
+    Mode
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/467513
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1073.3.1-1994
+  type: IEEE
+- id: 0-7381-0672-0
+  type: ISBN
+- id: 10.1109/IEEESTD.1995.122628
+  type: DOI
+docnumber: 1073.3.1-1994
+date:
+- type: updated
+  value: '1995-09-18'
+- type: created
+  value: '1995'
+- type: issued
+  value: '1994-12-13'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: A local area network (LAN) for the interconnection of computers and medical
+    devices is defined by the specifications and guidelines set forth in this standard.
+    The functions, features, and protocols of the intra-room communications subnet
+    of a bedside communications network known as the Medical Information Bus (MIB)
+    are defined. This communications subnet is the functional equivalent for the MIB
+    of the transport, network, data link, and physical layers of the organization
+    for international standards (ISO) reference model for open systems interconnection
+    (OSI). This standard defines the services and protocols for the MIB transport,
+    network, and data link layers.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1995'
+keyword:
+- IEEE standards
+- Communication standards
+- Open systems
+- ISO
+- Transport protocols
+- Biomedical communication
+- Biomedical equipment
+- Local area networks
+- Interconnected systems
+ics:
+  code: 35.240.80
+  text: IT applications in health care technology

@@ -1,0 +1,63 @@
+---
+id: ANSI/IEEEStd641-1987
+title:
+- type: title-main
+  content: IEEE Standard Definitions and Characterization of Metal Nitride Oxide Semiconductor
+    Arrays
+  format: text/plain
+- type: main
+  content: IEEE Standard Definitions and Characterization of Metal Nitride Oxide Semiconductor
+    Arrays
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/26538
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 641-1987
+  type: IEEE
+- id: 0-7381-4235-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1988.79517
+  type: DOI
+docnumber: 641-1987
+date:
+- type: created
+  value: '1988'
+- type: issued
+  value: '1987'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: 'This standard has ten sections: an introduction to the MNOS device and
+    memory array; symbols and definitions; references that contain added detail on
+    specific concepts; MNOS arrays and functional operations; MNOS array retention;
+    MNOS array endurance property; reliability considerations for MNOS arrays; the
+    testing methodology necessary to establish the unique properties of the MNOS array
+    for both the consumer and the producer; radiation effects on MNOS arrays; and
+    nonvolatile memory technology, called floating-gate.<<ETX>>'
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1988'
+keyword:
+- MIS devices
+- Radiation effects
+- Semiconductor memories
+ics:
+  code: 31.080.01
+  text: Semiconductor devices in general

@@ -1,0 +1,44 @@
+---
+id: IEEEStdP539/D7
+title:
+- type: title-main
+  content: Unapproved Draft IEEE Standard Definitions of Terms Relating to Corona
+    and Field Effects of Overhead Power Lines (Superseded by Approved IEEE Draft)
+  format: text/plain
+- type: main
+  content: Unapproved Draft IEEE Standard Definitions of Terms Relating to Corona
+    and Field Effects of Overhead Power Lines (Superseded by Approved IEEE Draft)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040522
+  type: src
+type: standard
+docid:
+  id: IEEE Std P539/D7
+  type: IEEE
+docnumber: P539/D7
+date:
+  type: created
+  value: '2004'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2004'
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: 29.240.20
+  text: Power transmission and distribution lines

@@ -1,0 +1,60 @@
+---
+id: ANSI/IEEEStd1004-1987
+title:
+- type: title-main
+  content: IEEE Standard Definitions of Planar Transmission Lines
+  format: text/plain
+- type: main
+  content: IEEE Standard Definitions of Planar Transmission Lines
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/26475
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 1004-1987
+  type: IEEE
+- id: 0-7381-4135-6
+  type: ISBN
+- id: 10.1109/IEEESTD.1988.122167
+  type: DOI
+docnumber: 1004-1987
+date:
+- type: created
+  value: '1988'
+- type: issued
+  value: '1987-12-10'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: It has been recognized that a standard was needed for planar transmission
+    lines which are an important transmission medium in hybrid and monolithic circuits.
+    The purpose of this standard is to provide a uniform basis of understanding, communication,
+    and definition to benefit those engaged in the use and design of planar transmission
+    lines. The standard provides definitions of the planar transmission line configurations
+    and also their physical and electrical characteristics.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1988'
+keyword:
+- Standards
+- Stripline
+- Transmission lines
+ics:
+  code: 33.120.10
+  text: Coaxial cables. Waveguides

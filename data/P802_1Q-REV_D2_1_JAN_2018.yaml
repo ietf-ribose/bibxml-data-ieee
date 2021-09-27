@@ -1,0 +1,95 @@
+---
+id: IEEEP802.1Q-REV/D2.1,January2018(DraftRevisionofIEEE802.1Q-2014,incorporatingIEEEQcd-2015,IEEE802.1Qca-2015,IEEE802.1Q-2014Cor1-2015IEEE802.1Qbv-2015,IEEE802.1Qbu-2016,IEEE802.1Qbz-2016IEEE802.1Qci-2017,IEEE802,1Qch-2017)
+title:
+- type: title-main
+  content: IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and
+    Bridged Networks
+  format: text/plain
+- type: main
+  content: IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and
+    Bridged Networks
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/8253613
+  type: src
+type: standard
+docid:
+- id: IEEE P802.1Q-REV/D2.1, January 2018 (Draft Revision of IEEE 802.1Q-2014, incorporating
+    IEEE Qcd-2015, IEEE 802.1Qca-2015, IEEE 802.1Q-2014 Cor 1-2015 IEEE 802.1Qbv-2015,
+    IEEE 802.1 Qbu-2016, IEEE 802.1Qbz-2016 IEEE 802.1Qci-2017, IEEE 802,1Qch-2017)
+  type: IEEE
+- id: 978-1-5044-4625-9
+  type: ISBN
+docnumber: P802.1Q-REV/D2.1, Jan 2018
+date:
+- type: created
+  value: '2018-01-01'
+- type: published
+  value: '2018-01-10'
+- type: issued
+  value: '2018-05-07'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2018-01-10'
+language: en
+script: Latn
+abstract:
+  content: This standard specifies how the Media Access Control (MAC) Service is supported
+    by Bridged Networks, the principles of operation of those networks, and the operation
+    of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2018'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 802.1Q-2014 (Revision of IEEE Std 802.1Q-2011)
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+fetched: '2021-09-27'
+keyword:
+- IEEE Standards
+- Bridged circuits
+- Local area networks
+- Metropolitan area networks
+- Shortest path problem
+- Bridged Network
+- IEEE 802.1Q(TM)
+- LAN
+- local area network
+- MAC Bridge
+- metropolitan area network
+- MSTP
+- Multiple Spanning Tree Protocol
+- Rapid Spanning Tree Protocol
+- RSTP
+- PBN
+- Provider Bridged Network
+- Shortest Path Bridging Protocol
+- SPB Protocol
+- Time-Sensitive Networking
+- TSN
+- Virtual Bridged Network
+- virtual LAN
+- VLAN Bridge
+ics:
+  code: '35.110'
+  text: Networking

@@ -1,0 +1,58 @@
+---
+id: GuideforImplementingIEEEStd1512-UsingaSystemsEngineeringProcess
+title:
+- type: title-main
+  content: 'IEEE  Standard for Common Incident Management Message Sets for Use by
+    Emergency Management Centers '
+  format: text/plain
+- type: main
+  content: 'IEEE  Standard for Common Incident Management Message Sets for Use by
+    Emergency Management Centers '
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4669528
+  type: src
+type: standard
+docid:
+- id: 'Guide for Implementing IEEE Std 1512: Using a Systems Engineering Process'
+  type: IEEE
+- id: 978-0-7381-5674-3
+  type: ISBN
+- id: 10.1109/IEEESTD.2008.4669528
+  type: DOI
+docnumber: 1512 Guide
+date:
+  type: created
+  value: '2008-11-04'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: The purpose of the IEEE 1512 Implementation Guide is to provide guidelines
+    for and assistance with the implementation process of IEEE Std 1512. This guide
+    presents information and examples on how to facilitate the development of needs,
+    requirements, and design content that can be used during the procurement, implementation,
+    and verification phases of the system life cycle for projects that use IEEE Std
+    1512.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2008'
+keyword:
+- Emergency services
+- Message services
+- Message systems
+- Intelligent transportation systems
+ics:
+  code: 35.240.60
+  text: IT applications in transport and trade

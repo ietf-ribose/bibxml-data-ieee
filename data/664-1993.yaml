@@ -1,0 +1,61 @@
+---
+id: IEEEStd664-1993
+title:
+- type: title-main
+  content: IEEE Guide for Laboratory Measurement of the Power Dissipation Characteristics
+    of Aeolian Vibaration
+  format: text/plain
+- type: main
+  content: IEEE Guide for Laboratory Measurement of the Power Dissipation Characteristics
+    of Aeolian Vibaration
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/286129
+  type: src
+type: standard
+docid:
+- id: IEEE Std 664-1993
+  type: IEEE
+- id: 0-7381-0364-0
+  type: ISBN
+- id: 10.1109/IEEESTD.1993.119669
+  type: DOI
+docnumber: 664-1993
+date:
+- type: created
+  value: '1993'
+- type: issued
+  value: '1993-09-15'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: 'The current methodologies, including apparatus, procedures, and measurement
+    accuracies, for determining the dynamic characteristics of vibration dampers and
+    damping systems are described. Some basic guidance is provided regarding a given
+    method¿s strengths and weaknesses. The methodologies and procedures described
+    are applicable to indoor testing only. Keywords: aeolian, decay method, forced
+    response method, inverse standing wave ratio (ISWR) method, overhead conductors,
+    power dissipation characteristics, power method, vibration dampers.'
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1993'
+keyword:
+- IEEE Standards
+- Power measurement
+- Power dissipation
+- Vibrations
+ics:
+  code: 29.240.20
+  text: Power transmission and distribution lines

@@ -1,0 +1,57 @@
+---
+id: IEEEStd1026-1995
+title:
+- type: title-main
+  content: IEEE Recommended Practice for Test Methods for Determination of Compatibility
+    of Materials With Conductive Polymeric Insulation Shields and Jackets
+  format: text/plain
+- type: main
+  content: IEEE Recommended Practice for Test Methods for Determination of Compatibility
+    of Materials With Conductive Polymeric Insulation Shields and Jackets
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/499844
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1026-1995
+  type: IEEE
+- id: 1-55937-590-6
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.81008
+  type: DOI
+docnumber: 1026-1995
+date:
+- type: created
+  value: '1996'
+- type: issued
+  value: '1995-12-14'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: In this IEEE Standard a test method is provided to qualify various essentially
+    nonvolatile, highly viscous fluids or solid materials at 90/spl deg/C, for use
+    with high-voltage cable shields and jackets. A suggested alternative test method
+    for more fluid and more volatile materials is also provided.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+keyword: Power cable shielding
+ics:
+  code: 29.035.20
+  text: Plastic and rubber insulating materials

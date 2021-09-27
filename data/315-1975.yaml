@@ -1,0 +1,56 @@
+---
+id: IEEEStd315-1975(Reaffirmed1993)
+title:
+- type: title-main
+  content: IEEE Standard American National Standard Canadian Standard Graphic Symbols
+    for Electrical and Electronics Diagrams (Including Reference Designation Letters)
+  format: text/plain
+- type: main
+  content: IEEE Standard American National Standard Canadian Standard Graphic Symbols
+    for Electrical and Electronics Diagrams (Including Reference Designation Letters)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/985670
+  type: src
+type: standard
+docid:
+- id: IEEE Std 315-1975 (Reaffirmed 1993)
+  type: IEEE
+- id: 978-0-7381-0947-3
+  type: ISBN
+- id: 10.1109/IEEESTD.1993.93397
+  type: DOI
+docnumber: 315-1975
+date:
+- type: created
+  value: '1993'
+- type: issued
+  value: '1975-09-04'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1993'
+keyword:
+- IEEE Standards
+- Symbols
+- Graphics
+- Electrical engineering
+ics:
+- code: 01.080.40
+  text: Graphical symbols for use on electrical and electronics engineering technical
+    drawings, diagrams, plans and in relevant technical product documentation
+- code: '29.020'
+  text: Electrical engineering in general

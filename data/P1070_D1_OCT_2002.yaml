@@ -1,0 +1,46 @@
+---
+id: IEEEStdP1070/D1
+title:
+- type: title-main
+  content: Unapproved Draft IEEE Guide for the Design and Testing of Transmission
+    Modular Restoration Structure Components (Revision of IEEE 1070-1988) Superseded
+    by D3
+  format: text/plain
+- type: main
+  content: Unapproved Draft IEEE Guide for the Design and Testing of Transmission
+    Modular Restoration Structure Components (Revision of IEEE 1070-1988) Superseded
+    by D3
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040035
+  type: src
+type: standard
+docid:
+- id: IEEE Std P1070/D1
+  type: IEEE
+- id: 978-1-5044-4017-2
+  type: ISBN
+docnumber: P1070/D1, Oct 2002
+date:
+  type: created
+  value: '2002'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2002'
+ics:
+  code: 29.240.30
+  text: Control equipment for electric power systems

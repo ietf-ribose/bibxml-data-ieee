@@ -1,0 +1,72 @@
+---
+id: ISO/IEC/IEEEP15289-2016,3rdEdFDIS/D2
+title:
+- type: title-intro
+  content: ISO/IEC/IEEE Draft International Standard
+  format: text/plain
+- type: title-main
+  content: Systems and software engineering -- Content of life-cycle information items
+    (documentation)
+  format: text/plain
+- type: main
+  content: ISO/IEC/IEEE Draft International Standard - Systems and software engineering
+    -- Content of life-cycle information items (documentation)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/7551076
+  type: src
+type: standard
+docid:
+- id: ISO/IEC/IEEE P15289:2016, 3rd Ed FDIS/D2
+  type: IEEE
+- id: 978-1-5044-2286-4
+  type: ISBN
+docnumber: P15289:2016, 3rd Ed FDIS/D2
+date:
+- type: created
+  value: '2016-01-01'
+- type: published
+  value: '2016-08-24'
+- type: issued
+  value: '2016'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: Piscataway
+      country: USA
+  role: publisher
+revdate: '2016-08-24'
+language: en
+script: Latn
+copyright:
+  owner:
+  - name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  - name: ISO
+  - name: IEC
+  from: '2016'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: ISO/IEC/IEEE 15289:2015(E)
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+fetched: '2021-09-27'
+keyword:
+- IEEE Standards
+- ISO Standards
+- IEC Standards
+- Software engineering
+- Documentation
+ics:
+  code: '35.080'
+  text: Software

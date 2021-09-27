@@ -1,0 +1,49 @@
+---
+id: IEEEStdP1073.1.3.5/D0.04
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Standard for Medical Device Communications -Medical
+    Device Data Language (MDDL) Virtual Medical Device, Specialized -Cardiac Output
+    (Withdrawn PAR)
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Standard for Medical Device Communications -Medical
+    Device Data Language (MDDL) Virtual Medical Device, Specialized -Cardiac Output
+    (Withdrawn PAR)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4040059
+  type: src
+type: standard
+docid:
+  id: IEEE Std P1073.1.3.5/D0.04
+  type: IEEE
+docnumber: P1073.1.3.10
+date:
+  type: created
+  value: '2000'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Withdrawn PAR
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2000'
+ics:
+  code: 35.240.80
+  text: IT applications in health care technology

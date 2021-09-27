@@ -1,0 +1,51 @@
+---
+id: IEEEStd802.11F-2003
+title:
+- type: title-main
+  content: IEEE Trial-Use Recommended Practice for Multi-Vendor Access Point Interoperability
+    Via an Inter-Access Point Protocol Across Distribution Systems Supporting IEEE
+    802.11 Operation
+  format: text/plain
+- type: main
+  content: IEEE Trial-Use Recommended Practice for Multi-Vendor Access Point Interoperability
+    Via an Inter-Access Point Protocol Across Distribution Systems Supporting IEEE
+    802.11 Operation
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/1237538
+  type: src
+type: standard
+docid:
+- id: IEEE Std 802.11F-2003
+  type: IEEE
+- id: 0-7381-3699-9
+  type: ISBN
+- id: 10.1109/IEEESTD.2003.94384
+  type: DOI
+docnumber: 802.11F-2003
+date:
+- type: created
+  value: '2003'
+- type: issued
+  value: '2003-06-12'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2003'
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer

@@ -1,0 +1,68 @@
+---
+id: IEEEStd1094-1991
+title:
+- type: title-main
+  content: IEEE Recommended Practice for the Electrical Design and Operation of Windfarm
+    Generating Stations
+  format: text/plain
+- type: main
+  content: IEEE Recommended Practice for the Electrical Design and Operation of Windfarm
+    Generating Stations
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/210965
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1094-1991
+  type: IEEE
+- id: 0-7381-4571-8
+  type: ISBN
+- id: 10.1109/IEEESTD.1991.114380
+  type: DOI
+docnumber: 1094-1991
+date:
+- type: created
+  value: '1991'
+- type: issued
+  value: '1991-04-30'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Design information and procedures for the interconnection of multiple wind
+    turbines (a windfarm generating station) with an electrical utility are presented.
+    Issues relating to the interface with the utility and the electrical system between
+    the utility and the individual wind turbines (an intraplant electrical system)
+    are addressed. Recommended practices for monitoring systems, protection systems,
+    and safe operations for personnel and equipment are provided. The aim is to facilitate
+    sound and economic engineering design and safe operations of a windfarm generating
+    station.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1991'
+keyword:
+- Monitoring
+- Interconnected power systems
+- Protection
+- Safety
+- Standards
+- Wind power generation
+- Turbines
+ics:
+  code: '27.180'
+  text: Wind turbine energy systems

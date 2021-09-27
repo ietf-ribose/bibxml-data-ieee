@@ -1,0 +1,60 @@
+---
+id: IEEEStd1368-2006
+title:
+- type: title-main
+  content: IEEE Guide for Aeolian Vibration Field Measurement of Overhead Conductors
+  format: text/plain
+- type: main
+  content: IEEE Guide for Aeolian Vibration Field Measurement of Overhead Conductors
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4233115
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1368-2006
+  type: IEEE
+- id: 0-7381-5308-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2006.371267
+  type: DOI
+docnumber: 1368-2006
+date:
+- type: updated
+  value: '2008-02-11'
+- type: created
+  value: '2006'
+- type: issued
+  value: '2006-12-06'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Current practices related to field measurements of aeolian vibration of
+    overhead conductors are covered in this guide.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2006'
+keyword:
+- IEEE Standards
+- Power transmission lines
+- Conductors
+- Vibration measurement
+- Field measurements
+ics:
+  code: 29.240.20
+  text: Power transmission and distribution lines

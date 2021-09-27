@@ -1,0 +1,40 @@
+---
+id: IEEEStdP1010/10,Feb2005
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Guide for Control of Hydroelectric Power Plants
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Guide for Control of Hydroelectric Power Plants
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4152749
+  type: src
+type: standard
+docid:
+  id: IEEE Std P1010/10, Feb 2005
+  type: IEEE
+docnumber: P1010/10, Feb 2005
+date:
+  type: created
+  value: '2005'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2005'
+ics:
+  code: '27.140'
+  text: Hydraulic energy engineering

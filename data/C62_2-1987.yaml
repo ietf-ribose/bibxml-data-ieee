@@ -1,0 +1,64 @@
+---
+id: ANSI/IEEEStdC62.2-1987
+title:
+- type: title-main
+  content: IEEE Guide for the Application of Gapped Silicon-Carbide Surge Arresters
+    for Alternating Current Systems
+  format: text/plain
+- type: main
+  content: IEEE Guide for the Application of Gapped Silicon-Carbide Surge Arresters
+    for Alternating Current Systems
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/26481
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std C62.2-1987
+  type: IEEE
+- id: 0-7381-3016-8
+  type: ISBN
+- id: 10.1109/IEEESTD.1989.122641
+  type: DOI
+docnumber: C62.2-1987
+date:
+- type: created
+  value: '1989'
+- type: issued
+  value: '1987-03-12'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This standard covers the application of gapped silicon-carbide surge arresters
+    to safeguard electric power equipment against the hazards of abnormally high voltage
+    surges of various origins. Such overvoltages may cause flashovers and serious
+    damage to equipment, thereby jeopardizing the supply of power to users. It is
+    essential to prevent this by the proper coordination of surge protection devices
+    with the insulation strength of the protected equipment.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1989'
+keyword:
+- Carbon compounds
+- Overvoltage protection
+- Power system protection
+- Silicon compounds
+- Surge protection
+ics:
+  code: 29.240.10
+  text: Substations. Surge arresters

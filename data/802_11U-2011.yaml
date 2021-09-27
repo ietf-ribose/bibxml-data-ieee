@@ -1,0 +1,119 @@
+---
+id: AmendmenttoIEEEStd802.11-2007asamendedbyIEEEStd802.11k-2008,IEEEStd802.11r-2008,IEEEStd802.11y-2008,IEEEStd802.11w-2009,IEEEStd802.11n-2009,IEEEStd802.11p-2010,IEEEStd802.11z-2010,andIEEEStd802.11v-2011
+title:
+- type: title-main
+  content: 'IEEE Standard for Information Technology-Telecommunications and information
+    exchange between systems-Local and Metropolitan networks-specific requirements-Part
+    II: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications:
+    Amendment 9: Interworking with External Networks'
+  format: text/plain
+- type: main
+  content: 'IEEE Standard for Information Technology-Telecommunications and information
+    exchange between systems-Local and Metropolitan networks-specific requirements-Part
+    II: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications:
+    Amendment 9: Interworking with External Networks'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/5721908
+  type: src
+type: standard
+docid:
+- id: Amendment to IEEE Std 802.11-2007 as amended by IEEE Std 802.11k-2008, IEEE
+    Std 802.11r-2008, IEEE Std 802.11y-2008, IEEE Std 802.11w-2009, IEEE Std 802.11n-2009,
+    IEEE Std 802.11p-2010, IEEE Std 802.11z-2010, and IEEE Std 802.11v-2011
+  type: IEEE
+- id: 978-0-7381-6538-7
+  type: ISBN
+- id: 10.1109/IEEESTD.2011.5721908
+  type: DOI
+docnumber: 802.11u-2011
+date:
+- type: updated
+  value: '2011-03-14'
+- type: created
+  value: '2011-02-25'
+- type: published
+  value: '2019-04-05'
+- type: issued
+  value: '2011-02-02'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+revdate: '2019-04-05'
+language: en
+script: Latn
+abstract:
+- content: This amendment specifies enhancements to the IEEE 802.11 medium access
+    control (MAC) that support wireless local area network (WLAN) interworking with
+    external networks. It enables higher layer functionalities to provide overall
+    end-to-end solutions. The main goals of this amendment are aiding network discovery
+    and selection, enabling information transfer from external networks, enabling
+    emergency services, and interfacing subscription service provider networks (SSPNs)
+    to IEEE 802.11 networks that support interworking with external networks.
+  language: en
+  script: Latn
+  format: text/plain
+- content: This amendment specifies enhancements to the IEEE 802.11 medium access
+    control (MAC) that support wireless local area network (WLAN) interworking with
+    external networks. It enables higher layer functionalities to provide overall
+    end-to-end solutions. The main goals of this amendment are aiding network discovery
+    and selection, enabling information transfer from external networks, enabling
+    emergency services, and interfacing subscription service provider networks (SSPNs)
+    to IEEE 802.11 networks that support interworking with external networks.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2011'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 802.11-2007 (Revision of IEEE Std 802.11-1999)
+      format: text/plain
+  description:
+    content: amends
+    language: en
+    script: Latn
+    format: text/plain
+keyword:
+- IEEE standards
+- Wireless LAN
+- Standards Board
+- Committees
+- Media Access Protocol
+- Trademarks
+- E911
+- emergency alert system
+- emergency services
+- generic advertisement service
+- interface
+- interworking
+- interworking with external networks
+- media-independent handover
+- MIH
+- network advertisement
+- network discovery
+- network selection
+- QoS mapping
+- SSP
+- SSPN
+- subscriber service provider
+- wireless LAN
+ics:
+- code: 35.100.10
+  text: Physical layer
+- code: '35.110'
+  text: Networking
+- code: 35.100.20
+  text: Data link layer

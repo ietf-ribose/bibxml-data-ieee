@@ -1,0 +1,100 @@
+---
+id: IEEEP497/D3,July2010
+title:
+- type: title-main
+  content: IEEE Draft Standard Criteria for Accident Monitoring Instrumentation for
+    Nuclear Power Generating Stations
+  format: text/plain
+- type: main
+  content: IEEE Draft Standard Criteria for Accident Monitoring Instrumentation for
+    Nuclear Power Generating Stations
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/8848896
+  type: src
+type: standard
+docid:
+- id: IEEE P497/D3, July 2010
+  type: IEEE
+- id: 978-0-7381-6335-2
+  type: ISBN
+docnumber: P497/D3, July 2010
+date:
+- type: created
+  value: '2011-01-01'
+- type: published
+  value: '2019-09-25'
+- type: issued
+  value: '2010-09-30'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2019-09-25'
+language: en
+script: Latn
+abstract:
+  content: Criteria are established in this standard for variable selection, performance,
+    design, and qualification of accident monitoring instrumentation, and include
+    requirements for display alternatives for accident monitoring instrumentation,
+    documentation of design bases, and use of portable instrumentation.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2010'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 497-2002 (Revision of IEEE Std 497-1981)
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE Std 497-2016 (Revision of IEEE Std 497-2010)
+      format: text/plain
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 497-2002 (Revision of IEEE Std 497-1981)
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE Std 497-2016 (Revision of IEEE Std 497-2010)
+      format: text/plain
+fetched: '2021-09-27'
+keyword:
+- IEEE Standards
+- Nuclear power generation
+- Accidents
+- Instrumentation
+- Power system reliability
+- Monitoring
+- accident monitoring
+- display criteria
+- selection criteria
+- type variables
+ics:
+  code: 27.120.20
+  text: Nuclear power plants. Safety

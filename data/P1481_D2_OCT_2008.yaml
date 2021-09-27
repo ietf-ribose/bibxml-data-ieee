@@ -1,0 +1,52 @@
+---
+id: IEEEUnapprovedDraftStdP1481/D2,Oct2008
+title:
+- type: title-main
+  content: IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture
+    (OLA)
+  format: text/plain
+- type: main
+  content: IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture
+    (OLA)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4665022
+  type: src
+type: standard
+docid:
+  id: IEEE Unapproved Draft Std P1481/D2, Oct 2008
+  type: IEEE
+docnumber: P1481/D2, Oct 2008
+date:
+  type: created
+  value: '2008'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Ways for integrated circuit designers to analyze chip timing and power
+    consistently across a broad set of electric design automation (EDA) applications
+    are covered in this standard. Methods by which integrated circuit vendors can
+    express timing and power information once per given technology are also covered.
+    In addition, this standard covers means by which EDA vendors can meet their application
+    performance and capacity needs.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2008'
+ics:
+  code: '31.200'
+  text: Integrated circuits. Microelectronics

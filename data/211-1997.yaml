@@ -1,0 +1,79 @@
+---
+id: IEEEStd211-1997
+title:
+- type: title-main
+  content: IEEE Standard Definitions of Terms for Radio Wave Propagation
+  format: text/plain
+- type: main
+  content: IEEE Standard Definitions of Terms for Radio Wave Propagation
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/705931
+  type: src
+type: standard
+docid:
+- id: IEEE Std 211-1997
+  type: IEEE
+- id: 978-0-7381-0580-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1998.87897
+  type: DOI
+docnumber: 211-1997
+date:
+- type: created
+  value: '1998'
+- type: issued
+  value: '1997-12-09'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Terms and definitions used in the context of electromagnetic wave propagation
+    relating to the fields of telecommunications, remote sensing, radio astronomy,
+    optical waves, plasma waves, the ionosphere, the magnetosphere, and magnetohydrodynamic,
+    acoustic, and electrostatic waves are supplied.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1998'
+relation:
+- type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 211-1990
+      format: text/plain
+  description:
+    content: revises
+    language: en
+    script: Latn
+    format: text/plain
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE Std 211-2018 (Revision of IEEE Std 211-1997)
+      format: text/plain
+- type: obsoletedBy
+  bibitem:
+    formattedref:
+      content: IEEE Std 211-2018 (Revision of IEEE Std 211-1997)
+      format: text/plain
+fetched: '2021-09-27'
+keyword: IEEE standards
+ics:
+- code: 01.040.33
+  text: Telecommunications. Audio and video engineering (Vocabularies)
+- code: 33.060.01
+  text: Radiocommunications in general

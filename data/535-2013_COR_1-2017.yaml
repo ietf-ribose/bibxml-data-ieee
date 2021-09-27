@@ -1,0 +1,94 @@
+---
+id: IEEEStd535-2013/Cor.1-2017(CorrigendaofIEEEStd535-2013)
+title:
+- type: title-intro
+  content: IEEE Standard for Qualification of Class 1E Vented Lead Acid Storage Batteries
+    for Nuclear Power Generating Stations
+  format: text/plain
+- type: title-main
+  content: Corrigenda 1
+  format: text/plain
+- type: main
+  content: IEEE Standard for Qualification of Class 1E Vented Lead Acid Storage Batteries
+    for Nuclear Power Generating Stations - Corrigenda 1
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/8266965
+  type: src
+type: standard
+docid:
+- id: IEEE Std 535-2013/Cor. 1-2017 (Corrigenda of IEEE Std 535-2013)
+  type: IEEE
+- id: 978-1-5044-4650-1
+  type: ISBN
+- id: 10.1109/IEEESTD.2018.8266965
+  type: DOI
+docnumber: 535-2013/Cor 1-2017
+date:
+- type: updated
+  value: '2018-02-16'
+- type: created
+  value: '2018-01-19'
+- type: published
+  value: '2018-01-20'
+- type: issued
+  value: '2017-12-06'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+revdate: '2018-01-20'
+language: en
+script: Latn
+abstract:
+- content: This corrigenda clarifies the accelerated aging process for duty cycles
+    greater than 8 h.
+  language: en
+  script: Latn
+  format: text/plain
+- content: This corrigenda clarifies the accelerated aging process for duty cycles
+    greater than 8 h.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2018'
+relation:
+  type: updates
+  bibitem:
+    formattedref:
+      content: IEEE Std 535-2013 (Revision of IEEE Std 535-2006)
+      format: text/plain
+  description:
+    content: corrects
+    language: en
+    script: Latn
+    format: text/plain
+keyword:
+- IEEE Standards
+- Batteries
+- Lead acid batteries
+- Safety
+- Lead compounds
+- Nuclear power generation
+- Performance evaluation
+- Ventilation
+- acceptance test
+- IEEE 450
+- IEEE 535
+- performance test
+- vented lead-acid battery
+ics:
+- code: 27.120.20
+  text: Nuclear power plants. Safety
+- code: 29.220.20
+  text: Acid secondary cells and batteries

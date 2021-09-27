@@ -1,0 +1,65 @@
+---
+id: IEEEStd1064-1991
+title:
+- type: title-main
+  content: IEEE Guide for Multifactor Stress Functional Testing of Electrical Insulation
+    Systems
+  format: text/plain
+- type: main
+  content: IEEE Guide for Multifactor Stress Functional Testing of Electrical Insulation
+    Systems
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/159112
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1064-1991
+  type: IEEE
+- id: 0-7381-4566-1
+  type: ISBN
+- id: 10.1109/IEEESTD.1991.101027
+  type: DOI
+docnumber: 1064-1991
+date:
+- type: created
+  value: '1991'
+- type: issued
+  value: '1991-06-12'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: A guide for developing test procedures for the functional testing of insulation
+    systems used in long-life electrical equipment exposed to more than one factor
+    of influence in service is presented. Included are descriptions of technical problems
+    and practical possibilities that may be helpful either for guidance or as a check
+    list. A sequence of action is recommended, and details of the procedures required
+    for the specification of such tests are provided. The emphasis is on realistically
+    modeling service aging in functional tests and making the tests as simple and
+    practical as possible. Mechanisms of interaction between the factors influencing
+    aging are reviewed.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1991'
+keyword:
+- Aging
+- Insulation testing
+- Standards
+ics:
+  code: 29.035.01
+  text: Insulating materials in general

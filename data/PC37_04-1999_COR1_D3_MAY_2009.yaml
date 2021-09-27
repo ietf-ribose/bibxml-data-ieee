@@ -1,0 +1,54 @@
+---
+id: IEEEUnapprovedDraftStdPC37.04-1999/Cor1/D3,May2009
+title:
+- type: title-intro
+  content: IEEE Draft IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers
+  format: text/plain
+- type: title-main
+  content: Corrigendum 1 (Corrigendum to IEEE Std C37.04-1999)
+  format: text/plain
+- type: main
+  content: IEEE Draft IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers
+    - Corrigendum 1 (Corrigendum to IEEE Std C37.04-1999)
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4977282
+  type: src
+type: standard
+docid:
+  id: IEEE Unapproved Draft Std PC37.04-1999/Cor1/D3, May 2009
+  type: IEEE
+docnumber: PC37.04-1999/Cor1/D3, May 2009
+date:
+  type: created
+  value: '2009'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This corrigendum corrects technical and other non-editorial errors made
+    during the preparation of C37.04-1999 latest version, third printing 29 November
+    2005, which covers the rating structure for high-voltage circuit breakers rated
+    over 1000 VAC. This corrigendum includes the corrections made in the errata, as
+    the errata will be removed once this corrigendum is approved.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2009'
+keyword: Circuit breaker
+ics:
+  code: 29.130.10
+  text: High voltage switchgear and controlgear

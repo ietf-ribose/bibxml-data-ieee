@@ -1,0 +1,44 @@
+---
+id: IEEEStdPC37.90/D15,Jan2004
+title:
+- type: title-main
+  content: Unapproved IEEE Draft Standard for Relays and Relay Systems Associated
+    With Electric Power Apparatus
+  format: text/plain
+- type: main
+  content: Unapproved IEEE Draft Standard for Relays and Relay Systems Associated
+    With Electric Power Apparatus
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/4152579
+  type: src
+type: standard
+docid:
+- id: IEEE Std PC37.90/D15, Jan 2004
+  type: IEEE
+- id: 978-1-5044-3479-9
+  type: ISBN
+docnumber: PC37.90/D15, Jan 2004
+date:
+  type: created
+  value: '2004'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2004'
+ics:
+  code: 29.120.70
+  text: Relays

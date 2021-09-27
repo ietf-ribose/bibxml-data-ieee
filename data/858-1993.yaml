@@ -1,0 +1,58 @@
+---
+id: IEEEStd858-1993
+title:
+- type: title-main
+  content: IEEE Standard Definitions in Power Operations Terminology
+  format: text/plain
+- type: main
+  content: IEEE Standard Definitions in Power Operations Terminology
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/286052
+  type: src
+type: standard
+docid:
+- id: IEEE Std 858-1993
+  type: IEEE
+- id: 0-7381-2403-6
+  type: ISBN
+- id: 10.1109/IEEESTD.1993.119654
+  type: DOI
+docnumber: 858-1993
+date:
+- type: created
+  value: '1993'
+- type: issued
+  value: '1993-03-18'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: Terms in the field of power operations are defined. Power distribution
+    and transmission aspects are covered.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1993'
+keyword:
+- Terminology
+- Power systems
+- Standards
+ics:
+- code: 01.040.29
+  text: Electrical engineering (Vocabularies)
+- code: 29.240.01
+  text: Power transmission and distribution networks in general

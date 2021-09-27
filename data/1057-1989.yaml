@@ -1,0 +1,65 @@
+---
+id: IEEEStd1057
+title:
+- type: title-main
+  content: IEEE Trial-Use Standard for Digitizing Waveform Recorders
+  format: text/plain
+- type: main
+  content: IEEE Trial-Use Standard for Digitizing Waveform Recorders
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/89657
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1057
+  type: IEEE
+- id: 0-7381-4543-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1989.94586
+  type: DOI
+docnumber: 1057-1989
+date:
+- type: created
+  value: '1989'
+- type: issued
+  value: '1988-10-20'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: The purpose of this trial-use standard is to provide common terminology
+    and test methods for describing the performance of waveform recorders. Since these
+    devices give only digital answers that are intended to be sent to a computer for
+    analysis, a highly analytical approach has been taken, perhaps more than other
+    instrumentation standards committees. Instruments covered by this trial-use standard
+    are electronic digitizing waveform recorders, waveform analyzers, and digitizing
+    oscilloscopes with digital outputs. This trial-use standard is directed toward,
+    but not restricted to, general-purpose waveform recorders and analyzers. Special
+    applications may require additional manufacturer information and verification
+    tests.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1989'
+keyword:
+- Oscilloscopes
+- Digital measurements
+- Electronic equipment testing
+- Standards
+ics:
+  code: 17.220.20
+  text: Measurement of electrical and magnetic quantities

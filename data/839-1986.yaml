@@ -1,0 +1,69 @@
+---
+id: IEEEStd839-1986
+title:
+- type: title-main
+  content: 'IEEE Guide: Procedures for Testing Single-Phase and Polyphase Induction
+    Motors for Use in Hermetic Compressors'
+  format: text/plain
+- type: main
+  content: 'IEEE Guide: Procedures for Testing Single-Phase and Polyphase Induction
+    Motors for Use in Hermetic Compressors'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/26571
+  type: src
+type: standard
+docid:
+- id: IEEE Std 839-1986
+  type: IEEE
+- id: 0-7381-4419-3
+  type: ISBN
+- id: 10.1109/IEEESTD.1986.79642
+  type: DOI
+docnumber: 839-1986
+date:
+- type: created
+  value: '1986'
+- type: issued
+  value: '1986'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This guide specifies test procedures to determine the efficiency and other
+    performance characteristics of hermetic motors. Hermetic motors are electric motors
+    designed to operate as integral parts of compressor units in refrigerators, air
+    conditioners, and heat-pump systems. Such motors are normally manufactured for
+    sale as component parts (that is, rotors and stators) intended for assembly by
+    the compressor manufacturer. For this reason, the procedures set forth here are
+    designed to determine the characteristics of a given rotor and stator under a
+    standardized set of ambient conditions. Because of the wide variety of environmental
+    conditions possible within a compressor, no attempt is made to simulate such operation.
+    This guide deals with both single-phase and polyphase hermetic induction motors.
+    Where test equipment or methods are critical to the accurate determination of
+    motor performance, one or more suggested approaches are described.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1986'
+keyword:
+- Air conditioning
+- Compressors
+- Induction motors
+- Standards
+ics:
+  code: 29.160.30
+  text: Motors

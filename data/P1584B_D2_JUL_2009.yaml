@@ -1,0 +1,66 @@
+---
+id: IEEEUnapprovedDraftStdP1584b/D2,Jul2009
+title:
+- type: title-main
+  content: 'IEEE Guide for Performing Arc-Flash Hazard Calculations_Amendment 1: Changes
+    to Clause 4'
+  format: text/plain
+- type: main
+  content: 'IEEE Guide for Performing Arc-Flash Hazard Calculations_Amendment 1: Changes
+    to Clause 4'
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/5276052
+  type: src
+type: standard
+docid:
+  id: IEEE Unapproved Draft Std P1584b/ D2, Jul 2009
+  type: IEEE
+docnumber: P1584b/ D2, Jul 2009
+date:
+  type: created
+  value: '2009'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This guide provides techniques for designers and facility operators to
+    apply in determining the arc-flash hazard distance and the incident energy to
+    which employees could be exposed during their work on or near electricalequipment.
+    The changes to Clause 4 are to make use of the knowledge and experience of those
+    who have performed studies as a guide in applying the standard.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '2009'
+keyword:
+- arc fault currents
+- arc-flash hazard
+- arc-flash hazard analysis
+- arc-flash hazard marking
+- arc in enclosures
+- arc in open air
+- bolted fault currents
+- electrical hazard
+- flash protection boundary
+- incident energy
+- personal protective equipment
+- protective device coordination study
+- short-circuit study
+- working distances
+ics:
+  code: 29.260.99
+  text: Other electrical equipment for working in special conditions

@@ -1,0 +1,56 @@
+---
+id: IEEEStd640-1985
+title:
+- type: title-main
+  content: IEEE Guide for Power-Station Noise Control
+  format: text/plain
+- type: main
+  content: IEEE Guide for Power-Station Noise Control
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/27899
+  type: src
+type: standard
+docid:
+- id: IEEE Std 640-1985
+  type: IEEE
+- id: 0-7381-4395-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1985.81069
+  type: DOI
+docnumber: 640-1985
+date:
+- type: created
+  value: '1985'
+- type: issued
+  value: '1983-06-23'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This IEEE standard reviews alternative noise control methods for identifying
+    and controlling noise emission problems in planned and existing power plants.
+    Noise control techniques, sound measurement and laws and regulations are discussed.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1985'
+keyword:
+- Acoustic noise measurement
+- Standards
+ics:
+  code: '27.100'
+  text: Power stations in general

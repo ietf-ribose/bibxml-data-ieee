@@ -1,0 +1,60 @@
+---
+id: ANSI/IEEEStd997-1985
+title:
+- type: title-main
+  content: IEEE Standard Serial ASCII Instrumentation Loop (SAIL) Shipboard Data Communication
+  format: text/plain
+- type: main
+  content: IEEE Standard Serial ASCII Instrumentation Loop (SAIL) Shipboard Data Communication
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/30689
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 997-1985
+  type: IEEE
+- id: 0-7381-4272-7
+  type: ISBN
+- id: 10.1109/IEEESTD.1985.82459
+  type: DOI
+docnumber: 997-1985
+date:
+- type: created
+  value: '1985'
+- type: issued
+  value: '1984-12-13'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This standard was developed to provide a common digital methodology to
+    access or exchange operational data aboard oceanographic research vessels. Members
+    of the Technical Committee on Oceanic Engineering and Technology include manufacturers
+    of interface devices and users. The standard was first presented for discussion
+    in draft form in the Exposure Newsletter, September 1981.<<ETX>>
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1985'
+keyword:
+- Data communication
+- Digital communication
+- Sea measurements
+- Standards
+ics:
+  code: 47.020.70
+  text: Navigation and control equipment

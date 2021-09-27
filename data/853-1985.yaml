@@ -1,0 +1,45 @@
+---
+id: ANSI/IEEEStd853-1985
+title:
+- type: title-main
+  content: ANSI/IEEE Std 853-1985 IEEE Recommended Practice for Voltage-Endurance
+    Testing of Enameled Wire
+  format: text/plain
+- type: main
+  content: ANSI/IEEE Std 853-1985 IEEE Recommended Practice for Voltage-Endurance
+    Testing of Enameled Wire
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/573331
+  type: src
+type: standard
+docid:
+- id: ANSI/IEEE Std 853-1985
+  type: IEEE
+- id: 0-7381-4260-3
+  type: ISBN
+- id: 10.1109/IEEESTD.1984.81697
+  type: DOI
+docnumber: 853-1985
+date:
+- type: created
+  value: '1984'
+- type: issued
+  value: '1984-03-22'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  role: publisher
+language: en
+script: Latn
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1984'
+ics:
+  code: 29.060.10
+  text: Wires

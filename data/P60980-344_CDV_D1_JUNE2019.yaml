@@ -1,0 +1,63 @@
+---
+id: IEC/IEEEP60980-344CDVD1,June2019
+title:
+- type: title-intro
+  content: IEEE Draft Standard
+  format: text/plain
+- type: title-main
+  content: Nuclear Facilities
+  format: text/plain
+- type: title-part
+  content: Equipment Important to Safety -- Seismic Qualification
+  format: text/plain
+- type: main
+  content: IEEE Draft Standard - Nuclear Facilities - Equipment Important to Safety
+    -- Seismic Qualification
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/8765650
+  type: src
+type: standard
+docid:
+- id: IEC/IEEE P60980-344 CDV D1, June2019
+  type: IEEE
+- id: 978-1-5044-6003-3
+  type: ISBN
+docnumber: P60980-344 CDV D1, June2019
+date:
+- type: created
+  value: '2019'
+- type: published
+  value: '2019-07-17'
+- type: issued
+  value: '2019'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: New York
+      country: USA
+  role: publisher
+revdate: '2019-07-17'
+language: en
+script: Latn
+copyright:
+  owner:
+  - name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  - name: IEC
+  from: '2019'
+keyword:
+- IEEE Standards
+- Nuclear power generation
+- Safety
+- Power system reliability
+- Seismic measurements
+ics:
+- code: 27.120.20
+  text: Nuclear power plants. Safety
+- code: 91.120.25
+  text: Seismic and vibration protection

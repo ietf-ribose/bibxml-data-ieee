@@ -1,0 +1,62 @@
+---
+id: IEEEStd1149.5-1995
+title:
+- type: title-main
+  content: IEEE Standard for Module Test and Maintenance Bus (MTM-Bus) Protocol
+  format: text/plain
+- type: main
+  content: IEEE Standard for Module Test and Maintenance Bus (MTM-Bus) Protocol
+  format: text/plain
+link:
+  content: https://ieeexplore.ieee.org/document/499720
+  type: src
+type: standard
+docid:
+- id: IEEE Std 1149.5-1995
+  type: IEEE
+- id: 1-55937-558-2
+  type: ISBN
+- id: 10.1109/IEEESTD.1996.80835
+  type: DOI
+docnumber: 1149.5-1995
+date:
+- type: created
+  value: '1996'
+- type: issued
+  value: '1995-08-14'
+contributor:
+  organization:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+    contact:
+      city: 
+      country: USA
+  role: publisher
+language: en
+script: Latn
+abstract:
+  content: This standard specifies a serial, backplane, test and maintenance bus (MTM-Bus)
+    that can be used to integrate modules form different teams or vendors into testable
+    and maintainable subsystems. Physical, link, and command layers are specified.
+    Standard interface protocol and commands can be used to provide the basic test
+    and maintenance features needed for a module as well as access to on-module assets
+    (memory, peripherals, etc.) and IEEE Std 1149.1 boundary-scan. Standard commands
+    and functions support fault isolation to individual modules and test of backplane
+    interconnect between modules.
+  language: en
+  script: Latn
+  format: text/plain
+copyright:
+  owner:
+    name: Institute of Electrical and Electronics Engineers
+    abbreviation: IEEE
+    url: http://www.ieee.org
+  from: '1996'
+keyword:
+- Data buses
+- IEEE standards
+- Protocols
+ics:
+  code: '35.200'
+  text: Interface and interconnection equipment
