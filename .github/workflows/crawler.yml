@@ -27,6 +27,7 @@ jobs:
         run: relaton fetch-data ieee-rawbib
       - name: Push data
         run: |
+          ls -la
           echo `date` > flag.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
