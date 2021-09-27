@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Health informatics -- Personal health device communication -- Part 10404: Device specialization -- Pulse oximeter</title>
+  <title type="main" format="text/plain">ISO/IEEE International Standard - Health informatics -- Personal health device communication -- Part 10404: Device specialization -- Pulse oximeter</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6235069</uri>
+  <docidentifier type="IEEE">ISO/IEEE 11073-10404:2010(E) (Supersedes IEEE Std 11073-10404-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7528-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.6235069</docidentifier>
+  <docnumber>11073-10404-2010</docnumber>
+  <date type="created">
+    <on>2010-05-01</on>
+  </date>
+  <date type="published">
+    <on>2012-07-09</on>
+  </date>
+  <date type="issued">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Adoption of IEEE Std 11073-10404-2008. Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth pulse oximetry devices and compute engines (e.g., cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play (PnP) interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth pulse oximeters</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+  <keyword>pulse oximeter</keyword>
+</bibdata>

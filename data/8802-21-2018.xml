@@ -1,0 +1,80 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 21: Media independent services framework</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 21: Media independent services framework</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8376063</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-21:2018(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4956-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8376063</docidentifier>
+  <docnumber>8802-21-2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-06-08</on>
+  </date>
+  <date type="issued">
+    <on>2018</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An extensible IEEE 802(R) media access independent services framework (i.e., function and protocol) is defined that enables the optimization of services including handover and other services when performed between heterogeneous IEEE 802 networks. These services are facilitated by this standard when networking between IEEE 802 networks and cellular networks.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Broadcasting</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Telecommunication network management</keyword>
+  <keyword>broadcast</keyword>
+  <keyword>downlink only</keyword>
+  <keyword>group</keyword>
+  <keyword>group management</keyword>
+  <keyword>group security</keyword>
+  <keyword>IEEE 802.21(TM)</keyword>
+  <keyword>management</keyword>
+  <keyword>media independent handover</keyword>
+  <keyword>media independent service</keyword>
+  <keyword>mobile node</keyword>
+  <keyword>mobility</keyword>
+  <keyword>multicast</keyword>
+  <keyword>point of attachment</keyword>
+  <keyword>point of service</keyword>
+  <keyword>proactive authentication</keyword>
+  <keyword>seamless</keyword>
+  <keyword>security protection</keyword>
+  <keyword>service access authentication</keyword>
+</bibdata>

@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial Use Standard Criteria for Accident Monitoring Instrumentation for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Trial Use Standard Criteria for Accident Monitoring Instrumentation for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7426304</uri>
+  <docidentifier type="IEEE">IEEE Std 497-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0367-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7426304</docidentifier>
+  <docnumber>497-1977</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>1977</on>
+  </date>
+  <date type="published">
+    <on>2016-03-04</on>
+  </date>
+  <date type="issued">
+    <on>1976-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The protection of nuclear power plants following a design basis event is provided automatically by the protection systems as defined by IEEE Std 279-1971 (ANSI N42.7-1972), Criteria for Protection Systems for Nuclear Power Generating Stations, and by required specified manual actions. Following the automatic initiation of the protection systems, the operator has the responsibility of bringing the nuclear power plant to and maintaining it in a safe condition. The operator requires specific information to assist him in fulfilling this role. The scope of this document is limited to the design criteria for the monitoring display instrumentation required by the operator during the post accident period.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The protection of nuclear power plants following a design basis event is provided automatically by the protection systems as defined by IEEE Std 279-1971 (ANSI N42.7-1972), Criteria for Protection Systems for Nuclear Power Generating Stations, and by required specified manual actions. Following the automatic initiation of the protection systems, the operator has the responsibility of bringing the nuclear power plant to and maintaining it in a safe condition. The operator requires specific information to assist him in fulfilling this role. The scope of this document is limited to the design criteria for the monitoring display instrumentation required b y the operator during the post accident period.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 497-1981</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Accidents</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Nuclear measurements</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Test equipment</keyword>
+</bibdata>

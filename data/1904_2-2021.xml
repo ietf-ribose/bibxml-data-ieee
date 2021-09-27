@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Control and Management of Virtual Links in Ethernet-based Subscriber Access Networks</title>
+  <title type="main" format="text/plain">IEEE Standard for Control and Management of Virtual Links in Ethernet-based Subscriber Access Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9483874</uri>
+  <docidentifier type="IEEE">IEEE Std 1904.2-2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7710-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9483874</docidentifier>
+  <docnumber>1904.2-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-07-13</on>
+  </date>
+  <date type="issued">
+    <on>2021-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Control mechanisms and management methods necessary to enable creation and operation of virtual links in Ethernet-based subscriber access networks are described. The key characteristics of the Virtual Link Control (VLC) mechanisms are: - The ability to transit Layer 2 bridges in a single IEEE 802 Media Access Control (MAC) domain to allow remote device management - Extensibility to accommodate new protocols and new types of devices - The ability to simultaneously send messages to multiple VLC-aware stations using broadcast or multicast addressing The message format, as well as processing operations at the stations participating in the VLC protocol, are described.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Remote control</keyword>
+  <keyword>Telecommunication network management</keyword>
+  <keyword>Virtual links</keyword>
+  <keyword>Networked control systems</keyword>
+  <keyword>Virtual link control</keyword>
+  <keyword>Routing protocols</keyword>
+  <keyword>IEEE 1904.2</keyword>
+  <keyword>organization specific extensions</keyword>
+  <keyword>remote station management</keyword>
+  <keyword>Virtual Link Control (VLC) protocol</keyword>
+  <keyword>VLC Protocol Data Unit (VLCPDU)</keyword>
+</bibdata>

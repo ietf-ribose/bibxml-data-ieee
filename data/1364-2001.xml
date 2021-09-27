@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Verilog Hardware Description Language</title>
+  <title type="main" format="text/plain">IEEE Standard Verilog Hardware Description Language</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/954909</uri>
+  <docidentifier type="IEEE">IEEE Std 1364-2001</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2827-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93352</docidentifier>
+  <docnumber>1364-2001</docnumber>
+  <date type="created">
+    <on>2001</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2001-03-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Supersedes 1364-1995. The Verilog(R) Hardware Description Language (HDL) is defined in this standard. Verilog HDL is a formal notation intended for use in all phases of the creation of electronic systems. Because it is both machine readable and human readable,it supports the development,verification, synthesis,and testing of hardware designs; the communication of hardware design data; and the maintenance,modification,and procurement of hardware. The primary audiences for this standard are the implementors of tools supporting the language and advanced users of the language.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1364-1995</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1364-2005 (Revision of IEEE Std 1364-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Hardware design languages</keyword>
+  <keyword>Hardware</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Task analysis</keyword>
+  <keyword>Force</keyword>
+  <keyword>computer</keyword>
+  <keyword>computer languages</keyword>
+  <keyword>digital systems</keyword>
+  <keyword>electronic systems</keyword>
+  <keyword>hardware</keyword>
+  <keyword>hard-ware description languages</keyword>
+  <keyword>hardware design</keyword>
+  <keyword>HDL</keyword>
+  <keyword>PLI</keyword>
+  <keyword>programming language interface</keyword>
+  <keyword>VerilogHDL</keyword>
+  <keyword>Verilog PLI</keyword>
+  <keyword>Verilog &amp;amp;amp;#174;</keyword>
+</bibdata>

@@ -1,0 +1,79 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Health informatics-Device interoperability-Part 10101: Point-of-care medical device communication-Nomenclature</title>
+  <title type="main" format="text/plain">Health informatics-Device interoperability-Part 10101: Point-of-care medical device communication-Nomenclature</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9184351</uri>
+  <docidentifier type="IEEE">ISO/IEEE 11073-10101:2020(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6959-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2020.9184351</docidentifier>
+  <docnumber>11073-10101-2020</docnumber>
+  <date type="created">
+    <on>2020-08-28</on>
+  </date>
+  <date type="published">
+    <on>2020-09-01</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (POC) and personal health devices (PHD) medical device communication (MDC), this standard provides the nomenclature that supports both the domain information model and service model components of the standards family, as well as the semantic content exchanged with medical devices. The nomenclature is specialized for patient vital signs information representation and medical device informatics, with major areas including concepts for electrocardiograph (ECG), haemodynamics, respiration, blood gas, urine, fluid-related metrics, and neurology, as well as specialized units of measurement, general device events, alarms, and body sites. The standard defines both the architecture and major components of the nomenclature, along with extensive definitions for each conceptual area.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 11073-10101-2019 (Revision of ISO/IEEE 11073-10101:2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Biomedical monitoring</keyword>
+  <keyword>Point of care</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>codes</keyword>
+  <keyword>IEEE 11073-10101&amp;amp;#8482;</keyword>
+  <keyword>IHE PCD-01</keyword>
+  <keyword>independent living</keyword>
+  <keyword>information model</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>nomenclature</keyword>
+  <keyword>ontology</keyword>
+  <keyword>patient</keyword>
+  <keyword>personal health devices</keyword>
+  <keyword>PHD</keyword>
+  <keyword>POC</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>semantics</keyword>
+  <keyword>service model</keyword>
+  <keyword>terminology</keyword>
+</bibdata>

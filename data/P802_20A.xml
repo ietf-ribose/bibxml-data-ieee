@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks Part 20: Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility</title>
+  <title type="title-main" format="text/plain">Physical and Media Access Control Layer Specification</title>
+  <title type="title-part" format="text/plain">Amendment 1: MIB Enhancements and Corrigenda Items</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks Part 20: Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility - Physical and Media Access Control Layer Specification - Amendment 1: MIB Enhancements and Corrigenda Items</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5606226</uri>
+  <docidentifier type="IEEE">IEEE P802.20a Draft 2.1, October 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6291-1</docidentifier>
+  <docnumber>P802.20a</docnumber>
+  <date type="created">
+    <on>2010-10-19</on>
+  </date>
+  <date type="issued">
+    <on>2010-10-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment enhances the 802.20 Management Information Base (MIB) chapter to include additional information and MIB documentation (i.e, a discussion of Security impacts, and cross references to the text for appropriate parameters within the MIB, itself) to conform with the applicable parts of the IETFs 2008 guidelines for MIBs. The amendment also corrects any errors, inconsistencies and ambiguities associated with the MIB chapter of IEEE 802.20-2008.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Base stations</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Mobile communication</keyword>
+  <keyword>FCC</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+</bibdata>

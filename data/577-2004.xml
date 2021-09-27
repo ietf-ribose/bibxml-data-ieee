@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Facilities</title>
+  <title type="main" format="text/plain">IEEE Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1331003</uri>
+  <docidentifier type="IEEE">IEEE Std 577-2004 (Revision of IEEE Std 577-1976)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4062-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94603</docidentifier>
+  <docnumber>577-2004</docnumber>
+  <date type="created">
+    <on>2004-08-30</on>
+  </date>
+  <date type="published">
+    <on>2012-10-19</on>
+  </date>
+  <date type="issued">
+    <on>2004-05-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard sets forth minimum acceptable requisites for the performance of reliability analyses for safety-related systems of nuclear facilities when used to address the reliability requirements identified in regulations and other standards. The requirement that a reliability analysis be performed does not originate with this standard. However, when reliability analysis is used to demonstrate compliance with reliability requirements, this standard describes an acceptable response to the requirements.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 577-1976</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 577-2012 (Revision of IEEE Std 577-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Reliability engineering</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>Safety</keyword>
+  <keyword>nuclear facilities</keyword>
+  <keyword>reliability analysis</keyword>
+  <keyword>safety systems</keyword>
+</bibdata>

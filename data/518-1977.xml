@@ -1,0 +1,44 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Installation of Electrical Equipment to Minimize Electrical Noise Inputs to Controllers from External Sources</title>
+  <title type="main" format="text/plain">IEEE Guide for the Installation of Electrical Equipment to Minimize Electrical Noise Inputs to Controllers from External Sources</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684418</uri>
+  <docidentifier type="IEEE">IEEE Std 518-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0379-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.8684418</docidentifier>
+  <docnumber>518-1977</docnumber>
+  <date type="created">
+    <on>1977</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1975-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The rapidly expanding use of solid-state controllers requires consideration of many factors not previously important in the design, installation, and operation of other forms of controllers. Many portions of the control circuits of solid-state controllers designed for operation at low-energy low voltage signal levels are susceptible to disturbances by excessive electrical noise. Erratic controller operation may result unless suitable precautions are taken. The following recommendations are intended as an installation guide for industrial controls involving low-energy level equipment to minimize electrical noise inputs from external sources. The electrical noise guide is comprised of six sections. Sections 1 and 2 state the scope and service conditions. Sections 3 through 5 provide the technical foundation for the recommendations given in Section 6. Section 6 is intended to stand alone as the working section of the electrical noise guide.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 518-1982</formattedref>
+    </bibitem>
+  </relation>
+</bibdata>

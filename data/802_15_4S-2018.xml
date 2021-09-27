@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks Amendment 6: Enabling Spectrum Resource Measurement Capability</title>
+  <title type="main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks Amendment 6: Enabling Spectrum Resource Measurement Capability</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8398601</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4s-2018 (Amendment to IEEE Std 802.15.4-2015 as amended by IEEE Std 802.15.4n-2016, IEEE Std 802.15.4q-2016, IEEE Std 802.15.4u-2016, IEEE Std 802.15.4t-2017, IEEE Std 802.15.4v-2017, and IEEE Std 802.15.4-2015/Cor 1-2018)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4794-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8398601</docidentifier>
+  <docnumber>802.15.4s-2018</docnumber>
+  <date type="updated">
+    <on>2020-09-25</on>
+  </date>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-06-27</on>
+  </date>
+  <date type="issued">
+    <on>2018-02-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Definitions of MAC related functions to enable spectrum resource management are addressed in this amendment to IEEE Std 802.15.4&amp;amp;#x2122;. It specifies the following: - Spectrum resource measurements and network performance metrics, such as packet error ratio, delay, etc. - Information elements and data structures to capture these measurements, - Procedures for collecting and exchanging spectrum resource measurement information with higher layers or otherre devices. The PDF of this standard is available at no cost to you compliments of the IEEE GET program. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page for more details.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Definitions of MAC related functions to enable spectrum resource management are addressed in this amendment to IEEE Std 802.15.4&amp;amp;#8482;. It specifies the following: &amp;amp;#8212; Spectrum resource measurements and network performance metrics, such as packet error ratio, delay, etc. &amp;amp;#8212; Information elements and data structures to capture these measurements, &amp;amp;#8212; Procedures for collecting and exchanging spectrum resource measurement information with higher layers or otherre devices. The PDF of this standard is available at no cost to you compliments of the IEEE GET program. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page for more details.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2011 (Revision of IEEE Std 802.15.4-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Spread spectrum management</keyword>
+  <keyword>Resource management</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>Power control</keyword>
+  <keyword>IEEE 802.15.4(TM)</keyword>
+  <keyword>spectrum resource measurement</keyword>
+  <keyword>transmit power control</keyword>
+</bibdata>

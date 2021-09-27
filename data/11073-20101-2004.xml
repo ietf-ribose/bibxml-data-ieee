@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Health informatics</title>
+  <title type="title-part" format="text/plain">Point-of-care medical device communication -- Application profile -- Base standard</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Health informatics - Point-of-care medical device communication -- Application profile -- Base standard</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1377856</uri>
+  <docidentifier type="IEEE">ISO/IEEE 11073-20101:2004(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0096-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.95599</docidentifier>
+  <docnumber>11073-20101-2004</docnumber>
+  <date type="created">
+    <on>2004-12-15</on>
+  </date>
+  <date type="published">
+    <on>2019-10-30</on>
+  </date>
+  <date type="issued">
+    <on>2004-06-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The scope of this standard is upper layer [i.e., the International Organization for Standardization (ISO's) open systems interconnection (OSI) application, presentation layer, and session layer] services and protocols for information exchange under the ISO/IEEE 11073 standards for medical device communications (MDC). This standard is the base standard of the ISO/IEEE 11073-20000 medical device application profiles (MDAP), as harmonized through the Committee for European Normalization (CEN) and the ISO.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>ISO</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>abstract syntax</keyword>
+  <keyword>alarm</keyword>
+  <keyword>alert</keyword>
+  <keyword>communication</keyword>
+  <keyword>control</keyword>
+  <keyword>information model</keyword>
+  <keyword>medical device</keyword>
+  <keyword>object-oriented</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>POC</keyword>
+  <keyword>services</keyword>
+</bibdata>

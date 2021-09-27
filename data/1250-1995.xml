@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Service to Equipment Sensitive to Momentary Voltage Disturbances</title>
+  <title type="main" format="text/plain">IEEE Guide for Service to Equipment Sensitive to Momentary Voltage Disturbances</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/467536</uri>
+  <docidentifier type="IEEE">IEEE Std 1250-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0383-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.122634</docidentifier>
+  <docnumber>1250-1995</docnumber>
+  <date type="updated">
+    <on>1995-09-26</on>
+  </date>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="issued">
+    <on>1995-03-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Computers, computer-like products, and equipment using solid-state power conversion have created entirely new areas of power quality considerations. There is an increasing awareness that much of this new user equipment is not designed to withstand the surges, faults, and reclosing duty present on typical distribution systems. Momentary voltage disturbances occuring in AC power distribution and utilization systems, their potential effects on this new, sensitive, user equipment, and guidance toward mitigation of these effects are described. Harmonic distortion limits are also discussed.&amp;amp;lt;&amp;amp;lt;ETX&amp;amp;gt;&amp;amp;gt;</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1250-2011 (Revision of IEEE Std 1250-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1250-2011 (Revision of IEEE Std 1250-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power quality</keyword>
+  <keyword>Harmonic distortion</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power distribution faults</keyword>
+  <keyword>Arresters</keyword>
+</bibdata>

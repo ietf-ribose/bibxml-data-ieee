@@ -1,0 +1,44 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Boundary-Scan-Based Stimulus of Interconnections to Passive and/or Active Components</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6165422</uri>
+  <docidentifier type="IEEE">IEEE P1149.8.1/D5.4, March 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7437-2</docidentifier>
+  <docnumber>P1149.8.1/D5.4, Mar 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies extensions to IEEE Std 1149.1 that define the boundary-scan structures and methods required to facilitate boundary-scan-based stimulus of interconnections to passive and/or active components. Such networks are not adequately addressed by existing standards, including those networks that are AC-coupled or differential. The selective AC stimulus generation enabled by this standard, when combined with non-contact signal sensing, will allow testing of the connections between devices adhering to this standard and circuit elements such as series components, sockets, connectors, and integrated circuits that do not implement IEEE Std 1149.1. This standard also specifies Boundary-Scan Description Language (BSDL) extensions to IEEE Std 1149.1 required to describe and support the new structures and methods.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Passive circuits</keyword>
+  <keyword>Active circuits</keyword>
+  <keyword>Boundary conditions</keyword>
+  <keyword>Interconnected systems</keyword>
+</bibdata>

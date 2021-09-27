@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Health Informatics</title>
+  <title type="title-main" format="text/plain">Personal Health Device Communication</title>
+  <title type="title-part" format="text/plain">Part 20601: Application Profile -- Optimized Exchange Protocol</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Health Informatics - Personal Health Device Communication - Part 20601: Application Profile -- Optimized Exchange Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6648365</uri>
+  <docidentifier type="IEEE">IEEE P11073-20601/D7, October 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8739-6</docidentifier>
+  <docnumber>P11073-20601/D7, Oct 2013</docnumber>
+  <date type="created">
+    <on>2013-11-05</on>
+  </date>
+  <date type="published">
+    <on>2013-10-25</on>
+  </date>
+  <date type="issued">
+    <on>2014-04-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard defines a common framework for making an abstract model of personal health data available in transport-independent transfer syntax required to establish logical connections between systems and to provide presentation capabilities and services needed to perform communication tasks. The protocol is optimized to personal health usage requirements and leverages commonly used methods and tools wherever possible.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 11073-20601-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Biomedical informatics</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>11073</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+</bibdata>

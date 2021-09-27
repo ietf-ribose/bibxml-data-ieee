@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC 62531:2012(E) (IEEE Std 1850-2010): Standard for Property Specification Language (PSL)</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEC 62531:2012(E) (IEEE Std 1850-2010): Standard for Property Specification Language (PSL) - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6383181</uri>
+  <docidentifier type="IEEE">IEC 62531:2012(E) (IEEE Std 1850-2010) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8094-6</docidentifier>
+  <docnumber>62531-2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-12-14</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The IEEE Property Specification Language (PSL) is defined. PSL is a formal notation for specification of electronic system behavior, compatible with multiple electronic system design languages, including IEEE Std 1076 (VHDL), IEEE Std 1354 (Verilog), IEEE Std 1666 (SystemC), and IEEE Std 1800 (SystemVerilog), thereby enabling a common specification and verification flow for multi-language and mixed-language designs. PSL captures design intent in a form suitable for simulation, formal verification, formal analysis, and hybrid verification tools. PSL enhances communication among architects, designers, and verification engineers to increase productivity throughout the design and verification process. The primary audiences for this standard are the implementors of tools supporting the language and advanced users of the language</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Formal verification</keyword>
+  <keyword>Modeling</keyword>
+  <keyword>Computer lanugages</keyword>
+  <keyword>ABV</keyword>
+  <keyword>assertion</keyword>
+  <keyword>assertion-based verification</keyword>
+  <keyword>assumption</keyword>
+  <keyword>cover</keyword>
+  <keyword>model checking</keyword>
+  <keyword>IEEE 1850</keyword>
+  <keyword>property</keyword>
+  <keyword>PSL</keyword>
+  <keyword>specification</keyword>
+  <keyword>temporal logic</keyword>
+  <keyword>verification</keyword>
+</bibdata>

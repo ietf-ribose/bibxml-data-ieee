@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Digital Test Interchange Format (DTIF)</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Digital Test Interchange Format (DTIF)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7583624</uri>
+  <docidentifier type="IEEE">IEEE P1445/D12, September 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2401-1</docidentifier>
+  <docnumber>P1445/D12, Sept 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-10-05</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The information content and the data formats for the interchange of digital test program data between digital automated test program generators (DATPGs) and automatic test equipment (ATE) for board-level printed circuit assemblies are defined. This information can be broadly grouped into data that defines the following: UUT Model, Stimulus and Response, Fault Dictionary, and Probe.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1445-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Automatic test equipment</keyword>
+  <keyword>Digital testing</keyword>
+  <keyword>DTIF</keyword>
+  <keyword>Fault diagnosis</keyword>
+  <keyword>Testing</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>digital automated test program generator (DATPG)</keyword>
+  <keyword>digital test interchange format (DTIF)</keyword>
+  <keyword>fault dictionary data</keyword>
+</bibdata>

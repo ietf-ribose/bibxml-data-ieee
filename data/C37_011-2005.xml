@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers</title>
+  <title type="main" format="text/plain">IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1594505</uri>
+  <docidentifier type="IEEE">IEEE Std C37.011-2005 (Revision of IEEE Std C37.011-1994)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4813-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.99015</docidentifier>
+  <docnumber>C37.011-2005</docnumber>
+  <date type="created">
+    <on>2006-02-10</on>
+  </date>
+  <date type="published">
+    <on>2012-06-20</on>
+  </date>
+  <date type="issued">
+    <on>2005-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Revision of IEEE Std C37.011-1994 Procedures and calculations necessary to apply the standard transient recovery voltage (TRV) ratings for ac high-voltage circuit breakers rated above 1000 V and on a symmetrical current basis are covered. The capability limits of these circuit breakers are determined to a great degree by the TRV. TRV ratings are compared with typical system TRV duties.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.011-1994</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.011-2011 (Revision of IEEE Std C37.011-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Transient analysis</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Circuit faults</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Capacitance</keyword>
+  <keyword>Keywords: high-voltage circuit breakers</keyword>
+  <keyword>transient recovery voltage</keyword>
+</bibdata>

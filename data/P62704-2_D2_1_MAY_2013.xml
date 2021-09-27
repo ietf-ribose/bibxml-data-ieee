@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE/IEC Draft International Standard for Determining the Peak Spatial Average Specific Absorption Rate (SAR) in the Human Body from Wireless Communications Devices, 30 MHz</title>
+  <title type="title-main" format="text/plain">6 GHz. Part 2: Specific Requirements for Finite Difference Time Domain (FDTD) Modelling of Exposure from Vehicle Mounted Antennas</title>
+  <title type="main" format="text/plain">IEEE/IEC Draft International Standard for Determining the Peak Spatial Average Specific Absorption Rate (SAR) in the Human Body from Wireless Communications Devices, 30 MHz - 6 GHz. Part 2: Specific Requirements for Finite Difference Time Domain (FDTD) Modelling of Exposure from Vehicle Mounted Antennas</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6589084</uri>
+  <docidentifier type="IEEE">IEC/IEEE P62704-2/D2.1, May 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8648-1</docidentifier>
+  <docnumber>P62704-2/D2.1, May 2013</docnumber>
+  <date type="created">
+    <on>2013-01-01</on>
+  </date>
+  <date type="published">
+    <on>2013-09-05</on>
+  </date>
+  <date type="issued">
+    <on>2013</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes the concepts, techniques, vehicle models, validation procedures, uncertainties and limitations of the finite-difference time-domain technique (FDTD) when used for determining the spatial-peak specific absorption rate (SAR) in standardized human anatomical models exposed to vehicle mounted antennas. Recommended vehicle models and general benchmark data for these models are provided. Antenna locations, operatingconfigurations, exposure conditions and positions of persons exposed to the vehicle mounted antennas are defined. Intended users of this practice are (but are not be limited to) wireless communication devices manufacturers, service providers for wireless communication that are required to certify that their products comply with the applicable SAR limits and government agencies. Specific SAR limit values (basic restrictions) are not included since these are found in other documents, e.g., IEEE C95.1-2005 and IEEE C95.1a-2010.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Specific absorption rate</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Human factors</keyword>
+  <keyword>Microwave measurement</keyword>
+  <keyword>Vehicle mounted antennas</keyword>
+  <keyword>Finite difference methods</keyword>
+</bibdata>

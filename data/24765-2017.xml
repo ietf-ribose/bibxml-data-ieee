@@ -1,0 +1,77 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering--Vocabulary</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Systems and software engineering--Vocabulary</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8016712</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 24765:2017(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4118-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.8016712</docidentifier>
+  <docnumber>24765-2017</docnumber>
+  <date type="updated">
+    <on>2017-09-15</on>
+  </date>
+  <date type="created">
+    <on>2017-08-28</on>
+  </date>
+  <date type="published">
+    <on>2017-08-25</on>
+  </date>
+  <date type="issued">
+    <on>2017-06-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides a common vocabulary applicable to all systems and software engineering work. It was prepared to collect and standardize terminology. This document is intended to serve as a useful reference for those in the information technology field, and to encourage the use of systems and software engineering standards prepared by ISO and liaison organizations IEEE Computer Society and Project Management Institute. This document includes references to the active source standards for definitions so that systems and software engineering concepts and requirements can be further explored.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This document provides a common vocabulary applicable to all systems and software engineering work. It was prepared to collect and standardize terminology. This document is intended to serve as a useful reference for those in the information technology field, and to encourage the use of systems and software engineering standards prepared by ISO and liaison organizations IEEE Computer Society and Project Management Institute. This document includes references to the active source standards for definitions so that systems and software engineering concepts and requirements can be further explored.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 24765:2010(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Informatino technology</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theoryt</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>computer</keyword>
+  <keyword>dictionary</keyword>
+  <keyword>information technology</keyword>
+  <keyword>software engineering</keyword>
+  <keyword>systems engineering</keyword>
+  <keyword>24765</keyword>
+</bibdata>

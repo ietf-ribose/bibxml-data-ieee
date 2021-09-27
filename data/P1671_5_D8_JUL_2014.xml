@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Automatic Test Markup Language (ATML) Test Adaptor Description</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Automatic Test Markup Language (ATML) Test Adaptor Description</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7028994</uri>
+  <docidentifier type="IEEE">IEEE P1671.5/D8, July 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9288-8</docidentifier>
+  <docnumber>P1671.5/D8, Jul 2014</docnumber>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-02-02</on>
+  </date>
+  <date type="issued">
+    <on>2015-03-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An exchange format, using extensible markup language (XML), for identifying all of the hardware, software, and documentation associated with a test adapter is specified in this document. This test adapter may be used as a component of a test program set to test and diagnose a unit under test.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Automatic test equipment </keyword>
+  <keyword>Adapters</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>automatic test system (ATS)</keyword>
+  <keyword>interface device (ID)</keyword>
+  <keyword>interface test adapter (ITA)</keyword>
+  <keyword>test adapter</keyword>
+  <keyword>test fixture</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

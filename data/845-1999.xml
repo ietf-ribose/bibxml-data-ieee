@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Evaluation of Human-System Performance in Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Guide for the Evaluation of Human-System Performance in Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/798774</uri>
+  <docidentifier type="IEEE">IEEE Std 845-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1746-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90569</docidentifier>
+  <docnumber>845-1999</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2020-06-29</on>
+  </date>
+  <date type="issued">
+    <on>1999-06-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">" Guidance for evaluating human-system performance related to systems, equipment, andfacilities in nuclear power generating stations is provided. Specific evaluation techniques andrationale for their application within the integrated systems approach to plant design, operations,and maintenance described in IEEE Std 1023-1988 are summarized. "</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 845-1988</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>design</keyword>
+  <keyword>human-system performance</keyword>
+  <keyword>integrated systems</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>nuclear power generating stations</keyword>
+  <keyword>and operation</keyword>
+</bibdata>

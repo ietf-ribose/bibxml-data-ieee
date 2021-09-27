@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Station and Media Access Control Connectivity Discovery</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Local and Metropolitan Area Networks - Station and Media Access Control Connectivity Discovery</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7331223</uri>
+  <docidentifier type="IEEE">IEEE P802.1AB-REV/D1.2, November 2015 (Revision of IEEE Std 802.1AB-2009)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0707-6</docidentifier>
+  <docnumber>P802.1AB-REV/D1.2, November 2015</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-11-17</on>
+  </date>
+  <date type="issued">
+    <on>2016-01-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 802 LANs.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AB-2009 (Revision of IEEE Std 802.1AB-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Network topology</keyword>
+  <keyword>Management information base</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>link layer discovery protocol</keyword>
+  <keyword>management information base</keyword>
+  <keyword>topology discovery</keyword>
+  <keyword>topology information</keyword>
+</bibdata>

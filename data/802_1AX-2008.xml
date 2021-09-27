@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Link Aggregation</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Link Aggregation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4668665</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AX-2008</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5794-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4668665</docidentifier>
+  <docnumber>802.1AX-2008</docnumber>
+  <date type="updated">
+    <on>2008-12-23</on>
+  </date>
+  <date type="created">
+    <on>2008-11-03</on>
+  </date>
+  <date type="published">
+    <on>2014-12-24</on>
+  </date>
+  <date type="issued">
+    <on>2008-09-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Link aggregation allows one or more links to be aggregated together to form a link aggregation group, such that a media access control (MAC) client can treat the link aggregation group as if it were a single link. To this end, it specifies the establishment of data terminal equipment (DTE) to DTE logical links, consisting of N parallel instances of full duplex point-to-point links operating at the same data rate. This standard defines the MAC independent link aggregation capability, and general information relevant to specific MAC types that support link aggregation.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Link Aggregation allows one or more links to be aggregated together to form a Link Aggregation Group, such that a Media Access Control (MAC) Client can treat the Link Aggregation Group as if it were a single link. To this end, it specifies the establishment of data terminal equip­ment (DTE) to DTE logical links, consisting of N parallel instances of full duplex point-to-point links operating at the same data rate. This standard defines the MAC independent Link Aggregation capability, and general information relevant to specific MAC types that support link aggregation.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AX-2014 (Revision of IEEE Std 802.1AX-2008)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Standards Board</keyword>
+  <keyword>Societies</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Committees</keyword>
+  <keyword>Materials</keyword>
+  <keyword>802.1AX-2008</keyword>
+  <keyword>Aggregated Link</keyword>
+  <keyword>Aggregator</keyword>
+  <keyword>Link Aggregation</keyword>
+  <keyword>Link Aggregation Group</keyword>
+  <keyword>local area network</keyword>
+  <keyword>management</keyword>
+</bibdata>

@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Procedures for Photomultipliers for Scintillation Counting and Glossary for Scintillation Counting Field</title>
+  <title type="main" format="text/plain">IEEE Standard Test Procedures for Photomultipliers for Scintillation Counting and Glossary for Scintillation Counting Field</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/18431</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 398-1972</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0691-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1972.118970</docidentifier>
+  <docnumber>398-1972</docnumber>
+  <date type="created">
+    <on>1972</on>
+  </date>
+  <date type="published">
+    <on>2020-01-31</on>
+  </date>
+  <date type="issued">
+    <on>1972-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Tests for measuring the pulse-height, spurious-pulse, and pulse-timing characteristics of photomultipliers used in scintillation and Cerenkov counters are presented. Five different measurement techniques are described. They are rise-time measurements, fall-time measurements, photocathode transit-time difference measurements, and transit-time spread measurements.</abstract>
+  <copyright>
+    <from>1972</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Cerenkov detectors</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Photomultipliers</keyword>
+  <keyword>Scintillation detectors</keyword>
+  <keyword>Standards</keyword>
+  <keyword>photo</keyword>
+  <keyword>multipliers</keyword>
+  <keyword>scintillation</keyword>
+  <keyword>counting</keyword>
+  <keyword>test</keyword>
+</bibdata>

@@ -1,0 +1,42 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Transport Independent Printer/System Interface (TIP/SI)</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology - Transport Independent Printer/System Interface (TIP/SI)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/634864</uri>
+  <docidentifier type="IEEE">IEEE Std 1284.1-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1368-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.84239</docidentifier>
+  <docnumber>1284.1-1997</docnumber>
+  <date type="created">
+    <on>1997</on>
+  </date>
+  <date type="issued">
+    <on>1997-07-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A protocol and methodology for software developers, computer vendors and printer manufacturers to facilitate the orderly exchange of information between printers and host computers are defined in this standard. A minimum set of functions that permit meaningful data exchange is provided. Thus a foundation is established upon which compatible applications, computers and printers can be developed, without compromising an individual organization's desire for design innovation.</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Printers</keyword>
+</bibdata>

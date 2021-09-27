@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Abnormal Frequency Protection for Power Generating Plants</title>
+  <title type="main" format="text/plain">IEEE Guide for Abnormal Frequency Protection for Power Generating Plants</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26543</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C37.106-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1707-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.79552</docidentifier>
+  <docnumber>C37.106-1987</docnumber>
+  <date type="created">
+    <on>1987</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1984-03-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide has been prepared to assist the protection engineer in applying relays for the protection of generating plant equipment from damage caused by operation at abnormal frequencies including overexcitation. Emphasis is placed on the protection of the major generating station components at steam generating stations, nuclear stations, and at combustion-turbine installations. Consideration is also given to the effect of abnormal frequency operation on those associated station auxiliaries whose response can affect plant output. The guide also presents background information regarding the hazards caused by operating generating equipment at abnormal frequencies. It documents typical equipment capabilities and describes acceptable protective schemes. Recommended methods for coordinating the underfrequency protective scheme with system-load shielding schemes are also included. Sufficient information is provided to apply suitable coordinated protection for given specific situations.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.106-2003 (Revision of ANSI/IEEE C37.106-1987)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Standards</keyword>
+  <keyword>abnormal</keyword>
+  <keyword>frequency</keyword>
+  <keyword>generating</keyword>
+  <keyword>plants</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Power generation protection</keyword>
+</bibdata>

@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Determination of Maximum Winding Temperature Rise in Liquid-Filled Transformers</title>
+  <title type="main" format="text/plain">IEEE Guide for Determination of Maximum Winding Temperature Rise in Liquid-Filled Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/863650</uri>
+  <docidentifier type="IEEE">IEEE Std 1538-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1969-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91904</docidentifier>
+  <docnumber>1538-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2015-09-17</on>
+  </date>
+  <date type="issued">
+    <on>2000-06-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Provides guidance for determining the hottest-spot temperature in distribution and power transformers built in accordance with IEEE Std C57.12.00-2000. Describes the important criteriato be evaluated by any thermal model that can accurately predict the hottest-spot temperature in atransformer. Provides guidance for performing temperature-rise tests with direct measurement of the hottest-spot temperatures, and explains the importance of developing an accurate thermal model to properly locate the temperature sensors.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>distribution transformer</keyword>
+  <keyword>hottest-spot temperature</keyword>
+  <keyword>power transformers</keyword>
+  <keyword>temperaturerise test</keyword>
+  <keyword>thermal model</keyword>
+</bibdata>

@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard VHDL Mathematical Packages</title>
+  <title type="main" format="text/plain">IEEE Standard VHDL Mathematical Packages</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684469</uri>
+  <docidentifier type="IEEE">IEEE Std 1076.2-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0988-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.8684469</docidentifier>
+  <docnumber>1076.2-1996</docnumber>
+  <date type="created">
+    <on>1996-11-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1996-09-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The MATH_REAL package declaration, the MATH_COMPLEX package declaration, and the semantics of the standard mathematical definition and conventional meaning of the functions that are part of this standard are provided. Ways for users to implement this standard are given in an informative annex. Samples of the MATH_REAL and MATH_COMPLEX package bodies are provided in an informative annex on diskette as guidelines for implementors to verify their implementation of this standard. Implementors may choose to implement the package bodies in the most efficient manner available to them. The standard package bodies (subclauses B.1 and B.2) are available for free download at: http://standards.ieee.org/downloads/1076/1076.2-1996/</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE</keyword>
+  <keyword>math_complex</keyword>
+  <keyword>math_real</keyword>
+  <keyword>vhdl</keyword>
+  <keyword>vhdl model interoperability</keyword>
+</bibdata>

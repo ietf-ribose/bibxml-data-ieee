@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Power transformers--Part 57-129: Transformers for HVDC applications</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - Power transformers--Part 57-129: Transformers for HVDC applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8106674</uri>
+  <docidentifier type="IEEE">IEC/IEEE 60076-57-129:2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4257-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.8106674</docidentifier>
+  <docnumber>60076-57-129-2017</docnumber>
+  <date type="updated">
+    <on>2017-11-24</on>
+  </date>
+  <date type="created">
+    <on>2017-11-15</on>
+  </date>
+  <date type="published">
+    <on>2017-11-11</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This paper discusses power transformers for HVDC applications.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.129-2007 (Revision of IEEE Std C57.129-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEC Standards</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Loss measurement</keyword>
+  <keyword>Temperature measurement</keyword>
+  <keyword>Frequency measurement</keyword>
+  <keyword>IEC</keyword>
+</bibdata>

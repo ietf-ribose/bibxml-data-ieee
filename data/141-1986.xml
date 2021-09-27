@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Electric Power Distribution for Industrial Plants (IEEE Red Book)</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Electric Power Distribution for Industrial Plants (IEEE Red Book)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/35071</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 141-1986</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4148-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1986.86376</docidentifier>
+  <docnumber>141-1986</docnumber>
+  <date type="created">
+    <on>1986-10-10</on>
+  </date>
+  <date type="published">
+    <on>2013-01-10</on>
+  </date>
+  <date type="issued">
+    <on>1985-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A thorough analysis of basic electrical-systems considerations is presented. Guidance is provided in design, construction, and continuity of an overall system to achieve safety of life and preservation of property; reliability; simplicity of operation; voltage regulation in the utilization of equipment within the tolerance limits under all load conditions; care and maintenance; and flexibility to permit development and expansion. Recommendations are made regarding system planning; voltage considerations; surge voltage protection; system protective devices; fault calculations; grounding; power switching, transformation, and motor-control apparatus; instruments and meters; cable systems; busways; electrical energy conservation; and cost estimation.</abstract>
+  <copyright>
+    <from>1986</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 141-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Industrial plants</keyword>
+  <keyword>Power supplies</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

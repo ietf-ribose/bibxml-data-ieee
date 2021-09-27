@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEC 62529 Ed. 1 Standard for Signal and Test Definition</title>
+  <title type="main" format="text/plain">IEC 62529 Ed. 1 Standard for Signal and Test Definition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4410235</uri>
+  <docidentifier type="IEEE">IEC 62529:2007 (E)</docidentifier>
+  <docidentifier type="ISBN">9-7807-3815-7252</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.4410235</docidentifier>
+  <docnumber>62529-2007</docnumber>
+  <date type="created">
+    <on>2007-12-09</on>
+  </date>
+  <date type="published">
+    <on>2012-06-29</on>
+  </date>
+  <date type="issued">
+    <on>2007</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides the means to define and describe signals used in testing. It also provides a set of common basic signals, mathematically underpinned so that signals can be combined to form complex signals usable across all test platforms.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEC 62529:2012(E) (IEEE Std 1641-2010</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEC Standards</keyword>
+  <keyword>IEC</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Central office</keyword>
+  <keyword>Customer services</keyword>
+  <keyword>Dynamic scheduling</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATLAS</keyword>
+  <keyword>automatic test equipment</keyword>
+  <keyword>signal definitions</keyword>
+  <keyword>test definitions</keyword>
+  <keyword>test requirements</keyword>
+  <keyword>test signals</keyword>
+  <keyword>unit under test</keyword>
+  <keyword>UUT</keyword>
+</bibdata>

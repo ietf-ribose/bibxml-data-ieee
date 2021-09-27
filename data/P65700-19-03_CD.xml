@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE/IEC Approved Draft Standard for Bushings for DC application</title>
+  <title type="main" format="text/plain">IEEE/IEC Approved Draft Standard for Bushings for DC application</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6835145</uri>
+  <docidentifier type="IEEE">IEC/IEEE P65700-19-03 CD</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6928-6</docidentifier>
+  <docnumber>P65700-19-03 CD</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-06-16</on>
+  </date>
+  <date type="issued">
+    <on>2014-06-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This International Standard applies to outdoor and indoor bushings of any voltage used on d.c. systems, of capacitance graded or gas insulated types for use as components of oil-filled converter transformers and smoothing reactors, as well as air to air d.c. bushings. This standard does not apply to the following: - cable terminations (potheads); - bushings for instrument transformers; - bushings for test power supplies; - bushings applied with gaseous insulation(other than air at atmospheric pressure) external to the bushing; - bushings for industrial application; - bushings for traction application; - bushings for distribution class transformers; This standard makes reference to IEC 60137 for general terms and conditions and defines the special terms used, operating conditions, ratings, test procedures as well as general mechanical and electrical requirements for bushings for d.c application.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.19.03-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>Insulators</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Power transformers</keyword>
+</bibdata>

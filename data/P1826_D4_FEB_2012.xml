@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Power Electronics Open System Interfaces in Zonal Electrical Distribution Systems Rated Above 100 kW</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Power Electronics Open System Interfaces in Zonal Electrical Distribution Systems Rated Above 100 kW</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6165428</uri>
+  <docidentifier type="IEEE">IEEE P1826/D4, February 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7464-8</docidentifier>
+  <docnumber>P1826/D4, Feb 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard identifies Open System Interfaces for High Power Electronics Equipment used in Zonal Electrical Distribution Systems rated above 100 kW. The required Power, Monitoring, Information Exchange, Control, and Protection Interfaces are based on technological maturity, accepted practices and allowances for future technology insertions. The standard also defines how Openness of System should be verified and validated through rigorous assessment mechanism, interface control management and proactive conformance testing to enable plug-and-play operability independently of components origin. Standard's applications include airports, hospitals, major data processing centers (especially those using uninterruptible power supply), broadcast systems, and maritime vessels and platforms. Existing terrestrial utilities power systems generally do not yet contain the electronic power interfaces and high speed communication networks that are essential to use of this standard, however the standard shall be applied to upgrade existing legacy systems.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Quality of service</keyword>
+  <keyword>Formal verification</keyword>
+  <keyword>Power electronics</keyword>
+  <keyword>Open systems</keyword>
+  <keyword>Interface states</keyword>
+  <keyword>Open System interfaces</keyword>
+  <keyword>Plug-and-Play</keyword>
+  <keyword>Zonal Electrical Distribution System</keyword>
+  <keyword>Quality of Service</keyword>
+  <keyword>Power Electronics Building Blocks</keyword>
+  <keyword>Verification and Validation.</keyword>
+</bibdata>

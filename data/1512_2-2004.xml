@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Public Safety Traffic Incident Management Message Sets for Use By Emergency Management Centers</title>
+  <title type="main" format="text/plain">IEEE Standard for Public Safety Traffic Incident Management Message Sets for Use By Emergency Management Centers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1470008</uri>
+  <docidentifier type="IEEE">IEEE Std 1512.2-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4491-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.96277</docidentifier>
+  <docnumber>1512.2-2004</docnumber>
+  <date type="created">
+    <on>2004-11-30</on>
+  </date>
+  <date type="published">
+    <on>2014-03-18</on>
+  </date>
+  <date type="issued">
+    <on>2004-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard addresses the exchange of vital data about public safety issues involved in transportation-related events, through common incident management message sets. Message sets specified are consistent with the National Intelligent Transportation Systems Architecture and are described using Abstract Syntax Notation One (ASN.1 or ASN) syntax. This standard comprises one companion standard of the family of incident management standards centered around a base standard, IEEE Std 1512-2000.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>911</keyword>
+  <keyword>ASN.1</keyword>
+  <keyword>ATMS</keyword>
+  <keyword>CAD</keyword>
+  <keyword>center-to-center</keyword>
+  <keyword>commercial vehicles</keyword>
+  <keyword>dangerous goods</keyword>
+  <keyword>data exchange</keyword>
+  <keyword>EMC</keyword>
+  <keyword>emergency response</keyword>
+  <keyword>emergency services</keyword>
+  <keyword>EMS</keyword>
+  <keyword>fire</keyword>
+  <keyword>hazardous materials</keyword>
+  <keyword>hazmat</keyword>
+  <keyword>incident command</keyword>
+  <keyword>incident management</keyword>
+  <keyword>incident management system</keyword>
+  <keyword>incident response</keyword>
+  <keyword>incidents</keyword>
+  <keyword>intelligent transportation systems (ITS)</keyword>
+  <keyword>law enforcement</keyword>
+  <keyword>message sets</keyword>
+  <keyword>police</keyword>
+  <keyword>public safety</keyword>
+  <keyword>TMC</keyword>
+  <keyword>traffic incident management</keyword>
+  <keyword>traffic incidents</keyword>
+  <keyword>traffic management</keyword>
+  <keyword>transportation management system</keyword>
+</bibdata>

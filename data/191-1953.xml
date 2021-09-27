@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard on Sound Recording and Reproducing Methods of Measurement of Noise</title>
+  <title type="main" format="text/plain">IEEE Standard on Sound Recording and Reproducing Methods of Measurement of Noise</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7369923</uri>
+  <docidentifier type="IEEE">IEEE Std 191-1953</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0189-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1953.7369923</docidentifier>
+  <docnumber>191-1953</docnumber>
+  <date type="updated">
+    <on>2016-01-29</on>
+  </date>
+  <date type="created">
+    <on>1953-01-12</on>
+  </date>
+  <date type="published">
+    <on>2015-12-31</on>
+  </date>
+  <date type="issued">
+    <on>1953</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Noise is a limiting factor in any system which stores information because it limits the signal-to-noise ratio and hence the total quantity of stored data. This applies in the field of sound recording and reproducing, as well as in any information storage system.</abstract>
+  <copyright>
+    <from>1953</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Audio systems</keyword>
+  <keyword>Audio recording</keyword>
+  <keyword>Measurements</keyword>
+  <keyword>Noise measurements</keyword>
+</bibdata>

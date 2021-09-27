@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security Amendment: Extended Packet Numbering</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security Amendment: Extended Packet Numbering</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6357335</uri>
+  <docidentifier type="IEEE">IEEE P802.1AEbw/D1.1, October 2012 (DRAFT Amendment to IEEE Std 802.1AE2006)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7552-2</docidentifier>
+  <docnumber>P802.1AEbw/D1.1, Oct 2012</docnumber>
+  <date type="created">
+    <on>2012-11-17</on>
+  </date>
+  <date type="published">
+    <on>2012-11-20</on>
+  </date>
+  <date type="issued">
+    <on>2012-11-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the optional use of Cipher Suites that make use of a 64-bit (PN) to allow more than 232 MACsec protected frames to be sent with a single Secure Association Key.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AE-2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Security</keyword>
+  <keyword>Authorization</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>data origin authenticity</keyword>
+  <keyword>integrity</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>port based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>transparent bridging.</keyword>
+</bibdata>

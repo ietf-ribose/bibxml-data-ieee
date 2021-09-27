@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ANSI American National Standard Guide for Induction Motor protection</title>
+  <title type="main" format="text/plain">ANSI American National Standard Guide for Induction Motor protection</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7444084</uri>
+  <docidentifier type="IEEE">ANSI/IEEE C37.92-1969 (IEEE 288-1969)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0506-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1969.7444084</docidentifier>
+  <docnumber>C37.92-1969</docnumber>
+  <date type="updated">
+    <on>2016-04-15</on>
+  </date>
+  <date type="created">
+    <on>1969-08-10</on>
+  </date>
+  <date type="published">
+    <on>2016-03-30</on>
+  </date>
+  <date type="issued">
+    <on>1968-03-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The application guide for relay protection of squirrel-cage and wound-rotor induction motors presents a review of the generally accepted forms of motor protection and summarizes the use of relays and devices, singly and in combination, to enable the reader to properly select the necessary equipment to obtain adequate motor protection. The Guide is prepared primarily for the protection of three-phase integral-horsepower motors and refers to single- or two-phase motors only in special instances and only where specifically indicated. It is especially useful where the motor installation is sufficiently important, due to either its size or the consequences of motor malfunction, to justify specific design of the protective system. It also provides the information necessary to judge whether there are safety or economic reasons for such a specific design.</abstract>
+  <copyright>
+    <from>1969</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Induction motors</keyword>
+  <keyword>Power system protection</keyword>
+</bibdata>

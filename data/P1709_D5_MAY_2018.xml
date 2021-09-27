@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for 1 kV to 35 kV Medium-Voltage DC Power Systems on Ships</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for 1 kV to 35 kV Medium-Voltage DC Power Systems on Ships</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8363119</uri>
+  <docidentifier type="IEEE">IEEE P1709/D5, May 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4937-3</docidentifier>
+  <docnumber>P1709/D5, May 2018</docnumber>
+  <date type="created">
+    <on>2018-05-22</on>
+  </date>
+  <date type="published">
+    <on>2018-05-23</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidelines to specify, procure, design, manufacture and develop manuals, safety procedures, practices and procedures for effective maintenance of medium-voltage direct current (MVDC) electrical power systems are discussed in this recommended practice. Recommendations are made for analytical methods, preferred interconnection interfaces and performance characteristics for reliable integration of MVDC electrical components into the ship MVDC electrical power systems.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1709-2010</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Marine vehicles</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>Medium voltage</keyword>
+  <keyword>Power control</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>IEEE 1709</keyword>
+  <keyword>integrated power systems</keyword>
+  <keyword>marine electrical-power systems</keyword>
+  <keyword>medium-voltage direct current</keyword>
+  <keyword>MVDC</keyword>
+  <keyword>PEBB</keyword>
+  <keyword>power electronic building blocks</keyword>
+  <keyword>power electronics</keyword>
+</bibdata>

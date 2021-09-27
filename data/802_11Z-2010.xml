@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications Amendment 7: Extensions to Direct-Link Setup (DLS)</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications Amendment 7: Extensions to Direct-Link Setup (DLS)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5605400</uri>
+  <docidentifier type="IEEE">IEEE Std 802.11z-2010 (Amendment to IEEE Std 802.11-2007 as amended by IEEE Std 802.11k-2008, IEEE Std 802.11r-2008, IEEE Std 802.11y-2008, IEEE Std 802.11w-2009, IEEE Std 802.11n-2009, and IEEE Std 802.11p-2010)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6499-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5605400</docidentifier>
+  <docnumber>802.11z-2010</docnumber>
+  <date type="updated">
+    <on>2010-11-01</on>
+  </date>
+  <date type="created">
+    <on>2010-10-14</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment provides direct-link setup enhancements to the IEEE 802.11 MAC and PHY, extending direct-link setup to be independent of the access point (AP), and adding power save capabilities. The direct-link setup is made independent of the AP by tunneling the protocol messages inside data frames.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment provides direct-link setup enhancements to the IEEE 802.11 MAC and PHY, extending direct-link setup to be independent of the access point (AP), and adding power save capabilities. The direct-link setup is made independent of the AP by tunneling the protocol messages inside data frames.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2007 (Revision of IEEE Std 802.11-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>channel switching</keyword>
+  <keyword>direct link</keyword>
+  <keyword>off-channel direct link</keyword>
+  <keyword>power saving</keyword>
+  <keyword>tunneled directlink setup</keyword>
+</bibdata>

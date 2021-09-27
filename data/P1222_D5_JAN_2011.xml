@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Testing and Performance for All-Dielectric Self-Supporting (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Testing and Performance for All-Dielectric Self-Supporting (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5706457</uri>
+  <docidentifier type="IEEE">P1222/D5 January, 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6568-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5706457</docidentifier>
+  <docnumber>P1222/D5 Jan, 2011</docnumber>
+  <date type="created">
+    <on>2011-01-31</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2011-03-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard covers the construction, mechanical, electrical and optical performance, installation guidelines, acceptance criteria, test requirements, and environmental considerations for an all-dielectric self-supporting fiber optic cable designed to be located on overhead electric power utility and telecommunications facilities. This does not include cables used for underground installations.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1222-2004</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Dielectric materials</keyword>
+  <keyword>Optical fiber cables</keyword>
+  <keyword>Power line communications</keyword>
+  <keyword>ADSS</keyword>
+  <keyword>all-dielectric self-supporting fiber optic cable</keyword>
+  <keyword>IEEE 1222</keyword>
+  <keyword>overhead utility</keyword>
+</bibdata>

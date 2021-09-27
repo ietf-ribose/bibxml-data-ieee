@@ -1,0 +1,37 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Protective Relay Applications to Power System Buses</title>
+  <title type="main" format="text/plain">IEEE Guide for Protective Relay Applications to Power System Buses</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5154145</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std PC37.234/D9.10, Jun 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3456-0</docidentifier>
+  <docnumber>PC37.234/D9.10, Jun 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Concepts of power bus protection are discussed in this guide. Consideration is given to availability and location of breakers, current transformers and disconnectors as well as bus switching scenarios, and their impact on selection and application of bus protection. A number of bus protection schemes are presented; their adequacy, complexity, strengths and limitations with respect to variety of bus arrangements are discussed; specific application guidelines are provided. Breaker failure protection is discussed as pertaining to bus protection. Means of securing bus protection schemes against corrupted relay input signals are also included.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Protective Relaying</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide to Select Terminations for Shielded Alternating-Current Power Cable Rated 5 kV</title>
+  <title type="title-main" format="text/plain">46 kV</title>
+  <title type="main" format="text/plain">IEEE Guide to Select Terminations for Shielded Alternating-Current Power Cable Rated 5 kV - 46 kV</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5464501</uri>
+  <docidentifier type="IEEE">IEEE Std 1637-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6157-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5464501</docidentifier>
+  <docnumber>1637-2010</docnumber>
+  <date type="updated">
+    <on>2010-06-01</on>
+  </date>
+  <date type="created">
+    <on>2010-05-05</on>
+  </date>
+  <date type="published">
+    <on>2021-07-27</on>
+  </date>
+  <date type="issued">
+    <on>2010-02-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A step-by-step process for selecting an appropriate termination that is commensurate with a particular shielded power cable design is provided in this guide. Over the years, shielded power cables have been developed that employ many different insulating materials and many different shielding systems, such that, there are numerous issues to consider when selecting a termination for a particular cable design. Over the same period of time, many different termination methods and designs have been developed that serve the same purpose, but employ different application methodologies. This guide does not attempt to cover every cable and termination design, and is generally restricted to single conductor underground residential distribution (URD) and shielded power cable that have a voltage rating from 5 kV 46 kV, which includes some industrial cables. By nature, the terminations referred to in this guide are considered to be "live front," in that the terminations comprise a transition from a shielded power cable system to an energized component or bus that is either bare or simply covered.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A step-by-step process for selecting an appropriate termination that is commensurate with a particular shielded power cable design is provided in this guide. Over the years, shielded power cables have been developed that employ many different insulating materials and many different shielding systems, such that, there are numerous issues to consider when selecting a termination for a particular cable design. Over the same period of time, many different termination methods and designs have been developed that serve the same purpose, but employ different application methodologies. This guide does not attempt to cover every cable and termination design, and is generally restricted to single conductor underground residential distribution (URD) and shielded power cable that have a voltage rating from 5 kV &amp;amp;#8211; 46 kV, which includes some industrial cables. By nature, the terminations referred to in this guide are considered to be “live front,” in that the terminations comprise a transition from a shielded power cable system to an energized component or bus that is either bare or simply covered.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE P1637/D1, July 2019</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Cable shielding</keyword>
+  <keyword>power cable</keyword>
+  <keyword>shielded</keyword>
+  <keyword>termination</keyword>
+</bibdata>

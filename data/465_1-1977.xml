@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Specifications for Gas Tube Surge Protecting Devices</title>
+  <title type="main" format="text/plain">IEEE Standard Test Specifications for Gas Tube Surge Protecting Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7422621</uri>
+  <docidentifier type="IEEE">IEEE Std 465.1-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0357-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7422621</docidentifier>
+  <docnumber>465.1-1977</docnumber>
+  <date type="updated">
+    <on>2016-04-29</on>
+  </date>
+  <date type="created">
+    <on>1977</on>
+  </date>
+  <date type="published">
+    <on>2016-03-01</on>
+  </date>
+  <date type="issued">
+    <on>1976-09-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to surge-protective devices for application on systems with voltages equal to or less than 600 V rms. These protective devices are designed to limit voltage surges on balanced or unbalanced communication circuits and dc to 420 Hz power circuits. This standard contains a series of standard test criteria for determining the electrical characteristics of these gas tube devices. The tests in this standard are intended as design tests as defined under "design tests" in IEEE Std 100-1972, IEEE Standard Dictionary of Electrical and Electronics Terms, and provide a means of comparison among various gas tube surge-protective devices.' Gas tube devices are used to provide overvoltage protection in electrical circuits. When the gas tube's breakdown voltage is exceeded, the tube's normal high impedance state changes to a low impedance state to allow the gas tube to conduct the surge discharge current. After the tube conducts the surge discharge current, it interrupts the flow of power follow current and returns to its high impedance state. This standard's test criteria and definitions provide a common engineering language beneficial to user and manufacturer of gas tube surge-protective devices. Due to the voltage and energy levels employed in the majority of tests contained herein, all measurements should be considered dangerous and appropriate caution should be taken in their performance.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Gas tubes</keyword>
+  <keyword>Arresters</keyword>
+  <keyword>Electric breakdown</keyword>
+  <keyword>Electron tubes</keyword>
+  <keyword>Impedance</keyword>
+</bibdata>

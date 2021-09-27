@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft Standard Protection Profile for Hardcopy Devices in IEEE Std. 2600&amp;amp;trade;-2008 Operational Environment C</title>
+  <title type="main" format="text/plain">Draft Standard Protection Profile for Hardcopy Devices in IEEE Std. 2600&amp;amp;trade;-2008 Operational Environment C</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5286927</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P2600.3/D47a, Oct 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3147-7</docidentifier>
+  <docnumber>P2600.3/D47a, Oct 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Standard for a Protection Profile for Hardcopy Devices in a public-facing environment in which document security is not guaranteed, but access control and usage accounting are important to the operator of the environment. A retail copy center, public library, Internet caf¿, and hotel business center are typical applications of this environment. This environment will be known as "Operational Environment C."</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Paper</keyword>
+  <keyword>Document</keyword>
+  <keyword>Printer</keyword>
+  <keyword>Scanner</keyword>
+  <keyword>Copier</keyword>
+  <keyword>Facsimile</keyword>
+  <keyword>Fax</keyword>
+  <keyword>Document Server</keyword>
+  <keyword>Document Storage and Retrieval</keyword>
+  <keyword>Nonvolatile storage</keyword>
+  <keyword>Residual data</keyword>
+  <keyword>Temporary data</keyword>
+  <keyword>Disk overwrite</keyword>
+  <keyword>Network interface</keyword>
+  <keyword>Shared communications medium</keyword>
+  <keyword>Multifunction Device</keyword>
+  <keyword>Multifunction Product</keyword>
+  <keyword>All-In-One</keyword>
+  <keyword>MFD</keyword>
+  <keyword>MFP</keyword>
+  <keyword>Network</keyword>
+  <keyword>Office</keyword>
+  <keyword>ISO/IEC 15408</keyword>
+  <keyword>Common Criteria</keyword>
+  <keyword>Protection Profile</keyword>
+  <keyword>Security Target</keyword>
+</bibdata>

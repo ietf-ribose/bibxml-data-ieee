@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Cylindrical-Rotor 50 Hz and 60 Hz Synchronous Generators Rated 10 MVA and Above</title>
+  <title type="main" format="text/plain">IEEE Standard for Cylindrical-Rotor 50 Hz and 60 Hz Synchronous Generators Rated 10 MVA and Above</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1597615</uri>
+  <docidentifier type="IEEE">IEEE Std C50.13-2005</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4825-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.99083</docidentifier>
+  <docnumber>C50.13-2005</docnumber>
+  <date type="created">
+    <on>2006-02-15</on>
+  </date>
+  <date type="published">
+    <on>2013-09-20</on>
+  </date>
+  <date type="issued">
+    <on>2005-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The requirements in this standard are applied to 50 Hz and 60 Hz, two-pole and four-pole, cylindrical-rotor synchronous generators driven by steam turbines and/or by combustion gas turbines. The drive may be direct or through a gearbox or other device that permits different speeds for the turbine and the generator. The generators covered by this standard are to have rated outputs of 10 MVA and above.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C50.13-1977 (Revision of C50.13-1965)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C50.13-2014 (Revision of IEEE Std C50.13-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Synchronous generators</keyword>
+  <keyword>Generators</keyword>
+  <keyword>AC machines</keyword>
+  <keyword>Turbines</keyword>
+  <keyword>Combustion</keyword>
+  <keyword>Rotors</keyword>
+  <keyword>ac generator</keyword>
+  <keyword>combustion gas turbine generator</keyword>
+  <keyword>cylindrical-rotor generator</keyword>
+  <keyword>steam turbine generator</keyword>
+  <keyword>synchronous generator</keyword>
+  <keyword>turbine generator</keyword>
+</bibdata>

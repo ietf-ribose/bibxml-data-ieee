@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Interpretation of Gases Generated in Oil-Immersed Transformers</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Interpretation of Gases Generated in Oil-Immersed Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8635627</uri>
+  <docidentifier type="IEEE">IEEE PC57.104/D6, November 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5519-0</docidentifier>
+  <docnumber>PC57.104/D6, Nov 2018</docnumber>
+  <date type="created">
+    <on>2018-12-02</on>
+  </date>
+  <date type="published">
+    <on>2019-02-05</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Detailed procedures for interpreting Dissolved Gas Analysis results are described. The document details: 1) Overview of gas generation in transformer and DGA process. 2) The purpose and application of DGA. 3) DGA quality verification and DGA limitations. 5) DGA interpretation and norms. 6) Fault type definitions and identification. 7) Case studies and interpretation example. The intent is to provide the operator with useful information concerning the serviceability of the equipment. An extensive bibliography on gas evolution, detection, and interpretation is included.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.104-2008 (Revision of IEEE Std C57.104-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Dissolved gas analysis</keyword>
+  <keyword>Oil insulation</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>DGA</keyword>
+  <keyword>gas analysis</keyword>
+  <keyword>mineral oil</keyword>
+  <keyword>mineral oil-filled transformers</keyword>
+  <keyword>transformers</keyword>
+</bibdata>

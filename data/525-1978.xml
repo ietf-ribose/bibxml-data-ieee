@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Selection and Installation of Control and Low-Voltage Cable Systems in Substations</title>
+  <title type="main" format="text/plain">IEEE Guide for Selection and Installation of Control and Low-Voltage Cable Systems in Substations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7430195</uri>
+  <docidentifier type="IEEE">IEEE Std 525-1978</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0383-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1978.7430195</docidentifier>
+  <docnumber>525-1978</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>1978-10-06</on>
+  </date>
+  <date type="published">
+    <on>2016-03-10</on>
+  </date>
+  <date type="issued">
+    <on>1977-12-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Thep lose of this guide is to: (1) Outline requirements and establish design guides for the application and installation of control and low-voltage power cables in electric power transmission and distribution substations, emphasizing electrical service with maximum reliability during the entire life of the substation (2) Provide references to industry standard design specifications for control and low-voltage power cables suitable for use in substations (3) Provide a comprehensive bibliography of literature related to the subject.</abstract>
+  <copyright>
+    <from>1978</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 525-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Cable installations</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Substations</keyword>
+</bibdata>

@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Radio Over Ethernet Encapsulations and Mappings</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Radio Over Ethernet Encapsulations and Mappings</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8319898</uri>
+  <docidentifier type="IEEE">IEEE P1914.3/D3.1, March 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4783-6</docidentifier>
+  <docnumber>P1914.3/D3.1, Mar 2018</docnumber>
+  <date type="created">
+    <on>2018-01-01</on>
+  </date>
+  <date type="published">
+    <on>2018-03-17</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The encapsulation and mapping of radio protocols for transport over Ethernet frames, using radio over Ethernet (RoE), are defined in this standard. Structure-agnostic definitions are provided for any digitized radio data. Structure-aware definitions are provided for the Common Public Radio Interface (CPRI(TM)). Native mode definitions are provided for digitized radio in-phase and quadrature (I/Q) payload.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Encapsulation</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>IEEE 1914.3(TM)</keyword>
+  <keyword>native RoE</keyword>
+  <keyword>radio over Ethernet</keyword>
+  <keyword>RoE</keyword>
+  <keyword>RoE de-mapper</keyword>
+  <keyword>RoE mapper</keyword>
+  <keyword>structure-agnostic</keyword>
+  <keyword>structure-aware</keyword>
+</bibdata>

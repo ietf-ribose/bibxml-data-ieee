@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Maintenance, Testing, and Replacement of Valve- Regulated Lead-Acid (VRLA) Batteries for Stationary Applications</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Maintenance, Testing, and Replacement of Valve- Regulated Lead-Acid (VRLA) Batteries for Stationary Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/511266</uri>
+  <docidentifier type="IEEE">IEEE Std 1188-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1117-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81039</docidentifier>
+  <docnumber>1188-1996</docnumber>
+  <date type="created">
+    <on>1996-08-20</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1996-06-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 1188-2005 Maintenance, test schedules and testing procedures that can be used to optimize the life and performance of valve-regulated lead-acid (VRLA) batteries for stationary applications are covered. Guidance to determine when batteries should be replaced is also provided.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 336-2005 (Revision of IEEE Std 336-1985)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>testing</keyword>
+  <keyword>replacement</keyword>
+  <keyword>valve-regulated</keyword>
+  <keyword>batteries</keyword>
+</bibdata>

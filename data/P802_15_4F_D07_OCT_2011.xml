@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) Amendment: Active Radio Frequency Identification (RFID) System Physical Layer (PHY)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) Amendment: Active Radio Frequency Identification (RFID) System Physical Layer (PHY)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6051450</uri>
+  <docidentifier type="IEEE">IEEE P802.15.4f/D07, October 2011 (Amendment of IEEE P802.15.4-2011)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6918-7</docidentifier>
+  <docnumber>P802.15.4f/D07, Oct 2011</docnumber>
+  <date type="created">
+    <on>2011-10-18</on>
+  </date>
+  <date type="issued">
+    <on>2011-10-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Amendment to IEEE Standard P802.15.4-2011. This amendment provides two PHYs (MSK and LRP UWB) that can be used in a wide range of applications requiring various combinations of low cost, low energy consumption, multi-year battery life, reliable communications, precision location and reader options. This PHY standard supports the performance and flexibility needed for future mass deployments of highly populated autonomous Active RFID Systems anywhere in the world.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Radiofrequency identification</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Ad hoc networks</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Active RFID</keyword>
+  <keyword>RFID</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>mobility</keyword>
+  <keyword>PAN</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>short range</keyword>
+  <keyword>wireless</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Protection of Shunt Capacitor Banks</title>
+  <title type="main" format="text/plain">IEEE Guide for Protection of Shunt Capacitor Banks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30653</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C37.99-1980</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4287-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.82388</docidentifier>
+  <docnumber>C37.99-1980</docnumber>
+  <date type="created">
+    <on>1980-12-16</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1979-03-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by C37.99-1990. IEEE Guide for the Protection of Shunt Capacitor Banks, assists in the effective application of relays and other devices for the protection of shunt capacitors used in substations. It covers the protective considerations, along with recommended and alternate methods of protection for the most commonly used capacitor bank configurations. Capacitor bank design trade-offs are also discussed. This guide covers protection of filter tanks and very large EHV capacitor banks, but does not include a discussion of pole-mounted capacitor banks on distribution circuits or application of capacitors connected to rotating apparatus.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.99-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Overcurrent protection</keyword>
+  <keyword>Overvoltage protection</keyword>
+  <keyword>Power capacitors</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Standardization</keyword>
+  <keyword>shunt</keyword>
+  <keyword>capacitor</keyword>
+  <keyword>banks</keyword>
+</bibdata>

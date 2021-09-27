@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">IEEE Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/574685</uri>
+  <docidentifier type="IEEE">ANSI Std C63.4-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3067-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.81716</docidentifier>
+  <docnumber>C63.4-1992</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1992</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Uniform methods of measurement of radio noise emitted from low-voltage electrical and electronic equipment, including digital and other information technology equipment, in the frequency range of 9 kHz to 40 GHz are set forth. Both unintentional and certain intentional radiators are included. Methods for the measurement of radiated and powerline conducted radio noise are covered and may be applied to any such equipment unless otherwise specified by individual equipment requirements.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI Std C63.4-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>conducting ground plane</keyword>
+  <keyword>conducted emission testing</keyword>
+  <keyword>digital equipment</keyword>
+  <keyword>electric field measurement</keyword>
+  <keyword>information technology equipment</keyword>
+  <keyword>intentional radiators</keyword>
+  <keyword>line impedance stabilization network</keyword>
+  <keyword>low-voltage electrical equipment</keyword>
+  <keyword>low-voltage electronic equipment</keyword>
+  <keyword>magnetic field measurement</keyword>
+  <keyword>normalized site attenuation</keyword>
+  <keyword>periodic intentional radiators</keyword>
+  <keyword>powerline conducted radio noise</keyword>
+  <keyword>radiated emission testing</keyword>
+  <keyword>radio-noise emissions</keyword>
+  <keyword>radio-noise power</keyword>
+  <keyword>site attenuation</keyword>
+  <keyword>unintentional radiators.</keyword>
+</bibdata>

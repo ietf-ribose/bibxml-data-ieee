@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Protection and Coordination of Industrial and Commercial Power Systems</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Protection and Coordination of Industrial and Commercial Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27904</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 242-1986</docidentifier>
+  <docidentifier type="ISBN">0-7381-4720-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1986.81071</docidentifier>
+  <docnumber>242-1986</docnumber>
+  <date type="created">
+    <on>1986</on>
+  </date>
+  <date type="published">
+    <on>2017-02-06</on>
+  </date>
+  <date type="issued">
+    <on>1985-09-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The ANSI/IEEE Std 242-1986, the IEEE Buff Book, deals with the proper selection, application, and coordination of the components which constitute system protection for industrial plants and commercial buildings. System protection and coordination serve to minimize damage to a system and its components in order to limit the extent and duration of any service interruption occurring on any portion of the system. This recommended practice is for use at the system design stage as well as in modifying existing operations. It is arranged in a convenient step-by-step format. Complete information on protection and coordination principles designed to protect industrial and commercial power systems against any abnormalities which could reasonably be expected to occur in the course of system operation is presented.</abstract>
+  <copyright>
+    <from>1986</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 242-2001 (Revision of IEEE Std 242-1986) [IEEE Buff Book]</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Industrial plants</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Industrial plants</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Standards</keyword>
+  <keyword>buff book</keyword>
+</bibdata>

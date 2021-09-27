@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE/IEC International Standard for High-voltage switchgear and controlgear -- Part 37-013: Alternating-current generator circuit-breakers</title>
+  <title type="main" format="text/plain">IEEE/IEC International Standard for High-voltage switchgear and controlgear -- Part 37-013: Alternating-current generator circuit-breakers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7320943</uri>
+  <docidentifier type="IEEE">IEC/IEEE 62271-37-013:2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9852-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2015.7320943</docidentifier>
+  <docnumber>62271-37-013-2015</docnumber>
+  <date type="updated">
+    <on>2015-11-27</on>
+  </date>
+  <date type="created">
+    <on>2015-10-30</on>
+  </date>
+  <date type="published">
+    <on>2015-11-05</on>
+  </date>
+  <date type="issued">
+    <on>2015-09-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This part of IEC 62271 is applicable to three-phase a.c. high-voltage generator circuit-breakers, hereafter called generator circuit-breaker, designed for indoor or outdoor installation and for operation at frequencies of 50 Hz and 60 Hz on systems having voltages above 1 kV and up to 38 kV. It is applicable to generator circuit-breakers that are installed between the generator and the transformer terminals. Requirements relative to generator circuit-breakers intended for use with generators and transformers rated 10 MVA or more are covered specifically. Generator circuits rated less than 10 MVA and pumped storage installations are considered special applications, and their requirements are not completely covered by this standard. This standard is also applicable to the operating mechanisms of generator circuit-breakers and to their auxiliary equipment.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.013-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Generators</keyword>
+  <keyword>Current distribution</keyword>
+  <keyword>Circuit breakers</keyword>
+</bibdata>

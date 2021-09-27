@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Determination of Power Losses in High-Voltage Direct-Current (HVDC) Converter Stations</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Determination of Power Losses in High-Voltage Direct-Current (HVDC) Converter Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/161179</uri>
+  <docidentifier type="IEEE">IEEE Std 1158-1991</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3147-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.101093</docidentifier>
+  <docnumber>1158-1991</docnumber>
+  <date type="created">
+    <on>1992-02-26</on>
+  </date>
+  <date type="published">
+    <on>2019-04-09</on>
+  </date>
+  <date type="issued">
+    <on>1991-09-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Withdrawn Standard. Withdrawn Date: Jan 10, 2002. No longer endorsed by the IEEE. A set of standard procedures for determining and verifying the total losses of a high-voltage direct-current (HVDC) converter station is recommended. The procedures are applicable to all parts of the converter station and cover standby, partial load, and full load losses and methods of calculation and measurement. All line commutated converter stations used for power exchange in utility systems are covered. Loss determination procedures for synchronous compensators or static var compensators are not included.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>DC power transmission</keyword>
+  <keyword>Losses</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Substations</keyword>
+  <keyword>HVDC</keyword>
+  <keyword>Power losses</keyword>
+  <keyword>HVDC converter stations</keyword>
+</bibdata>

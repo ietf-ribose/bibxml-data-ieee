@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Grounding of Industrial and Commercial Power Systems (IEEE Green Book)</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Grounding of Industrial and Commercial Power Systems (IEEE Green Book)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/18475</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 142-1982</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4149-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1982.119223</docidentifier>
+  <docnumber>142-1982</docnumber>
+  <date type="created">
+    <on>1982</on>
+  </date>
+  <date type="published">
+    <on>2013-01-10</on>
+  </date>
+  <date type="issued">
+    <on>1982-06-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The problems of system grounding, that is, connection to ground of neutral, of the corner of the delta, or of the midtap of one phase, are covered. The advantages and disadvantages of grounded versus ungrounded systems are discussed. Information is given on how to ground the system, where the system should be grounded, and how to select equipment for the grounding of the neutral circuits. Connecting the frames and enclosures of electric apparatus, such as motors, switchgear, transformers, buses, cables conduits, building frames, and portable equipment, to a ground system is addressed. The fundamentals of making the interconnection or ground-conductor system between electric equipment and the ground rods, water pipes, etc. are outlined. The problems of static electricity&amp;amp;amp;#8212;how it is generated, what processes may produce it, how it is measured, and what should be done to prevent its generation or to drain the static charges to earth to prevent sparking&amp;amp;amp;#8212;are treated. Methods of protecting structures against the effects of lightning are also covered. Obtaining a low-resistance connection to the earth, use of ground rods, connections to water pipes, etc. is discussed. A separate chapter on sensitive electronic equipment is included.</abstract>
+  <copyright>
+    <from>1982</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 142-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Grounding</keyword>
+  <keyword>Electrostatic analysis</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>Standards</keyword>
+  <keyword>grounding</keyword>
+  <keyword>industrial</keyword>
+  <keyword>commercial</keyword>
+  <keyword>power</keyword>
+  <keyword>systems</keyword>
+</bibdata>

@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for the Application of Neutral Grounding in Electrical Utility Systems, Part II</title>
+  <title type="title-main" format="text/plain">Grounding of Synchronous Generator Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Neutral Grounding in Electrical Utility Systems, Part II - Grounding of Synchronous Generator Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4140768</uri>
+  <docidentifier type="IEEE">IEEE Std C62.92.2-1989</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0933-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.339564</docidentifier>
+  <docnumber>C62.92.2-1989</docnumber>
+  <date type="created">
+    <on>1989</on>
+  </date>
+  <date type="published">
+    <on>2015-07-17</on>
+  </date>
+  <date type="issued">
+    <on>1989-02-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">General considerations for grounding synchronous generator systems are summarized, focusing on the objectives of generator grounding. The factors to be considered in the selection of a grounding class and the application of grounding methods are discussed. Four generator grounding types are considered: unit-connected generation systems, common-bus generators without feeders, generators with feeders directly connected at generated voltage, and three-phase, 4-wire connected generators.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.92.2-2017 (Revision of IEEE Std C62.92.2-1989)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>Electricity supply industry</keyword>
+  <keyword>Power distribution</keyword>
+</bibdata>

@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Data Delivery and Logical Channels for IEEE 1284 Interfaces</title>
+  <title type="main" format="text/plain">IEEE Standard for Data Delivery and Logical Channels for IEEE 1284 Interfaces</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/891007</uri>
+  <docidentifier type="IEEE">IEEE Std 1284.4-2000</docidentifier>
+  <docidentifier type="ISBN">0-7381-2480-X</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.92293</docidentifier>
+  <docnumber>1284.4-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="issued">
+    <on>2000-06-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A device to carry on multiple, concurrent exchanges of data and/or control information with another device across a single point-to-point link allowed by the packet protocol is described in this standard. The protocol is not a device control language. The protocol provides basic transport-level flow control and multiplexing services. The multiplexed information exchanges are independent, and blocking of one has no effect on any other. The protocol shall operate over inter-faces such as described in IEEE Std 1284-2000.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

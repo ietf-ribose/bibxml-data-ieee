@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Ratings and Requirements for AC High-Voltage Circuit Breakers with Rated Maximum Voltage Above 1000 V</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Ratings and Requirements for AC High-Voltage Circuit Breakers with Rated Maximum Voltage Above 1000 V - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8751184</uri>
+  <docidentifier type="IEEE">IEEE Std C37.04-2018 (Revision of IEEE Std C37.04-1999) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5954-9</docidentifier>
+  <docnumber>C37.04-2018</docnumber>
+  <date type="created">
+    <on>2019-05-31</on>
+  </date>
+  <date type="published">
+    <on>2019-06-28</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The rating structure for all high-voltage circuit breakers, which include all voltage ratings above 1000 V ac and comprise both indoor and outdoor types, is covered in this standard. Preferred ratings are also provided. Typical circuit breakers covered by these standards have maximum voltage ratings ranging from 4.76 kV through 800 kV, and continuous current ratings of 600 A, 1200 A, 2000 A, 3000 A, and 4000 A associated with the various maximum voltage ratings. The rating structure establishes the basis for all assigned ratings, including continuous current, insulation capability (formerly dielectric withstand voltages), short-circuit current, transient recovery voltage, and capacitor switching, plus associated capabilities such as mechanical endurance, load current, and out-of-phase switching. Generator circuit breakers are covered by IEC/IEEE Std 62271-37-013.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.04-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Optical fiber communication</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>Current distribution</keyword>
+  <keyword>capacitive current switching</keyword>
+  <keyword>IEEE C37.04</keyword>
+  <keyword>indoor</keyword>
+  <keyword>insulation capability</keyword>
+  <keyword>interrupting time</keyword>
+  <keyword>mechanical endurance</keyword>
+  <keyword>outdoor</keyword>
+  <keyword>operating duty</keyword>
+  <keyword>power frequency</keyword>
+  <keyword>ratings</keyword>
+  <keyword>related capabilities</keyword>
+  <keyword>short-circuit current</keyword>
+  <keyword>short-line fault</keyword>
+  <keyword>transient recovery voltage</keyword>
+</bibdata>

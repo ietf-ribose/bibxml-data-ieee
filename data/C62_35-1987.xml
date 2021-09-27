@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Specifications for Avalanche Junction Semiconductor Surge Protective Devices</title>
+  <title type="main" format="text/plain">IEEE Standard Test Specifications for Avalanche Junction Semiconductor Surge Protective Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26545</uri>
+  <docidentifier type="IEEE">IEEE Std C62.35-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1696-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.79633</docidentifier>
+  <docnumber>C62.35-1987</docnumber>
+  <date type="created">
+    <on>1989-01-31</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1987-09-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A two-terminal avalanche junction surge suppressor for surge-protective application on systems with dc to 420-Hz frequency and voltages equal to or less than 1000 V rms or 1200 V dc is considered. The device is a single package that may be assembled from any combination of series and/or parallel diode chips. Definitions, service conditions, and a series of test criteria for determining its electrical characteristics are provided. These devices are used as surge diverters for limiting transient overvoltages in power and communications circuits.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Avalanche diodes</keyword>
+  <keyword>Semiconductor device testing</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Transients</keyword>
+  <keyword>Semiconductor device testing</keyword>
+  <keyword>Power system transients</keyword>
+  <keyword>Avalanche diodes</keyword>
+</bibdata>

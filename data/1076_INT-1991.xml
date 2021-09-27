@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards Interpretations: IEEE Std 1076-1987, IEEE Standard VHDL Language Reference Manual</title>
+  <title type="main" format="text/plain">IEEE Standards Interpretations: IEEE Std 1076-1987, IEEE Standard VHDL Language Reference Manual</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159455</uri>
+  <docidentifier type="IEEE">IEEE Std 1076/INT-1991</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7181-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.101084</docidentifier>
+  <docnumber>1076/INT-1991</docnumber>
+  <date type="created">
+    <on>1992-02-21</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1991</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A series of analyses of various problems regarding the interpretation of the VHSIC Hardware Description Language (VHDL) was carried out by VHDL experts on the VHDL Analysis and Standardization Group, the working group that developed the original IEEE Std 1076-1987. The results of these deliberations are presented in this document. The intent is to give the VHDL community reasonable ways of interpreting the unclear portions of the standard.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Design automation</keyword>
+  <keyword>Specification languages</keyword>
+  <keyword>Standards</keyword>
+  <keyword>interpretations</keyword>
+  <keyword>LRM</keyword>
+  <keyword>VHDL</keyword>
+  <keyword>VHSIC</keyword>
+  <keyword>Hardware</keyword>
+  <keyword>language</keyword>
+</bibdata>

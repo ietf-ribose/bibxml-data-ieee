@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Supplement to Media Access Control (MAC) Bridges</title>
+  <title type="title-main" format="text/plain">IEEE Standard 802.6 Distributed Queue Dual Bus (DQDB) Subnetwork of a MAN</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Supplement to Media Access Control (MAC) Bridges - IEEE Standard 802.6 Distributed Queue Dual Bus (DQDB) Subnetwork of a MAN</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/552900</uri>
+  <docidentifier type="IEEE">IEEE Std 802.6k-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0282-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.81540</docidentifier>
+  <docnumber>802.6k-1992</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="published">
+    <on>2019-10-31</on>
+  </date>
+  <date type="issued">
+    <on>1992-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Modifications and additions to IEEE Std 802.1D-1990 that extend its scope and field of application to transparent bridging between 802.6 Subnetworks of MANs and between Fibre Distributed Data Interface (FDDI), IEEE 802 LANs and 802.6 Subnetworks of MANs are specified.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1D-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ISO Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>EPON</keyword>
+  <keyword>distributed queue dual bus (DQDB)</keyword>
+  <keyword>media access control bridges</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>metropolitan area networks</keyword>
+</bibdata>

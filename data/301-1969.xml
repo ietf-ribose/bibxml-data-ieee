@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Test Procedures for Amplifiers and Preamplifiers for Semiconductor Radiation Detectors (For Ionizing Radiation)</title>
+  <title type="main" format="text/plain">IEEE Test Procedures for Amplifiers and Preamplifiers for Semiconductor Radiation Detectors (For Ionizing Radiation)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684393</uri>
+  <docidentifier type="IEEE">IEEE Std 301-1969 (ANSI N42.2-1969)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0277-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1968.8684393</docidentifier>
+  <docnumber>301-1969</docnumber>
+  <date type="created">
+    <on>1968-11-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1969-02-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Semiconductor radiation detectors have come into widespread use in recent years for detection of ionizing radiation. Both silicon and germanium detectors have been developed with silicon finding its principal application in the detection and analysis of heavy charged particles. Germanium detectors with their relatively high atomic number (as compared with silicon) and with large sensitive volumes have come into widespread use in the detection and analysis of gamma radiation. The advent of semiconductor detectors has stimulated development of electronic instruments with characteristics that permit exploitation of their capabilities. This has made desirable standard test procedures so that measurements may have the same meaning to all manufacturers and users. This Test Procedure is not intended to imply that all tests described herein are mandatory, but only that such tests as are carried out should be performed in accordance with the procedures herein.</abstract>
+  <copyright>
+    <from>1969</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 301-1976</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 301-1976</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 301-1976</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Detectors</keyword>
+  <keyword>Preamplifiers</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Semiconductor device measurement</keyword>
+  <keyword>Capacitors</keyword>
+  <keyword>Capacitance</keyword>
+  <keyword>Semiconductor radiation detectors</keyword>
+</bibdata>

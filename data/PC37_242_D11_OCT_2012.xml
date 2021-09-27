@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Guide for Synchronization, Calibration, Testing, and Installation of Phasor Measurement Units (PMU) for Power System Protection and Control</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Guide for Synchronization, Calibration, Testing, and Installation of Phasor Measurement Units (PMU) for Power System Protection and Control</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6473804</uri>
+  <docidentifier type="IEEE">IEEE PC37.242/D11, October 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7467-9</docidentifier>
+  <docnumber>PC37.242/D11, Oct 2012</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-03-05</on>
+  </date>
+  <date type="issued">
+    <on>2013-02-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The document provides guidance for synchronization, calibration, testing, and installation of Phasor Measurement Units (PMU) applied in power system. The following are addressed in this guide: (a) Considerations for the installation of PMU devices based on application requirements and typical substation electrical bus configurations. (b) Techniques focusing on the overall accuracy and availability of the time synchronization system. (c) Test and calibration procedures for laboratory and field applications. (d) Communications testing for connecting PMUs to other devices including Phasor Data Concentrators (PDC).</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Phasor measurement units</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Calibration</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Synchrophasor</keyword>
+  <keyword>PMU</keyword>
+  <keyword>Calibration</keyword>
+  <keyword>Testing</keyword>
+  <keyword>GPS.</keyword>
+</bibdata>

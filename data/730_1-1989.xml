@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Software Quality Assurance Plans</title>
+  <title type="main" format="text/plain">IEEE Standard for Software Quality Assurance Plans</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/213705</uri>
+  <docidentifier type="IEEE">IEEE Std 730.1-1989</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4401-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.114461</docidentifier>
+  <docnumber>730.1-1989</docnumber>
+  <date type="created">
+    <on>1989</on>
+  </date>
+  <date type="issued">
+    <on>1989-08-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of the IEEE standard presented is to provide uniform, minimum acceptable requirements for preparation and content of software quality assurance plans (SQAPs). In considering adoption of this standard, regulatory bodies should be aware that specific application of this standard may already be covered by one or more IEEE or ANSI standards documents relating to quality assurance, definitions, or other matters. This standard applies to the development and maintenance of critical software. For non-critical software, or for software already developed, a subset of the requirements of this standard may be applied. The existence of this standard should not be construed to prohibit additional content in a SQAP. An assessment should be made for the specific software item to assure adequacy of coverage. Where this standard is invoked for an organization or project engaged in producting several software items, the applicability of the standard should be specified for each of the software items.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/ IEEE Std 730-1984 (Revision of ANSI/ IEEE Std 730-1981)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Quality control</keyword>
+  <keyword>Software quality</keyword>
+  <keyword>Software reliability</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for Establishing Liquid-Immersed and Dry-Type Power and Distribution Transformer Capability When Supplying Nonsinusoidal Load Currents</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for Establishing Liquid-Immersed and Dry-Type Power and Distribution Transformer Capability When Supplying Nonsinusoidal Load Currents</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8048766</uri>
+  <docidentifier type="IEEE">IEEE PC57.110/D6, September 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4395-1</docidentifier>
+  <docnumber>PC57.110/D6, Sept 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-09-22</on>
+  </date>
+  <date type="issued">
+    <on>2018-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Provided in this recommended practice are calculation methods for conservatively evaluating the feasibility for an existing installed dry-type or liquid immersed transformer, to supply nonsinusoidal load currents as a portion of the total load. Also provided is necessary application information to assist in properly specifying a new transformer expected to carry a load, a portion of which is composed of nonsinusoidal load currents. A number of examples illustrating these methods and calculations are presented. Reference annexes provide a comparison of the document calculations to calculations found in other industry standards. Suggested temperature rise calculation methods are detailed for reference purposes.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.110-2008 (Revision of IEEE Std C57.110-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Loss measurement</keyword>
+  <keyword>Current distribution</keyword>
+  <keyword>current harmonics</keyword>
+  <keyword>harmonic loss factor</keyword>
+  <keyword>IEEE C57.110&amp;amp;amp;#8482;</keyword>
+  <keyword>k-factor</keyword>
+  <keyword>nonsinusoidal load currents</keyword>
+</bibdata>

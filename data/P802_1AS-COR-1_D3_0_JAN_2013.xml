@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks</title>
+  <title type="title-part" format="text/plain">Corrigendum 1: Technical and editorial corrections</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks - Corrigendum 1: Technical and editorial corrections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6417935</uri>
+  <docidentifier type="IEEE">IEEE P802.1AS-Cor-1/D3.0, January 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8207-0</docidentifier>
+  <docnumber>P802.1AS-Cor-1/D3.0, Jan 2013</docnumber>
+  <date type="created">
+    <on>2013-01-23</on>
+  </date>
+  <date type="published">
+    <on>2013-01-23</on>
+  </date>
+  <date type="issued">
+    <on>2013-01-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum to IEEE Std 802.1AS provides technical and editorial corrections.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AS-2011</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Timing</keyword>
+  <keyword>best master</keyword>
+  <keyword>frequency offset</keyword>
+  <keyword>grandmaster</keyword>
+  <keyword>IEEE 802.1AS</keyword>
+  <keyword>phase offset</keyword>
+  <keyword>synchronization</keyword>
+  <keyword>syntonization</keyword>
+  <keyword>time-aware system.</keyword>
+</bibdata>

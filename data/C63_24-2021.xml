@@ -1,0 +1,74 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">American National Standard</title>
+  <title type="title-main" format="text/plain">Recommended Practice for In Situ RF Immunity Evaluation of Electronic Devices and Systems</title>
+  <title type="main" format="text/plain">American National Standard - Recommended Practice for In Situ RF Immunity Evaluation of Electronic Devices and Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9392770</uri>
+  <docidentifier type="IEEE">ANSI C63.24-2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7473-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9392770</docidentifier>
+  <docnumber>C63.24-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-03-31</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides recommended test methods for assuring the radio frequency (RF) immunity of electronic devices and systems that might experience susceptibility from general use transceivers or the RF ambient.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Electronic equipment</keyword>
+  <keyword>Interference (signal)</keyword>
+  <keyword>Electromagnetic interefence</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>Transceivers</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>ANSI C63.24</keyword>
+  <keyword>audio interference</keyword>
+  <keyword>EMI</keyword>
+  <keyword>immunity</keyword>
+  <keyword>interference</keyword>
+  <keyword>instrumentation systems</keyword>
+  <keyword>control systems</keyword>
+  <keyword>RF</keyword>
+  <keyword>RF ambient</keyword>
+  <keyword>RFI</keyword>
+  <keyword>susceptibility</keyword>
+  <keyword>transmitters</keyword>
+  <keyword>transceivers</keyword>
+</bibdata>

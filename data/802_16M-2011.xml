@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment 3: Advanced Air Interface</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment 3: Advanced Air Interface</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5765736</uri>
+  <docidentifier type="IEEE">IEEE Std 802.16m-2011(Amendment to IEEE Std 802.16-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6595-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5765736</docidentifier>
+  <docnumber>802.16m-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-14</on>
+  </date>
+  <date type="created">
+    <on>2011-05-06</on>
+  </date>
+  <date type="published">
+    <on>2012-09-27</on>
+  </date>
+  <date type="issued">
+    <on>2011-03-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the WirelessMAN-Advanced Air Interface, an enhanced air interface designated as "IMT-Advanced" by the International Telecommunication Union- Radiocommunication Sector (ITU-R). The amendment is based on the WirelessMAN-OFDMA specification and provides continuing support for legacy subscriber stations.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the WirelessMAN-Advanced Air Interface, an enhanced air interface designated as "IMT-Advanced" by the International Telecommunication Union--Radiocommunication Sector (ITU-R). The amendment is based on the WirelessMAN-OFDMA specification and provides continuing support for legacy subscriber stations.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16-2009 (Revision of IEEE Std 802.16-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Standards Board</keyword>
+  <keyword>Committees</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Materials</keyword>
+  <keyword>IEEE 802.16m</keyword>
+  <keyword>IMT-Advanced radio interface</keyword>
+  <keyword>WirelessMAN-Advanced Air Interface</keyword>
+  <keyword>wireless metropolitan area networks</keyword>
+</bibdata>

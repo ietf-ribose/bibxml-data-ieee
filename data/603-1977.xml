@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial Use Standard for Safety Systems for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Trial Use Standard for Safety Systems for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7431912</uri>
+  <docidentifier type="IEEE">IEEE Std 603-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0397-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7431912</docidentifier>
+  <docnumber>603-1977</docnumber>
+  <date type="updated">
+    <on>2016-04-01</on>
+  </date>
+  <date type="created">
+    <on>1977-08-15</on>
+  </date>
+  <date type="published">
+    <on>2016-03-11</on>
+  </date>
+  <date type="issued">
+    <on>1977-03-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard establishes functional and design criteria for nuclear power generating station "safety systems," that is, that collection of systems required to minimize the probability and magnitude of release of radioactive material to the environment by maintaining plant conditions within the allowable limits established for each design basis event. These criteria are established to provide a means of promoting safe practices for design and evaluation of safety system performance and reliability. The criteria herein represent an acceptable basis for ascertaining the adequacy of safety system performance and reliability. Adherence to these criteria does not necessarily fully establish the adequacy of safety system functional performance and reliability. However, omission of any of these criteria will, in most instances, be an indication of safety system inadequacy.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard establishes functional and design criteria for nuclear power generating station "safety systems," that is, that collection of systems required to minimize the probability and magnitude of release of radioactive material to the environment by maintaining plant conditions within the allowable limits established for each design basis event. These criteria are established to provide a means of promoting safe practices for design and evaluation of safety system performance and reliability. The criteria herein represent an acceptable basis for ascertaining the adequacy of safety system performance and reliability. Adherence to these criteria does not necessarily fully establish the adequacy of safety system functional performance and reliability. However, omission of any of these criteria will, in most instances, be an indication of safety system inadequacy.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 603-1980</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Electrical safety</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Power system reliability</keyword>
+</bibdata>

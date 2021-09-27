@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">VHDL Register Transfer Level (RTL) Synthesis</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - VHDL Register Transfer Level (RTL) Synthesis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8894298</uri>
+  <docidentifier type="IEEE">IEC 62050 Ed. 1 (IEEE Std 1076.6-2004)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4779-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.8894298</docidentifier>
+  <docnumber>62050-2005</docnumber>
+  <date type="created">
+    <on>2005</on>
+  </date>
+  <date type="published">
+    <on>2019-11-07</on>
+  </date>
+  <date type="issued">
+    <on>2005</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Replaces IEEE Std 1076.6-2004. This document specifies a standard for use of very high-speed integrated circuit hardware description language (VHDL) to model synthesizable register-transfer level digital logic. A standard syntax and semantics for VHDL register-transfer level synthesis is defined. The subset of the VHDL language, which is synthesizable, is described, and nonsynthesizable VHDL constructs are identified that should be ignored or flagged as errors.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>VHDL</keyword>
+  <keyword>Hardware description languages</keyword>
+  <keyword>hardware description language</keyword>
+  <keyword>logic synthesis</keyword>
+  <keyword>register transfer level (RTL)</keyword>
+  <keyword>very high speed integrated circuit hardware description language (VHDL)</keyword>
+</bibdata>

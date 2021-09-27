@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Physical Layer Specifications and Management Parameters for Ethernet Passive Optical Networks Protocol over Coax</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Physical Layer Specifications and Management Parameters for Ethernet Passive Optical Networks Protocol over Coax</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7393393</uri>
+  <docidentifier type="IEEE">IEEE P802.3bn/D3.0, January 2016 (Amendment of IEEE Std 802.3-2015)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0690-1</docidentifier>
+  <docnumber>P802.3bn/D3.0, Jan 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-01-26</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2015 defines physical layer specifications and managementparameters for the operation of Ethernet Passive Optical Networks (EPON) Protocol overcoaxial media.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Passive Optical Networks</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Time measurement</keyword>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Ethernet Passive Optical Networks (EPON)</keyword>
+  <keyword>EPON Protocol over Coax (EPoC)</keyword>
+  <keyword>Multi-Point MAC Control (MPMC)</keyword>
+  <keyword>orthogonal frequency division multiplexing (OFDM)</keyword>
+  <keyword>Physical Coding Sublayer (PCS)</keyword>
+  <keyword>Physical Media Attachment (PMA)</keyword>
+  <keyword>Physical Medium Dependent (PMD)</keyword>
+  <keyword>PON</keyword>
+  <keyword>Point to Multipoint (P2MP)</keyword>
+  <keyword>Reconciliation Sublayer (RS).</keyword>
+</bibdata>

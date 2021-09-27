@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Sensor Performance Parameter Definitions</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Sensor Performance Parameter Definitions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7912221</uri>
+  <docidentifier type="IEEE">IEEE P2700/D3, April 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4002-8</docidentifier>
+  <docnumber>P2700/D3, Apr 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-04-26</on>
+  </date>
+  <date type="issued">
+    <on>2017-06-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A common framework for sensor performance specification terminology, units, conditions, and limits is provided. Specifically, the accelerometer, magnetometer, gyrometer/gyroscope, accelerometer/magnetometer/gyroscope combination sensors, barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors, light sensors (ambient and RGB), and proximity sensors are discussed.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Barometers</keyword>
+  <keyword>Gyroscopes</keyword>
+  <keyword>Micromechanical devices</keyword>
+  <keyword>Pressure measurement</keyword>
+  <keyword>Accelerometers</keyword>
+  <keyword>Temperature measurement</keyword>
+  <keyword>accelerometer</keyword>
+  <keyword>ambient light</keyword>
+  <keyword>barometer</keyword>
+  <keyword>combination sensor</keyword>
+  <keyword>gyroscope</keyword>
+  <keyword>humidity</keyword>
+  <keyword>IEEE 2700(TM)</keyword>
+  <keyword>magnetometer</keyword>
+  <keyword>MEMS</keyword>
+  <keyword>microelectromechanical</keyword>
+  <keyword>pressure</keyword>
+  <keyword>proximity</keyword>
+  <keyword>sensors systems</keyword>
+  <keyword>temperature</keyword>
+  <keyword>terminology</keyword>
+</bibdata>

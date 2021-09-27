@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Floating-Point Arithmetic</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Floating-Point Arithmetic - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8866810</uri>
+  <docidentifier type="IEEE">IEEE Std 754-2019 (Revision of IEEE 754-2008) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6187-0</docidentifier>
+  <docnumber>754-2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-10-11</on>
+  </date>
+  <date type="issued">
+    <on>2019-06-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies interchange and arithmetic formats and methods for binary and decimal floating-point arithmetic in computer programming environments. This standard specifies exception conditions and their default handling. An implementation of a floating-point system conforming to this standard may be realized entirely in software, entirely in hardware, or in any combination of software and hardware. For operations specified in the normative part of this standard, numerical results and exceptions are uniquely determined by the values of the input data, sequence of operations, and destination formats, all under user control.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 754-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Floating-point arithmetic</keyword>
+  <keyword>Arithmetic</keyword>
+  <keyword>Binary sequences</keyword>
+  <keyword>arithmetic</keyword>
+  <keyword>binary</keyword>
+  <keyword>computer</keyword>
+  <keyword>decimal</keyword>
+  <keyword>exponent</keyword>
+  <keyword>floating-point</keyword>
+  <keyword>format</keyword>
+  <keyword>IEEE 754</keyword>
+  <keyword>interchange</keyword>
+  <keyword>NaN</keyword>
+  <keyword>number</keyword>
+  <keyword>rounding</keyword>
+  <keyword>significand</keyword>
+  <keyword>subnormal.</keyword>
+</bibdata>

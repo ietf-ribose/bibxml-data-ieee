@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Software Maintenance</title>
+  <title type="main" format="text/plain">IEEE Standard for Software Maintenance</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/257623</uri>
+  <docidentifier type="IEEE">IEEE Std 1219-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0418-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.115570</docidentifier>
+  <docnumber>1219-1992</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="published">
+    <on>2013-03-19</on>
+  </date>
+  <date type="issued">
+    <on>1992-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The process for managing and executing software maintenance activities is described.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1219-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Software maintenance</keyword>
+  <keyword>Standards</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>software</keyword>
+  <keyword>software maintenance</keyword>
+</bibdata>

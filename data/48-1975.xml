@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current Cable Terminations</title>
+  <title type="main" format="text/plain">IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current Cable Terminations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27712</uri>
+  <docidentifier type="IEEE">IEEE Std 48-1975</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4374-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1975.80222</docidentifier>
+  <docnumber>48-1975</docnumber>
+  <date type="created">
+    <on>1975-05-09</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1974-12-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard covers all indoor and outdoor cable terminations used on alternating current cables having laminated or extruded insulation rated 2.5 kV through 500 kV, except seperable insulated connectors which are covered by [1]. Cable terminations and component parts shall be capable of withstanding the test specified in this standard.</abstract>
+  <copyright>
+    <from>1975</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 48-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Connectors</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Testing</keyword>
+</bibdata>

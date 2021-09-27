@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ubiquitous Green Community Control Network Protocol</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ubiquitous Green Community Control Network Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6705544</uri>
+  <docidentifier type="IEEE">IEEE P1888/D2, October 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8837-9</docidentifier>
+  <docnumber>P1888/D2, October 2013</docnumber>
+  <date type="created">
+    <on>2014-01-08</on>
+  </date>
+  <date type="published">
+    <on>2014-01-08</on>
+  </date>
+  <date type="issued">
+    <on>2014-01-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The standard identifies gateways for field-bus networks, data storages for archiving and developing data sharing platform, and application units to be important system components for developing digital communities: i.e., building-scale and city-wide ubiquitous facility networking infrastructure. The standard defines a data exchange protocol that generalizes and interconnects these components (gateways, storages, application units) over the IPv4/v6-based networks. This enables integration of multiple facilities, data storages, application services such as central management, energy saving, environmental monitoring and alarm notification systems.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1888-2011</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Ubiquitous computing</keyword>
+  <keyword>Green design</keyword>
+  <keyword>Actuators</keyword>
+  <keyword>Energy management</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Storage automation</keyword>
+  <keyword>access interface</keyword>
+  <keyword>actuator</keyword>
+  <keyword>application (APP)</keyword>
+  <keyword>communication protocol</keyword>
+  <keyword>component</keyword>
+  <keyword>data structure</keyword>
+  <keyword>energy management</keyword>
+  <keyword>energy saving</keyword>
+  <keyword>facility networking</keyword>
+  <keyword>gateway (GW)</keyword>
+  <keyword>point</keyword>
+  <keyword>registry</keyword>
+  <keyword>sensor</keyword>
+  <keyword>SOAP</keyword>
+  <keyword>storage</keyword>
+</bibdata>

@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Radix-Independent Floating-Point Arithmetic</title>
+  <title type="main" format="text/plain">IEEE Standard for Radix-Independent Floating-Point Arithmetic</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27840</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 854-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1167-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.81037</docidentifier>
+  <docnumber>854-1987</docnumber>
+  <date type="created">
+    <on>1987-10-05</on>
+  </date>
+  <date type="published">
+    <on>2016-01-21</on>
+  </date>
+  <date type="issued">
+    <on>1987-03-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A family of commercially feasible ways for new systems to perform floating-point arithmetic is defined. This standard specifies constraints on parameters defining values of basic and extended floating-point numbers; add, subtract, multiply, divide, square root, remainder, and compare operations; conversions between integers and floating-point numbers; conversions between different floating-point precisions; conversion between basic precision floating-point numbers and decimal strings; and floating-point exceptions and their handling, including nonnumbers. It is intended that an implementation of a floating-point system conforming to this standard can be realized entirely in software, entirely in hardware, or in any combination of software and hardware. Retrofitting issues are not considered.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Digital arithmetic</keyword>
+  <keyword>Standards</keyword>
+  <keyword>radix</keyword>
+  <keyword>independent</keyword>
+  <keyword>Floating-point arithmetic</keyword>
+</bibdata>

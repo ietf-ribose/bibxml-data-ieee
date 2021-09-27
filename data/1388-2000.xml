@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for the Electronic Reporting of Transformer Test Data</title>
+  <title type="main" format="text/plain">IEEE Standard for the Electronic Reporting of Transformer Test Data</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/898185</uri>
+  <docidentifier type="IEEE">IEEE Std 1388-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2727-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.92334</docidentifier>
+  <docnumber>1388-2000</docnumber>
+  <date type="created">
+    <on>2001-01-31</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2000-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std C57.12.37-2006 A basis for the electronic reporting of transformer test data on liquid immersed distribu-tion transformers as defined in the ANSI C57.12.2X standards series is provided. The specific setof test data to be reported and the format in which it is to be reported is detailed along with an ex-tended set of data as an option for the user.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.37-2006 (Revision of IEEE Std 1388-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Law</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>distribution transformers</keyword>
+  <keyword>electronic reporting</keyword>
+  <keyword>test data</keyword>
+</bibdata>

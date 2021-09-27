@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Signal and Test Definition</title>
+  <title type="main" format="text/plain">IEEE Standard for Signal and Test Definition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1412649</uri>
+  <docidentifier type="IEEE">IEEE Std 1641-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4501-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.95928</docidentifier>
+  <docnumber>1641-2004</docnumber>
+  <date type="created">
+    <on>2005</on>
+  </date>
+  <date type="published">
+    <on>2019-04-25</on>
+  </date>
+  <date type="issued">
+    <on>2004-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">To provide the means to define and describe signals used in testing. The standard provides a set of common basic signals, mathematically under pinned so that signals can be combined to form complex signals useable across all test platforms. The provision of language elements supports test signal descriptions for interoperability.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1641-2010 (Revision of IEEE Std 1641-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Automatic testing</keyword>
+  <keyword>Electronic equipment testing</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATLAS</keyword>
+  <keyword>automatic test equipment</keyword>
+  <keyword>signal definitions</keyword>
+  <keyword>test definitions</keyword>
+  <keyword>test requirements</keyword>
+  <keyword>test signals</keyword>
+  <keyword>unit under test</keyword>
+  <keyword>UUT</keyword>
+</bibdata>

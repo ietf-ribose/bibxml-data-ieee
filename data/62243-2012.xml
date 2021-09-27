@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE)</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEC 62243:2012(E) (IEEE Std 1232-2010): Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE) - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6383178</uri>
+  <docidentifier type="IEEE">IEC 62243:2012(E) (IEEE Std 1232-2010) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8093-9</docidentifier>
+  <docnumber>62243-2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-12-14</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Data interchange and standard software services for test and diagnostic environmentsare defined by Artificial Intelligence Exchange and Service Tie to All Test Environments (AIESTATE).The purpose of AI-ESTATE is to standardize interfaces for functional elements of anintelligent diagnostic reasoner and representations of diagnostic knowledge and data for use bysuch diagnostic reasoners. Formal information models are defined to form the basis for a formatto facilitate exchange of persistent diagnostic information between two reasoners and also toprovide a formal typing system for diagnostic services. The services to control a diagnosticreasoned are defined by this standard.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Artificial intelligent</keyword>
+  <keyword>Bayesian methods</keyword>
+  <keyword>Fault tolerance</keyword>
+  <keyword>Knowledge management</keyword>
+  <keyword>Testing</keyword>
+  <keyword>AI-ESTATE</keyword>
+  <keyword>Bayesian Network</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>diagnostic inference</keyword>
+  <keyword>diagnostic model</keyword>
+  <keyword>diagnostic services</keyword>
+  <keyword>D-matrix</keyword>
+  <keyword>fault tree</keyword>
+  <keyword>IEEE 1232</keyword>
+  <keyword>knowledge exchange</keyword>
+  <keyword>system test</keyword>
+</bibdata>

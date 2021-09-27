@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard for Methods of Measurements of Radio-Frequency Emissions from Wireless Power Transfer Equipment</title>
+  <title type="main" format="text/plain">American National Standard for Methods of Measurements of Radio-Frequency Emissions from Wireless Power Transfer Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9491984</uri>
+  <docidentifier type="IEEE">ANSI C63.30-2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7803-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9491984</docidentifier>
+  <docnumber>C63.30-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-07-20</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">U.S. consensus standard methods, instrumentation, and facilities for measurement of radio-frequency (RF) emissions and signals emitted from wireless power transfer equipment in the frequency range from 9 kHz to 40 GHz are specified. This standard does not include generic nor product-specific emission limits. Where possible, the specifications herein are harmonized with other national and international standards used for similar purposes.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Frequency measurement</keyword>
+  <keyword>Wireless power transfer</keyword>
+  <keyword>Power measurement</keyword>
+  <keyword>ANSI C63.30</keyword>
+  <keyword>conducted emission testing</keyword>
+  <keyword>conducting ground plane</keyword>
+  <keyword>electric field measurement</keyword>
+  <keyword>intentional radiators</keyword>
+  <keyword>line impedance stabilization network</keyword>
+  <keyword>magnetic field measurement</keyword>
+  <keyword>radiated emission testing</keyword>
+  <keyword>unintentional radiators</keyword>
+  <keyword>wireless power transfer</keyword>
+  <keyword>wireless power transfer equipment</keyword>
+</bibdata>

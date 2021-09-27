@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Dictionary of Electromagnetic Compatibility (EMC) including Electromagnetic Environmental Effects (E3)</title>
+  <title type="main" format="text/plain">American National Standard Dictionary of Electromagnetic Compatibility (EMC) including Electromagnetic Environmental Effects (E3)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5297139</uri>
+  <docidentifier type="IEEE">ANSI C63.14-2009</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6034-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5297139</docidentifier>
+  <docnumber>C63.14-2009</docnumber>
+  <date type="created">
+    <on>2009-10-23</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms associated with electromagnetic compatibility (EMC) and electromagnetic environmental effects (E3) are defined in this standard, including electromagnetic pulse (EMP), and electrostatic discharge (ESD) terms. Quantities, units, multiplying factors, symbols, and abbreviations are covered.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.14-1998</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.14-2014 (Revision of ANSI C63.14-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Electromagnetics</keyword>
+  <keyword>Electrostatic discharges</keyword>
+  <keyword>Dictionaries</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>C63.14-2009</keyword>
+  <keyword>electromagnetic compatibility (EMC)</keyword>
+  <keyword>electromagnetic environmental effects (E3)</keyword>
+  <keyword>terms and definitions; electromagnetic pulse (EMP)</keyword>
+  <keyword>terms and definitions; electrostatic discharge (ESD)</keyword>
+  <keyword>terms and definitions</keyword>
+</bibdata>

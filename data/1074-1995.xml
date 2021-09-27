@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Developing Software Life Cycle Processes</title>
+  <title type="main" format="text/plain">IEEE Standard for Developing Software Life Cycle Processes</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/490501</uri>
+  <docidentifier type="IEEE">IEEE Std 1074-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0414-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.79663</docidentifier>
+  <docnumber>1074-1995</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1995-09-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 1074-1997. The set of Activities that constitute the Processes that are mandatory for the development and maintenance of software, whether stand- alone or part of a system, is provided. Non-software Activities, such as hardware development and purchasing, are outside of the scope of this standard. Also provided is associated Input and Output Information.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1074-1991</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1074-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>Software standards</keyword>
+  <keyword>Software design/development</keyword>
+  <keyword>Software development management</keyword>
+  <keyword>activities</keyword>
+  <keyword>mapping</keyword>
+  <keyword>processes</keyword>
+  <keyword>software life cycle</keyword>
+  <keyword>life cycle model</keyword>
+  <keyword>life cycle process</keyword>
+</bibdata>

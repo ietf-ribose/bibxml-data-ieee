@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Electrical Measuring Transducer for Converting AC Electrical Quantities into DC Electrical Quantities</title>
+  <title type="main" format="text/plain">IEEE Standard for Electrical Measuring Transducer for Converting AC Electrical Quantities into DC Electrical Quantities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26506</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 460-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4212-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.122820</docidentifier>
+  <docnumber>460-1988</docnumber>
+  <date type="created">
+    <on>1987-12-18</on>
+  </date>
+  <date type="published">
+    <on>2016-03-01</on>
+  </date>
+  <date type="issued">
+    <on>1987-03-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to measuring transducers used for converting AC electrical quantities such as current, voltage, power (active or reactive), power factor, phase angle or frequency to direct current or voltage. Within the effective range, a change of output is a function of the corresponding change of input that produces it. An auxiliary supply may be needed to power active circuitry.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Electric variables measurement</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Transducers</keyword>
+  <keyword>electrical</keyword>
+  <keyword>transducers</keyword>
+  <keyword>converting</keyword>
+  <keyword>ac</keyword>
+  <keyword>dc</keyword>
+</bibdata>

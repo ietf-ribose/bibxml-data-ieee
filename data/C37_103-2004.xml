@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Differential and Polarizing Relay Circuit Testing</title>
+  <title type="main" format="text/plain">IEEE Guide for Differential and Polarizing Relay Circuit Testing</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1490885</uri>
+  <docidentifier type="IEEE">IEEE Std C37.103-2004 (Revision of IEEE Std C37.103-1990)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3841-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.96291</docidentifier>
+  <docnumber>C37.103-2004</docnumber>
+  <date type="updated">
+    <on>2009-01-15</on>
+  </date>
+  <date type="created">
+    <on>2004-12-16</on>
+  </date>
+  <date type="published">
+    <on>2015-12-21</on>
+  </date>
+  <date type="issued">
+    <on>2004-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The issues concerning testing and verification of the correctness of differential and polarizing circuits are described and discussed in this guide. The intention of this guide is to help the reader to detect errors in the wiring of protective relays that might cause erroneous operations of protection systems. It is essential to follow systematic testing procedures and record the observations in a proper organized manner. The records should include documentation of all measurements and a comparison with the desired results</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This issues concerning testing and verification of the correctness of differential and polarizing circuits are described and discussed in this guide. The intention of this guide is to help the reader to detect errors in the wiring of protective relays that might cause erroneous operations of protection systems. It is essential to follow systematic testing procedures and record the observations in a proper organized manner. The records should include documentation of all measurements and a comparison with the desired results.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.103-1990</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.103-2015 (Revision of IEEE Std C37.103-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Current transformers</keyword>
+  <keyword>Wiring</keyword>
+  <keyword>Circuit testing</keyword>
+  <keyword>differential protection</keyword>
+  <keyword>generator protection</keyword>
+  <keyword>line protection</keyword>
+  <keyword>polarized ground fault relays</keyword>
+  <keyword>polarized line protection relays</keyword>
+  <keyword>relay testing</keyword>
+  <keyword>transformer protection</keyword>
+</bibdata>

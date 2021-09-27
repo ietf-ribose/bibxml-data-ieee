@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks -- Station and Media Access Control Connectivity Discovery</title>
+  <title type="title-main" format="text/plain">Corrigendum 2: Technical and editorial corrections</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks -- Station and Media Access Control Connectivity Discovery - Corrigendum 2: Technical and editorial corrections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6949025</uri>
+  <docidentifier type="IEEE">IEEE P802.1AB-Cor-2/D1.1, November 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9410-3</docidentifier>
+  <docnumber>P802.1AB-Cor-2/D1.1, Nov 2014</docnumber>
+  <date type="created">
+    <on>2014-11-06</on>
+  </date>
+  <date type="published">
+    <on>2014-11-06</on>
+  </date>
+  <date type="issued">
+    <on>2015-02-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum to IEEE Std 802.1AB-2009 corrects technical and editorial errors identified by the IEEE 802.1 Working Groups maintenance activity.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AB-2009 (Revision of IEEE Std 802.1AB-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Management information base</keyword>
+  <keyword>Telecommunication network management</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Network topoligy</keyword>
+  <keyword>Link layer discovery</keyword>
+  <keyword>link layer discovery protocol</keyword>
+  <keyword>management information base</keyword>
+  <keyword>topology discovery</keyword>
+  <keyword>topology information</keyword>
+</bibdata>

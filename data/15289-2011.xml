@@ -1,0 +1,83 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE Systems and software engineering -- Content of life-cycle information products (documentation)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Systems and software engineering -- Content of life-cycle information products (documentation)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6104079</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 15289:2011(E)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6589-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6104079</docidentifier>
+  <docnumber>15289-2011</docnumber>
+  <date type="updated">
+    <on>2012-01-16</on>
+  </date>
+  <date type="created">
+    <on>2011-11-01</on>
+  </date>
+  <date type="published">
+    <on>2015-05-15</on>
+  </date>
+  <date type="issued">
+    <on>2011-09-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 15289:2011 provides requirements for identifying and planning the specific information items (information products, documentation) to be developed and revised during systems and software life cycles and service processes. It specifies the purpose and content of all identified systems and software data records and life cycle information items, as well as records and information items for information technology service management. The information item contents are defined according to generic document types (description, plan, policy, procedure, report, request, and specification) and the specific purpose of the document. For simplicity of reference, each information item is described as if it were published as a separate document. However, information items may be unpublished but available in a repository for reference, divided into separate documents or volumes, or combined with other information items into one document. ISO/IEC/IEEE 15289:2011 is based on the life cycle processes specified in ISO/IEC 12207:2008 (IEEE Std 12207-2008) and ISO/IEC 15288:2008 (IEEE Std 15288-2008), and the service management processes specified in ISO/IEC 20000-1:2005 and ISO/IEC 20000-2:2005.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 15289:2011 provides requirements for identifying and planning the specific information items (information products, documentation) to be developed and revised during systems and software life cycles and service processes. It specifies the purpose and content of all identified systems and software data records and life cycle information items, as well as records and information items for information technology service management. The information item contents are defined according to generic document types (description, plan, policy, procedure, report, request, and specification) and the specific purpose of the document. For simplicity of reference, each information item is described as if it were published as a separate document. However, information items may be unpublished but available in a repository for reference, divided into separate documents or volumes, or combined with other information items into one document. ISO/IEC/IEEE 15289:2011 is based on the life cycle processes specified in ISO/IEC 12207:2008 (IEEE Std 12207-2008) and ISO/IEC 15288:2008 (IEEE Std 15288-2008), and the service management processes specified in ISO/IEC 20000-1:2005 and ISO/IEC 20000-2:2005.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE/EIA 12207.1-1997</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 15289:2015(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>data management</keyword>
+  <keyword>description</keyword>
+  <keyword>document management</keyword>
+  <keyword>IEEE 15289</keyword>
+  <keyword>information items</keyword>
+  <keyword>information management</keyword>
+  <keyword>plan</keyword>
+  <keyword>policy</keyword>
+  <keyword>procedure</keyword>
+  <keyword>records</keyword>
+  <keyword>report</keyword>
+  <keyword>request</keyword>
+  <keyword>software documentation</keyword>
+  <keyword>specification</keyword>
+</bibdata>

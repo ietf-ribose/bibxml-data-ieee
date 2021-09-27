@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE International standard for Information Technology--Test Methods for Measuring Conformance to POSIX(R)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International standard for Information Technology--Test Methods for Measuring Conformance to POSIX(R)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4140774</uri>
+  <docidentifier type="IEEE">ISO/IEC13210: 1994 (E) ANSI/IEEE Std 1003.3-1991</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1798-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.339566</docidentifier>
+  <docnumber>13210-1994</docnumber>
+  <date type="created">
+    <on>1994-12-30</on>
+  </date>
+  <date type="published">
+    <on>2015-07-13</on>
+  </date>
+  <date type="issued">
+    <on>1994</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The general requirements and test methods for measuring conformance to POSIX standards are defined. This document is aimed primarily at working groups developing test methods for POSIX standards, developers of POSIX test methods, and users of POSIX test methods.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Assertion testing</keyword>
+  <keyword>Conformance testing</keyword>
+  <keyword>POSIX</keyword>
+  <keyword>Encoding</keyword>
+  <keyword>assertion</keyword>
+  <keyword>assertion test</keyword>
+  <keyword>base assertion</keyword>
+  <keyword>conditional feature</keyword>
+  <keyword>extended assertion</keyword>
+  <keyword>POSIX</keyword>
+  <keyword>POSIX conformance test suite</keyword>
+  <keyword>test method</keyword>
+  <keyword>test result code</keyword>
+</bibdata>

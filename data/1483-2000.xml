@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Verification of Vital Functions in Processor-Based Systems Used in Rail Transit Control</title>
+  <title type="main" format="text/plain">IEEE Standard for Verification of Vital Functions in Processor-Based Systems Used in Rail Transit Control</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/836391</uri>
+  <docidentifier type="IEEE">IEEE Std 1483-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1967-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91307</docidentifier>
+  <docnumber>1483-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2020-02-14</on>
+  </date>
+  <date type="issued">
+    <on>2000-03-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A set of standard verification tasks for processor-based equipment used in safety-critical applications on rail and transit systems is covered. This standard also covers processes that verify the level of safety achieved in the implementation of safety-critical functions that are required to be fail-safe. Quality assurance or validation processes that affect the overall level of system safety are not covered.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Traffic control (transportation)</keyword>
+  <keyword>rail</keyword>
+  <keyword>safety</keyword>
+  <keyword>safety critical</keyword>
+  <keyword>software</keyword>
+  <keyword>transit</keyword>
+  <keyword>verification</keyword>
+  <keyword>vital</keyword>
+</bibdata>

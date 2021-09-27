@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Methods for Measuring Transmission Performance of Analog and Digital Telephone Sets, Handsets, and Headsets--Amendment 1</title>
+  <title type="main" format="text/plain">IEEE Standard Methods for Measuring Transmission Performance of Analog and Digital Telephone Sets, Handsets, and Headsets--Amendment 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6209375</uri>
+  <docidentifier type="IEEE">IEEE Std 269a-2012 (Amendment to IEEE Std 269-2010)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7263-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6209375</docidentifier>
+  <docnumber>269a-2012</docnumber>
+  <date type="created">
+    <on>2012-05-31</on>
+  </date>
+  <date type="published">
+    <on>2012-05-31</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Practical methods for making laboratory measurements of electroacoustic characteristics of analog and digital telephones, handsets, and headsets are presented. The methods may also be applicable to a wide variety of other communications equipment, including cordless, wireless, and mobile communications devices. Measurement results may be used to evaluate these devices on a standardized basis. Application is in the frequency range from 100 Hz to 8500 Hz.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 269-2010 (Revision of IEEE Std 269-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Acoustoelectric effects</keyword>
+  <keyword>Telephone equipment</keyword>
+  <keyword>Digital communication</keyword>
+  <keyword>Speech processing</keyword>
+  <keyword>Transmission lines</keyword>
+  <keyword>analog telephones</keyword>
+  <keyword>digital telephones</keyword>
+  <keyword>electroacoustic measurements on telephones</keyword>
+  <keyword>handsets</keyword>
+  <keyword>headsets</keyword>
+  <keyword>IEEE 269</keyword>
+  <keyword>IEEE 269a</keyword>
+  <keyword>telephony</keyword>
+  <keyword>voice transmission performance</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30666</uri>
+  <docidentifier type="IEEE">IEEE Std 323-1983</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3944-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1983.82408</docidentifier>
+  <docnumber>323-1983</docnumber>
+  <date type="created">
+    <on>1983-12-30</on>
+  </date>
+  <date type="published">
+    <on>2015-02-06</on>
+  </date>
+  <date type="issued">
+    <on>1983-06-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The basic requirements for qualifying Class 1E equipment with interfaces that are to be used in nuclear power generating stations are described. The principles, procedures, and methods of qualification are covered. These qualification requirements, when met, will confirm the adequacy of the equipment design under normal, abnormal, design-basis-event, post-design-basis-event, and in-service test conditions for the performance of safety functions. The methods are to be used for qualifying equipment, extending qualification, and updating qualification if the equipment is modified.</abstract>
+  <copyright>
+    <from>1983</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 323-2003 (Revision of IEEE Std 323-1983)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Standards</keyword>
+  <keyword>class 1E</keyword>
+  <keyword>qualifing</keyword>
+  <keyword>equipment</keyword>
+  <keyword>generating</keyword>
+  <keyword>Nuclear power generation protection</keyword>
+</bibdata>

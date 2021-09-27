@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Supplement to Standard for Interoperable LAN/MAN Security (SILS): Secure Data Exchange (SDE)-Security Label (Annexes 2I, 2J, and 2K)</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Supplement to Standard for Interoperable LAN/MAN Security (SILS): Secure Data Exchange (SDE)-Security Label (Annexes 2I, 2J, and 2K)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499696</uri>
+  <docidentifier type="IEEE">IEEE Std 802.10g-1995</docidentifier>
+  <docidentifier type="ISBN">1-55937-562-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80825</docidentifier>
+  <docnumber>802.10g-1995</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="issued">
+    <on>1995-09-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A security label option that can be used to implement rule-based access controls for the protection of IEEE 802 local area networks (LANs) and metropolitan area networks (MANs) is defined. Information carried by security labels can be used to control access, specify protective measures; and identify handling restrictions required by a communications security policy. This standard specifies the syntax for the label and basic processing rules. Other information, such as label semantics and additional processing requirements unique to a security policy, can be specified via registration.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Computer network security</keyword>
+</bibdata>

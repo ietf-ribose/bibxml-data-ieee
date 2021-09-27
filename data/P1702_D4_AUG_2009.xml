@@ -1,0 +1,39 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft Standard for Telephone Modem Communication Protocol to Complement the Utility Industry End Device Data Tables</title>
+  <title type="main" format="text/plain">Draft Standard for Telephone Modem Communication Protocol to Complement the Utility Industry End Device Data Tables</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5325076</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1702/D4, Aug 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2788-3</docidentifier>
+  <docnumber>P1702/D4, Aug 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides multi-source and plug and play environment for the millions of metering devices in the field now and the future using the telephone MODEM communication interface. It solves the problems associated with single source systems and with multi-source systems based upon proprietary communications protocols. Electric, Water, and Gas Utilities and corresponding vendors can realize cost savings which ultimately shall benefit the client consumers of the Utilities</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>ANSI C12.21</keyword>
+  <keyword>MODEM</keyword>
+  <keyword>PSEM</keyword>
+</bibdata>

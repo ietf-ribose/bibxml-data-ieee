@@ -1,0 +1,81 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Nanoscale and Molecular Communication Framework</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Nanoscale and Molecular Communication Framework</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7378262</uri>
+  <docidentifier type="IEEE">IEEE Std 1906.1-2015</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0101-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7378262</docidentifier>
+  <docnumber>1906.1-2015</docnumber>
+  <date type="updated">
+    <on>2016-02-12</on>
+  </date>
+  <date type="created">
+    <on>2016-01-11</on>
+  </date>
+  <date type="published">
+    <on>2016-01-11</on>
+  </date>
+  <date type="issued">
+    <on>2015-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A definition, terminology, conceptual model, and standard metrics for ad hoc network communication at the nanoscale are provided. Human-engineered networking is extended by the physical properties of nanoscale communication in ways beyond that defined in existing communication standards. These include in vivo, sub-cellular medical communication, smart materials and sensing at the molecular level, and the ability to operate in environments that would be too harsh for macroscale communication mechanisms to operate. Collaboration among a highly diverse set of disciplines with differing definitions and connotations for some terms is required by nanoscale communication, thus a common terminology is necessary in order to aid inter-discipline collaboration. A common framework for thinking abstractly about nanoscale communication can aid in defining and relating research and development effort. Components of the framework are independent enough to allow them to be developed in relative isolation, yet the components are also interoperable. To illustrate the recommended practice, example mappings between specific nanoscale communication use-cases and the common framework are included. Simulation code implementing the common framework for both wireless and molecular nanoscale communication is an embodiment of the common framework demonstrating precisely how the framework is applied.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A definition, terminology, conceptual model, and standard metrics for ad hoc network communication at the nanoscale are provided. Human-engineered networking is extended by the physical properties of nanoscale communication in ways beyond that defined in existingcommunication standards. These include in vivo, sub-cellular medical communication, smart materials and sensing at the molecular level, and the ability to operate in environments that would be too harsh for macroscale communication mechanisms to operate. Collaboration among a highly diverse set of disciplines with differing definitions and connotations for some terms is required by nanoscale communication, thus a common terminology is necessary in order to aid inter-discipline collaboration. A common framework for thinking abstractly about nanoscale communication can aid in defining and relating research and development effort. Components of the framework are independent enough to allow them to be developed in relative isolation, yet the components are also interoperable. To illustrate the recommended practice, example mappings between specific nanoscale communication use-cases and the common framework are included. Simulation code implementing the common framework for both wireless and molecular nanoscale communication is an embodiment of the common framework demonstrating precisely how the framework is applied.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nanoscale devices</keyword>
+  <keyword>Molecular communication</keyword>
+  <keyword>Nanobioscience</keyword>
+  <keyword>Nanofluidics</keyword>
+  <keyword>Nanoelectromechanical systems</keyword>
+  <keyword>Nanobiotechnology</keyword>
+  <keyword>communication networks</keyword>
+  <keyword>communication standards</keyword>
+  <keyword>communication systems</keyword>
+  <keyword>IEEE 1906.1</keyword>
+  <keyword>molecular communication</keyword>
+  <keyword>multi-scale network</keyword>
+  <keyword>nanobioscience</keyword>
+  <keyword>nanobiotechnology</keyword>
+  <keyword>nanobots</keyword>
+  <keyword>nanodevice</keyword>
+  <keyword>nanoelectrochemical systems</keyword>
+  <keyword>nanoelectromechanical systems</keyword>
+  <keyword>nanofluidics</keyword>
+  <keyword>nanomedicine</keyword>
+  <keyword>nanophysics</keyword>
+  <keyword>nanopositioning</keyword>
+  <keyword>nanoscale</keyword>
+  <keyword>nanoscale communication framework</keyword>
+  <keyword>nanoscale devices</keyword>
+  <keyword>nanosensors</keyword>
+  <keyword>nanostructured materials</keyword>
+  <keyword>nanotechnology</keyword>
+  <keyword>nanotube devices</keyword>
+  <keyword>nanowires</keyword>
+  <keyword>quantum mechanics</keyword>
+  <keyword>simulation</keyword>
+  <keyword>standards development</keyword>
+</bibdata>

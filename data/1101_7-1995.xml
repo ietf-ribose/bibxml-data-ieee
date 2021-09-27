@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Space Applications Module, Extended Height Format E Form Factor</title>
+  <title type="main" format="text/plain">IEEE Standard for Space Applications Module, Extended Height Format E Form Factor</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/475494</uri>
+  <docidentifier type="IEEE">IEEE Std 1101.7-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2759-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.78993</docidentifier>
+  <docnumber>1101.7-1995</docnumber>
+  <date type="updated">
+    <on>1996-02-21</on>
+  </date>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="published">
+    <on>2018-12-12</on>
+  </date>
+  <date type="issued">
+    <on>1995-03-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Withdrawn Standard. Withdrawn Date: Jan 15, 2001. The design requirements for a module designated for use in spacecraft, boosters, and other highly rugged, conductively cooled environments are established in this standard. The requirements herein serve to specify the mechanical design of the module. Dimensions and tolerances for racks, modules, printed wiring boards, backplanes, and other connector-related dimensions that are specific to the use of 300-pin and 396-pin connectors are given. These dimensions and tolerances are designed to ensure mechanical function and interoperability.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Space vehicles</keyword>
+  <keyword>Packaging</keyword>
+  <keyword>Cooling</keyword>
+  <keyword>Layout of circuit boards</keyword>
+  <keyword>Connectors</keyword>
+  <keyword>module</keyword>
+  <keyword>space applications</keyword>
+  <keyword>SEM Format E extended height</keyword>
+  <keyword>Mechanical interchangeability</keyword>
+</bibdata>

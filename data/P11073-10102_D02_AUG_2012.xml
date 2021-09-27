@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Health informatics</title>
+  <title type="title-main" format="text/plain">Point-of-care medical device communication</title>
+  <title type="title-part" format="text/plain">Nomenclature -- Annotated ECG</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Health informatics - Point-of-care medical device communication - Nomenclature -- Annotated ECG</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6269902</uri>
+  <docidentifier type="IEEE">IEEE P11073-10102/D02, August 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7547-8</docidentifier>
+  <docnumber>P11073-10102/D02, Aug 2012</docnumber>
+  <date type="created">
+    <on>2012-08-16</on>
+  </date>
+  <date type="published">
+    <on>2012-08-16</on>
+  </date>
+  <date type="issued">
+    <on>2012-08-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard extends the base IEEE 11073-10101 Nomenclature to provide support for ECG annotation terminology. It may be used either in conjunction with other IEEE 1073 standards (e.g., IEEE 11073-10201 Domain information model) or independently with other standards. Major subject areas addressed by the nomenclature include ECG beat annotations, wave component annotations, rhythm annotations, and noise annotations. It also defines additional "global" and "per-lead" numeric observation identifiers, ECG lead systems and additional ECG lead identifiers.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Biomedical informatics</keyword>
+  <keyword>Patient monitoring</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Pacemakers</keyword>
+  <keyword>Electrocardiography</keyword>
+  <keyword>Remote monitoring</keyword>
+  <keyword>Codes</keyword>
+  <keyword>Annotations</keyword>
+  <keyword>Annotated ECG</keyword>
+  <keyword>Cardiac Rhythm</keyword>
+  <keyword>Arrhythmias</keyword>
+  <keyword>ECG measurements</keyword>
+  <keyword>ECG Leads</keyword>
+  <keyword>ECG Lead Systems</keyword>
+  <keyword>Medical Device Communication</keyword>
+  <keyword>Nomenclature</keyword>
+  <keyword>Pacemaker</keyword>
+  <keyword>Patient Monitoring</keyword>
+  <keyword>Home Monitoring</keyword>
+  <keyword>Remote Monitoring</keyword>
+  <keyword>Terminology</keyword>
+</bibdata>

@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Wireless Access in Vehicular Environments (WAVE)-Identifiers</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Wireless Access in Vehicular Environments (WAVE)-Identifiers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8734131</uri>
+  <docidentifier type="IEEE">IEEE P1609.12/D8, May 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5883-2</docidentifier>
+  <docnumber>P1609.12/D8, May 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-06-10</on>
+  </date>
+  <date type="issued">
+    <on>2019-09-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Wireless Access in Vehicular Environments (WAVE) is specified in the IEEE 1609 family of standards, within which certain identifiers are used. The use of these identifiers is described, and identifier values that have been allocated for use by WAVE systems are indicated.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.12-2016 (Revision of IEEE Std 1609.12-2012)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Intelligent veicles</keyword>
+  <keyword>Wireless Access in Vehicular Environments</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>IEEE 1609.12</keyword>
+  <keyword>Provider Service Identifier</keyword>
+  <keyword>PSID</keyword>
+  <keyword>WAVE</keyword>
+  <keyword>Wireless Access in Vehicular Environments</keyword>
+</bibdata>

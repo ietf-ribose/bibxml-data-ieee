@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks--Bridge Port Extension</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks--Bridge Port Extension</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6145278</uri>
+  <docidentifier type="IEEE">IEEE P802.1BR/D3.2, January 2012</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5860-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6145278</docidentifier>
+  <docnumber>P802.1BR/D3.2, Jan 2012</docnumber>
+  <date type="updated">
+    <on>2012-07-27</on>
+  </date>
+  <date type="created">
+    <on>2012-05-28</on>
+  </date>
+  <date type="published">
+    <on>2019-05-29</on>
+  </date>
+  <date type="issued">
+    <on>2012-05-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the operation of Bridge Port Extenders, including management, protocols and algorithms. Bridge Port Extenders operate in support of the MAC Service by Extended Bridges.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the operation of Bridge Port Extenders, including management, protocols, and algorithms. Bridge Port Extenders operate in support of the MAC Service by Extended Bridges. The PDF of this standard is available at no cost compliments of the GETIEEE802 program located at http://standards.ieee.org/about/get/802/</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Media Access Protocols</keyword>
+  <keyword>Data centers</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>Data Center Bridging</keyword>
+  <keyword>DCB</keyword>
+  <keyword>Edge Virtual Bridging</keyword>
+  <keyword>EVB</keyword>
+  <keyword>IEEE 802.1BR</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Virtual Bridged Local Area Networks</keyword>
+</bibdata>

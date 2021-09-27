@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Extruded and Laminated Dielectric Shielded Cable Joints Rated 2 500v to 500 000v</title>
+  <title type="main" format="text/plain">IEEE Standard for Extruded and Laminated Dielectric Shielded Cable Joints Rated 2 500v to 500 000v</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4135887</uri>
+  <docidentifier type="IEEE">IEEE Std 404-2006 (Revision of IEEE Std 404-2000)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5295-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.335901</docidentifier>
+  <docnumber>404-2006</docnumber>
+  <date type="updated">
+    <on>2008-02-11</on>
+  </date>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <date type="published">
+    <on>2012-06-18</on>
+  </date>
+  <date type="issued">
+    <on>2006-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Electrical ratings and test requirements of cable joints used with extruded and laminated dielectric shielded cable rated in preferred voltage steps from 2500 V to 500 000 V are established in this standard. In addition, test requirements for cable jacket and cable shield restoration devices are defined. A variety of common joint constructions are also defined. This standard has been designed to provide uniform testing procedures that can be used by manufacturers and users to evaluate the ability of underground power cable joints, and associated cable shield and cable jacket restoration components, to perform reliably in service.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard establishes electrical ratings and test requirements of cable joints used with extruded and laminated dielectric shielded cable rated in preferred voltage steps from 2500 to 500 000V. In addition, it defines test requirements for cable jacket and cable shield restoration devices. It also defines a variety of common joint constructions. This standard is designed to provide uniform testing procedures that can be used by manufacturers and users to evaluate the ability of underground power cable joints, and associated cable shield and cable jacket restoration components, to perform reliably in service.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 404-2000 (Revision of IEEE Std 404 1993)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Cable shielding</keyword>
+  <keyword>Dielectrics</keyword>
+  <keyword>Cable insulation</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>cable joints</keyword>
+  <keyword>dielectric integrity tests</keyword>
+  <keyword>extruded dielectric cable</keyword>
+  <keyword>impulse withstand voltage (BIL)</keyword>
+  <keyword>laminated dielectric cable</keyword>
+  <keyword>sheath/shield sectionalizers</keyword>
+  <keyword>transition joints</keyword>
+  <keyword>withstand voltage</keyword>
+</bibdata>

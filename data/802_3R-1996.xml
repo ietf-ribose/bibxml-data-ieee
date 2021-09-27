@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
+  <title type="title-main" format="text/plain">Type 10BASE5 Medium Attachment Unit (MAU) Protocol Implementation Conformance Statement (PICS) Proforma (Subclause 8.8)</title>
+  <title type="main" format="text/plain">IEEE Standard Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications - Type 10BASE5 Medium Attachment Unit (MAU) Protocol Implementation Conformance Statement (PICS) Proforma (Subclause 8.8)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/543527</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3r-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0275-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81531</docidentifier>
+  <docnumber>802.3r-1996</docnumber>
+  <date type="created">
+    <on>1996-12-09</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1996-07-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A Protocol Implementation Conformance Statement (PICS) proforma for Type 10BASE5 Medium Attachment Unit (MAU) (clause 8) is provided. The PICS proforma is used to evaluate the conformance of a particular implementation of the standard.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.3-1985</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Carrier sense multiaccess</keyword>
+  <keyword>dynamic conformance testing</keyword>
+  <keyword>medium attachment unit</keyword>
+  <keyword>MAU</keyword>
+  <keyword>PICS proforma</keyword>
+  <keyword>protocol implementation conformance</keyword>
+  <keyword>static conformance review</keyword>
+  <keyword>Type 10BASE5</keyword>
+</bibdata>

@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Gas-Insulated Substations Rated Above 52 kV</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Gas-Insulated Substations Rated Above 52 kV</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6809833</uri>
+  <docidentifier type="IEEE">IEEE PC37.122.1/D14, December 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8735-8</docidentifier>
+  <docnumber>PC37.122.1/D14, December 2012</docnumber>
+  <date type="created">
+    <on>2014-05-02</on>
+  </date>
+  <date type="published">
+    <on>2014-05-02</on>
+  </date>
+  <date type="issued">
+    <on>2014-05-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides information of special relevance to the planning, design, testing, installation, operation and maintenance of gas-insulated substations(GIS) and equipment. This guide is intended to supplement IEEE Std C37-122-1993(R2002). This guide is applicable to all gas-insulated substations (GIS) above 52 kV. However, the importance of topics covered varies with application category. For example, the issues related to advanced field test techniques and very fast transients (VFT) are of particular interest for extra high voltage (EHV) gas-insulated substations (GIS).</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.122.1-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Gas insulation</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>Partial discharges</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Sulfur hexaflouride</keyword>
+  <keyword>IEEE C37.122</keyword>
+  <keyword>gas-insulated metal enclosed switchgear</keyword>
+  <keyword>gas-insulated substation</keyword>
+  <keyword>gas-insulated switchgear</keyword>
+  <keyword>GIS</keyword>
+  <keyword>GIS design</keyword>
+  <keyword>GIS equipment</keyword>
+  <keyword>GIS installation</keyword>
+  <keyword>GIS testing</keyword>
+  <keyword>SF6</keyword>
+  <keyword>sulfur hexafluoride</keyword>
+  <keyword>VFT</keyword>
+  <keyword>Very Fast Transient</keyword>
+  <keyword>Partial Discharge</keyword>
+  <keyword>PD</keyword>
+</bibdata>

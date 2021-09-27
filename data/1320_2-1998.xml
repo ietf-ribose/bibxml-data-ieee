@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Conceptual Modeling Language</title>
+  <title type="title-main" format="text/plain">Syntax and Semantics for IDEF1X97 (IDEFobject)</title>
+  <title type="main" format="text/plain">IEEE Standard for Conceptual Modeling Language - Syntax and Semantics for IDEF1X97 (IDEFobject)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8883275</uri>
+  <docidentifier type="IEEE">IEEE Std 1320.2-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1405-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.8883275</docidentifier>
+  <docnumber>1320.2-1998</docnumber>
+  <date type="created">
+    <on>1997-11-30</on>
+  </date>
+  <date type="published">
+    <on>2019-10-25</on>
+  </date>
+  <date type="issued">
+    <on>1998-06-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IDEF1X97 consists of two conceptual modeling languages. The key-style language supports data/information modeling and is downward compatible with the US government’s 1993 standard, FIPS PUB 184. The identity-style language is based on the object model with declarative rules and constraints.IDEF1X97 identity style includes constructs for the distinct but related components of object abstraction: interface, requests, and realization; utilizes graphics to state the interface; and defines a declarative, directly executable Rule and Constraint Language for requests and realizations. IDEF1X97 conceptual modeling supports implementation by relational databases, extended relational databases, object databases, and object programming languages. IDEF1X97 is formally defined in terms of first order logic. A procedure is given whereby any valid IDEF1X97 model can be transformed into an equivalent theory in first order logic. That procedure is then applied to a meta model of IDEF1X97 to define the valid set of IDEF1X97 models.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Data models</keyword>
+  <keyword>Modeling</keyword>
+  <keyword>Semantics</keyword>
+  <keyword>Syntactics</keyword>
+  <keyword>conceptual schema</keyword>
+  <keyword>data model</keyword>
+  <keyword>IDEF1X</keyword>
+  <keyword>IDEF1X97</keyword>
+  <keyword>identity style</keyword>
+  <keyword>information model</keyword>
+  <keyword>key style</keyword>
+  <keyword>object model</keyword>
+</bibdata>

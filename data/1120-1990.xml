@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide to the Factors to Be Considered in the Planning, Design, and Installation of Submarine Power and Communications Cables</title>
+  <title type="main" format="text/plain">IEEE Guide to the Factors to Be Considered in the Planning, Design, and Installation of Submarine Power and Communications Cables</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/89821</uri>
+  <docidentifier type="IEEE">IEEE Std 1120-1990</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0802-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1990.94739</docidentifier>
+  <docnumber>1120-1990</docnumber>
+  <date type="created">
+    <on>1990-11-15</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1990-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Replaced by 1120-2004. IEEE Std 1120-1990, IEEE Guide to the Factors to Be Considered in the Planning, Design, and Installation of Submarine Power and Communications Cables, provides a checklist of factors to be considered in the planning, design, and installation of power and communications cables in a submarine environment. It does not attempt to provide complete cable design criteria.</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1120-2004</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Design methodology</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Underwater cables</keyword>
+  <keyword>Wire communication cables</keyword>
+  <keyword>Submarine power cable</keyword>
+  <keyword>Submarine communications cable</keyword>
+</bibdata>

@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Test Methods and Preferred Values for Low-Voltage Gas Discharge Tube Surge-Protective Components</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Test Methods and Preferred Values for Low-Voltage Gas Discharge Tube Surge-Protective Components</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9138819</uri>
+  <docidentifier type="IEEE">IEEE PC62.31/D8, July 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6847-3</docidentifier>
+  <docnumber>PC62.31/D8, Jul 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-07-10</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to low-voltage gas discharge tube (GDT ) surge-protective components for application on systems with voltages less than or equal to 1000 V rms or 1500 V dc. These protective components are designed to limit voltage surges on balanced or unbalanced communication circuits and on power circuits operating from dc to 420 Hz. This standard contains a series of standard test criteria for determining the electrical characteristics and ratings of gas discharge tube surge-protective components.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 649-2006 (Revision of IEEE Std 649-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 649-2006 (Revision of IEEE Std 649-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Discharges (electric)</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Low voltage</keyword>
+  <keyword>arc current</keyword>
+  <keyword>arc voltage</keyword>
+  <keyword>breakdown voltage</keyword>
+  <keyword>discharge current</keyword>
+  <keyword>follow current</keyword>
+  <keyword>gas discharge tube</keyword>
+  <keyword>GDT</keyword>
+  <keyword>glow to arc transition current</keyword>
+  <keyword>glow voltage</keyword>
+  <keyword>holdover voltage</keyword>
+  <keyword>IEEE C62.31&amp;amp;amp;#8482;</keyword>
+  <keyword>sparkover voltage</keyword>
+</bibdata>

@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5246989</uri>
+  <docidentifier type="IEEE">ANSI C63.4-2009</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6030-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5246989</docidentifier>
+  <docnumber>C63.4-2009</docnumber>
+  <date type="updated">
+    <on>2009-10-02</on>
+  </date>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <date type="published">
+    <on>2014-01-23</on>
+  </date>
+  <date type="issued">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">U.S. consensus standard methods, instrumentation, and facilities for measurement of radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range 9 kHz to 40 GHz are specified. This standard does not include generic nor product-specific emission limits. Where possible, the specifications herein are harmonized with other national and international standards used for similar purposes.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">U.S. consensus standard methods, instrumentation, and facilities for measurement of radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range 9 kHz to 40 GHz are specified. This standard does not include generic nor product-specific emission limits. Where possible, the specifications herein are harmonized with other national and international standards used for similar purposes.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.4-2003 (Revision of ANSI C63.4-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.4-2014 (Revision of ANSI C63.4-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Electric variables measurement</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>Electronic equipment</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>C63.4-2009</keyword>
+  <keyword>conducted emission testing</keyword>
+  <keyword>conducting ground plane</keyword>
+  <keyword>digital equipment</keyword>
+  <keyword>electric-field measurement</keyword>
+  <keyword>intentional radiators</keyword>
+  <keyword>line impedance stabilization network</keyword>
+  <keyword>low-voltage electrical equipment</keyword>
+  <keyword>low-voltage electronic equipment</keyword>
+  <keyword>magnetic field measurement</keyword>
+  <keyword>normalized site attenuation</keyword>
+  <keyword>radiated emission testing</keyword>
+  <keyword>radio-noise emissions</keyword>
+  <keyword>radio-noise power</keyword>
+  <keyword>site attenuation</keyword>
+  <keyword>unintentional radiators</keyword>
+</bibdata>

@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard for Exchanging Information between Networks Implementing IEC 61850 and IEEE Std 1815(TM) (Distributed Network Protocol</title>
+  <title type="title-main" format="text/plain">DNP3)</title>
+  <title type="title-part" format="text/plain">Corrigendum 1</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Exchanging Information between Networks Implementing IEC 61850 and IEEE Std 1815(TM) (Distributed Network Protocol - DNP3) - Corrigendum 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7518578</uri>
+  <docidentifier type="IEEE">P1815.1-2015/Cor1/D3.0, July 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2184-3</docidentifier>
+  <docnumber>P1815.1-2015/Cor1/D3.0, Jul 2016</docnumber>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-07-21</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The editing instructions for this corrigendum are to insert a diagram as Figure 52 in the place where it is 19 currently missing from the approved but unpublished document in Clause 8.11.6.1.6 (NOTE: This corrigendum was not published as a separate document, but was incorporated in IEEE Std 1815.1-2015)</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1815.1-2015 (Incorporates IEEE Std 1815.1-2015/Cor 1-2016)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1815.1-2015 (Incorporates IEEE Std 1815.1-2015/Cor 1-2016)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>automation</keyword>
+  <keyword>communications</keyword>
+  <keyword>DNP3</keyword>
+  <keyword>evolution</keyword>
+  <keyword>feeder</keyword>
+  <keyword>gateway</keyword>
+  <keyword>IEC 61850</keyword>
+  <keyword>IEEE 1815&amp;amp;amp;#8482;</keyword>
+  <keyword>mapping</keyword>
+  <keyword>network</keyword>
+  <keyword>power system</keyword>
+  <keyword>substation</keyword>
+  <keyword>upgrade</keyword>
+  <keyword>utility</keyword>
+</bibdata>

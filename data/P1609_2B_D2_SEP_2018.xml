@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments--Security Services for Applications and Management Messages Amendment 2: Protocol Data Unit (PDU) Functional Types and Encryption Key Management</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments--Security Services for Applications and Management Messages Amendment 2: Protocol Data Unit (PDU) Functional Types and Encryption Key Management</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8571337</uri>
+  <docidentifier type="IEEE">IEEE P1609.2b/D2, September 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5370-7</docidentifier>
+  <docnumber>P1609.2b/D2, Sep 2018</docnumber>
+  <date type="created">
+    <on>2018-12-07</on>
+  </date>
+  <date type="published">
+    <on>2018-12-10</on>
+  </date>
+  <date type="issued">
+    <on>2019-05-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Secure message formats and processing for use by Wireless Access in Vehicular Environments (WAVE) devices, including methods to secure WAVE management messages and methods to secure application messages are defined. Administrative functions necessary to support the core security functions are also defined.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.2-2016 (Revision of IEEE Std 1609.2-2013)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless ad hoc networks</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Message systems</keyword>
+  <keyword>Envryption</keyword>
+  <keyword>Cryptography</keyword>
+  <keyword>cryptography</keyword>
+  <keyword>IEEE 1609.2</keyword>
+  <keyword>security</keyword>
+  <keyword>wireless access in vehicular environments (WAVE)</keyword>
+</bibdata>

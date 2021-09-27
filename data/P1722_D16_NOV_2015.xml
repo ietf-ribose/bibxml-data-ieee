@@ -1,0 +1,75 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for a Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for a Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7347268</uri>
+  <docidentifier type="IEEE">IEEE P1722/D16, November 2015</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0573-7</docidentifier>
+  <docnumber>P1722/D16, Nov 2015</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-12-04</on>
+  </date>
+  <date type="issued">
+    <on>2016-03-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the protocol, device discovery, connection management and device control procedures used to facilitate interoperability between audio and video based end stations that use IEEE 1722 based streams on IEEE 802 based networks</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1722-2011</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>NIST</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Timing</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Quality of service</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Clock recovery</keyword>
+  <keyword>Streaming media</keyword>
+  <keyword>Time Sensitive Networking (TSN)</keyword>
+  <keyword>IEEE 802.1 AVB protocols</keyword>
+  <keyword>IEEE Std 802.1AS-2011</keyword>
+  <keyword>IEEE Std 802.1Q-2014</keyword>
+  <keyword>IEEE Std. 802.1BA-2011</keyword>
+  <keyword>IEEE Std. 1722-2011</keyword>
+  <keyword>IEC 61883</keyword>
+  <keyword>SMPTE ST 2022-6:2012</keyword>
+  <keyword>time sensitive media streaming</keyword>
+  <keyword>QoS</keyword>
+  <keyword>LAN</keyword>
+  <keyword>bridged LAN</keyword>
+  <keyword>time synchronization</keyword>
+  <keyword>NIST</keyword>
+  <keyword>AES</keyword>
+  <keyword>encryption</keyword>
+  <keyword>ECC</keyword>
+  <keyword>SDI</keyword>
+  <keyword>clock recovery</keyword>
+</bibdata>

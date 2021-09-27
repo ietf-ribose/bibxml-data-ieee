@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1678345</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AE-2006</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4991-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.245590</docidentifier>
+  <docnumber>802.1AE-2006</docnumber>
+  <date type="created">
+    <on>2006-08-18</on>
+  </date>
+  <date type="published">
+    <on>2015-06-19</on>
+  </date>
+  <date type="issued">
+    <on>2006-06-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies how all or part of a network can be secured transparently to peer protocol entities that use the MAC Service provided by IEEE 802&amp;amp;amp;#174; LANs to communicate. MAC security (MACsec) provides connectionless user data confidentiality, frame data integrity, and data origin authenticity.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AE-2018 (Revision of IEEE Std 802.1AE-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Security</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>data origin authenticity</keyword>
+  <keyword>integrity/confidentiality</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security and tack</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>MSAP</keyword>
+  <keyword>port-based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>service access point</keyword>
+  <keyword>transparent bridging</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Selection of Monitoring for Circuit Breakers</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Selection of Monitoring for Circuit Breakers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8488757</uri>
+  <docidentifier type="IEEE">IEEE PC37.10.1/D5B, October 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3828-5</docidentifier>
+  <docnumber>PC37.10.1/D5B, Oct 2018</docnumber>
+  <date type="created">
+    <on>2018-10-05</on>
+  </date>
+  <date type="published">
+    <on>2018-10-10</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Direction is provided for the selection of monitoring and for diagnostic parameters to be used with high-voltage circuit breakers (i.e., above 1000 V). Guidance on appropriate parameters to be considered for monitoring applied to various circuit breaker technologies is also provided.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.10.1-2000</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Failure analysis</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Risk management</keyword>
+  <keyword>failure characteristics</keyword>
+  <keyword>failure modes and effects analysis (FMEA)</keyword>
+  <keyword>failure modes</keyword>
+  <keyword>effects</keyword>
+  <keyword>and criticality analysis (FMECA)</keyword>
+  <keyword>failure rate</keyword>
+  <keyword>high-voltage circuit breakers</keyword>
+  <keyword>IEEE C37.10.1</keyword>
+  <keyword>monitoring</keyword>
+  <keyword>online condition monitoring</keyword>
+  <keyword>risk assessment</keyword>
+</bibdata>

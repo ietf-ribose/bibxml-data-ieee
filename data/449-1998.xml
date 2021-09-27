@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Ferroresonant Voltage Regulators</title>
+  <title type="main" format="text/plain">IEEE Standard for Ferroresonant Voltage Regulators</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/789958</uri>
+  <docidentifier type="IEEE">IEEE Std 449-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1534-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90070</docidentifier>
+  <docnumber>449-1998</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2016-02-24</on>
+  </date>
+  <date type="issued">
+    <on>1998-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Ferroresonant transformers used as regulators in electronic power supplies and in other equipment are covered. Guides to application and test procedures are included.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Ferroresonant circuits</keyword>
+  <keyword>controlled ferroresonant regulators</keyword>
+  <keyword>ferroresonant transformer regulators</keyword>
+  <keyword>series feroresonant regulators</keyword>
+  <keyword>series-parallel ferroresonant regulators</keyword>
+</bibdata>

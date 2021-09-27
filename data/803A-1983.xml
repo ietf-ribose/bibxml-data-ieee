@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Recommended Practice for the Unique Identification in Power Plants and Related Facilities</title>
+  <title type="title-main" format="text/plain">Component Function Identifiers</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for the Unique Identification in Power Plants and Related Facilities - Component Function Identifiers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/591763</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 803A-1983</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4255-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1983.82415</docidentifier>
+  <docnumber>803A-1983</docnumber>
+  <date type="created">
+    <on>1983</on>
+  </date>
+  <date type="published">
+    <on>2018-12-18</on>
+  </date>
+  <date type="issued">
+    <on>1982-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommeded practice provides a single source of component function identifiers which, along with related recommended practices concerning unique identification principles and definitions, implementation instructions, and system descriptions, makes up a concept, entitled the Energy Industry Identification System (EIIS), for uniquely identifying systems, structures, and components of nuclear and fossil fueld power plant projects (electric power generating stations) and realted facilities. Hydro and other types of power plant projects are not included in this issue.</abstract>
+  <copyright>
+    <from>1983</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 803.1-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power generation</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Micromechanical devices</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>IEEE Societies</keyword>
+  <keyword>803A</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Recommended Practice for Encryption and Management of Electronic Design Intellectual Property (IP)</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Recommended Practice for Encryption and Management of Electronic Design Intellectual Property (IP)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7274041</uri>
+  <docidentifier type="IEEE">IEEE P1735/D7, September, 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9335-9</docidentifier>
+  <docnumber>P1735/D7, Sept 2014</docnumber>
+  <date type="created">
+    <on>2015-11-28</on>
+  </date>
+  <date type="published">
+    <on>2015-09-22</on>
+  </date>
+  <date type="issued">
+    <on>2014-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Distribution of electronic design intellectual property (EDIP) creates a risk of unsanctioned use and dilution of the investment in its creation. This standard provides guidance on technical protection measures to those who produce, use, process, or standardize the specifications of such electronics design descriptions. These measures include protection through encryption, specification, and management of use rights that have been granted by the producers of electronic designs and methods for integrating license verification for granted rights.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Encryption</keyword>
+  <keyword>Digital rights management</keyword>
+  <keyword>Trust management</keyword>
+  <keyword>Intellectual property</keyword>
+  <keyword>encrypted IP</keyword>
+  <keyword>digital envelope</keyword>
+  <keyword>trust model</keyword>
+  <keyword>keys</keyword>
+  <keyword>rights management</keyword>
+</bibdata>

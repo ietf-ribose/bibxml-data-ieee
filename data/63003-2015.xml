@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEC/IEEE International standard for the common test interface pin map configuration for high-density, single-tier electronics test requirements utilizing IEEE Std 1505(TM)</title>
+  <title type="main" format="text/plain">IEC/IEEE International standard for the common test interface pin map configuration for high-density, single-tier electronics test requirements utilizing IEEE Std 1505(TM)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7358452</uri>
+  <docidentifier type="IEEE">IEC 63003 Edition 1.0 2015-12 IEEE Std 1505.1</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0580-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2015.7358452</docidentifier>
+  <docnumber>63003-2015</docnumber>
+  <date type="updated">
+    <on>2016-01-18</on>
+  </date>
+  <date type="created">
+    <on>2015-12-30</on>
+  </date>
+  <date type="published">
+    <on>2015-12-16</on>
+  </date>
+  <date type="issued">
+    <on>2015</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard represents an extension to the IEEE 1505 receiver fixture interface (RFI) standard specification. Particular emphasis is placed on defining within the IEEE 1505 RFI standard a more specific set of performance requirements that employ a common scalable: (a) pin map configuration; (b) specific connector modules; (c) respective contacts; (d) recommended switching implementation; and (e) legacy automatic test equipment (ATE) transitional devices. This is intentionally done to standardize the footprint and assure mechanical and electrical interoperability between past and future automatic test systems (ATS).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard represents an extension to the IEEE 1505 receiver fixture interface (RFI) standard specification. Particular emphasis is placed on defining within the IEEE 1505 RFI standard a more specific set of performance requirements that employ a common scalable: (a) pin map configuration; (b) specific connector modules; (c) respective contacts; (d) recommended switching implementation; and (e) legacy automatic test equipment (ATE) transitional devices. This is intentionally done to standardize the footprint and assure mechanical and electrical interoperability between past and future automatic test systems (ATS).</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEC Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Receivers</keyword>
+  <keyword>Scalability</keyword>
+  <keyword>Testing</keyword>
+  <keyword>High density testing</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATS</keyword>
+  <keyword>fixture</keyword>
+  <keyword>ICD</keyword>
+  <keyword>IEEE 1505.1(TM)</keyword>
+  <keyword>interface</keyword>
+  <keyword>ITA</keyword>
+  <keyword>mass termination</keyword>
+  <keyword>receiver</keyword>
+  <keyword>scalable</keyword>
+  <keyword>TPS</keyword>
+  <keyword>UUT</keyword>
+</bibdata>

@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Definite-Purpose Switching Devices for Use in Metal-Enclosed Low-Voltage (600 V AC and Below) Power Circuit Breaker Switchgear</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Definite-Purpose Switching Devices for Use in Metal-Enclosed Low-Voltage (600 V AC and Below) Power Circuit Breaker Switchgear - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8085426</uri>
+  <docidentifier type="IEEE">IEEE Std C37.13.1-2016 (Revision of IEEE Std C37.13.1-2006 - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4465-1</docidentifier>
+  <docnumber>C37.13.1-2016</docnumber>
+  <date type="created">
+    <on>2017-02-15</on>
+  </date>
+  <date type="published">
+    <on>2017-10-26</on>
+  </date>
+  <date type="issued">
+    <on>2016-06-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Definite-purpose switching devices for use in metal-enclosed low-voltage power circuit breaker switchgear are covered in this standard. The switching devices are fused, drawout type, three-pole construction, with one or more rated maximum ac voltages of 600 V, 508 V, and 254 V for application on systems having nominal ac voltages of 600 V, 480 V, and 240 V. The switching devices are power operated with integral or separately mounted overcurrent protective devices. Service conditions, ratings, functional components, temperature limitations and classifications of insulating materials, insulation (dielectric) withstand voltage requirements, test procedures, and application are addressed in this standard. The switching devices are normally used in applications that require frequency of operation greater than normal operations expected of low-voltage power circuit breakers.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.13.1-2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Switching circuits</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>definite-purpose switching device</keyword>
+  <keyword>IEEE C37.13.1(TM)</keyword>
+  <keyword>low-voltage ac power circuit breaker</keyword>
+</bibdata>

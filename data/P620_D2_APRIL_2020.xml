@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Presentation of Thermal Limit Curves for Squirrel Cage Induction Machines</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Presentation of Thermal Limit Curves for Squirrel Cage Induction Machines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9063728</uri>
+  <docidentifier type="IEEE">IEEE P620/D2, April 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6613-4</docidentifier>
+  <docnumber>P620/D2, April 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-04-10</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Thermal limit curves for induction machines are defined. A procedure is established for the presentation of these curves, and guidance for the interpretation and use of these curves for machine thermal protection is provided.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 620-1996</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 620-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Induction machines</keyword>
+  <keyword>Thermal management</keyword>
+  <keyword>Windings</keyword>
+  <keyword>IEEE 620&amp;amp;amp;#8482;</keyword>
+  <keyword>machine thermal protection</keyword>
+  <keyword>rotor cage windings</keyword>
+  <keyword>stator cage windings</keyword>
+  <keyword>thermal limit curves</keyword>
+  <keyword>three-phase squirrel cage induction machines</keyword>
+</bibdata>

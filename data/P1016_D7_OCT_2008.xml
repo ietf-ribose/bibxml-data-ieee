@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information Technology--Systems Design--Software Design Descriptions</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology--Systems Design--Software Design Descriptions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4664995</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1016/D7, Oct 2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2808-8</docidentifier>
+  <docnumber>P1016/D7, Oct 2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The required information content and organization for Software Design Descriptions (SDDs) are described. An SDD is a representation of a software design to be used for communicating design information to its stakeholders. The requirements for the design languages (notations and other representational schemes) to be used for conformant SDDs are specified. This standard is applicable to automated databases and design description languages but can be used for paper documents and other means of descriptions.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

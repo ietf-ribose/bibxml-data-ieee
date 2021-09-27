@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Floating-Point Arithmetic</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Floating-Point Arithmetic</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4478282</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P754_D1.7.0, Mar 2008.pdf</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2702-9</docidentifier>
+  <docnumber>P754_D1.7.0, Mar 2008.pdf</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies interchange and arithmetic formats and methods for binary and decimal floating-point arithmetic in computer programming environments. This standard specifies exception conditions and their default handling. An implementation of a floating-point system conforming to this standard can be realized entirely in software, entirely in hardware, or in any combination of software and hardware. For operations specified in the normative part of this standard, numerical results and exceptions are uniquely determined by the values of the input data, sequence of operations, and destination formats, all under user control.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

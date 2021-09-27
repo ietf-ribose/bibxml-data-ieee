@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Bridges</title>
+  <title type="title-main" format="text/plain">Amendment 2: Bridging of IEEE 802.16</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Bridges - Amendment 2: Bridging of IEEE 802.16</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4293121</uri>
+  <docidentifier type="IEEE">802.16k-2007 (Amendment to IEEE Std 802.1D-2004)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5586-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.4293121</docidentifier>
+  <docnumber>802.16k-2007</docnumber>
+  <date type="created">
+    <on>2007-08-14</on>
+  </date>
+  <date type="published">
+    <on>2013-03-13</on>
+  </date>
+  <date type="issued">
+    <on>2007-03-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document amends IEEE Std 802.1D, as previously amended by IEEE Std 802.17a(TM)-2004, to support the bridging of the IEEE 802.16 medium access control.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1D-2004 (Revision of IEEE Std 802.1D-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>LANs</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>transparent bridging</keyword>
+  <keyword>VLANs</keyword>
+  <keyword>wireless metropolitan area networks</keyword>
+  <keyword>WMAN</keyword>
+</bibdata>

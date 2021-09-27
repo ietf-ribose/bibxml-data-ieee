@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks: Media Independent Handover Services</title>
+  <title type="title-main" format="text/plain">Amendment for Security Extensions to Media Independent Handover Services and Protocol</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks: Media Independent Handover Services - Amendment for Security Extensions to Media Independent Handover Services and Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6062364</uri>
+  <docidentifier type="IEEE">IEEE 802.21a/D05, October 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6922-4</docidentifier>
+  <docnumber>P802.21a/D05, Oct 2011</docnumber>
+  <date type="created">
+    <on>2011-10-27</on>
+  </date>
+  <date type="issued">
+    <on>2011-10-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the extensions to IEEE Std 802.21-2008 for security mechanisms to protect media independent handover services and mechanisms to use MIH to assist proactive authentications to reduce the latency due to media access authentication and key establishment with the target network.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Security</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Access protocols</keyword>
+  <keyword>Service access authentication</keyword>
+  <keyword>security protection</keyword>
+  <keyword>proactive authentication</keyword>
+</bibdata>

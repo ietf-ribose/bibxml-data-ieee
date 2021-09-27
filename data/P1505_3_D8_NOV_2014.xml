@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for the Universal Test Interface Framework and Pin Configuration for Portable/Bench Top Test Requirements Utilizing IEEE 1505 Receiver Fixture Interface Standard</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for the Universal Test Interface Framework and Pin Configuration for Portable/Bench Top Test Requirements Utilizing IEEE 1505 Receiver Fixture Interface Standard</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6974964</uri>
+  <docidentifier type="IEEE">IEEE P1505.3/D8, November 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9450-9</docidentifier>
+  <docnumber>P1505.3/D8, Nov 2014</docnumber>
+  <date type="created">
+    <on>2014-05-22</on>
+  </date>
+  <date type="published">
+    <on>2014-12-04</on>
+  </date>
+  <date type="issued">
+    <on>2014-05-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document, the Standard for the Universal Test Interface Pin Map Configuration for portable and bench top test requirements utilizing IEEE Std 1505 represents an extension to the IEEE-1505 Receiver Fixture Interface (RFI) Standard Specifications1.Particular emphasis is placed on defining within the IEEE-P1505 RFI Standard a more specific set of performance requirements that employ a universal test interface: (a) pin map configuration;(b) specific connector modules; (c) respective contacts; and (d) recommended switching implementation. This is intentionally done to standardize the footprint and validate mechanical and electrical interoperability between Automatic Test Systems (ATS).</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Receiverfs</keyword>
+  <keyword>Bench top testing</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Scalability</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATS</keyword>
+  <keyword>TPS</keyword>
+  <keyword>UUT</keyword>
+  <keyword>Interface</keyword>
+  <keyword>Scalable</keyword>
+  <keyword>Receiver</keyword>
+  <keyword>Fixture</keyword>
+  <keyword>ITA</keyword>
+  <keyword>ICD</keyword>
+  <keyword>Mass Termination.</keyword>
+</bibdata>

@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1637340</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1Q-2005 (Incorporates IEEE Std 802.1Q1998, IEEE Std 802.1u-2001, IEEE Std 802.1v-2001, and IEEE Std 802.1s-2002)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4877-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.216285</docidentifier>
+  <docnumber>802.1Q-2005</docnumber>
+  <date type="created">
+    <on>2006-05-19</on>
+  </date>
+  <date type="published">
+    <on>2016-10-28</on>
+  </date>
+  <date type="issued">
+    <on>2005-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies how the MAC Service is supported by Virtual Bridged Local Area Networks, the principles of operation of those networks, and the operation of VLAN-aware Bridges, including management, protocols, and algorithms.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-1998</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2011 (Revision of IEEE Std 802.1Q-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>locat area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+  <keyword>Rapid Spanning Tree Protocol (RSTP)</keyword>
+  <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+</bibdata>

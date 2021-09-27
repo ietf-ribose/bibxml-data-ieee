@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Health informatics--Point-of-care medical device communication Part 30200: Transport profile--Cable connected Amendment 1</title>
+  <title type="main" format="text/plain">Health informatics--Point-of-care medical device communication Part 30200: Transport profile--Cable connected Amendment 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6022710</uri>
+  <docidentifier type="IEEE">IEEE Std 11073-30200a-2011 (Amendment to ISO/IEEE Std 11073-30200:2004)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6677-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6022710</docidentifier>
+  <docnumber>11073-30200a-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2013-10-23</on>
+  </date>
+  <date type="issued">
+    <on>2011-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEEE Std 11073-30200:2004 is extended in this amendment to include IEEE 802.3 100BASE-T and analysis of the compatibility of cable connections between ISO/IEEE Std 11073-30200:2004 and IEEE Std 802.3&amp;amp;#x2122;-2008.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEEE Std 11073-30200:2004 is extended in this amendment to include IEEE 802.3 100BASE-T and analysis of the compatibility of cable connections between ISO/IEEE Std 11073-30200:2004 and IEEE Std 802.3TM-2008.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEEE 802.3 Standards</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Infrared imaging</keyword>
+  <keyword>Patient monitoring</keyword>
+  <keyword>bedside</keyword>
+  <keyword>IEEE 11073</keyword>
+  <keyword>IEEE Std 802.3-2008</keyword>
+  <keyword>Infrared Data Association (IrDA)</keyword>
+  <keyword>legacy device</keyword>
+  <keyword>medical device</keyword>
+  <keyword>medical device communications</keyword>
+  <keyword>MIB</keyword>
+  <keyword>patient</keyword>
+  <keyword>SNTP</keyword>
+</bibdata>

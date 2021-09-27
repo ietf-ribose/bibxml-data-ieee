@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE/ANSI Standard for the Programming Language Extended Pascal</title>
+  <title type="main" format="text/plain">IEEE/ANSI Standard for the Programming Language Extended Pascal</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159330</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 770X3.160-1989</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4247-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1990.101061</docidentifier>
+  <docnumber>770X3.160-1989</docnumber>
+  <date type="created">
+    <on>1990</on>
+  </date>
+  <date type="published">
+    <on>2012-06-04</on>
+  </date>
+  <date type="issued">
+    <on>1989-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The standard provides an unambiguous and machine-independent definition of the computer programming language Extended Pascal by specifying requirements for a processor and for a conforming program. Its purpose is to facilitate portability of Extended Pascal programs for use on a wide variety of data processing systems. Two levels of compliance are defined for both processors and programs.</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>High-level languages</keyword>
+  <keyword>Software portability</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Pascal</keyword>
+  <keyword>extended Pascal</keyword>
+  <keyword>portability</keyword>
+  <keyword>data processing systems</keyword>
+  <keyword>programming</keyword>
+</bibdata>

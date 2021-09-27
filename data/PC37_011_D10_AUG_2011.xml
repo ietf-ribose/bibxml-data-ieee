@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Application of Transient Recovery Voltage for AC High-Voltage Circuit Breakers</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Application of Transient Recovery Voltage for AC High-Voltage Circuit Breakers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5976983</uri>
+  <docidentifier type="IEEE">IEEE PC37.011/D10, August 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6405-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5976983</docidentifier>
+  <docnumber>PC37.011/D10, Aug 2011</docnumber>
+  <date type="created">
+    <on>2011-08-04</on>
+  </date>
+  <date type="issued">
+    <on>2011-08-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This application guide covers procedures and 1 calculations necessary to apply the standard transient recovery voltage (TRV) ratings for ac high-voltage circuit breakers rated above 1000 V. The breaking capability limits of these circuit breakers are determined to a great degree by the TRV. The TRV ratings are compared with typical system TRV duties. Examples of TRV calculation are given with suggested options if the TRV duty exceeds the TRV ratings of the circuit breaker.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Power system restoration</keyword>
+  <keyword>high-voltage circuit breakers</keyword>
+  <keyword>transient recovery voltage</keyword>
+</bibdata>

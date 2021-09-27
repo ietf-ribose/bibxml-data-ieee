@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 1: Prioritization of Management Frames</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 1: Prioritization of Management Frames</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6179268</uri>
+  <docidentifier type="IEEE">IEEE Std 802.11ae-2012 (Amendment to IEEE Std 802.11-2012)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7241-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6179268</docidentifier>
+  <docnumber>802.11ae-2012</docnumber>
+  <date type="updated">
+    <on>2012-06-04</on>
+  </date>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-10-08</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A mechanism for prioritization of management frames is provided and a protocol to communicate management frame prioritization policy is specified in this amendment.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A mechanism for prioritization of management frames is provided and a protocol to communicate management frame prioritization policy is specified in this amendment.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2007 (Revision of IEEE Std 802.11-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Quality of service</keyword>
+  <keyword>Information exhange</keyword>
+  <keyword>Telecommunication network management</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>IEEE 802.11</keyword>
+  <keyword>IEEE 802.11ae</keyword>
+  <keyword>management</keyword>
+  <keyword>QMF</keyword>
+  <keyword>QoS</keyword>
+  <keyword>quality-of-service management frame</keyword>
+</bibdata>

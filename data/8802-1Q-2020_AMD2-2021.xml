@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE/ISO/IEC International Standard-Telecommunications and exchange between information technology systems &amp;amp;#8212; Requirements for local and metropolitan area networks &amp;amp;#8212; Part 1Q: Bridges and bridged networks AMENDMENT 2: YANG data model</title>
+  <title type="main" format="text/plain">IEEE/ISO/IEC International Standard-Telecommunications and exchange between information technology systems &amp;amp;#8212; Requirements for local and metropolitan area networks &amp;amp;#8212; Part 1Q: Bridges and bridged networks AMENDMENT 2: YANG data model</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9546749</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-1Q:2020/Amd.2:2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7949-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9546749</docidentifier>
+  <docnumber>8802-1Q-2020_Amd2-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-09-22</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A YANG data model in support of configuration and operational status information for a subset of Bridging capabilities is provided in this amendment to IEEE Std 802.1Q(TM)-2018.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Qcp-2018 (Amendment to IEEE Std 802.1Q-2018)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>IEEE 802&amp;amp;#174;</keyword>
+  <keyword>IEEE 802.1Q&amp;amp;#8482;</keyword>
+  <keyword>IEEE 802.1Qcp&amp;amp;#8482;</keyword>
+  <keyword>local area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+  <keyword>YANG</keyword>
+</bibdata>

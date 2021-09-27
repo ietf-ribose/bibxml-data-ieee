@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Synchrophasor Measurements for Power Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Synchrophasor Measurements for Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5930307</uri>
+  <docidentifier type="IEEE">IEEE PC37.118.1/D4.2, May 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6783-1</docidentifier>
+  <docnumber>PC37.118.1/D4.2, May 2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-06-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is for synchronized phasor measurement systems in power systems. It defines a synchronized phasor (synchrophasor), frequency and rate of change of frequency measurements. It describes timetag and synchronization requirements for measurement of all three of these quantities. It specifies methods for evaluating these measurements, and requirements for compliance with the standard under both static and dynamic conditions. It defines a Phasor Measurement Unit (PMU) which can be a stand-alone physical unit or a functional unit within another physical unit. This standard does not specify hardware, software or a method for computing phasors, frequency, or rate of change of frequency.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Frequency measurement</keyword>
+  <keyword>Phasor measurement units</keyword>
+  <keyword>Smart grids</keyword>
+</bibdata>

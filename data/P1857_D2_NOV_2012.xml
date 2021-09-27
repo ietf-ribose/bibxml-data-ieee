@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Advanced Audio and Video Coding</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Advanced Audio and Video Coding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6476602</uri>
+  <docidentifier type="IEEE">P1857/D2, November 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7590-4</docidentifier>
+  <docnumber>P1857/D2, Nov 2012</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-03-08</on>
+  </date>
+  <date type="issued">
+    <on>2013-03-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">In this standard, a set of tools for efficient video coding is defined, including directional intra prediction, variable block size inter prediction and context adaptive binary arithmetic coding, and the corresponding decoding procedure. The target applications and services include but not limited TV over Internet, user-generated multimedia content, IP-based video conference, IP-based surveillance, and otherre video/audio enabled services and applications such as digital television broadcasting, digital storage media, and communication.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Encoding</keyword>
+  <keyword>Decoding</keyword>
+  <keyword>Image processing</keyword>
+  <keyword>Entropy</keyword>
+  <keyword>Transforms</keyword>
+  <keyword>Audio coding</keyword>
+  <keyword>Video coding</keyword>
+  <keyword>block</keyword>
+  <keyword>coefficients</keyword>
+  <keyword>decoding</keyword>
+  <keyword>encoding</keyword>
+  <keyword>entropy coding</keyword>
+  <keyword>field</keyword>
+  <keyword>frame</keyword>
+  <keyword>IEEE 1857</keyword>
+  <keyword>image</keyword>
+  <keyword>Internet Protocol television (IPTV)</keyword>
+  <keyword>inter prediction</keyword>
+  <keyword>intra prediction</keyword>
+  <keyword>macroblock</keyword>
+  <keyword>picture</keyword>
+  <keyword>quantization</keyword>
+  <keyword>slice</keyword>
+  <keyword>transform</keyword>
+</bibdata>

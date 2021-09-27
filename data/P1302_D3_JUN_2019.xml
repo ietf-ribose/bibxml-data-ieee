@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Electromagnetic Characterization of Conductive Gaskets in the Frequency Range of DC to 40 GHz</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Electromagnetic Characterization of Conductive Gaskets in the Frequency Range of DC to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8805533</uri>
+  <docidentifier type="IEEE">IEEE P1302/D3, June 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6020-0</docidentifier>
+  <docnumber>P1302/D3, Jun 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-08-19</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information to assist users of gaskets in evaluating gasket measurement techniques to determine which exhibit the properties critical to the intended application, to highlight limitations and sources of error of the competing measurement techniques, and to provide a basis for comparing the techniques is provided in this guide. Emphasis is placed on those measurement techniques that have been adopted through incorporation into standards, both commercial and military, or that have been used extensively.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1302-2008 (Revision of IEEE Std 1302-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Gaskets</keyword>
+  <keyword>Reverberation chambers</keyword>
+  <keyword>Electromagnetic shielding</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>aperture transmission</keyword>
+  <keyword>electromagnetic shielding</keyword>
+  <keyword>EMI gaskets</keyword>
+  <keyword>IEEE 1302</keyword>
+  <keyword>measurement techniques</keyword>
+  <keyword>reverberation chamber</keyword>
+  <keyword>shielding effectiveness</keyword>
+  <keyword>stirred mode</keyword>
+  <keyword>transfer impedance</keyword>
+</bibdata>

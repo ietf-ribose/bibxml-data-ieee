@@ -1,0 +1,44 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft Standard for IEEE Standard Classification for Software Anomalies</title>
+  <title type="main" format="text/plain">Draft Standard for IEEE Standard Classification for Software Anomalies</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4799093</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1044/D00003, Feb 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2818-7</docidentifier>
+  <docnumber>P1044/D00003, Feb 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides a uniform approach to the classification of software anomalies, regardless of when they originate or when they are encountered within the project, product, or system lifecycle. Classification data can be used for a variety of purposes, including defect causal analysis, project management, and software process improvement (e.g., to reduce the likelihood of defect insertion and/or increase the likelihood of early defect detection).</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>anomaly</keyword>
+  <keyword>bug</keyword>
+  <keyword>classification</keyword>
+  <keyword>defect</keyword>
+  <keyword>error</keyword>
+  <keyword>failure</keyword>
+  <keyword>fault</keyword>
+  <keyword>problem</keyword>
+</bibdata>

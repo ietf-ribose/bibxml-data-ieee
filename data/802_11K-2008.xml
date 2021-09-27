@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC)and Physical Layer (PHY) Specifications Amendment 1: Radio Resource Measurement of Wireless LANs</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC)and Physical Layer (PHY) Specifications Amendment 1: Radio Resource Measurement of Wireless LANs</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4544755</uri>
+  <docidentifier type="IEEE">IEEE Std 802.11k-2008 (Amendment to IEEE Std 802.11-2007)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5420-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4544755</docidentifier>
+  <docnumber>802.11k-2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <date type="published">
+    <on>2016-02-11</on>
+  </date>
+  <date type="issued">
+    <on>2008-05-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the extensions to IEEE Std 802.11 for Wireless LANs providing mechanisms for Radio Resource Measurement.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2007 (Revision of IEEE Std 802.11-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Telecommunications</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>802.11k-2008</keyword>
+  <keyword>local area network (LAN)</keyword>
+  <keyword>measurement</keyword>
+  <keyword>network management</keyword>
+  <keyword>radio</keyword>
+  <keyword>radio resource</keyword>
+</bibdata>

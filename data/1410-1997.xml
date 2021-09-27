@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Improving the Lightning Performance of Electric Power Overhead Distribution Lines</title>
+  <title type="main" format="text/plain">IEEE Guide for Improving the Lightning Performance of Electric Power Overhead Distribution Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/643517</uri>
+  <docidentifier type="IEEE">IEEE Std 1410-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0387-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.85324</docidentifier>
+  <docnumber>1410-1997</docnumber>
+  <date type="created">
+    <on>1997-12-31</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1997-06-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE 1410-2004. This guide will identify factors that contribute to lightning-caused faults on overhead distribution lines and suggest improvements to existing and new constructions. This guide is limited to the protection of distribution-line insulation for system voltages 69 kV and below. Equipment protection considerations are covered in IEEE Std C62.22-1991.</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1410-2004 (Revision of IEEE Std 1410-1997)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power distribution lines</keyword>
+  <keyword>This scope will identify factors that contribute to lightning-caused faults on overhead distribution lines and suggest improvements to existing and new constructions. This guide is limited to the protection of distribution-line insulation for system volta</keyword>
+</bibdata>

@@ -1,0 +1,95 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks--Amendment 1: Enhanced Ultra Wideband (UWB) Physical Layers (PHYs) and Associated Ranging Techniques</title>
+  <title type="main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks--Amendment 1: Enhanced Ultra Wideband (UWB) Physical Layers (PHYs) and Associated Ranging Techniques</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9179124</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4z-2020 (Amendment to IEEE Std 802.15.4-2020)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6798-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2020.9179124</docidentifier>
+  <docnumber>802.15.4z-2020</docnumber>
+  <date type="updated">
+    <on>2020-09-11</on>
+  </date>
+  <date type="created">
+    <on>2020-08-25</on>
+  </date>
+  <date type="published">
+    <on>2020-08-27</on>
+  </date>
+  <date type="issued">
+    <on>2020-06-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment enhances the UWB PHYs with additional coding options and improvements to increase the integrity and accuracy of ranging measurements. It also enhances the MAC to support control of time-of-flight ranging procedures and exchange ranging related information between the participating ranging devices.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment enhances the UWB PHYs with additional coding options and improvements to increase the integrity and accuracy of ranging measurements. It also enhances the MAC to support control of time-of-flight ranging procedures and exchange ranging related information between the participating ranging devices. (The PDF of this standard is available at no cost to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2020 (Revision of IEEE Std 802.15.4-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wideband</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Ultra wideband technology</keyword>
+  <keyword>Encoding</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Distance measurement</keyword>
+  <keyword>Receivers</keyword>
+  <keyword>Transmitters</keyword>
+  <keyword>Double-sided two-way ranging</keyword>
+  <keyword>DS-TWR</keyword>
+  <keyword>Enhanced ranging device</keyword>
+  <keyword>ERDEV</keyword>
+  <keyword>HRP UWB PHY</keyword>
+  <keyword>HRP-ERDEV</keyword>
+  <keyword>IEEE 802.15.4&amp;amp;#8482;</keyword>
+  <keyword>IEEE 802.15.4z&amp;amp;#8482;</keyword>
+  <keyword>Low power</keyword>
+  <keyword>Low-Rate Wireless Networks</keyword>
+  <keyword>LRP UWB PHY</keyword>
+  <keyword>LRP-ERDEV</keyword>
+  <keyword>Multi-node ranging</keyword>
+  <keyword>Precision ranging</keyword>
+  <keyword>Ranging device</keyword>
+  <keyword>RDEV</keyword>
+  <keyword>RF</keyword>
+  <keyword>RFID</keyword>
+  <keyword>Real Time Location Systems</keyword>
+  <keyword>RTLS</keyword>
+  <keyword>Single-sided two-way ranging</keyword>
+  <keyword>SS-TWR</keyword>
+  <keyword>Time of flight</keyword>
+  <keyword>TOF</keyword>
+  <keyword>TOF integrity</keyword>
+  <keyword>Two-way ranging</keyword>
+  <keyword>TWR</keyword>
+  <keyword>Ultra wideband</keyword>
+  <keyword>UWB</keyword>
+  <keyword>Wireless Specialty Networks</keyword>
+  <keyword>WSN.</keyword>
+</bibdata>

@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Space-borne Fiber-Optic Data Bus</title>
+  <title type="main" format="text/plain">IEEE Standard for Space-borne Fiber-Optic Data Bus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/757191</uri>
+  <docidentifier type="IEEE">IEEE Std 1393-1999</docidentifier>
+  <docidentifier type="ISBN">0-7381-1549-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.89421</docidentifier>
+  <docnumber>1393-1999</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="issued">
+    <on>1999-02-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The design requirements for a fiber-optic serial interconnect protocol, topology, and media is established. The application target for this standard is the interconnection of multiple aerospace sensors, processing resources, bulk storage resources, and communications resources onboard aerospace platforms. This standard is for subsystem interconnection, as opposed to intra-backplane connection.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Field buses</keyword>
+</bibdata>

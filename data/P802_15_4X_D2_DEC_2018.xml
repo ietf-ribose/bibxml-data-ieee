@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Low-Rate Wireless Networks Amendment Defining Enhancements to the Smart Utility Network (SUN) Physical Layers (PHYs) Supporting up to 2.4 Mb/s Data Rates</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Low-Rate Wireless Networks Amendment Defining Enhancements to the Smart Utility Network (SUN) Physical Layers (PHYs) Supporting up to 2.4 Mb/s Data Rates</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8610442</uri>
+  <docidentifier type="IEEE">IEEE P802.15.4x/D2, December 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5479-7</docidentifier>
+  <docnumber>P802.15.4x/D2, Dec 2018</docnumber>
+  <date type="created">
+    <on>2019-01-10</on>
+  </date>
+  <date type="published">
+    <on>2019-01-11</on>
+  </date>
+  <date type="issued">
+    <on>2019-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Enhancements to the IEEE 802.15.4(TM) smart utility network (SUN) orthogonal frequency division multiplexing (OFDM) physical layers (PHYs) that enable support for data rates up to 2.4 Mb/s are defined by this amendment to IEEE Std 802.15.4(TM)-2015. This amendment also defines additional channel plans, as needed, to support emerging applications.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2015 (Revision of IEEE Std 802.15.4-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Data communication</keyword>
+  <keyword>Pricing</keyword>
+  <keyword>amendment</keyword>
+  <keyword>IEEE 802.15.4</keyword>
+  <keyword>IEEE 802.15.4x</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

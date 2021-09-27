@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements--Part 15-4: Wireless medium access control (MAC) and physical layer (PHY) specifications for low-rate wireless personal area networks (WPANs)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements--Part 15-4: Wireless medium access control (MAC) and physical layer (PHY) specifications for low-rate wireless personal area networks (WPANs)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8362834</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-15-4:2018(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4878-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8362834</docidentifier>
+  <docnumber>8802-15-4-2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-05-22</on>
+  </date>
+  <date type="issued">
+    <on>2018</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The protocol and compatible interconnection for data communication devices using low-data-rate, low-power, and low-complexity short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN) are defined in this standard. A variety of physical layers (PHYs) have been defined that cover a wide variety of frequency bands.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>IEEE 802.15.4(TM)</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>mobility</keyword>
+  <keyword>PAN</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>short range</keyword>
+  <keyword>wireless</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Synthetic Fault Testing of AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <title type="main" format="text/plain">IEEE Guide for Synthetic Fault Testing of AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30636</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C37.081-1981</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1038-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1981.82367</docidentifier>
+  <docnumber>C37.081-1981</docnumber>
+  <date type="created">
+    <on>1981</on>
+  </date>
+  <date type="published">
+    <on>2020-02-13</on>
+  </date>
+  <date type="issued">
+    <on>1978-09-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the C37 family on Switchgear, Substations and Protective Relays. Guidelines are established for synthetic testing of circuit breakers, as well as test criteria for demonstrating the short-circuit current rating of circuit breakers on a single-phase basis. Criteria for evaluating results are also provided. The standard covers short-circuit current interruption process; basic principles of synthetic testing; synthetic test circuits; requirements for synthetic test methods; parameters, test procedures, and tolerances; short-line fault; multiple loops; circuit breakers equipped with parallel impedance; duty cycle; and test records.</abstract>
+  <copyright>
+    <from>1981</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Short circuit currents</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Switchgear testing</keyword>
+  <keyword>Circuit-breaker testing</keyword>
+</bibdata>

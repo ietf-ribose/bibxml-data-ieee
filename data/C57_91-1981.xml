@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Loading Mineral-Oil-Immersed Overhead and Pad-Mounted Distribution Transformers Rated 500kVA and Less with 65 C or 55 C Average Winding Rise</title>
+  <title type="main" format="text/plain">IEEE Guide for Loading Mineral-Oil-Immersed Overhead and Pad-Mounted Distribution Transformers Rated 500kVA and Less with 65 C or 55 C Average Winding Rise</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27790</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C57.91-1981</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4301-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1981.81014</docidentifier>
+  <docnumber>C57.91-1981</docnumber>
+  <date type="created">
+    <on>1981</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1979-03-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">General recommendations for loading 65 degrees Centigrade-rise mineral-oil-immersed overhead and pad-mounted distribution transformers are covered. Recommendations for 55 degrees Centigrade-rise transformers are included because a substantial percentage of these transformers are still in service. The recommendations are based on winding hottest-spot calculations only. Other factors that may limit the permissible load to lower values are listed. A method to establish winding temperature and loss of life by nomographs is given.</abstract>
+  <copyright>
+    <from>1981</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.91-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Oil insulation</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>loading</keyword>
+  <keyword>overhead</keyword>
+  <keyword>pad-mounted</keyword>
+  <keyword>transformers</keyword>
+  <keyword>500kVA</keyword>
+</bibdata>

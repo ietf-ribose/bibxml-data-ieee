@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Guide for Switchgear</title>
+  <title type="title-main" format="text/plain">Unit Substation</title>
+  <title type="title-part" format="text/plain">Requirements</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Switchgear - Unit Substation - Requirements</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6172706</uri>
+  <docidentifier type="IEEE">IEEE PC37.121/D14, March 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7471-6</docidentifier>
+  <docnumber>PC37.121/D14, Mar 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Guide for Switchgear-Unit Substation-Requirements is intended for use as the basis for the coordination of equipment in Unit Substations by assisting in the selection of components. A variety of designs for unit substations are possible using various combinations of incoming sections, transformer sections, outgoing sections, and transition sections. It is intended that the incoming, outgoing, transformer, and transition sections included in a unit substation meet the basic requirements of applicable industry standards for those sections. This guide covers three-phase unit substations for step-down operation in the range of 112.5 kVA or greater at primary voltages of 601 V through 38 kV.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C37.121-1989</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Motor control</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>control</keyword>
+  <keyword>dead-front switchboard</keyword>
+  <keyword>distribution</keyword>
+  <keyword>fuse</keyword>
+  <keyword>metal-clad switchgear</keyword>
+  <keyword>metal enclosed switchgear</keyword>
+  <keyword>metering</keyword>
+  <keyword>mobile unit substation</keyword>
+  <keyword>molded-case circuit breaker</keyword>
+  <keyword>motor control center</keyword>
+  <keyword>power circuit breaker</keyword>
+  <keyword>primary unit substation</keyword>
+  <keyword>radial substation</keyword>
+  <keyword>rectifier-type substation</keyword>
+  <keyword>secondary selective substation</keyword>
+  <keyword>secondary unit substation</keyword>
+  <keyword>spot-network substation</keyword>
+  <keyword>substation</keyword>
+  <keyword>surge protection</keyword>
+  <keyword>switchgear</keyword>
+  <keyword>transformer</keyword>
+  <keyword>transition section</keyword>
+  <keyword>unit substation</keyword>
+</bibdata>

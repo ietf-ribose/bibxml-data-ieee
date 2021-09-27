@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz</title>
+  <title type="main" format="text/plain">IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/757105</uri>
+  <docidentifier type="IEEE">IEEE Std C95.1, 1999 Edition</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1558-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.89423</docidentifier>
+  <docnumber>C95.1 Edition-1999</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2017-02-10</on>
+  </date>
+  <date type="issued">
+    <on>1998-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE C95.1-1991 gives recommendations to prevent harmful effects in human beings exposed to electromagnetic fields in the frequency range from 3 kHz to 300 GHz. The recommendations are intended to apply to exposures in controlled, as well as uncontrolled, environments. They are not intended to apply to the purposeful exposure of patients under the direction of practitioners of the healing arts. The induced and contact current limits of IEEE C95.1-1991 are modified in this edition. In addition, field strengths below which induced and contact currents do not have to be measured are specified, spatial averaging and measurement distance requirements are clarified, and more precise definitions for averaging volume and radiated power are provided.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C95.1-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+</bibdata>

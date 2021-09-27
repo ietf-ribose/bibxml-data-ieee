@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks--Amendment 3: Use of the 865 MHz to 867 MHz Band in India</title>
+  <title type="main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks--Amendment 3: Use of the 865 MHz to 867 MHz Band in India</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7852415</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4u-2016 (Amendment to IEEE Std 802.15.4-2015 as amended by IEEE Std 802.15.4n-2016 and IEEE Std 802.15.4q-2016)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2320-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.7852415</docidentifier>
+  <docnumber>802.15.4u-2016</docnumber>
+  <date type="updated">
+    <on>2017-03-03</on>
+  </date>
+  <date type="created">
+    <on>2017-02-10</on>
+  </date>
+  <date type="published">
+    <on>2017-02-13</on>
+  </date>
+  <date type="issued">
+    <on>2016-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A physical (PHY) layer enabling the use of the 865 MHz to 867 MHz band in India is defined in this amendment. The supported data rate should be at least 40 kb/s and the typical line-of-sight range should be on the order of 5 km using an omnidirectional antenna. Included are any channel access and/or timing changes in the medium access control necessary to support this PHY layer.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A physical (PHY) layer enabling the use of the 865 MHz to 867 MHz band in India is defined in this amendment. The supported data rate should be at least 40 kb/s and the typical line-of-sight range should be on the order of 5 km using an omni directional antenna. Included are any channel access and/or timing changes in the medium access control necessary to support this PHY layer.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2011 (Revision of IEEE Std 802.15.4-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>India</keyword>
+  <keyword>Frequency bands</keyword>
+  <keyword>865 MHz to 867 MHz band</keyword>
+  <keyword>amendment</keyword>
+  <keyword>IEEE 802.15.4(TM)</keyword>
+  <keyword>IEEE 802.15.4u(TM)</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

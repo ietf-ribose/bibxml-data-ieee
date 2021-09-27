@@ -1,0 +1,42 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Standard for a Mixed-Signal Test Bus</title>
+  <title type="main" format="text/plain">Standard for a Mixed-Signal Test Bus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4977267</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1149.4/D14, Apr 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2888-0</docidentifier>
+  <docnumber>P1149.4/D14, Apr 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The testability structure for digital circuits described in IEEE Std 1149.1-2001 has been extended to provide similar facilities for mixed-signal circuits. The architecture is described, together with the means of control of and access to both analog and digital test data. Sample implementation and application details (which are not part of the standard) are included for illustration.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>analog test</keyword>
+  <keyword>board testing</keyword>
+  <keyword>boundary-scan</keyword>
+  <keyword>design for testability</keyword>
+  <keyword>in-circuit test</keyword>
+  <keyword>mixed signal test</keyword>
+</bibdata>

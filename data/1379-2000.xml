@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Data Communications Between Remote Terminal Units and Intelligent Electronic Devices in a Substation</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Data Communications Between Remote Terminal Units and Intelligent Electronic Devices in a Substation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/912952</uri>
+  <docidentifier type="IEEE">IEEE Std 1379-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2640-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.92412</docidentifier>
+  <docnumber>1379-2000</docnumber>
+  <date type="created">
+    <on>2001</on>
+  </date>
+  <date type="published">
+    <on>2014-04-14</on>
+  </date>
+  <date type="issued">
+    <on>2000-09-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A uniform set of guidelines for communications and interoperations of remote terminalunits (RTUs) and intelligent electronic devices (IEDs) in an electric utility substation is provided. Amechanism for adding data elements and message structures to this recommended practice isdescribed.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>IED</keyword>
+  <keyword>master station</keyword>
+  <keyword>RTU</keyword>
+  <keyword>slave</keyword>
+  <keyword>supervisory control and data acquisition (SCADA)systems</keyword>
+</bibdata>

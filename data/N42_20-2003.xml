@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American Standard Performance Criteria for Active Personnel Radiation Monitors</title>
+  <title type="main" format="text/plain">American Standard Performance Criteria for Active Personnel Radiation Monitors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1264832</uri>
+  <docidentifier type="IEEE">ANSI N42.20-2003 (Revision of ANSI N42.20-1995)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3862-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94420</docidentifier>
+  <docnumber>N42.20-2003</docnumber>
+  <date type="created">
+    <on>2004-02-02</on>
+  </date>
+  <date type="published">
+    <on>2019-10-30</on>
+  </date>
+  <date type="issued">
+    <on>2004</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Performance and design criteria are provided in this standard for monitors that are worn on the trunk of the body to measure the personal dose equivalent, or the dose equivalent rate from external sources, of ionizing radiation. This is a revision of ANSI N42.20-1995</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI Std N42.20-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Radiation measurements</keyword>
+  <keyword>Electromagnetic interference</keyword>
+  <keyword>design criteria</keyword>
+  <keyword>ionizing radiation</keyword>
+  <keyword>monitors</keyword>
+  <keyword>performance criteria</keyword>
+  <keyword>personnel radiation monitors</keyword>
+  <keyword>radiation</keyword>
+  <keyword>radiation instrumentation</keyword>
+  <keyword>radiation monitors</keyword>
+</bibdata>

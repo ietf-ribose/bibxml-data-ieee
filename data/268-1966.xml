@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Units in Published Scientific and technical Work</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Units in Published Scientific and technical Work</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7393375</uri>
+  <docidentifier type="IEEE">IEEE No 268-1966</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0238-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1966.7393375</docidentifier>
+  <docnumber>268-1966</docnumber>
+  <date type="updated">
+    <on>2016-02-12</on>
+  </date>
+  <date type="created">
+    <on>1966</on>
+  </date>
+  <date type="published">
+    <on>2016-01-26</on>
+  </date>
+  <date type="issued">
+    <on>1965-10-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document is a companion to Technical Committee Report on Recommended Practices for Burst Measurements in the Time Domain, IEEE No. 257, May 1964. In the time domain document, bursts are defined and particular attention is placed on their duration and magnitude. The use of additional characteristics may prove desirable when investigating both cause and effect of a burst. Mathematical transformations have been widely used to bring out particular characteristics of signals. Perhaps the one most commonly used is the Fourier Transform, which defines the spectrum of signals. The energy density spectrum of a burst, a quantity derived from the Fourier Transform, is the subject of this report. Other transformations such as those of Hilbert or Henkel, may be used to display different characteristics of a burst but they will not be considered here. Sampling the energy density spectrum is the key concept of this document. It constitutes the basis by which this spectrum can be characterized comprehensively by a practical number of measurements. The sampling theorems in the frequency domain are, therefore, given detailed consideration in Appendices to the extent necessary for understanding the measurement methods to be discussed.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The recommendations contained in this document are based upon the following premises, which are believed to represent the broadest base of general agreement among proponents of the major unit systems</abstract>
+  <copyright>
+    <from>1966</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Electrical equipment</keyword>
+  <keyword>Electronics</keyword>
+</bibdata>

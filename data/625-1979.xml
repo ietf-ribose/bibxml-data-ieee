@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practices to Improve Electrical Maintenance and Safety in the Cement Industry</title>
+  <title type="main" format="text/plain">IEEE Recommended Practices to Improve Electrical Maintenance and Safety in the Cement Industry</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/21023</uri>
+  <docidentifier type="IEEE">IEEE Std 625-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4393-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.120963</docidentifier>
+  <docnumber>625-1979</docnumber>
+  <date type="created">
+    <on>1979-08-03</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1978-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 625-1990. Assists in the effective application of relays and other devices for the protection of shunt capacitors used in substations. It covers the protective considerations, along with recommended and alternate methods of protection for the most commonly used capacitor bank configurations. Capacitor bank design trade-offs are also discussed. This guide covers protection of filter tanks and very large EHV capacitor banks, but does not include a discussion of pole-mounted capacitor banks on distribution circuits or application of capacitors connected to rotating apparatus.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 625-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Cement industry</keyword>
+  <keyword>Generators</keyword>
+  <keyword>Maintenance</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Substations</keyword>
+  <keyword>improved</keyword>
+  <keyword>electrical</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>safety</keyword>
+</bibdata>

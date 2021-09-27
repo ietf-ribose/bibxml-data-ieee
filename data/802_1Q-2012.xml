@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridges [Edition]</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridges [Edition]</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6606799</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1Q, 2012 Edition, (Incorporating IEEE Std 802.1Q-2011, IEEE Std 802.1Qbe-2011, IEEE Std 802.1Qbc-2011,IEEE Std 802.1Qbb-2011, IEEE Std 802.1Qaz-2011, IEEE Std 802.1Qbf-2011,IEEE Std 802.1Qbg-2012, IEEE Std 802.1aq-2012, IEEE Std 802.1Q-2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8099-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6606799</docidentifier>
+  <docnumber>802.1Q-2012</docnumber>
+  <date type="updated">
+    <on>2013-12-23</on>
+  </date>
+  <date type="created">
+    <on>2012-12-13</on>
+  </date>
+  <date type="published">
+    <on>2013-09-23</on>
+  </date>
+  <date type="issued">
+    <on>2012</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies how the MAC Service is supported by Virtual Bridged Local AreaNetworks, the principles of operation of those networks, and the operation of VLAN-aware Bridges,including management, protocols, and algorithms.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies how the MAC Service is supported by Virtual Bridged Local Area Networks, the principles of operation of those networks, and the operation of VLAN-aware Bridges, including management, protocols, and algorithms. It Incorporates: IEEE Std 802.1Q&amp;amp;#8482;-2011, IEEE Std 802.1Qbe&amp;amp;#8482;-2011, IEEE Std 802.1Qbc&amp;amp;#8482;-2011,IEEE Std 802.1Qbb&amp;amp;#8482;-2011, IEEE Std 802.1Qaz&amp;amp;#8482;-2011, IEEE Std 802.1Qbf&amp;amp;#8482;-2011,IEEE Std 802.1Qbg&amp;amp;#8482;-2012, IEEE Std 802.1aq&amp;amp;#8482;-2012, and IEEE Std 802.1Q&amp;amp;#8482;-2011/Cor 2-2012)</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Virtual environments</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>local area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+  <keyword>Rapid Spanning Tree Protocol (RSTP)</keyword>
+  <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+  <keyword>Provider Bridged Local Area Networks</keyword>
+  <keyword>Shortest Path Bridging (SPB) Protocol</keyword>
+</bibdata>

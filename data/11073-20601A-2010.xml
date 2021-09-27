@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Health informatics--Personal health device communication Part 20601: Application profile--Optimized Exchange Protocol Amendment 1</title>
+  <title type="main" format="text/plain">IEEE Health informatics--Personal health device communication Part 20601: Application profile--Optimized Exchange Protocol Amendment 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5703192</uri>
+  <docidentifier type="IEEE">IEEE 11073-20601a-2010 (Amendment to IEEE Std 11073-20601-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6462-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5703192</docidentifier>
+  <docnumber>11073-20601a-2010</docnumber>
+  <date type="updated">
+    <on>2011-02-14</on>
+  </date>
+  <date type="created">
+    <on>2011-01-24</on>
+  </date>
+  <date type="published">
+    <on>2015-01-23</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Issues found within IEEE Std 11073-20601-2008 while implementing the standard and/or testing and certifying products are addressed in this amendment.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Issues found within IEEE Std 11073-20601-2008 while implementing the standard and/or testing and certifying products are addressed in this amendment.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 11073-20601-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>Medical information systems</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>11073</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+</bibdata>

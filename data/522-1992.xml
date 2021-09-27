@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Testing Turn-to-Turn Insulation on Form-Wound Stator Coils for Alternating-Current Rotating Electric Machines</title>
+  <title type="main" format="text/plain">IEEE Guide for Testing Turn-to-Turn Insulation on Form-Wound Stator Coils for Alternating-Current Rotating Electric Machines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/182791</uri>
+  <docidentifier type="IEEE">IEEE Std 522-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0773-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.106965</docidentifier>
+  <docnumber>522-1992</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="published">
+    <on>2016-03-10</on>
+  </date>
+  <date type="issued">
+    <on>1992-06-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Suggestions are made for testing the dielectric strength of the insulation separating the various turns from each other within multiturn form-wound coils to determine their acceptability. Typical ratings of machines employing such coils normally lie within the range of 200 kW to 100 MW. The test voltage levels described do not evaluate the ability of the turn insulation to withstand abnormal voltage surges, as contrasted to surges associated with normal operation. The suggestions apply to: (1) individual stator coils after manufacture; (2) coils in completely wound stators of original manufacture; (3) coils and windings for rewinds of used machinery; and (4) windings of machines in service to determine their suitability for further service (preventive-maintenance testing). Coil service conditions, test devices, and test sequence are discussed. High-frequency test levels for new coils during winding, and for applying surge tests to complete windings, are given.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 522-1977</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 522-2004 (Revision of IEEE Std 522-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>AC machines</keyword>
+  <keyword>Coils</keyword>
+  <keyword>Insulation testing</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Machine windings</keyword>
+  <keyword>Surges</keyword>
+  <keyword>ac machines</keyword>
+  <keyword>rotating machine</keyword>
+  <keyword>insulation testing</keyword>
+  <keyword>Power system transients</keyword>
+</bibdata>

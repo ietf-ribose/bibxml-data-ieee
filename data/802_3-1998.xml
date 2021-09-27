@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Information technology&amp;amp;amp;#8212;Telecommunications and information exchange between systems&amp;amp;amp;#8212;Local and metropolitan area networks-Specific requirements-Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
+  <title type="main" format="text/plain">IEEE Standards for Information technology&amp;amp;amp;#8212;Telecommunications and information exchange between systems&amp;amp;amp;#8212;Local and metropolitan area networks-Specific requirements-Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/720570</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3, 1998 Edition</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0444-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.88276</docidentifier>
+  <docnumber>802.3-1998</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The media access control characteristics for the Carrier Sense Multiple Access with Collision Detection (CSMA/CD) access method for shared medium local area networks are described. The control characteristics for full duplex dedicated channel use are also described. Specifications are provided for MAU types 1BASE5 at 1 Mb/s; Attachment Unit Interface (AUI) and MAU types 10BASE5, 10BASE2, FOIRL (fiber optic inter-repeater link), 10BROAD36, 10BASE-T, 10BASE-FL, 10BASE-FB, and 10BASE-FP at 10 Mb/s; Media Independent Interface (MII) and PHY types 100BASE-T4, 100BASE-TX, 100BASE-FX, and 100BASE-T2 at 100 Mb/s; and the Gigabit MII (GMII) and 1000BASE-X PHY types, 1000BASE-SX, 1000BASE-LX, and 1000BASE-CX, which operate at 1000 Mb/s (Gigabit Ethernet). Repeater specifications are provided at each speed. Full duplex specifications are provided at the Physical Layer for 10BASE-T, 10BASE-FL, 100BASETX,100BASE-FX, 100BASE-T2, and Gigabit Ethernet. System considerations for multisegment networks at each speed and management information base (MIB) specifications are also provided.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.3-1985</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3, 2000 Edition</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>data processing; Ethernet; information interchange</keyword>
+  <keyword>local area networks; local area networks</keyword>
+  <keyword>management; mode of data transmission; network interconnection; models; repeater; type field</keyword>
+</bibdata>

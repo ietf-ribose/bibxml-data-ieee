@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Measuring the Effectiveness of Electromagnetic Shielding Enclosures</title>
+  <title type="main" format="text/plain">IEEE Standard for Measuring the Effectiveness of Electromagnetic Shielding Enclosures</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159149</uri>
+  <docidentifier type="IEEE">IEEE Std 299-1991</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7108-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.101034</docidentifier>
+  <docnumber>299-1991</docnumber>
+  <date type="created">
+    <on>1991</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1991-03-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Uniform measurement procedures and techniques are provided for determining the effectiveness of electromagnetic shielding enclosures at frequencies from 9 kHz to 18 GHz (extendable to 50 Hz and 100 GHz, respectively) for enclosures having no dimension less than 2.0 m. The types of enclosures covered include, but are not limited to, single-shield or double-shield structures of various construction, such as bolted demountable, welded, or integral with a building; and made of materials such as steel plate, copper or aluminum sheet, screening, hardware cloth, metal foil, or shielding fabrics.</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 299-1969</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 299-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Electric field measurement</keyword>
+  <keyword>Magnetic field measurement</keyword>
+  <keyword>Magnetic shielding</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>double-shield</keyword>
+  <keyword>electromagnetic</keyword>
+  <keyword>shielding enclosures</keyword>
+  <keyword>room-sized enclosure</keyword>
+  <keyword>screened rooms</keyword>
+  <keyword>shielded room</keyword>
+  <keyword>Single shield enclosures</keyword>
+  <keyword>Shielding effectiveness</keyword>
+  <keyword>Electromagnetic shielding encl</keyword>
+  <keyword>Double shield enclosures</keyword>
+</bibdata>

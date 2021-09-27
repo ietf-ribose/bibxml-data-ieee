@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Direct Lightning Stroke Shielding of Substations</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Direct Lightning Stroke Shielding of Substations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6187659</uri>
+  <docidentifier type="IEEE">IEEE P998/D12.2, April 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7486-0</docidentifier>
+  <docnumber>P998/D12.2, Apr 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-04-19</on>
+  </date>
+  <date type="issued">
+    <on>2012-04-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Design This guide provides designinformation for the methods historically and typically applied by substation designers to minimize reduce direct lightning strokes to equipment and buswork within substations is provided. Two approaches, the classical empirical method and the electrogeometric model, are presented in detail. A third approach involving the use of active lightning terminals is also briefly reviewed.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 998-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Lightning</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Hazards</keyword>
+  <keyword>direct stroke shielding</keyword>
+  <keyword>lightning stroke protection</keyword>
+  <keyword>substations</keyword>
+</bibdata>

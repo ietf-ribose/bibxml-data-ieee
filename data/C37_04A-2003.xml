@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis: Amendment 1 Capacitance Current Switching</title>
+  <title type="main" format="text/plain">IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis: Amendment 1 Capacitance Current Switching</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1237539</uri>
+  <docidentifier type="IEEE">IEEE Std C37.04a-2003 (Amendment to IEEE Std C37.04-1999)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3684-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94385</docidentifier>
+  <docnumber>C37.04a-2003</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="published">
+    <on>2019-05-31</on>
+  </date>
+  <date type="issued">
+    <on>2003-05-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the capacitance current switching portion of the rating structure for all ac circuit breakers rated above 1000 V, including both outdoor and indoor types having preferred ratings listed in ANSI C37.06-2000. The rating structure establishes the basis for all assigned capacitance current ratings including overhead line switching, cable switching, capacitor bank switching, and back-to-back capacitor bank switching.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.04-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Capacitance</keyword>
+  <keyword>Switching circuits</keyword>
+  <keyword>Switches</keyword>
+  <keyword>capacitance current</keyword>
+  <keyword>capacitance current switching</keyword>
+  <keyword>capacitor bank switching</keyword>
+  <keyword>restrike</keyword>
+</bibdata>

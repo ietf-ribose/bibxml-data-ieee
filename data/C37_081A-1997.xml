@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Supplement to IEEE Guide for Synthetic Fault Testing of AC High Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <title type="main" format="text/plain">Supplement to IEEE Guide for Synthetic Fault Testing of AC High Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/709392</uri>
+  <docidentifier type="IEEE">IEEE Std C37.081a-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1039-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.88145</docidentifier>
+  <docnumber>C37.081a-1997</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="published">
+    <on>2020-02-14</on>
+  </date>
+  <date type="issued">
+    <on>1997-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The transient recovery voltage needs to be modified when interrupting asymmetrical currents. The voltage rate R, the peak voltage E2 and the rate of change of current di/dt all change with the asymmetrical current zero. Guidance is provided on how to make these corrections when compared to the symmetrical case.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Circuit breakers</keyword>
+  <keyword>asymmetrical current</keyword>
+  <keyword>correction factors</keyword>
+  <keyword>major current zeros</keyword>
+  <keyword>minor current zeros</keyword>
+  <keyword>X/R ratio</keyword>
+</bibdata>

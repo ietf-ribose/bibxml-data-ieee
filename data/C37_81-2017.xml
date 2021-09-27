@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Seismic Qualification of Class 1E Metal-Enclosed Power Switchgear Assemblies</title>
+  <title type="main" format="text/plain">IEEE Guide for Seismic Qualification of Class 1E Metal-Enclosed Power Switchgear Assemblies</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7953594</uri>
+  <docidentifier type="IEEE">IEEE Std C37.81-2017 (Revision of IEEE Std C37.81-1989)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4059-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.7953594</docidentifier>
+  <docnumber>C37.81-2017</docnumber>
+  <date type="updated">
+    <on>2017-07-07</on>
+  </date>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2017-06-17</on>
+  </date>
+  <date type="issued">
+    <on>2017-03-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Requirements and guidance for the seismic qualification of metal-enclosed power switchgear assemblies including switching, interrupting, control, instrumentation, metering, and protective and regulating devices mounted therein are provided in this guide. As used in this guide, the word switchgear shall mean metal-enclosed power switchgear assemblies with the requirements as defined in IEEE Std C37.20.1(TM), Standard for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear, IEEE Std C37.20.2(TM), Standard for Metal-Clad Switchgear, and IEEE Std C37.20.3(TM), Standard for Metal-Enclosed Interrupter Switchgear. By definition, metal-enclosed power switchgear assemblies include metal-clad switchgear, metal-enclosed interrupter switchgear, and low-voltage power circuit breaker switchgear. Metal-enclosed bus or control switchboards are not covered in this guide.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Requirements and guidance for the seismic qualification of metal-enclosed power switchgear assemblies including switching, interrupting, control, instrumentation, metering, and protective and regulating devices mounted there in are provided in this guide. As used in this guide, the word switchgear shall mean metal-enclosed power switchgear assemblies with the requirements as defined in IEEE Std C37.20.1&amp;amp;#8482;, Standard for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear, IEEE Std C37.20.2&amp;amp;#8482;, Standard for Metal-Clad Switchgear, and IEEE Std C37.20.3&amp;amp;#8482;, Standard for Metal-Enclosed Interrupter Switchgear. By definition, metal-enclosed power switchgear assemblies include metal-clad switchgear, metal-enclosed interrupter switchgear, and low-voltage power circuit breaker switchgear. Metal-enclosed bus or control switchboards are not covered in this guide.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.81-1989</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Interrupters</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Seismic measurements</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>class 1E metal-enclosed power switchgear assemblies</keyword>
+  <keyword>generic response spectrum (GRS)</keyword>
+  <keyword>IEEE C37.81(TM)</keyword>
+  <keyword>performance requirements</keyword>
+  <keyword>seismic criteria</keyword>
+</bibdata>

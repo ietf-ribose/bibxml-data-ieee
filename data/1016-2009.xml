@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information Technology--Systems Design--Software Design Descriptions</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology--Systems Design--Software Design Descriptions - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5981339</uri>
+  <docidentifier type="IEEE">IEEE Std 1016-2009 (Revision of IEEE Std 1016-1998) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6900-2</docidentifier>
+  <docnumber>1016-2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2009-03-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes software designs and establishes the information content and organization of a software design description (SDD). An SDD is a representation of a software design to be used for recording design information and communicating that design information to key design stakeholders. This standard is intended for use in design situations in which an explicit software design description is to be prepared. These situations include traditional software construction activities, when design leads to code, and reverse engineering situations when a design description is recovered from an existing implementation. This standard can be applied to commercial, scientific, or military software that runs on digital computers. Applicability is not restricted by the size, complexity, or criticality of the software. This standard can be applied to the description of high-level and detailed designs. This standard does not prescribe specific methodologies for design, configuration management, or quality assurance. This standard does not require the use of any particular design languages, but establishes requirements on the selection of design languages for use in an SDD. This standard can be applied to the preparation of SDDs captured as paper documents, automated databases, software development tools or other media.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Software design</keyword>
+  <keyword>System-level design</keyword>
+  <keyword>1016-2009</keyword>
+  <keyword>design concern</keyword>
+  <keyword>design subject</keyword>
+  <keyword>design view</keyword>
+  <keyword>design viewpoint</keyword>
+  <keyword>diagram</keyword>
+  <keyword>software design</keyword>
+  <keyword>software design description</keyword>
+</bibdata>

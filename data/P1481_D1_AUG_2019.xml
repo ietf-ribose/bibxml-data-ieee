@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture (OLA)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture (OLA)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8796483</uri>
+  <docidentifier type="IEEE">IEEE P1481/D1, August 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6064-4</docidentifier>
+  <docnumber>P1481/D1, Aug 2019</docnumber>
+  <date type="created">
+    <on>2019-08-09</on>
+  </date>
+  <date type="published">
+    <on>2019-08-13</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Ways for integrated circuit designers to analyze chip timing and power consistently across a broad set of electric design automation (EDA) applications are covered in this standard. Methods by which integrated circuit vendors can express timing and power information once per given technology are also covered. In addition, the means by which EDA vendors can meet their application performance and capacity needs are discussed.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 1481-2009</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Design automation</keyword>
+  <keyword>Integrated circuit layout</keyword>
+  <keyword>Printed circuits</keyword>
+  <keyword>chip delay</keyword>
+  <keyword>electronic design automation (EDA)</keyword>
+  <keyword>IEEE 1481</keyword>
+  <keyword>integrated circuit (IC) design</keyword>
+  <keyword>power calculation</keyword>
+</bibdata>

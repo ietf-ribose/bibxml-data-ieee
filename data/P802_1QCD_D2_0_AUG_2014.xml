@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks</title>
+  <title type="title-main" format="text/plain">Bridges and Bridged Networks Amendment: Application Virtual Local Area Network (VLAN) Type, Length, Value (TLV)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks - Bridges and Bridged Networks Amendment: Application Virtual Local Area Network (VLAN) Type, Length, Value (TLV)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6875888</uri>
+  <docidentifier type="IEEE">IEEE P802.1Qcd/D2.0, August , 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9278-9</docidentifier>
+  <docnumber>P802.1Qcd/D2.0, Aug 2014</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-08-11</on>
+  </date>
+  <date type="issued">
+    <on>2014-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.1Qaz defines enhancements to the set of TLVs used by the Data Center Bridging eXchange (DCBX) protocol for the purpose of simplifying the management of networks utilizing Data Center Bridging features.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2011 (Revision of IEEE Std 802.1Q-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Data centers</keyword>
+  <keyword>Telecommunication network management</keyword>
+  <keyword>Virtual networks</keyword>
+  <keyword>Bridged Networks</keyword>
+  <keyword>local area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>VLAN Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Virtual Bridged Networks (virtual LANs)</keyword>
+  <keyword>Data Center Bridging (DCB)</keyword>
+  <keyword>Data Center Bridging eXchange protocol (DCBX).</keyword>
+</bibdata>

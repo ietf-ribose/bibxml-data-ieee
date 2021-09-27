@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Use of IEEE Std 1641(TM), IEEE Standard for Signal and Test Definition Amendment 1: Addition of Guidelines for Producing Reusable Test Signal Frameworks for Use on Platforms Utilizing Automatic Test Markup Language</title>
+  <title type="main" format="text/plain">IEEE Guide for the Use of IEEE Std 1641(TM), IEEE Standard for Signal and Test Definition Amendment 1: Addition of Guidelines for Producing Reusable Test Signal Frameworks for Use on Platforms Utilizing Automatic Test Markup Language</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8437261</uri>
+  <docidentifier type="IEEE">IEEE Std 1641.1a-2018 (Amendment to IEEE Std 1641.1-2013)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5117-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8437261</docidentifier>
+  <docnumber>1641.1a-2018</docnumber>
+  <date type="updated">
+    <on>2020-09-25</on>
+  </date>
+  <date type="created">
+    <on>2018-08-15</on>
+  </date>
+  <date type="published">
+    <on>2018-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2018-03-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Amend the guide to add guidelines for producing reusable TSFs for use on platforms utilizing ATML, and produce example TSFs showing conformance with the guidelines. This guide explains how signal definitions and test requirements may be implemented in conformance with IEEE Std 1641-2010. It also provides background information, tutorial support, and examples of signal definitions and test requirements for users of the standard. TSFs are major component for adhering with the IEEE Std 1641. There is little guidance in helping users create their own reusable TSFs or examples that show good practices to copy.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Amend the guide to add guidelines for producing reusable TSFs for use on platforms utilizing ATML, and produce example TSFs showing conformance with the guidelines. This guide explains how signal definitions and test requirements may be implemented in conformance with IEEE Std 1641-2010. It also provides background information, tutorial support, and examples of signal definitions and test requirements for users of the standard. TSFs are major component for adhering with the IEEE Std 1641. There is little guidance in helping users create their own reusable TSFs or examples that show good practices to copy.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Markup languages</keyword>
+  <keyword>Testing</keyword>
+  <keyword>ATLAS</keyword>
+  <keyword>IEEE 1641.1&amp;amp;#8482;</keyword>
+  <keyword>TSF Library</keyword>
+</bibdata>

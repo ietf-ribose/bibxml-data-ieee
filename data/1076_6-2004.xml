@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for VHDL Register Transfer Level (RTL) Synthesis</title>
+  <title type="main" format="text/plain">IEEE Standard for VHDL Register Transfer Level (RTL) Synthesis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1342563</uri>
+  <docidentifier type="IEEE">IEEE Std 1076.6-2004 (Revision of IEEE Std 1076.6-1999)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4065-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94802</docidentifier>
+  <docnumber>1076.6-2004</docnumber>
+  <date type="created">
+    <on>2004-10-11</on>
+  </date>
+  <date type="published">
+    <on>2016-10-20</on>
+  </date>
+  <date type="issued">
+    <on>2004-05-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document specifies a standard for use of very high-speed integrated circuit hardwaredescription language (VHDL) to model synthesizable register-transfer level digital logic. Astandard syntax and semantics for VHDL register-transfer level synthesis is defined. The subset ofthe VHDL language, which is synthesizable, is described, and nonsynthesizable VHDL constructsare identified that should be ignored or flagged as errors.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>hardware description language</keyword>
+  <keyword>logic synthesis</keyword>
+  <keyword>register transfer level (RTL)</keyword>
+  <keyword>very highspeedintegrated circuit hardware description language (VHDL)</keyword>
+</bibdata>

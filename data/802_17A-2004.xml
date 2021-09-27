@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Bridges</title>
+  <title type="title-main" format="text/plain">Amendment 1: Bridging of IEEE Std 802.17</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Bridges - Amendment 1: Bridging of IEEE Std 802.17</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1355861</uri>
+  <docidentifier type="IEEE">IEEE Std 802.17a-2004 (Amendment to IEEE Std 802.1D-2004)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4467-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.95398</docidentifier>
+  <docnumber>802.17a-2004</docnumber>
+  <date type="created">
+    <on>2004-10-29</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2004-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Amendment #1 to IEEE Std 802.1D-2004 The scope of this project is limited to amending 802.1D-2004 to support Bridging of IEEE Std 802.17 MACs. This involves: Adding one subclause to clause 6 of 802.1D describing the service interface mapping between the Internal Sublayer Service and the 802.17 MAC service; Minor changes elsewhere in the document as needed to accommodate support of the additional MAC, including priority mapping in Clause 7 and the PICS Proforma in Annex A. Related Products: IEEE Std 802.17-2004, IEEE 802.1D-2004. The "IEEE Get Program" grants public access to view and download individual PDFs of select standards at no charge. Visit http://standards.ieee.org/about/get/index.html for details.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1D-2004 (Revision of IEEE Std 802.1D-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Bridges</keyword>
+  <keyword>bridging</keyword>
+  <keyword>IEEE 802.1D</keyword>
+  <keyword>IEEE 802.17</keyword>
+  <keyword>internal sublayer service</keyword>
+  <keyword>media access control bridges</keyword>
+  <keyword>resilient packet ring (RPR)</keyword>
+</bibdata>

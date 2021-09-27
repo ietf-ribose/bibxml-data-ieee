@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application, Operation, and Maintenance of High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application, Operation, and Maintenance of High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1488516</uri>
+  <docidentifier type="IEEE">IEEE Std C37.48-2005 (Revision of IEEE Std C37.48-1997)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4668-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.96282</docidentifier>
+  <docnumber>C37.48-2005</docnumber>
+  <date type="updated">
+    <on>2009-01-15</on>
+  </date>
+  <date type="created">
+    <on>2005-05-20</on>
+  </date>
+  <date type="published">
+    <on>2020-03-23</on>
+  </date>
+  <date type="issued">
+    <on>2005-01-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information on the application, operation and maintenance of high-voltage fuses (above 1000 V and through 169 W), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories for use on ac distribution systems is provided. These include enclosed, open, and open-link types of distribution cutouts and fuses; distribution current-limiting fuses; distribution enclosed single-pole air switches; power fuses, including current-limiting types; outdoor and indoor fuse disconnecting switches; fuse supports, mountings, and links, all of the type used exclusively with the above; and removable switch blades for certain products among the above</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Information on the application, operation and maintenance of high-voltage fuses (above 1,000 V and through 169 kV), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories for use on ac distribution systems is provided. These include enclosed, open, and open-link types of distribution cutouts and fuses; distribution current-limiting fuses; distribution enclosed single-pole air switches; power fuses, including current-limiting types; outdoor and indoor fuse disconnecting switches; fuse supports, mountings, and links, all of the type used exclusively with the above; and removable switch blades for certain products among the above. This guide is one of a series of complimentary standards so arranged that this guide plus two other standards apply to all devices, while one or more of the other standards provides additional specifications for a particular device. For each device, IEEE Std C37.40-2003 and IEEE Std C37.41-2000 plus the standard(s) covering that device constitute a complete set of standards for each device. In addition to this application, operation and maintenance guide which covers all of the above devices, additional operation, classification, application, and coordination information for current-limiting fuses can be found in IEEE Std C37.48.1-2002, a "tutorial" style document.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.48-2020 (Revision of IEEE Std C37.48-2005 and IEEE Std C37.48.1-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.48-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Fuses</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>current-limiting fuses</keyword>
+  <keyword>expulsion type fuses</keyword>
+  <keyword>distribution class fuses</keyword>
+  <keyword>power class fuses</keyword>
+  <keyword>fuse enclosure packages</keyword>
+  <keyword>high-voltage fuses</keyword>
+  <keyword>fuse</keyword>
+  <keyword>fuse applications</keyword>
+  <keyword>fuse disconnecting switches</keyword>
+</bibdata>

@@ -1,0 +1,77 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic Systems</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic Systems - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7484244</uri>
+  <docidentifier type="IEEE">IEEE Std 1801-2015 (Revision of IEEE Std 1801-2013) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2082-2</docidentifier>
+  <docnumber>1801-2015</docnumber>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-06-02</on>
+  </date>
+  <date type="issued">
+    <on>2015-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A method is provided for specifying power intent for an electronic design, for use in verification of the structure and behavior of the design in the context of a given power management architecture, and for driving implementation of that power-management architecture. The method supports incremental refinement of power-intent specifications required for IP-based design flows.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1801-2018</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1801-2013 (Revision of IEEE Std 1801-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Energy efficiency</keyword>
+  <keyword>Design methodology</keyword>
+  <keyword>Unified Power Format</keyword>
+  <keyword>Repeaters</keyword>
+  <keyword>Power system planning</keyword>
+  <keyword>bottom-up implementation</keyword>
+  <keyword>buffers</keyword>
+  <keyword>energy-aware design</keyword>
+  <keyword>IEEE 1801(TM)</keyword>
+  <keyword>interface specification</keyword>
+  <keyword>IP reuse</keyword>
+  <keyword>isolation</keyword>
+  <keyword>level-shifting</keyword>
+  <keyword>power domains</keyword>
+  <keyword>power intent</keyword>
+  <keyword>power modeling</keyword>
+  <keyword>power states</keyword>
+  <keyword>successive refinement</keyword>
+  <keyword>supply states</keyword>
+  <keyword>repeaters</keyword>
+  <keyword>retention</keyword>
+  <keyword>Unified Power Format (UPF)</keyword>
+</bibdata>

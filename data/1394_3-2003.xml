@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for a High Performance Serial Bus Peer-to-Peer Data Transport Protocol (PPDT)</title>
+  <title type="main" format="text/plain">IEEE Standard for a High Performance Serial Bus Peer-to-Peer Data Transport Protocol (PPDT)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1288537</uri>
+  <docidentifier type="IEEE">IEEE Std 1394.3-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3821-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94445</docidentifier>
+  <docnumber>1394.3-2003</docnumber>
+  <date type="created">
+    <on>2004</on>
+  </date>
+  <date type="published">
+    <on>2019-10-25</on>
+  </date>
+  <date type="issued">
+    <on>2003-09-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines a peer-to-peer data transport (PPDT) protocol between Serial Bus devices that implement Serial Bus Protocol 2 (SBP-2). The facilities specified include device and service discovery, self-configurable (plug and play) binding, and connection management.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE 1394 Standard</keyword>
+  <keyword>Peer-to-peer computing</keyword>
+  <keyword>Transport protocols</keyword>
+  <keyword>Patents</keyword>
+  <keyword>computers</keyword>
+  <keyword>CSR architecture</keyword>
+  <keyword>connect</keyword>
+  <keyword>peer-to-peer</keyword>
+  <keyword>SBP-2</keyword>
+  <keyword>transport protocol</keyword>
+</bibdata>

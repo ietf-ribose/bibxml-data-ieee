@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEEE Standard for Health informatics</title>
+  <title type="title-main" format="text/plain">Point-of-care medical device communication</title>
+  <title type="title-part" format="text/plain">Transport profile -- Cable connected</title>
+  <title type="main" format="text/plain">ISO/IEEE Standard for Health informatics - Point-of-care medical device communication - Transport profile -- Cable connected</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1377857</uri>
+  <docidentifier type="IEEE">ISO/IEEE 11073-30200:2004(E)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4520-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.95600</docidentifier>
+  <docnumber>11073-30200-2000</docnumber>
+  <date type="created">
+    <on>2004-12-15</on>
+  </date>
+  <date type="published">
+    <on>2019-10-30</on>
+  </date>
+  <date type="issued">
+    <on>2000-01-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard replaces IEEE Std 1073.3.2-2000. A connection-oriented transport profile and physical layer suitable for medical device communications in legacy devices is established. Communications services and protocols consistent with specifications of the Infrared Data Association are defined. These communication services and protocols are optimized for use in patient-connected badside medical devices.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Patents</keyword>
+  <keyword>ISO</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>bedside</keyword>
+  <keyword>Infrared Data Association</keyword>
+  <keyword>IrDA</keyword>
+  <keyword>legacy device</keyword>
+  <keyword>medical device</keyword>
+  <keyword>medical device communications</keyword>
+  <keyword>MIB</keyword>
+  <keyword>patient</keyword>
+  <keyword>SNTP</keyword>
+</bibdata>

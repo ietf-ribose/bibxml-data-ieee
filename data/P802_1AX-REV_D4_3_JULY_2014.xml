@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Link Aggregation</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Link Aggregation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6866100</uri>
+  <docidentifier type="IEEE">IEEE P802.1AX-REV/D4.3, July 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9256-7</docidentifier>
+  <docnumber>P802.1AX-REV/D4.3, July 2014</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-07-25</on>
+  </date>
+  <date type="issued">
+    <on>2014-09-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Link Aggregation allows parallel full duplex point-to-point links to be used as if they werea single link, and also supports the use of multiple links as a resilient load sharing interconnectbetween multiple nodes in two separately administered networks. This standard defines a MACindependent Link Aggregation capability, and general information relevant to specific to MAC types.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AX-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Link aggregation</keyword>
+  <keyword>Distributed processing</keyword>
+  <keyword>Aggregated Link</keyword>
+  <keyword>Aggregator</keyword>
+  <keyword>Link Aggregation</keyword>
+  <keyword>Link Aggregation Group</keyword>
+  <keyword>local area network</keyword>
+  <keyword>management</keyword>
+  <keyword>interconnect</keyword>
+  <keyword>Network-Network Interface</keyword>
+  <keyword>NNI</keyword>
+  <keyword>Distributed Resilient Network Interconnect</keyword>
+  <keyword>DRNI.</keyword>
+</bibdata>

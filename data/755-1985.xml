@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial-Use Extending High Level Language Implementations for Microprocessors</title>
+  <title type="main" format="text/plain">IEEE Trial-Use Extending High Level Language Implementations for Microprocessors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30713</uri>
+  <docidentifier type="IEEE">IEEE Std 755</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4546-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.82932</docidentifier>
+  <docnumber>755-1985</docnumber>
+  <date type="created">
+    <on>1985</on>
+  </date>
+  <date type="published">
+    <on>2016-01-12</on>
+  </date>
+  <date type="issued">
+    <on>1985</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The standard specifies extensions to high-level languages for microprocessor applications. It covers computer languages for which there exist either ANSI or IEEE standards, or draft standards in preparation by existing ANSI or IEEE committees. Notwithstanding the extensions herein provided, the language extended by this standard shall conform to the existing standard for that language. This standard explicitly extends three languages: Basic, Fortran, and Pascal. Other languages may be implicitly extended by the consistent application of the naming conventions and rules for extension specified in this standard.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>High-level languages</keyword>
+  <keyword>FORTRAN</keyword>
+  <keyword>Microprocessors</keyword>
+  <keyword>Standards</keyword>
+  <keyword>extending</keyword>
+  <keyword>high-level</keyword>
+  <keyword>language</keyword>
+  <keyword>implementations</keyword>
+  <keyword>microprocessors</keyword>
+</bibdata>

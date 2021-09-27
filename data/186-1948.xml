@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Methods of Testing Amplitude-Modulation Broadcast Receivers</title>
+  <title type="main" format="text/plain">IEEE Standard Methods of Testing Amplitude-Modulation Broadcast Receivers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/20950</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 186-1948</docidentifier>
+  <docidentifier type="ISBN">0-7381-4178-X</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1949.120576</docidentifier>
+  <docnumber>186-1948</docnumber>
+  <date type="created">
+    <on>1949</on>
+  </date>
+  <date type="issued">
+    <on>1972-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A definition of terms is given, and the requirements and characteristics of testing apparatus are discussed. Test procedures for input measurements, output measurements, operating conditions, radio receiver adjustment, and performance tests are described. An appendix considers the design and use of the shielded test loop, the transmission-line method of testing loop receivers, and intermodulation distortion.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1949</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Amplitude modulation</keyword>
+  <keyword>Broadcasting</keyword>
+  <keyword>Electronic equipment testing</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Power measurement</keyword>
+  <keyword>Receivers</keyword>
+  <keyword>Voltage measurement</keyword>
+</bibdata>

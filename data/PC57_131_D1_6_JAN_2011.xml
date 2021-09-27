@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Requirements for Tap Changers</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Requirements for Tap Changers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5750127</uri>
+  <docidentifier type="IEEE">IEEE PC57.131/D1.6, January 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6623-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5750127</docidentifier>
+  <docnumber>PC57.131/D1.6, Jan 2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-04-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard covers electrical and mechanical performance and test requirements for tap changers installed in voltage regulating power and distribution transformers of all voltage and kVA ratings. It covers load tap changers (LTCs), also known as on-load tap changers, which can change taps while the transformer is energized and carrying load; and it covers de-energized tap changers (DETCs), also known as off-circuit tap changers, which may be operated only while the transformer is not energized. For load tap changers, this standard covers both resistor and reactor types. It also covers certain aspects of the attendant tap changer motor drive mechanism. It does not cover the tap changer control system (manual or automatic).</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>de-energized tap changers</keyword>
+  <keyword>load tap changers</keyword>
+  <keyword>off-circuit tap changers</keyword>
+  <keyword>on-load tap changers</keyword>
+  <keyword>reactance type</keyword>
+  <keyword>regulating transformers</keyword>
+  <keyword>resistance type</keyword>
+  <keyword>step voltage</keyword>
+  <keyword>tap changers</keyword>
+  <keyword>taps</keyword>
+  <keyword>through current</keyword>
+  <keyword>voltage regulators</keyword>
+</bibdata>

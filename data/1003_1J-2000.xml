@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information Technology--Portable Operating System Interface (POSIX(TM))--Part 1: System Application Program Interface (API)--Amendment 5: Advanced Realtime Extensions [C Language]</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology--Portable Operating System Interface (POSIX(TM))--Part 1: System Application Program Interface (API)--Amendment 5: Advanced Realtime Extensions [C Language]</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/859471</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.1j-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1941-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91855</docidentifier>
+  <docnumber>1003.1j-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2000-01-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is part of the POSIX series of standards for applications and user interfaces to open systems. It defines the applications interface to system services for synchronization, memory management, time management, and thread management. This standard is stated interms of its C language binding.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Clocks</keyword>
+  <keyword>C languages</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>API</keyword>
+  <keyword>application portability</keyword>
+  <keyword>C (programming language)</keyword>
+  <keyword>data processing</keyword>
+  <keyword>information interchange</keyword>
+  <keyword>open systems</keyword>
+  <keyword>operating system</keyword>
+  <keyword>portable application</keyword>
+  <keyword>POSIX</keyword>
+  <keyword>programming language</keyword>
+  <keyword>realtime</keyword>
+  <keyword>system configuration computer interface</keyword>
+</bibdata>

@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">International Standard-Software Interface for Maintenance Information Collection and Analysis (SIMICA)</title>
+  <title type="main" format="text/plain">International Standard-Software Interface for Maintenance Information Collection and Analysis (SIMICA)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9451889</uri>
+  <docidentifier type="IEEE">IEC/IEEE 61636:2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7671-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9451889</docidentifier>
+  <docnumber>61636-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-06-10</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Promoting and facilitating interoperability between components of automatic test systems where test results and/or maintenance actions need to be shared is addressed in this standard. The standard defines the common elements between both test results data and maintenance action data. The common schema becomes a class of information that shall be used within the SIMICA family of standards.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1636-2018 (Revision of IEEE Std 1636-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>Automated test equipment</keyword>
+  <keyword>automated test system (ATS)</keyword>
+  <keyword>extensible markup language (XML)</keyword>
+  <keyword>IEEE 1636</keyword>
+  <keyword>maintenance action information</keyword>
+  <keyword>OWL ontology</keyword>
+  <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+  <keyword>test results and session information</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

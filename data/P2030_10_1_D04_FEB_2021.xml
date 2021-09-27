@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Electricity Access Requirements with Safety Extra Low Voltage (SELV) DC for Tier ll and Tier lll of Energy Sector Management Assistance Program (ESMAP) Multi-tier Framework for Household Electricity Supply</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Electricity Access Requirements with Safety Extra Low Voltage (SELV) DC for Tier ll and Tier lll of Energy Sector Management Assistance Program (ESMAP) Multi-tier Framework for Household Electricity Supply</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9442423</uri>
+  <docidentifier type="IEEE">IEEE P2030.10.1/D04, February 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7643-0</docidentifier>
+  <docnumber>P2030.10.1/D04, Feb 2021</docnumber>
+  <date type="created">
+    <on>2021-05-25</on>
+  </date>
+  <date type="published">
+    <on>2021-05-26</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides specifications for DC-based installations to address requirements given in Tier 2 and Tier 3 of the Multi-Tier framework. The Multi-Tier framework is discussed in detail in the Energy Sector Management Assistance Program (ESMAP) report published by the World Bank. This standard provides installation rules for basic electricity supply from a renewable source and is meant to be used in areas that are not connected to the AC public distribution network. The standard advocates use of a safety extra low voltage that can be safer to operate under normal, dry conditions. Circuit/branch current is limited to make it more difficult for an arc to propagate. This approach delivers power access possible without needing special parts. The resultant installation can use wiring that is similar to that used in an AC system in a cost-effective and scalable manner.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Low voltage</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Energy management</keyword>
+  <keyword>Safety Extra Low Voltage</keyword>
+  <keyword>DC Installation</keyword>
+  <keyword>ESMAP</keyword>
+  <keyword>Tier 2</keyword>
+  <keyword>Tier 3</keyword>
+  <keyword>Multi-Tier Framework</keyword>
+</bibdata>

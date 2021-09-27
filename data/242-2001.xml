@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Protection and Coordination of Industrial and Commercial Power Systems (IEEE Buff Book)</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Protection and Coordination of Industrial and Commercial Power Systems (IEEE Buff Book)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/974402</uri>
+  <docidentifier type="IEEE">IEEE Std 242-2001 (Revision of IEEE Std 242-1986) [IEEE Buff Book]</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2845-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93369</docidentifier>
+  <docnumber>242-2001</docnumber>
+  <date type="created">
+    <on>2001-12-17</on>
+  </date>
+  <date type="published">
+    <on>2013-01-08</on>
+  </date>
+  <date type="issued">
+    <on>2001-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the Color Books family. System protection and coordination serve to minimize damage to a system and its components, thereby limiting the extent and duration of any service interruption occurring on any portion of the system. The IEEE Buff Book deals with the proper selection, application, and coordination of the components that constitute system protection for industrial plants and commercial buildings. The IEEE Buff Book presents complete information on protection and coordination principles designed to protect industrial and commercial power systems against any abnormalities that could reasonably be expected to occur during the course of system operation. The information is arranged in a convenient step-by-step format for easy comprehension. It is a valuable sourcebook for use at the system design stage, as well as in the modification of existing operations for better system protection. The IEEE Buff Book supports the goal of system protection by efficiently isolating and removing problems. In achieving this goal, certain design features must be utilized. One of the main design features involves the rapid isolation of the affected portion of the system, while maintaining normal operation elsewhere. Another design feature reduces the short-circuit current to minimize damage to the system, its components, and the utilization equipment it supplies. Yet another design feature provides alternate circuits, automatic throw overs, and automatic reclosing devices. These design features for system protection are the focus of the IEEE Buff Book.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Industrial power systems</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Fuses</keyword>
+  <keyword>Voltage transformers</keyword>
+  <keyword>System analysis and design</keyword>
+  <keyword>bus protection</keyword>
+  <keyword>cable protection</keyword>
+  <keyword>calibration</keyword>
+  <keyword>conductor protection</keyword>
+  <keyword>coordinating time intervals</keyword>
+  <keyword>current transformers</keyword>
+  <keyword>current-limiting fuses</keyword>
+  <keyword>fuse coordination</keyword>
+  <keyword>fuse selectivity</keyword>
+  <keyword>generator grounding</keyword>
+  <keyword>generator protection</keyword>
+  <keyword>high-voltage fuses</keyword>
+</bibdata>

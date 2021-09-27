@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Inverse-Time Characteristic Equations for Overcurrent Relays</title>
+  <title type="main" format="text/plain">IEEE Standard Inverse-Time Characteristic Equations for Overcurrent Relays</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7979704</uri>
+  <docidentifier type="IEEE">IEEE PC37.112/D2, July 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4174-2</docidentifier>
+  <docnumber>PC37.112/D2, Jul 2017</docnumber>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2017-07-13</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The inverse-time characteristics of overcurrent relays are defined in this standard. Operating equations and allowances are provided in the standard. The standard defines an integral equation for microprocessor relays that ensures coordination not only in the case of constant current input but for any current condition of varying magnitude. Electromechanical inverse-time overcurrent relay reset characteristics are defined in the event that designers of microprocessor based relays and computer relays want to match the reset characteristics of the electromechanical relays.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Inverse problems</keyword>
+  <keyword>Current distribution</keyword>
+  <keyword>Timing analysis</keyword>
+  <keyword>inverse-time characteristics</keyword>
+  <keyword>overcurrent relays</keyword>
+</bibdata>

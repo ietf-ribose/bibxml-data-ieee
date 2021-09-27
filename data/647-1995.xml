@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Specification Format Guide and Test Procedure for Single-Axis Laser Gyros</title>
+  <title type="main" format="text/plain">IEEE Standard Specification Format Guide and Test Procedure for Single-Axis Laser Gyros</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/494457</uri>
+  <docidentifier type="IEEE">IEEE Std 647-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0549-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80221</docidentifier>
+  <docnumber>647-1995</docnumber>
+  <date type="created">
+    <on>1996-05-15</on>
+  </date>
+  <date type="published">
+    <on>2015-11-13</on>
+  </date>
+  <date type="issued">
+    <on>1995-09-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The specification and test requirements for a single-axis laser gyro for use as a sensor in attitude control systems, angular displacement measuring systems, and angular rate measuring systems is defined. A standard specification format guide for the preparation of a single-axis laser gyro is provided. A complication of recommended procedures for testing a laser gyro, derived from those presently used in the industry, is also provided.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 647-1981</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 647-2006 (Revision of IEEE Std 647-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Gyroscopes</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Position control</keyword>
+  <keyword>Displacement measurement</keyword>
+  <keyword>Optical transducers</keyword>
+  <keyword>Velocity measurement</keyword>
+  <keyword>Optical position measurement</keyword>
+  <keyword>gyro</keyword>
+  <keyword>gyroscope</keyword>
+  <keyword>inertial instrument</keyword>
+  <keyword>inertial sensor</keyword>
+  <keyword>laser gyro</keyword>
+  <keyword>optical gyro</keyword>
+  <keyword>ring laser gyro</keyword>
+  <keyword>RLG</keyword>
+  <keyword>sagnac effect</keyword>
+</bibdata>

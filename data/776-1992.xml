@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Inductive Coordination of Electric Supply and Communication Lines</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Inductive Coordination of Electric Supply and Communication Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/239617</uri>
+  <docidentifier type="IEEE">IEEE Std 776-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0593-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.115134</docidentifier>
+  <docnumber>776-1992</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="issued">
+    <on>1992-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The inductive environment that exists in the vicinity of electric power and wire-line telecommunications systems and the interfering effects that may be produced are addressed. An interface that permits either party, without need to involve the other, to verify the induction at the interface by use of a probe wire is presented. This recommended practice does not apply to railway signal circuits.&amp;amp;lt;&amp;amp;lt;ETX&amp;amp;gt;&amp;amp;gt;</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 776-2018 (Revision of IEEE Std 776-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 776-2018 (Revision of IEEE Std 776-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Electromagnetic induction</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Wire communication cables</keyword>
+</bibdata>

@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Test Procedures for AC High-Voltage Circuit Breakers with Rated Maximum Voltage above 1000V</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Test Procedures for AC High-Voltage Circuit Breakers with Rated Maximum Voltage above 1000V</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8410191</uri>
+  <docidentifier type="IEEE">IEEE PC37.09/D4.0, July 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5055-3</docidentifier>
+  <docnumber>PC37.09/D4.0, Jul 2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-07-11</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The testing procedures for all high-voltage circuit breakers that include voltage ratings above 1000 V ac and comprise both indoor and outdoor types having the preferred ratings as listed in IEEE Std C37.04(TM) are covered. Typical circuit breakers covered by these standards have maximum voltage ratings from 4.76 kV through 800 kV, and continuous current ratings of 600 A through 5000 A associated with the various maximum voltage ratings. The test procedures verify all assigned ratings, including continuous current, dielectric withstand voltages, short-circuit current, transient recovery voltage, and capacitor switching, plus associated capabilities such as mechanical endurance, load current, and out-of-phase switching. Production test procedures are also included. This standard does not cover generator circuit breakers as these are covered in IEC/IEEE 62271-37-013. (Note: IEEE Std C37.09-2018 requires the use of a color monitor (and color printer) to view many of the graphics contained in this standard. Color is essential to the understanding of the graphics.)</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.09-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Switches</keyword>
+  <keyword>Dielectrics</keyword>
+  <keyword>Short-circuit currents</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>arcing time</keyword>
+  <keyword>direct test</keyword>
+  <keyword>IEEE C37.09(TM)</keyword>
+  <keyword>mechanical endurance</keyword>
+  <keyword>operating duty</keyword>
+  <keyword>power frequency</keyword>
+  <keyword>short-circuit current</keyword>
+  <keyword>short-line fault</keyword>
+  <keyword>single-phase testing</keyword>
+  <keyword>synthetic test</keyword>
+  <keyword>test data reporting</keyword>
+  <keyword>three-phase testing</keyword>
+  <keyword>transient recovery voltage</keyword>
+  <keyword>unit test</keyword>
+</bibdata>

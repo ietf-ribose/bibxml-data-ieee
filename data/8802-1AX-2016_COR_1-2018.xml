@@ -1,0 +1,84 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE/ISO/IEC International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements</title>
+  <title type="title-main" format="text/plain">Part 1AX: Link aggregation TECHNICAL CORRIGENDUM 1</title>
+  <title type="main" format="text/plain">IEEE/ISO/IEC International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements - Part 1AX: Link aggregation TECHNICAL CORRIGENDUM 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8490833</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-1AX:2016/Cor.1:2018(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5194-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8490833</docidentifier>
+  <docnumber>8802-1AX-2016/Cor 1-2018</docnumber>
+  <date type="updated">
+    <on>2020-09-25</on>
+  </date>
+  <date type="created">
+    <on>2018-10-09</on>
+  </date>
+  <date type="published">
+    <on>2018-10-12</on>
+  </date>
+  <date type="issued">
+    <on>2018</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Technical and editorial corrections are provided in this corrigendum to IEEE Std 802.1AX-2014.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Technical and editorial corrections are provided in this corrigendum to IEEE Std 802.1AX-2014.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AX-2014/Cor 1-2017 (Corrigendum to IEEE Std 802.1AX-2014)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Aggregated Link</keyword>
+  <keyword>Aggregator</keyword>
+  <keyword>corrigendum</keyword>
+  <keyword>Distributed Resilient Network Interconnect</keyword>
+  <keyword>DRNI</keyword>
+  <keyword>IEEE 802&amp;amp;#174;</keyword>
+  <keyword>IEEE 802.1AX&amp;amp;#8482;</keyword>
+  <keyword>interconnect</keyword>
+  <keyword>Link Aggregation</keyword>
+  <keyword>Link Aggregation Group</keyword>
+  <keyword>local area network</keyword>
+  <keyword>management</keyword>
+  <keyword>Network-Network Interface</keyword>
+  <keyword>NNI</keyword>
+</bibdata>

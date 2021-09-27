@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ethernet Amendment: Physical Layer and Management Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T and 40GBASE-T</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ethernet Amendment: Physical Layer and Management Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T and 40GBASE-T</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7439722</uri>
+  <docidentifier type="IEEE">IEEE P802.3bq/3.2, March 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0828-8</docidentifier>
+  <docnumber>P802.3bq/3.2, Mar 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-03-23</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2015 specifies new Physical Coding Sublayer interfaces and new Physical Medium Attachment sublayer interfaces for 25 Gb/s Ethernet and 40 Gb/s Ethernet. 25GBASE-T and 40GBASE-T specify LAN interconnects for up to 30 m of balanced twisted-pair structured cabling, for 25 Gb/s and 40 Gb/s respectively.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Time measurement</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Passive optical networks</keyword>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>802.3bq</keyword>
+  <keyword>25GBASE-T</keyword>
+  <keyword>25 Gigabit Ethernet</keyword>
+  <keyword>40GBASE-T</keyword>
+  <keyword>40 Gigabit Ethernet</keyword>
+  <keyword>Auto-Negotiation</keyword>
+  <keyword>Physical Coding Sublayer (PCS)</keyword>
+  <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
+  <keyword>structured cabling</keyword>
+  <keyword>25GMII</keyword>
+  <keyword>XLGMII</keyword>
+</bibdata>

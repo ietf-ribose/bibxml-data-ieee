@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Low-Rate Wireless Networks</title>
+  <title type="title-main" format="text/plain">Amendment 5: Enabling/Updating the Use of Regional Sub-GHz Bands</title>
+  <title type="main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks - Amendment 5: Enabling/Updating the Use of Regional Sub-GHz Bands</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7964803</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4v-2017 (Amendment to IEEE Std 802.15.4-2015, as amended by IEEE Std 802.15.4n-2016, IEEE Std 802.15.4q-2016, IEEE Std 802.15.4u-2016, and IEEE Std 802.15.4t-2017)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4026-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.7964803</docidentifier>
+  <docnumber>802.15.4v-2017</docnumber>
+  <date type="updated">
+    <on>2017-07-21</on>
+  </date>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2017-06-30</on>
+  </date>
+  <date type="issued">
+    <on>2017-05-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The smart utility network (SUN) physical layers (PHYs) in IEEE Std 802.15.4(TM)-2015 are changed by this amendment to enable the use of the 870--876 MHz and 915--921 MHz bands in Europe, the 902--928 MHz band in Mexico, the 902--907.5 MHz and 915--928 MHz bands in Brazil, and the 915--928 MHz band in Australia and New Zealand. Additional Asian regional frequency bands are also specified in this amendment. Furthermore, the amendment changes the channel parameters listed for the SUN PHYs, the low energy critical infrastructure monitoring (LECIM) PHY, and the television white space (TVWS) PHY for the 470-510 MHz band in China and the 863--870 MHz band in Europe and aligns these channel parameters with regional requirements. The amendment includes channel access and/or timing changes to the medium access control (MAC) necessary for conformance to regional requirements for these bands.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The smart utility network (SUN) physical layers (PHYs) in IEEE Std 802.15.4(TM)-2015 are changed by this amendment to enable the use of the 870--876 MHz and 915--921 MHz bands in Europe, the 902--928 MHz band in Mexico, the 902--907.5 MHz and 915--928 MHz bands in Brazil, and the 915--928 MHz band in Australia and New Zealand. Additional Asian regional frequency bands are also specified in this amendment. Furthermore, the amendment changes the channel parameters listed for the SUN PHYs, the low energy critical infrastructure monitoring (LECIM) PHY, and the television white space (TVWS) PHY for the 470&amp;amp;#8211;510 MHz band in China and the 863--870 MHz band in Europe and aligns these channel parameters with regional requirements. The amendment includes channel access and/or timing changes to the medium access control (MAC) necessary for conformance to regional requirements for these bands.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2015 (Revision of IEEE Std 802.15.4-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>470&amp;amp;#8211;510 MHz band</keyword>
+  <keyword>863&amp;amp;#8211;870 MHz band</keyword>
+  <keyword>870&amp;amp;#8211;876 MHz band</keyword>
+  <keyword>902&amp;amp;#8211;927.5 MHz band</keyword>
+  <keyword>902&amp;amp;#8211;928 MHz band</keyword>
+  <keyword>915&amp;amp;#8211;921 MHz band</keyword>
+  <keyword>915&amp;amp;#8211;928 MHz band</keyword>
+  <keyword>IEEE 802.15.4(TM)</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC Standard for Information Technology- Microprocessor Systems- High-Performance Synchronous 32-Bit Bus: Multibus II</title>
+  <title type="main" format="text/plain">ISO/IEC Standard for Information Technology- Microprocessor Systems- High-Performance Synchronous 32-Bit Bus: Multibus II</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4140846</uri>
+  <docidentifier type="IEEE">ISO/IEC 10861 : 1994 [ANSI/IEEE Std 1296, 1994 Edition]</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-368-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.339590</docidentifier>
+  <docnumber>10861-1994</docnumber>
+  <date type="created">
+    <on>1994</on>
+  </date>
+  <date type="published">
+    <on>2017-03-28</on>
+  </date>
+  <date type="issued">
+    <on>1994</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The operation, functions, and attributes of a parallel system bus (PSB), called MULTIBUS II, are defined. A high-performance backplane bus intended for use in multiple processor systems, the PSB incorporates synchronous, 32-bit multiplexed address/data, with error detection, and uses a 10 MHz bus clock. This design is intended to provide reliable state-of-the-art operation and to allow the implementation of cost-effective, high-performance VLSI for the bus interface. Memory, I/O, message, and geographic address spaces are defined. Error detection and retry are provided for messages. The message-passing design allows a VLSI implementation, so that virtually all modules on the bus will utilize the bus at its highest performance--32 to 40 Mbyte/s. An overview of PSB, signal descriptions, the PSB protocol, electrical characteristics, and mechanical specifications are covered.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>high performance synchronous</keyword>
+  <keyword>synchronous 32 bit bus</keyword>
+  <keyword>multibus</keyword>
+  <keyword>multibus II</keyword>
+  <keyword>system bus architectures</keyword>
+</bibdata>

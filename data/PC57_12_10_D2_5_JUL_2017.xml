@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Requirements for Liquid-Immersed Power Transformers</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Requirements for Liquid-Immersed Power Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7979698</uri>
+  <docidentifier type="IEEE">IEEE PC57.12.10/D2.5, July 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4175-9</docidentifier>
+  <docnumber>PC57.12.10/D2.5, Jul 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-07-13</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This voluntary consensus standard sets forth the requirements for power transformer application. This standard is intended to be used as a basis for performance, interchangeability, and safety of the equipment covered, and to assist in the proper selection of such equipment. This document is a product standard that covers certain electrical, dimensional, and mechanical characteristics of 50 Hz and 60 Hz, liquid-immersed power transformers and autotransformers. Such power transformers may be remotely or integrally associated with either primary switchgear or substations, or both, for step-down or step-up purposes and base rated as follows: 833 kVA and above single-phase, 750 kVA and above three-phase.This standard applies to all liquid-immersed power transformers and autotransformers that do not belong to the following types of apparatus: instrument transformers, step voltage and induction voltage regulators, arc-furnace transformers, rectifier transformers, specialty transformers, grounding transformers, mobile transformers, and mine transformers.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.10-2010 (Revision of ANSI C57.12.10-1997)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Liquid cooling</keyword>
+  <keyword>Immersion cooling</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>dimensional characteristics</keyword>
+  <keyword>electrical characteristics</keyword>
+  <keyword>IEEE C57.12.10</keyword>
+  <keyword>jacking</keyword>
+  <keyword>lifting</keyword>
+  <keyword>mechanical characteristics</keyword>
+  <keyword>on-load tap changer</keyword>
+  <keyword>power transformer</keyword>
+  <keyword>single-phase</keyword>
+  <keyword>three-phase</keyword>
+</bibdata>

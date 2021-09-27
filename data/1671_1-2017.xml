@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Automatic Test Markup Language (ATML) Test Descriptions</title>
+  <title type="main" format="text/plain">IEEE Standard for Automatic Test Markup Language (ATML) Test Descriptions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9444769</uri>
+  <docidentifier type="IEEE">EEE Std 1671.1-2017 (Revision of IEEE Std 1671.1-2009)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4631-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.9444769</docidentifier>
+  <docnumber>1671.1-2017</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2021-05-31</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An exchange format, utilizing Extensible Markup Language (XML), for both the static description of unit under test (UUT), and the specific description of UUT instance information is defined in this standard.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1671.1-2009 (Full_Use)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Automatic test equipment</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Markup languages</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATML</keyword>
+  <keyword>ATS</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>automatic test equipment</keyword>
+  <keyword>Automatic Test Markup Language</keyword>
+  <keyword>automatic test system</keyword>
+  <keyword>IEEE 1671.1&amp;amp;#8482;</keyword>
+  <keyword>test program documentation</keyword>
+  <keyword>test requirements</keyword>
+  <keyword>unit under test</keyword>
+  <keyword>UUT</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

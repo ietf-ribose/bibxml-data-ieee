@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Functional Modeling Language</title>
+  <title type="title-main" format="text/plain">Syntax and Semantics for IDEF0</title>
+  <title type="main" format="text/plain">IEEE Standard for Functional Modeling Language - Syntax and Semantics for IDEF0</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/749110</uri>
+  <docidentifier type="IEEE">IEEE Std 1320.1-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1369-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.89198</docidentifier>
+  <docnumber>1320.1-1998</docnumber>
+  <date type="created">
+    <on>1998-11-30</on>
+  </date>
+  <date type="published">
+    <on>2020-05-20</on>
+  </date>
+  <date type="issued">
+    <on>1998-06-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Reaffirmed 2004. IDEF0 function modeling is designed to represent the decisions, actions, and activities of an existing or prospective organization or system. IDEF0 graphics and accompanying texts are presented in an organized and systematic way to gain understanding, support analysis, provide logic for potential changes, specify requirements, and support system-level design and integration activities. IDEF0 may be used to model a wide variety of systems, composed of people, machines, materials, computers, and information of all varieties and structured by the relationships among them, both automated and non-automated. For new systems, IDEF0 may be used first to define requirements and to specify functions to be carried out by the future system. As the basis of this architecture, IDEF0 may then be used to design an implementation that meets these requirements and performs these functions. For existing systems, IDEF0 can be used to analyze the functions that the system performs and to record the means by which these are done.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Specification languages</keyword>
+  <keyword>enterprise</keyword>
+  <keyword>functional modeling language</keyword>
+  <keyword>IDEF0</keyword>
+  <keyword>language</keyword>
+  <keyword>modeling language</keyword>
+</bibdata>

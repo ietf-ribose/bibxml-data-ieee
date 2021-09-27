@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Recommended Practice for Unique Identification in Power Plants and Related Facilities</title>
+  <title type="title-main" format="text/plain">Principles and Definitions</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Unique Identification in Power Plants and Related Facilities - Principles and Definitions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/573779</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 803-1983</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0718-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1983.81685</docidentifier>
+  <docnumber>803-1983</docnumber>
+  <date type="created">
+    <on>1983</on>
+  </date>
+  <date type="published">
+    <on>2015-01-12</on>
+  </date>
+  <date type="issued">
+    <on>1982-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice provides unique identification principles and definitions that, when used with related recommended practices concerning component function identifiers, implementation instructions, and system descriptions, provides a basis for uniquely identifying systems, structures, and components of nuclear and fossil-fueled power plant projects (electric power generating stations) and related facilities. Hydro and other types of power plant projects are not included. The standard is part of a series of recommended practices, entitled the Energy Industry Identification System (EIIS), the purpose of which is to present a common language that will permit a user to correlate a system, structure, or component with that of another organization for the purposes of reporting, comparison, or general communication. A significant feature of the concept is that the unique identification code identifies the function at the component level and not the hardware itself.</abstract>
+  <copyright>
+    <from>1983</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>power plants</keyword>
+  <keyword>unique</keyword>
+  <keyword>Power system identification</keyword>
+  <keyword>Nuclear power generation</keyword>
+</bibdata>

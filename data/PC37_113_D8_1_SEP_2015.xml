@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Guide for Protective Relay Applications to Transmission Lines</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Guide for Protective Relay Applications to Transmission Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7492161</uri>
+  <docidentifier type="IEEE">IEEE PC37.113/D8.1 September 2015</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2116-4</docidentifier>
+  <docnumber>PC37.113/D8.1 Sep 2015</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-06-15</on>
+  </date>
+  <date type="issued">
+    <on>2015-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information on the concepts of protection of ac transmission 1ines is presented in this guide. Applications of the concepts to accepted transmission line protection schemes are presented as well. Many important issues, such as coordination of settings, operating times, characteristics of relays, mutual coupling of lines, automatic reclosing, use of communication channels, are examined. Special protection systems, protection of multi-terminal lines and single6phase tripping and reclosing are also included. The impact of different electrical parameters and system performance considerations on the selection of relays and protection schemes is discussed as well. The purpose of this guide is to provide a reference for the selection of relay schemes and to assist less experienced protective relaying engineers in applying protection schemes to transmission lines.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.113-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Mutual coupling</keyword>
+  <keyword>Communication channels</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>System performance</keyword>
+  <keyword>protective relaying</keyword>
+  <keyword>relay application</keyword>
+  <keyword>relaying</keyword>
+  <keyword>transmission line protection</keyword>
+  <keyword>distance protection</keyword>
+  <keyword>pilot protection</keyword>
+</bibdata>

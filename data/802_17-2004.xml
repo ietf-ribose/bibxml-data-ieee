@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-part" format="text/plain">Local and Metropolitan Area Networks -- Specific Requirements -- Part 17: Resilient Packet Ring (RPR) Access Method and Physical Layer Specifications</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks -- Specific Requirements -- Part 17: Resilient Packet Ring (RPR) Access Method and Physical Layer Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1344480</uri>
+  <docidentifier type="IEEE">IEEE Std 802.17-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4072-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94804</docidentifier>
+  <docnumber>802.17-2004</docnumber>
+  <date type="created">
+    <on>2004</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2004-06-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the medium access control characteristics, physical layer interface methods and layer management parameters for the resilient packet ring (RPR) access method for ring topologies. A set of protocols for detecting and initializing the shared ring configuration, recovering from failures, and regulating fair access to the shared medium are also described. Specifications are provided for interface to a number of physical layers, supporting data rates up to 10 Gb/s. System considerations and management information base (MIB) specifications are also provided in this standard.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>fairness</keyword>
+  <keyword>layer management</keyword>
+  <keyword>metropolitan area network (MAN)</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>protection switching</keyword>
+  <keyword>resilient packet ring (RPR)</keyword>
+  <keyword>ring topology</keyword>
+  <keyword>topology detection</keyword>
+</bibdata>

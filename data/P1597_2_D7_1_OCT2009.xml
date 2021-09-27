@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for Validation of Computational Electromagnetics Computer Modeling and Simulations</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for Validation of Computational Electromagnetics Computer Modeling and Simulations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5286924</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1597.2/D7.1, Oct2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3020-3</docidentifier>
+  <docnumber>P1597.2/D7.1, Oct2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice is a companion document for IEEE Std. 1597.1&amp;amp;trade;-2008.1 It provides examples and problem sets to be used in the validation of computational electromagnetics (CEM) computer modeling and simulation techniques, codes, and models. It is applicable to a wide variety of electromagnetic (EM) applications including but not limited to the fields of antennas, signal integrity (SI), radar cross section (RCS), and electromagnetic compatibility (EMC). This document shows how to validate a particular solution data set by comparing it to the data set obtained by measurements, alternate codes, canonical, or analytic methods.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

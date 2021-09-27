@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard for XES</title>
+  <title type="title-main" format="text/plain">eXtensible Event Stream</title>
+  <title type="title-part" format="text/plain">For Achieving Interoperability in Event Logs and Event Streams</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for XES - eXtensible Event Stream - For Achieving Interoperability in Event Logs and Event Streams</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7508563</uri>
+  <docidentifier type="IEEE">IEEE P1849/D03, June 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2166-9</docidentifier>
+  <docnumber>P1849/D03, Jun 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-07-08</on>
+  </date>
+  <date type="issued">
+    <on>2016-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The XES standard defines a grammar for a tag-based language whose aim is to provide designers of information systems with a unified and extensible methodology for capturing systems behaviors by means of event logs and event streams. This standard includes a XML Schema describing the structure of an XES event log/stream and a XML Schema describing the structure of an extension of such a log/stream. Moreover, the standard includes a basic collection of so-called XES extension prototypes that provide semantics to certain attributes as recorded in the event log/stream.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>XML</keyword>
+  <keyword>event log</keyword>
+  <keyword>event stream</keyword>
+  <keyword>system behavior</keyword>
+  <keyword>extensions</keyword>
+  <keyword>XML.</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Wind Power Plant Grounding System Design for Personnel Safety</title>
+  <title type="main" format="text/plain">IEEE Guide for Wind Power Plant Grounding System Design for Personnel Safety</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9340101</uri>
+  <docidentifier type="IEEE">IEEE Std 2760-2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7106-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9340101</docidentifier>
+  <docnumber>2760-2020</docnumber>
+  <date type="updated">
+    <on>2021-03-19</on>
+  </date>
+  <date type="created">
+    <on>2021-01-29</on>
+  </date>
+  <date type="published">
+    <on>2021-01-28</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The collector system grounding for wind power plants (WPPs) is the primary concern of this guide. This guide is not intended for the WPP substation; however, since the substation is typically interconnected with the collector system, its design might affect or be affected by the collector system. With proper consideration, the methods described herein could be used in determining the impact of the collector system on substation safety and vice versa. Quantitative analysis of the effects of lightning surges is beyond the scope of this document. Similarly, this guide does not cover offshore wind power plants, battery energy storage facilities, solar power plants, or substation grounding.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The collector system grounding for wind power plants (WPPs) is the primary concern of this guide. This guide is not intended for the WPP substation; however, since the substation is typically interconnected with the collector system, its design might affect or be affected by the collector system. With proper consideration, the methods described herein could be used in determining the impact of the collector system on substation safety and vice versa. Quantitative analysis of the effects of lightning surges is beyond the scope of this document. Similarly, this guide does not cover offshore wind power plants, battery energy storage facilities, solar power plants, or substation grounding</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Wind power generation</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>System analysis and design</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>collector system</keyword>
+  <keyword>grounding</keyword>
+  <keyword>IEEE 2760TM</keyword>
+  <keyword>safety</keyword>
+  <keyword>wind power plant</keyword>
+</bibdata>

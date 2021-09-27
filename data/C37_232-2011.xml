@@ -1,0 +1,75 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Common Format for Naming Time Sequence Data Files (COMNAME)</title>
+  <title type="main" format="text/plain">IEEE Standard for Common Format for Naming Time Sequence Data Files (COMNAME)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6081885</uri>
+  <docidentifier type="IEEE">IEEE Std C37.232-2011 (Revision of IEEE Std C37.232-2007)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6809-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6081885</docidentifier>
+  <docnumber>C37.232-2011</docnumber>
+  <date type="updated">
+    <on>2011-12-20</on>
+  </date>
+  <date type="created">
+    <on>2011-11-09</on>
+  </date>
+  <date type="published">
+    <on>2013-10-24</on>
+  </date>
+  <date type="issued">
+    <on>2011-10-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A standard procedure for naming time sequence data (TSD) files, such as files produced by digital fault recorders, power swing recorders, power quality monitors, and so on, is specified. The sources of TSD files are described, and a survey of current naming techniques is provided. The advantages of using a common naming procedure are highlighted, and the limitations and applications are identified. Issues of compatibility across operating systems and various vintages, and adaptability to other types of files, are also discussed. The required and optional portions of the naming procedure are described in detail, and many examples are provided.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A standard procedure for naming time sequence data (TSD) files, such as files produced by digital fault recorders, power swing recorders, power quality monitors, and so on, is specified. The sources of TSD files are described, and a survey of current naming techniques is provided. The advantages of using a common naming procedure are highlighted, and the limitations and applications are identified. Issues of compatibility across operating systems and various vintages, and adaptability to other types of files, are also discussed. The required and optional portions of the naming procedure are described in detail, and many examples are provided.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.232-2007</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Data files</keyword>
+  <keyword>Sequential analysis</keyword>
+  <keyword>comma separated values</keyword>
+  <keyword>company name</keyword>
+  <keyword>CSV</keyword>
+  <keyword>device identifier</keyword>
+  <keyword>fault data</keyword>
+  <keyword>fault time</keyword>
+  <keyword>file extension</keyword>
+  <keyword>filename</keyword>
+  <keyword>file name</keyword>
+  <keyword>file naming convention</keyword>
+  <keyword>IEEE C37.232</keyword>
+  <keyword>required fields</keyword>
+  <keyword>start date</keyword>
+  <keyword>start time</keyword>
+  <keyword>station identifier</keyword>
+  <keyword>time code</keyword>
+  <keyword>time sequence data</keyword>
+  <keyword>TSD</keyword>
+  <keyword>user fields</keyword>
+</bibdata>

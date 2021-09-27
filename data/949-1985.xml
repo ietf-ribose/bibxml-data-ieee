@@ -1,0 +1,44 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial-Use Standard for Media-Independent Information Transfer</title>
+  <title type="main" format="text/plain">IEEE Trial-Use Standard for Media-Independent Information Transfer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30685</uri>
+  <docidentifier type="IEEE">IEEE Std 949</docidentifier>
+  <docidentifier type="ISBN">0-7381-4547-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.82457</docidentifier>
+  <docnumber>949-1985</docnumber>
+  <date type="created">
+    <on>1985</on>
+  </date>
+  <date type="issued">
+    <on>1985</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this standard is to define a format for the transmission of files and their attributes between computer systems independent of the medium of transmission. It is intended that any information medium capable of representing a consecutive sequence of 8-bit bytes should be adaptable to the format specified in this standard. The format is designed to facilitate the human interface to file selection from transmissions by foreign systems.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Data communication</keyword>
+  <keyword>Data handling</keyword>
+  <keyword>File systems</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

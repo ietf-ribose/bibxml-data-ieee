@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Framework for Prognostics and Health Management of Electronic Systems</title>
+  <title type="main" format="text/plain">IEEE Standard Framework for Prognostics and Health Management of Electronic Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8227036</uri>
+  <docidentifier type="IEEE">IEEE Std 1856-2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4319-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.8227036</docidentifier>
+  <docnumber>1856-2017</docnumber>
+  <date type="updated">
+    <on>2018-01-19</on>
+  </date>
+  <date type="created">
+    <on>2017-12-13</on>
+  </date>
+  <date type="published">
+    <on>2017-12-19</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information for the implementation of prognostics and health management (PHM) for electronic systems is described in this standard. A normative framework for classifying PHM capability and for planning the development of PHM for an electronic system or product is also described in this standard. Manufacturers and end users can use this standard for planning the appropriate prognostics and health management techniques to implement and the associated life cycle operations for the system of interest.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Information for the implementation of prognostics and health management (PHM) for electronic systems is described in this standard. A normative framework for classifying PHM capability and for planning the development of PHM for an electronic system or product is also described in this standard. Manufacturers and end users can use this standard for planning the appropriate prognostics and health management techniques to implement and the associated life cycle operations for the system of interest.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Prognostics and health management</keyword>
+  <keyword>Classification</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>classification of electronics</keyword>
+  <keyword>electronic systems</keyword>
+  <keyword>health management</keyword>
+  <keyword>IEEE 1856&amp;amp;#8482;</keyword>
+  <keyword>implementation in electronics</keyword>
+  <keyword>PHM defi nitions</keyword>
+  <keyword>PHM functional model</keyword>
+  <keyword>PHM Metrics</keyword>
+  <keyword>PHM operational model</keyword>
+  <keyword>prognostics</keyword>
+</bibdata>

@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Surge Protection of DC Power Feeds to Remote Radio Heads (RRH)</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Surge Protection of DC Power Feeds to Remote Radio Heads (RRH)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7544424</uri>
+  <docidentifier type="IEEE">IEEE PC62.55/D21, July 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2245-1</docidentifier>
+  <docnumber>PC62.55/D21, July 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-08-16</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide describes the waveform of currents likely to exist on DC feeds to equipment located at the tops of towers due to a lightning strike, and the consequences of that waveform for protector design.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Lightning</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Remote radio heads</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>RRH</keyword>
+  <keyword>SPD</keyword>
+  <keyword>powering feed</keyword>
+  <keyword>protection</keyword>
+  <keyword>lightning</keyword>
+  <keyword>remote radio head</keyword>
+  <keyword>towers</keyword>
+  <keyword>surge waveform</keyword>
+</bibdata>

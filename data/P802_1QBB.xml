@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Virtual Bridged Local Area Networks</title>
+  <title type="title-part" format="text/plain">Amendment: Priority-based Flow Control</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Virtual Bridged Local Area Networks - Amendment: Priority-based Flow Control</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5570062</uri>
+  <docidentifier type="IEEE">IEEE P802.1Qbb/D2.3, May 2010 (DRAFT Amendment to IEEE Std 802.1Q -2005)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6296-6</docidentifier>
+  <docnumber>P802.1Qbb</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies protocols, procedures and managed objects that enable flowcontrol per traffic class on IEEE 802 point-to-point full duplex links. This is achieved by amechanism similar to the IEEE 802.3 Annex 31B PAUSE, but operating on individual priorities.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEEE 802.11 Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Flow production systems</keyword>
+  <keyword>802.1</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>LANs</keyword>
+  <keyword>transparent bridging</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>VLANs</keyword>
+  <keyword>priority</keyword>
+  <keyword>flow control.</keyword>
+</bibdata>

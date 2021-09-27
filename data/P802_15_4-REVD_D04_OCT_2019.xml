@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Low-Rate Wireless Networks (WPANs)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Low-Rate Wireless Networks (WPANs)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8935588</uri>
+  <docidentifier type="IEEE">IEEE P802.15.4-REVd/D04, October 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6387-4</docidentifier>
+  <docnumber>P802.15.4-REVd/D04, Oct 2019</docnumber>
+  <date type="created">
+    <on>2019-12-16</on>
+  </date>
+  <date type="published">
+    <on>2019-12-17</on>
+  </date>
+  <date type="issued">
+    <on>2020-05-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The physical layer (PHY) and medium access control (MAC) sublayer specifications for low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements are defined in this standard. In addition, the standard provides modes that allow for precision ranging. PHYs are defined for devices operating in a variety of geographic regions.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2015 (Revision of IEEE Std 802.15.4-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ad hoc networks</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>IEEE 802.15.4</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>mobility</keyword>
+  <keyword>PAN</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>short range</keyword>
+  <keyword>wireless</keyword>
+  <keyword>wireless network</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

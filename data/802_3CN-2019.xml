@@ -1,0 +1,79 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Ethernet</title>
+  <title type="title-main" format="text/plain">Amendment 4: Physical Layers and Management Parameters for 50Gb/s, 200Gb/s, and 400Gb/s Operation over Single-Mode Fiber</title>
+  <title type="main" format="text/plain">IEEE Standard for Ethernet - Amendment 4: Physical Layers and Management Parameters for 50Gb/s, 200Gb/s, and 400Gb/s Operation over Single-Mode Fiber</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8937109</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3cn-2019 (Amendment to IEEE Std 802.3-2018 as amended by IEEE Std 802.3cb-2018, IEEE Std 802.3bt-2018, and IEEE Std 802.3cd-2018)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6384-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2019.8937109</docidentifier>
+  <docnumber>802.3cn-2019</docnumber>
+  <date type="updated">
+    <on>2020-03-20</on>
+  </date>
+  <date type="created">
+    <on>2019-12-20</on>
+  </date>
+  <date type="published">
+    <on>2019-12-19</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2018 adds Physical Layer (PHY) specifications and management parameters for 50 Gb/s, 200 Gb/s, and 400 Gb/s operation over single-mode fiber with reaches of at least 40 km.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2018 adds Physical Layer (PHY) specifications and management parameters for 50 Gb/s, 200 Gb/s, and 400 Gb/s operation over single-mode fiber with reaches of at least 40 km.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Forward error correction</keyword>
+  <keyword>Optical fiber communication</keyword>
+  <keyword>50 Gb/s Ethernet</keyword>
+  <keyword>50GBASE-ER</keyword>
+  <keyword>200Gb/s Ethernet</keyword>
+  <keyword>200GBASE-ER4</keyword>
+  <keyword>400Gb/s Ethernet</keyword>
+  <keyword>400GBASE-ER8</keyword>
+  <keyword>amendment</keyword>
+  <keyword>EEE</keyword>
+  <keyword>Energy-Efficient Ethernet</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>FEC</keyword>
+  <keyword>forward error correction</keyword>
+  <keyword>IEEE 802.3&amp;amp;#8482;</keyword>
+  <keyword>IEEE 802.3cn&amp;amp;#8482;</keyword>
+  <keyword>PAM4</keyword>
+  <keyword>physical medium dependent sublayer</keyword>
+  <keyword>PMD sublayer</keyword>
+  <keyword>single-mode fiber</keyword>
+  <keyword>SMF</keyword>
+</bibdata>

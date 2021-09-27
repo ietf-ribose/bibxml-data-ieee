@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Bar Coding for Distribution Transformers and Step-Voltage Regulators</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Bar Coding for Distribution Transformers and Step-Voltage Regulators - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6046076</uri>
+  <docidentifier type="IEEE">IEEE Std C57.12.35-2007 (Revision of IEEE Std C57.12.35-1996) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7063-3</docidentifier>
+  <docnumber>C57.12.35-2007</docnumber>
+  <date type="created">
+    <on>2007-12-27</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2007-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard covers bar code label requirements for specific types of distribution transformers and step-voltage regulators. Data content for temporary and permanent bar code labeling is described as well as bar code label print quality and durability requirements.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.35-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Bar codes</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Regluators</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>bar code label</keyword>
+  <keyword>distribution transformer</keyword>
+  <keyword>step-voltage regulator</keyword>
+</bibdata>

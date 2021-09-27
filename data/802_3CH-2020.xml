@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Ethernet--Amendment 8:Physical Layer Specifications and Management Parameters for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s Automotive Electrical Ethernet</title>
+  <title type="main" format="text/plain">IEEE Standard for Ethernet--Amendment 8:Physical Layer Specifications and Management Parameters for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s Automotive Electrical Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9146430</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3ch-2020 (Amendment to IEEE Std 802.3-2018 as amended by IEEE Std 802.3cb-2018, IEEE Std 802.3bt-2018, IEEE Std 802.3cd-2018, IEEE Std 802.3cn-2019, IEEE Std 802.3cg-2019, IEEE Std 802.3cq-2020, and IEEE Std 802.3cm-2020)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6770-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2020.9146430</docidentifier>
+  <docnumber>802.3ch-2020</docnumber>
+  <date type="updated">
+    <on>2020-08-07</on>
+  </date>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-07-22</on>
+  </date>
+  <date type="issued">
+    <on>2020-06-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2018 adds physical layer specifications and management parameters for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s operation on a single balanced pair of conductors suitable for automotive applications.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2018 adds physical layer specifications and management parameters for 2.5 Gb/s, 5 Gb/s, and 10 Gb/s operation on a single balanced pair of conductors suitable for automotive applications.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Communication system control</keyword>
+  <keyword>Automotive engineering</keyword>
+  <keyword>Master-slave</keyword>
+  <keyword>2.5GBASE-T1; 5GBASE-T1; 10GBASE-T1; Ethernet; IEEE 802.3ch; MASTER-SLAVE; Medium Dependent Interface; Physical Coding Sublayer; Physical Layer; Physical Medium Attachment</keyword>
+</bibdata>

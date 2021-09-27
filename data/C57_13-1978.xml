@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Requirements for Instrument Transformers</title>
+  <title type="main" format="text/plain">IEEE Standard Requirements for Instrument Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29021</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C57.13-1978</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4299-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1978.81311</docidentifier>
+  <docnumber>C57.13-1978</docnumber>
+  <date type="created">
+    <on>1978-12-29</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1976-09-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded. Electrical, dimensional, and mechanical characteristics are covered, taking into consideration certain safety features, for current and inductively coupled voltage transformers of types generally used in the measurement of electricity and the control of equipment assoicated with the generation, transmission, and distribution of alternating current. The aim is to provide a basis for performance, interchangeability, and safety of equipment covered and to assist in the proper selection of such equipment. Accuracy classes for metering service are provided. The test code covers measurment and calculation of radio and phase angle, demagnetization, impedance and excitation measurements, polarity determination, resistance measurements, short-time characteristics, temperature rise tests, dielectric tests, and measurment of open-circuit voltage of current transformers.</abstract>
+  <copyright>
+    <from>1978</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.13-1993(R2003) (Revision of IEEE Std C57.13-1978</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Current transformers</keyword>
+  <keyword>Power generation</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Standards</keyword>
+  <keyword>instrument</keyword>
+  <keyword>transformers</keyword>
+  <keyword>requirements</keyword>
+</bibdata>

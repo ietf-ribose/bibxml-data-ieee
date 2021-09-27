@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for an Electromagnetic Site Survey (10 kHz to 10 GHz)</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for an Electromagnetic Site Survey (10 kHz to 10 GHz)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29073</uri>
+  <docidentifier type="IEEE">IEEE Std 473-1985</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0588-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.81579</docidentifier>
+  <docnumber>473-1985</docnumber>
+  <date type="created">
+    <on>1985</on>
+  </date>
+  <date type="published">
+    <on>2015-02-20</on>
+  </date>
+  <date type="issued">
+    <on>1981-12-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidelines for the systematic, documented investigation of the amplitudes of RF electromagnetic fields found at one or more locations with respect to frequency, time, and position are provided. Periodic and random radiated electric and magnetic fields and conducted interference within the frequency range of 10 kHz to 10 GHz are considered. Although several aspects of radio-emission investigation are not addressed directly, including signal identification and discrimination; field emissions from regularly occurring, low-frequency, pulsed sources; and test enclosure fields, much information pertinent to these areas is provided.</abstract>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Electromagnetic fields</keyword>
+  <keyword>Electromagnetic radiative interference</keyword>
+  <keyword>electromagnetic</keyword>
+  <keyword>site</keyword>
+  <keyword>survey</keyword>
+</bibdata>

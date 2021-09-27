@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5599999</uri>
+  <docidentifier type="IEEE">IEEE P1232/D5.1, October 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5785-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5599999</docidentifier>
+  <docnumber>P1232/D5.1, Oct 2010</docnumber>
+  <date type="updated">
+    <on>2010-11-01</on>
+  </date>
+  <date type="created">
+    <on>2010-10-11</on>
+  </date>
+  <date type="published">
+    <on>2019-05-02</on>
+  </date>
+  <date type="issued">
+    <on>2010-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">AI-ESTATE defines data interchange and for standard software services for test and diagnostic environments. The purpose of AI-ESTATE is to standardize interfaces for functional elements of an intelligent diagnostic reasoner and representations of diagnostic knowledge and data for use by such diagnostic reasoners. Formal information models are defined to form the basis for a format to facilitate exchange of persistent diagnostic information between two reasoners, and also to provide a formal typing system for diagnostic services. This standard also defines the services to control a diagnostic reasoner.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Data interchange and standard software services for test and diagnostic environments are defined by Artificial Intelligence Exchange and Service Tie to All Test Environments (AIESTATE). The purpose of AI-ESTATE is to standardize interfaces for functional elements of an intelligent diagnostic reasoner and representations of diagnostic knowledge and data for use by such diagnostic reasoners. Formal information models are defined to form the basis for a format to facilitate exchange of persistent diagnostic information between two reasoners and also to provide a formal typing system for diagnostic services. The services to control a diagnostic reasoned are defined by this standard.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1232-2002 (Revision of IEEE Std 1232-1995, IEEE Std 1232.1-1997 and IEEE Std 1232.2-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Artificial intelligence</keyword>
+  <keyword>Testing</keyword>
+  <keyword>AI-ESTATE</keyword>
+  <keyword>Bayesian Network</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>diagnostic inference</keyword>
+  <keyword>diagnostic model</keyword>
+  <keyword>diagnostic services</keyword>
+  <keyword>D-matrix</keyword>
+  <keyword>fault tree</keyword>
+  <keyword>IEEE 1232</keyword>
+  <keyword>knowledge exchange</keyword>
+  <keyword>system test</keyword>
+</bibdata>

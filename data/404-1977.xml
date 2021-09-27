@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Cable Joints</title>
+  <title type="main" format="text/plain">IEEE Standard for Cable Joints</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7415887</uri>
+  <docidentifier type="IEEE">IEEE Std 404-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0331-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7415887</docidentifier>
+  <docnumber>404-1977</docnumber>
+  <date type="updated">
+    <on>2016-03-11</on>
+  </date>
+  <date type="created">
+    <on>1977</on>
+  </date>
+  <date type="published">
+    <on>2016-02-22</on>
+  </date>
+  <date type="issued">
+    <on>1975-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this standard is to outline definitions, terminology, voltage ratings, and test requirements for cable joints for all types of insulated ac power cable rated in preferred voltage steps from 2.5 to 500kV. No attempt is made in this standard to cover design details, dimensional data, or installation instructions normally supplied by the designer. Cable joints are made or assembled on the jobsite with the components supplied, and therefore, it is essential that all drawings and instructions be followed carefully by trained personnel in order that the actual field joints develop the characteristics established by design tests on similar joints.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 404-1986</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Cable joints</keyword>
+</bibdata>

@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards Report on Measuring Field Strength in Radio Wave Propagation</title>
+  <title type="main" format="text/plain">IEEE Standards Report on Measuring Field Strength in Radio Wave Propagation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/20954</uri>
+  <docidentifier type="IEEE">IEEE Std 291-1969</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4359-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1969.120577</docidentifier>
+  <docnumber>291-1969</docnumber>
+  <date type="created">
+    <on>1969-05-01</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1969</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Two standard methods for field-strength measurement are described. The standard-antenna method consists of measuring the received power or open-circuit voltage developed in a standard receiving antenna by the field to be measured and computing the field strength from the measured voltage and the dimensions and form of the standard antenna. The standard-field method consists of comparing voltages produced in an antenna by the field to be measured and by a standard field, the magnitude of which is computed from the dimensions of the transmitting antenna, its current distribution, the distance of separation, and effect of the ground. The measurement procedures are outlined, including calibration of commercial field strength and extension of the methods to microwave frequencies. Methods for measuring power radiated from an antenna under several different conditions are briefly presented, and the important considerations for securing useful and accurate measurements are described.</abstract>
+  <copyright>
+    <from>1969</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Antenna radiation patterns</keyword>
+  <keyword>Radio propagation</keyword>
+  <keyword>Standards</keyword>
+  <keyword>electromagnetic</keyword>
+  <keyword>fields</keyword>
+  <keyword>measuring</keyword>
+</bibdata>

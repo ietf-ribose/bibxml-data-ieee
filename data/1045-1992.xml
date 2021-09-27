@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Software Productivity Metrics</title>
+  <title type="main" format="text/plain">IEEE Standard for Software Productivity Metrics</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/211732</uri>
+  <docidentifier type="IEEE">IEEE Std 1045-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0408-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.114398</docidentifier>
+  <docnumber>1045-1992</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="issued">
+    <on>1992-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A consistent way to measure the elements that go into computing software productivity is defined. Software productivity metrics terminology are given to ensure an understanding of measurement data for both source code and document production. Although this IEEE standard prescribes measurements to characterize the software process, it does not establish software productivity norms, nor does it recommend productivity measurements as a method to evaluate software projects or software developers. This standard does not measure the quality of software. This standard does not claim to improve productivity, only to measure it. The goal of this standard is for a better understanding of the software process, which may lend insight to improving it.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Software metrics</keyword>
+  <keyword>Software reliability</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

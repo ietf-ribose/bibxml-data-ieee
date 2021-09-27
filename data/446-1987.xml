@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Emergency and Standby Power Systems for Industrial and Commercial Applications</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Emergency and Standby Power Systems for Industrial and Commercial Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19525</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 446-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4209-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.120315</docidentifier>
+  <docnumber>446-1987</docnumber>
+  <date type="created">
+    <on>1987-02-13</on>
+  </date>
+  <date type="published">
+    <on>2013-01-16</on>
+  </date>
+  <date type="issued">
+    <on>1986-06-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommended engineering principles, practices, and guidelines for the selection and application of emergency and standby power systems are presented. Industrial and commercial users' needs are outlined and discussed, and the material is primarily presented from a user's viewpoint. General requirements, protection, grounding, applications by specific industry, and maintenance guidelines are included.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 446-1995 [The Orange Book]</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 446-1995 [The Orange Book]</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Emergency power supplies</keyword>
+  <keyword>Standards</keyword>
+  <keyword>emergency</keyword>
+  <keyword>standby</keyword>
+  <keyword>power</keyword>
+  <keyword>system</keyword>
+  <keyword>orange book</keyword>
+</bibdata>

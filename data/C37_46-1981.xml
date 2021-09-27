@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Specifications for Power Fuses and Fuse Disconnecting Switches</title>
+  <title type="main" format="text/plain">American National Standard Specifications for Power Fuses and Fuse Disconnecting Switches</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4140804</uri>
+  <docidentifier type="IEEE">IEEE Std C37.46-1981</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3817-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1981.339576</docidentifier>
+  <docnumber>C37.46-1981</docnumber>
+  <date type="created">
+    <on>1981-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-02-09</on>
+  </date>
+  <date type="issued">
+    <on>1981</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is a revision of American National Standard Specifications for Power Fuses and Fuse Disconnecting Switches, ANSI C37.46-1969, to bring it up to date and in line with present requirements for high-voltage fuses and switches.</abstract>
+  <copyright>
+    <from>1981</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C37.46-2000 (Revision of ANSI C37.46-1981)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Fuses</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Steel</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Manufacturing</keyword>
+</bibdata>

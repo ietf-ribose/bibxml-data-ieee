@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Secure Device Identity</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Secure Device Identity</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8467501</uri>
+  <docidentifier type="IEEE">IEEE P802.1AR-Rev/D2.2, September 2017 (Draft Revision of IEEE Std 802.1AR–2009)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4379-1</docidentifier>
+  <docnumber>P802.1AR-Rev/D2.2, Sept 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2018-09-18</on>
+  </date>
+  <date type="issued">
+    <on>2018-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A Secure Device Identifier (DevID) is cryptographically bound to a device and supports authentication of the device’s identity. An Initial Device Identifier (IDevID) provide by the supplier of a device can be supplemented by Local Device Identifiers (LDevIDs) facilitating enrollment (provisioning of authentication and authorization credentials) by local network administrators.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AR-2009</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Networked control systems</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>access control</keyword>
+  <keyword>authentication</keyword>
+  <keyword>authorization</keyword>
+  <keyword>certificate</keyword>
+  <keyword>IEEE 802.1AR</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>PKI</keyword>
+  <keyword>port-based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>Secure Device Identifier</keyword>
+  <keyword>security</keyword>
+  <keyword>X.509</keyword>
+</bibdata>

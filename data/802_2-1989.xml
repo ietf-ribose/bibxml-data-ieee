@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-part" format="text/plain">Local and Metropolitan Area Networks -- Specific Requirements -- Part 2: Logical Link Control</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks -- Specific Requirements -- Part 2: Logical Link Control</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5776621</uri>
+  <docidentifier type="IEEE">ISO 8802-2 IEEE 802.2, First Edition 1989-12-31 (Revision of IEEE Std 802.2-1985)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4252-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.5776621</docidentifier>
+  <docnumber>802.2-1989</docnumber>
+  <date type="created">
+    <on>1989-12-31</on>
+  </date>
+  <date type="published">
+    <on>2016-01-06</on>
+  </date>
+  <date type="issued">
+    <on>1989-08-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is part of a family of local area network (LAN) standards dealing with the physical and data link layers as defined by the ISO Open Systems Interconnection Reference Model. It describes the functions, features, protocol, and services of the logical link control (LLC) sublayer, which constitutes the top sublayer in the data link layer of the ISO 8802 Local Area Network Protocol. The services required of, or by, the LLC sublayer at the logical interfaces with the network layer, the MAC sublayer, and the LLC sublayer management function are specified. The protocol data unit (PDU) structure for data communication systems is defined using bit-oriented procedures, as are two types of operation for data communication between service access points. In one type of operation, PDUs are exchanged between LLCs without the need for the establishment of a data link connection. In the other, a data link connection is established between two LLCs prior to any exchange of information-bearing PDUs.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information processing</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Interconnected systems</keyword>
+  <keyword>Logic design</keyword>
+  <keyword>logical</keyword>
+  <keyword>link</keyword>
+  <keyword>control</keyword>
+  <keyword>local</keyword>
+  <keyword>area</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Local area networks</keyword>
+</bibdata>

@@ -1,0 +1,85 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Health informatics--Device interoperability--Part 10201:Point-of-care medical device communication--Domain information model</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Health informatics--Device interoperability--Part 10201:Point-of-care medical device communication--Domain information model</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9102466</uri>
+  <docidentifier type="IEEE">ISO/IEEE 11073-10201:2020(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6724-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2020.9102466</docidentifier>
+  <docnumber>11073-10201-2020</docnumber>
+  <date type="updated">
+    <on>2020-06-12</on>
+  </date>
+  <date type="created">
+    <on>2020-05-25</on>
+  </date>
+  <date type="published">
+    <on>2020-05-27</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care medical device communication, an abstract, object-oriented domain information model that specifies the structure of exchanged information, as well as the vents and services that are supported by each type of object, is provided in this standard. All data structure elements are specified using abstract syntax (ASN.1) and may be applied to many different implementation technologies, transfer syntaxes, and application service models. Core subjects include medical, alert, system, patient, control, archival, communication, and extended services. Model extensibility is supported, and a conformance model and statement template is provided.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care medical device communication, an abstract, object-oriented domain information model that specifies the structure of exchanged information, as well as the vents and services that are supported by each type of object, is provided in this standard. All data structure elements are specified using abstract syntax (ASN.1) and may be applied to many different implementation technologies, transfer syntaxes, and application service models. Core subjects include medical, alert, system, patient, control, archival, communication, and extended services. Model extensibility is supported, and a conformance model and statement template is provided.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 11073-10201-2018 (Revision of IEEE Std 11073-10201-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Point of care</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>abstract syntax</keyword>
+  <keyword>alarm</keyword>
+  <keyword>alert</keyword>
+  <keyword>ASN.1</keyword>
+  <keyword>DIM</keyword>
+  <keyword>domain information model</keyword>
+  <keyword>IEEE 11073-10201</keyword>
+  <keyword>information model</keyword>
+  <keyword>medical device communications</keyword>
+  <keyword>medical information bus</keyword>
+  <keyword>MIB</keyword>
+  <keyword>object-oriented</keyword>
+  <keyword>patient</keyword>
+  <keyword>POC</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>remote control</keyword>
+</bibdata>

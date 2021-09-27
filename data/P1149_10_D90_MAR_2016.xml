@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft High Speed Test Access Port and On-chip Distribution Architecture</title>
+  <title type="main" format="text/plain">IEEE Draft High Speed Test Access Port and On-chip Distribution Architecture</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7459678</uri>
+  <docidentifier type="IEEE">IEEE P1149.10/D90, March 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-1984-0</docidentifier>
+  <docnumber>P1149.10/D90, Mar 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-04-26</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Circuitry that may be built into an integrated circuit to assist in the test, maintenance and support of assembled printed circuit boards, assembled multi-die packages and the test of die internal circuits is defined. The circuitry includes a packet decoder and standard architecture through which instructions and test data are communicated. The standard leverages the languages of IEEE Std. 1149.1 in order to describe and operate the onchip circuits.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Integrated circuits</keyword>
+  <keyword>Debugging</keyword>
+  <keyword>High speed transmission</keyword>
+  <keyword>Description language </keyword>
+  <keyword>System level testing</keyword>
+  <keyword>SERDES</keyword>
+  <keyword>SPI</keyword>
+  <keyword>I2C</keyword>
+  <keyword>High Speed JTAG</keyword>
+  <keyword>Boundary-Scan Description Language (BSDL)</keyword>
+  <keyword>PDL</keyword>
+  <keyword>IEEE 1149.10</keyword>
+  <keyword>IEEE 1149.1</keyword>
+  <keyword>wafer</keyword>
+  <keyword>integrated circuit</keyword>
+  <keyword>System Level Test</keyword>
+  <keyword>3D-IC</keyword>
+  <keyword>Procedural Description Language (PDL)</keyword>
+  <keyword>debug.</keyword>
+</bibdata>

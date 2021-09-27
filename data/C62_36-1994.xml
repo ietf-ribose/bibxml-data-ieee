@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Methods for Surge Protectors Used in Low-Voltage Data, Communications, and Signaling Circuits</title>
+  <title type="main" format="text/plain">IEEE Standard Test Methods for Surge Protectors Used in Low-Voltage Data, Communications, and Signaling Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/476702</uri>
+  <docidentifier type="IEEE">IEEE Std C62.36-1994</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2704-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.79622</docidentifier>
+  <docnumber>C62.36-1994</docnumber>
+  <date type="updated">
+    <on>1995-09-18</on>
+  </date>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="published">
+    <on>2015-10-13</on>
+  </date>
+  <date type="issued">
+    <on>1994-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Methods are established for testing and measuring the characteristics of surge protectors used in low-voltage data, communications, and signaling circuits with voltages less than or equal to 1000 V rms or 1200 Vdc. The surge protectors are designed to limit voltage surges, current surges, or both. The surge protectors covered are multiple-component series or parallel combinations of linear or nonlinear elements. Tests are included for characterizing standby performance, surge-limiting capabilities, and surge lifetime. Packaged single gas-tube, air-gap, varistor, or avalanche junction surge-protective devices are not covered, nor are test methods for low-voltage power circuit applications.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.36-2000</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Arresters</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Data communication</keyword>
+  <keyword>communications circuits</keyword>
+  <keyword>data circuits</keyword>
+  <keyword>electrical protection</keyword>
+  <keyword>signaling circuits</keyword>
+  <keyword>surge protectors</keyword>
+  <keyword>surge protective devices</keyword>
+  <keyword>voltage limiters</keyword>
+</bibdata>

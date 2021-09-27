@@ -1,0 +1,44 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems Amendment: Enhancements to Support Machine-to-Machine Applications</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems Amendment: Enhancements to Support Machine-to-Machine Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6179953</uri>
+  <docidentifier type="IEEE">IEEE P802.16p/D4 April 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7484-6</docidentifier>
+  <docnumber>P802.16p</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="issued">
+    <on>2012-04-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies IEEE Std 802.16 medium access control (MAC) enhancements and minimal orthogonal frequency division multiple access (OFDMA) physical layer (PHY) modifications in licensed bands to support lower power consumption at the device, support by the base station of significantly larger numbers of devices, efficient support for small burst transmissions, and improved device authentication.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Machine control</keyword>
+  <keyword>Interface states</keyword>
+</bibdata>

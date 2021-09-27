@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications</title>
+  <title type="main" format="text/plain">IEEE Standard for Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/654749</uri>
+  <docidentifier type="IEEE">IEEE Std 802.11-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3044-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.85951</docidentifier>
+  <docnumber>802.11-1997</docnumber>
+  <date type="created">
+    <on>1997-11-18</on>
+  </date>
+  <date type="published">
+    <on>2017-05-17</on>
+  </date>
+  <date type="issued">
+    <on>1997-06-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">SUPERSEDED BY ISO/IEC 8802-11:1999 The medium access control and physical characteristics for wireless local area networks are specified in this standard, part of a series of standards for local and metropolitan area networks. The medium access control unit in this standard is designed to support physical layer units as they may be adopted dependent on the availability of spectrum. This standard contains three physical layer units: two radio units, both operating in the 2400-2500 MHz band, and one baseband infrared unit. One radio unit employs the frequency-hopping spread spectrum technique, and the other employs the direct sequence spread spectrum technique.</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.11, 1999 Edition (R2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>infrared</keyword>
+  <keyword>LAN</keyword>
+  <keyword>local area network</keyword>
+  <keyword>wireless</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>ad hoc network</keyword>
+</bibdata>

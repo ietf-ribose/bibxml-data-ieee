@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Local and Metropolitan Area Networks: Distributed Queue Dual Bus (DQDB) Subnetwork of a Metropolitan Area Network (MAN)</title>
+  <title type="main" format="text/plain">Local and Metropolitan Area Networks: Distributed Queue Dual Bus (DQDB) Subnetwork of a Metropolitan Area Network (MAN)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/182761</uri>
+  <docidentifier type="IEEE">IEEE Std 802.6-1990</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-093-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.106962</docidentifier>
+  <docnumber>802.6-1990</docnumber>
+  <date type="created">
+    <on>1991</on>
+  </date>
+  <date type="published">
+    <on>2021-06-14</on>
+  </date>
+  <date type="issued">
+    <on>1990-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Withdrawn Standard. Withdrawn Date: Feb 07, 2003. No longer endorsed by the IEEE. This standard is part of a family of standards for local area networks (LANs) and metropolitan area networks (MANs) that deal with the Physical and Data Link Layers as defined by the ISO Open Systems Interconnection Reference Model. It defines a high-speed shared medium access protocol for use over a dual, counterflowing, unidirectional bus subnetwork. The Physical Layer and Distributed Queue Dual Bus (DQDB) Layer are required to support a Logical Link Control (LLC) Sublayer by means of a connectionless Medium Access Control (MAC) Sublayer service in a manner consistent with other IEEE 902 networks. Additional DQDB Layer functions are specified as a framework for other services. These additional functions will support Isochronous Service Users and Connection-Oriented Data Service users, but their implementation is not required for conformance.</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Computer networks</keyword>
+  <keyword>Open systems</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Standards</keyword>
+  <keyword>LAN</keyword>
+  <keyword>metro</keyword>
+  <keyword>area</keyword>
+  <keyword>networks</keyword>
+</bibdata>

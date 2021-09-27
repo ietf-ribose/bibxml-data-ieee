@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Application of the Single-Failure Criterion to Nuclear Power Generating Station Safety Systems</title>
+  <title type="main" format="text/plain">IEEE Standard Application of the Single-Failure Criterion to Nuclear Power Generating Station Safety Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26504</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 379-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4197-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.122759</docidentifier>
+  <docnumber>379-1988</docnumber>
+  <date type="created">
+    <on>1988</on>
+  </date>
+  <date type="published">
+    <on>2016-02-17</on>
+  </date>
+  <date type="issued">
+    <on>1988-03-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The application of the single-failure criterion to the electrical power, instrumentation, and control portions of nuclear power generating station safety systems is covered. Conformance with the requirements of IEEE Std 603-1991 and the single-failure criterion as stated in that document is established. Interpretation and guidance in the application of the single-failure criterion, a discussion of the failures, and an acceptable method of single-failure analysis are presented.</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 379-1994</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Failure analysis</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Standards</keyword>
+  <keyword>failure</keyword>
+  <keyword>criterion</keyword>
+  <keyword>nuclear</keyword>
+  <keyword>single</keyword>
+  <keyword>reliability</keyword>
+</bibdata>

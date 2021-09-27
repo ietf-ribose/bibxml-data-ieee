@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Distributed Interactive Simulation</title>
+  <title type="title-main" format="text/plain">Application Protocols</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Distributed Interactive Simulation - Application Protocols</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6237421</uri>
+  <docidentifier type="IEEE">IEEE P1278.1/D17, June 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7532-4</docidentifier>
+  <docnumber>P1278.1/D17, Jun 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-07-11</on>
+  </date>
+  <date type="issued">
+    <on>2012-07-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Data messages, known as Protocol Data Units (PDUs), that are exchanged on a network amongsimulation applications are defined. These PDUs are for interactions that take place within specifieddomains called protocol families, which include Entity Information/Interaction, Warfare, Logistics, SimulationManagement, Distributed Emission Regeneration, Radio Communications, Entity Management, Minefield,Synthetic Environment, Simulation Management with Reliability, Information Operations, Live EntityInformation/Interaction, and Non-Real-Time protocol.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1278.1-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Simulation</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Message systems</keyword>
+  <keyword>Distributed processing</keyword>
+  <keyword>Interactive systems</keyword>
+  <keyword>data messages</keyword>
+  <keyword>Distributed Interactive Simulation</keyword>
+  <keyword>Protocol Data Units (PDUs)</keyword>
+  <keyword>Simulationnetwork</keyword>
+</bibdata>

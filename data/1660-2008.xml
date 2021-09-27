@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Application and Management of Stationary Batteries Used in Cycling Service</title>
+  <title type="main" format="text/plain">IEEE Guide for Application and Management of Stationary Batteries Used in Cycling Service</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4690900</uri>
+  <docidentifier type="IEEE">IEEE Std 1660-2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5522-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4690900</docidentifier>
+  <docnumber>1660-2008</docnumber>
+  <date type="updated">
+    <on>2009-02-12</on>
+  </date>
+  <date type="created">
+    <on>2008-12-25</on>
+  </date>
+  <date type="published">
+    <on>2019-02-06</on>
+  </date>
+  <date type="issued">
+    <on>2008-09-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A stationary battery can be operated in two basic modes: 1) standby (or float) and 2) cycling. Many standards developed for standby stationary applications do not apply to cycling stationary applications, and vice versa. The purpose of this guide is to differentiate between these two applications and increase awareness of why and how their different operation and maintenance practices should be managed. The guide is primarily informational and is not intended to provide specific recommendations for battery management in cycling applications.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides information on the differences between stationary standby and stationary cycling applications and appropriate battery management strategies in cycling operations. While the primary emphasis is on lead-acid batteries, information is also provided on alternative and emerging storage technologies. The management of battery systems in stationary standby service is covered in other IEEE documents and is beyond the scope of this guide.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1660-2018 (Revision of IEEE Std 1660-2008)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Batteries</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Power system quality</keyword>
+  <keyword>Battery charge measurement</keyword>
+  <keyword>1660-2008</keyword>
+  <keyword>battery cycling</keyword>
+  <keyword>battery maintenance</keyword>
+  <keyword>battery operation</keyword>
+  <keyword>standby battery</keyword>
+  <keyword>stationary battery</keyword>
+</bibdata>

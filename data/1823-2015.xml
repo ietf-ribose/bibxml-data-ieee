@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Universal Power Adapter for Mobile Devices</title>
+  <title type="main" format="text/plain">IEEE Standard for Universal Power Adapter for Mobile Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7106444</uri>
+  <docidentifier type="IEEE">IEEE Std 1823-2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9608-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2015.7106444</docidentifier>
+  <docnumber>1823-2015</docnumber>
+  <date type="updated">
+    <on>2015-05-29</on>
+  </date>
+  <date type="created">
+    <on>2015-05-15</on>
+  </date>
+  <date type="published">
+    <on>2015-05-13</on>
+  </date>
+  <date type="issued">
+    <on>2015-02-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A power delivery connection between a power adapter and a power using device greater than 10 W and up to, but less than 240 W, is defined in this standard. A communications link between the power adapter and the mobile power-using device is also defined. The communications may be used to coordinate the power delivery and provide identification between the power adapter and the power-using device. While intended for portable computing and entertainment devices, power adapters conforming to this standard may also be used with other devices (including simple devices, with no communications capabilities, up to 20 W).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A power delivery connection between a power adapter and a power using devicegreater than 10 W and up to, but less than 240 W, is defined in this standard. A communicationslink between the power adapter and the mobile power-using device is also defined. Thecommunications may be used to coordinate the power delivery and provide identification betweenthe power adapter and the power-using device. While intended for portable computing andentertainment devices, power adapters conforming to this standard may also be used with otherdevices (including simple devices, with no communications capabilities, up to 20 W).</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Mobile handsets</keyword>
+  <keyword>Mobile communication</keyword>
+  <keyword>Adapters</keyword>
+  <keyword>Power supplies</keyword>
+  <keyword>Chargers</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>3G mobile communication</keyword>
+  <keyword>communications controlled power</keyword>
+  <keyword>IEEE 1823</keyword>
+  <keyword>low-energy connect and disconnect</keyword>
+  <keyword>mobile power</keyword>
+  <keyword>power delivery</keyword>
+  <keyword>smart power</keyword>
+  <keyword>universal power</keyword>
+  <keyword>Universal Power Adapter for Mobile Devices</keyword>
+  <keyword>UPAMD</keyword>
+</bibdata>

@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Software Reviews and Audits</title>
+  <title type="main" format="text/plain">IEEE Standard for Software Reviews and Audits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4601584</uri>
+  <docidentifier type="IEEE">IEEE Std 1028-2008</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5768-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4601584</docidentifier>
+  <docnumber>1028-2008</docnumber>
+  <date type="updated">
+    <on>2008-11-03</on>
+  </date>
+  <date type="created">
+    <on>2008-08-15</on>
+  </date>
+  <date type="published">
+    <on>2019-04-15</on>
+  </date>
+  <date type="issued">
+    <on>2008-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Five types of software reviews and audits, together with procedures required for the execution of each type, are defined in this standard. This standard is concerned only with the reviews and audits; procedures for determining the necessity of a review or audit are not defined, and the disposition of the results of the review or audit is not specified. Types included are management reviews, technical reviews, inspections, walk-throughs, and audits.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Five types of software reviews and audits, together with procedures required for the execution of each type, are defined in this standard. This standard is concerned only with the reviews and audits; procedures for determining the necessity of a review or audit are not defined, and the disposition of the results of the review or audit is not specified. Types included are management reviews, technical reviews, inspections, walk-throughs, and audits.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software testing</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>1028-2008</keyword>
+  <keyword>audit</keyword>
+  <keyword>inspection</keyword>
+  <keyword>review</keyword>
+  <keyword>walk-through</keyword>
+</bibdata>

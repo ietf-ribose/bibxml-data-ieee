@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for CASE Tool Interconnections</title>
+  <title type="title-main" format="text/plain">Classification and Description</title>
+  <title type="main" format="text/plain">IEEE Guide for CASE Tool Interconnections - Classification and Description</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1178882</uri>
+  <docidentifier type="IEEE">IEEE Std 1175.1-2002 (Revision of IEEE Std 1175.1-1991)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3484-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94231</docidentifier>
+  <docnumber>1175.1-2002</docnumber>
+  <date type="created">
+    <on>2003-02-09</on>
+  </date>
+  <date type="published">
+    <on>2020-01-27</on>
+  </date>
+  <date type="issued">
+    <on>2002-11-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Reaffirmed September 2007. This guide describes the scope of application and interrelationships for the members of the IEEE 1175 family of standards.It points the reader to the appropriate member standard that addresses issues involved in effectively integrating computing system tools into a productive engineering environment.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Computer aided software engineering</keyword>
+  <keyword>Software tools</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>CASE tool integration</keyword>
+  <keyword>CASE tool interconnections</keyword>
+  <keyword>CASE tool interfaces</keyword>
+  <keyword>CASE tool organization issues</keyword>
+  <keyword>CASE tool platform issues</keyword>
+</bibdata>

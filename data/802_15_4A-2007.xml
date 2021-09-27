@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 15.4: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low-Rate Wireless Personal Area Networks (WPANs): Amendment 1: Add Alternate PHYs</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 15.4: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low-Rate Wireless Personal Area Networks (WPANs): Amendment 1: Add Alternate PHYs</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4299496</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4a-2007 (Amendment to IEEE Std 802.15.4-2006)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5584-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.4299496</docidentifier>
+  <docnumber>802.15.4a-2007</docnumber>
+  <date type="updated">
+    <on>2008-03-17</on>
+  </date>
+  <date type="created">
+    <on>2007-08-31</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2007-03-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the protocol and compatible interconnection for data communication devices using low-data-rate, low-power and low-complexity, short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the protocol and compatible interconnection for data communication devices using low-data-rate, low-power and low-complexity, short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN).</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2003</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>IEEE 802.15 Standard</keyword>
+  <keyword>Ad hoc networks</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>mobility</keyword>
+  <keyword>PAN</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>short range</keyword>
+  <keyword>wireless</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

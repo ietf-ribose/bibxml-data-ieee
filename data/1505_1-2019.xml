@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505 - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8866825</uri>
+  <docidentifier type="IEEE">IEEE Std 1505.1-2019 (Revision of IEEE Std 1505.1-2008) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6199-3</docidentifier>
+  <docnumber>1505.1-2019</docnumber>
+  <date type="created">
+    <on>2019-08-20</on>
+  </date>
+  <date type="published">
+    <on>2019-10-11</on>
+  </date>
+  <date type="issued">
+    <on>2019-06-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An extension to the IEEE 1505TM receiver fixture interface (RFI) standard specification is provided in this standard. Particular emphasis is placed on defining within the IEEE 1505 RFI standard a more specific set of performance requirements that employ a common scalable: 1) pin map configuration; 2) specific connector modules; 3) respective contacts; 4) recommended switching implementation; and 5) legacy automatic test equipment (ATE) transitional devices. This is intentionally done to standardize the footprint and assure mechanical and electrical interoperability between past and future automatic test systems (ATS).</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Electronics equipment</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>automatic test systems (ATS)</keyword>
+  <keyword>fixture</keyword>
+  <keyword>IEEE 1505.1TM</keyword>
+  <keyword>interconnecting device (ICD)</keyword>
+  <keyword>interface</keyword>
+  <keyword>interface test adapter (ITA)</keyword>
+  <keyword>mass termination</keyword>
+  <keyword>receiver</keyword>
+  <keyword>scalable</keyword>
+  <keyword>test program set (TPS)</keyword>
+  <keyword>unit under test (UUT)</keyword>
+</bibdata>

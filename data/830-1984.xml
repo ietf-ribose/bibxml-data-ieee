@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Software Requirements Specifications</title>
+  <title type="main" format="text/plain">IEEE Guide for Software Requirements Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/278253</uri>
+  <docidentifier type="IEEE">IEEE Std 830-1984</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4418-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1984.119205</docidentifier>
+  <docnumber>830-1984</docnumber>
+  <date type="created">
+    <on>1984-02-10</on>
+  </date>
+  <date type="published">
+    <on>2015-01-12</on>
+  </date>
+  <date type="issued">
+    <on>1983-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The content and qualities of a good software requirements specification (SRS) are described and several sample SRS outlines are presented. This recommended practice is aimed at specifying requirements of software to be developed but also can be applied to assist in the selection of in-house and commercial software products.</abstract>
+  <copyright>
+    <from>1984</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 830-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Software engineering</keyword>
+  <keyword>System analysis and design</keyword>
+  <keyword>software</keyword>
+  <keyword>requirements</keyword>
+  <keyword>specifications</keyword>
+</bibdata>

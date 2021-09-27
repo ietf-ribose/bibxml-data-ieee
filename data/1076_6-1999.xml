@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for VHDL Register Transfer Level Synthesis</title>
+  <title type="main" format="text/plain">IEEE Standard for VHDL Register Transfer Level Synthesis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/836335</uri>
+  <docidentifier type="IEEE">IEEE Std 1076.6-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1820-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91308</docidentifier>
+  <docnumber>1076.6-1999</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2016-10-20</on>
+  </date>
+  <date type="issued">
+    <on>1999-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A standard syntax and semantics for VHDL register transfer level (RTL) synthesis is defined. The subset of IEEE 1076 (VHDL) that is suitable for RTL synthesis is defined, along with the semantics of that subset for the synthesis domain.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076.6-2004 (Revision of IEEE Std 1076.6-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Hardware design languages</keyword>
+  <keyword>pragma</keyword>
+  <keyword>register transfer level (RTL)</keyword>
+  <keyword>synthesis</keyword>
+  <keyword>VHDL</keyword>
+</bibdata>

@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Trial-Use Supplement to IEEE Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Software Reuse</title>
+  <title type="title-part" format="text/plain">Data Model for Reuse Library Interoperability: Intellectual Property Rights Framework</title>
+  <title type="main" format="text/plain">IEEE Trial-Use Supplement to IEEE Standard for Information Technology - Software Reuse - Data Model for Reuse Library Interoperability: Intellectual Property Rights Framework</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/798781</uri>
+  <docidentifier type="IEEE">IEEE Std 1420.1b-1999</docidentifier>
+  <docidentifier type="ISBN">0-7381-1765-X</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90562</docidentifier>
+  <docnumber>1420.1b-1999</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="issued">
+    <on>1999-06-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A description is given of the "IEEE Trial-Use Supplement to the IEEE Standard for Information Technology-Software Reuse-Data Model for Reuse Library Interoperability: Intellectual Property Rights Framework". This extension to the Basic Interoperability Data Model (IEEE Std 1420.1-1995) incorporates intellectual property rights issues into software asset descriptions for reuse library interoperability.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+</bibdata>

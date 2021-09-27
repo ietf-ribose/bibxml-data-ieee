@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks</title>
+  <title type="title-main" format="text/plain">Media Access Control (MAC) Service Definition</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks - Media Access Control (MAC) Service Definition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7264955</uri>
+  <docidentifier type="IEEE">IEEE P802.1AC-REV/D3.0, September 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9953-5</docidentifier>
+  <docnumber>P802.1AC-REV/D3.0, Sept 2015</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-09-14</on>
+  </date>
+  <date type="issued">
+    <on>2015</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the MAC Service and the Internal Sublayer Service (ISS). It specifies media-dependent convergence functions which map IEEE 802 MAC interfaces to the ISS. The MAC Service is derived from the ISS.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>IEEE 802</keyword>
+  <keyword>IEEE 802.1AC</keyword>
+  <keyword>Internal Sublayer Service</keyword>
+  <keyword>ISS</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>metropolitan area networks</keyword>
+</bibdata>

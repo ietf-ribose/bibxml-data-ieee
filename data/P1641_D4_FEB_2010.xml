@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Signal and Test Definition</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Signal and Test Definition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5434901</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1641/D4, Feb 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3069-2</docidentifier>
+  <docnumber>P1641/D4, Feb 2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides the means to define and describe signals used in testing. It also provides a set of common basic signals, built upon formal mathematical specifications so that signals can be combined to form complex signals usable across all test platforms.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Signal analysis</keyword>
+  <keyword>Testing</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATLAS</keyword>
+  <keyword>automatic test equipment</keyword>
+  <keyword>signal definitions</keyword>
+  <keyword>test definitions</keyword>
+  <keyword>test requirements</keyword>
+  <keyword>test signals</keyword>
+  <keyword>unit under test</keyword>
+  <keyword>UUT</keyword>
+</bibdata>

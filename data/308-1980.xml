@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26660</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 308-1980</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4187-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.79674</docidentifier>
+  <docnumber>308-1980</docnumber>
+  <date type="created">
+    <on>1980-10-17</on>
+  </date>
+  <date type="published">
+    <on>2019-04-15</on>
+  </date>
+  <date type="issued">
+    <on>1980-03-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 308-1991. Class 1E portions of AC and DC power systems and instrumentation and control power systems in single-unit and multiunit nuclear power generating stations are covered. Not included are the preferred power supply; unit generator(s) and their buses; generator breaker; step-up, auxiliary, and start-up transformers; connections to the station switchyard; switchyard; transmission lines; and the transmission network. The intent is to provide criteria for the determination of Class 1E power system design features, criteria for sharing Class 1E power systems in multiunit stations, and the requirements for their testing and surveillance.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 308-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>Standards</keyword>
+  <keyword>1E</keyword>
+  <keyword>AC</keyword>
+  <keyword>DC</keyword>
+  <keyword>control power system</keyword>
+  <keyword>nuclear power generating station</keyword>
+</bibdata>

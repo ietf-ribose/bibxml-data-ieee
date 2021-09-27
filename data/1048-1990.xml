@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Protective Grounding of Power Lines</title>
+  <title type="main" format="text/plain">IEEE Guide for Protective Grounding of Power Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/89799</uri>
+  <docidentifier type="IEEE">IEEE Std 1048-1990</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3908-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1990.94619</docidentifier>
+  <docnumber>1048-1990</docnumber>
+  <date type="created">
+    <on>1990</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1990-04-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 1048-2003. IEEE Guide for Protective Grounding of Power Lines, provides guidelines for safe protective grounding methods for persons engaged in de-energized overhead transmission and distribution line maintenance. This guide compiles state-of-the-art information on protective grounding practices employed by power utilities in North America</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1048-2003 (Revision of IEEE Std 1048-1990)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Grounding</keyword>
+  <keyword>Electric shock</keyword>
+  <keyword>Maintenance</keyword>
+  <keyword>Personnel</keyword>
+  <keyword>Protection</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Transmission lines</keyword>
+  <keyword>Protective grounding</keyword>
+  <keyword>Power lines</keyword>
+  <keyword>Grounding practices</keyword>
+  <keyword>Distribution lines</keyword>
+</bibdata>

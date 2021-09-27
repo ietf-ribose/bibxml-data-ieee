@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks Part 21.1: Media Independent Services</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks Part 21.1: Media Independent Services</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7552398</uri>
+  <docidentifier type="IEEE">IEEE P802.21.1.1/D04, July 2016</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8238-4</docidentifier>
+  <docnumber>P802.21.1.1/D04, July 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-08-25</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines several use cases and services, namely, handover between heterogeneous networks, home energy management system, software-defined radio access networks, radio resource management and device-to-device communication service that need to be implemented in conjunction with the media independent services framework as specified in IEEE P802.21(TM)/D04-July2016</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Mobile communication</keyword>
+  <keyword>Point-of-service</keyword>
+  <keyword>Energy management</keyword>
+  <keyword>Software defined radio</keyword>
+  <keyword>Home automation</keyword>
+  <keyword>Resource management</keyword>
+  <keyword>IEEE 802.21(TM)</keyword>
+  <keyword>IEEE 802.21.1(TM)</keyword>
+  <keyword>media independent service</keyword>
+  <keyword>use case</keyword>
+  <keyword>media independent handover</keyword>
+  <keyword>software-defined radio access network</keyword>
+  <keyword>home energy management system</keyword>
+  <keyword>radio resource management</keyword>
+  <keyword>network-assisted device-to-device communication</keyword>
+  <keyword>mobile node</keyword>
+  <keyword>mobility</keyword>
+  <keyword>seamless</keyword>
+  <keyword>point of attachment</keyword>
+  <keyword>point of services</keyword>
+</bibdata>

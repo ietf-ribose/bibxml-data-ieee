@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Designing Multistress Aging Tests of Electrical Insulation in a Radiation Environment</title>
+  <title type="main" format="text/plain">IEEE Guide for Designing Multistress Aging Tests of Electrical Insulation in a Radiation Environment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/278300</uri>
+  <docidentifier type="IEEE">IEEE Std 775-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2387-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.119220</docidentifier>
+  <docnumber>775-1993</docnumber>
+  <date type="created">
+    <on>1993-10-11</on>
+  </date>
+  <date type="published">
+    <on>2015-10-29</on>
+  </date>
+  <date type="issued">
+    <on>1993-06-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidelines for evaluating electrical insulation materials that are subjected to more than one significant aging stress are provided. The focus is on materials or equipment intended for use in nuclear facilities, such as power stations, where thermal, moisture, and radiation stresses frequently are of importance. Factors to consider in accelerated aging programs are identified. Only the design of tests is addressed. Specific procedures are not prescribed.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>electrical insulation</keyword>
+  <keyword>multistress aging</keyword>
+  <keyword>single stress aging</keyword>
+</bibdata>

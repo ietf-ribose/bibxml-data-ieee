@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard for Performance Criteria for Spectroscopy-Based Portal Monitors Used for Homeland Security</title>
+  <title type="main" format="text/plain">American National Standard for Performance Criteria for Spectroscopy-Based Portal Monitors Used for Homeland Security</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8635624</uri>
+  <docidentifier type="IEEE">ANSI N42.38a-2018 (Amendment to ANSI N42.38-2015)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5482-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2019.8635624</docidentifier>
+  <docnumber>N42.38a-2018</docnumber>
+  <date type="updated">
+    <on>2020-05-22</on>
+  </date>
+  <date type="created">
+    <on>2019-02-01</on>
+  </date>
+  <date type="published">
+    <on>2019-02-05</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Amendment 1 addresses an observation made by a user of the standard. The observation raised a concern that misunderstandings may occur due to the common use of &amp;amp;#x201C;tn&amp;amp;#x201D; for otherre calculations. To address the concern, &amp;amp;#x201C;tn&amp;amp;#x201D; was changed to &amp;amp;#x201C;p&amp;amp;#x201D;. The value for the number of trials used in the standard remains the same.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Amendment 1 addresses an observation made by a user of the standard. The observation raised a concern that misunderstandings may occur due to the common use of “tn” for otherre calculations. To address the concern, “tn” was changed to “p”. The value for the number of trials used in the standard remains the same.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI N42.38-2015 (Revision of ANSI N42.38-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Radiation monitoring</keyword>
+  <keyword>Radiation detectors</keyword>
+  <keyword>Spectroscopy</keyword>
+  <keyword>ANSI N42.38</keyword>
+  <keyword>portal monitor</keyword>
+  <keyword>spectrometric</keyword>
+  <keyword>spectroscopy</keyword>
+</bibdata>

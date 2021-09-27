@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Master Test Guide for Electrical Measurements in Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Master Test Guide for Electrical Measurements in Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/89666</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 120-1989</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1023-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.94589</docidentifier>
+  <docnumber>120-1989</docnumber>
+  <date type="created">
+    <on>1989-11-10</on>
+  </date>
+  <date type="published">
+    <on>2014-04-01</on>
+  </date>
+  <date type="issued">
+    <on>1989-05-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Instructions are given for measuring electrical quantities that are commonly needed to determine the performance characteristics of electric machinery and equipment. Methods are given for measuring voltage, current, power, energy, power factor, frequency, impedance, and magnetic quantities, with either analog or digital indicating or integrating instruments, in DC or AC rotating machines, transformers, induction apparatus, arc and resistance heating equipment, mercury arc, theremionic, or solid-state rectifiers and inverters. Ancillary instruments and equipment are discussed. Computer-based techniques and the use of optical fibers in instrumentation are considered.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Power measurement</keyword>
+  <keyword>Test equipment</keyword>
+  <keyword>measurements</keyword>
+  <keyword>power circuits</keyword>
+  <keyword>master test guide</keyword>
+  <keyword>electrical</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Rotating-machine testing</keyword>
+  <keyword>Reactive power</keyword>
+  <keyword>Power transformer testing</keyword>
+  <keyword>Power system measurements</keyword>
+  <keyword>Power measurement</keyword>
+  <keyword>Magnetic measurements</keyword>
+  <keyword>Impedance measurement</keyword>
+  <keyword>Frequency measurement</keyword>
+  <keyword>Energy measurement</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>Current measurement</keyword>
+  <keyword>AC machines</keyword>
+</bibdata>

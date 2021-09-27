@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Boundary-Scan Testing of Advanced Digital Networks</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Boundary-Scan Testing of Advanced Digital Networks - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7484241</uri>
+  <docidentifier type="IEEE">IEEE Std 1149.6-2015 (Revision of IEEE Std 1149.6-2003) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2079-2</docidentifier>
+  <docnumber>1149.6-2015</docnumber>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-06-02</on>
+  </date>
+  <date type="issued">
+    <on>2015-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 1149.1(TM) is augmented by this standard to improve the ability for testing differential and/or ac-coupled interconnections between integrated circuits on circuit boards and systems.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1149.6-2003</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>AC motors</keyword>
+  <keyword>Boundary conditions</keyword>
+  <keyword>Differential signaling</keyword>
+  <keyword>Integrated circuits</keyword>
+  <keyword>Circuit synthesis</keyword>
+  <keyword>Printed circuit boards</keyword>
+  <keyword>ac-coupled signaling</keyword>
+  <keyword>boundary scan</keyword>
+  <keyword>circuit boards</keyword>
+  <keyword>differential signaling</keyword>
+  <keyword>IEEE 1149.6(TM)</keyword>
+  <keyword>integrated circuits</keyword>
+  <keyword>interconnect test</keyword>
+  <keyword>printed circuit boards</keyword>
+  <keyword>test</keyword>
+</bibdata>

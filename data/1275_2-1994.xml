@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Boot (Initialization Configuration) Firmware: Bus Supplement for IEEE 1496 (SBus)</title>
+  <title type="main" format="text/plain">IEEE Standard for Boot (Initialization Configuration) Firmware: Bus Supplement for IEEE 1496 (SBus)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/467434</uri>
+  <docidentifier type="IEEE">IEEE Std 1275.2-1994</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1205-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.122168</docidentifier>
+  <docnumber>1275.2-1994</docnumber>
+  <date type="created">
+    <on>1994-11-18</on>
+  </date>
+  <date type="published">
+    <on>2019-04-24</on>
+  </date>
+  <date type="issued">
+    <on>1994-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Firmware is the read-only-memory (ROM)-based software that controls a computer between the time it is turned on and the time the primary operating system takes control of the machine. Firmware's responsibilites include testing and initializing the hardware, determining the hardware configuration, loading (or booting) the operating system, and providing interactive debugging facilities in case of faulty hardware or software. The core requirements and practices specified by IEEE Std 1275-1994 must be supplemented by system-specific requirements to form a complete specification for the firmware for a particular system. This standard establishes such additional requirements pertaining to the bus architecture defined by IEEE Std 1496-1993, IEEE Standard for a Chip and Module Interconnect Bus: SBus.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Data buses</keyword>
+  <keyword>boot</keyword>
+  <keyword>configuration</keyword>
+  <keyword>debug</keyword>
+  <keyword>FCode</keyword>
+  <keyword>firmware</keyword>
+  <keyword>Forth</keyword>
+  <keyword>initialization</keyword>
+  <keyword>plug-in device</keyword>
+  <keyword>ROM</keyword>
+</bibdata>

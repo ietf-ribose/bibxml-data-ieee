@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and Software Engineering</title>
+  <title type="title-part" format="text/plain">Systems of Systems Considerations in Engineering of Systems</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering - Systems of Systems Considerations in Engineering of Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8466082</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P21839_DIS, July 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5168-0</docidentifier>
+  <docnumber>P21839_DIS, July 2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-09-14</on>
+  </date>
+  <date type="issued">
+    <on>2019-06-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides a set of critical considerations to be addressed at key points in the life cycle of systems created by humans. This document refers to a constituent system that will interact in a system of systems as the system of interest (SOI). These considerations are aligned with ISO/IEC/IEEE 15288 and the ISO/IEC/IEEE 24748 framework for system life cycle stages and associated terminology. Selected subsets of these considerations may be applied throughout the life of systems. This is accomplished through the involvement of all stakeholders with the ultimate goal of achieving customer satisfaction by ensuring that when delivered, the system will operate effectively in the operational or business environment which will typically be characterized as one or more systems of systems. This document concerns those systems that are man-made and are configured with one or more of the following: hardware, software, humans, procedures and facilities.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>System of systems</keyword>
+</bibdata>

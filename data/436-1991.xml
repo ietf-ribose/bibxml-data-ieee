@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Making Corona (Partial Discharge) Measurements on Electronics Transformers</title>
+  <title type="main" format="text/plain">IEEE Guide for Making Corona (Partial Discharge) Measurements on Electronics Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159117</uri>
+  <docidentifier type="IEEE">IEEE Std 436-1991</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-126-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.101028</docidentifier>
+  <docnumber>436-1991</docnumber>
+  <date type="created">
+    <on>1991-05-07</on>
+  </date>
+  <date type="published">
+    <on>2020-02-12</on>
+  </date>
+  <date type="issued">
+    <on>1991-02-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A uniform procedure for making corona (partial discharge) measurements by electrical means on electronic transformers is presented. Methods of applying voltage stress, the use of a sine-wave voltage to simulated dc and ac combinations, the types and limitations of voltage stresses encountered, and the acceptable limits of discharge pulse energy are included. Recommended test conditions and the need for negotiation of special tests are discussed. Test apparatus and calibration are described. The aim is to establish a common ground of understanding between transformer and systems design engineers and transformer manufacturers in the development of service and performance requirements.</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Charge measurement</keyword>
+  <keyword>Electric breakdown</keyword>
+  <keyword>Partial discharges</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>corona</keyword>
+  <keyword>partial discharge</keyword>
+  <keyword>insulation breakdown</keyword>
+  <keyword>Transformer insulation</keyword>
+</bibdata>

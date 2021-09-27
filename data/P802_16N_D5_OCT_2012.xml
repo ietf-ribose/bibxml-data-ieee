@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment: Higher Reliability Networks</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment: Higher Reliability Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6341012</uri>
+  <docidentifier type="IEEE">IEEE P802.16n/D6, October 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7545-4</docidentifier>
+  <docnumber>P802.16n/D5, Oct 2012</docnumber>
+  <date type="created">
+    <on>2012-10-26</on>
+  </date>
+  <date type="published">
+    <on>2012-10-26</on>
+  </date>
+  <date type="issued">
+    <on>2012-10-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Amendment to IEEE 802.16. This amendment specifies protocol enhancements to the medium access control layer (MAC) for enabling increased robustness and alternate radio path establishment in degraded network conditions. Limited orthogonal frequency-division multiple access physical layer (OFDMA PHY) extensions are included for enabling operation with radio path redundancy and direct communication between subscriber stations. Also mobile base stations and mobile relay stations are supported.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16-2009 (Revision of IEEE Std 802.16-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Broadband</keyword>
+  <keyword>Air interfaces</keyword>
+  <keyword>Wireless networks</keyword>
+</bibdata>

@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Measurement Procedure for Field-Disturbance Sensors (rf Intrusion Alarms)</title>
+  <title type="main" format="text/plain">IEEE Standard Measurement Procedure for Field-Disturbance Sensors (rf Intrusion Alarms)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/578029</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 475-1983</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2586-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1983.81972</docidentifier>
+  <docnumber>475-1983</docnumber>
+  <date type="created">
+    <on>1983-02-18</on>
+  </date>
+  <date type="published">
+    <on>2018-12-12</on>
+  </date>
+  <date type="issued">
+    <on>1981-05-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>1983</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 475-2000</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Frequency measurement</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>Microwave measurement</keyword>
+  <keyword>field</keyword>
+  <keyword>disturbance</keyword>
+  <keyword>sensors</keyword>
+  <keyword>intrusion</keyword>
+  <keyword>alarm</keyword>
+  <keyword>Site security monitoring</keyword>
+</bibdata>

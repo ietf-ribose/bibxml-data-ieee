@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Behavioural languages</title>
+  <title type="title-part" format="text/plain">Part 6: VHDL Analog and Mixed-Signal Extensions</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - Behavioural languages - Part 6: VHDL Analog and Mixed-Signal Extensions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6489996</uri>
+  <docidentifier type="IEEE">IEEE Std 61691-6</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7827-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.6489996</docidentifier>
+  <docnumber>61691-6-2009</docnumber>
+  <date type="created">
+    <on>2009-12-14</on>
+  </date>
+  <date type="published">
+    <on>2013-03-28</on>
+  </date>
+  <date type="issued">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the IEEE 1076.1 language, a hardware description language for the description and the simulation of analog, digital, and mixed-signal systems. The language, also informally known as VHDL-AMS, is built on IEEE Std 1076(TM)-2002 (VHDL) and extends it with additions and changes to provide capabilities of writing and simulating analog and mixed-signal models.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076.1-2007 (Revision of IEEE Std 1076.1-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>Analog computers</keyword>
+  <keyword>Computer languages</keyword>
+  <keyword>Hardware design languages</keyword>
+  <keyword>Design methodology</keyword>
+  <keyword>61691-6:2009</keyword>
+  <keyword>1076.1-2007</keyword>
+  <keyword>analog design</keyword>
+  <keyword>computer</keyword>
+  <keyword>computer languages</keyword>
+  <keyword>hardware design</keyword>
+  <keyword>mixed-signal design</keyword>
+  <keyword>VHDL</keyword>
+</bibdata>

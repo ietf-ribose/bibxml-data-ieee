@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Binary Floating-Point Arithmetic</title>
+  <title type="main" format="text/plain">IEEE Standard for Binary Floating-Point Arithmetic</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30711</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 754-1985</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1165-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.82928</docidentifier>
+  <docnumber>754-1985</docnumber>
+  <date type="created">
+    <on>1985-10-12</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1985-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A family of commercially feasible ways for new systems to perform binary floating-point arithmetic is defined. This standard specifies basic and extended floating-point number formats; add, subtract, multiply, divide, square root, remainder, and compare operations; conversions between integer and floating-point formats; conversions between different floating-point formats; conversions between basic-format floating-point numbers and decimal strings; and floating-point exceptions and their handling, including nonnumbers.</abstract>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 754-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Digital arithmetic</keyword>
+  <keyword>Standards</keyword>
+  <keyword>binary</keyword>
+  <keyword>Floating-point arithmetic</keyword>
+</bibdata>

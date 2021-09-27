@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks Amendment: Provider Backbone Bridge Traffic Engineering (PBB-TE) Infrastructure Segment Protection</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks Amendment: Provider Backbone Bridge Traffic Engineering (PBB-TE) Infrastructure Segment Protection</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5771515</uri>
+  <docidentifier type="IEEE">IEEE P802.1Qbf/D1.3, February 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6776-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5771515</docidentifier>
+  <docnumber>P802.1Qbf/D1.3, Feb 2011</docnumber>
+  <date type="created">
+    <on>2011-05-27</on>
+  </date>
+  <date type="issued">
+    <on>2011-05-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines profiles that select features, options, configurations, defaults, protocols and procedures of bridges, stations and LANs that are necessary to build networks that are capable of transporting time sensitive audio and/or video data streams.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area  networks</keyword>
+  <keyword>Metropolitan area  networks</keyword>
+  <keyword>Bridged circuits</keyword>
+  <keyword>Virtural environment</keyword>
+  <keyword>Telecommunication traffic</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>local area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+  <keyword>time sensitive data streams</keyword>
+  <keyword>audio video bridging</keyword>
+  <keyword>AVB.</keyword>
+</bibdata>

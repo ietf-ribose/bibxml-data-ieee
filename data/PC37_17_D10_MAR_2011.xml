@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Trip Systems for Low-Voltage (1000 V and below) AC and General Purpose (1500 V and below) DC Power Circuit Breakers</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Trip Systems for Low-Voltage (1000 V and below) AC and General Purpose (1500 V and below) DC Power Circuit Breakers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6016192</uri>
+  <docidentifier type="IEEE">IEEE PC37.17/D10, March 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6926-2</docidentifier>
+  <docnumber>PC37.17/D10, Mar 2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-09-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard pertains to the requirements for current and voltage protective functions of:1) direct-acting overcurrent electromechanical trip devices2) direct-acting overcurrent electronic trip systems3) reverse-current trip systems4) undervoltage trip devicesthat are integral with low-voltage ac (635V and below) and general purpose low-voltage dc (600V and below) power circuit breakers covered by IEEE Std C37.13(TM), IEEE Std C37.14(TM), and IEEE Std C37.16(TM).Additional information, communication and/or additional internal or external protective functions or devices are not covered by this standard. This standard should not be interpreted to restrict theinclusion of such functionality in the device.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>AC motors</keyword>
+  <keyword>DC motors</keyword>
+  <keyword>Low voltage</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Ground support</keyword>
+  <keyword>Fault diagnosis</keyword>
+  <keyword>Low-voltage power circuit breaker</keyword>
+  <keyword>trip unit</keyword>
+  <keyword>direct-acting trip</keyword>
+  <keyword>time-overcurrent</keyword>
+  <keyword>power system protection</keyword>
+  <keyword>i-squared-t</keyword>
+  <keyword>long-time</keyword>
+  <keyword>short-time</keyword>
+  <keyword>instantaneous</keyword>
+  <keyword>ground fault</keyword>
+</bibdata>

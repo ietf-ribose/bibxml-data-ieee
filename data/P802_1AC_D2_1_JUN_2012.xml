@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Media Access Control (MAC) Service Definition</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Media Access Control (MAC) Service Definition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6293823</uri>
+  <docidentifier type="IEEE">IEEE P802.1AC/D2.1, June 2012 (Approved Draft)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7554-6</docidentifier>
+  <docnumber>P802.1AC/D2.1, Jun 2012</docnumber>
+  <date type="created">
+    <on>2012-08-31</on>
+  </date>
+  <date type="published">
+    <on>2012-08-31</on>
+  </date>
+  <date type="issued">
+    <on>2012-08-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the MAC service provided by all IEEE 802 MACs along with the Internal Sublayer Service (ISS) that is provided by IEEE 802 MACs to the relay function of a Media Access Control (MAC) Bridge.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>MAC service</keyword>
+  <keyword>Internal Sublayer Service</keyword>
+  <keyword>ISS</keyword>
+</bibdata>

@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for In-System Configuration of Programmable Devices</title>
+  <title type="main" format="text/plain">IEEE Standard for In-System Configuration of Programmable Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1176958</uri>
+  <docidentifier type="IEEE">IEEE Std 1532-2002 (Revision of IEEE Std 1532-2001)</docidentifier>
+  <docidentifier type="ISBN">0-7381-3507-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94229</docidentifier>
+  <docnumber>1532-2002</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="issued">
+    <on>2002-12-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The communication protocol described by IEEE Std 1149.1-2001 (Standard Test Access Port and Boundary-Scan Architecture) has been adopted by this standard for providing standardized programming access and methodology for programmable integrated circuit devices. Devices that implement this standard will first be compliant with IEEE Std 1149.1-2001, which is used for testing purposes. A device, or set of devices, implementing this standard can be programmed (written), read back, erased, and verified, singly or concurrently, with a standardized set of resources. Sample implementation and application details (which are not part of this standard) are included for illustrative purposes.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

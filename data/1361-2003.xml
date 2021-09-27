@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Selection, Charging, Test and Evaluation of Lead-Acid Batteries Used in Stand-Alone Photovoltaic (PV) Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Selection, Charging, Test and Evaluation of Lead-Acid Batteries Used in Stand-Alone Photovoltaic (PV) Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1263341</uri>
+  <docidentifier type="IEEE">IEEE Std 1361-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3581-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94417</docidentifier>
+  <docnumber>1361-2003</docnumber>
+  <date type="created">
+    <on>2003-12-19</on>
+  </date>
+  <date type="published">
+    <on>2014-06-12</on>
+  </date>
+  <date type="issued">
+    <on>2003-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is applicable to all stand-alone photovoltaic (PV) systems where PV is the only charging source. Stand-alone photovoltaic (PV) system parameters and operating conditions are discussed in relation to battery characteristics and expected system performance. Charging parameters for PV systems are suggested to help in the selection of a battery for a specific application. Finally, a performance test to verify the battery selection and system parameters is provided, including discussions on how to interpret test results. Test results only provide information on initial battery performance. No cycle-life predictions are made.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Photovoltaic systems</keyword>
+  <keyword>Lead acid batteries</keyword>
+  <keyword>Lead</keyword>
+  <keyword>lead-acid battery test procedure</keyword>
+  <keyword>lead-acid battery tutorial</keyword>
+  <keyword>photovoltaic (PV) battery characteristics</keyword>
+  <keyword>PV battery selection</keyword>
+  <keyword>PV systems</keyword>
+  <keyword>PV battery test procedure</keyword>
+</bibdata>

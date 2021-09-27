@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for computation of energy efficiency upper bound for apparatus processing communication signal waveforms</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for computation of energy efficiency upper bound for apparatus processing communication signal waveforms</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9184348</uri>
+  <docidentifier type="IEEE">IEEE P1923.1/D13, August 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6967-8</docidentifier>
+  <docnumber>P1923.1/D13, Aug 2020</docnumber>
+  <date type="created">
+    <on>2020-08-28</on>
+  </date>
+  <date type="published">
+    <on>2020-09-01</on>
+  </date>
+  <date type="issued">
+    <on>2021-02-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A method for computation of an energy efficiency upper bound for an apparatus (wireless or wired) processing a particular communication signal waveform is specified in this standard. This method utilizes the signal envelope probability density function in combination with apparatus’ power dissipation characteristics to calculate the energy efficiency upper bound. The purpose of this standard is to provide a consistent tool to other Working Groups and other practitioners who need to evaluate any communication signal waveforms potential for energy efficiency when implemented in hardware.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Signal processing</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Computational efficiency</keyword>
+  <keyword>Power dissipation</keyword>
+  <keyword>Upper bounds</keyword>
+  <keyword>Energy efficiency</keyword>
+  <keyword>energy efficiency</keyword>
+  <keyword>IEEE 1923.1</keyword>
+  <keyword>modulation</keyword>
+  <keyword>power amplifier</keyword>
+  <keyword>signal waveforms</keyword>
+</bibdata>

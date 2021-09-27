@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment: Provider Backbone Bridge Traffic Engineering</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment: Provider Backbone Bridge Traffic Engineering</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4811164</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P802.1Qay/D5.1, Mar 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3325-9</docidentifier>
+  <docnumber>P802.1Qay/D5.1, Mar 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">(DRAFT Amendment to IEEE Std 802.1Q-2005). This amendment supports provisioning systems that explicitly select traffic engineered paths within Provider Backbone Bridged Networks.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>virtual LANs</keyword>
+  <keyword>Virtual Bridged Local Area Networks</keyword>
+  <keyword>Provider Bridged Local Area Networks</keyword>
+  <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+  <keyword>Multiple Registration Protocol (MRP)</keyword>
+  <keyword>Multiple VLAN Registration Protocol (MVRP)</keyword>
+  <keyword>Provider Backbone Bridge</keyword>
+  <keyword>Connectivity Fault Management.</keyword>
+</bibdata>

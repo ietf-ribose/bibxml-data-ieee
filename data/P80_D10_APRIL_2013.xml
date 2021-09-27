@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Guide for Safety in AC Substation Grounding</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Guide for Safety in AC Substation Grounding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6894106</uri>
+  <docidentifier type="IEEE">IEEE P80/D10, April 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8573-6</docidentifier>
+  <docnumber>P80/D10, April 2013</docnumber>
+  <date type="created">
+    <on>2015-05-15</on>
+  </date>
+  <date type="published">
+    <on>2014-09-08</on>
+  </date>
+  <date type="issued">
+    <on>2013-12-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is primarily concerned with outdoor AC substatons, either air-insulated or gas-insulated. Distribution, transmission and power plant substations are covered by this guide. The intent of the guide is to provide guidance and information pertinent to the basic design of a substation ground grid, safe limits of potential differences that can exist in a substation under fault conditions between points that can be contacted by a human body. This guide is primarily concerned with safe grounding practices for power frequencies in the 50-60 Hz range.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 80-2000</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>Electrical safety</keyword>
+  <keyword>Impedance</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>substation</keyword>
+  <keyword>ground grid design</keyword>
+  <keyword>substation safety</keyword>
+  <keyword>ground resistance</keyword>
+  <keyword>ground impedance</keyword>
+  <keyword>ground potential rise</keyword>
+  <keyword>touch voltage</keyword>
+  <keyword>step voltage</keyword>
+</bibdata>

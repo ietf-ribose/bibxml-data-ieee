@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Software Design Descriptions</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Software Design Descriptions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/565312</uri>
+  <docidentifier type="IEEE">IEEE Std 1016-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0402-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.122643</docidentifier>
+  <docnumber>1016-1987</docnumber>
+  <date type="created">
+    <on>1987</on>
+  </date>
+  <date type="published">
+    <on>2018-11-20</on>
+  </date>
+  <date type="issued">
+    <on>1987-03-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The necessary information content and recommended organization for a software design description are specified. A software design description is a representation of a software system that is used as a medium for communicating software design information. The recommendations, which may be applied to commercial, scientific, or military software that runs on any digital computer, are not limited to specific methodologies for design, configuration management, or quality assurance, or to any particular descriptive technique. Applicability is not restricted by the size, complexity, or criticality of the software.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1016-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Software design</keyword>
+  <keyword>Organizations</keyword>
+  <keyword>Jacobian matrices</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Lifting equipment</keyword>
+  <keyword>software</keyword>
+  <keyword>design</keyword>
+  <keyword>descriptions</keyword>
+  <keyword>Software development</keyword>
+</bibdata>

@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Information Technology</title>
+  <title type="title-main" format="text/plain">System Definition</title>
+  <title type="title-part" format="text/plain">Concept of Operations (ConOps) Document</title>
+  <title type="main" format="text/plain">IEEE Guide for Information Technology - System Definition - Concept of Operations (ConOps) Document</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/761853</uri>
+  <docidentifier type="IEEE">IEEE Std 1362-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1407-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.89424</docidentifier>
+  <docnumber>1362-1998</docnumber>
+  <date type="created">
+    <on>1998-12-22</on>
+  </date>
+  <date type="published">
+    <on>2013-02-21</on>
+  </date>
+  <date type="issued">
+    <on>1998-03-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Replaced by ISO/IEC/IEEE 29148:2011. The format and contents of a concept of operations (ConOps) document are described. AConOps is a user-oriented document that describes system characteristics for a proposed system from theusersO viewpoint. The ConOps document is used to communicate overall quantitative and qualitativesystem characteristics to the user, buyer, developer, and other organizational elements (for example,training, facilities, staffing, and maintenance). It is used to describe the user organization(s), mission(s), andorganizational objectives from an integrated systems point of view.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Documentation</keyword>
+  <keyword>buyer</keyword>
+  <keyword>characteristics</keyword>
+  <keyword>concept of operation</keyword>
+  <keyword>concepts of operations document</keyword>
+  <keyword>ConOps</keyword>
+  <keyword>developer</keyword>
+  <keyword>operational requirements</keyword>
+  <keyword>scenario</keyword>
+  <keyword>software-intensive system</keyword>
+  <keyword>software system</keyword>
+  <keyword>system</keyword>
+  <keyword>user</keyword>
+  <keyword>user requirements</keyword>
+  <keyword>viewpoint</keyword>
+</bibdata>

@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Radio Frequency Radiation Hazard Warning Symbol</title>
+  <title type="main" format="text/plain">American National Standard Radio Frequency Radiation Hazard Warning Symbol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/585093</uri>
+  <docidentifier type="IEEE">ANSI C95.2-1982</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4159-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1982.82139</docidentifier>
+  <docnumber>C95.2-1982</docnumber>
+  <date type="created">
+    <on>1982</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1982</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides preferred voltage ratings above 230 kV nominal for alternating current systems and equipment.</abstract>
+  <copyright>
+    <from>1982</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C95.2-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Hazards</keyword>
+  <keyword>Electromagnetic radiation</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>Microwave measurement</keyword>
+  <keyword>Symbols</keyword>
+  <keyword>Biological radiation effects</keyword>
+</bibdata>

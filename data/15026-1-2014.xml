@@ -1,0 +1,77 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Adoption of ISO/IEC 15026-1--Systems and Software Engineering--Systems and Software Assurance--Part 1: Concepts and Vocabulary</title>
+  <title type="main" format="text/plain">IEEE Standard Adoption of ISO/IEC 15026-1--Systems and Software Engineering--Systems and Software Assurance--Part 1: Concepts and Vocabulary</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6948215</uri>
+  <docidentifier type="IEEE">IEEE Std 15026-1-2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9350-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6948215</docidentifier>
+  <docnumber>15026-1-2014</docnumber>
+  <date type="updated">
+    <on>2014-11-21</on>
+  </date>
+  <date type="created">
+    <on>2014-11-04</on>
+  </date>
+  <date type="published">
+    <on>2014-11-05</on>
+  </date>
+  <date type="issued">
+    <on>2014-11-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Assurance-related terms are defined and an organized set of concepts and relationships to establish a basis for shared understanding across user communities for assurance are established in this adoption of ISO/IEC 15026-1. It provides information to users of the other parts of this International Standard including the combined use of multiple parts. The essential concept introduced by ISO/IEC 15026 is the statement of claims in an assurance caseand the support of those claims through argumentation and evidence. These claims are in the context of assurance for properties of systems and software within life cycle processes for the system or software product.Assurance for a service being operated and managed on an ongoing basis is not covered in this International Standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Assurance-related terms are defined and an organized set of concepts and relationships to establish a basis for shared understanding across user communities for assurance are established in this adoption of ISO/IEC 15026-1. It provides information to users of the other parts of this International Standard including the combined use of multiple parts. The essential concept introduced by ISO/IEC 15026 is the statement of claims in an assurance case and the support of those claims through argumentation and evidence. These claims are in the context of assurance for properties of systems and software within life cycle processes for the system or software product. Assurance for a service being operated and managed on an ongoing basis is not covered in this International Standard.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 15026-1:2019(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>ISO standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Software assurance</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>adoption</keyword>
+  <keyword>assurance</keyword>
+  <keyword>assurance case</keyword>
+  <keyword>claim</keyword>
+  <keyword>IEEE 15026-1(TM)</keyword>
+  <keyword>integrity level</keyword>
+  <keyword>life cycle processes</keyword>
+  <keyword>reliability</keyword>
+  <keyword>software assurance</keyword>
+  <keyword>software engineering</keyword>
+  <keyword>system assurance</keyword>
+  <keyword>systems engineering</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Media Access Control parameters, Physical Layers and management parameters for Energy-Efficient Ethernet</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Media Access Control parameters, Physical Layers and management parameters for Energy-Efficient Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5434868</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P802.3az/D2.3, Mar 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3379-2</docidentifier>
+  <docnumber>P802.3az/D2.3, Mar 2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">"This draft is an amendment of IEEE Std 802.3-2008 and includes a new clause, Clause 78, which provides an overview of changes required to enable energy efficient operation of several existing physical layers. Changes to the specifications of these physical layers are also included in this draft. Draft D2.3 is prepared by the IEEE 802.3az Energy Efficient Task Force as the third recirculation draft for working group ballot. This draft reflects changes made in response to the comment resolutions and motions from the task force Plenary meeting held the week of January 25, 2010 and expires 6 months after the date of publication or when the next version is published, whichever comes first."</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Information processing</keyword>
+  <keyword>802.3az</keyword>
+  <keyword>10BASE-T</keyword>
+  <keyword>100BASE-TX</keyword>
+  <keyword>1000BASE-T</keyword>
+  <keyword>10GBASE-T</keyword>
+  <keyword>1000BASE-KX</keyword>
+  <keyword>10GBASE-KX4</keyword>
+  <keyword>10GBASE-KR</keyword>
+  <keyword>Backplane Ethernet</keyword>
+  <keyword>Energy Efficient Ethernet (EEE)</keyword>
+  <keyword>Low Power Idle Mode (LPI)</keyword>
+  <keyword>TLV</keyword>
+  <keyword>LLDP</keyword>
+</bibdata>

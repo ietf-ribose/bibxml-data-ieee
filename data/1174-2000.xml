@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Serial Interface for Programmable Instrumentation</title>
+  <title type="main" format="text/plain">IEEE Standard Serial Interface for Programmable Instrumentation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/903083</uri>
+  <docidentifier type="IEEE">IEEE Std 1174-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1953-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.92336</docidentifier>
+  <docnumber>1174-2000</docnumber>
+  <date type="created">
+    <on>2001-02-14</on>
+  </date>
+  <date type="published">
+    <on>2020-05-08</on>
+  </date>
+  <date type="issued">
+    <on>2000-01-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A serial, full-duplex, asynchronous, 9-pin data terminal equipment (DTE) communications port for programmable instrumentation that follows ANSI/TIA/EIA-574-1990 and related standards is defined in this standard.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>controller</keyword>
+  <keyword>data communication equipment (DCE)</keyword>
+  <keyword>data terminal equipment (DTE)</keyword>
+  <keyword>device</keyword>
+  <keyword>IEEE 488.1</keyword>
+  <keyword>IEEE 488.2</keyword>
+  <keyword>interchange circuit</keyword>
+  <keyword>null modem cable</keyword>
+  <keyword>observation</keyword>
+  <keyword>permission</keyword>
+  <keyword>recommendation</keyword>
+  <keyword>rule</keyword>
+</bibdata>

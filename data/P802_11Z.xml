@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Telecommunications and information exchange between systems</title>
+  <title type="title-part" format="text/plain">Local and Metropolitan Area networks -- Specific requirements -- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications -- Amendment 7: Extensions to Direct Link Setup(DLS)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology - Telecommunications and information exchange between systems - Local and Metropolitan Area networks -- Specific requirements -- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications -- Amendment 7: Extensions to Direct Link Setup(DLS)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5562722</uri>
+  <docidentifier type="IEEE">IEEE P802.11z/D13.0, August 2010. (Admendment to IEEE Std 802.11-2007)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5972-0</docidentifier>
+  <docnumber>P802.11z</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment provides Direct Link Setup enhancements to the IEEE 802.11 MAC and PHY, extending direct link setup to be independent of the access point (AP), and adding power save capabilities. The direct link setup is made independent of the AP by tunneling the protocol messages inside data frames.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Power supplies</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Direct Link</keyword>
+  <keyword>Power Saving</keyword>
+</bibdata>

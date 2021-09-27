@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information Technology-- Local and Metropolitan Area Networks-- Specific Requirements-- Part 15.3: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for High Rate Wireless Personal Area Networks (WPAN) Amendment: High-Rate Close Proximity Point-to-Point Communications</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology-- Local and Metropolitan Area Networks-- Specific Requirements-- Part 15.3: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for High Rate Wireless Personal Area Networks (WPAN) Amendment: High-Rate Close Proximity Point-to-Point Communications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7727927</uri>
+  <docidentifier type="IEEE">IEEE P802.15.3e/D06, October 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3565-9</docidentifier>
+  <docnumber>P802.15.3e/D06, Oct 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-11-01</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment defines an alternative physical layer (PHY) and a modified medium accesscontrol (MAC) layer.Two PHY modes have been defined that enable data rates up to 100 Gb/s using the 60 GHz band. MIMOand aggregation methods have been defined to increase the maximum achievable communication speeds.Stack acknowledgment has been defined to improve the medium access control (MAC) efficiency whenused in a P2P (point-to-point) topology between two devices.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Millimeter wave communication</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Urban areas</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>60 GHz</keyword>
+  <keyword>P2P</keyword>
+  <keyword>close proximity</keyword>
+  <keyword>IEEE P802.15.3(TM)</keyword>
+  <keyword>fast setup</keyword>
+  <keyword>millimeter wave</keyword>
+  <keyword>wireless.</keyword>
+</bibdata>

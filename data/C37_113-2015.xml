@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Protective Relay Applications to Transmission Lines</title>
+  <title type="main" format="text/plain">IEEE Guide for Protective Relay Applications to Transmission Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7502047</uri>
+  <docidentifier type="IEEE">IEEE Std C37.113-2015 (Revision of IEEE Std C37.113-1999)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0654-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7502047</docidentifier>
+  <docnumber>C37.113-2015</docnumber>
+  <date type="updated">
+    <on>2016-07-22</on>
+  </date>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-06-30</on>
+  </date>
+  <date type="issued">
+    <on>2015-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information on the concepts of protection of ac transmission lines is presented in this guide. Applications of the concepts to accepted transmission line-protection schemes are also presented. Many important issues, such as coordination of settings, operating times, characteristics of relays, mutual coupling of lines, automatic reclosing, and use of communication channels, are examined. Special protection systems, protection of multi-terminal lines, and single-phase tripping and reclosing are also included. The impact of different electrical parameters and system performance considerations on the selection of relays and protection schemes is discussed. The purpose of this guide is to provide a reference for the selection of relay schemes and to assist less experienced protective relaying engineers in applying protection schemes to transmission lines.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Information on the concepts of protection of ac transmission lines is presented in this guide. Applications of the concepts to accepted transmission line-protection schemes are also presented. Many important issues, such as coordination of settings, operating times, characteristics of relays, mutual coupling of lines, automatic reclosing, and use of communication channels, are examined. Special protection systems, protection of multi-terminal lines, and single-phase tripping and reclosing are also included. The impact of different electrical parameters and system performance considerations on the selection of relays and protection schemes is discussed. The purpose of this guide is to provide a reference for the selection of relay schemes and to assist less experienced protective relaying engineers in applying protection schemes to transmission lines.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>AC transmission lines</keyword>
+  <keyword>Mutual coupling</keyword>
+  <keyword>Communication channels</keyword>
+  <keyword>Transmission line protection</keyword>
+  <keyword>distance protection</keyword>
+  <keyword>IEEE C37.113(TM)</keyword>
+  <keyword>pilot protection</keyword>
+  <keyword>protective relaying</keyword>
+  <keyword>relay application</keyword>
+  <keyword>relaying</keyword>
+  <keyword>transmission line protection</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)</title>
+  <title type="title-main" format="text/plain">Networking Services</title>
+  <title type="title-part" format="text/plain">Corrigendum 1: Miscellaneous corrections</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services - Corrigendum 1: Miscellaneous corrections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6162940</uri>
+  <docidentifier type="IEEE">IEEE P1609.3/D3, February 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7459-4</docidentifier>
+  <docnumber>P1609.3/D3, Feb 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum corrects three errors in IEEE Std 1609.3-2010 related to Gateway MAC Address, EDCA Parameter Set, and 3DLocationAndConfidence fields.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Transportation</keyword>
+  <keyword>Vehicles</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>Gateway MAC Address</keyword>
+  <keyword>EDCA</keyword>
+  <keyword>3D location</keyword>
+  <keyword>WAVE Routing Advertisement</keyword>
+  <keyword>WAVEService Advertisement</keyword>
+</bibdata>

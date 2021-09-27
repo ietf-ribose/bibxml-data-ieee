@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering -- Developing user documentation in an agile environment</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Systems and software engineering -- Developing user documentation in an agile environment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6170923</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 26515 First edition 2011-12-01; Corrected version 2012-03-15</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7151-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6170923</docidentifier>
+  <docnumber>26515-2012</docnumber>
+  <date type="updated">
+    <on>2012-04-06</on>
+  </date>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2012-02-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 26515:2012 specifies the way in which user documentation can be developed in agile development projects. It is intended for use in all organizations that are using agile development, or are considering implementing their projects using these techniques. It applies to people or organizations producing suites of documentation, to those undertaking a single documentation project, and to documentation produced internally, as well as to documentation contracted to outside service organizations. ISO/IEC/IEEE 26515:2012 addresses the relationship between the user documentation process and the life cycle documentation process in agile development. It describes how the information developer or project manager may plan and manage the user documentation development in an agile environment. It is intended neither to encourage nor to discourage the use of any particular agile development tools or methods.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 26515:2012 specifies the way in which user documentation can be developed in agile development projects. It is intended for use in all organizations that are using agile development, or are considering implementing their projects using these techniques. It applies to people or organizations producing suites of documentation, to those undertaking a single documentation project, and to documentation produced internally, as well as to documentation contracted to outside service organizations. ISO/IEC/IEEE 26515:2012 addresses the relationship between the user documentation process and the life cycle documentation process in agile development. It describes how the information developer or project manager may plan and manage the user documentation development in an agile environment. It is intended neither to encourage nor to discourage the use of any particular agile development tools or methods.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 26515:2018(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Software systems</keyword>
+  <keyword>Agile manufacturing</keyword>
+  <keyword>Documentation</keyword>
+  <keyword>agile development</keyword>
+  <keyword>incremental development</keyword>
+  <keyword>software user documentation</keyword>
+</bibdata>

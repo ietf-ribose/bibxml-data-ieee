@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE Draft International Standard Software and Systems Engineering -- Software Testing -- Part 5: Keyword-Driven Testing</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft International Standard Software and Systems Engineering -- Software Testing -- Part 5: Keyword-Driven Testing</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6807629</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P29119-5-CD1 April 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8055-7</docidentifier>
+  <docnumber>P29119-5-CD1 April 2014</docnumber>
+  <date type="created">
+    <on>2014-08-21</on>
+  </date>
+  <date type="published">
+    <on>2014-04-29</on>
+  </date>
+  <date type="issued">
+    <on>2014-08-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The requirements in ISO/IEC/IEEE 29119-5 are contained in clauses 7 to 8 and in Annex A. This standard provides requirements for the application of Keyword-Driven Testing and on frameworks supporting the application of Keyword-Driven Testing. It is recognized that particular projects or organizations may not need to use all of the practices defined by this standard. Therefore, implementation of this standard typically involves selecting a set of practices or information attributes suitable for the organization or project. There are two ways that an organization can claim to conform to the provisions of this standard.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>ISO standards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>ISO</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>IEC</keyword>
+</bibdata>

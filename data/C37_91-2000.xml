@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Protective Relay Applications to Power Transformers</title>
+  <title type="main" format="text/plain">IEEE Guide for Protective Relay Applications to Power Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/875997</uri>
+  <docidentifier type="IEEE">IEEE Std C37.91-2000 (Revision of IEEE Std C37.91-1985)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1977-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91943</docidentifier>
+  <docnumber>C37.91-2000</docnumber>
+  <date type="created">
+    <on>2000-10-09</on>
+  </date>
+  <date type="published">
+    <on>2015-02-11</on>
+  </date>
+  <date type="issued">
+    <on>2000-03-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The protection of power transformers is covered;various electrical protection schemes are explored;and guidelines are given for the application of these schemes to transformers. Alternative detection methods including mechanical,thermal,and gas analysis are discussed.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.91-1985</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.91-2008 (Revision of IEEE Std C37.91-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Circuit faults</keyword>
+  <keyword>Patents</keyword>
+  <keyword>power</keyword>
+  <keyword>protection</keyword>
+  <keyword>relaying</keyword>
+  <keyword>transformer</keyword>
+</bibdata>

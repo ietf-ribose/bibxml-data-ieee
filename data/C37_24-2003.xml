@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Evaluating the Effect of Solar Radiation on Outdoor Metal-Enclosed Switchgear</title>
+  <title type="main" format="text/plain">IEEE Guide for Evaluating the Effect of Solar Radiation on Outdoor Metal-Enclosed Switchgear</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1270351</uri>
+  <docidentifier type="IEEE">IEEE Std C37.24-2003 (Revision of IEEE Std C37.24-1986)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3731-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94431</docidentifier>
+  <docnumber>C37.24-2003</docnumber>
+  <date type="created">
+    <on>2004-02-26</on>
+  </date>
+  <date type="published">
+    <on>2018-12-14</on>
+  </date>
+  <date type="issued">
+    <on>2003-06-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides information to assist in evaluating the effect of solar radiation on outdoor metal-enclosed switchgear including metal-enclosed bus and control switchboards. Specific data are given in the form of a continuous current capability factor for specific maximum monthly normal temperatures at the installation location, to adjust the continuous current capability of outdoor metal-enclosed switchgear to the solar radiation condition required. Tables of maximum monthly normal temperatures at various locations in the US and Canada are provided.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE C37.24-1986 (Revision of ANSI/IEEE C37.24-1971)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.24-2017 (Revision of IEEE Std C37.24-2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Solar radiation</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Temperature distribution</keyword>
+  <keyword>Ocean temperature</keyword>
+  <keyword>absorption coefficient</keyword>
+  <keyword>finish</keyword>
+  <keyword>guide</keyword>
+  <keyword>metal-enclosed switchgear</keyword>
+  <keyword>outdoor</keyword>
+  <keyword>solarconstant</keyword>
+  <keyword>solar radiation</keyword>
+  <keyword>temperature</keyword>
+</bibdata>

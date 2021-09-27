@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Rectangular Metallic Waveguides and Their Interfaces for Frequencies of 110 GHz and Above. Part 1: Frequency Bands and Waveguide Dimensions</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Rectangular Metallic Waveguides and Their Interfaces for Frequencies of 110 GHz and Above. Part 1: Frequency Bands and Waveguide Dimensions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6378380</uri>
+  <docidentifier type="IEEE">IEEE P1785.1/D3, July 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7458-7</docidentifier>
+  <docnumber>P1785.1/D3, July 2012</docnumber>
+  <date type="created">
+    <on>2012-12-12</on>
+  </date>
+  <date type="published">
+    <on>2012-12-11</on>
+  </date>
+  <date type="issued">
+    <on>2012-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard gives specifications for the waveguide (including aperture dimensions,frequency range, cut-off frequency, etc). This standard considers the tolerances of the waveguide aperture dimensions and the effect these have on the electrical properties (in terms of return loss, transmission loss, etc) of the waveguide.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Millimeter wave measurements</keyword>
+  <keyword>Submillimeter wave communication</keyword>
+  <keyword>Waveguide components</keyword>
+  <keyword>IEEE 1785.1</keyword>
+  <keyword>millimeter-wave</keyword>
+  <keyword>rectangular waveguides</keyword>
+  <keyword>submillimeter-wave</keyword>
+  <keyword>terahertz</keyword>
+  <keyword>waveguide apertures</keyword>
+  <keyword>waveguide tolerances</keyword>
+</bibdata>

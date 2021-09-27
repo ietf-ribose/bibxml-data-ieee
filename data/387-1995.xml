@@ -1,0 +1,83 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Criteria for Diesel-Generator Units Applied as Standby Power Supplies for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard Criteria for Diesel-Generator Units Applied as Standby Power Supplies for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499690</uri>
+  <docidentifier type="IEEE">IEEE Std 387-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0690-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80823</docidentifier>
+  <docnumber>387-1995</docnumber>
+  <date type="created">
+    <on>1996-02-07</on>
+  </date>
+  <date type="published">
+    <on>2018-02-07</on>
+  </date>
+  <date type="issued">
+    <on>1995-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The criteria for the application and testing of diesel-generator units as Class 1E standby power supplies in nuclear power generating stations is described.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 387-1984</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 387-2017 (Revision of IEEE Std 387-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 387-2017 (Revision of IEEE Std 387-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Diesel driven generators</keyword>
+  <keyword>Nuclear power generation auxiliary systems</keyword>
+  <keyword>Fission reactor protection/safety</keyword>
+  <keyword>Emergency/standby power systems</keyword>
+  <keyword>Rotating machine testing</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>aging classification</keyword>
+  <keyword>auxiliary equipment</keyword>
+  <keyword>capability</keyword>
+  <keyword>controls</keyword>
+  <keyword>design criteria</keyword>
+  <keyword>design features</keyword>
+  <keyword>load profile</keyword>
+  <keyword>modifications</keyword>
+  <keyword>operation</keyword>
+  <keyword>periodic testing</keyword>
+  <keyword>engine</keyword>
+  <keyword>generator</keyword>
+  <keyword>pre-operational test</keyword>
+  <keyword>production testing</keyword>
+  <keyword>protection</keyword>
+  <keyword>rating</keyword>
+  <keyword>records</keyword>
+  <keyword>reliability program</keyword>
+  <keyword>seismic qualification</keyword>
+  <keyword>site testing</keyword>
+  <keyword>test parameters</keyword>
+  <keyword>type testing</keyword>
+</bibdata>

@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard VITAL Application-Specific Integrated Circuit (ASIC) Modeling Specification</title>
+  <title type="main" format="text/plain">IEEE Standard VITAL Application-Specific Integrated Circuit (ASIC) Modeling Specification</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499105</uri>
+  <docidentifier type="IEEE">IEEE Std 1076.4-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3063-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80811</docidentifier>
+  <docnumber>1076.4-1995</docnumber>
+  <date type="created">
+    <on>1996-05-17</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1995-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 1076.4-2000. The VITAL (VHDL Initiative Towards ASIC Libraries) ASIC Modeling Specification is defined. It creates a methodology that promotes the development of highly accurate, efficient simulation models for ASIC (Application-Specific Integrated Circuit) components in VHDL.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076.4-2000</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Application specific integrated circuits</keyword>
+  <keyword>Hardware design languages</keyword>
+  <keyword>Integrated circuit modeling</keyword>
+  <keyword>Circuit simulation</keyword>
+  <keyword>Simulation software</keyword>
+  <keyword>ASIC</keyword>
+  <keyword>computer languages</keyword>
+  <keyword>constraints</keyword>
+  <keyword>delay calculation</keyword>
+  <keyword>HDL</keyword>
+  <keyword>modeling</keyword>
+  <keyword>SDF</keyword>
+  <keyword>timing</keyword>
+  <keyword>verilog</keyword>
+  <keyword>VHDL</keyword>
+</bibdata>

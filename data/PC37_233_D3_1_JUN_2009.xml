@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Power System Protection Testing</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Power System Protection Testing</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5154136</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std PC37.233/D3.1, Jun 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3454-6</docidentifier>
+  <docnumber>PC37.233/D3.1, Jun 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide presents test approaches and procedures for the components and the overall protection and control system functions. Test of equipment in the system protection scheme, associated communications equipment, auxiliary power supplies, and the control of power apparatus are addressed. Much of the testing emphasizes a bottom-up approach, in which the basic behavior of scheme components are verified first, followed by testing of interconnected components in a function-oriented assembly.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Design testing</keyword>
+  <keyword>application testing</keyword>
+  <keyword>commissioning testing</keyword>
+  <keyword>maintenance testing</keyword>
+  <keyword>performance assessment</keyword>
+</bibdata>

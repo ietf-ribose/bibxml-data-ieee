@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft American National Standard Guide for Electrostatic Discharge Test Methodologies and Acceptance Criteria for Electronic Equipment</title>
+  <title type="main" format="text/plain">Draft American National Standard Guide for Electrostatic Discharge Test Methodologies and Acceptance Criteria for Electronic Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7378265</uri>
+  <docidentifier type="IEEE">IEEE PC63.16/D4.0, November 2015</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0703-8</docidentifier>
+  <docnumber>PC63.16/D4.0, Nov 2015</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-01-11</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This ANSI ESD guide provides expanded explanations, best practices, and guidance for avoiding the pitfalls associated with ESD testing to IEC and other international ESD standards and should be considered a supplement to these standards, rather than a replacement. It also includes unique ESD test procedures related to connecting charged peripherals to equipment in use.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Discharges (electric)</keyword>
+  <keyword>Electrostatic processes</keyword>
+  <keyword>Electrostatic devices</keyword>
+  <keyword>air discharge</keyword>
+  <keyword>contact discharge</keyword>
+  <keyword>coupling plane</keyword>
+  <keyword>direct discharge</keyword>
+  <keyword>electrostatic discharge (ESD)</keyword>
+  <keyword>ESD event</keyword>
+  <keyword>ESD immunity</keyword>
+  <keyword>ESD simulator</keyword>
+  <keyword>ESD test criteria</keyword>
+  <keyword>indirect discharge</keyword>
+</bibdata>

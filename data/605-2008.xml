@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Bus Design in Air Insulated Substations</title>
+  <title type="main" format="text/plain">IEEE Guide for Bus Design in Air Insulated Substations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6581801</uri>
+  <docidentifier type="IEEE">IEEE Std 605-2008 (Revision of IEEE Std 605-1998 / Incorporates IEEE Std 605a-2010)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5857-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.6581801</docidentifier>
+  <docnumber>605-2008</docnumber>
+  <date type="updated">
+    <on>2013-10-04</on>
+  </date>
+  <date type="created">
+    <on>2010-05-14</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2008-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A proper design of the substation bus ensures a safe and reliable operation of the substation and the power system. Two different types of buses are used in substations, the rigid bus and the strain (cable). This guide provides information on the different bus arrangements used in substations stating the advantages and disadvantages of each. Also it provides information as related to each bus type and construction. Once the bus type is selected, this guide provides the calculation tools for each bus type. Based on these calculations, the engineer can specify the bus size, forces acting on the bus structure, number of mounting structures required, and hardware requirements.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A proper design of the substation bus ensures a safe and reliable operation of the substation and the power system. Two different types of buses are used in substations, the rigid bus and the strain (cable). This guide provides information on the different bus arrangements used in substations stating the advantages and disadvantages of each. Also it provides information as related to each bus type and construction. Once the bus type is selected, this guide provides the calculation tools for each bus type. Based on these calculations, the engineer can specify the bus size, forces acting on the bus structure, number of mounting structures required, and hardware requirements.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Finite element methods</keyword>
+  <keyword>Corona</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Short circuits</keyword>
+  <keyword>Ampacity</keyword>
+  <keyword>Ice</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>ampacity</keyword>
+  <keyword>bus support</keyword>
+  <keyword>corona</keyword>
+  <keyword>electromagnetic</keyword>
+  <keyword>finite-element</keyword>
+  <keyword>forces</keyword>
+  <keyword>ice</keyword>
+  <keyword>mounting structure</keyword>
+  <keyword>rigid bus structures</keyword>
+  <keyword>short circuit</keyword>
+  <keyword>strain-bus structures</keyword>
+  <keyword>substation design</keyword>
+  <keyword>wind</keyword>
+</bibdata>

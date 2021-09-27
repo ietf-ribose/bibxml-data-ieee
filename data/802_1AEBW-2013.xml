@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks&amp;amp;#8212;Media Access Control (MAC) Security Amendment 2: Extended Packet Numbering</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks&amp;amp;#8212;Media Access Control (MAC) Security Amendment 2: Extended Packet Numbering</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6461376</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AEbw-2013 (Amendment to IEEE Std 802.1AE-2006)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8148-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6461376</docidentifier>
+  <docnumber>802.1AEbw-2013</docnumber>
+  <date type="updated">
+    <on>2013-03-11</on>
+  </date>
+  <date type="created">
+    <on>2013-02-12</on>
+  </date>
+  <date type="published">
+    <on>2013-02-13</on>
+  </date>
+  <date type="issued">
+    <on>2013-02-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The optional use of Cipher Suites that make use of a 64-bit (PN) to allow more than 232 MACsec protected frames to be sent with a single Secure Association Key are specified by this amendment.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The optional use of Cipher Suites that make use of a 64-bit (PN) to allow more than 232 MACsec protected frames to be sent with a single Secure Association Key are specified by this amendment.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AE-2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>data origin authenticity</keyword>
+  <keyword>IEEE 802.1AE</keyword>
+  <keyword>IEEE 802.1AEbw</keyword>
+  <keyword>integrity</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>port based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>transparent bridging</keyword>
+</bibdata>

@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for the Transfer of Power Quality Data</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for the Transfer of Power Quality Data</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1263328</uri>
+  <docidentifier type="IEEE">IEEE Std 1159.3-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3579-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94416</docidentifier>
+  <docnumber>1159.3-2003</docnumber>
+  <date type="created">
+    <on>2004-01-12</on>
+  </date>
+  <date type="published">
+    <on>2019-04-23</on>
+  </date>
+  <date type="issued">
+    <on>2003-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice defines a file format suitable for exchanging power quality related measurement and simulation data in a vendor independent manner. The format is designed to represent all power quality phenomena identified in IEEE Std 1159 TM -1995, IEEE Recommended Practice on Monitoring Electric Power Quality, other power related measurement data, and is extensible to other data types as well. The recommended file format utilizes a highly compressed storage scheme to minimize disk space and transmission times. The utilization of globally unique identifiers (GUID) to represent each element in the file permits the format to be extensible without the need for a central registration authority.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power quality</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Power measurement</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Software</keyword>
+  <keyword>data interchange</keyword>
+  <keyword>file format</keyword>
+  <keyword>measurement</keyword>
+  <keyword>monitoring</keyword>
+  <keyword>power quality</keyword>
+  <keyword>power quality data interchange format (PQDIF)</keyword>
+</bibdata>

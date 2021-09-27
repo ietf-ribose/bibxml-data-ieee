@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard--Requirements for Power-Line Carrier Line Traps</title>
+  <title type="main" format="text/plain">American National Standard--Requirements for Power-Line Carrier Line Traps</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6497125</uri>
+  <docidentifier type="IEEE">ANSI C93.3-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4037-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6497125</docidentifier>
+  <docnumber>C93.3-1995</docnumber>
+  <date type="updated">
+    <on>2013-05-13</on>
+  </date>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-04-11</on>
+  </date>
+  <date type="issued">
+    <on>2004</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to a line trap inserted into a power circuit to minimize carrier-frequency signal losses. The standard covers line traps in which the main coil is designed as a single phase, air-cooled inductor of the dry type.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to a line trap inserted into a power circuit to minimize carrier-frequency signal losses. The standard covers line traps in which the main coil is designed as a single phase, air-cooled inductor of the dry type.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C93.3-2017</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C93.3-2017</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI standards</keyword>
+  <keyword>Power transmissionlines</keyword>
+  <keyword>Inductors</keyword>
+  <keyword>Coils</keyword>
+  <keyword>Loss measurement</keyword>
+  <keyword>Frequency modulation</keyword>
+</bibdata>

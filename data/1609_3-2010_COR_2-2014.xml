@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Wireless Access in Vehicular Environments (WAVE) -- Network Systems Corrigendum 2: Miscellaneous Corrections</title>
+  <title type="main" format="text/plain">IEEE Standard for Wireless Access in Vehicular Environments (WAVE) -- Network Systems Corrigendum 2: Miscellaneous Corrections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6998915</uri>
+  <docidentifier type="IEEE">IEEE Std 1609.3-2010/Cor 2-2014 (Corrigendum to IEEE Std 1609.3-2010)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9465-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6998915</docidentifier>
+  <docnumber>1609.3-2010/Cor 2-2014</docnumber>
+  <date type="updated">
+    <on>2015-01-23</on>
+  </date>
+  <date type="created">
+    <on>2014-12-23</on>
+  </date>
+  <date type="published">
+    <on>2014-12-29</on>
+  </date>
+  <date type="issued">
+    <on>2014-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum corrects errors in IEEE Std 1609.3(TM)-2010 in the following areas: References to current documents including IEEE Std 1609.0TM, IEEE Std 1609.2TM, IEEE Std 1609.12TM, IEEE P1609.6TM; and Requests for Comments (RFCs); Names of Service Access Points (SAPs), primitives, and data structures specified in IEEE Std 1609.2; Removal of channel access capabilities from the PICS, which are more appropriately covered in IEEE Std 1609.4(TM); Minor typographic errors in the text and Management Information Base annex.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum corrects errors in IEEE Std 1609.3(TM)-2010 in the following areas: References to current documents including IEEE Std 1609.0TM, IEEE Std 1609.2TM, IEEE Std 1609.12TM, IEEE P1609.6TM; and Requests for Comments (RFCs); Names of Service Access Points (SAPs), primitives, and data structures specified in IEEE Std 1609.2; Removal of channel access capabilities from the PICS, which are more appropriately covered in IEEE Std 1609.4(TM); Minor typographic errors in the text and Management Information Base annex.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.3-2010 (Revision of IEEE Std 1609.3-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless ad hoc networks</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Channel allocation</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>channel access</keyword>
+  <keyword>IEEE 1609.3(TM)</keyword>
+  <keyword>IEEE 802.11p(TM)</keyword>
+  <keyword>MIB</keyword>
+  <keyword>PICS</keyword>
+  <keyword>WME-Sec</keyword>
+</bibdata>

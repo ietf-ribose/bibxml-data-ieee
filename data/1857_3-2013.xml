@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for System of Advanced Audio and Video Coding</title>
+  <title type="main" format="text/plain">IEEE Standard for System of Advanced Audio and Video Coding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6716945</uri>
+  <docidentifier type="IEEE">IEEE Std 1857.3-2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8866-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6716945</docidentifier>
+  <docnumber>1857.3-2013</docnumber>
+  <date type="updated">
+    <on>2014-02-07</on>
+  </date>
+  <date type="created">
+    <on>2014-01-20</on>
+  </date>
+  <date type="published">
+    <on>2014-01-20</on>
+  </date>
+  <date type="issued">
+    <on>2013-12-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Storage file formats and real-time transport protocol (RTP) payload formats for IEEE 1857&amp;amp;#x2122; video and IEEE 1857.2&amp;amp;#x2122; audio are defined. The storage of video and audio not only uses the existing capabilities of the ISO base media file format, but also defines extensions to support specific features of the IEEE 1857 video codec and IEEE 1857.2 audio codec. The target applications and services include but are not limited to Internet media streaming, IPTV, video conference, video telephony, and video-on-demand.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Storage file formats and real-time transport protocol (RTP) payload formats for IEEE 1857(tm) video and IEEE 1857.2(tm) audio are defined. The storage of video and audio not only uses the existing capabilities of the ISO base media file format, but also defines extensions to support specific features of the IEEE 1857 video codec and IEEE 1857.2 audio codec. The target applications and services include but are not limited to Internet media streaming, IPTV, video conference, video telephony, and video-on-demand.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Video coding</keyword>
+  <keyword>Storage automation</keyword>
+  <keyword>Audio coding</keyword>
+  <keyword>File formats</keyword>
+  <keyword>Packetization</keyword>
+  <keyword>audio</keyword>
+  <keyword>box</keyword>
+  <keyword>file format</keyword>
+  <keyword>IEEE 1857.3(tm)</keyword>
+  <keyword>NAL unit</keyword>
+  <keyword>packetization</keyword>
+  <keyword>RTP payload format</keyword>
+  <keyword>storage</keyword>
+  <keyword>system</keyword>
+  <keyword>track</keyword>
+  <keyword>transmission</keyword>
+  <keyword>video</keyword>
+</bibdata>

@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Communication Delivery Time Performance Requirements for Electric Power Substation Automation</title>
+  <title type="main" format="text/plain">IEEE Standard Communication Delivery Time Performance Requirements for Electric Power Substation Automation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1405811</uri>
+  <docidentifier type="IEEE">IEEE Std 1646-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4503-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.95748</docidentifier>
+  <docnumber>1646-2004</docnumber>
+  <date type="created">
+    <on>2005-02-25</on>
+  </date>
+  <date type="published">
+    <on>2019-10-30</on>
+  </date>
+  <date type="issued">
+    <on>2004-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A standard defining communication delivery times of information to be exchanged within and external to substation integrated protection, control, and data acquisition systems is described. Communication capabilities and system capabilities to deliver data on time are also specified.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Substation automation</keyword>
+  <keyword>Data acquisition</keyword>
+  <keyword>automatic control</keyword>
+  <keyword>data acquisition</keyword>
+  <keyword>SCADA</keyword>
+  <keyword>supervisory control</keyword>
+  <keyword>communication</keyword>
+  <keyword>intelligent electronic devices</keyword>
+  <keyword>IED</keyword>
+  <keyword>distributed processing</keyword>
+  <keyword>communication message delivery performance measures</keyword>
+</bibdata>

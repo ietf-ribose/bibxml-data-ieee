@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">American Standard</title>
+  <title type="title-main" format="text/plain">Low Voltage AC Power Circuit Breakers (600-Volt Insulation Class)</title>
+  <title type="main" format="text/plain">American Standard - Low Voltage AC Power Circuit Breakers (600-Volt Insulation Class)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7370721</uri>
+  <docidentifier type="IEEE">ASA C37.13-1963</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0481-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1963.7370721</docidentifier>
+  <docnumber>C37.13-1963</docnumber>
+  <date type="updated">
+    <on>2016-01-29</on>
+  </date>
+  <date type="created">
+    <on>1963-01-12</on>
+  </date>
+  <date type="published">
+    <on>2016-01-01</on>
+  </date>
+  <date type="issued">
+    <on>1963</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to all low-voltage power circuit breakers of the 600-volt insulation class capable of interrupting short-circuit currents in excess of 10,000 amp (amperes) for use with ac circuits. Other low-voltage power circuit breakers for use on circuits rated up to 1,000 volts ac and 3,000 volts dc are not covered by this standard; molded-case circuit breakers are specifically not covered.</abstract>
+  <copyright>
+    <from>1963</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ASA</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>AC machines</keyword>
+</bibdata>

@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Draft Standard</title>
+  <title type="title-main" format="text/plain">Systems and Software Engineering</title>
+  <title type="title-part" format="text/plain">Life Cycle Processes -- Risk Management</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering - Life Cycle Processes -- Risk Management</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8674876</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P16085/CD2, February 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5642-5</docidentifier>
+  <docnumber>P16085/CD2, Feb 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-03-26</on>
+  </date>
+  <date type="issued">
+    <on>2020-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">Std ISO IEC 16085 - 2006</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">Std ISO IEC 16085 - 2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Risk management</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems analysis and design</keyword>
+  <keyword>Product life cycle management</keyword>
+</bibdata>

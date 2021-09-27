@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard of Common Requirements for High Voltage Power Switchgear Rated Above 1000 V</title>
+  <title type="main" format="text/plain">IEEE Draft Standard of Common Requirements for High Voltage Power Switchgear Rated Above 1000 V</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7480336</uri>
+  <docidentifier type="IEEE">IEEE PC37.100.1/D6, May 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2068-6</docidentifier>
+  <docnumber>PC37.100.1/D6, May 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-05-27</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Removed.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to alternating current (ac) switchgear, designed for both indoor and outdoor installation and for operation at service frequencies up to and including 60 Hz on systems having voltages above 1000 V. This standard is applied in relevant equipment standards by a normative reference to this standard, IEEE Std C37.100.1, on a section or clause-by-clause basis. Annex A of this standard provides recommendations for its application. The inclusion of this standard as a normative reference shall not imply that all of the requirements contained herein apply as a default. In the absence of a normative reference, this standard shall be considered informative only. In case of a conflict in requirements, the requirements of the relevant equipment standard shall prevail.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.100.1-2007</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>switchgear</keyword>
+  <keyword>switch</keyword>
+  <keyword>test</keyword>
+  <keyword>rating</keyword>
+  <keyword>rated</keyword>
+  <keyword>specification</keyword>
+  <keyword>common</keyword>
+  <keyword>requirement</keyword>
+</bibdata>

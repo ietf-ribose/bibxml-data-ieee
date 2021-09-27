@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Software and systems engineering</title>
+  <title type="title-main" format="text/plain">Software testing</title>
+  <title type="title-part" format="text/plain">Part 2: Test process</title>
+  <title type="main" format="text/plain">Software and systems engineering - Software testing - Part 2: Test process</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6488695</uri>
+  <docidentifier type="IEEE">IEEE P29119-2/FDIS, March 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8343-5</docidentifier>
+  <docnumber>P29119-2/FDIS, Mar 2013</docnumber>
+  <date type="created">
+    <on>2013-05-01</on>
+  </date>
+  <date type="published">
+    <on>2013-03-27</on>
+  </date>
+  <date type="issued">
+    <on>2013-05-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This part of ISO/IEC/IEEE 29119 specifies test processes that can be used to govern, manage and implement software testing for any organization, project or smaller testing activity. It comprises generic test process descriptions that define the software testing processes. Supporting informative diagrams describing the processes are also provided. This part of ISO/IEC/IEEE 29119 is applicable to testing in all software development lifecycle models. This part of ISO/IEC/IEEE 29119 is intended for, but not limited to, testers, test managers, developers and project managers, particularly those responsible for governing, managing and implementing software testing.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Software testing</keyword>
+</bibdata>

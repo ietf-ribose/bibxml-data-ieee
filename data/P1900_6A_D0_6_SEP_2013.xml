@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems Amendment: Procedures, Protocols and Data Archive Enhanced Interfaces</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems Amendment: Procedures, Protocols and Data Archive Enhanced Interfaces</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6619393</uri>
+  <docidentifier type="IEEE">IEEE P1900.6a/D0.6, September 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8689-4</docidentifier>
+  <docnumber>P1900.6a/D0.6, Sep 2013</docnumber>
+  <date type="created">
+    <on>2013-11-22</on>
+  </date>
+  <date type="published">
+    <on>2013-10-03</on>
+  </date>
+  <date type="issued">
+    <on>2013-11-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Amendment to the IEEE Std 1900.6TM adds procedures, protocols and message format specifications for the exchange of sensing related data, control data and configuration data between spectrum sensors and their clients. In addition, it adds specifications for the exchange of sensing related and other relevant data and specifies related interfaces between the data archive and other data sources</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Spread spectrum management</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>Data communication</keyword>
+  <keyword>Cognitive radio</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>cognitive radio</keyword>
+  <keyword>data structure</keyword>
+  <keyword>distributed spectrum sensing</keyword>
+  <keyword>dynamic spectrum access</keyword>
+  <keyword>IEEE 1900.6</keyword>
+  <keyword>logical interface</keyword>
+  <keyword>sensing information</keyword>
+  <keyword>spectrum sensor</keyword>
+  <keyword>procedures</keyword>
+  <keyword>protocols</keyword>
+  <keyword>data archive enhanced interface</keyword>
+</bibdata>

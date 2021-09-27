@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide to Using IEEE Std 1547(TM) for Interconnection of Energy Storage Distributed Energy Resources with Electric Power Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Guide to Using IEEE Std 1547(TM) for Interconnection of Energy Storage Distributed Energy Resources with Electric Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9540815</uri>
+  <docidentifier type="IEEE">IEEE P1547.9/D5.1, September 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7956-1</docidentifier>
+  <docnumber>P1547.9/D5.1, Sept 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-09-17</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Application of IEEE Std 1547-2018 to the interconnection of energy storage distributed energy resources (ES DER) to electric power systems (EPSs) is described in this guide. Along with examples of such interconnection, guidance on prudent and technically sound approaches to these interconnections is also given. The guide’s scope includes ES DER that are capable of exporting real power to an EPS. The guide also considers energy storage-related topics that are not currently addressed or fully covered in IEEE Std 1547-2018 and sets a basis for future development of industry best practices for ES DER-specific interconnection requirements that could be considered in future revisions of IEEE Std 1547.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>active power export</keyword>
+  <keyword>bidirectional</keyword>
+  <keyword>black start participation</keyword>
+  <keyword>charging</keyword>
+  <keyword>discharging</keyword>
+  <keyword>distributed energy resources</keyword>
+  <keyword>electric power systems</keyword>
+  <keyword>energy storage</keyword>
+  <keyword>energy storage distributed energy resources</keyword>
+  <keyword>ES DER response prioritization</keyword>
+  <keyword>exemptions</keyword>
+  <keyword>fast frequency response</keyword>
+  <keyword>frequency droop response</keyword>
+  <keyword>inertial response</keyword>
+  <keyword>interconnection requirements and specifications</keyword>
+  <keyword>IEEE 1547</keyword>
+  <keyword>IEEE 1547.9</keyword>
+  <keyword>interoperability</keyword>
+  <keyword>islanding</keyword>
+  <keyword>monitoring</keyword>
+  <keyword>operational capacity</keyword>
+  <keyword>operational model</keyword>
+  <keyword>operational state of charge</keyword>
+  <keyword>reactive power capability</keyword>
+  <keyword>ride-through</keyword>
+  <keyword>safety</keyword>
+  <keyword>secondary networks</keyword>
+  <keyword>state of charge</keyword>
+  <keyword>testing</keyword>
+  <keyword>use cases</keyword>
+  <keyword>vehicle-to-grid</keyword>
+</bibdata>

@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
+  <title type="main" format="text/plain">IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7440753</uri>
+  <docidentifier type="IEEE">IEEE Std 91-1973 (ANSI Y32.14-1973)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0459-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1973.7440753</docidentifier>
+  <docnumber>91-1973</docnumber>
+  <date type="updated">
+    <on>2016-04-15</on>
+  </date>
+  <date type="created">
+    <on>1973-08-07</on>
+  </date>
+  <date type="published">
+    <on>2016-03-24</on>
+  </date>
+  <date type="issued">
+    <on>1973-04-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard establishes the graphic symbols for use in the preparation of logic diagrams representing logic functions implemented with two-state devices. The primary purpose of this standard is to enable a user to readily read and understand the function of the logic without requiring a specific knowledge of the constructional details of the device represented. This standard sets forth principles governing the formation of graphic symbols for logic diagrams in which the connections between symbols are generally shown with lines. Descriptions of logic functions, the graphic representation of these functions, and examples of their applications are given.</abstract>
+  <copyright>
+    <from>1973</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Symbols</keyword>
+  <keyword>Graphics</keyword>
+  <keyword>Logic diagrams</keyword>
+  <keyword>Terminology</keyword>
+</bibdata>

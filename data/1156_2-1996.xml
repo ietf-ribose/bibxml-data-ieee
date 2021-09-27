@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Environmental Specifications for Computer Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Environmental Specifications for Computer Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/531661</uri>
+  <docidentifier type="IEEE">IEEE Std 1156.2-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1187-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81075</docidentifier>
+  <docnumber>1156.2-1996</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="issued">
+    <on>1996-06-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is designed for use in conjunction with other documents such as the IEEE 1101 group of standards, the IEEE 896 group of standards, the IEEE 1596 group of standards, the IEEE 1014 group of standards, and ISO/IEC 10861: 1994. This standard is one of the IEEE P1156.x series for environmental specifications. It is intended to be used as a core specification. It contains minimum environmental withstand conditions applicable to computer systems and all of their associated components. It has been created to provide general environmental withstand conditions for one or more of the above listed computer buses or interconnect standards, and electronic equipment in general.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+</bibdata>

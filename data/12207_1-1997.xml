@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE/EIA Guide</title>
+  <title type="title-main" format="text/plain">Industry Implementation of International Standard ISO/IEC 12207 : 1995 (ISO/IEC 12207)</title>
+  <title type="title-part" format="text/plain">Software Life Cycle Processes -- Life Cycle Data</title>
+  <title type="main" format="text/plain">IEEE/EIA Guide - Industry Implementation of International Standard ISO/IEC 12207 : 1995 (ISO/IEC 12207) - Software Life Cycle Processes -- Life Cycle Data</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/669648</uri>
+  <docidentifier type="IEEE">IEEE/EIA 12207.1-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0429-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.86377</docidentifier>
+  <docnumber>12207.1-1997</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="published">
+    <on>2013-03-14</on>
+  </date>
+  <date type="issued">
+    <on>1997-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC 12207 provides a common framework for developing and managing software. IEEE/EIA 12207.0 consists of the clarifications, additions, and changes accepted by the Institute of Electrical and Electronics Engineers (IEEE) and the Electronic Industries Association (EIA) as formulated by a joint project of the two organizations. IEEE/EIA 12207.1 provides guidance for recording life cycle data resulting from the life cycle processes of IEEE/EIA 12207.0.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 15289:2011(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Software standards</keyword>
+  <keyword>acquisition process</keyword>
+  <keyword>audit</keyword>
+  <keyword>configuration management</keyword>
+  <keyword>development process</keyword>
+  <keyword>maintenance process</keyword>
+  <keyword>operation process</keyword>
+  <keyword>quality assurance</keyword>
+  <keyword>supply process</keyword>
+  <keyword>tailoring process</keyword>
+  <keyword>validation</keyword>
+  <keyword>verification</keyword>
+</bibdata>

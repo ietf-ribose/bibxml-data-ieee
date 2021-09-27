@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for SCADA and Automation Systems</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for SCADA and Automation Systems - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6581844</uri>
+  <docidentifier type="IEEE">IEEE Std C37.1-2007 (Revision of IEEE Std C37.1-1994) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7001-5</docidentifier>
+  <docnumber>C37.1-2007</docnumber>
+  <date type="updated">
+    <on>2013-10-04</on>
+  </date>
+  <date type="created">
+    <on>2008-05-08</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2007-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The requirements for SCADA and automation systems in substations are defined. This standard defines the process of substation integration as the design process that is the foundation for substation automation. Functional and environmental requirements are provided for all IEDs located in the system. Tutorial material is included in the annexes to address common issues with systems without introducing requirements. Information is also presented in the annexes regarding SCADA masters.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The requirements for SCADA and automation systems in substations are defined. This standard defines the process of substation integration as the design process that is the foundation for substation automation. Functional and environmental requirements are provided for all IEDs located in the system. Tutorial material is included in the annexes to address common issues with systems without introducing requirements. Information is also presented in the annexes regarding SCADA masters.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Automtatic control</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Supervisory control</keyword>
+  <keyword>SCADA systems</keyword>
+  <keyword>C37.1-2007</keyword>
+  <keyword>automatic control</keyword>
+  <keyword>data acquisition</keyword>
+  <keyword>IED</keyword>
+  <keyword>Intelligent Electronic Device</keyword>
+  <keyword>SCADA</keyword>
+  <keyword>substation integration</keyword>
+  <keyword>substation automation</keyword>
+  <keyword>supervisory control</keyword>
+</bibdata>

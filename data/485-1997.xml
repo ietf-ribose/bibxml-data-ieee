@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Sizing Lead-Acid Batteries for Stationary Applications</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Sizing Lead-Acid Batteries for Stationary Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/621111</uri>
+  <docidentifier type="IEEE">IEEE Std 485-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0694-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.83812</docidentifier>
+  <docnumber>485-1997</docnumber>
+  <date type="created">
+    <on>1997</on>
+  </date>
+  <date type="issued">
+    <on>1997-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Methods for defining the DC load and for sizing a lead-acid battery to supply that load for stationary battery applications in full float operations are described. Some factors relating to cell selection are provided for consideration. Installation, maintenance, qualification, testing procedures and consideration of battery types other than lead-acid are beyond the scope of this recommended practice. Design of the DC system and sizing of the battery charger(s) are also beyond the scope of this recommended practice.</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Lead</keyword>
+</bibdata>

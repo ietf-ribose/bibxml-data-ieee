@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Partial Discharge Measurement in Liquid- Filled Power Transformers and Shunt Reactors</title>
+  <title type="main" format="text/plain">IEEE Guide for Partial Discharge Measurement in Liquid- Filled Power Transformers and Shunt Reactors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/182808</uri>
+  <docidentifier type="IEEE">IEEE Std C57.113-1991</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0843-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.106971</docidentifier>
+  <docnumber>C57.113-1991</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="issued">
+    <on>1991-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The detection and measurement by the wide-band apparent charge method of partial discharges occurring in liquid-filled power transformers and shunt reactors during dielectric tests are covered. The standard covers the measuring instrument, calibrator characteristics, test circuits, calibration procedure, and partial discharge measurement during induced-voltage tests.&amp;amp;lt;&amp;amp;lt;ETX&amp;amp;gt;&amp;amp;gt;</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std: Transformers and Shunt Reactors</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.113-2010 (Revision of IEEE Std C57.113-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.113-2010 (Revision of IEEE Std C57.113-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Calibration</keyword>
+  <keyword>Charge measurement</keyword>
+  <keyword>Oil insulation</keyword>
+  <keyword>Insulation testing</keyword>
+  <keyword>Partial discharges</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Inductors</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Insulation</keyword>
+</bibdata>

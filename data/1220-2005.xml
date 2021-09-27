@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Application and Management of the Systems Engineering Process</title>
+  <title type="main" format="text/plain">IEEE Standard for Application and Management of the Systems Engineering Process</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1511885</uri>
+  <docidentifier type="IEEE">IEEE Std 1220-2005 (Revision of IEEE Std 1220-1998)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4692-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.96469</docidentifier>
+  <docnumber>1220-2005</docnumber>
+  <date type="created">
+    <on>2005</on>
+  </date>
+  <date type="published">
+    <on>2018-10-26</on>
+  </date>
+  <date type="issued">
+    <on>2005-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The interdisciplinary tasks that are required throughout a system's life cycle to transform stakeholder needs, requirements, and constraints into a system solution are defined. This standard is intended to guide the development of systems for commercial, government, military, and space applications. The information applies to a project within an enterprise that is responsible for developing a product design and establishing the life cycle infrastructure needed to provide for life cycle sustainment.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1220-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Software</keyword>
+  <keyword>Portable document format</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>acquire</keyword>
+  <keyword>analysis</keyword>
+  <keyword>architecture</keyword>
+  <keyword>building block</keyword>
+  <keyword>design</keyword>
+  <keyword>development</keyword>
+  <keyword>component</keyword>
+  <keyword>hardware</keyword>
+  <keyword>interface</keyword>
+  <keyword>life cycle processes</keyword>
+  <keyword>software</keyword>
+  <keyword>supplier</keyword>
+  <keyword>synthesis</keyword>
+  <keyword>system life cycle</keyword>
+  <keyword>system engineering</keyword>
+  <keyword>technical management</keyword>
+  <keyword>validation</keyword>
+  <keyword>verification</keyword>
+</bibdata>

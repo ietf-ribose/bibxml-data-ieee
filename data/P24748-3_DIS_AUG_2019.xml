@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and Software Engineering-Life Cycle Management-Part 3: Guidelines for the Application of ISO/IEC/IEEE 12207 (Software Life Cycle Processes)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering-Life Cycle Management-Part 3: Guidelines for the Application of ISO/IEC/IEEE 12207 (Software Life Cycle Processes)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8809977</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE/ P24748-3/DIS, August 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6088-0</docidentifier>
+  <docnumber>P24748-3/DIS, Aug 2019</docnumber>
+  <date type="created">
+    <on>2019-08-21</on>
+  </date>
+  <date type="published">
+    <on>2019-08-22</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 24748-3:2012</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Systems engineering and theory</keyword>
+</bibdata>

@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Developing User Open System Environment (OSE) Profiles</title>
+  <title type="main" format="text/plain">IEEE Guide for Developing User Open System Environment (OSE) Profiles</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/798786</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.23-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3949-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90557</docidentifier>
+  <docnumber>1003.23-1998</docnumber>
+  <date type="created">
+    <on>1999-08-11</on>
+  </date>
+  <date type="published">
+    <on>2019-04-12</on>
+  </date>
+  <date type="issued">
+    <on>1998-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide presents an overview of User Organization Open System Environment (OSE) Profiles and their application. It is intended to assist users, planners, and implementers in developing User Organization OSE Profiles that address the operational requirements of the organization; related information technology services; and the standards, standards options, and interim solutions that will meet those requirements. The guide also includes conformance testing and transition planning considerations as well as examples of user organization OSE profiles.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Open systems</keyword>
+  <keyword>application portability</keyword>
+  <keyword>application interoperability</keyword>
+  <keyword>open system environment</keyword>
+  <keyword>User Organization OSE Profile</keyword>
+</bibdata>

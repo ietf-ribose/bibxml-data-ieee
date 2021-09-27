@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/984782</uri>
+  <docidentifier type="IEEE">IEEE Std 802-2001 (Revision of IEEE Std 802-1990)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2941-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2002.93395</docidentifier>
+  <docnumber>802-2001</docnumber>
+  <date type="created">
+    <on>2002-02-07</on>
+  </date>
+  <date type="published">
+    <on>2014-07-01</on>
+  </date>
+  <date type="issued">
+    <on>2001-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 802-2001, IEEE Standards for Local and Metropolitan Area Networks: Overview and Architecture, provides an overview to the family of IEEE 802 Standards. It defines compliance with the family of IEEE 802 Standards; it describes the relationship of the IEEE 802 Standards to the Open Systems Interconnection Basic Reference Model [ISO/IEC 7498-1:1994] and explains the relationship of these standards to the higher layer protocols; it provides a standard for the structure of LAN MAC addresses; and it provides a standard for identification of public, private, and standard protocols.</abstract>
+  <copyright>
+    <from>2002</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802-1990</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802-2014 (Revision to IEEE Std 802-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>IEEE 802 standards compliance</keyword>
+  <keyword>Local Area Networks (LANs)</keyword>
+  <keyword>LAN/MAN architecture</keyword>
+  <keyword>LAN/MAN reference model</keyword>
+  <keyword>Metropolitan Area Networks (MANs).</keyword>
+</bibdata>

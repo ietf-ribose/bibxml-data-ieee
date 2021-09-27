@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-main" format="text/plain">LAN/MAN</title>
+  <title type="title-part" format="text/plain">Specific Requirements -- Part 15: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Wireless Personal Area Networks (WPANs)</title>
+  <title type="main" format="text/plain">IEEE Standard for Telecommunications and Information Exchange Between Systems - LAN/MAN - Specific Requirements -- Part 15: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Wireless Personal Area Networks (WPANs)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1016473</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.1-2002</docidentifier>
+  <docidentifier type="ISBN">0-7381-3335-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2002.93621</docidentifier>
+  <docnumber>802.15.1-2002</docnumber>
+  <date type="created">
+    <on>2002</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2002-04-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the 802 family on LAN/MAN. Abstract: The lower transport layers [(Logical Link Control and Adaptation Protocol (L2CAP), Link Manager Protocol (LMP), baseband, and radio] of the Bluetooth&amp;amp;#8482; wireless technology are defined. Bluetooth is an industry specification for short-range radio frequency (RF)-based connectivity for portable personal devices. The IEEE 802.15.1 Task Group has reviewed and provided a standard adaptation of the Bluetooth specifications (version 1.1) medium access control (MAC) (L2CAP, LMP, and baseband) and physical layer (PHY) (radio). Also specified is a clause on service access points (SAPs), which includes a logical link control (LLC)-MAC interface for the ISO/IEC 8802-2 LLC. A normative annex is included that provides a Protocol Implementation Conformance Statement (PICS) proforma, and an informative high-level behavioral ITU-T Z.100 specification and description language (SDL) model for an integrated Bluetooth MAC sublayer are also specified.</abstract>
+  <copyright>
+    <from>2002</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Bluetooth</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>IEEE 802.15 Standard</keyword>
+  <keyword>Patents</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>Bluetooth</keyword>
+  <keyword>Bluetooth wireless technology</keyword>
+  <keyword>circuit switching</keyword>
+  <keyword>FH-CDMA</keyword>
+  <keyword>frequency-hopping code division multiple access</keyword>
+  <keyword>mobile</keyword>
+  <keyword>mobility</keyword>
+  <keyword>nomadic</keyword>
+  <keyword>packet switching</keyword>
+  <keyword>piconet</keyword>
+  <keyword>radio</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>scatternet</keyword>
+  <keyword>short-range</keyword>
+</bibdata>

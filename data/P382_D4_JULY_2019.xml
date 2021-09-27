@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Qualification of Safety-Related Actuators for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Qualification of Safety-Related Actuators for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8786951</uri>
+  <docidentifier type="IEEE">IEEE P382/D4, July 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6055-2</docidentifier>
+  <docnumber>P382/D4, July 2019</docnumber>
+  <date type="created">
+    <on>2019-11-07</on>
+  </date>
+  <date type="published">
+    <on>2019-08-02</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Direction for the implementation of the requirements of IEC/IEEE 60780-323 as they apply to the specific features of safety-related actuator qualification are provided. This standard establishes criteria for qualification of safety-related actuators, and actuator components, in Nuclear Power Generating Stations in order to demonstrate their ability to perform their intended safety functions under all required conditions.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 382-2006 (Revision of IEEE Std 382-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Actuators</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Safety management</keyword>
+  <keyword>Occupational safety</keyword>
+  <keyword>actuator components</keyword>
+  <keyword>AOV</keyword>
+  <keyword>EMC</keyword>
+  <keyword>HOV</keyword>
+  <keyword>IEEE 382</keyword>
+  <keyword>MOV</keyword>
+  <keyword>nuclear power generating stations</keyword>
+  <keyword>safety-related actuators</keyword>
+  <keyword>SOV</keyword>
+</bibdata>

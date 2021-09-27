@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering &amp;amp;#8211; Methods and Tools for Model-based Systems and Software Engineering</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft International Standard - Systems and software engineering &amp;amp;#8211; Methods and Tools for Model-based Systems and Software Engineering</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9123713</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P24641_D2_CD, June 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6790-2</docidentifier>
+  <docnumber>P24641_D2_CD, Jun 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-06-23</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This International Standard, within the context of methods and tools for MBSSE: &amp;amp;#8226; Provides terms and definitions related to MBSSE; &amp;amp;#8226; Defines MBSSE-specific processes for model-based systems and software engineering; the processes are described in terms of purpose, inputs, tasks, and outcomes; &amp;amp;#8226; Defines methods to support the defined tasks of each process; &amp;amp;#8226; Defines tool capabilities to automate/semi-automate tasks or methods. The processes defined in this document are applicable for a single project, as well as for an organization performing multiple projects. These processes are applicable for managing and performing the systems engineering activities based on models within any stage in the life cycle of a system of interest. Annex D (informative) Relationship with other standards describes the relationships between this document and other standards.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Software tools</keyword>
+  <keyword>Systems engineering and theory</keyword>
+</bibdata>

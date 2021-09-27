@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Breaker Failure Protection of Power Circuit Breakers</title>
+  <title type="main" format="text/plain">IEEE Guide for Breaker Failure Protection of Power Circuit Breakers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1605067</uri>
+  <docidentifier type="IEEE">IEEE Std C37.119-2005</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4823-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.99232</docidentifier>
+  <docnumber>C37.119-2005</docnumber>
+  <date type="created">
+    <on>2006</on>
+  </date>
+  <date type="published">
+    <on>2016-07-07</on>
+  </date>
+  <date type="issued">
+    <on>2005-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide compiles information on the application considerations for breaker failure protection. The reasons for local backup protection are described. Breaker failure schemes are discussed. Issues relating to the settings of current detectors and timers are discussed for various applications.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>Power system relaying</keyword>
+  <keyword>breaker failure</keyword>
+  <keyword>local backup</keyword>
+  <keyword>protection</keyword>
+  <keyword>relay application</keyword>
+  <keyword>relaying</keyword>
+</bibdata>

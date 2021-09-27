@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Multichannel Analyzer (MCA) Histogram Data Interchange Format for Nuclear Spectroscopy</title>
+  <title type="main" format="text/plain">IEEE Standard Multichannel Analyzer (MCA) Histogram Data Interchange Format for Nuclear Spectroscopy</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/239604</uri>
+  <docidentifier type="IEEE">IEEE Std 1214-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0728-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.115130</docidentifier>
+  <docnumber>1214-1992</docnumber>
+  <date type="created">
+    <on>1993-02-08</on>
+  </date>
+  <date type="published">
+    <on>2020-02-03</on>
+  </date>
+  <date type="issued">
+    <on>1992-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A standard format for data interchange used to transfer pulse height data on magnetic media between laboratories is provided. The terms used in file records are defined. The contents consist only of ASCII characters and can be transmitted over networks and other direct links. Example programs to read data in FORTRAN, BASIC and C are provided.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Electronic data interchange</keyword>
+  <keyword>Pulse height analyzers</keyword>
+  <keyword>Standards</keyword>
+  <keyword>data transfer</keyword>
+  <keyword>multichannel pulse height data</keyword>
+  <keyword>histogram data interchange</keyword>
+  <keyword>interchange</keyword>
+  <keyword>multichannel analyzer</keyword>
+  <keyword>nuclear spectroscopy</keyword>
+</bibdata>

@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Std 1636.99-2013, IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Common Information Elements.</title>
+  <title type="main" format="text/plain">IEEE Std 1636.99-2013, IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Common Information Elements.</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6662358</uri>
+  <docidentifier type="IEEE">IEEE Std 1636.99-2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8652-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6662358</docidentifier>
+  <docnumber>1636.99-2013</docnumber>
+  <date type="updated">
+    <on>2014-01-17</on>
+  </date>
+  <date type="created">
+    <on>2013-11-08</on>
+  </date>
+  <date type="published">
+    <on>2013-11-12</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to promote and facilitate interoperability between components of SIMICA. The standard defines EXPRESS information models and XML schemas that together define the common information elements supporting these interfaces.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to promote and facilitate interoperability between components of SIMICA. The standard defines EXPRESS information models and XML schemas that together define the common information elements supporting these interfaces.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>Software testing</keyword>
+  <keyword>Automated testing</keyword>
+  <keyword>Information analysis</keyword>
+  <keyword>automated test system (ATS)</keyword>
+  <keyword>eXtensible markup language (XML)</keyword>
+  <keyword>IEEE 1636.99(TM)</keyword>
+  <keyword>session information</keyword>
+  <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+  <keyword>test results</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

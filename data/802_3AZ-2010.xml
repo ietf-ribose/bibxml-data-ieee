@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: CSMA/CD Access Method and Physical Layer Specifications Amendment 5: Media Access Control Parameters, Physical Layers, and Management Parameters for Energy-Efficient Ethernet</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: CSMA/CD Access Method and Physical Layer Specifications Amendment 5: Media Access Control Parameters, Physical Layers, and Management Parameters for Energy-Efficient Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5621025</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3az-2010 (Amendment to IEEE Std 802.3-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6485-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5621025</docidentifier>
+  <docnumber>802.3az-2010</docnumber>
+  <date type="created">
+    <on>2010-10-27</on>
+  </date>
+  <date type="published">
+    <on>2013-07-11</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2008 specifies changes to several existing physical layers to enable energy-efficient operation of Ethernet. Changes to 10BASE-T include a reduction in transmit voltage requirements. Changes to 100BASE-TX, 1000BASE-T, 10GBASE-T, 1000BASE-KX, 10GBASE-KX4 and 10GBASE-KR include the definition of a Low Power Idle (LPI) mode and mechanisms to communicate and manage the entry and exit into and out of LPI and the operation of this mode. New Link Layer Discovery Protocol (LLDP) TLVs are defined for negotiating system level energy-efficiency parameters.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Ethernet networks</keyword>
+  <keyword>Energy efficiency</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>10BASE-T</keyword>
+  <keyword>100BASE-TX</keyword>
+  <keyword>1000BASE-KX</keyword>
+  <keyword>1000BASE-T</keyword>
+  <keyword>10GBASE-KR</keyword>
+  <keyword>10GBASEKX4</keyword>
+  <keyword>10GBASE-T</keyword>
+  <keyword>Backplane Ethernet</keyword>
+  <keyword>Energy-Efficient Ethernet (EEE)</keyword>
+  <keyword>IEEE 802.3az</keyword>
+  <keyword>LLDP</keyword>
+  <keyword>Low Power Idle Mode (LPI)</keyword>
+  <keyword>TLV</keyword>
+</bibdata>

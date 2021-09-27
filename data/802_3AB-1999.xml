@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Telecommunications and information exchange between systems</title>
+  <title type="title-part" format="text/plain">Local and Metropolitan Area Networks -- Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications -- Physical Layer Parameters and Specifications for 1000 Mb/s Operation over 4 pair of Category 5 Balanced Copper Cabling, Type 1000BASE-T</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology - Telecommunications and information exchange between systems - Local and Metropolitan Area Networks -- Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications -- Physical Layer Parameters and Specifications for 1000 Mb/s Operation over 4 pair of Category 5 Balanced Copper Cabling, Type 1000BASE-T</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/798775</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3ab-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3765-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90568</docidentifier>
+  <docnumber>802.3ab-1999</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2018-06-22</on>
+  </date>
+  <date type="issued">
+    <on>1999-06-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 802.3-2002. This IEEE Standards product is part of the 802 Family on LAN/MAN. Abstract: Type 1000BASE-T PCS, type 1000BASE-T PMA sublayer, and type 1000BASE-T Medium Dependent Interface (MDI) are defined. This supplement provides fully functional, electrical and mechanical specifications for the type 1000BASE-T PCS, PMA, and MDI. This supplement also specifies the baseband medium used with 1000BASE-T.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.3-1985</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Auto-Negotiation</keyword>
+  <keyword>Category 5</keyword>
+  <keyword>copper</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>gigabit</keyword>
+  <keyword>MASTER-SLAVE</keyword>
+  <keyword>medium dependent interface</keyword>
+  <keyword>physical coding sublayer</keyword>
+  <keyword>Physical Layer</keyword>
+  <keyword>physical medium attachment</keyword>
+</bibdata>

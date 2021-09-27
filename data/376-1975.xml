@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for the Measurement of Impulse Strength and Impulse Bandwidth</title>
+  <title type="main" format="text/plain">IEEE Standard for the Measurement of Impulse Strength and Impulse Bandwidth</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/20988</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 376-1975</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3954-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1975.120631</docidentifier>
+  <docnumber>376-1975</docnumber>
+  <date type="created">
+    <on>1975-11-07</on>
+  </date>
+  <date type="published">
+    <on>2017-03-08</on>
+  </date>
+  <date type="issued">
+    <on>1974-05-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The use of the impulse generator for calibration purposes in electromagnetic compatibility measurements is addressed. In particular, basic information relating to the use of this device is provided, and interpretation of measurements made using instruments based on it is considered. Two methods of measurement of spectrum amplitude and impulse bandwidth are described in detail. The first method uses a video pulse technique. The second uses a substitution method in which the reference is a pulse- modulated sine-wave generator whose parameters are measured. Both techniques are capable of about equal accuracy.</abstract>
+  <copyright>
+    <from>1975</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Calibration</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Pulse generation</keyword>
+  <keyword>Electromagnetic radiative interference</keyword>
+  <keyword>strength</keyword>
+  <keyword>bandwith</keyword>
+  <keyword>Impulse measurements</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+</bibdata>

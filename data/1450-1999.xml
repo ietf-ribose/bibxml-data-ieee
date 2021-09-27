@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Interface Language (STIL) for Digital Test Vector Data</title>
+  <title type="main" format="text/plain">IEEE Standard Test Interface Language (STIL) for Digital Test Vector Data</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/798780</uri>
+  <docidentifier type="IEEE">IEEE Std 1450-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1647-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90563</docidentifier>
+  <docnumber>1450-1999</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2014-08-12</on>
+  </date>
+  <date type="issued">
+    <on>1999-03-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Standard Test Interface Language (STIL) provides an interface between digital test generation tools and test equipment. A test description language is defined that: (a) facilitates the transfer of digital test vector data from CAE to ATE environments; (b) specifies pattern, format, and timing information sufficient to define the application of digital test vectors to a DUT; and (c) supports the volume of test vector data generated from structured tests.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>automatic test pattern generator (ATPG)</keyword>
+  <keyword>built-in self-test (BIST)</keyword>
+  <keyword>computer-aided engineering (CAE)</keyword>
+  <keyword>cyclize</keyword>
+  <keyword>device under test (DUT)</keyword>
+  <keyword>digital test vectors</keyword>
+  <keyword>event</keyword>
+  <keyword>functional vectors</keyword>
+  <keyword>pattern</keyword>
+  <keyword>scan vectors</keyword>
+  <keyword>signal</keyword>
+  <keyword>structural vectors</keyword>
+  <keyword>timed event</keyword>
+  <keyword>wavefor</keyword>
+</bibdata>

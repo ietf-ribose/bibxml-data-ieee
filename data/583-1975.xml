@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)</title>
+  <title type="main" format="text/plain">IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7431915</uri>
+  <docidentifier type="IEEE">IEEE Std 583-1975</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0390-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1975.7431915</docidentifier>
+  <docnumber>583-1975</docnumber>
+  <date type="updated">
+    <on>2016-04-01</on>
+  </date>
+  <date type="created">
+    <on>1975-11-28</on>
+  </date>
+  <date type="published">
+    <on>2016-03-11</on>
+  </date>
+  <date type="issued">
+    <on>1975-02-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to serve as a basis for a range of modular instrumentation capable of interfacing transducers and other devices to digital controllers for data and control. It consists of mechanical standards and signal standards that are sufficient to ensure physical and operational compatibility between units regardless of source.</abstract>
+  <copyright>
+    <from>1975</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 583-1982</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Digital systems</keyword>
+  <keyword>Digital interfaces</keyword>
+  <keyword>Modular structures</keyword>
+  <keyword>Serial Highway Interface System</keyword>
+</bibdata>

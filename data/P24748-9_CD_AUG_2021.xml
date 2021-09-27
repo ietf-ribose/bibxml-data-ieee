@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering &amp;amp;#8211; Part 9: Application of system and software life cycle processes in epidemic prevention and control systems</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft Standard - Systems and software engineering &amp;amp;#8211; Part 9: Application of system and software life cycle processes in epidemic prevention and control systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9536676</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P24748-9/CD, August 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7936-3</docidentifier>
+  <docnumber>P24748-9/CD, Aug 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-09-13</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Many countries have adopted information-based prevention and control measures during the epidemic, and have developed numerous epidemic prevention and control systems and software. Most of the processes in the entire life cycle of the epidemic prevention and control systems are most likely to be completed in the event of an epidemic. Compared with the normal state, there will be special situations such as poor communication caused by the need for personnel to maintain a safe distance; limited transportation and logistics, resulting in insufficient infrastructure protection; short delivery cycles and frequent iterative upgrades; and special requirements such as accuracy, disaster tolerance, degradation capability, safety, user capacity and stress testing, and rapid demand capture. In this case, it is believed that in the development process of epidemic prevention and control systems, the application of the life cycle process method specified in the ISO/IEC/IEEE 15288:2015 or ISO/IEC/IEEE 12207 standards can effectively help guide the process management and application of the epidemic prevention and control systems.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Epidemics</keyword>
+  <keyword>Process control</keyword>
+  <keyword>Software testing</keyword>
+  <keyword>epidemic prevention and control</keyword>
+</bibdata>

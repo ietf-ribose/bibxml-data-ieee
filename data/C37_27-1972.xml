@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Application Guide for Low-Voltage AC Non-Integrally Fused Power Circuit Breakers (Using Separately Mounted Current-Limiting Fuses)</title>
+  <title type="main" format="text/plain">IEEE Standard Application Guide for Low-Voltage AC Non-Integrally Fused Power Circuit Breakers (Using Separately Mounted Current-Limiting Fuses)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7407575</uri>
+  <docidentifier type="IEEE">ANSI C37.27-1972 (IEEE Std 331-1972)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0486-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1972.7407575</docidentifier>
+  <docnumber>C37.27-1972</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>1972</on>
+  </date>
+  <date type="published">
+    <on>2016-02-16</on>
+  </date>
+  <date type="issued">
+    <on>1972</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide applies to low-voltage power circuit breakers of the 600-volt insulation class with separately mounted current-limiting Class J and Class L fuses for use on ac circuits with available short-circuit currents of 200 000 amperes (rms symmetrical) or less. Low-voltage integrally fused power circuit breakers (see American National Standard Low-Voltage AC Integrally Fused Power Circuit Breakers, C37.28-1969) and combinations of fuses and molded-case circuit breakers are not covered by this guide.</abstract>
+  <copyright>
+    <from>1972</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.27-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Fuses</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Current limiters</keyword>
+  <keyword>ANSI Standards</keyword>
+</bibdata>

@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard for Learning Technology</title>
+  <title type="title-main" format="text/plain">ECMAScript Application Programming Interface for Content to Runtime Services Communication</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Learning Technology - ECMAScript Application Programming Interface for Content to Runtime Services Communication</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9334482</uri>
+  <docidentifier type="IEEE">IEEE P1484.11.2/D6, January 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6659-2</docidentifier>
+  <docnumber>P1484.11.2/D6, Jan 2020</docnumber>
+  <date type="created">
+    <on>2021-01-21</on>
+  </date>
+  <date type="published">
+    <on>2021-01-22</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An ECMAScript application programming interface (API) for content-to-runtime-services communication is described in this standard. It is based on a current industry practice called “CMI--computer managed instruction.” This API enables the communication of information between content and a runtime service (RTS) typically provided by a learning management system (LMS) via common API services using the ECMAScript language. The purpose of this standard is to build consensus around, resolve ambiguities, and correct defects in existing specifications for an ECMA¬Script API for exchanging data between learning-related content and an LMS.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1484.11.2-2003</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1484.11.2-2003</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Learning systems</keyword>
+  <keyword>Content awareness</keyword>
+  <keyword>Application Programming Interface</keyword>
+  <keyword>Computer network management</keyword>
+  <keyword>application programming interface</keyword>
+  <keyword>API</keyword>
+  <keyword>computer managed instruction</keyword>
+  <keyword>content object</keyword>
+  <keyword>ECMAScript</keyword>
+  <keyword>ECMAScript API</keyword>
+  <keyword>IEEE 1484.11.2</keyword>
+  <keyword>learning content</keyword>
+  <keyword>learning management system</keyword>
+  <keyword>LMS</keyword>
+  <keyword>runtime service</keyword>
+  <keyword>RTS</keyword>
+</bibdata>

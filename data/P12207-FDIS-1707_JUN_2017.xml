@@ -1,0 +1,107 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering -- Software life cycle processes</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft International Standard - Systems and software engineering -- Software life cycle processes</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7973008</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P12207-FDIS-1707, June 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4171-1</docidentifier>
+  <docnumber>P12207-FDIS-1707, Jun 2017</docnumber>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2017-07-08</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This International Standard establishes a common process framework for describing the full lifecycle of software products (including software elements of systems) from conception through retirement. It applies to the acquisition or development of software products and services whether performed internally or externally to an organization. Those aspects of system definition needed to provide the context for software products and services are included. The standard also supports the definition, control, assessment and improvement of these processes. These processes can be applied concurrently, iteratively, and recursively to a system and its elements throughout the life cycle of a system. Users of the standard can apply the processes and terminology to construct a suitable life cycle model, composed of stages that use processes selected from the standard. ISO/IEC/IEEE 15288 (systems life cycle processes) and this IS are fully aligned so that one may select appropriate processes from both standards for use in systems with substantial software content.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 12207-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Information management</keyword>
+  <keyword>acquisition</keyword>
+  <keyword>agreement</keyword>
+  <keyword>architecture</keyword>
+  <keyword>design</keyword>
+  <keyword>assessment</keyword>
+  <keyword>audit</keyword>
+  <keyword>configuration management</keyword>
+  <keyword>decision management</keyword>
+  <keyword>development</keyword>
+  <keyword>disposal</keyword>
+  <keyword>enabling system</keyword>
+  <keyword>implementation</keyword>
+  <keyword>information management</keyword>
+  <keyword>infrastructure</keyword>
+  <keyword>integration</keyword>
+  <keyword>life cycle</keyword>
+  <keyword>life cycle model</keyword>
+  <keyword>life cycle stages</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>measurement</keyword>
+  <keyword>operation</keyword>
+  <keyword>planning</keyword>
+  <keyword>process</keyword>
+  <keyword>process improvement</keyword>
+  <keyword>process reference model</keyword>
+  <keyword>process tailoring</keyword>
+  <keyword>process view</keyword>
+  <keyword>product</keyword>
+  <keyword>portfolio</keyword>
+  <keyword>quality management</keyword>
+  <keyword>requirements</keyword>
+  <keyword>retirement</keyword>
+  <keyword>risk management</keyword>
+  <keyword>service</keyword>
+  <keyword>software</keyword>
+  <keyword>stages</keyword>
+  <keyword>stakeholder requirements</keyword>
+  <keyword>supply</keyword>
+  <keyword>system</keyword>
+  <keyword>system structure</keyword>
+  <keyword>system-of-interest</keyword>
+  <keyword>tailoring</keyword>
+  <keyword>transition</keyword>
+  <keyword>validation</keyword>
+  <keyword>verification</keyword>
+</bibdata>

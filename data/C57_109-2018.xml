@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Liquid-Immersed Transformers Through-Fault-Current Duration</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for Liquid-Immersed Transformers Through-Fault-Current Duration - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8697213</uri>
+  <docidentifier type="IEEE">IEEE Std C57.109-2018 (Revision of IEEE Std C57.109-1993) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5758-3</docidentifier>
+  <docnumber>C57.109-2018</docnumber>
+  <date type="created">
+    <on>2018-10-05</on>
+  </date>
+  <date type="published">
+    <on>2019-04-23</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommendations believed essential for the application of overcurrent protective devices applied to limit the exposure time of transformers to short circuit current are set forth. Transformer coordination curves are presented for four categories of transformers. There is no intent to imply overload capability.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.109-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Immersion cooling</keyword>
+  <keyword>Liquid cooling</keyword>
+  <keyword>Power transformer insulation</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Fault diagnosis</keyword>
+  <keyword>Current transformers</keyword>
+  <keyword>IEEE C57.109&amp;amp;#8482;</keyword>
+  <keyword>liquid-immersed transformer</keyword>
+  <keyword>transformer</keyword>
+</bibdata>

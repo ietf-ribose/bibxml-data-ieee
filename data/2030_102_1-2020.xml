@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Interoperability of Internet Protocol Security (IPsec) Utilized within Utility Control Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Interoperability of Internet Protocol Security (IPsec) Utilized within Utility Control Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9381772</uri>
+  <docidentifier type="IEEE">IEEE Std 2030.102.1-2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7293-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9381772</docidentifier>
+  <docnumber>2030.102.1-2020</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-03-18</on>
+  </date>
+  <date type="issued">
+    <on>2020-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Specific configuration requirements within the relevant Internet Engineering Task Force (IETF) Request for Comments (RFC) for implementation of the Internet Protocol Security (IPsec) protocol suite within a utility control system are identified in this standard. It is not intended to be a comprehensive guide to implementing IPsec. Promoting interoperability between products developed by different vendors is the primary goal in developing this standard. Configuration parameters needed to support the establishment and sustained operation of an IPsec Virtual Private Network (VPN) tunnel between two devices which have implemented IPsec conforming to this standard are the focus of this standard. Minimizing configuration errors involving IPsec implementations within utility control systems is a secondary goal of this standard. Product agnosticism and applicability to any device (e.g., router, substation gateway, intelligent electronic device, etc.) is the intent of this standard, within the utility control system as the end user deems necessary for their unique system architecture.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Internet</keyword>
+  <keyword>IP networks</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Privacy</keyword>
+  <keyword>Virtual private networks</keyword>
+  <keyword>control systems</keyword>
+  <keyword>cyber security</keyword>
+  <keyword>encryption</keyword>
+  <keyword>ICS</keyword>
+  <keyword>IEEE 2030.102.1</keyword>
+  <keyword>IPsec</keyword>
+  <keyword>Lemnos</keyword>
+  <keyword>privacy</keyword>
+  <keyword>Virtual Private Network</keyword>
+  <keyword>VPN</keyword>
+</bibdata>

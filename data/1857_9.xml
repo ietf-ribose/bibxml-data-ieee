@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Immersive Visual Content Coding</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Immersive Visual Content Coding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9477231</uri>
+  <docidentifier type="IEEE">IEEE P1857.9/D2, June 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7814-4</docidentifier>
+  <docnumber>1857.9</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-07-07</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE 1857.9 is working on the standard which provides efficient coding tool sets for compression, decompression, and reconstructing of the immersive visual content data. The target applications and services include but are not limited to virtual reality such as unmanned aerial vehicle-based VR, augment reality, panorama video, free-view TV, panoramic stereo video, and other video/audio-enabled services and applications such as immersive video streaming, broadcasting, storage and communication.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>VR?3DoF</keyword>
+  <keyword>6DoF</keyword>
+  <keyword>decoding</keyword>
+  <keyword>encoding</keyword>
+  <keyword>frame</keyword>
+  <keyword>IEEE 1857.9&amp;amp;#8482;</keyword>
+  <keyword>image</keyword>
+  <keyword>IPTV</keyword>
+  <keyword>picture</keyword>
+  <keyword>prediction block</keyword>
+  <keyword>free-view TV</keyword>
+</bibdata>

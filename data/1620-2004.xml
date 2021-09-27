@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Standard for Test Methods for the Characterization of Organic Transistors and Materials</title>
+  <title type="main" format="text/plain">Standard for Test Methods for the Characterization of Organic Transistors and Materials</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1293918</uri>
+  <docidentifier type="IEEE">IEEE Std 1620-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3993-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94492</docidentifier>
+  <docnumber>1620-2004</docnumber>
+  <date type="created">
+    <on>2004</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2004-02-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes a method for characterizing organic electronic devices, including measurement techniques, methods of reporting data, and the testing conditions during characterization.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1620-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>FETs</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Measurement errors</keyword>
+  <keyword>field-effect transistor</keyword>
+  <keyword>organic electronic technology</keyword>
+  <keyword>organic materials</keyword>
+  <keyword>organic transis-tors</keyword>
+  <keyword>organic semiconductor technology</keyword>
+  <keyword>polymer field-effect transistor</keyword>
+</bibdata>

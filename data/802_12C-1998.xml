@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Supplement to Information Technology--Local and metropolitan area networks--Specific requirements--Part 12: Demad-priority access method, physical layer and repeater specifications: Full-Duplex Operation</title>
+  <title type="main" format="text/plain">Supplement to Information Technology--Local and metropolitan area networks--Specific requirements--Part 12: Demad-priority access method, physical layer and repeater specifications: Full-Duplex Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/750015</uri>
+  <docidentifier type="IEEE">IEEE Std 802.12c-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2777-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.89202</docidentifier>
+  <docnumber>802.12c-1998</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="published">
+    <on>2019-10-31</on>
+  </date>
+  <date type="issued">
+    <on>1998-03-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Standard withdrawn 14 January 2001. Optional MAC capabilities are defined to allow direct link connection between two end nodes with provision for both half-duplex and full-duplex operation; burst-mode packet transmission from an end node to a repeater where the end node may send one or more packets each time it is granted permission to transmit; and implementation of the MAC Control sublayer to allow the exchange of control requests between peer MAC entities across the network when in ISO/IEC 8802-3 compatibility mode. Full interoperability is maintained with existing ISO/IEC 8802-12 products.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Local area networks</keyword>
+  <keyword>burst mode</keyword>
+  <keyword>demand-priority access method</keyword>
+  <keyword>direct connect</keyword>
+  <keyword>flow control</keyword>
+  <keyword>full duplex</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Control</keyword>
+  <keyword>management</keyword>
+  <keyword>media access control</keyword>
+  <keyword>repeater</keyword>
+</bibdata>

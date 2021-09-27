@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Data Terminal Equipment (DTE) Power via the Media Dependent Interface (MDI) Enhancements</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Data Terminal Equipment (DTE) Power via the Media Dependent Interface (MDI) Enhancements</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5089345</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P802.3at/D4.2, Jun 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3373-0</docidentifier>
+  <docnumber>P802.3at/D4.2, Jun 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">(Amendment of IEEE Std 802.3¿-2008). The scope of this project is to augment the capabilities of the IEEE Std 802.3 standard with higher power levels and improved power management information. The project will augment the methodology for the provision of power via balanced cabling to connected Data Terminal Equipment with 802.3 interfaces. Optional augmented power limit will be made available for certain structured cabling systems. Compatibility with existing equipment will be maintained. Purpose: The purpose of the proposed project is to include higher power applications while providing enhanced power management information to reduce total system cost.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for High Level Architecture (HLA) Federation Development and Execution Process (FEDEP)</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for High Level Architecture (HLA) Federation Development and Execution Process (FEDEP)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1196921</uri>
+  <docidentifier type="IEEE">IEEE Std 1516.3-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3585-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94251</docidentifier>
+  <docnumber>1516.3-2003</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2003-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The processes and procedures that should be followed by users of the High Level Architecture (HLA)to develop and execute federations are de .ned in this recommended practice.This recommended practice is not intended to replace low-level management and systems engineering practices native to HLA user organizations,but is rather intended as a higher-level framework into which such practices can be integrated and tailored for specific uses.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The processes and procedures that should be followed by users of the High Level Archi-tecture (HLA) to develop and execute federations are defined in this recommended practice. Thisrecommended practice is not intended to replace low-level management and systems engineeringpractices native to HLA user organizations, but is rather intended as a higher-level framework intowhich such practices can be integrated and tailored for specific uses.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1730-2010 (Revision of IEEE Std 1516.3-2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Modeling</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Organizations</keyword>
+  <keyword>Computer architecture</keyword>
+  <keyword>federate</keyword>
+  <keyword>federation</keyword>
+  <keyword>Federation Development and Execution Process (FEDEP)</keyword>
+  <keyword>HighLevel Architecture (HLA)</keyword>
+  <keyword>Object Model (OM)</keyword>
+  <keyword>runtime infrastructure (RTI)</keyword>
+  <keyword>1730</keyword>
+</bibdata>

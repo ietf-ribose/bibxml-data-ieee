@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Metal-Oxide Surge Arresters for Alternating Current Power Circuits (&amp;amp;amp;#x003E;1KV)</title>
+  <title type="main" format="text/plain">IEEE Standard for Metal-Oxide Surge Arresters for Alternating Current Power Circuits (&amp;amp;amp;#x003E;1KV)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/777780</uri>
+  <docidentifier type="IEEE">IEEE Std C62.11-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1669-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.89856</docidentifier>
+  <docnumber>C62.11-1999</docnumber>
+  <date type="created">
+    <on>1999-08-02</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1999-03-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std C62.11-2005 Metal-oxide surge arresters designed to repeatedly limit the voltage surges on 48¬62 Hzpower circuits (&amp;amp;amp;#x003E;1 kV) are covered in this standard. These devices operate by discharging surgecurrent. Devices for separate mounting and those supplied integrally with other equipment are alsodiscussed.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.11-1993</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.11-2005 (Revision of IEEE Std C62.11-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>classifying current</keyword>
+  <keyword>discharge current</keyword>
+  <keyword>discharge voltage</keyword>
+  <keyword>duty-cycle voltage rating</keyword>
+  <keyword>maximum continuous operating voltage - MCOV -</keyword>
+  <keyword>maximum design cantilever load-static- MDCL-static -</keyword>
+  <keyword>metal-oxide surge arrester - MOSA -</keyword>
+  <keyword>operating duty cycle</keyword>
+  <keyword>rating</keyword>
+  <keyword>reference current - Iref -</keyword>
+  <keyword>reference voltage - Vref -</keyword>
+  <keyword>sparkover</keyword>
+  <keyword>surge arrester</keyword>
+  <keyword>ultimate mechanical strength-static - UMS-static -</keyword>
+  <keyword>valve</keyword>
+</bibdata>

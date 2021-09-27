@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Optimizing the Performance and Life of Lead-Acid Batteries in Remote Hybrid Power Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Optimizing the Performance and Life of Lead-Acid Batteries in Remote Hybrid Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4522641</uri>
+  <docidentifier type="IEEE">IEEE Std 1561-2007</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5354-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4522641</docidentifier>
+  <docnumber>1561-2007</docnumber>
+  <date type="created">
+    <on>2008-05-08</on>
+  </date>
+  <date type="published">
+    <on>2019-06-07</on>
+  </date>
+  <date type="issued">
+    <on>2007-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is applicable to lead-acid batteries that are used as the energy storage component in remote hybrid power supplies. The remote hybrid application, with its dual generator option, i.e., both renewable and dispatchable generation, is advantageous in that the battery can usually be charged at will and under circumstances that may also be advantageous for the dispatchable generator. The normative references provide guidance to battery safety, installation, and maintenance considerations. This guide discusses battery selection, sizing, and management issues, e.g., cycling, charging, and the effect of temperature and charge-discharge rates on performances such as life and capacity. An informative annex discusses the several lead-acid technologies.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1561-2019 (Revision of IEEE Std 1561-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Lead acid batteries</keyword>
+  <keyword>Hybrid power systems</keyword>
+  <keyword>Lead</keyword>
+  <keyword>1561-2007</keyword>
+  <keyword>charge control</keyword>
+  <keyword>deficit-charge cycling</keyword>
+  <keyword>oxygen recombination cycle</keyword>
+  <keyword>remote hybrid power systems</keyword>
+  <keyword>valve-regulated lead-acid (VRLA) batteries</keyword>
+  <keyword>vented lead-acid batteries</keyword>
+</bibdata>

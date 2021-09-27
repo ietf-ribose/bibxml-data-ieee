@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Information technology</title>
+  <title type="title-part" format="text/plain">Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirement -- Part 21: Media independent services framework TECHNICAL CORRIGENDUM 1: Clarification of parameter definition in group session key derivation</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Information technology - Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirement -- Part 21: Media independent services framework TECHNICAL CORRIGENDUM 1: Clarification of parameter definition in group session key derivation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8574028</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-21:2018/Cor.1:2018(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5376-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8574028</docidentifier>
+  <docnumber>8802-21:2018/Cor.1:2018-2018</docnumber>
+  <date type="created">
+    <on>2018-12-11</on>
+  </date>
+  <date type="published">
+    <on>2018-12-12</on>
+  </date>
+  <date type="issued">
+    <on>2018</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum provides technical and editorial corrections to IEEE Std 802.21-2017.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.21-2017/Cor 1-2017 (Corrigendum to IEEE Std 802.21-2017)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Data sharing</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>group</keyword>
+  <keyword>group session key</keyword>
+  <keyword>IEEE 802.21</keyword>
+  <keyword>master group key</keyword>
+  <keyword>media independent session key</keyword>
+</bibdata>

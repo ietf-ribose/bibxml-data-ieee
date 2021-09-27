@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Wireless Access in Vehicular Environments (WAVE)</title>
+  <title type="title-main" format="text/plain">Networking Services</title>
+  <title type="title-part" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6044681</uri>
+  <docidentifier type="IEEE">IEEE Std 1609.3-2010 (Revision of IEEE Std 1609.3-2007) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7054-1</docidentifier>
+  <docnumber>1609.3-2010</docnumber>
+  <date type="created">
+    <on>2010-12-30</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Wireless Access in Vehicular Environments (WAVE) Networking Services provides services to WAVE devices and systems. Layers 3 and 4 of the open system interconnect (OSI) model and the Internet Protocol (IP), User Datagram Protocol (UDP), and Transmission Control Protocol (TCP) elements of the Internet model are represented. Management and data services within WAVE devices are provided.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.3-2007</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.3-2016 (Revision of IEEE Std 1609.3-2010)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.3-2016 (Revision of IEEE Std 1609.3-2010)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>Transportation</keyword>
+  <keyword>Message systems</keyword>
+  <keyword>Provider Service Identifier (PSID)</keyword>
+  <keyword>Wireless Access in Vehicular Environments (WAVE)</keyword>
+  <keyword>WAVE Short Message (WSM)</keyword>
+</bibdata>

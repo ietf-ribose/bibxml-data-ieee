@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Design, Construction, and Operation of Safe and Reliable Substations for Environmental Acceptance</title>
+  <title type="main" format="text/plain">IEEE Guide for the Design, Construction, and Operation of Safe and Reliable Substations for Environmental Acceptance</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684574</uri>
+  <docidentifier type="IEEE">IEEE Std 1127-1990</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7073-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.8684574</docidentifier>
+  <docnumber>1127-1990</docnumber>
+  <date type="created">
+    <on>1991-01-31</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1990-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Significant community acceptance and environmental compatibility items to be considered during the planning and design phases, the construction period, and the operation of electric supply substations are identified, and ways to address these concerns to obtain community acceptance and environmental compatibility are documented. On-site generation and telecommunication facilities are not considered.</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1127-1998</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1127-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>A-weighted sound level</keyword>
+  <keyword>commercial zoning</keyword>
+  <keyword>hazardous material</keyword>
+  <keyword>industrial zoning</keyword>
+  <keyword>noise</keyword>
+  <keyword>residential zoning</keyword>
+  <keyword>wetlands</keyword>
+</bibdata>

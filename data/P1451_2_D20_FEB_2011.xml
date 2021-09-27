@@ -1,0 +1,75 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for a Smart Transducer Interface for Sensors and Actuators</title>
+  <title type="title-main" format="text/plain">Serial Point-to-Point Interface</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for a Smart Transducer Interface for Sensors and Actuators - Serial Point-to-Point Interface</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6216332</uri>
+  <docidentifier type="IEEE">IEEE P1451.2/D20, Feb 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7514-0</docidentifier>
+  <docnumber>P1451.2/D20, Feb 2011</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-06-12</on>
+  </date>
+  <date type="issued">
+    <on>2012-06-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE P1451.2 defines a wired point-to-point interface standard for sensors, specifically30 connectors and communication protocols for SPI, I2C, UART and RS-232-C interfaces together with the corresponding TEDS. This specification focuses on the Communication Modules that connect the TIM and NCAP using the IEEE Std 1451.0-2007 basic standard with brevity as a goal. The purpose of this revision is to make IEEE-1451.2-1997 more usable to a wider set of applications.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1451.2-1997</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1451.2-1997</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1451.2-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Transducers</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Acuators</keyword>
+  <keyword>IEEE-1451</keyword>
+  <keyword>1451</keyword>
+  <keyword>I236 C</keyword>
+  <keyword>NCAP</keyword>
+  <keyword>PHY</keyword>
+  <keyword>RS-232</keyword>
+  <keyword>Serial</keyword>
+  <keyword>Smart Actuator</keyword>
+  <keyword>Smart Sensor</keyword>
+  <keyword>Smart Transducer</keyword>
+  <keyword>SPI</keyword>
+  <keyword>TEDS</keyword>
+  <keyword>TIM</keyword>
+  <keyword>UART</keyword>
+</bibdata>

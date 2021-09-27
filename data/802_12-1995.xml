@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Local and Metropolitan Networks: Demand Priority Access Method, Physical Layer and Repeater Specification for 100 Mb/s Operation</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Networks: Demand Priority Access Method, Physical Layer and Repeater Specification for 100 Mb/s Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/476636</uri>
+  <docidentifier type="IEEE">IEEE Std 802.12-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9189-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.79554</docidentifier>
+  <docnumber>802.12-1995</docnumber>
+  <date type="created">
+    <on>1995-11-02</on>
+  </date>
+  <date type="published">
+    <on>2015-10-16</on>
+  </date>
+  <date type="issued">
+    <on>1995-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The media access control characteristics for the Demand Priority access method are specified. The layer management, physical layers, and media that support this access method are also specified. Layer and sublayer interface specifications are aligned to the ISO Open Systems Interconnection Basic Reference Model and ISO/IEC 8802 models. Specifications for 100 Mb/s operation over 100 = balanced cable (twisted-pair) category 3 through 5, 150 = shielded balanced cable, and fibre optic media are included.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>Access protocols</keyword>
+  <keyword>Repeaters</keyword>
+  <keyword>balanced cable</keyword>
+  <keyword>data processing</keyword>
+  <keyword>LAN</keyword>
+  <keyword>MAN</keyword>
+  <keyword>twisted pair</keyword>
+  <keyword>star topology</keyword>
+  <keyword>models</keyword>
+  <keyword>repeater</keyword>
+  <keyword>100 Mb/s operation</keyword>
+  <keyword>media access control</keyword>
+  <keyword>local area network</keyword>
+  <keyword>fibre optic</keyword>
+  <keyword>demand-priority access method</keyword>
+  <keyword>Network interconnection</keyword>
+  <keyword>Mode of data transmission</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Adaptive Streaming</title>
+  <title type="main" format="text/plain">IEEE Standard for Adaptive Streaming</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8667844</uri>
+  <docidentifier type="IEEE">IEEE Std 1857.7-2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5419-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2019.8667844</docidentifier>
+  <docnumber>1857.7-2018</docnumber>
+  <date type="updated">
+    <on>2020-05-22</on>
+  </date>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-03-15</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The media presentation description (MPD) format and media segment format for dynamic and adaptive streaming over networks such as Hypertext Transfer Protocol (HTTP) are specified in this standard. Particularly, the specified formats support multi-stream synchronization, content protection, and content authentication. The target applications and services include, but are not limited to, Internet media streaming, Internet Protocol television (IPTV), and video on demand.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the media presentation description (MPD) format and media segment format for dynamic and adaptive streaming over networks such as Hypertext Transfer Protocol (HTTP).</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Adaptive systems</keyword>
+  <keyword>Media streaming</keyword>
+  <keyword>Media</keyword>
+  <keyword>Hypertext systems</keyword>
+</bibdata>

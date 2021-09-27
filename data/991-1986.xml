@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Logic Circuit Diagrams</title>
+  <title type="main" format="text/plain">IEEE Standard for Logic Circuit Diagrams</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/35042</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 991-1986</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0950-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1986.86130</docidentifier>
+  <docnumber>991-1986</docnumber>
+  <date type="created">
+    <on>1986</on>
+  </date>
+  <date type="published">
+    <on>2018-01-19</on>
+  </date>
+  <date type="issued">
+    <on>1985-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides guidelines for preparation of diagrams depicting logic functions. It includes definitions, requirements for assignment of logic levels, application of logic symbols, presentation techniques, and labeling requirements with typical examples. The techniques are presented in the context of electrical/electronic systems, but also may be applied to nonelectrical systems (for example, pneumatic, hydraulic, or mechanical).</abstract>
+  <copyright>
+    <from>1986</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Logic circuits</keyword>
+  <keyword>Standards</keyword>
+  <keyword>diagrams</keyword>
+  <keyword>Logic functions</keyword>
+  <keyword>Logic circuits</keyword>
+</bibdata>

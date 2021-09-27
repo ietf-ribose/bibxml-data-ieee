@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Code for Industrial Control (600 Volts or Less)</title>
+  <title type="main" format="text/plain">IEEE Standard Test Code for Industrial Control (600 Volts or Less)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7383213</uri>
+  <docidentifier type="IEEE">AIEE No 74-1958</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0429-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1958.7383213</docidentifier>
+  <docnumber>74-1958</docnumber>
+  <date type="updated">
+    <on>2016-02-03</on>
+  </date>
+  <date type="created">
+    <on>1958-01-31</on>
+  </date>
+  <date type="published">
+    <on>2016-01-14</on>
+  </date>
+  <date type="issued">
+    <on>1958-12-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This test code is concerned with tests on a representative sample of an industrial control device or apparatus in order to substantiate conformance of that type of device or apparatus with a recognized standard of performance. The aim is to insure that the test methods and procedures are capable of giving information which is pertinent, significant, and reproducible. No attempt is made to specify standards of acceptability for the apparatus, nor to suggest which, if any of these tests, should be made.</abstract>
+  <copyright>
+    <from>1958</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Industrial control</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>AC motors</keyword>
+  <keyword>DC motors</keyword>
+</bibdata>

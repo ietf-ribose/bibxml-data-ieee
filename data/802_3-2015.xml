@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Ethernet</title>
+  <title type="main" format="text/plain">IEEE Standard for Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7428776</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3-2015 (Revision of IEEE Std 802.3-2012)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0078-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7428776</docidentifier>
+  <docnumber>802.3-2015</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-03-08</on>
+  </date>
+  <date type="issued">
+    <on>2015-09-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Ethernet local area network operation is specified for selected speeds of operation from 1 Mb/s to 100 Gb/s using a common media access control (MAC) specification and management information base (MIB). The Carrier Sense Multiple Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium (half duplex) operation, as well as full duplex operation. Speed specific Media Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY) for operation over coaxial, twisted pair or fiber optic cables, or electrical backplanes. System considerations for multisegment shared access networks describe the use of Repeaterswhich are defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation is supported at all speeds. Other specified capabilities include: various PHY types for access networks, PHYs suitable for metropolitan area network applications, and the provision of power over selected twisted pair PHY types.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Ethernet local area network operation is specified for selected speeds of operation from 1 Mb/s to 100 Gb/s using a common media access control (MAC) specification and management information base (MIB). The Carrier Sense Multiple Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium (half duplex) operation, as well as full duplex operation. Speed specific Media Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY) for operation over coaxial, twisted pair or fiber optic cables, or electrical backplanes. System considerations for multisegment shared access networks describe the use of Repeaters which are defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation is supported at all speeds. Other specified capabilities include: various PHY types for access networks, PHYs suitable for metropolitan area network applications, and the provision of power over selected twisted pair PHY types.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2012 (Revision to IEEE Std 802.3-2008)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Time measurement</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Passive optical networks</keyword>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>10BASE; 100BASE; 1000BASE; 10GBASE; 40GBASE; 100GBASE; 10 Gigabit Ethernet; 40 Gigabit Ethernet; 100 Gigabit Ethernet; attachment unit interface; AUI; Auto Negotiation; Backplane Ethernet DTE Power via the MDI; EPON; Ethernet in the First Mile; Ethernet passive optical network; Fast Ethernet; Gigabit Ethernet; GMII; IEEE 802.3; medium dependent interface; media MDI; MIB; MII; XGMII; PHY; physical coding sublayer; PMA; Power over Ethernet; type field; VLAN TAG</keyword>
+</bibdata>

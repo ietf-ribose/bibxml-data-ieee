@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments</title>
+  <title type="title-main" format="text/plain">Security Services for Applications and Management Messages</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments - Security Services for Applications and Management Messages</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6140530</uri>
+  <docidentifier type="IEEE">IEEE P1609.2/D12, January 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7443-3</docidentifier>
+  <docnumber>P1609.2/D12, Jan 2012</docnumber>
+  <date type="created">
+    <on>2012-01-25</on>
+  </date>
+  <date type="issued">
+    <on>2012-01-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines secure message formats and processing for use by Wireless Access in Vehicular Environments (WAVE) devices, including methods to secure WAVE management messages and methods to secure application messages. It also describes administrative functions necessary to support the core security functions.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Intelligent transportation systems</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Cryptography</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Message systems</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>security</keyword>
+  <keyword>cryptography</keyword>
+  <keyword>wireless access in vehicular environments (WAVE)</keyword>
+</bibdata>

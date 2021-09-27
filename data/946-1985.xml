@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for the Design of Safety-Related DC Auxiliary Power Systems for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for the Design of Safety-Related DC Auxiliary Power Systems for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/587785</uri>
+  <docidentifier type="IEEE">IEEE Std 946-1985</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4424-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.82392</docidentifier>
+  <docnumber>946-1985</docnumber>
+  <date type="created">
+    <on>1985</on>
+  </date>
+  <date type="published">
+    <on>2012-05-17</on>
+  </date>
+  <date type="issued">
+    <on>1985-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidance for the design of the dc auxiliary power systems for nuclear and large fossil-fueled power generating stations is provided. The components of the dc auxiliary power system, including lead storage batteries, static battery chargers, and distribution equipment, are addressed. Guidance for selecting the quantity and types of equipment, the equipment ratings, interconnections, instrumentation, control and protection is also provided.</abstract>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 946-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Qualifications</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Lead acid batteries</keyword>
+</bibdata>

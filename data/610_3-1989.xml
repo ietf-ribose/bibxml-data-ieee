@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Glossary of Modeling and Simulation Terminology</title>
+  <title type="main" format="text/plain">IEEE Standard Glossary of Modeling and Simulation Terminology</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/89695</uri>
+  <docidentifier type="IEEE">IEEE Std 610.3-1989</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-638-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.94599</docidentifier>
+  <docnumber>610.3-1989</docnumber>
+  <date type="created">
+    <on>1989-05-15</on>
+  </date>
+  <date type="published">
+    <on>2015-07-17</on>
+  </date>
+  <date type="issued">
+    <on>1989-01-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms currently in use in the computer field are identified, and standard definitions are established for them. Terms were excluded if they were considered to be parochial to one group or organization, company-proprietary or trademarked, multiword terms whose meaning could be inferred from the definitions of the component words, or terms whose meaning in the computer field could be directly inferred from their standard English meaning.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Game theory</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Modeling</keyword>
+  <keyword>Queuing analysis</keyword>
+  <keyword>Simulation</keyword>
+  <keyword>Standards</keyword>
+  <keyword>glossary</keyword>
+  <keyword>modeling</keyword>
+  <keyword>simulation</keyword>
+  <keyword>terminology</keyword>
+  <keyword>dictionary</keyword>
+</bibdata>

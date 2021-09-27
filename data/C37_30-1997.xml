@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Requirements for High Voltage Switches</title>
+  <title type="main" format="text/plain">IEEE Standard Requirements for High Voltage Switches</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/663234</uri>
+  <docidentifier type="IEEE">IEEE Std C37.30-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1064-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.86214</docidentifier>
+  <docnumber>C37.30-1997</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="published">
+    <on>2013-10-01</on>
+  </date>
+  <date type="issued">
+    <on>1997-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Required ratings and constructional requirements for switches above 1000 V are described. Superseded by IEEE Std C37.30.1-2011</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.30-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>high-voltage switches</keyword>
+</bibdata>

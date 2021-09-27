@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Loss Evaluation Guide for Power Transformers and Reactors</title>
+  <title type="main" format="text/plain">IEEE Loss Evaluation Guide for Power Transformers and Reactors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/211017</uri>
+  <docidentifier type="IEEE">IEEE Std C57.120-1991</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2709-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.114388</docidentifier>
+  <docnumber>C57.120-1991</docnumber>
+  <date type="created">
+    <on>1992-08-12</on>
+  </date>
+  <date type="published">
+    <on>2017-11-07</on>
+  </date>
+  <date type="issued">
+    <on>1991-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A method for establishing the dollar value of the electric power needed to supply the losses of a transformer or reactor is provided. Users can use this loss evaluation to determine the relative economic benefit of a high-first-cost, low-loss unit versus one with a lower first cost and higher losses, and to compare the offerings of two or more manufacturers to aid in making the best purchase choice. Manufacturers can use the evaluation to optimize the design and provide the most economically unit to bid and manufacture. The various types of losses are reviewed.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.120-2017 (Revision of IEEE Std C57.120-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Economics</keyword>
+  <keyword>Losses</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Inductors</keyword>
+  <keyword>Standards</keyword>
+  <keyword>economic</keyword>
+  <keyword>reactors</keyword>
+  <keyword>transformers</keyword>
+  <keyword>Loss evaluation</keyword>
+</bibdata>

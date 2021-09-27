@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Criteria for Accident Monitoring Instrumentation for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard Criteria for Accident Monitoring Instrumentation for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5629478</uri>
+  <docidentifier type="IEEE">IEEE Std 497-2010 (Revision of IEEE Std 497-2002)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6937-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5629478</docidentifier>
+  <docnumber>497-2010</docnumber>
+  <date type="updated">
+    <on>2010-11-26</on>
+  </date>
+  <date type="created">
+    <on>2010-11-10</on>
+  </date>
+  <date type="published">
+    <on>2015-02-25</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Criteria are established in this standard for variable selection, performance, design, and qualification of accident monitoring instrumentation, and include requirements for display alternatives for accident monitoring instrumentation, documentation of design bases, and use of portable instrumentation.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Criteria are established in this standard for variable selection, performance, design, and qualification of accident monitoring instrumentation, and include requirements for display alternatives for accident monitoring instrumentation, documentation of design bases, and use of portable instrumentation.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 497-2002 (Revision of IEEE Std 497-1981)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 497-2016 (Revision of IEEE Std 497-2010)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Instruments</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Accidents</keyword>
+  <keyword>Standards Board</keyword>
+  <keyword>Committees</keyword>
+  <keyword>accident monitoring</keyword>
+  <keyword>display criteria</keyword>
+  <keyword>selection criteria</keyword>
+  <keyword>type variables</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard</title>
+  <title type="title-main" format="text/plain">Health informatics--Personal health device communication Part 10421: Device specialization--Peak expiratory flow monitor (peak flow)</title>
+  <title type="main" format="text/plain">IEEE Standard - Health informatics--Personal health device communication Part 10421: Device specialization--Peak expiratory flow monitor (peak flow)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5644832</uri>
+  <docidentifier type="IEEE">IEEE Std 11073-10421-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6460-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5644832</docidentifier>
+  <docnumber>11073-10421-2010</docnumber>
+  <date type="updated">
+    <on>2011-02-16</on>
+  </date>
+  <date type="created">
+    <on>2010-11-19</on>
+  </date>
+  <date type="published">
+    <on>2021-04-19</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication is established in this standard between personal telehealth peak expiratory flow monitor devices and compute engines (e.g., cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. Appropriate portions of existing standards are leveraged, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors is specified in telehealth environments restricting optionality in base frameworks in favor of interoperability. A common core of communication functionality is defined for personal telehealth peak expiratory flow monitor devices.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication is established in this standard between personal telehealth peak expiratory flow monitor devices and compute engines (e.g., cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. Appropriate portions of existing standards are leveraged, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors is specified in telehealth environments restricting optionality in base frameworks in favor of interoperability. A common core of communication functionality is defined for personal telehealth peak expiratory flow monitor devices.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Flow control</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>forced expiratory volume</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>peak expiratory flow</keyword>
+  <keyword>peak expiratory flow monitor</keyword>
+  <keyword>peak flow</keyword>
+  <keyword>personal health devices</keyword>
+</bibdata>

@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Health Informatics</title>
+  <title type="title-main" format="text/plain">Personal Health Device Communication</title>
+  <title type="title-part" format="text/plain">Interface Profile -- Cabled Ethernet</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Health Informatics - Personal Health Device Communication - Interface Profile -- Cabled Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4447418</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P11073-30400_D03, Feb 2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2720-3</docidentifier>
+  <docnumber>P11073-30400_D03, Feb 2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document focuses on the application of the Ethernet family (IEEE 802.3&amp;amp;#8482;) of protocols for use in medial device communication. The scope is limited to referencing the appropriate Ethrnet family specifications and calling out any specific special needs or requirements of the ISOL/IEEE 11073(tm) environment, with a particular focus on easing interoperabiity and controlling costs.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Ethernet</keyword>
+  <keyword>medical device</keyword>
+  <keyword>medical device communications</keyword>
+  <keyword>MDC</keyword>
+  <keyword>MIB</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks -Virtual Bridged Local Area Networks Amendment: Equal Cost Multiple Paths (ECMP)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks -Virtual Bridged Local Area Networks Amendment: Equal Cost Multiple Paths (ECMP)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6748840</uri>
+  <docidentifier type="IEEE">IEEE P802.1Qbp/D1.7, September 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8966-6</docidentifier>
+  <docnumber>P802.1Qbp/D1.7, Sept 2013</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-02-26</on>
+  </date>
+  <date type="issued">
+    <on>2014-04-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std. 802.1Q specifies routing algorithms and relay behavior supporting equal cost multipath forwarding in shortest path bridged VLANs.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2011 (Revision of IEEE Std 802.1Q-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local aera networks</keyword>
+  <keyword>Metropolitan area entworks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Power system economics</keyword>
+  <keyword>Path planning</keyword>
+  <keyword>Economics</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MANs</keyword>
+  <keyword>Virtual Bridged Local Area Networks</keyword>
+  <keyword>Shortest Path Bridging</keyword>
+  <keyword>Equal CostMultiple Paths</keyword>
+  <keyword>ECMP</keyword>
+</bibdata>

@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Software User Documentation</title>
+  <title type="main" format="text/plain">IEEE Standard for Software User Documentation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/25327</uri>
+  <docidentifier type="IEEE">IEEE Std 1063-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3132-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.121943</docidentifier>
+  <docnumber>1063-1987</docnumber>
+  <date type="created">
+    <on>1988-08-22</on>
+  </date>
+  <date type="published">
+    <on>2013-03-19</on>
+  </date>
+  <date type="issued">
+    <on>1987-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Minimum requirements for the structure and information content of user documentation are provided. They apply primarily to technical substance rather than to style. Editorial and stylistic considerations are addressed only when they impact structure and content. Only traditional documentation, either printed on paper or stored in some other medium in the format of a printed document and used in a manner analogous to the way a printed document is used, is addressed.</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1063-2001</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Standards</keyword>
+  <keyword>Documentation</keyword>
+  <keyword>Manuals</keyword>
+  <keyword>documentation</keyword>
+  <keyword>user</keyword>
+</bibdata>

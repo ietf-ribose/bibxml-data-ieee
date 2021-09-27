@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Test Methods for the Characterization of Organic Transistors and Materials</title>
+  <title type="main" format="text/plain">IEEE Standard for Test Methods for the Characterization of Organic Transistors and Materials</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4696034</uri>
+  <docidentifier type="IEEE">IEEE Std 1620-2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6933-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEEStd.2008.4696034</docidentifier>
+  <docnumber>1620-2008</docnumber>
+  <date type="updated">
+    <on>2009-08-19</on>
+  </date>
+  <date type="created">
+    <on>2008-12-05</on>
+  </date>
+  <date type="published">
+    <on>2013-08-30</on>
+  </date>
+  <date type="issued">
+    <on>2008-09-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommended methods and standardized reporting practices for electrical characterization of printed and organic transistors are covered. Due to the nature of printed and organic electronics, significant measurement errors can be introduced if the electrical characterization design-of-experiment is not properly addressed. This standard describes the most common sources of measurement error, particularly for high-impedance electrical measurements commonly required for printed and organic transistors. This standard also gives recommended practices in order to minimize and/or characterize the effect of measurement artifacts and other sources of error encountered while measuring printed and organic transistors.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes a method for characterizing organic electronic devices, including measurement techniques, methods of reporting data, and the testing conditions during characterization. Adopted by IEC as IEC 62860 Edition 1.0 2013-07.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Transistors</keyword>
+  <keyword>Printing</keyword>
+  <keyword>Measurement uncertainty</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>Organic electronics</keyword>
+  <keyword>1620-2008</keyword>
+  <keyword>electrical characterization</keyword>
+  <keyword>FET</keyword>
+  <keyword>flexible electronics</keyword>
+  <keyword>high impedance</keyword>
+  <keyword>nanocomposite</keyword>
+  <keyword>nanotechnology</keyword>
+  <keyword>OFET</keyword>
+  <keyword>organic electronics</keyword>
+  <keyword>organic transistor</keyword>
+  <keyword>printed electronics</keyword>
+  <keyword>printing</keyword>
+  <keyword>transistor</keyword>
+</bibdata>

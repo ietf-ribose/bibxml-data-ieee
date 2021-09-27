@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Bridges and Bridged Networks Amendment: YANG Data Model</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Bridges and Bridged Networks Amendment: YANG Data Model</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8118316</uri>
+  <docidentifier type="IEEE">IEEE P802.1Qcp/D2.0 November 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4536-8</docidentifier>
+  <docnumber>IEEE P802.1Qcp/D2.0 Nov 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-11-22</on>
+  </date>
+  <date type="issued">
+    <on>2018-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A YANG data model in support of configuration and operational status information for a subset of Bridging capabilities is provided in this amendment to IEEE Std 802.1Q™-2018.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2014 (Revision of IEEE Std 802.1Q-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Virtual LAN</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>local area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+  <keyword>YANG.</keyword>
+</bibdata>

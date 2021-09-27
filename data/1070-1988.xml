@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Design and Testing of Transmission Modular Restoration Structure Components</title>
+  <title type="main" format="text/plain">IEEE Guide for the Design and Testing of Transmission Modular Restoration Structure Components</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29129</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 1070-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4140-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.81610</docidentifier>
+  <docnumber>1070-1988</docnumber>
+  <date type="created">
+    <on>1989-01-20</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1988-10-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 1070-1995. A generic specification, including design and testing, is provided for transmission modular restoration structure components being widely used today by many electric utilities, both publicly and privately owned. It can be used by electric utilities for acquisition of transmission modular restoration structure components, to ensure that the particular design is compatible with structures presently in use within the industry. This would enhance transmission mutual aid. Testing is prescribed to provide a high confidence level between manufacturers and/or suppliers and to promote competitive acquisition practices within the industry.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE 1070-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>restoration</keyword>
+  <keyword>transmission</keyword>
+  <keyword>modular</keyword>
+  <keyword>structure</keyword>
+  <keyword>components</keyword>
+</bibdata>

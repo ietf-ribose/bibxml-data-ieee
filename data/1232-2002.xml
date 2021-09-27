@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI- ESTATE)</title>
+  <title type="main" format="text/plain">(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI- ESTATE)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1075984</uri>
+  <docidentifier type="IEEE">IEEE Std 1232-2002 (Revision of IEEE Std 1232-1995, IEEE Std 1232.1-1997 and IEEE Std 1232.2-1998)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3296-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2002.94148</docidentifier>
+  <docnumber>1232-2002</docnumber>
+  <date type="created">
+    <on>2002-11-20</on>
+  </date>
+  <date type="published">
+    <on>2019-04-19</on>
+  </date>
+  <date type="issued">
+    <on>2002-06-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEC/IEEE 62243-2005 (SH/SS95359) AI-ESTATE is a set of specifications for data interchange and for standard services forthe test and diagnostic environment. The purpose of AI-ESTATE is to standardize interfaces between functional elements of an intelligent diagnostic reasoner and representations of diagnostic knowledge and data for use by such diagnostic reasoners. Formal information models are defined to form the basis for a format to facilitate exchange of persistent diagnostic information between two reasoners, and also to provide a formal typing system for diagnostic services. This standard thendefines the services to manipulate diagnostic information and to control a diagnostic reasoner.</abstract>
+  <copyright>
+    <from>2002</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1232-1995</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1232-2010 (Revision of IEEE Std 1232-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Electronic data interchange</keyword>
+  <keyword>Diagnostic reasoning</keyword>
+  <keyword>Knowledge representation</keyword>
+  <keyword>Software requirements and specifications</keyword>
+  <keyword>Testing</keyword>
+  <keyword>AI-ESTATE</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>diagnostic inference</keyword>
+  <keyword>diagnostic model</keyword>
+  <keyword>diagnostic services</keyword>
+  <keyword>dynamic context</keyword>
+  <keyword>fault tree</keyword>
+  <keyword>knowledge exchange</keyword>
+  <keyword>system test</keyword>
+</bibdata>

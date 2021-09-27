@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Measuring Method of Overhead Power Transmission Line Galloping Based on Monocular Video</title>
+  <title type="main" format="text/plain">IEEE Guide for Measuring Method of Overhead Power Transmission Line Galloping Based on Monocular Video</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9471077</uri>
+  <docidentifier type="IEEE">IEEE Std 2828-2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7565-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9471077</docidentifier>
+  <docnumber>2828-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-07-01</on>
+  </date>
+  <date type="issued">
+    <on>2021-05-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Overhead transmission line galloping is common in many countries, and the measurement and research for galloping have become increasingly necessary. Meanwhile, the development of machine vision technology provides a good technical basis for the field measurement of galloping. Galloping measurement is to obtain its characteristic parameters, such as galloping amplitude, frequency, loops number, and traces, which are the basis for galloping mechanism research and anti-galloping scheme development. In order to guide the field measurement of galloping, this guide has been developed to specify the monocular video-based measurement process, data processing and analysis method. The measuring method recommended in this guide has such advantages as non-contact, multi-point synchronous, and wide range measurement.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Video communication</keyword>
+  <keyword>Transmission line measurements</keyword>
+  <keyword>Frequency measurement</keyword>
+  <keyword>Machine vision</keyword>
+  <keyword>Frequency locked loops</keyword>
+  <keyword>Data processing</keyword>
+  <keyword>feature point</keyword>
+  <keyword>field measurement</keyword>
+  <keyword>galloping</keyword>
+  <keyword>IEEE 2828</keyword>
+  <keyword>monocular video</keyword>
+  <keyword>overhead transmission line</keyword>
+</bibdata>

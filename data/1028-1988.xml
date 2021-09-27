@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Software Reviews and Audits</title>
+  <title type="main" format="text/plain">IEEE Standard Software Reviews and Audits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29123</uri>
+  <docidentifier type="IEEE">IEEE Std 1028-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4725-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.81607</docidentifier>
+  <docnumber>1028-1988</docnumber>
+  <date type="created">
+    <on>1989</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1988-06-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Definitions and uniform procedures for review and audit applicable to both critical and noncritical software are provided. The processes include management review, technical review, software inspection, walkthrough, and audit. The processes defined are applicable throughout the software life cycle.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Computer industry</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Standards</keyword>
+  <keyword>reviews</keyword>
+  <keyword>audits</keyword>
+  <keyword>Software quality</keyword>
+  <keyword>Software development management</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Ubiquitous Green Community Control Network: Heterogeneous Networks Convergence and Scalability</title>
+  <title type="main" format="text/plain">IEEE Standard for Ubiquitous Green Community Control Network: Heterogeneous Networks Convergence and Scalability</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6823069</uri>
+  <docidentifier type="IEEE">IEEE Std 1888.2-2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9026-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6823069</docidentifier>
+  <docnumber>1888.2-2014</docnumber>
+  <date type="updated">
+    <on>2014-07-24</on>
+  </date>
+  <date type="created">
+    <on>2014-05-30</on>
+  </date>
+  <date type="published">
+    <on>2014-05-29</on>
+  </date>
+  <date type="issued">
+    <on>2014-03-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes heterogeneous networks convergence and scalability, specifies the requirements of network convergence, extends the system architecture defined in IEEE Std 1888(TM), IEEE Standard for Ubiquitous Green Community Control Network Protocol, with two new IEEE 1888(TM) Components, i.e., the reconfigurable resolution server (RRS) and the intelligent application resolver (IAR), and generalizes primitive data type expressions and explicit field-bus data type management in IEEE 1888 systems. This standard enables IEEE 1888 systems to interoperate with heterogeneous access networks efficiently and improves the efficiency, flexibility, scalability and manageability of IEEE 1888 systems.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes heterogeneous networks convergence and scalability, specifies the requirements of network convergence, extends the system architecture defined in IEEE Std 1888(TM), IEEE Standard for Ubiquitous Green Community Control Network Protocol, with two new IEEE 1888(TM) Components, i.e., the reconfigurable resolution server (RRS) and the intelligent application resolver (IAR), and generalizes primitive data type expressions and explicit field-bus data type management in IEEE 1888 systems. This standard enables IEEE 1888 systems to interoperate with heterogeneous access networks efficiently and improves the efficiency, flexibility, scalability and manageability of IEEE 1888 systems.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Green design</keyword>
+  <keyword>Ubiquitous computing</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Scalability</keyword>
+  <keyword>Field buses</keyword>
+  <keyword>Scalability</keyword>
+  <keyword>field-bus data type</keyword>
+  <keyword>heterogeneous network convergence</keyword>
+  <keyword>IEEE 1888.2(TM)</keyword>
+  <keyword>intelligent application resolver</keyword>
+  <keyword>reconfigurable resolution server</keyword>
+  <keyword>scalability</keyword>
+  <keyword>primitive data type</keyword>
+</bibdata>

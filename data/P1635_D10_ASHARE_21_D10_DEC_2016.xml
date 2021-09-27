@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE/ASHRAE Draft Guide for the Ventilation and Thermal Management of Batteries for Stationary Applications</title>
+  <title type="main" format="text/plain">IEEE/ASHRAE Draft Guide for the Ventilation and Thermal Management of Batteries for Stationary Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7830763</uri>
+  <docidentifier type="IEEE">P1635/D10/ASHARE 21/D10, December 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3768-4</docidentifier>
+  <docnumber>P1635/D10/ASHARE 21/D10, Dec 2016</docnumber>
+  <date type="created">
+    <on>2017-01-23</on>
+  </date>
+  <date type="published">
+    <on>2017-01-24</on>
+  </date>
+  <date type="issued">
+    <on>2018-05-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Vented lead-acid (VLA), valve-regulated lead-acid (VRLA), and nickel-cadmium (NiCd) stationary battery installations are discussed in this guide, written to serve as a bridge between the electrical designer and the heating, ventilation, and air-conditioning (HVAC) designer. Ventilation of stationary battery installations is critical to improving battery life while reducing the hazards associated with hydrogen production. This guide describes battery operating modes and the hazards associated with each. It provides the HVAC designer with the information to provide a cost effective ventilation solution.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ASHRAE</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1635-2012/ASHRAE Guideline 21-2012</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Batteries</keyword>
+  <keyword>Ventilation</keyword>
+  <keyword>Hydrogen</keyword>
+  <keyword>Thermal analysis</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>ASHRAE Guideline 21</keyword>
+  <keyword>battery</keyword>
+  <keyword>battery cabinets</keyword>
+  <keyword>battery gassing</keyword>
+  <keyword>battery room</keyword>
+  <keyword>battery vaults</keyword>
+  <keyword>forced ventilation</keyword>
+  <keyword>hydrogen</keyword>
+  <keyword>IEEE 1635&amp;amp;amp;#8482;</keyword>
+  <keyword>natural ventilation</keyword>
+  <keyword>stationary battery</keyword>
+  <keyword>thermal management</keyword>
+  <keyword>ventilation</keyword>
+  <keyword>ventilation system maintenance</keyword>
+</bibdata>

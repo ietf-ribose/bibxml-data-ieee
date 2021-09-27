@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Communications Protocol Aboard Passenger Trains</title>
+  <title type="main" format="text/plain">IEEE Standard for Communications Protocol Aboard Passenger Trains</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5724313</uri>
+  <docidentifier type="IEEE">IEEE Std 1473-2010 (Revision of IEEE Std 1473-1999)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6527-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5724313</docidentifier>
+  <docnumber>1473-2010</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2010-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Communications protocols to be used for inter-unit and intra-unit serial data communications between subsystems aboard passenger trains are defined by this standard. Minimum acceptable parameters for a network that can simultaneously handle monitoring and control traffic from multiple systems are set forth. While the network is not vital, it is intended to be capable of carrying vital messages.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Communications protocols to be used for inter-unit and intra-unit serial data communications between subsystems aboard passenger trains are defined by this standard. Minimum acceptable parameters for a network that can simultaneously handle monitoring and control traffic from multiple systems are set forth. While the network is not vital, it is intended to be capable of carrying vital messages.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Railway communication</keyword>
+  <keyword>Communication networks</keyword>
+  <keyword>Transportation</keyword>
+  <keyword>communications networks</keyword>
+  <keyword>communications protocol</keyword>
+  <keyword>commuter rail transit</keyword>
+  <keyword>IEEE 1473</keyword>
+  <keyword>light-rail transit</keyword>
+  <keyword>rail transit</keyword>
+  <keyword>train bus</keyword>
+  <keyword>vehicle bus</keyword>
+</bibdata>

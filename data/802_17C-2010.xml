@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 17: Resilient packet ring (RPR) access method and physical layer specifications Amendment 2: Protected inter-ring connection</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 17: Resilient packet ring (RPR) access method and physical layer specifications Amendment 2: Protected inter-ring connection</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5465041</uri>
+  <docidentifier type="IEEE">IEEE Std 802.17c-2010 (Amendment to IEEE Std 802.17-2004 as amended by IEEE Std 802.17b-2007)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6229-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.5465041</docidentifier>
+  <docnumber>802.17c-2010</docnumber>
+  <date type="updated">
+    <on>2010-06-01</on>
+  </date>
+  <date type="created">
+    <on>2010-05-07</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2010-03-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A service provider's use of the architecture and protocols of IEEE 802.17 to support ring interconnection through dual station homing, providing 50 ms protection, loop prevention, and load balancing of traffic between rings, is added by this amendment.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A service provider's use of the architecture and protocols of IEEE 802.17 to support ring interconnection through dual station homing, providing 50 ms protection, loop prevention, and load balancing of traffic between rings, is added by this amendment.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.17-2004</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media access protocol</keyword>
+  <keyword>topology</keyword>
+  <keyword>bridging</keyword>
+  <keyword>fairness</keyword>
+  <keyword>layer management</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>metropolitan area network (MAN)</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>protection switching</keyword>
+  <keyword>resilient packet ring (RPR)</keyword>
+  <keyword>ring topology</keyword>
+  <keyword>spatial reuse</keyword>
+  <keyword>topology detection</keyword>
+</bibdata>

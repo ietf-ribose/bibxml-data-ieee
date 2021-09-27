@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Architectural Building Blocks Enabling Network-Device Distributed Decision Making for Optimized Radio Resource Usage in Heterogeneous Wireless Access Networks Amendment 1: Architecture and Interfaces for Dynamic Spectrum Access Networks in White Space Frequency Bands</title>
+  <title type="main" format="text/plain">IEEE Standard for Architectural Building Blocks Enabling Network-Device Distributed Decision Making for Optimized Radio Resource Usage in Heterogeneous Wireless Access Networks Amendment 1: Architecture and Interfaces for Dynamic Spectrum Access Networks in White Space Frequency Bands</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6022707</uri>
+  <docidentifier type="IEEE">IEEE Std 1900.4a-2011 (Amendment to IEEE Std 1900.4-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6673-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6022707</docidentifier>
+  <docnumber>1900.4a-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2013-10-23</on>
+  </date>
+  <date type="issued">
+    <on>2011-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Additional components of the IEEE 1900.4 system are defined in this amendment to enable mobile wireless access service in white space frequency bands without any limitation on used radio interface (physical and media access control layers, carrier frequency, etc.).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Additional components of the IEEE 1900.4 system are defined in this amendment to enable mobile wireless access service in white space frequency bands without any limitation on used radio interface (physical and media access control layers, carrier frequency, etc.).</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1900.4-2009</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Spread spectrum communication</keyword>
+  <keyword>White spaces</keyword>
+  <keyword>Radio spectrum management</keyword>
+  <keyword>dynamic spectrum access</keyword>
+  <keyword>IEEE 1900.4</keyword>
+  <keyword>IEEE 1900.4a</keyword>
+  <keyword>mobile wireless access</keyword>
+  <keyword>white space frequency bands</keyword>
+</bibdata>

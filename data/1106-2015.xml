@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement of Vented Nickel-Cadmium Batteries for Stationary Applications</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Installation, Maintenance, Testing, and Replacement of Vented Nickel-Cadmium Batteries for Stationary Applications - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7361675</uri>
+  <docidentifier type="IEEE">IEEE Std 1106-2015 (Revision of IEEE Std 1106-2005) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0615-4</docidentifier>
+  <docnumber>1106-2015</docnumber>
+  <date type="created">
+    <on>2015-11-16</on>
+  </date>
+  <date type="published">
+    <on>2015-12-21</on>
+  </date>
+  <date type="issued">
+    <on>2015-10-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice provides recommendations for installation design and for installation, maintenance, and testing procedures that can be used to optimize the life and performance of vented nickel-cadmium batteries, including partially recombinant types, used in stationary applications.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1106-2005 (Revision of IEEE Std 1106-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Batteries</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Nickel cadmium batteries</keyword>
+  <keyword>Testing</keyword>
+  <keyword>battery tests</keyword>
+  <keyword>capacity test methods</keyword>
+  <keyword>stationary applications</keyword>
+  <keyword>vented nickel-cadmium batteries</keyword>
+</bibdata>

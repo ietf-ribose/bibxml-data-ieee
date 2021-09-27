@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 100 Mb/s Operation over a Single Balanced Twisted Pair Cable (100BASE-T1)</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 100 Mb/s Operation over a Single Balanced Twisted Pair Cable (100BASE-T1)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7226755</uri>
+  <docidentifier type="IEEE">IEEE P802.3bw/D3.3, August 2015 (Amendment of IEEE Std 802.3-201x)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0061-9</docidentifier>
+  <docnumber>P802.3bw/D3.3, Aug 2015</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-08-27</on>
+  </date>
+  <date type="issued">
+    <on>2015-10-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE 802.3 Standard for Ethernet defines the 100BASE-T1 Physical Layer (PHY) specifications and management parameters for point-to-point full duplex 100 Mb/s operation over single balanced twisted pair cabling. This specification provides fully functional and electrical specifications for the type 100BASE-T1 PHY. This specification also specifies the baseband medium used with 100BASE-T1</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Copper</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Physical medium attachment</keyword>
+  <keyword>SLAVE</keyword>
+  <keyword>Medium dependent interfaces</keyword>
+  <keyword>100BASE-T1</keyword>
+  <keyword>Copper</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>MASTER-SLAVE</keyword>
+  <keyword>Medium Dependent Interface</keyword>
+  <keyword>Physical Coding Sublayer</keyword>
+  <keyword>Physical Layer</keyword>
+  <keyword>Physical Medium Attachment.</keyword>
+</bibdata>

@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">American National Standard Data Format for Radiation Detectors Used for Homeland Security</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">American National Standard Data Format for Radiation Detectors Used for Homeland Security - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9351801</uri>
+  <docidentifier type="IEEE">ANSI N42.42-2020 (Revision of ANSI N42.42-2012) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7356-9</docidentifier>
+  <docnumber>N42.42-2020</docnumber>
+  <date type="updated">
+    <on>2021-05-23</on>
+  </date>
+  <date type="created">
+    <on>2020-11-20</on>
+  </date>
+  <date type="published">
+    <on>2021-02-09</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The data format to be used for both required and optional data to be made available by radiation measurement instruments for homeland security applications is specified. The performance for these types of instruments is described in other standards, such as ANSI N42.32, ANSI N42.33, ANSI N42.34, ANSI N42.35, ANSI N42.38, ANSI N42.43, ANSI N42.48, ANSI N42.49A, and ANSI N42.53. (The PDF of this standard is available to you at no cost compliments of the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=83)</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The data format to be used for both required and optional data to be made available by radiation measurement instruments for homeland security applications is specified. The performance for these types of instruments is described in other standards, such as ANSI N42.32, ANSI N42.33, ANSI N42.34, ANSI N42.35, ANSI N42.38, ANSI N42.43, ANSI N42.48, ANSI N42.49A, and ANSI N42.53. (The PDF of this standard is available to you at no cost compliments of the IEEE GET program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=83)</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI N42.42-2012 (Revision of ANSI N42.42-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Radiation detection</keyword>
+  <keyword>Radiation monitoring</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>ANSI N42.42</keyword>
+  <keyword>data format</keyword>
+  <keyword>DHS standards</keyword>
+  <keyword>homeland security</keyword>
+  <keyword>radiation detectors</keyword>
+  <keyword>radiation instruments</keyword>
+  <keyword>radiation measurement instruments</keyword>
+</bibdata>

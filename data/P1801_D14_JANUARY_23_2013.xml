@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Design and Verification of Low-Power Integrated Circuits</title>
+  <title type="main" format="text/plain">IEEE Standard for Design and Verification of Low-Power Integrated Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6422312</uri>
+  <docidentifier type="IEEE">IEEE Std P1801/D14, January 23, 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8213-1</docidentifier>
+  <docnumber>P1801/D14, January 23, 2013</docnumber>
+  <date type="created">
+    <on>2013-05-29</on>
+  </date>
+  <date type="published">
+    <on>2013-01-28</on>
+  </date>
+  <date type="issued">
+    <on>2013-03-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A method is provided for specifying power intent for an electronic design, for use in verification of the structure and behavior of the design in the context of a given power management architecture, and for driving implementation of that power management architecture. The method supports incremental refinement of power intent specifications required for IP-based design flows.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1801-2009</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Semantics</keyword>
+  <keyword>Power system planning</keyword>
+  <keyword>Interface states</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Integrated circuits</keyword>
+  <keyword>corruption semantics</keyword>
+  <keyword>IEEE 1801</keyword>
+  <keyword>interface specification</keyword>
+  <keyword>IP reuse</keyword>
+  <keyword>isolation</keyword>
+  <keyword>level-shifting</keyword>
+  <keyword>power-aware design</keyword>
+  <keyword>power domains</keyword>
+  <keyword>power intent</keyword>
+  <keyword>power modes</keyword>
+  <keyword>power states</keyword>
+  <keyword>progressive design refinement</keyword>
+  <keyword>retention</keyword>
+  <keyword>retention strategies</keyword>
+</bibdata>

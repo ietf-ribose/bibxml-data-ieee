@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Evaluating the Effect of Solar Radiation on Outdoor Metal-Enclosed Switchgear</title>
+  <title type="main" format="text/plain">IEEE Guide for Evaluating the Effect of Solar Radiation on Outdoor Metal-Enclosed Switchgear</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8023899</uri>
+  <docidentifier type="IEEE">IEEE Std C37.24-2017 (Revision of IEEE Std C37.24-2003)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4041-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.8023899</docidentifier>
+  <docnumber>C37.24-2017</docnumber>
+  <date type="updated">
+    <on>2017-09-22</on>
+  </date>
+  <date type="created">
+    <on>2017-08-28</on>
+  </date>
+  <date type="published">
+    <on>2017-08-31</on>
+  </date>
+  <date type="issued">
+    <on>2017-03-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information to assist in evaluating the effect of solar radiation on outdoor metal-enclosed switchgear including metal-enclosed bus and control switchboards is provided in this guide. Specific data in the form of a continuous current capability factor for specific maximum monthly normal temperatures at the installation location to adjust the continuous current capability of outdoor metal-enclosed switchgear to the solar radiation condition required are given in this guide. Examples of maximum monthly normal temperatures along with sources for data for the US and for Canada are also presented in this guide.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Information to assist in evaluating the effect of solar radiation on outdoor metal-enclosed switchgear including metal-enclosed bus and control switchboards is provided in this guide. Specific data in the form of a continuous current capability factor for specific maximum monthly normal temperatures at the installation location to adjust the continuous current capability of outdoor metal-enclosed switchgear to the solar radiation condition required are given in this guide. Examples of maximum monthly normal temperatures along with sources for data for the US and for Canada are also presented in this guide.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.24-2003 (Revision of IEEE Std C37.24-1986)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Solar radiation</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Temperature measurement</keyword>
+  <keyword>absorption coefficient</keyword>
+  <keyword>finish</keyword>
+  <keyword>IEEE C37.24&amp;amp;#8482;</keyword>
+  <keyword>metal-enclosed switchgear</keyword>
+  <keyword>outdoor</keyword>
+  <keyword>solar constant</keyword>
+  <keyword>solar radiation</keyword>
+  <keyword>temperature</keyword>
+</bibdata>

@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for 2nd Generation IEEE 1857 Video Coding</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for 2nd Generation IEEE 1857 Video Coding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8410919</uri>
+  <docidentifier type="IEEE">IEEE P1857.4/D3, July 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5061-4</docidentifier>
+  <docnumber>P1857.4/D3, Jul 2017</docnumber>
+  <date type="created">
+    <on>2018-10-12</on>
+  </date>
+  <date type="published">
+    <on>2018-07-13</on>
+  </date>
+  <date type="issued">
+    <on>2018-10-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A set of tools for efficient video coding, including directional intra prediction, variable block size inter prediction, context adaptive binary arithmetic coding, and the two corresponding decoding procedures, is defined in this standard. The target applications and services include, but are not limited to, UHDTV (ultra high definition TV), IP-based video surveillance, Internet video, IP-based video conference, IPTV, user-generated multimedia content, and other video/audio-enabled services and applications such as digital television broadcasting, digital storage media, and communication.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Video coding</keyword>
+  <keyword>UHF communication</keyword>
+  <keyword>Surveillance</keyword>
+  <keyword>IPTV</keyword>
+  <keyword>Internet</keyword>
+  <keyword>Encoding</keyword>
+  <keyword>coding unit</keyword>
+  <keyword>decoding</keyword>
+  <keyword>encoding</keyword>
+  <keyword>entropy coding</keyword>
+  <keyword>field</keyword>
+  <keyword>frame</keyword>
+  <keyword>IEEE 1857.4(TM)</keyword>
+  <keyword>image</keyword>
+  <keyword>inter prediction</keyword>
+  <keyword>Internet video</keyword>
+  <keyword>intra prediction</keyword>
+  <keyword>IPTV</keyword>
+  <keyword>picture</keyword>
+  <keyword>prediction block</keyword>
+  <keyword>prediction unit</keyword>
+  <keyword>quantization</keyword>
+  <keyword>slice</keyword>
+  <keyword>transform</keyword>
+  <keyword>transform block</keyword>
+  <keyword>UHDTV</keyword>
+  <keyword>ultra high definition</keyword>
+  <keyword>video surveillance</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Local and Metropolitan Area Networks Coexistence of Fixed Broadband Wireless Access Systems</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Local and Metropolitan Area Networks Coexistence of Fixed Broadband Wireless Access Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1300985</uri>
+  <docidentifier type="IEEE">IEEE Std 802.16.2-2004 (Revision of IEEE Std 802.16.2-2001)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3985-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94549</docidentifier>
+  <docnumber>802.16.2-2004</docnumber>
+  <date type="created">
+    <on>2004</on>
+  </date>
+  <date type="published">
+    <on>2015-09-10</on>
+  </date>
+  <date type="issued">
+    <on>2004-02-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice provides recommendations for the design and coordinated deployment of fixed broadband wireless access systems in order to control interference and facilitate coexistence. It analyzes appropriate coexistence scenarios and provides guidance for system design, deployment, coordination, and frequency usage. It generally addresses licensed spectrum between 2 GHz and 66 GHz, with a detailed emphasis on 3.5 GHz, 10.5 GHz, and 23.5 &amp;amp;#8211; 43.5 GHz.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Electromagnetic radiative interference</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>Radio spectrum management</keyword>
+  <keyword>coexistence</keyword>
+  <keyword>fixed broadband wireless access (FBWA)</keyword>
+  <keyword>interference</keyword>
+  <keyword>local multipoint distribution service (LMDS)</keyword>
+  <keyword>millimeter waves</keyword>
+  <keyword>multichannel multipoint distribution service (MMDS)</keyword>
+  <keyword>microwaves</keyword>
+  <keyword>multipoint (MP)</keyword>
+  <keyword>point-to-multipoint (PMP)</keyword>
+  <keyword>radio</keyword>
+</bibdata>

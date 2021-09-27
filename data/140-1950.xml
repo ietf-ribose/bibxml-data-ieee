@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Minimization of Interference from Radio-Frequency Heating Equipment</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Minimization of Interference from Radio-Frequency Heating Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/18437</uri>
+  <docidentifier type="IEEE">IEEE Std 140-1950</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4342-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1950.118984</docidentifier>
+  <docnumber>140-1950</docnumber>
+  <date type="created">
+    <on>1950-05-15</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1950</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded. IEEE Recommended Practice for Minimization of Interference from Radio-Frequency Heating Equipment, describes procedures that may be applied in the design and construction of radio-frequency heating equipment used for heating in industrial and other purposes, excluding applications in the field of telecommunication and information technology. These procedures are intended to reduce the amount of radio-frequency energy leaks, which can interfere with other equipment and broadcast services; they may also be used as remedial measures when harmful interference occurs.</abstract>
+  <copyright>
+    <from>1950</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 140-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Electromagnetic interference</keyword>
+  <keyword>Interference suppression</keyword>
+  <keyword>Electromagnetic heating</keyword>
+  <keyword>Shielding</keyword>
+  <keyword>Standards</keyword>
+  <keyword>radio-frequency energy leak</keyword>
+  <keyword>radio-frequency heating equipment</keyword>
+</bibdata>

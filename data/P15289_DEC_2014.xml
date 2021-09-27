@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE Approved Draft International Standard Systems and software engineering -- Content of life-cycle information products (documentation)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Approved Draft International Standard Systems and software engineering -- Content of life-cycle information products (documentation)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7017991</uri>
+  <docidentifier type="IEEE">ISO/IEC FDIS P15289, December 2014 (E)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9519-3</docidentifier>
+  <docnumber>P15289, Dec 2014</docnumber>
+  <date type="created">
+    <on>2015-05-15</on>
+  </date>
+  <date type="published">
+    <on>2015-01-22</on>
+  </date>
+  <date type="issued">
+    <on>2015-03-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This International Standard is based on the life-cycle processes specified in ISO/IEC 12207:2008 (IEEE Std 12207-2008), Systems and software engineering Software life cycle processes; ISO/IEC 15288:2008 (IEEE Std 15288-2008), Systems and software engineering System life cycle processes; and the service management processes specified in ISO/IEC 20000-1:2011 (IEEE Std 20000-1:2013), Information technology Service management Part 1: Service Management System Requirements; and ISO/IEC 20000-2:2012(IEEE Std 20000-2:2013), Information technology Service management Part 2: Guidance on theapplication of service management systems.IEEE contributed IEEE 12207.1-1997, Industry Implementation of International Standard ISO/IEC 12207:1995.(ISO/IEC 12207) Standard for Information Technology Software life cycle processes Life cycle data, as asource for this International Standard.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 15289:2011(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Information technology</keyword>
+</bibdata>

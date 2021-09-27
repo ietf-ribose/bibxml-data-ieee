@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Artificial Intelligence (AI) Model Representation, Compression, Distribution and Management</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Artificial Intelligence (AI) Model Representation, Compression, Distribution and Management</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9543630</uri>
+  <docidentifier type="IEEE">IEEE P2941/D3, September 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7965-3</docidentifier>
+  <docnumber>P2941/D3, Sept 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-09-21</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines AI development interface, AI model interoperable representation, coding format, and model encapsulated format for efficient AI model inference, storage, distribution, and management</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Convolutional neural networks</keyword>
+  <keyword>Neural networks</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Convolution Neural Networks</keyword>
+  <keyword>Neural Network Representation</keyword>
+  <keyword>Model Compression</keyword>
+  <keyword>Interoperable Representation</keyword>
+  <keyword>Compact Representation</keyword>
+  <keyword>Coding Format</keyword>
+  <keyword>Encapsulated Format</keyword>
+</bibdata>

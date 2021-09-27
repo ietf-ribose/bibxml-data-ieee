@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Software Acquisition.</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Software Acquisition.</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/467420</uri>
+  <docidentifier type="IEEE">IEEE Std 1062-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0412-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.122163</docidentifier>
+  <docnumber>1062-1993</docnumber>
+  <date type="created">
+    <on>1994</on>
+  </date>
+  <date type="issued">
+    <on>1993-12-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1062, 1998 Edition</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1062, 1998 Edition</formattedref>
+    </bibitem>
+  </relation>
+</bibdata>

@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Software Quality Assurance Processes</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Software Quality Assurance Processes</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6781526</uri>
+  <docidentifier type="IEEE">IEEE P730/D9, November 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8805-8</docidentifier>
+  <docnumber>P730/D9, Nov 2013</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-04-01</on>
+  </date>
+  <date type="issued">
+    <on>2014-03-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard establishes requirements for initiating, planning, controlling, and executing the Software Quality Assurance processes of a software development or maintenance project. This standard is harmonized with the software life cycle process of ISO/IEC 12207:2008 and the information content requirements of ISO/IEC/IEEE 15289:2011</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 730-2002 (Revision of IEEE Std 730-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software quality</keyword>
+  <keyword>Quality assurance</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Contracts</keyword>
+  <keyword>Project management</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>software</keyword>
+  <keyword>SQA</keyword>
+  <keyword>project</keyword>
+  <keyword>requirements</keyword>
+  <keyword>quality</keyword>
+  <keyword>standard</keyword>
+  <keyword>assurance</keyword>
+  <keyword>conformance</keyword>
+  <keyword>cycle</keyword>
+  <keyword>contract</keyword>
+  <keyword>management</keyword>
+</bibdata>

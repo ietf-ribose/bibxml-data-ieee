@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for System and Software Verification and Validation</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for System and Software Verification and Validation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6042248</uri>
+  <docidentifier type="IEEE">IEEE P1012/D1.2, October 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7403-7</docidentifier>
+  <docnumber>P1012/D1.2, Oct 2011</docnumber>
+  <date type="created">
+    <on>2011-10-08</on>
+  </date>
+  <date type="issued">
+    <on>2011-10-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;amp;amp;V) processes determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;amp;amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;amp;amp;V processes encompasses systems, software, and hardware, and includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused [legacy, commercial off-the-shelf (COTS), non developmental items]. The term software also includes firmware and microcode, and each of the terms system, software and hardware includes documentation. V&amp;amp;amp;V processes include analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Validation</keyword>
+  <keyword>Verification</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>IV&amp;amp;amp;V</keyword>
+  <keyword>integrity level</keyword>
+  <keyword>software life cycle</keyword>
+  <keyword>system life cycle</keyword>
+  <keyword>V&amp;amp;amp;V</keyword>
+  <keyword>validation</keyword>
+  <keyword>verification</keyword>
+</bibdata>

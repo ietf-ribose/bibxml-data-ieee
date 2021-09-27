@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-main" format="text/plain">LAN/MAN Specific Requirements</title>
+  <title type="title-part" format="text/plain">Part 15: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low Rate Wireless Personal Area Networks (WPAN)</title>
+  <title type="main" format="text/plain">IEEE Standard for Telecommunications and Information Exchange Between Systems - LAN/MAN Specific Requirements - Part 15: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low Rate Wireless Personal Area Networks (WPAN)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1237559</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3687-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94389</docidentifier>
+  <docnumber>802.15.4-2003</docnumber>
+  <date type="created">
+    <on>2003-10-01</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2003-05-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 802.15.4-2006 IEEE Std 802.15.4-2003 defined the protocol and compatible interconnection for data communication devices using low- data-rate, low-power, and low-complexity short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN). This revision extends the market applicability of IEEE Std 802.15.4, removes ambiguities in the standard, and makes improvements revealed by implementations of IEEE Std 802.15.4-2003.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2006 (Revision of IEEE Std 802.15.4-2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Task analysis</keyword>
+  <keyword>Patents</keyword>
+  <keyword>IEEE 802.15 Standard</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>mobility</keyword>
+  <keyword>personal area network (PAN)</keyword>
+  <keyword>radio frequency (RF)</keyword>
+  <keyword>short range</keyword>
+  <keyword>wireless</keyword>
+  <keyword>wireless personal area network (WPAN)</keyword>
+</bibdata>

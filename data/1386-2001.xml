@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for a Common Mezzanine Card Family: CMC</title>
+  <title type="main" format="text/plain">IEEE Standard for a Common Mezzanine Card Family: CMC</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/944008</uri>
+  <docidentifier type="IEEE">IEEE Std 1386-2001</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2829-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93280</docidentifier>
+  <docnumber>1386-2001</docnumber>
+  <date type="created">
+    <on>2001-08-21</on>
+  </date>
+  <date type="published">
+    <on>2019-04-24</on>
+  </date>
+  <date type="issued">
+    <on>2001-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Administratively withdrawn January 2007. The mechanics of a common mezzanine card (CMC) family are defined in this standard.Mezzanine cards, designed to this standard, can be used interchangeably on VME, VME64 andVME64x boards, CompactPCI ¤ boards, Multibus ¤ I and II boards, desktop computers, portablecomputers, servers, and other similar types of applications. Mezzanine cards can provide modularfront panel I/O, backplane I/O or general function expansion or a combination for host computers.Single, wide mezzanine cards are 75 mm wide by 150 mm deep by 8.2 mm high.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Data buses</keyword>
+  <keyword>backplane I/O</keyword>
+  <keyword>bezel</keyword>
+  <keyword>board</keyword>
+  <keyword>card</keyword>
+  <keyword>CompactPCI</keyword>
+  <keyword>face plate</keyword>
+  <keyword>front panel I/O</keyword>
+  <keyword>host computer</keyword>
+  <keyword>I/O</keyword>
+  <keyword>local bus</keyword>
+  <keyword>metric</keyword>
+  <keyword>mezzanine</keyword>
+  <keyword>module</keyword>
+  <keyword>modular I/O</keyword>
+  <keyword>Multibus</keyword>
+  <keyword>PCI</keyword>
+  <keyword>VME</keyword>
+  <keyword>VME64</keyword>
+  <keyword>VME64x</keyword>
+  <keyword>VMEbus</keyword>
+</bibdata>

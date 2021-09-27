@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Architectural Framework and Application of Federated Machine Learning</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Architectural Framework and Application of Federated Machine Learning</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9134988</uri>
+  <docidentifier type="IEEE">IEEE P3652.1/D6, April 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6739-1</docidentifier>
+  <docnumber>P3652.1/D6, Apr 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-07-07</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Federated machine learning defines a machine learning framework that allows a collective model to be constructed from data that is distributed across repositories owned by different organizations or devices. A blueprint for data usage and model building across organizations and devices while meeting applicable privacy, security and regulatory requirements is provided in this guide. It defines the architectural framework and application guidelines for federated machine learning, including description and definition of federated machine learning; the categories federated machine learning and the application scenarios to which each category applies; performance evaluation of federated machine learning; and associated regulatory requirements.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Computer architecture</keyword>
+  <keyword>Machine learning</keyword>
+  <keyword>Metasearch</keyword>
+  <keyword>Privacy</keyword>
+  <keyword>Security</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Security</keyword>
+  <keyword>Computational efficiency</keyword>
+  <keyword>computation efficiency</keyword>
+  <keyword>economic viability</keyword>
+  <keyword>federated machine learning (FML)</keyword>
+  <keyword>IEEE 3652.1&amp;amp;#8482;</keyword>
+  <keyword>incentive mechanism</keyword>
+  <keyword>machine learning</keyword>
+  <keyword>model performance</keyword>
+  <keyword>privacy</keyword>
+  <keyword>privacy regulations</keyword>
+  <keyword>security</keyword>
+</bibdata>

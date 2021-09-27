@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE Information technology -- Smart transducer interface for sensors and actuators -- Common functions, communication protocols, and Transducer Electronic Data Sheet (TEDS) formats</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Information technology -- Smart transducer interface for sensors and actuators -- Common functions, communication protocols, and Transducer Electronic Data Sheet (TEDS) formats</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5668466</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 21450:2010(E)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6269-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5668466</docidentifier>
+  <docnumber>21450-2010</docnumber>
+  <date type="updated">
+    <on>2011-01-10</on>
+  </date>
+  <date type="created">
+    <on>2010-05-20</on>
+  </date>
+  <date type="issued">
+    <on>2010-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides a common basis for members of the IEEE 1451 family of standards to be interoperable. It defines the functions that are to be performed by a transducer interface module (TIM) and the common characteristics for all devices that implement the TIM. It specifies the formats for Transducer Electronic Data Sheets (TEDS). It defines a set of commands to facilitate the setup and control of the TIM as well as reading and writing the data used by the system. Application programming interfaces (APIs) are defined to facilitate communications with the TIM and with applications.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Adoption of IEEE Std 1451.0-2007. This standard provides a common basis for members of the IEEE 1451 family of standards to be interoperable. It defines the functions that are to be performed by a transducer interface module (TIM) and the common characteristics for all devices that implement the TIM. It specifies the formats for Transducer Electronic Data Sheets (TEDS). It defines a set of commands to facilitate the setup and control of the TIM as well as reading and writing the data used by the system. Application programming interfaces (APIs) are defined to facilitate communications with the TIM and with applications.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>ISO standards</keyword>
+  <keyword>Transducers</keyword>
+  <keyword>Modules</keyword>
+  <keyword>21450</keyword>
+  <keyword>1451.0</keyword>
+  <keyword>actuator</keyword>
+  <keyword>application programming interface</keyword>
+  <keyword>communication protocol</keyword>
+  <keyword>networkcapable application processor</keyword>
+  <keyword>sensor</keyword>
+  <keyword>smart transducer</keyword>
+  <keyword>transducer electronic data sheet</keyword>
+  <keyword>transducer interface module</keyword>
+</bibdata>

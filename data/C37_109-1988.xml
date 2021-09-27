@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Protection of Shunt Reactors</title>
+  <title type="main" format="text/plain">IEEE Guide for the Protection of Shunt Reactors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/89878</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C37.109-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0905-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.94807</docidentifier>
+  <docnumber>C37.109-1988</docnumber>
+  <date type="created">
+    <on>1989-12-22</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1988-10-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the C37 family on Switchgear, Substations and Protective Relays. This standard discusses the protection of shunt reactors used typically to compensate for capacitive shunt reactance of transmission lines. The more common circuit arrangements and protective relaying schemes presently in use are discussed and illustrated.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.109-2006 (Revision of IEEE Std C37.109-1988)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Compensation</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Inductors</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Standards</keyword>
+  <keyword>reactor</keyword>
+  <keyword>shunt</keyword>
+  <keyword>protection</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Inductors</keyword>
+</bibdata>

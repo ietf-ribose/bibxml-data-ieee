@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Design, Operation, and Integration of Distributed Resource Island Systems with Electric Power Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Design, Operation, and Integration of Distributed Resource Island Systems with Electric Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5960751</uri>
+  <docidentifier type="IEEE">IEEE Std 1547.4-2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6688-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5960751</docidentifier>
+  <docnumber>1547.4-2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2013-07-26</on>
+  </date>
+  <date type="issued">
+    <on>2011-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Alternative approaches and good practices for the design, operation, and integration of distributed resource (DR) island systems with electric power systems (EPS) are provided. This includes the ability to separate from and reconnect to part of the area EPS while providing power to the islanded EPSs. This guide includes the DRs, interconnection systems, and participating EPSs.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Distributed control</keyword>
+  <keyword>Power system management</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Smart grids</keyword>
+  <keyword>circuit island</keyword>
+  <keyword>distributed resources</keyword>
+  <keyword>DR island systems</keyword>
+  <keyword>electric power systems</keyword>
+  <keyword>IEEE 1547.4</keyword>
+  <keyword>intentional island</keyword>
+  <keyword>interconnection</keyword>
+  <keyword>lateral island</keyword>
+  <keyword>microgrid</keyword>
+  <keyword>secondary island</keyword>
+  <keyword>substation bus island</keyword>
+</bibdata>

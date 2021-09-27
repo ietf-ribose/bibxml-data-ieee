@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards Interpretations for IEEE Standard Portable Operating System Interface for Computer Environments (IEEE Std 1003.1-1988)</title>
+  <title type="main" format="text/plain">IEEE Standards Interpretations for IEEE Standard Portable Operating System Interface for Computer Environments (IEEE Std 1003.1-1988)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/182902</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.1-1988/INT, 1992 Edition</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1372-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.106983</docidentifier>
+  <docnumber>1003.1-1988</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="issued">
+    <on>1988-08-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The Technical Committee on operating systems and application environments of the IEEE Computer Society carried out a series of analyses of various problems encountered by users of IEEE Std 1003.1-1988, IEEE standard portable operating system interface for computer environments. The results of its deliberations are presented. The intent is to give the POSIX community reasonable ways of interpreting the unclear portions of the standard.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Operating systems</keyword>
+  <keyword>Software portability</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

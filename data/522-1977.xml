@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Testing Turn-to-Turn Insulation on Form-Wound Stator Coils for Alternating-Current Rotating Electric Machines</title>
+  <title type="title-main" format="text/plain">For Trail Use</title>
+  <title type="main" format="text/plain">IEEE Guide for Testing Turn-to-Turn Insulation on Form-Wound Stator Coils for Alternating-Current Rotating Electric Machines - For Trail Use</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7430201</uri>
+  <docidentifier type="IEEE">IEEE Std 522-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0382-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7430201</docidentifier>
+  <docnumber>522-1977</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>1977-02-25</on>
+  </date>
+  <date type="published">
+    <on>2016-03-10</on>
+  </date>
+  <date type="issued">
+    <on>1976-06-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Many alternating-current rotating electric machines are designed to have multiturn form-wound stator coils. In these cases, the winding has two separate but interrelated insulating barriers: one (turn insulation) between the various turns and the second (ground insulation) between the turns and ground. Failure of either of these barriers will prematurely terminate the service life of the machine. A test level, twice rated voltage plus 1 kV, for the ground insulation has been in existence for many years. This guide suggests methods and test levels for the turn insulation.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Many alternating-current rotating electric machines are designed to have multiturn formwound stator coils. In these cases, the winding has two separate but interrelated insulating barriers: one (turn insulation) between the various turns and the second (ground insulation) between the turns and ground. Failure of either of these barriers will prematurely terminate the service life of the machine. A test level, twice rated voltage plus 1 kV, for the ground insulation has been in existence for many years. This guide suggests methods and test levels for the turn insulation.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 522-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>Electrical machines</keyword>
+  <keyword>Stators</keyword>
+  <keyword>Coils</keyword>
+  <keyword>Rotating machines</keyword>
+  <keyword>Form-wound stator coils</keyword>
+  <keyword>Testing</keyword>
+  <keyword>testing</keyword>
+  <keyword>turn</keyword>
+  <keyword>insulation</keyword>
+  <keyword>electric</keyword>
+  <keyword>machines</keyword>
+</bibdata>

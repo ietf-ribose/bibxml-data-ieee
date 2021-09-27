@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Telecommunications and information exchange between systems</title>
+  <title type="title-part" format="text/plain">Local and Metropolitan networks -- Specific requirements -- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications -- Amendment x : Technical corrections and clarifications</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology - Telecommunications and information exchange between systems - Local and Metropolitan networks -- Specific requirements -- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications -- Amendment x : Technical corrections and clarifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4040942</uri>
+  <docidentifier type="IEEE">IEEE Std P802.11REV-ma/D4.0</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2457-8</docidentifier>
+  <docnumber>P802.11REV-ma/D4.0</docnumber>
+  <date type="created">
+    <on>1999-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-04-11</on>
+  </date>
+  <date type="issued">
+    <on>1999</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This revision specifies technical corrections and clarifications to IEEE 802.11-1999 as reaffirmed in 2003 for wireless local area networks (WLANS) as well as enhancements to the existing MAC and PHY functions.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.11, 1999 Edition (R2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE 802.11 Standard</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Patents</keyword>
+  <keyword>IEEE staff</keyword>
+</bibdata>

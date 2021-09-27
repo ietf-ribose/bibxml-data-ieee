@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Boundary-Scan Testing of Advanced Digital Networks</title>
+  <title type="main" format="text/plain">IEEE Standard for Boundary-Scan Testing of Advanced Digital Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1196298</uri>
+  <docidentifier type="IEEE">IEEE Std 1149.6-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3577-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94249</docidentifier>
+  <docnumber>1149.6-2003</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="published">
+    <on>2016-03-17</on>
+  </date>
+  <date type="issued">
+    <on>2003-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">his standard augments IEEE Std 1149.1 to improve the ability for testing differential and/or ac-coupled interconnections between integrated circuits on circuit boards and systems.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1149.6-2015 (Revision of IEEE Std 1149.6-2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Printed circuits</keyword>
+  <keyword>Integrated circuit interconnections</keyword>
+  <keyword>AC-coupled signaling</keyword>
+  <keyword>Boundary-Scan</keyword>
+  <keyword>circuit boards</keyword>
+  <keyword>differential signaling</keyword>
+  <keyword>integratedcircuits</keyword>
+  <keyword>interconnect test</keyword>
+  <keyword>printed circuit boards</keyword>
+  <keyword>test</keyword>
+</bibdata>

@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Field Testing of Laminated Dielectric, Shielded AC Power Cable Systems Rated 5 kV to 500 kV Using High Voltage Direct Current (HVDC)</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Field Testing of Laminated Dielectric, Shielded AC Power Cable Systems Rated 5 kV to 500 kV Using High Voltage Direct Current (HVDC)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8497097</uri>
+  <docidentifier type="IEEE">IEEE P400.1/D17, October 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5246-5</docidentifier>
+  <docnumber>P400.1/D17, Oct 2018</docnumber>
+  <date type="created">
+    <on>2018-10-16</on>
+  </date>
+  <date type="published">
+    <on>2018-10-18</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The recommended practices and procedures for direct voltage acceptance and maintenance testing of shielded, laminated, dielectric-insulated power cable systems rated 5 kV to 500 kV are presented in this guide. It applies to all types of laminated power cable systems such as paper insulated, lead covered, pipe-type, and pressurized cables that are intended for the transmission or distribution of ac electric power. The tabulated test levels assume that the cable systems have an effectively grounded neutral system or a grounded metallic shield.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 400.1-2007 (Revision of IEEE Std 400.1-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Dielectrics</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>AC motors</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Lamination</keyword>
+  <keyword>Cable insulation</keyword>
+  <keyword>Insulation testing</keyword>
+  <keyword>Cable shielding</keyword>
+  <keyword>cable</keyword>
+  <keyword>cable installation</keyword>
+  <keyword>cable maintenance</keyword>
+  <keyword>cable tests</keyword>
+  <keyword>field test procedures</keyword>
+  <keyword>HVDC tests</keyword>
+  <keyword>IEEE 400.1(TM)</keyword>
+  <keyword>insulated cable</keyword>
+  <keyword>power cable systems</keyword>
+  <keyword>shielded power cable systems</keyword>
+</bibdata>

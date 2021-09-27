@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial Use Guide for Class 1E Control Switchboards for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Trial Use Guide for Class 1E Control Switchboards for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7419177</uri>
+  <docidentifier type="IEEE">IEEE Std 420-1973 (ANSI N41.17)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0337-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1973.7419177</docidentifier>
+  <docnumber>420-1973</docnumber>
+  <date type="updated">
+    <on>2016-03-11</on>
+  </date>
+  <date type="created">
+    <on>1973-11-14</on>
+  </date>
+  <date type="published">
+    <on>2016-02-24</on>
+  </date>
+  <date type="issued">
+    <on>1973-09-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document applies to all Class 1E control switchboards (for example, main control room assemblies, auxiliary panels, local panels or racks, etc) as defined in Section 3, regardless of their application or location. It does not apply to the non-Class 1E control switchboards, except as they affect the Class 1E control switchboards, but recognizes that Class 1E control switchboards may be adjacent to, or joined with, other non-Class 1E control switchboards. This document includes, but is not necessarily limited to, design, construction, wiring practices, shipping, handling, storage, installation, testing, and quality assurance. General design practices which are not unique to Class 1E control switchboards are not addressed in this document. This document applies to piping systems and Class 1E equipment only as they may affect the integrity of the Class lE control switchboard.</abstract>
+  <copyright>
+    <from>1973</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 420-1982</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Switching systems</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Power distribution </keyword>
+</bibdata>

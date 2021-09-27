@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Trial-Use Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible Markup Language (XML).</title>
+  <title type="main" format="text/plain">IEEE Draft Trial-Use Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible Markup Language (XML).</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5530302</uri>
+  <docidentifier type="IEEE">IEEE P1636.2/D5.2 July 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6399-4</docidentifier>
+  <docnumber>P1636.2</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-07-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to promote and facilitate interoperability between components of automatic test systems. The standard facilitates the capture of maintenance action information associated with the removal, repair, and replacement of a particular system components (e.g.; unit(s) under test) in order to maintain/support that particular operational system. The maintenance action information schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format utilizes the XML formats.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>XML</keyword>
+  <keyword>Information management</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Interface states</keyword>
+  <keyword>Automated Test System (ATS)</keyword>
+  <keyword>eXtensible markup language (XML)</keyword>
+  <keyword>Maintenance Action Information (MAI)</keyword>
+  <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

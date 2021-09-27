@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information Technology- Portable Operating System Interface (POSIX(TM)) System Administration</title>
+  <title type="title-part" format="text/plain">Part 2: Software Administration</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology- Portable Operating System Interface (POSIX(TM)) System Administration - Part 2: Software Administration</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/500095</uri>
+  <docidentifier type="IEEE">IEEE Std 1387.2-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2773-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81007</docidentifier>
+  <docnumber>1387.2-1995</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="published">
+    <on>2019-04-09</on>
+  </date>
+  <date type="issued">
+    <on>1995-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is part of the POSIX series of standards for applications and user interfaces to open systems. It defines a software packaging layout, a set of information maintained about software, and a set of utility programs to manipulate that software and information.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>data processing</keyword>
+  <keyword>open systems</keyword>
+  <keyword>operating system</keyword>
+  <keyword>packaging</keyword>
+  <keyword>portable application</keyword>
+  <keyword>POSIX</keyword>
+  <keyword>software</keyword>
+  <keyword>system</keyword>
+  <keyword>administration</keyword>
+  <keyword>utilities</keyword>
+</bibdata>

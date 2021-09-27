@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locations</title>
+  <title type="title-main" format="text/plain">General considerations</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locations - General considerations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7056398</uri>
+  <docidentifier type="IEEE">IEEE P487/D7, February 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9597-1</docidentifier>
+  <docnumber>P487/D7, Feb 2015</docnumber>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-03-09</on>
+  </date>
+  <date type="issued">
+    <on>2015-06-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">General considerations are presented for the electrical protection of telecommunication facilities serving electric supply locations. This document contains material which is common to the 487-family of Standards (i.e., dot-series) including fundamental protection theory, basic electrical protection philosophy, concepts and designs, protection apparatus; service types, reliability, service performance objective classifications, and transmission considerations. In general, special protective measures, handling procedures, and administrative procedures are necessary to provide electrical protection against damage to telecommunication facilities and equipment, maintain reliability of service and ensure the safety of personnel.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 487-2007 (Revision of IEEE Std 487-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>High voltage techniques</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Electricity supply industry</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>electric supply locations</keyword>
+  <keyword>high-voltage tower</keyword>
+  <keyword>power stations</keyword>
+  <keyword>protection</keyword>
+  <keyword>wire-line telecommunication</keyword>
+</bibdata>

@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Low Frequency (less than 500 kHz) Narrow Band Power Line Communications for Smart Grid Applications</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Low Frequency (less than 500 kHz) Narrow Band Power Line Communications for Smart Grid Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6588280</uri>
+  <docidentifier type="IEEE">IEEE P1901.2/D0.11.00, August, 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8645-0</docidentifier>
+  <docnumber>P1901.2/D0.11.00, August, 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-08-30</on>
+  </date>
+  <date type="issued">
+    <on>2013-09-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A worldwide standard for narrow band power line communications via AC, DC, and non-energized electric power lines using frequencies below 500 kHz. Data rates of up to 500 kbps are supported. The field-of-use includes Smart Grid applications. Coexistence mechanisms that can be used by other PLC technologies operating below 500 kHz are also included. These coexistence mechanisms may be used separately from the rest of the standard.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Narrowband</keyword>
+  <keyword>Smart grids</keyword>
+  <keyword>Power grids</keyword>
+  <keyword>power line communication</keyword>
+  <keyword>PLC</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>MAC</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>PHY</keyword>
+  <keyword>IFFT OFDM</keyword>
+  <keyword>narrow band</keyword>
+  <keyword>PRIME</keyword>
+  <keyword>G3-PLC</keyword>
+  <keyword>coexistence</keyword>
+</bibdata>

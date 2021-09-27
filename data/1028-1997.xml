@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Software Reviews</title>
+  <title type="main" format="text/plain">IEEE Standard for Software Reviews</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/663254</uri>
+  <docidentifier type="IEEE">IEEE Std 1028-1997</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5710-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.237324</docidentifier>
+  <docnumber>1028-1997</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="published">
+    <on>2019-04-10</on>
+  </date>
+  <date type="issued">
+    <on>1997-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is concerned only with the reviews; it does not define procedures for determining the necessity of a review, nor does it specify the disposition of the results of the review. Review types include management reviews, technical reviews, inspections, walk-throughs, and audits.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1028-1988</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1028-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software reviews</keyword>
+  <keyword>Inspection</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Software</keyword>
+  <keyword>Software engineering</keyword>
+</bibdata>

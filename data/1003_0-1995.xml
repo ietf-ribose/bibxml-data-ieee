@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide to the POSIX Open System Environment (OSE)</title>
+  <title type="main" format="text/plain">IEEE Guide to the POSIX Open System Environment (OSE)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/552903</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.0-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3138-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.81544</docidentifier>
+  <docnumber>1003.0-1995</docnumber>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="issued">
+    <on>1995-05-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide presents an overview of open system concepts and their applications. Information is provided to persons evaluating systems based on the existence of, and interrelationships among, application software standards, with the objective of enabling application portability and system interoperability. A framework is presented that identifies key information system interfaces involved in application probability and system interoperability and describes the services offered across these interfaces. Standards or standards activities associated with the services are identified where they exist or are in progress. Gaps are identified where POSIX Open System Environment services are not currently being addressed by formal standards. Finally, the concept of a profile is discussed with examples from several application domains.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Open systems</keyword>
+</bibdata>

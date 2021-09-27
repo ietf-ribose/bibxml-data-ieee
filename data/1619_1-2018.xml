@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Authenticated Encryption with Length Expansion for Storage Devices</title>
+  <title type="main" format="text/plain">IEEE Standard for Authenticated Encryption with Length Expansion for Storage Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8637991</uri>
+  <docidentifier type="IEEE">IEEE Std 1619.1-2018 (Revision of IEEE Std 1619.1-2007)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5454-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2019.8637991</docidentifier>
+  <docnumber>1619.1-2018</docnumber>
+  <date type="updated">
+    <on>2020-05-22</on>
+  </date>
+  <date type="created">
+    <on>2019-01-25</on>
+  </date>
+  <date type="published">
+    <on>2019-02-08</on>
+  </date>
+  <date type="issued">
+    <on>2018-10-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Cryptographic and data authentication procedures for storage devices that support length expansion, such as tape drives, are specified. Such procedures include the following cryptographic modes of operation for the AES block cipher: CCM, GCM, CBC-HMAC, and XTS-HMAC.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Cryptographic and data authentication procedures for storage devices that support length expansion, such as tape drives, are specified. Such procedures include the following cryptographic modes of operation for the AES block cipher: CCM, GCM, CBC-HMAC, and XTS-HMAC.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Security</keyword>
+  <keyword>Encryption</keyword>
+  <keyword>Data storage systems</keyword>
+  <keyword>authentication</keyword>
+  <keyword>CBC</keyword>
+  <keyword>CCM</keyword>
+  <keyword>cryptography</keyword>
+  <keyword>data storage</keyword>
+  <keyword>encryption</keyword>
+  <keyword>GCM</keyword>
+  <keyword>HMAC</keyword>
+  <keyword>IEEE 1619.1(TM)</keyword>
+  <keyword>security</keyword>
+  <keyword>tape drive</keyword>
+  <keyword>variable-length block</keyword>
+  <keyword>XTS</keyword>
+</bibdata>

@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American Standard Guide to s AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis and a Total Current Basis</title>
+  <title type="main" format="text/plain">American Standard Guide to s AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis and a Total Current Basis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7442051</uri>
+  <docidentifier type="IEEE">ANSI C37.12-1981</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0480-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1981.7442051</docidentifier>
+  <docnumber>C37.12-1981</docnumber>
+  <date type="updated">
+    <on>2016-04-22</on>
+  </date>
+  <date type="created">
+    <on>1981</on>
+  </date>
+  <date type="published">
+    <on>2016-03-25</on>
+  </date>
+  <date type="issued">
+    <on>1981</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">These specifications apply to all indoor and outdoor types of ac high-voltage circuit breakers rated above 1000 volts. This document is issued only as a guide for use in compiling specifications for ac high-voltage circuit breakers. The imperative mode of the language is illustrative of that used in specifications. It does not imply that this document is anything other than advisory in its scope.</abstract>
+  <copyright>
+    <from>1981</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C37.12-1991 (Revision of ANSI C37.12-1981)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C37.12-1991 (Revision of ANSI C37.12-1981)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>High voltage techniques</keyword>
+  <keyword>AC machines</keyword>
+  <keyword>Current distribution</keyword>
+</bibdata>

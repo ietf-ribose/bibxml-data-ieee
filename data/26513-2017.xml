@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering -- Requirements for testers and reviewers of information for users</title>
+  <title type="title-part" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Systems and software engineering -- Requirements for testers and reviewers of information for users - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8372831</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 26513:2017(E) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4967-0</docidentifier>
+  <docnumber>26513-2017</docnumber>
+  <date type="created">
+    <on>2017-10-26</on>
+  </date>
+  <date type="published">
+    <on>2018-06-05</on>
+  </date>
+  <date type="issued">
+    <on>2017-06-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document supports the need for software users to receive consistent, complete, accurate, and usable documentation. This document was developed to assist those who review, assess, and test software user documentation as part of the software lifecycle process. It is not limited to the review and test phase of the software lifecycle, but includes activities throughout the information management and documentation management processes. This document applies to printed and electronic documentation such as user manuals, online help, instructions, user assistance, tutorials, websites, and user reference documentation. Much of its guidance is applicable to user documentation for systems as well as the software used to control machinery or hardware devices. It applies to both initial development and subsequent releases of the software and user documentation. This document is intended for use by all types of organizations, whether or not a dedicated documentation department is present. Readers are assumed to have experience with or general knowledge of reviewing and testing processes.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>Usability</keyword>
+  <keyword>Software design</keyword>
+  <keyword>software documentation review</keyword>
+  <keyword>software documentation testing</keyword>
+  <keyword>user documentation</keyword>
+  <keyword>testing and reviewing user documentation</keyword>
+  <keyword>usability testing</keyword>
+</bibdata>

@@ -1,0 +1,38 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Standard Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility</title>
+  <title type="title-part" format="text/plain">Physical and Media Access Control Layer Specification</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Standard Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility - Physical and Media Access Control Layer Specification</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4549738</uri>
+  <docidentifier type="IEEE">IEEE Approved Draft Std P802.20/D4.1m, April 2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2509-4</docidentifier>
+  <docnumber>P802.20/D4.1m, April 2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The technical requirements of this standard form a compatibility standard for mobile broadband wireless access systems. The standard ensures that a compliant Access Terminal (AT) or User Terminal (UT) can obtain service through any Access Node (AN) or Base Station (BS) conforming to properly selected modes of this standard, consistent with equipment and operator requirements, thus providing a framework for the rapid development of cost-effective, multivendor mobile broadband wireless access systems. This compatibility standard is targeted for use in a wide variety of licensed frequency bands and regulatory environments. This standard provides for future standardized extension capabilities. The architecture defined by this standard permits such expansion without the loss of backward compatibility.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Requirements for Secondary Network Protectors</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Requirements for Secondary Network Protectors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6200820</uri>
+  <docidentifier type="IEEE">IEEE PC57.12.44/D8, April 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7503-4</docidentifier>
+  <docnumber>PC57.12.44/D8, Apr 2012</docnumber>
+  <date type="created">
+    <on>2012-05-16</on>
+  </date>
+  <date type="published">
+    <on>2012-05-16</on>
+  </date>
+  <date type="issued">
+    <on>2013-11-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The performance, electrical and mechanical interchangeability, and the safety of the equipment are covered. The proper selection of such equipment is established as a basis for use in this standard. Certain electrical, dimensional, and mechanical characteristics are described; and certain safety features of threephase, 60 Hz, low-voltage (600 V and below) network protectors are taken into consideration. This equipment is used for automatically connecting and disconnecting a network transformer from a secondary spot or grid network.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE C57.12.44-2005 (Revision of IEEE Std C57.12.44-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Smart grids</keyword>
+  <keyword>Protection switching</keyword>
+  <keyword>Power grids</keyword>
+  <keyword>grid network</keyword>
+  <keyword>network</keyword>
+  <keyword>protector</keyword>
+  <keyword>spot network</keyword>
+</bibdata>

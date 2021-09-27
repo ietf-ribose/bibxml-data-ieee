@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information Technology--Portable Operating System Interface (POSIX(TM))--Part 2: Shell and Utilities--Amendment 1: Batch Environment</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology--Portable Operating System Interface (POSIX(TM))--Part 2: Shell and Utilities--Amendment 1: Batch Environment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7379697</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.2d-1994</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0633-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.7379697</docidentifier>
+  <docnumber>1003.2d-1994</docnumber>
+  <date type="updated">
+    <on>2016-02-19</on>
+  </date>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="published">
+    <on>2016-01-12</on>
+  </date>
+  <date type="issued">
+    <on>1994-12-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment is part of the POSIX series of standards for applications and user interfaces to open systems. It is a supplement to IEEE Std 1003.2-1992, which defines the applications interface to a shell command language and a set of utility programs for complex data manipulation. This supplement defines the user interface to a distributed batch queuing environment and includes application environments..</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment is part of the POSIX series of standards for applications and user interfaces to open systems. It is a supplement to IEEE Std 1003.2-1992, which defines the applications interface to a shell command language and a set of utility programs for complex data manipulation. This supplement defines the user interface to a distributed batch queuing environment and includes application environments.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1003.2-1992/INT, Dec. 1994 Ed.</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Batch processing</keyword>
+  <keyword>Operating systems</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Queueing analysis</keyword>
+  <keyword>batch</keyword>
+  <keyword>batch extensions</keyword>
+  <keyword>distributed batch</keyword>
+  <keyword>queuing</keyword>
+</bibdata>

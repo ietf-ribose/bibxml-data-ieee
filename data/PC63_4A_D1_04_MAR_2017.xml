@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz Amendment 1: Test Site Validation</title>
+  <title type="main" format="text/plain">Draft American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz Amendment 1: Test Site Validation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7994759</uri>
+  <docidentifier type="IEEE">ANSI PC63.4a/D1.04, March 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4219-0</docidentifier>
+  <docnumber>PC63.4a/D1.04, Mar 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-07-27</on>
+  </date>
+  <date type="issued">
+    <on>2017</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">U.S. consensus standard methods are specified in Annex D of this amendment for validating standard test sites and alternative test sites used for measurement of radiated radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range of 30 MHz to 1 GHz. In addition, various updates are made to equations in 4.5, Annex F, Annex G, and Annex N.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.4-2014 (Revision of ANSI C63.4-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Emissions</keyword>
+  <keyword>Low voltage</keyword>
+  <keyword>Annex D</keyword>
+  <keyword>ANSI C63.4</keyword>
+  <keyword>normalized site attenuation</keyword>
+  <keyword>NSA</keyword>
+  <keyword>site attenuation</keyword>
+  <keyword>site validation</keyword>
+</bibdata>

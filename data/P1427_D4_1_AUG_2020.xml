@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Recommended Electrical Clearances and Insulation Levels in Air Insulated Electrical Power Substations</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Recommended Electrical Clearances and Insulation Levels in Air Insulated Electrical Power Substations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9166830</uri>
+  <docidentifier type="IEEE">IEEE P1427/D4.1, August 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6922-7</docidentifier>
+  <docnumber>P1427/D4.1, Aug 2020</docnumber>
+  <date type="created">
+    <on>2020-08-12</on>
+  </date>
+  <date type="published">
+    <on>2020-08-13</on>
+  </date>
+  <date type="issued">
+    <on>2020-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide, covering three-phase ac systems from 1 kV to 800 kV, provides recommended electrical operating, safety clearances, and insulation levels in air-insulated electric supply substations; addresses insulation coordination procedures; provides design procedures for the selection and coordination of the insulation levels within the station as they relate to substation clearances; and addresses how reduced clearances in high-voltage ac substations will allow for compact bus arrangements and substation voltage uprating applications.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1427-2006</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1427-2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Lightning</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Cable insulation</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>basic lightning impulse insulation level (BIL)</keyword>
+  <keyword>basic switching impulse insulation level (BSL)</keyword>
+  <keyword>clearances</keyword>
+  <keyword>IEEE 1427&amp;amp;amp;#8482;</keyword>
+  <keyword>insulation coordination</keyword>
+  <keyword>insulation levels</keyword>
+  <keyword>substation</keyword>
+</bibdata>

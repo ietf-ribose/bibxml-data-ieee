@@ -1,0 +1,42 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft Standard for Information Technology--System and Software Life Cycle Processes--Reuse Processes</title>
+  <title type="main" format="text/plain">Draft Standard for Information Technology--System and Software Life Cycle Processes--Reuse Processes</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5325041</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1517/D2, Oct 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4031-8</docidentifier>
+  <docnumber>P1517/D2, Oct 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A common framework for extending the system and software life cycle processes of IEEE Std 12207-2008 to include the systematic practice of reuse is provided. This standard specifies the processes, activities, and tasks to be applied during each phase of the life cycle to enable a system and/or product to be constructed from reusable assets. It also specifies the processes, activities, and tasks to enable the identification, construction, maintenance, and management of assets supplied.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>asset</keyword>
+  <keyword>domain engineering</keyword>
+  <keyword>process</keyword>
+  <keyword>software life cycle</keyword>
+  <keyword>system life cycle</keyword>
+  <keyword>reuse</keyword>
+</bibdata>

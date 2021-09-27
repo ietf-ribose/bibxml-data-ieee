@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Fault-Locating Techniques on Shielded Power Cable Systems</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for Fault-Locating Techniques on Shielded Power Cable Systems - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8866837</uri>
+  <docidentifier type="IEEE">IEEE Std 1234-2019 (Revision of IEEE Std 1234-2007) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6189-4</docidentifier>
+  <docnumber>1234-2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-10-11</on>
+  </date>
+  <date type="issued">
+    <on>2019-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Test and measurements, which are performed on shielded power cables to identify the location of a fault, are described. Whenever possible, the limitations of a particular test and measurement to locate a fault are provided and recommendations are made regarding specialized fault-locating techniques. A fault characterization chart is included as an aid to select a fault-locating technique.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Cable shielding</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Time domain reflectometry</keyword>
+  <keyword>Fault detection</keyword>
+  <keyword>Arc discharges</keyword>
+  <keyword>Testing</keyword>
+  <keyword>arc reflection</keyword>
+  <keyword>cable fault locating</keyword>
+  <keyword>cable testing</keyword>
+  <keyword>grounding</keyword>
+  <keyword>IEEE 1234</keyword>
+  <keyword>safety</keyword>
+  <keyword>sectionalizing</keyword>
+  <keyword>thumping</keyword>
+  <keyword>time domain reflectometry</keyword>
+  <keyword>(TDR)</keyword>
+</bibdata>

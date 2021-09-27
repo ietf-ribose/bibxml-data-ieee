@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Software and systems engineering -- Software testing -- Part 5: Keyword-Driven Testing</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Software and systems engineering -- Software testing -- Part 5: Keyword-Driven Testing</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7750539</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 29119-5 First edition 2016-11-15</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0874-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7750539</docidentifier>
+  <docnumber>29119-5-2016</docnumber>
+  <date type="updated">
+    <on>2016-12-12</on>
+  </date>
+  <date type="created">
+    <on>2016-11-15</on>
+  </date>
+  <date type="published">
+    <on>2016-11-21</on>
+  </date>
+  <date type="issued">
+    <on>2016-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of the ISO/IEC/IEEE 29119 Software Testing standards is to define an internationally-agreed set of standards for software testing that can be used by any organization when performing any form of software testing. ISO/IEC/IEEE 29119-5 defines Keyword-Driven Testing, which is an approach to describing test cases in a modular way. This standard explains the main concepts and attributes of Keyword-Driven Testing and is applicable to all those who want to create keyword-driven test specifications, create corresponding frameworks, or build test automation based on keywords. This standard defines requirements on frameworks for Keyword-Driven Testing to enable test engineers to share their test artefacts, such as test cases, test data, keywords, or complete test specifications. It also defines minimum requirements for tools supporting Keyword-Driven Testing and defines requirements on a common data exchange format to ensure that tools from different vendors can exchange their data (e.g. test cases, test data and test results).</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+</bibdata>

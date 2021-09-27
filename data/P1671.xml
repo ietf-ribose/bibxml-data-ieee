@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5530305</uri>
+  <docidentifier type="IEEE">IEEE P1671/D14, July 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6325-3</docidentifier>
+  <docnumber>P1671</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-07-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document specifies a framework for the ATML family of standards. ATML allows Automatic Test System (ATS) and test information to be exchanged in a common format adhering to the XML standard.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Automatic test equipment</keyword>
+  <keyword>Web sites</keyword>
+  <keyword>ATE description</keyword>
+  <keyword>ATE test results</keyword>
+  <keyword>Automatic test equipment (ATE)</keyword>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>Automatic test system (ATS)</keyword>
+  <keyword>Interface test adapter (ITA)</keyword>
+  <keyword>Synthetic instrumentation (SI)</keyword>
+  <keyword>Test configuration</keyword>
+  <keyword>Unit under test (UUT) description</keyword>
+  <keyword>UUT maintenance</keyword>
+  <keyword>XML instance document</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

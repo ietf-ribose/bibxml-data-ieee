@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks Virtual Bridged Local Area Networks Amendment 5: Connectivity Fault Management</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks Virtual Bridged Local Area Networks Amendment 5: Connectivity Fault Management</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4431836</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1ag - 2007 (Amendment to IEEE Std 802.1Q - 2005 as amended by IEEE Std 802.1ad - 2005 and IEEE Std 802.1ak - 2007)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5689-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.4431836</docidentifier>
+  <docnumber>802.1ag-2007</docnumber>
+  <date type="updated">
+    <on>2008-03-17</on>
+  </date>
+  <date type="created">
+    <on>2007-12-17</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2007-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The following topics are dealt with: virtual bridged local area networks; and connectivity fault management.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies protocols, procedures, and managed objects to support connectivity fault management. These allow discovery and verification of the path, through bridges and LANs, taken for frames addressed to and from specified network users. Connectivity faults can be detected and isolated to an individual bridge or LAN.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Bridges</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Patents</keyword>
+  <keyword>fault management</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>OAM</keyword>
+  <keyword>transparent bridging</keyword>
+  <keyword>VLANs</keyword>
+</bibdata>

@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application, Installation, Operation, and Maintenance of High-Voltage Air Disconnecting and Load Interrupter Switches</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application, Installation, Operation, and Maintenance of High-Voltage Air Disconnecting and Load Interrupter Switches</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/573178</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C37.35-1976</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4279-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1976.81622</docidentifier>
+  <docnumber>C37.35-1976</docnumber>
+  <date type="created">
+    <on>1976-11-29</on>
+  </date>
+  <date type="published">
+    <on>2016-03-24</on>
+  </date>
+  <date type="issued">
+    <on>1981-12-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Suggestions on application, installation, operation, and maintenance are presented as an aid to obtaining satisfactory performance from indoor and outdoor high-voltage air disconnecting and load interrupter switches rated in excess of 1000 V ac. It is assumed that properly designed and maintained supporting structures are provided for the disconnecting equipment, taking into account such factors as location, soil conditions, wind and ice loadings, seismic considerations, and mechanical loads, including electromagnetic forces imposed by the switches, buses, or other equipment mounted thereon.</abstract>
+  <copyright>
+    <from>1976</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.35-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Personnel</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Interrupters</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>C37.35</keyword>
+</bibdata>

@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5407642</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P7-4.3.2_D3, Jan 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3217-7</docidentifier>
+  <docnumber>P7-4.3.2_D3, Jan 2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Additional computer specific requirements to supplement the criteria and requirements of IEEE Std 603-2009 are specified. Within the context of this standard, the term computer is a system that includes computer hardware, software, firmware, and interfaces. The criteria contained herein, in conjunction with criteria in IEEE Std 603-2009, establish minimum functional and design requirements for computers used as components of a safety system</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Accidents</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>commercial grade item</keyword>
+  <keyword>diversity</keyword>
+  <keyword>safety systems</keyword>
+  <keyword>software</keyword>
+  <keyword>software tools</keyword>
+  <keyword>software verification and validation</keyword>
+</bibdata>

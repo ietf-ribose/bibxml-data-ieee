@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Procedures for IEEE Std 1901.1(TM) for Medium Frequency (less than 15 MHz) Power Line Communications for Smart Grid Applications</title>
+  <title type="main" format="text/plain">IEEE Standard Test Procedures for IEEE Std 1901.1(TM) for Medium Frequency (less than 15 MHz) Power Line Communications for Smart Grid Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9381775</uri>
+  <docidentifier type="IEEE">IEEE Std 1901.1.1-2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6800-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9381775</docidentifier>
+  <docnumber>1901.1.1-2020</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-03-18</on>
+  </date>
+  <date type="issued">
+    <on>2020-06-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The interoperability and compliance testing for IEEE 1901.1 products built, in which physical (PHY) and media access control (MAC) layers of the medium frequency band (less than 12 MHz) broadband power line communication technology for smart grid applications (SGPLC) based on orthogonal frequency division multiplexing (OFDM), is specified in this standard. The corresponding PLC application scenarios and test environment are introduced, and the PHY/MAC test cases and test scenarios are provided. The procedures for compliance, interoperability, and certification of IEEE Std 1901.1(TM) are specified in this standard.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>Smart grids</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Testing</keyword>
+  <keyword>IP networks</keyword>
+  <keyword>BPL</keyword>
+  <keyword>broadband power line</keyword>
+  <keyword>IEEE 1901.1</keyword>
+  <keyword>IEEE 1901.1.1</keyword>
+  <keyword>PLC</keyword>
+  <keyword>power line communication</keyword>
+  <keyword>smart grid</keyword>
+  <keyword>test standard</keyword>
+  <keyword>interoperability and compliance testing</keyword>
+  <keyword>certification</keyword>
+</bibdata>

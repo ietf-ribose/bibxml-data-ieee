@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Rating and Testing Magnetic Amplifiers</title>
+  <title type="main" format="text/plain">IEEE Standard for Rating and Testing Magnetic Amplifiers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7361737</uri>
+  <docidentifier type="IEEE">IEEE No 107-1964 (Revision of AIEE No. 433, 1959)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0145-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1964.7361737</docidentifier>
+  <docnumber>107-1964</docnumber>
+  <date type="updated">
+    <on>2016-02-03</on>
+  </date>
+  <date type="created">
+    <on>1964</on>
+  </date>
+  <date type="published">
+    <on>2015-12-21</on>
+  </date>
+  <date type="issued">
+    <on>1964</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Standard is intended as a guide for the industry in the determination and presentation of test data and ratings of magnetic amplifiers. While these Standards are intended niainly for self-saturating linear and/or bistable magnetic amplifiers, appropriate items may be applied to simple saturable reactor circuits. It is not the intent of this Standard to require a certain fixed number of ratings or tests for the complete specification of a particular amplifier; rather it is the intent to standardize the most common ratings and tests so that when they are applied by the equipment manufacturer or by the user, the significance of the rating or test will always he the same.</abstract>
+  <copyright>
+    <from>1964</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power amplifiers</keyword>
+  <keyword>Magnetic cores</keyword>
+  <keyword>Testing</keyword>
+</bibdata>

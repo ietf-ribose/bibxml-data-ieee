@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Application Guide for Capacitance Current Switching for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <title type="main" format="text/plain">American National Standard Application Guide for Capacitance Current Switching for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7445115</uri>
+  <docidentifier type="IEEE">IEEE SId 342-1973 (ANSI C37.0731-1973)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0839-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1973.7445115</docidentifier>
+  <docnumber>342-1973</docnumber>
+  <date type="updated">
+    <on>2016-04-22</on>
+  </date>
+  <date type="created">
+    <on>1973-05-16</on>
+  </date>
+  <date type="published">
+    <on>2016-03-31</on>
+  </date>
+  <date type="issued">
+    <on>1972-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This application guide for capacitance current switching applies to ac high-voltage circuit breakers rated in accordance with American National Standard Requirements for Capacitance Current Switching for AC HighVoltage Circuit Breakers, C37.073-1972. It is intended to supplement the American National Standard Application Guide for AC High-Voltage Circuit Breakers, C37.010-1972 (IEEE Std 320-1972), and specifically, to enlarge on Section 4.14.3, Capacitor Switching, and Section 4.14.4, Line Charging Switching. Circuit breakers rated and manufactured to meet other standards should be applied in accordance with application procedures adapted to their specific ratings.</abstract>
+  <copyright>
+    <from>1972</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ANSI Standards</keyword>
+  <keyword>AC machines</keyword>
+  <keyword>Capacitance</keyword>
+  <keyword>Switching circuits</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Current estimation</keyword>
+</bibdata>

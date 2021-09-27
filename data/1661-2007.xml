@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Test and Evaluation of Lead-Acid Batteries Used in Photovoltaic (PV) Hybrid Power Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Test and Evaluation of Lead-Acid Batteries Used in Photovoltaic (PV) Hybrid Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4449092</uri>
+  <docidentifier type="IEEE">IEEE Std 1661-2007</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5705-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4449092</docidentifier>
+  <docnumber>1661-2007</docnumber>
+  <date type="updated">
+    <on>2008-03-17</on>
+  </date>
+  <date type="created">
+    <on>2008-02-08</on>
+  </date>
+  <date type="published">
+    <on>2019-09-18</on>
+  </date>
+  <date type="issued">
+    <on>2007-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is specifically prepared for a PV/engine generator hybrid power system, but may also be applicable to all hybrid power systems where there is at least one renewable power source, such as PV, and a dispatchable power source, such as an engine generator. Taper-charge parameters for PV hybrid systems are suggested to help in preparing the battery for a capacity test. A test procedure is provided to ensure appropriate data acquisition, battery characterization, and capacity measurements. Finally, a process to review test results and make appropriate decisions regarding the battery is provided. No cycle-life predictions are made.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This guide is specifically prepared for a PV/engine generator hybrid power system, but may also be applicable to all hybrid power systems where there is at least one renewable power source, such as PV, and a dispatchable power source, such as an engine generator. Taper-charge parameters for PV hybrid systems are suggested to help in preparing the battery for a capacity test. A test procedure is provided to ensure appropriate data acquisition, battery characterization, and capacity measurements. Finally, a process to review test results and make appropriate decisions regarding the battery is provided. No cycle-life predictions are made.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1661-2019 (Revision of IEEE Std 1661-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Lead acid batteries</keyword>
+  <keyword>Lead</keyword>
+  <keyword>Photovoltaic systems</keyword>
+  <keyword>1661-2007</keyword>
+  <keyword>Battery Testing</keyword>
+  <keyword>Lead-Acid Battery Charging</keyword>
+  <keyword>Lead-Acid Battery Testing</keyword>
+  <keyword>PV Hybrid Battery Test</keyword>
+  <keyword>PV System Testing</keyword>
+</bibdata>

@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for VMEbus Extensions for Instrumentation: VXIbus</title>
+  <title type="main" format="text/plain">IEEE Standard for VMEbus Extensions for Instrumentation: VXIbus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/278315</uri>
+  <docidentifier type="IEEE">IEEE Std 1155-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1185-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.119226</docidentifier>
+  <docnumber>1155-1992</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="published">
+    <on>2020-02-13</on>
+  </date>
+  <date type="issued">
+    <on>1992-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A technically sound modular instrument standard base on IEEE Std 1014-1987, IEEE Standard for a Versatile Backplane Bus: VMEbus, which is open to all manufacturers and is compatible with present industry standards, is defined. The VXIbus specification details the technical requirements of VXIbus compatible components, such as mainframes, backplanes, power supplies, and modules.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Microprocessors</keyword>
+  <keyword>Microcomputers</keyword>
+  <keyword>high</keyword>
+  <keyword>speed</keyword>
+  <keyword>backplane</keyword>
+  <keyword>instrumentation</keyword>
+  <keyword>VMEbus</keyword>
+  <keyword>VXIbus</keyword>
+  <keyword>Common modular instrument architecture</keyword>
+</bibdata>

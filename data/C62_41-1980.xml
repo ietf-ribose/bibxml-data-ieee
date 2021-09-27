@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Surge Voltages in Low-Voltage AC Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Guide for Surge Voltages in Low-Voltage AC Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26654</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C62.41-1980</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4305-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1981.79672</docidentifier>
+  <docnumber>C62.41-1980</docnumber>
+  <date type="created">
+    <on>1981-01-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-09</on>
+  </date>
+  <date type="issued">
+    <on>1979-12-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A practical basis is provided for the selection of voltage and current tests to be applied in evaluating the surge withstand capability of equipment connected to utility power circuits, primarily in residential, commercial, and light industrial applications. The recommended practice covers the origin of surge voltages, rate of occurrence and voltage levels in unprotected circuits, waveshapes of representative surge voltages, energy, and source and impedance. Three locations categories are defined according to their relative position from the building service entrance. For each category, representative waveforms of surge voltages and surge currents are described, organized in two recommended “standard waveforms” and three suggested “additional waveforms.”</abstract>
+  <copyright>
+    <from>1981</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.41-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power systems</keyword>
+  <keyword>Standards</keyword>
+  <keyword>surge</keyword>
+  <keyword>voltages</keyword>
+  <keyword>lv</keyword>
+  <keyword>power</keyword>
+  <keyword>circuits</keyword>
+</bibdata>

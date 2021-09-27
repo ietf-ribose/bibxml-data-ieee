@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Pulse Transformers</title>
+  <title type="main" format="text/plain">IEEE Standard for Pulse Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26565</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 390-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0670-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.79640</docidentifier>
+  <docnumber>390-1987</docnumber>
+  <date type="created">
+    <on>1987-10-14</on>
+  </date>
+  <date type="published">
+    <on>2016-02-17</on>
+  </date>
+  <date type="issued">
+    <on>1986-12-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Pulse transformers for use in electronic equipment are considered. This standard applies to the following transformer types: power output (drivers), impedance matching, interstage coupling, current sensing, and blocking-oscillator transformers. For these transformers, the peak power transmitted ranges from a few milliwatts to many kilowatts, and the peak voltage transmitted ranges from a few volts to many kilovolts. Symbols, performance tests, equivalent circuits, preferred test methods, marking, and service conditions are covered.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Equivalent circuits</keyword>
+  <keyword>Pulse transformers</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>pulse</keyword>
+  <keyword>transformers</keyword>
+</bibdata>

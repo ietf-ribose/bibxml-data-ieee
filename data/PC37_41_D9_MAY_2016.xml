@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Design Tests for High-Voltage (&amp;amp;amp;#x003E;1000 V) Fuses and Accessories</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Design Tests for High-Voltage (&amp;amp;amp;#x003E;1000 V) Fuses and Accessories</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7501444</uri>
+  <docidentifier type="IEEE">IEEE PC37.41/D9, May 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2145-4</docidentifier>
+  <docnumber>PC37.41/D9, May 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-06-28</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Required procedures for performing design tests for high-voltage distribution class and power class fuses, as well as for fuse-disconnecting switches and enclosed single-pole air switches, are specified. These design tests, as appropriate to a particular device, include the following test types: dielectric, interrupting, load-break, radio-influence, short-time current, temperature rise, time-current, manual operation, thermal-cycle, bolt torque, and liquid tightness.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.41-2008 (Revision of IEEE Std C37.41-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Fuses</keyword>
+  <keyword>Switching systems</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>distribution enclosed single-pole air switches</keyword>
+  <keyword>fuse accessories</keyword>
+  <keyword>fuse design tests</keyword>
+  <keyword>fuse disconnecting switches</keyword>
+  <keyword>fuse enclosure package</keyword>
+  <keyword>high-voltage fuses.</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Specifications for the Implementations of 8x8 Inverse Discrete Cosine Transform</title>
+  <title type="main" format="text/plain">IEEE Standard Specifications for the Implementations of 8x8 Inverse Discrete Cosine Transform</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159237</uri>
+  <docidentifier type="IEEE">IEEE Std 1180-1990</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3748-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.101047</docidentifier>
+  <docnumber>1180-1990</docnumber>
+  <date type="created">
+    <on>1991</on>
+  </date>
+  <date type="published">
+    <on>2019-04-12</on>
+  </date>
+  <date type="issued">
+    <on>1990-12-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Withdrawn Standard. Withdrawn Date: Feb 07, 2003. No longer endorsed by the IEEE. The numerical characteristics of the 8x8 inverse discrete cosine transform (IDCT) for use in visual telephony and similar applications where the 8x8 IDCT results are used in a reconstruction loop are specified. The specifications ensure the compatibility between different implementations of the IDCT.</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Data compression</keyword>
+  <keyword>Encoding</keyword>
+  <keyword>Image processing</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Transforms</keyword>
+  <keyword>Videophone systems</keyword>
+  <keyword>implementations</keyword>
+  <keyword>discrete</keyword>
+  <keyword>cosine</keyword>
+  <keyword>transform</keyword>
+  <keyword>inverse</keyword>
+  <keyword>HYBRID CODING</keyword>
+  <keyword>mismatch error</keyword>
+  <keyword>IDCT accuracy</keyword>
+  <keyword>Inverse discrete cosine transf</keyword>
+  <keyword>Discrete cosine transform (DCT</keyword>
+</bibdata>

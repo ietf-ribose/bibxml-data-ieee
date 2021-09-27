@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for Radar Cross-Section Test Procedures</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for Radar Cross-Section Test Procedures</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9142593</uri>
+  <docidentifier type="IEEE">IEEE P1502/D4.2, June 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6855-8</docidentifier>
+  <docnumber>P1502/D4.2, Jun 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-07-16</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice describes the process of the measurement of the radar cross section of objects using a test range. The term “radar cross section” is defined, and the characteristics of different types of test ranges are given. The responsibilities of the test range operators are shown to involve test and calibration of the measurement range systems and to take the measurements accurately. Techniques are described for each stage of this process.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1502-2007</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Measurement uncertainty</keyword>
+  <keyword>Radar cross-sections</keyword>
+  <keyword>Radar scattering</keyword>
+  <keyword>Calibration</keyword>
+  <keyword>Data analysis</keyword>
+  <keyword>IEEE 1502&amp;amp;amp;#8482;</keyword>
+  <keyword>radar cross section (RCS)</keyword>
+  <keyword>radar test range</keyword>
+  <keyword>uncertainty</keyword>
+  <keyword>error</keyword>
+  <keyword>RCS measurement</keyword>
+  <keyword>compact range</keyword>
+  <keyword>ground-plane range</keyword>
+  <keyword>inverted-V range</keyword>
+  <keyword>elevated range</keyword>
+  <keyword>dynamic test 8 range</keyword>
+  <keyword>tapered chamber</keyword>
+  <keyword>spherical-wave anechoic chamber</keyword>
+  <keyword>near-field non-anechoic range</keyword>
+</bibdata>

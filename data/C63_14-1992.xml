@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Dictionary for Technologies of Electromagnetic Compatibility (EMC), Electromagnetic Pulse (EMP), and Electrostatic Discharge (ESD)</title>
+  <title type="main" format="text/plain">American National Standard Dictionary for Technologies of Electromagnetic Compatibility (EMC), Electromagnetic Pulse (EMP), and Electrostatic Discharge (ESD)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/585094</uri>
+  <docidentifier type="IEEE">ANSI C63.14-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4729-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.82138</docidentifier>
+  <docnumber>C63.14-1992</docnumber>
+  <date type="created">
+    <on>1992-10-21</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1992</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms associated with electromagnetic compatibility (EMC), electromagnetic pulse (EMP), and electrostatic discharge (ESD) are defined. Quantities, units, multiplying factors, symbols, and abbreviations are covered.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.14-1998</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.14-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>terms</keyword>
+  <keyword>definitions</keyword>
+  <keyword>Electrostatic discharge (ESD)</keyword>
+  <keyword>Electromagnetic pulse (EMP)</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+</bibdata>

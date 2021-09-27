@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft Systems and Software Engineering</title>
+  <title type="title-main" format="text/plain">Vocabulary</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft Systems and Software Engineering - Vocabulary</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7839172</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE FDIS P24765:2016(E), January 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3781-3</docidentifier>
+  <docnumber>P24765:2016(E), Jan 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-02-01</on>
+  </date>
+  <date type="issued">
+    <on>2017</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Consistent with ISO vocabulary standards, each technical committee is responsible for standard terminology in its area of specialization. This International Standard provides a common vocabulary applicable to all systems and software engineering work falling within the scope of ISO/IEC JTC 1/SC 7, Systems and software engineering, and the IEEE Computer Society Systems and Software Engineering Standards Committee (IEEE-CS S2ESC).The scope of each concept defined has been chosen to provide a definition that is suitable for general application. In those circumstances where a restricted application is concerned, a more specific definition might be needed.Terms have been excluded if they were considered to be parochial to one group or organization; company proprietary or trademarked; multi-word terms whose meaning could be inferred from the definitions of the component words; terms whose meaning in the information technology (IT) field could be directly inferred from their common English dictionary meaning.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 24765:2010(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Dictionaries</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Software engineering</keyword>
+</bibdata>

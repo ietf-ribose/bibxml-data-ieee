@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Network Reference Model and Functional Description of IEEE 802(R) Access Network</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Network Reference Model and Functional Description of IEEE 802(R) Access Network</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8726453</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1CF-2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5667-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2019.8726453</docidentifier>
+  <docnumber>802.1CF-2019</docnumber>
+  <date type="updated">
+    <on>2020-05-22</on>
+  </date>
+  <date type="created">
+    <on>2019-05-31</on>
+  </date>
+  <date type="published">
+    <on>2019-05-30</on>
+  </date>
+  <date type="issued">
+    <on>2019-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An access network (which connects terminals to their access routers) utilizing technologies based on the family of IEEE 802(R) standards is specified in this recommended practice. An access network reference model (NRM) that includes entities and reference points along with behavioral and functional descriptions of communications among those entities is provided in this recommended practice. (The PDF of this standard is available at no cost to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">An access network (which connects terminals to their access routers) utilizing technologies based on the family of IEEE 802(R) standards is specified in this recommended practice. An access network reference model (NRM) that includes entities and reference points along with behavioral and functional descriptions of communications among those entities is provided in this recommended practice. (The PDF of this standard is available at no cost to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Routers</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Heterogeneous networks</keyword>
+  <keyword>access routers</keyword>
+  <keyword>heterogeneous networks</keyword>
+  <keyword>IEEE 802</keyword>
+  <keyword>IEEE 802.1CF</keyword>
+  <keyword>multiple network access</keyword>
+</bibdata>

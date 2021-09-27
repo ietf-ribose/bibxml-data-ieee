@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Amendment to IEEE P802.11-REVmcTM/D4.0: Fast Initial Link Setup</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Amendment to IEEE P802.11-REVmcTM/D4.0: Fast Initial Link Setup</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7180268</uri>
+  <docidentifier type="IEEE">IEEE P802.11ai/D6.0 July 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9857-6</docidentifier>
+  <docnumber>P802.11ai/D6.0 Jul 2015</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-08-05</on>
+  </date>
+  <date type="issued">
+    <on>2015</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment defines mechanisms that provide IEEE Std 802.11 networks with fastinitial link setup methods that do not degrade the security offered by Robust Security NetworkAssociation (RSNA) already defined in IEEE Std 802.11.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2012 (Revision of IEEE Std 802.11-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Media Access Control</keyword>
+  <keyword>Fast Initial Link Setup</keyword>
+  <keyword>Fast Initial Link setup</keyword>
+  <keyword>FILS</keyword>
+</bibdata>

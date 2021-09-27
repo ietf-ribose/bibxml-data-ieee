@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standards for LMANs: Supplement to IEEE 802.3</title>
+  <title type="title-main" format="text/plain">Guidelines for the Development of Managed Objects (GDMO) (IS0 10164-4) Format for Layer-Managed Objects (Section 5) and Layer Management for 10 Mb/s Baseband Medium Attachment Units (MAUs) (Section 20)</title>
+  <title type="main" format="text/plain">IEEE Standards for LMANs: Supplement to IEEE 802.3 - Guidelines for the Development of Managed Objects (GDMO) (IS0 10164-4) Format for Layer-Managed Objects (Section 5) and Layer Management for 10 Mb/s Baseband Medium Attachment Units (MAUs) (Section 20)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/286119</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 802.3p and Std 802.3q</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-342-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.119668</docidentifier>
+  <docnumber>802.3p,q-1993</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1993-06-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Abstract for IEEE 802.3-1993: This supplement to ISO/IEC 8802-3 : 1993 [IEEE Std 802.3,1993 Edition] defines a set of mechanisms that enable management of ISO/IEC 8802-3 10 MWs integrated Medium Attachment Units (MAUs). The managed objects within this standard are defined as sets of attributes, actions, notifications, and behaviors in accordance with IEEE 802.1 and IS0 standards for network management. Abstract for IEEE 802.3q-1993: Changes are made to Section 5, Lower Management, of ISO/IEC 8802-3 : 1993 [IEEE Std 802.3,1 993 Edition] to bring it into alignment with ISO/IEC 10165-4, Guidelines for the development of managed objects (GDMO).</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.3-1985</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>EPON</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>carrier sense multiple access with collision detection (CSWCD); CSWCD Management for DTEs; layer-managed objects; layer management; managed objects; medium attachment units (MAUs); MAU Management</keyword>
+</bibdata>

@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks -- Time-Sensitive Networking for Fronthaul Amendment: Enhancements to Fronthaul Profiles to Support New Fronthaul Interface, Synchronization, and Syntonization Standards</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks -- Time-Sensitive Networking for Fronthaul Amendment: Enhancements to Fronthaul Profiles to Support New Fronthaul Interface, Synchronization, and Syntonization Standards</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8922961</uri>
+  <docidentifier type="IEEE">IEEE P802.1CMde/D2.0, November 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6296-9</docidentifier>
+  <docnumber>P802.1CMde/D2.0, Nov 2019</docnumber>
+  <date type="created">
+    <on>2019-12-03</on>
+  </date>
+  <date type="published">
+    <on>2019-12-04</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1CM-2018</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Time measurement</keyword>
+</bibdata>

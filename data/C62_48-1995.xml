@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide on Interactions Between Power System Disturbances and Surge-Protective Devices</title>
+  <title type="main" format="text/plain">IEEE Guide on Interactions Between Power System Disturbances and Surge-Protective Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/475508</uri>
+  <docidentifier type="IEEE">IEEE Std C62.48-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0937-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.79039</docidentifier>
+  <docnumber>C62.48-1995</docnumber>
+  <date type="created">
+    <on>1995-12-15</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1995-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information is provided to users and manufacturers of surge-protective devices(SPDs) about the interactions that may occur between SPDs and power system disturbances. This guide applies to SPDs manufactured to be connected to 50 or 60 Hz ac power circuits rated at 100-1000 V rms. The effects and side effects of the presence and operation of SPDs on the quality of power available to the connected loads are described. The interaction between multiple SPDs on the same circuit is also described.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.48-2005 (Revision of IEEE Std C62.48-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Arresters</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Power quality</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>harmonics</keyword>
+  <keyword>noise</keyword>
+  <keyword>power system</keyword>
+  <keyword>system disturbance</keyword>
+  <keyword>surge protective device</keyword>
+  <keyword>SPD</keyword>
+  <keyword>swell</keyword>
+  <keyword>voltage sag</keyword>
+  <keyword>voltage surge</keyword>
+</bibdata>

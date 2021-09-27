@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial-Use Standard on Video Signal Transmission Measurement of Linear Waveform Distortion</title>
+  <title type="main" format="text/plain">IEEE Trial-Use Standard on Video Signal Transmission Measurement of Linear Waveform Distortion</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7426298</uri>
+  <docidentifier type="IEEE">IEEE Std 511-1974</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0375-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1974.7426298</docidentifier>
+  <docnumber>511-1974</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>1974</on>
+  </date>
+  <date type="published">
+    <on>2016-03-04</on>
+  </date>
+  <date type="issued">
+    <on>1973-09-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes methods for measuring the linear waveform distortions of TV video signals, that is, distortions which are caused by amplitude-independent (linear) transmission characteristics of television equipment and facilities.1 The primary application of this standard is for routine operational and maintenance tests, where rapid interpretation of test results is desirable. The techniques described here may also be applicable to laboratory measurements, proof-of-performance measurements, and detailed maintenance procedures.</abstract>
+  <copyright>
+    <from>1974</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Distortion measurement</keyword>
+  <keyword>Signal processing</keyword>
+  <keyword>Video signal processing</keyword>
+  <keyword>Signal generators</keyword>
+  <keyword>Linear systems</keyword>
+</bibdata>

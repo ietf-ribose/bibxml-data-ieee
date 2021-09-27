@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Packet-based Fronthaul Transport Networks</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Packet-based Fronthaul Transport Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8703261</uri>
+  <docidentifier type="IEEE">IEEE P1914.1/D5.0, April 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5780-4</docidentifier>
+  <docnumber>P1914.1/D5.0, Apr 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The architecture and requirements for next generation fronthaul networks are specified in this standard. NGFI-I is defined as the next generation fronthaul network with low layer splits in a baseband station. NGFI-II is defined as the next generation fronthaul network with high layer splits in a baseband station. The requirements of fronthaul transport nodes in these networks are also specified.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Transport protocols</keyword>
+  <keyword>Next generation networking</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>central unit</keyword>
+  <keyword>CU</keyword>
+  <keyword>distributed unit</keyword>
+  <keyword>DU</keyword>
+  <keyword>fronthaul transport node</keyword>
+  <keyword>FTN</keyword>
+  <keyword>IEEE 1914.1</keyword>
+  <keyword>Next Generation Fronthaul Interface</keyword>
+  <keyword>NGFI</keyword>
+  <keyword>NGFI networks</keyword>
+  <keyword>NGFI-I</keyword>
+  <keyword>NGFI-II</keyword>
+  <keyword>radio unit</keyword>
+  <keyword>RU</keyword>
+</bibdata>

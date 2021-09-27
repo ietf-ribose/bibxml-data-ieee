@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard VHDL Language Reference Manual</title>
+  <title type="main" format="text/plain">IEEE Standard VHDL Language Reference Manual</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/392561</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 1076-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0986-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.121433</docidentifier>
+  <docnumber>1076-1993</docnumber>
+  <date type="created">
+    <on>1994</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1993-09-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Aiding in the comprehension and use of IEEE VHDL, this unique product offers a comprehensive &amp;amp;amp;amp; reliable tutorial on VHDL - not available anywhere else. An enhancement to IEEE Std 1076-1993, the interactive tutorial is organized into four modules designed to incrementally add to the user's understanding of VHDL and it's applications. This hands-on tutorial shows clear links between the many levels and layers of VHDL and provides actual examples of VHDL implementation, making it an indispensible tool for VHDL product development and users.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076-1987</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076-2000</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Hardware</keyword>
+  <keyword>Design automation</keyword>
+  <keyword>Europe</keyword>
+  <keyword>North America</keyword>
+  <keyword>token ring</keyword>
+  <keyword>access method</keyword>
+  <keyword>data transmission</keyword>
+  <keyword>token ring networks</keyword>
+  <keyword>unshielded twisted pair cable</keyword>
+  <keyword>VHDL</keyword>
+  <keyword>Hardware design</keyword>
+  <keyword>Electronic systems</keyword>
+  <keyword>Computer languages</keyword>
+</bibdata>

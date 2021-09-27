@@ -1,0 +1,82 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Broadband over Power Line Networks: Medium Access Control and Physical Layer Specifications</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Broadband over Power Line Networks: Medium Access Control and Physical Layer Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8994245</uri>
+  <docidentifier type="IEEE">IEEE P1901/Draft 4, January 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6480-2</docidentifier>
+  <docnumber>P1901/D4, Jan2020</docnumber>
+  <date type="created">
+    <on>2020-02-10</on>
+  </date>
+  <date type="published">
+    <on>2020-02-11</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Physical (PHY) and media access control (MAC) layers of a broadband powerline communication technology for local area networks (LANs), Smart Energy, Smart Grid, Internet of Things, transportation platforms (vehicle) applications, and other data distribution are defined in this standard. The balanced and efficient use of the power line communications channel by all classes of BPL devices is the main focus of this standard, defining detailed mechanisms for coexistence and interoperability between different BPL devices, and ensuring that desired bandwidth and quality of service may be delivered. The necessary security questions are addressed to ensure the privacy of communications between users and to allow the use of BPL for security sensitive services.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1901-2010</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1901-2010</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Power system management</keyword>
+  <keyword>Fourier transforms</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>Parity check codes</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Convulutional codes</keyword>
+  <keyword>Broadband</keyword>
+  <keyword>Filter banks</keyword>
+  <keyword>access devices</keyword>
+  <keyword>adaptive power management</keyword>
+  <keyword>broadband over power lines (BPLs)</keyword>
+  <keyword>coexistence protocol (CXP)</keyword>
+  <keyword>convolutional turbo code</keyword>
+  <keyword>cosine modulated filter banks</keyword>
+  <keyword>extended ISP (E-ISP)</keyword>
+  <keyword>fast Fourier transform orthogonal frequency division multiplexing (FFT OFDM)</keyword>
+  <keyword>flexible channel wavelet (FCW) PHY/MAC</keyword>
+  <keyword>IEEE 1901&amp;amp;amp;#8482;</keyword>
+  <keyword>in-home devices</keyword>
+  <keyword>Internet of Things (IoT)</keyword>
+  <keyword>intersystem protocol (ISP)</keyword>
+  <keyword>low-density parity check code (LDPC)</keyword>
+  <keyword>medium access control (MAC)</keyword>
+  <keyword>power line communication (PLC)</keyword>
+  <keyword>physical layer (PHY)</keyword>
+  <keyword>privacy</keyword>
+  <keyword>quality of service (QoS)</keyword>
+  <keyword>security</keyword>
+  <keyword>sine modulated filter banks</keyword>
+  <keyword>wavelet orthogonal frequency division multiplexing (wavelet OFDM)</keyword>
+</bibdata>

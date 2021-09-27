@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Glossary of Computer Hardware Terminology</title>
+  <title type="main" format="text/plain">IEEE Standard Glossary of Computer Hardware Terminology</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/477873</uri>
+  <docidentifier type="IEEE">IEEE Std 610.10-1994</docidentifier>
+  <docidentifier type="ISBN">1-55937-492-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.79522</docidentifier>
+  <docnumber>610.10-1994</docnumber>
+  <date type="updated">
+    <on>1995-11-09</on>
+  </date>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="issued">
+    <on>1994-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms pertaining to computer hardware are defined. Terms falling under the categories of computer architecture, computer storage, general hardware concepts, peripherals, and processors and components are included.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Terminology</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Computer peripherals</keyword>
+  <keyword>Computers</keyword>
+  <keyword>Memories</keyword>
+</bibdata>

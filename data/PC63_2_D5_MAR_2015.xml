@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Draft American National Standard for Specifications of Electromagnetic Noise and Field Strength Instrumentation for the frequency range 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">Draft American National Standard for Specifications of Electromagnetic Noise and Field Strength Instrumentation for the frequency range 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7118104</uri>
+  <docidentifier type="IEEE">ANSI PC63.2/D5, March 2015 (Revision of ANSI C63.2-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9756-2</docidentifier>
+  <docnumber>PC63.2/D5, Mar 2015</docnumber>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-06-04</on>
+  </date>
+  <date type="issued">
+    <on>2015-06-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Electromagnetic compatibility techniques and requirements for instruments measuring quasi-peak, peak, and average values for electrical and electronic equipment for various applications are provided.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.2-2009 (Revision of ANSI C63.2-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>Field strength measurement</keyword>
+  <keyword>ANSI C63.2</keyword>
+  <keyword>electromagnetic compatibility</keyword>
+  <keyword>field strength instrumentation</keyword>
+</bibdata>

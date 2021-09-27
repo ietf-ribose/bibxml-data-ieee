@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Specification for Gas-Tube Surge Protective Devices</title>
+  <title type="main" format="text/plain">IEEE Standard Test Specification for Gas-Tube Surge Protective Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684559</uri>
+  <docidentifier type="IEEE">IEEE C62.31-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0922-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.8684559</docidentifier>
+  <docnumber>C62.31-1987</docnumber>
+  <date type="created">
+    <on>1989-02-14</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1987-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded. Gas-tube surge-protective devices for application on systems with voltages 1000 V rms or 1200 V dc are covered. These protective devices are designed to limit voltage surges on balanced or unbalanced communication circuits and on power circuits operating from dc to 420 Hz. Test criteria for determining the electrical characteristics of these devices are provided.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 649-2006 (Revision of IEEE Std 649-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 649-2006 (Revision of IEEE Std 649-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>test</keyword>
+  <keyword>specifications</keyword>
+  <keyword>gas-tube</keyword>
+  <keyword>protective</keyword>
+  <keyword>devices</keyword>
+  <keyword>Arresters</keyword>
+</bibdata>

@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Sensor Performance Parameter Definitions</title>
+  <title type="main" format="text/plain">IEEE Standard for Sensor Performance Parameter Definitions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6880296</uri>
+  <docidentifier type="IEEE">IEEE Std 2700-2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9252-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6880296</docidentifier>
+  <docnumber>2700-2014</docnumber>
+  <date type="updated">
+    <on>2014-09-05</on>
+  </date>
+  <date type="created">
+    <on>2014-08-12</on>
+  </date>
+  <date type="published">
+    <on>2014-08-19</on>
+  </date>
+  <date type="issued">
+    <on>2014-06-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A common framework for sensor performance specification terminology, units, conditions and limits is provided. Specifically, the accelerometer, magnetometer, gyrometer/gyroscope, barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors, ambient light sensors, and proximity sensors are discussed.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A common framework for sensor performance specification terminology, units, conditions and limits is provided. Specifically, the accelerometer, magnetometer, gyrometer/gyroscope, barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors, ambient light sensors, and proximity sensors are discussed.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 2700-2017 (Revision of IEEE Std 2700-2014)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Accuracy</keyword>
+  <keyword>IEEE Electron Devices Society</keyword>
+  <keyword>Microelectromechanical systems</keyword>
+  <keyword>Standards development</keyword>
+  <keyword>ambient light</keyword>
+  <keyword>accelerometer</keyword>
+  <keyword>gyroscope</keyword>
+  <keyword>humidity</keyword>
+  <keyword>IEEE 2700&amp;amp;amp;#8482;</keyword>
+  <keyword>magnetometer</keyword>
+  <keyword>MEMS</keyword>
+  <keyword>microelectromechanical proximity</keyword>
+  <keyword>sensors systems</keyword>
+  <keyword>pressure</keyword>
+  <keyword>temperature</keyword>
+  <keyword>terminology</keyword>
+</bibdata>

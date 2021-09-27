@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)--Multi-channel Operation</title>
+  <title type="title-main" format="text/plain">Corrigendum 1: Correct identified errors</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)--Multi-channel Operation - Corrigendum 1: Correct identified errors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6840849</uri>
+  <docidentifier type="IEEE">IEEE P1609.4-2010/Cor1/D2, June 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9215-4</docidentifier>
+  <docnumber>P1609.4-2010/Cor1/D2, Jun 2014</docnumber>
+  <date type="created">
+    <on>2014-08-21</on>
+  </date>
+  <date type="published">
+    <on>2014-06-20</on>
+  </date>
+  <date type="issued">
+    <on>2014-08-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document corrects errors in IEEE Std 1609.4-2010 in the following areas. References to current documents including IEEE Stds 1609.0, 1609.2, 1609.12, and P1609.6. Also IEEE Std 802.11p, now part of IEEE Std 802.11-2012. Clarification of channel access features in the document body and PICS. Clarification of the common time reference. Clarification of the requirement for setting channel busy during the guard interval.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1609.4-2010 (Revision of IEEE Std 1609.4-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Channel allocation</keyword>
+  <keyword>Channel busy</keyword>
+  <keyword>802.11</keyword>
+  <keyword>channel access</keyword>
+  <keyword>UTC</keyword>
+</bibdata>

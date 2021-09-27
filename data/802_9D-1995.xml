@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Supplement to Integrated Services (IS) LAN Interface at the Medium Access Control (MAC) and Physical (PHY) Layers: Protocol Implementation Conformance Statement (PICS) Proforma</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Supplement to Integrated Services (IS) LAN Interface at the Medium Access Control (MAC) and Physical (PHY) Layers: Protocol Implementation Conformance Statement (PICS) Proforma</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499694</uri>
+  <docidentifier type="IEEE">IEEE Std 802.9d-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0285-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80826</docidentifier>
+  <docnumber>802.9d-1995</docnumber>
+  <date type="created">
+    <on>1996-02-27</on>
+  </date>
+  <date type="published">
+    <on>2019-10-31</on>
+  </date>
+  <date type="issued">
+    <on>1995-11-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Administratively withdrawn. The Protocol Implementation Conformance Statement (PICS) proforma for IEEE Std 802.9-1994 is provided. It does not include the Managed Objects Conformance Statement, which is contained in a separate supplement.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>hybrid multiplexer</keyword>
+  <keyword>HMUX sublayer</keyword>
+  <keyword>implementation</keyword>
+  <keyword>IUT</keyword>
+  <keyword>integrated services</keyword>
+  <keyword>digital network</keyword>
+  <keyword>ISDN</keyword>
+  <keyword>LAN</keyword>
+  <keyword>MAC</keyword>
+  <keyword>PMD</keyword>
+  <keyword>physical medium</keyword>
+  <keyword>physical signalling</keyword>
+  <keyword>PS</keyword>
+  <keyword>protocol capability</keyword>
+  <keyword>protocol data units</keyword>
+  <keyword>PICS</keyword>
+  <keyword>conformance</keyword>
+  <keyword>proforma</keyword>
+  <keyword>system parameters</keyword>
+  <keyword>system under test</keyword>
+  <keyword>SUT</keyword>
+</bibdata>

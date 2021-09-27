@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Trial-Use Standard for Standard Automatic Test Markup Language (ATML) for Exchanging Automatic Test Information Via XML (Xtensible Markup Language): Exchanging UUT (Unit-Under-Test) Description Information</title>
+  <title type="main" format="text/plain">IEEE Draft Trial-Use Standard for Standard Automatic Test Markup Language (ATML) for Exchanging Automatic Test Information Via XML (Xtensible Markup Language): Exchanging UUT (Unit-Under-Test) Description Information</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4411929</uri>
+  <docidentifier type="IEEE">IEEE Approved Draft Std P1671.3/D8, Aug 2007</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3092-0</docidentifier>
+  <docnumber>P1671.3/D8, Aug 2007</docnumber>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document specifies an exchange format, utilizing XML, for identifying all of the hardware, software and documentation associated with a unit under test (UUT). This UUT may be tested and diagnosed using a test program set (TPS) on an automatic test system (ATS).</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>automatic test system (ATS)</keyword>
+  <keyword>unit under test (UUT)</keyword>
+</bibdata>

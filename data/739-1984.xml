@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Energy Conservation and Cost-Effective Planning in Industrial Facilities</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Energy Conservation and Cost-Effective Planning in Industrial Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/469111</uri>
+  <docidentifier type="IEEE">IEEE Std 739-1984</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4402-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1984.122647</docidentifier>
+  <docnumber>739-1984</docnumber>
+  <date type="created">
+    <on>1984-11-05</on>
+  </date>
+  <date type="published">
+    <on>2013-01-16</on>
+  </date>
+  <date type="issued">
+    <on>1983-06-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 739-1995 This recommended practice serves as an engineering guide for use in electrical design for energy conservation. It provides a standard design practice to assist engineers in evaluating electrical options from an energy standpoint. It establishes engineering techniques and procedures to allow efficiency optimization in the design and operation of an electrical system considering all aspects (safety, costs, environment, those occupying the facility, management needs, etc.).</abstract>
+  <copyright>
+    <from>1984</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 739-1995 [The Bronze Book]</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Energy conservation</keyword>
+  <keyword>Planning</keyword>
+  <keyword>Industrial facilities</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Economics</keyword>
+  <keyword>Color</keyword>
+  <keyword>Power systems</keyword>
+</bibdata>

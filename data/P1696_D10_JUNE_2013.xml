@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Terminology and Test Methods for Circuit Probes</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Terminology and Test Methods for Circuit Probes</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6687193</uri>
+  <docidentifier type="IEEE">IEEE P1696 D10 June 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8807-2</docidentifier>
+  <docnumber>P1696 D10 June 2013</docnumber>
+  <date type="created">
+    <on>2014-02-17</on>
+  </date>
+  <date type="published">
+    <on>2013-12-18</on>
+  </date>
+  <date type="issued">
+    <on>2013-12-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">There is currently no defined, industry-accepted method for characterizing the performance of electrical circuit probes. Each vendor has its own proprietary methods for characterization, leaving probe customers and users without a valid means of comparing probe performance and/or understanding the circuit-loading effect of the probe. This standard provides methods for measuring parameters indicative of a probes or probe systems performance and provides guidance on the design and use of a test fixture for measuring probe performance. These methods provide an industry-accepted, unbiased means for characterizing probe performance. This standard considers high-impedance voltage probes that are used to measure the performance of electrical circuits. The probe systems may include waveform acquisition hardware and software and signal/waveform analysis software. The probe will include the mechanism by which the circuit is contacted. This method and standard will be applicable to all individual probes having one signal conductor and one ground conductor or two signal conductors, and having an input impedance at least five times greater than the impedance of the circuit under test</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Circuit probes</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Frequency response</keyword>
+  <keyword>Scattering</keyword>
+  <keyword>Parameter estimation</keyword>
+  <keyword>common mode</keyword>
+  <keyword>frequency response</keyword>
+  <keyword>gain</keyword>
+  <keyword>input resistance</keyword>
+  <keyword>linearity</keyword>
+  <keyword>offset error</keyword>
+  <keyword>offset range</keyword>
+  <keyword>probe</keyword>
+  <keyword>probe-only</keyword>
+  <keyword>probe system</keyword>
+  <keyword>scattering parameters</keyword>
+  <keyword>test fixtutre</keyword>
+  <keyword>text methods</keyword>
+  <keyword>time response</keyword>
+  <keyword>transfer function</keyword>
+</bibdata>

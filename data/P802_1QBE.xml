@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks Amendment: Multiple Backbone Service Instance Identifier (I-SID) Registration Protocol (MIRP)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks Amendment: Multiple Backbone Service Instance Identifier (I-SID) Registration Protocol (MIRP)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5514466</uri>
+  <docidentifier type="IEEE">IEEE P802.1Qbe/D1.5_May 2010 (Draft Amendment to IEEE Std 802.1Q-2005)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6400-7</docidentifier>
+  <docnumber>P802.1Qbe</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-07-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies protocols, procedures, and managed objects to support topology change signaling to alter the binding (held in an I-Component) of Customer addresses to Backbone addresses on a per-I-SID basis. This is accomplished by extending the use of the Multiple Registration Protocol (MRP).</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Virtual prototyping</keyword>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>MRP</keyword>
+  <keyword>MIRP</keyword>
+  <keyword>MMRP</keyword>
+  <keyword>MVRP</keyword>
+  <keyword>Provider Backbone Bridges</keyword>
+  <keyword>Virtual Bridged Local Area Networks</keyword>
+  <keyword>virtual LANs.</keyword>
+</bibdata>

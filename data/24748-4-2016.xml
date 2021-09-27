@@ -1,0 +1,144 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE International Standard for Systems and Software Engineering -- Life Cycle Management -- Part 4: Systems Engineering Planning</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard for Systems and Software Engineering -- Life Cycle Management -- Part 4: Systems Engineering Planning</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7470727</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 24748-4 First edition 2016-05-15</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0817-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7470727</docidentifier>
+  <docnumber>24748-4-2016</docnumber>
+  <date type="updated">
+    <on>2016-06-06</on>
+  </date>
+  <date type="created">
+    <on>2016-05-15</on>
+  </date>
+  <date type="published">
+    <on>2016-05-17</on>
+  </date>
+  <date type="issued">
+    <on>2016-03-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The evolution of the harmonized set of ISO/IEC/IEEE 15288-12207 related standards and technical reports that are discussed in this International Standardprovides detailed requirements and guidance on the application of system life cycle processes. This International Standard unifies technical and managementrequirements and guidance from several of these sources to specify the requirements for the content of a SEMP and to provide a common SEMP format. This International Standard also identifies the processes as defined in ISO/IEC/IEEE 15288 to perform the necessary project planning activities to accomplish the project's technical effort and to develop the project's SEMP. Due to close alignment with the content of ISO/IEC 24748, ISO/IEC 26702 is now Part 4 of the multi-part International Standard, ISO/IEC 24748 (Systems and software engineering -- Life cycle management).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The evolution of the harmonized set of ISO/IEC/IEEE 15288-12207 related standards and technical reports that are discussed in this International Standard provides detailed requirements and guidance on the application of system life cycle processes. This International Standard unifies technical and management requirements and guidance from several of these sources to specify the requirements for the content of a SEMP and to provide a common SEMP format. This International Standard also identifies the processes as defined in ISO/IEC/IEEE 15288 to perform the necessary project planning activities to accomplish the project's technical effort and to develop the project's SEMP. Due to close alignment with the content of ISO/IEC 24748, ISO/IEC 26702 is now Part 4 of the multi-part International Standard, ISO/IEC 24748 (Systems and software engineering -- Life cycle management).</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1220-2005 (Revision of IEEE Std 1220-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Configuration management</keyword>
+  <keyword>Software acquisition</keyword>
+  <keyword>Analytical models</keyword>
+  <keyword>acquisition</keyword>
+  <keyword>adaptation</keyword>
+  <keyword>agreement</keyword>
+  <keyword>analysis</keyword>
+  <keyword>assessment</keyword>
+  <keyword>audit</keyword>
+  <keyword>concept</keyword>
+  <keyword>configuration management</keyword>
+  <keyword>data management</keyword>
+  <keyword>decision management</keyword>
+  <keyword>design</keyword>
+  <keyword>development</keyword>
+  <keyword>documentation management</keyword>
+  <keyword>engineering planning</keyword>
+  <keyword>enabling system</keyword>
+  <keyword>implementation</keyword>
+  <keyword>information management</keyword>
+  <keyword>infrastructure</keyword>
+  <keyword>integration</keyword>
+  <keyword>interface</keyword>
+  <keyword>life cycle</keyword>
+  <keyword>life cycle model</keyword>
+  <keyword>life cycle stages</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>measurement</keyword>
+  <keyword>operation</keyword>
+  <keyword>performance assessment and control</keyword>
+  <keyword>planning</keyword>
+  <keyword>process</keyword>
+  <keyword>process improvement</keyword>
+  <keyword>process tailoring</keyword>
+  <keyword>process view</keyword>
+  <keyword>product</keyword>
+  <keyword>production</keyword>
+  <keyword>project assessment and control</keyword>
+  <keyword>project planning</keyword>
+  <keyword>portfolio management</keyword>
+  <keyword>quality management</keyword>
+  <keyword>repository</keyword>
+  <keyword>requirements</keyword>
+  <keyword>retirement</keyword>
+  <keyword>review</keyword>
+  <keyword>risk management</keyword>
+  <keyword>service</keyword>
+  <keyword>stage</keyword>
+  <keyword>stakeholder requirements</keyword>
+  <keyword>specification</keyword>
+  <keyword>supply</keyword>
+  <keyword>support</keyword>
+  <keyword>system</keyword>
+  <keyword>system-of-interest</keyword>
+  <keyword>systems engineering management plan</keyword>
+  <keyword>SEMP</keyword>
+  <keyword>SEP</keyword>
+  <keyword>systems analyses</keyword>
+  <keyword>specialty engineering</keyword>
+  <keyword>tailoring</keyword>
+  <keyword>technical baseline</keyword>
+  <keyword>technical management</keyword>
+  <keyword>technical planning</keyword>
+  <keyword>technical project management planning</keyword>
+  <keyword>transition</keyword>
+  <keyword>utilization</keyword>
+  <keyword>validation</keyword>
+  <keyword>verification</keyword>
+  <keyword>MOE</keyword>
+  <keyword>MOP</keyword>
+  <keyword>TPM</keyword>
+  <keyword>SBS</keyword>
+  <keyword>WBS</keyword>
+  <keyword>PMP &amp;amp;#8211; SEMP relationships</keyword>
+  <keyword>SEMP outline.</keyword>
+</bibdata>

@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Behavioral Languages</title>
+  <title type="title-part" format="text/plain">Part 5: Standard VITAL ASIC (Application Specific Integrated Circuit) Modeling Specification</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - Behavioral Languages - Part 5: Standard VITAL ASIC (Application Specific Integrated Circuit) Modeling Specification</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1405849</uri>
+  <docidentifier type="IEEE">IEEE 1076.4 IEC 61691-5 First edition 2004-10</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0930-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.95754</docidentifier>
+  <docnumber>61691-5-2004</docnumber>
+  <date type="created">
+    <on>2004-11-15</on>
+  </date>
+  <date type="published">
+    <on>2019-11-07</on>
+  </date>
+  <date type="issued">
+    <on>2004</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IThe VITAL (VHDL Initiative Towards ASIC Libraries) ASIC Modeling Specification is defined in this standard. This modeling specification defines a methodology which promotes the development of highly accurate, efficient simulation models for ASIC (Application-Specific Integrated Circuit) components in VHDL.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Application specific integrated circuits</keyword>
+  <keyword>Integrated circuits</keyword>
+  <keyword>Modeling</keyword>
+  <keyword>ASIC</keyword>
+  <keyword>computer</keyword>
+  <keyword>computer languages</keyword>
+  <keyword>constraints</keyword>
+  <keyword>delay calculation</keyword>
+  <keyword>HDL</keyword>
+  <keyword>modeling</keyword>
+  <keyword>SDF</keyword>
+  <keyword>timing</keyword>
+  <keyword>Verilog</keyword>
+  <keyword>VHDL</keyword>
+</bibdata>

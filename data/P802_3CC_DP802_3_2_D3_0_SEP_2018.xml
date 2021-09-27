@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ethernet YANG Data Model Definitions</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ethernet YANG Data Model Definitions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8471264</uri>
+  <docidentifier type="IEEE">IEEE P802.3cc/DP802.3.2/D3.0, September 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5182-6</docidentifier>
+  <docnumber>P802.3cc/DP802.3.2/D3.0, Sep 2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-09-24</on>
+  </date>
+  <date type="issued">
+    <on>2019-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines YANG modules for various Ethernet devices specified in IEEE Std 802.3. This includes half-duplex and full-duplex data terminal equipment (DTE) using eithere Carrier Sense Multiple Access / Collision Detection (CSMA/CD) or Multipoint Control Protocol (MPCP), and Power Sourcing Equipment (PSE).</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>802.3 Ethernet</keyword>
+  <keyword>YANG.</keyword>
+</bibdata>

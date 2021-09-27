@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Port-Based Network Access Control Amendment: YANG Data Model</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Port-Based Network Access Control Amendment: YANG Data Model</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8353809</uri>
+  <docidentifier type="IEEE">IEEE P802.1Xck/D2.0, January 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4888-8</docidentifier>
+  <docnumber>P802.1Xck/D2.0, Jan 2018</docnumber>
+  <date type="created">
+    <on>2018-01-01</on>
+  </date>
+  <date type="published">
+    <on>2018-05-03</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The YANG data model specified in this amendment to IEEE Std 802.1X&amp;amp;amp;#8482;-2010 allows configuration and status reporting for port-based network access control, in the scenarios described in Clause 7 of this standard and Clause 11 of IEEE Std 802.1AE&amp;amp;amp;#8482;-2018, using the information model previously specified in this standard.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1X-2010 (Revision of IEEE Std 802.1X-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Meda Access Protocol</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>amendment</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>data model</keyword>
+  <keyword>data origin authenticity</keyword>
+  <keyword>IEEE 802.1X(TM)</keyword>
+  <keyword>IEEE 802.1Xck(TM)</keyword>
+  <keyword>information model</keyword>
+  <keyword>integrity</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>port-based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>transparent bridging</keyword>
+  <keyword>YANG</keyword>
+</bibdata>

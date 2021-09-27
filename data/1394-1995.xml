@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for a High Performance Serial Bus</title>
+  <title type="main" format="text/plain">IEEE Standard for a High Performance Serial Bus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/526693</uri>
+  <docidentifier type="IEEE">IEEE Std 1394-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1203-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81049</docidentifier>
+  <docnumber>1394-1995</docnumber>
+  <date type="created">
+    <on>1996-08-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1995-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A high-speed serial bus that interates well with most IEEE standard 32-bit and 64-bit parallel buses, as well as such nonbus interconnects as the IEEE Std 1596-1992, Scalable Coherent Interface, is specified. It is intended to provide a low-cost interconnect between cards on the same backplane, cards on other backplanes, and external peripherals. This standard follows the IEEE Std 1212-1991 Command and Status Register (CSR) architecture.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1394-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Data buses</keyword>
+  <keyword>firewire</keyword>
+  <keyword>fire wire</keyword>
+  <keyword>computers</keyword>
+  <keyword>high speed</keyword>
+  <keyword>serial bus</keyword>
+  <keyword>interconnect</keyword>
+  <keyword>parallel buses</keyword>
+  <keyword>parallel bus</keyword>
+</bibdata>

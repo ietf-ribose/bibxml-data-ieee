@@ -1,0 +1,79 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Synchrophasor Measurements for Power Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Synchrophasor Measurements for Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6111219</uri>
+  <docidentifier type="IEEE">IEEE Std C37.118.1-2011 (Revision of IEEE Std C37.118-2005)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6811-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6111219</docidentifier>
+  <docnumber>C37.118.1-2011</docnumber>
+  <date type="updated">
+    <on>2012-01-16</on>
+  </date>
+  <date type="created">
+    <on>2011-12-28</on>
+  </date>
+  <date type="published">
+    <on>2014-12-03</on>
+  </date>
+  <date type="issued">
+    <on>2011-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Synchronized phasor (synchrophasor) measurements for power systems are presented. This standard defines synchrophasors, frequency, and rate of change of frequency (ROCOF) measurement under all operating conditions. It specifies methods for evaluating these measurements and requirements for compliance with the standard under both steady-state and dynamic conditions. Time tag and synchronization requirements are included. Performance requirements are confirmed with a reference model, provided in detail. This document defines a phasor measurement unit (PMU), which can be a stand-alone physical unit or a functional unit within another physical unit. This standard does not specify hardware, software, or a method for computing phasors, frequency, or ROCOF.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Synchronized phasor (synchrophasor) measurements for power systems are presented. This standard defines synchrophasors, frequency, and rate of change of frequency (ROCOF) measurement under all operating conditions. It specifies methods for evaluating these measurements and requirements for compliance with the standard under both steady-state and dynamic conditions. Time tag and synchronization requirements are included. Performance requirements are confirmed with a reference model, provided in detail. This document defines a phasor measurement unit (PMU), which can be a stand-alone physical unit or a functional unit within anotherre physical unit. This standard does not specify hardware, software, or a method for computing phasors, frequency, or ROCOF.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.118-2005 (Revision of IEEE Std 1344-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEC/IEEE 60255-118-1:2018</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Data storage</keyword>
+  <keyword>Data processing</keyword>
+  <keyword>Vectors</keyword>
+  <keyword>Error statistics</keyword>
+  <keyword>Phasor measurement units</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>data concentrator</keyword>
+  <keyword>DC</keyword>
+  <keyword>FE</keyword>
+  <keyword>frequency error</keyword>
+  <keyword>IEEE C37.118.1</keyword>
+  <keyword>IRIG-B</keyword>
+  <keyword>PDC</keyword>
+  <keyword>phasor</keyword>
+  <keyword>phasor measurement</keyword>
+  <keyword>phasor measurement unit</keyword>
+  <keyword>PMU</keyword>
+  <keyword>RFE</keyword>
+  <keyword>ROCOF</keyword>
+  <keyword>ROCOF error</keyword>
+  <keyword>synchronized phasor</keyword>
+  <keyword>synchrophasor</keyword>
+  <keyword>total vector error</keyword>
+  <keyword>TVE</keyword>
+</bibdata>

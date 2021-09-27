@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for N Times 64 Kilobit Per Second Optical Fiber Interfaces Between Teleprotection and Multiplexer Equipment</title>
+  <title type="main" format="text/plain">IEEE Standard for N Times 64 Kilobit Per Second Optical Fiber Interfaces Between Teleprotection and Multiplexer Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1195295</uri>
+  <docidentifier type="IEEE">IEEE Std C37.94-2002</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3375-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94245</docidentifier>
+  <docnumber>C37.94-2002</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="published">
+    <on>2017-08-29</on>
+  </date>
+  <date type="issued">
+    <on>2002-09-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standard is part of the C37 Family on Switchgear, Substations &amp;amp;amp; Protective Relays. Project scope: This standard describes the interconnection details for N times 64 kilobit per second connections of teleprotection equipment to digital multiplexers using optical fiber. Requirements for both physical connection and the communications timing are also included. Project purpose: The purpose of this standard is to define an interconnection of different vendors' relays with different vendors' multiplex equipment, without any restriction on the ocntent of the N times 64 kilobit per second data, using up to 2 kilometer of 50 micrometer or 62.5 micrometer multimode fiber.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>Communication system reliability</keyword>
+  <keyword>Optical fiber communication</keyword>
+  <keyword>alarm indication signal</keyword>
+  <keyword>bit error rate</keyword>
+  <keyword>cyclic redundancy check</keyword>
+  <keyword>loss of frame</keyword>
+  <keyword>loss of signal</keyword>
+  <keyword>multimode optical fiber</keyword>
+  <keyword>multiplexer</keyword>
+  <keyword>remote defect indication</keyword>
+  <keyword>teleprotection</keyword>
+  <keyword>unit interval</keyword>
+</bibdata>

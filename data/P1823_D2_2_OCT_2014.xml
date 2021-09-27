@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for a Universal Power Adapter for Mobile Devices</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for a Universal Power Adapter for Mobile Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7044536</uri>
+  <docidentifier type="IEEE">IEEE P1823/D2.2, October 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9393-9</docidentifier>
+  <docnumber>P1823/D2.2, Oct 2014</docnumber>
+  <date type="created">
+    <on>2015-05-15</on>
+  </date>
+  <date type="published">
+    <on>2015-02-18</on>
+  </date>
+  <date type="issued">
+    <on>2015-02-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The Universal Power Adapter for Mobile Devices (UPAMD) standard defines a power delivery connection between a power adapter and a power using device greater than 10 W and up to, but less than 240 W. A communications link between the power adapter and the mobile power-using device is also defined. The communications may be used to coordinate the power delivery and provide identification between the power adapter and the power-using device. While intended for portable computing and entertainment devices, power adapters conforming to this standard may also be used with other devices (including simple devices, with no communications capabilities, up to 20 W).</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Mobile handsets</keyword>
+  <keyword>Mobile communication</keyword>
+  <keyword>Energy efficiency</keyword>
+  <keyword>Smart devices</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>UPAMD</keyword>
+  <keyword>Universal Power Adapter for Mobile Devices</keyword>
+  <keyword>mobile power</keyword>
+  <keyword>universal power</keyword>
+  <keyword>smart power</keyword>
+  <keyword>low energy connect and disconnect</keyword>
+  <keyword>communications controlled power</keyword>
+  <keyword>power delivery</keyword>
+</bibdata>

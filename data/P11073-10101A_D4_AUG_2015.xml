@@ -1,0 +1,82 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard Health informatics</title>
+  <title type="title-main" format="text/plain">Point-of-care medical device communication</title>
+  <title type="title-part" format="text/plain">Nomenclature Amendment 1: Additional definitions</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Health informatics - Point-of-care medical device communication - Nomenclature Amendment 1: Additional definitions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7234821</uri>
+  <docidentifier type="IEEE">IEEE P11073-10101a/D4, August 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9924-5</docidentifier>
+  <docnumber>P11073-10101a/D4, Aug 2015</docnumber>
+  <date type="created">
+    <on>2015-10-01</on>
+  </date>
+  <date type="published">
+    <on>2015-09-01</on>
+  </date>
+  <date type="issued">
+    <on>2015-01-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (POC) medical device communication (MDC), this amendment extends the nomenclature defined by the base ISO/IEEE Std 11073-10101:2004 nomenclature standard. It includes significant extensions to support haemodynamics, respiration, ventilation and anesthesia monitoring, blood gas, urine, fluid-related metrics, and neurology, as well as units of measurements and measurement sites. It also captures and provides formal definitions for observation identifiers used by the IEEE 11073 Personal Health Device standards and additional attributes for reporting their regulatory and certification status. It also defines information attributes to support alert communication and accurate medical device time synchronization and timekeeping.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEEE 11073-10101:2004(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Neurology</keyword>
+  <keyword>codes</keyword>
+  <keyword>ISO/IEEE 11073-10101</keyword>
+  <keyword>IEEE 11073-10101aTM</keyword>
+  <keyword>information model</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>nomenclature</keyword>
+  <keyword>ontology</keyword>
+  <keyword>patient</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>POC</keyword>
+  <keyword>semantics</keyword>
+  <keyword>service model</keyword>
+  <keyword>terminology</keyword>
+  <keyword>haemodynamics</keyword>
+  <keyword>respiration</keyword>
+  <keyword>ventilation</keyword>
+  <keyword>anesthesia</keyword>
+  <keyword>blood gas</keyword>
+  <keyword>urine</keyword>
+  <keyword>fluid-related metrics</keyword>
+  <keyword>neurology</keyword>
+  <keyword>units of measure</keyword>
+  <keyword>measurement sites</keyword>
+  <keyword>alert communication</keyword>
+  <keyword>medical device certification</keyword>
+  <keyword>NTP</keyword>
+  <keyword>time synchronization</keyword>
+  <keyword>timekeeping</keyword>
+  <keyword>IHE PCD</keyword>
+  <keyword>Continua.</keyword>
+</bibdata>

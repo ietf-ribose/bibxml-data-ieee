@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application of Surge-Protective Devices for Use on the Load Side of Service Equipment in Low-Voltage (1000 V or Less, 50 Hz or 60 Hz) AC Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Surge-Protective Devices for Use on the Load Side of Service Equipment in Low-Voltage (1000 V or Less, 50 Hz or 60 Hz) AC Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7486935</uri>
+  <docidentifier type="IEEE">IEEE Std C62.72-2016 (Revision of IEEE Std C62.72-2007)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-1990-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7486935</docidentifier>
+  <docnumber>C62.72-2016</docnumber>
+  <date type="updated">
+    <on>2016-07-15</on>
+  </date>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-06-08</on>
+  </date>
+  <date type="issued">
+    <on>2016-03-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidance is provided to specifiers, users and manufacturers of surge-protective devices (SPDs) about the application considerations of SPDs to power distribution systems and associated equipment. This guide applies to SPDs to be connected to the load side of the service equipment (and main over current protective device) of 50 Hz or 60 Hz ac power circuits rated 1000 V ac or less. Information on surge origins, effects of surges, number and magnitude of surge events, location categories, power distribution system (PDS) configurations, grounding and bonding, SPD specifications, SPD ratings, SPD characteristics, SPD lifetime, interactions of SPDs with a PDS, and SPD coordination considerations are provided in the guide.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Guidance is provided to specifiers, users and manufacturers of surge-protective devices (SPDs) about the application considerations of SPDs to power distribution systems and associated equipment. This guide applies to SPDs to be connected to the load side of the service equipment (and main over current protective device) of 50 Hz or 60 Hz ac power circuits rated 1000 V ac or less. Information on surge origins, effects of surges, number and magnitude of surge events, location categories, power distribution system (PDS) configurations, grounding and bonding, SPD specifications, SPD ratings, SPD characteristics, SPD lifetime, interactions of SPDs with a PDS, and SPD coordination considerations are provided in the guide.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">C62.72-2007</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Arresters</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>Lightning</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>arrester</keyword>
+  <keyword>bonding</keyword>
+  <keyword>grounding</keyword>
+  <keyword>IEEE C62.72(TM)</keyword>
+  <keyword>internally generated surges</keyword>
+  <keyword>lightning</keyword>
+  <keyword>SPD</keyword>
+  <keyword>surge-protective device coordination</keyword>
+  <keyword>surge-protective device</keyword>
+  <keyword>switching</keyword>
+  <keyword>transient</keyword>
+  <keyword>transient voltage surge suppressor</keyword>
+</bibdata>

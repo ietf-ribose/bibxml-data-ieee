@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Authenticated Encryption With Length Expansion for Storage Device</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Authenticated Encryption With Length Expansion for Storage Device</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4413115</uri>
+  <docidentifier type="IEEE">IEEE Approved Draft Std P1619.1/D24, Oct 2007</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3044-9</docidentifier>
+  <docnumber>P1619.1/D24, Oct 2007</docnumber>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies cryptographic and data authentication procedures for storage devices that support length-expansion, such as tape drives. Such procedures include the following cryptographic modes of operation for the AES block cipher: CCM, GCM, CBC-HMAC, and XTS-HMAC.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>authentication</keyword>
+  <keyword>data storage</keyword>
+  <keyword>CBC</keyword>
+  <keyword>CCM</keyword>
+  <keyword>cryptography</keyword>
+  <keyword>encryption</keyword>
+  <keyword>GCM</keyword>
+  <keyword>HMAC</keyword>
+  <keyword>security</keyword>
+  <keyword>tape drive</keyword>
+  <keyword>variable-length block</keyword>
+  <keyword>XTS</keyword>
+</bibdata>

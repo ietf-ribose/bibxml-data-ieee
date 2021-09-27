@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Protection of Wire-Line Communication Facilities Serving Electric Power Stations</title>
+  <title type="main" format="text/plain">IEEE Guide for the Protection of Wire-Line Communication Facilities Serving Electric Power Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/18472</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 487-1980</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4214-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.119212</docidentifier>
+  <docnumber>487-1980</docnumber>
+  <date type="created">
+    <on>1980-08-08</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1979-06-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 487-1992. Workable methods for protecting wire-line communication circuits entering power stations are presented. This document covers: the electric power station environment; protection apparatus; services types, reliability, service performance objective classifications, and transmission considerations; protection theory and philosophy; protection configurations; installation and inspection; and safety.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 487-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Grounding</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Wire communication cables</keyword>
+  <keyword>protection</keyword>
+  <keyword>wire</keyword>
+  <keyword>line</keyword>
+  <keyword>communications</keyword>
+</bibdata>

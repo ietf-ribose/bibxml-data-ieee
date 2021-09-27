@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Digital Interface for Programmable Instrumentation</title>
+  <title type="main" format="text/plain">IEEE Standard Digital Interface for Programmable Instrumentation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29042</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 488.1-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3934-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.81527</docidentifier>
+  <docnumber>488.1-1987</docnumber>
+  <date type="created">
+    <on>1988</on>
+  </date>
+  <date type="published">
+    <on>2016-03-03</on>
+  </date>
+  <date type="issued">
+    <on>1987-06-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 488.1-2003. Interface systems used to interconnect both programmable and nonprogrammable electronic measuring apparatus with other apparatus and accessories necessary to assemble instrumentation systems are considered. The standard applies to the interface of instrumentation systems, or portions of them, in which the: data exchanged among the interconnected apparatus is digital, the number of devices that may be interconnected by one contiguous bus does not exceed 15, total transmission path lengths over the interconnecting cables do not exceed 20 m, and the data rate across the interface on any signal line does not exceed 1 Mb/s. The basic functional specifications of this standard may also be used in digital interface applications that require longer distances, more devices, increased noise immunity, or combinations of these.</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1003.13-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Computer interfaces</keyword>
+  <keyword>Standards</keyword>
+  <keyword>488.1</keyword>
+  <keyword>programmable</keyword>
+  <keyword>system data</keyword>
+  <keyword>digital interface</keyword>
+  <keyword>instrumentation</keyword>
+  <keyword>Measurement system</keyword>
+</bibdata>

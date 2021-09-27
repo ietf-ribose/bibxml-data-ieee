@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for the Application of Transient Recovery Voltage for AC High-Voltage Circuit Breakers</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Transient Recovery Voltage for AC High-Voltage Circuit Breakers - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6158545</uri>
+  <docidentifier type="IEEE">IEEE Std C37.011-2011 (Revision of IEEE Std C37.011-2005) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7104-3</docidentifier>
+  <docnumber>C37.011-2011</docnumber>
+  <date type="created">
+    <on>2011-11-28</on>
+  </date>
+  <date type="published">
+    <on>2012-05-18</on>
+  </date>
+  <date type="issued">
+    <on>2011-10-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Procedures and calculations necessary to apply the standard transient recovery voltage (TRV) ratings for ac high-voltage circuit breakers rated above 1000 V are covered in this application guide. The breaking capability limits of these circuit breakers are determined to a great degree by the TRV. The TRV ratings are compared with typical system TRV duties. Examples of TRV calculation are given with suggested options if the TRV duty exceeds the TRV ratings of the circuit breaker.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.011-2005 (Revision of IEEE Std C37.011-1994)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>AC motors</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>high-voltage circuit breakers</keyword>
+  <keyword>IEEE C37.011</keyword>
+  <keyword>transient recovery voltage</keyword>
+</bibdata>

@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Corrigendum 1: Timing Considerations for PAUSE Operation</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Corrigendum 1: Timing Considerations for PAUSE Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5752990</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3-2008/Cor 1-2009 (Corrigendum to IEEE Std 802.3-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6147-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5752990</docidentifier>
+  <docnumber>802.3-2008/Cor 1-2009</docnumber>
+  <date type="created">
+    <on>2010-02-01</on>
+  </date>
+  <date type="published">
+    <on>2016-04-08</on>
+  </date>
+  <date type="issued">
+    <on>2009-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The correction to the PAUSE reaction timing delay for the 10GBASE-T port type is addressed in this corrigendum to IEEE Std 802.3-2008.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Collision detection</keyword>
+  <keyword>Timing</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>802.3(TM)-2008/Cor 1-2009</keyword>
+  <keyword>802.3</keyword>
+  <keyword>802.3bb</keyword>
+  <keyword>802.3-2008/Cor-1</keyword>
+  <keyword>PAUSE</keyword>
+</bibdata>

@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505</title>
+  <title type="main" format="text/plain">IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7386555</uri>
+  <docidentifier type="IEEE">IEEE Std 1505.1-2008 (Full-Use)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8537-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.7386555</docidentifier>
+  <docnumber>1505.1-2008</docnumber>
+  <date type="created">
+    <on>2013-08-01</on>
+  </date>
+  <date type="published">
+    <on>2016-01-19</on>
+  </date>
+  <date type="issued">
+    <on>2008-09-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard represents an extension to the IEEE 1505 receiver fixture interface (RFI) standard specification. Particular emphasis is placed on defining within the IEEE 1505 RFI standard a more specific set of performance requirements that employ a common scalable: (a) pin map configuration; (b) specific connector modules; (c) respective contacts; (d) recommended switching implementation; and (e) legacy automatic test equipment (ATE) transitional devices. This is intentionally done to standardize the footprint and assure mechanical and electrical interoperability between past and future automatic test systems (ATS).</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Receives</keyword>
+  <keyword>Scalability</keyword>
+  <keyword>User interfaces</keyword>
+  <keyword>Testing</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATS</keyword>
+  <keyword>fixture</keyword>
+  <keyword>ICD</keyword>
+  <keyword>IEEE 1505.1</keyword>
+  <keyword>interface</keyword>
+  <keyword>ITA</keyword>
+  <keyword>mass termination</keyword>
+  <keyword>receiver</keyword>
+  <keyword>scalable</keyword>
+  <keyword>TPS</keyword>
+  <keyword>UUT</keyword>
+</bibdata>

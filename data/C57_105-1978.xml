@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Application of Transformer Connections in Three-Phase Distribution Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Application of Transformer Connections in Three-Phase Distribution Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27739</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C57.105-1978</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0839-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1978.80814</docidentifier>
+  <docnumber>C57.105-1978</docnumber>
+  <date type="created">
+    <on>1978-10-20</on>
+  </date>
+  <date type="published">
+    <on>2020-04-03</on>
+  </date>
+  <date type="issued">
+    <on>1977-06-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The characteristics of the various transformer connections and possible operating problems under normal or abnormal conditions are treated for three-phase distribution systems. These systems are characterized by primary voltages up to and including 34.5 kV, usually have a preponderance of connected transformers with low-voltage windings below 1000 V, and furnish electric service to consumers. All combinations of Delta and Y, grounded and ungrounded, T connected, zigzag, and certain special connections are considered. Only two-winding transformers are included. Phasing procedures and loading practices are not covered.</abstract>
+  <copyright>
+    <from>1978</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Connectors</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Standards</keyword>
+  <keyword>application</keyword>
+  <keyword>transformer</keyword>
+  <keyword>connections</keyword>
+  <keyword>three-phase</keyword>
+  <keyword>distribution</keyword>
+</bibdata>

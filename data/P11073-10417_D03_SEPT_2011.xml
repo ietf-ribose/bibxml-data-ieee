@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Health informatics--Personal health device communication Part 10417: Device specialization- Glucose meter</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Health informatics--Personal health device communication Part 10417: Device specialization- Glucose meter</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6022728</uri>
+  <docidentifier type="IEEE">IEEE P11073-10417/D03, September 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6914-9</docidentifier>
+  <docnumber>P11073-10417/D03, Sept 2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth glucose meter devices and compute engines (e.g. cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth glucose meters.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>Sugar</keyword>
+  <keyword>Biomedical measurements</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Biomedical informatics</keyword>
+  <keyword>glucose meter</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+</bibdata>

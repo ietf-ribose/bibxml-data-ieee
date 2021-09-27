@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Module Test and Maintenance Bus (MTM-Bus) Protocol</title>
+  <title type="main" format="text/plain">IEEE Standard for Module Test and Maintenance Bus (MTM-Bus) Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499720</uri>
+  <docidentifier type="IEEE">IEEE Std 1149.5-1995</docidentifier>
+  <docidentifier type="ISBN">1-55937-558-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80835</docidentifier>
+  <docnumber>1149.5-1995</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="issued">
+    <on>1995-08-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies a serial, backplane, test and maintenance bus (MTM-Bus) that can be used to integrate modules form different teams or vendors into testable and maintainable subsystems. Physical, link, and command layers are specified. Standard interface protocol and commands can be used to provide the basic test and maintenance features needed for a module as well as access to on-module assets (memory, peripherals, etc.) and IEEE Std 1149.1 boundary-scan. Standard commands and functions support fault isolation to individual modules and test of backplane interconnect between modules.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Data buses</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Protocols</keyword>
+</bibdata>

@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Installation and Maintenance of Lead-Acid Batteries for Photovoltaic (PV) Systems</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Installation and Maintenance of Lead-Acid Batteries for Photovoltaic (PV) Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/847165</uri>
+  <docidentifier type="IEEE">IEEE Std 937-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1937-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91520</docidentifier>
+  <docnumber>937-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2000-03-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Design considerations and procedures for storage, location, mounting, ventilation, assembly, and maintenance of lead-acid storage batteries for terrestrial photovoltaic (PV) power systems are provided. Safety precautions and instrumentation considerations are included. This standard applies to all terrestrial photovoltaic power systems, regardless of size or application, that contain storage subsystems. The installations addressed apply to the operation of an ac, ac/dc, or dc system with the battery, PV generating subsystem, and load all connected in parallel.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 937-1987</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 937-2007 (Revision of IEEE Std 937-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Maintenance</keyword>
+  <keyword>battery installation</keyword>
+  <keyword>battery maintenance</keyword>
+  <keyword>photovoltaic power system</keyword>
+  <keyword>sizing lead-acid battery</keyword>
+</bibdata>

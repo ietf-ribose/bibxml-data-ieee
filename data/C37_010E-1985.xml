@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Application Guide for AC High- Voltage Circuit Breakers Rated on a Symmetrical Current Basis  (Supplement to ANSI/IEEE C37.010-1979)</title>
+  <title type="main" format="text/plain">IEEE Application Guide for AC High- Voltage Circuit Breakers Rated on a Symmetrical Current Basis  (Supplement to ANSI/IEEE C37.010-1979)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1388026</uri>
+  <docidentifier type="IEEE">ANSI/IEEE C37.010e-1985 (Supplement to ANSI/IEEE C37.010-1979)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1028-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.95609</docidentifier>
+  <docnumber>C37.010e-1985</docnumber>
+  <date type="created">
+    <on>1985</on>
+  </date>
+  <date type="issued">
+    <on>1980-09-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE C37.010-1979 (Includes Supplement ANSI/IEEE C37.0I0d-1984)</formattedref>
+    </bibitem>
+  </relation>
+</bibdata>

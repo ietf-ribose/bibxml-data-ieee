@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and metropolitan area networks</title>
+  <title type="title-main" format="text/plain">Media Independent Handover Services</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks - Media Independent Handover Services</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4769367</uri>
+  <docidentifier type="IEEE">IEEE Std 802.21-2008</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5830-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.4769367</docidentifier>
+  <docnumber>802.21-2008</docnumber>
+  <date type="updated">
+    <on>2009-03-13</on>
+  </date>
+  <date type="created">
+    <on>2009-01-21</on>
+  </date>
+  <date type="published">
+    <on>2013-11-15</on>
+  </date>
+  <date type="issued">
+    <on>2008-11-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies IEEE 802&amp;amp;lt;sup&amp;amp;gt;reg&amp;amp;lt;/sup&amp;amp;gt; media access-independent mechanisms that optimize handovers between heterogeneous IEEE 802 systems and between IEEE 802 systems and cellular systems.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies IEEE 802&amp;amp;amp;#174; media access-independent mechanisms that optimize handovers between heterogeneous IEEE 802 systems and between IEEE 802 systems and cellular systems.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.21-2017 (Revision of IEEE Std 802.21-2008 as amended by IEEE Std 802.21a-2012, IEEE Std 802.21b-2012, IEEE Std 802.21c-2014, and IEEE Std 802.21d-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Media</keyword>
+  <keyword>Handover</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>802.21-2008</keyword>
+  <keyword>management</keyword>
+  <keyword>media independent handover</keyword>
+  <keyword>mobile node</keyword>
+  <keyword>mobility</keyword>
+  <keyword>seamless</keyword>
+  <keyword>point of attachment</keyword>
+  <keyword>point of service</keyword>
+</bibdata>

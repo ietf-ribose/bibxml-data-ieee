@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems Amendment 1</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Conformance Test Procedures for Equipment Interconnecting Distributed Resources with Electric Power Systems Amendment 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7003958</uri>
+  <docidentifier type="IEEE">IEEE P1547a.1/D4, August 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9338-0</docidentifier>
+  <docnumber>P1547a.1/D4, Aug 2014</docnumber>
+  <date type="created">
+    <on>2015-01-07</on>
+  </date>
+  <date type="published">
+    <on>2015-01-07</on>
+  </date>
+  <date type="issued">
+    <on>2015-01-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment was prepared in response to IEEE STD 1547aAmendment 4 1 to IEEE 1547-2003 providing revisions to Clause 4.1.1 Voltage regulation, Clause 4.2.4 5 Frequency, and Clause 4.2.3 Voltage.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1547.1-2005</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Equipment testing</keyword>
+  <keyword>Interconnections</keyword>
+  <keyword>Distributed processing</keyword>
+  <keyword>Electric power systems</keyword>
+</bibdata>

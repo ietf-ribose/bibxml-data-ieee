@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC 62529:2012(E) Standard for Signal and Test Definition</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEC 62529:2012(E) Standard for Signal and Test Definition - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6680582</uri>
+  <docidentifier type="IEEE">IEC 62529:2012(E) (IEEE Std 1641-2010 - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8857-7</docidentifier>
+  <docnumber>62529-2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2013-12-10</on>
+  </date>
+  <date type="issued">
+    <on>2013-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Adoption of IEEE Std 1641-2010. This standard provides the means to define and describe signals used in testing. It also provides a set of common basic signals, built upon formal mathematical specifications so that signals can be combined to form complex signals usable across all test platforms.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEC 62529:2007 (E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEC standards</keyword>
+  <keyword>Automatic test equipment</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Signal processing</keyword>
+  <keyword>ATE</keyword>
+  <keyword>ATLAS</keyword>
+  <keyword>automatic test equipment</keyword>
+  <keyword>IEEE 1641</keyword>
+  <keyword>signal definitions</keyword>
+  <keyword>test definitions</keyword>
+  <keyword>test requirements</keyword>
+  <keyword>test signals</keyword>
+  <keyword>unit under test</keyword>
+  <keyword>UUT</keyword>
+</bibdata>

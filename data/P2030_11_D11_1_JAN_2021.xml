@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Distributed Energy Resources Management Systems (DERMS) Functional Specification</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Distributed Energy Resources Management Systems (DERMS) Functional Specification</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9352679</uri>
+  <docidentifier type="IEEE">IEEE P2030.11/D11.1, January 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7366-8</docidentifier>
+  <docnumber>P2030.11/D11.1, Jan 2021</docnumber>
+  <date type="created">
+    <on>2021-02-09</on>
+  </date>
+  <date type="published">
+    <on>2021-02-10</on>
+  </date>
+  <date type="issued">
+    <on>2021-05-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A key concept and requirement for an operational and effective deployment of a large number of distributed energy resources (DER), which include sources of power and demand response, to enable the provision of flexibility and grid services, is the aggregation of DER. This aggregation function, as well as the functions required to enable grid services, are provided by DER management systems (DERMS). A functional specification for a DERMS and a description of the grid services that aggregated DER can provide the distribution and transmission systems is provided by this guide. Implementation issues and the interoperability requirements of a DERMS with its environment, including the transmission and distribution systems, and the communication and information infrastructure of modern grids are addressed by this guide.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>Distributed control</keyword>
+  <keyword>Resource management</keyword>
+  <keyword>Energy management</keyword>
+  <keyword>advanced distribution management system</keyword>
+  <keyword>aggregation</keyword>
+  <keyword>ancillary services</keyword>
+  <keyword>demand response</keyword>
+  <keyword>DERMS</keyword>
+  <keyword>distributed energy resources</keyword>
+  <keyword>distributed energy storage system</keyword>
+  <keyword>distributed generation</keyword>
+  <keyword>distribution system</keyword>
+  <keyword>energy management system</keyword>
+  <keyword>grid and system services</keyword>
+  <keyword>IEEE 2030.11</keyword>
+  <keyword>microgrid</keyword>
+  <keyword>transmission system</keyword>
+  <keyword>virtual power plant</keyword>
+</bibdata>

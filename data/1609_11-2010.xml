@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Wireless Access in Vehicular Environments (WAVE)-- Over-the-Air Electronic Payment Data Exchange Protocol for Intelligent Transportation Systems (ITS)</title>
+  <title type="main" format="text/plain">IEEE Standard for Wireless Access in Vehicular Environments (WAVE)-- Over-the-Air Electronic Payment Data Exchange Protocol for Intelligent Transportation Systems (ITS)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5692959</uri>
+  <docidentifier type="IEEE">IEEE Std 1609.11-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6873-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5692959</docidentifier>
+  <docnumber>1609.11-2010</docnumber>
+  <date type="updated">
+    <on>2011-02-04</on>
+  </date>
+  <date type="created">
+    <on>2011-01-09</on>
+  </date>
+  <date type="published">
+    <on>2013-06-13</on>
+  </date>
+  <date type="issued">
+    <on>2010-11-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the electronic payment service layer and profile for Payment and Identity authentication, and Payment Data transfer for Dedicated Short Range Communication (DSRC) based applications in Wireless Access in Vehicular Environments. This standard defines a basic level of technical interoperability (vehicle-to-roadside) for electronic payment equipment, i.e., onboard unit (OBU) and roadside unit (RSU) using WAVE. It does not provide a full solution for interoperability, and it does not define other parts of the electronic payment system, other services, other technologies and non-technical elements of payment interoperability. This standard is not intended to define technology and processes to activate and store data into the OBU (personalization), nor the applications using the payment service.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the electronic payment service layer and profile for Payment and Identity authentication, and Payment Data transfer for Dedicated Short Range Communication (DSRC) based applications in Wireless Access in Vehicular Environments. This standard defines a basic level of technical interoperability (vehicle-to-roadside) for electronic payment equipment, i.e., onboard unit (OBU) and roadside unit (RSU) using WAVE. It does not provide a full solution for interoperability, and it does not define other parts of the electronic payment system, other services, other technologies and non-technical elements of payment interoperability. This standard is not intended to define technology and processes to activate and store data into the OBU (personalization), nor the applications using the payment service.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Intelligent transportation systems</keyword>
+  <keyword>Vehicles</keyword>
+  <keyword>EFC</keyword>
+  <keyword>electronic fee collection</keyword>
+  <keyword>electronic payment service</keyword>
+  <keyword>EPS</keyword>
+  <keyword>WAVE</keyword>
+  <keyword>Wireless Access in Vehicular Environments</keyword>
+</bibdata>

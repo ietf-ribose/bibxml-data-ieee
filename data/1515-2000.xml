@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Electronic Power Subsystems: Parameter Definitions, Test Conditions, and Test Methods</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Electronic Power Subsystems: Parameter Definitions, Test Conditions, and Test Methods</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/868942</uri>
+  <docidentifier type="IEEE">IEEE Std 1515-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2488-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91922</docidentifier>
+  <docnumber>1515-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2019-10-25</on>
+  </date>
+  <date type="issued">
+    <on>2000-03-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice defines many common parameters for ac-dc and dc-dc electronic power distribution components and subsystems. This enables electronic system engineers, manufacturers, and researchers to speak with a common language and hence facilitates effective and efficient communications. Furthermore, implementation of a common specification language will allow the power electronics industry as well as the user communities, including government system developers, to acquire cost and time-effective electronic power subsystems with significantly enhanced interchangeability.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>electronic power distribution</keyword>
+  <keyword>power supply</keyword>
+  <keyword>specification</keyword>
+  <keyword>specification language</keyword>
+</bibdata>

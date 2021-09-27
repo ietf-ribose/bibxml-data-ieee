@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Precision clock synchronization protocol for networked measurement and control systems</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - Precision clock synchronization protocol for networked measurement and control systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1405847</uri>
+  <docidentifier type="IEEE">IEEE 1588 IEC 61588 First edition 2004-09</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5784-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.95751</docidentifier>
+  <docnumber>61588-2004</docnumber>
+  <date type="created">
+    <on>2004-11-15</on>
+  </date>
+  <date type="published">
+    <on>2019-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2004</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A protocol is provided in this standard that enables precise synchronization of clocks in measurement and control systems implemented with technologies such as network communication, local computing, and distributed objects. The protocol is applicable to systems communicating via packet networks. Heterogeneous systems are enabled that include clocks of various inherent precision, resolution, and stability to synchronize. System-wide synchronization accuracy and precision in the sub-microsecond range are supported with minimal network and local clock computing resources. Simple systems are installed and operated without requiring the management attention of users because the default behavior of the protocol allows for it.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEC 61588:2009(E)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEC 61588:2009(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEC Standards</keyword>
+  <keyword>Clocks</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>IEC</keyword>
+  <keyword>Customer services</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>clocks</keyword>
+  <keyword>distributed system</keyword>
+  <keyword>master clock</keyword>
+  <keyword>measurement and control systems</keyword>
+  <keyword>real-time clock</keyword>
+  <keyword>synchronized clocks</keyword>
+</bibdata>

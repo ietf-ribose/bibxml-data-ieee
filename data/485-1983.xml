@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Sizing Large Lead Storage Batteries for Generating Stations and Substations</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Sizing Large Lead Storage Batteries for Generating Stations and Substations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/574712</uri>
+  <docidentifier type="IEEE">IEEE Std 485-1983</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4376-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1983.81719</docidentifier>
+  <docnumber>485-1983</docnumber>
+  <date type="created">
+    <on>1983-12-30</on>
+  </date>
+  <date type="published">
+    <on>2015-02-20</on>
+  </date>
+  <date type="issued">
+    <on>1983-06-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Methods for defining the dc load in a generating station or a substation and for sizing a lead storage battery to supply that load are described. Some factors relating to cell selection are provided for consideration. This standard is based on commonly accepted methods used to define the load and to ensure adequate battery capacity and is applicable to all installations and battery sizes. The installations considered are designed for full-float operation with a battery charger serving to maintain the battery in a charged condition as well as to supply the normal dc load.</abstract>
+  <copyright>
+    <from>1983</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 485-2010 (Revision of IEEE Std 485-1997)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>sizing</keyword>
+  <keyword>large</keyword>
+  <keyword>lead</keyword>
+  <keyword>storage</keyword>
+  <keyword>batteries</keyword>
+  <keyword>Substations</keyword>
+</bibdata>

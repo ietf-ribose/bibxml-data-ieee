@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEEApproved Draft Guide for Installation and Maintenance of Liquid-Immersed Power Transformers</title>
+  <title type="main" format="text/plain">IEEEApproved Draft Guide for Installation and Maintenance of Liquid-Immersed Power Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4040783</uri>
+  <docidentifier type="IEEE">IEEE Std PC57.93/D12</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2633-6</docidentifier>
+  <docnumber>PC57.93/D12</docnumber>
+  <date type="created">
+    <on>2005-12-31</on>
+  </date>
+  <date type="published">
+    <on>2019-09-20</on>
+  </date>
+  <date type="issued">
+    <on>2007-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides guidance and recommended practices on the installation and maintenance of liquid-immersed power transformers rated 501 kVA and above with secondary voltages of 1000 V and above. This guide covers the entire range of power transformers, including extra high voltage (EHV) transformers. This guide does not cover special transformers such as furnace transformers, rectifier transformers etc. Distinctions are made as required for various MVA ratings, voltage ratings, and types of liquid insulation.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.93-1995</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.93-2019 (Revision of IEEE Std C57.93-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power transformer insulation</keyword>
+  <keyword>Oil insulation</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Inspection</keyword>
+  <keyword>C57.93-2007</keyword>
+  <keyword>installation</keyword>
+  <keyword>liquid-immersed transformer</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>oil-filled transformer</keyword>
+  <keyword>oil processing</keyword>
+  <keyword>testing</keyword>
+  <keyword>transformer</keyword>
+</bibdata>

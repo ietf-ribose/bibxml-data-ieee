@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Guide for the Application of Surge-Protective Components in Surge Protective Devices and Equipment Ports</title>
+  <title type="title-main" format="text/plain">Overview</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Guide for the Application of Surge-Protective Components in Surge Protective Devices and Equipment Ports - Overview</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7725478</uri>
+  <docidentifier type="IEEE">IEEE PC62.42.0/D5, September 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3562-8</docidentifier>
+  <docnumber>PC62.42.0/D5, Sept 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-10-28</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The C62.42 guide series covers surge protective components (SPCs) used in power and telecom surge protective devices (SPDs) and equipment ports. This Overview part covers:- Protective functions both non-linear and linear- Component technologies and characteristics- Common circuit designs used in surge protective devices (SPDs) and equipment ports Information on the impulse (surge) generators used to test surge protective components (SPCs) Additional parts of C62.42 on specific SPC technologies provide details on:-Component construction-Characteristics and ratings-Application examples</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.42-2005 (Revision of IEEE C62.42-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Electrial safety</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>surge</keyword>
+  <keyword>components</keyword>
+  <keyword>equipment ports</keyword>
+  <keyword>surge protective devices</keyword>
+  <keyword>electrical protection</keyword>
+  <keyword>mitigation</keyword>
+  <keyword>overvoltage</keyword>
+  <keyword>overcurrent</keyword>
+  <keyword>telecommunication</keyword>
+  <keyword>power</keyword>
+</bibdata>

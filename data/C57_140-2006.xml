@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Evaluation and reconditioning of Liquid Immersed Power Transformers</title>
+  <title type="main" format="text/plain">IEEE Guide for Evaluation and reconditioning of Liquid Immersed Power Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4168522</uri>
+  <docidentifier type="IEEE">IEEE Std C57.140-2006</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5269-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.353650</docidentifier>
+  <docnumber>C57.140-2006</docnumber>
+  <date type="updated">
+    <on>2016-07-01</on>
+  </date>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <date type="published">
+    <on>2017-11-23</on>
+  </date>
+  <date type="issued">
+    <on>2006-11-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide includes guidelines for the following: insulating oil maintenance and diagnostics, oil reclamation, testing methods for the determination of remaining insulation (paper) life, and upgrades of auxiliary equipment such as bushings, gauges, deenergized tap changers (DETCs), load tap changers (LTCs) (where applicable), and coil reclamping. The goal of this guide is to assist the user in extending the useful life of a transformer.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This guide includes guidelines for following: insulating oil maintenance and diagnostics, oil reclamation, testing methods for the determination of remaining insulation (paper) life, and upgrades of auxiliary equipment such as bushings, gauges, deenergized tap changers (DETCs), on load tap changers (LTCs) (where applicable), and coil reclamping. The goal of this guide is to assist the user in extending the useful life of a transformer.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.140-2017 (Revision of IEEE Std C57.140-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power transformer insulation</keyword>
+  <keyword>Oil insulation</keyword>
+  <keyword>Dielectric liquids</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>evaluation</keyword>
+  <keyword>life extension</keyword>
+  <keyword>reconditioning</keyword>
+  <keyword>risk assessment</keyword>
+</bibdata>

@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Measuring Electroacoustic Performance of Communication Devices</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Measuring Electroacoustic Performance of Communication Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8784432</uri>
+  <docidentifier type="IEEE">IEEE P269/D127.5, July 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6053-8</docidentifier>
+  <docnumber>P269/D127.5, Jul 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-08-01</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Practical methods for making electroacoustic laboratory measurements of analog and digital speech communications terminals and connected audio devices are contained in this standard. The methods are applicable to a wide variety of wired, wireless, cordless, and mobile communication terminals. Examples include Voice over Internet Protocol (VoIP), Wi-Fi&amp;amp;amp;#174;, and softphone devices. Tests applicable to connected audio devices such as wired, Bluetooth&amp;amp;amp;#174;, and universal serial bus (USB) handsets, headsets, and wearables are included. The standard contains objective metrics, subjective metrics, and subjective metric predictors. Application is in the frequency range from 20 Hz to 20 kHz.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 269-2010 (Revision of IEEE Std 269-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Communications technology</keyword>
+  <keyword>Acoustoelectric devices</keyword>
+  <keyword>Speech processing</keyword>
+  <keyword>Bluetooth</keyword>
+  <keyword>Headphones</keyword>
+  <keyword>Internet telephony</keyword>
+  <keyword>Mobile handsets</keyword>
+  <keyword>analog terminals</keyword>
+  <keyword>Bluetooth(R)</keyword>
+  <keyword>cordless</keyword>
+  <keyword>digital terminals</keyword>
+  <keyword>electroacoustic measurements</keyword>
+  <keyword>handsets</keyword>
+  <keyword>headsets</keyword>
+  <keyword>IEEE 269TM</keyword>
+  <keyword>mean opinion score (MOS)</keyword>
+  <keyword>mobile</keyword>
+  <keyword>MOS predictors</keyword>
+  <keyword>softphones</keyword>
+  <keyword>speech communication</keyword>
+  <keyword>subjective metrics</keyword>
+  <keyword>telephone</keyword>
+  <keyword>universal serial bus (USB)</keyword>
+  <keyword>Voice over Internet Protocol (VoIP) terminals</keyword>
+  <keyword>voice transmission performance</keyword>
+  <keyword>wearables</keyword>
+  <keyword>Wi-F(R) terminals</keyword>
+</bibdata>

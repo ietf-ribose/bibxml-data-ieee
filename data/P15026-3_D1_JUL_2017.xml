@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Adoption of Systems and software engineering --Systems and software assurance -- Part 3: Systems integrity levels</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Adoption of Systems and software engineering --Systems and software assurance -- Part 3: Systems integrity levels</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8305689</uri>
+  <docidentifier type="IEEE">IEEE P15026-3/D1, July 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4223-7</docidentifier>
+  <docnumber>P15026-3/D1, Jul 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2018-03-01</on>
+  </date>
+  <date type="issued">
+    <on>2017</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The content of ISO/IEC 15026-3:2015 is adopted by this standard. This part of ISO/IEC 15026 specifies the concept of integrity levels with corresponding integrity level requirements that are required to be met in order to show the achievement of the integrity level. It places requirements on and recommends methods for defining and using integrity levels and their integrity level requirements. It covers systems, software products, and their elements, as well as relevant external dependencies.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>15026-3</keyword>
+  <keyword>adoption</keyword>
+  <keyword>integrity levels</keyword>
+  <keyword>software systems</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Low-Rate Wireless Networks: Amendment Enabling Spectrum Resource Measurement Capability</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Low-Rate Wireless Networks: Amendment Enabling Spectrum Resource Measurement Capability</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8027229</uri>
+  <docidentifier type="IEEE">IEEE P802.15.4s/D06, July 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4370-8</docidentifier>
+  <docnumber>P802.15.4s/D06, Jul 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-09-07</on>
+  </date>
+  <date type="issued">
+    <on>2018-02-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Definitions of MAC related functions to enable spectrum resource management are addressed in this amendment to IEEE Std 802.15.4(TM). It specifies the following:-- Spectrum resource measurements and network performance metrics, such as packet error ratio, delay, etc.-- Information elements and data structures to capture these measurements,-- Procedures for collecting and exchanging spectrum resource measurement information with higher layers or other devices.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2015 (Revision of IEEE Std 802.15.4-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Power measurement</keyword>
+  <keyword>Measurement uncertainty</keyword>
+  <keyword>IEEE 802.15.4(TM)</keyword>
+  <keyword>spectrum resource measurement</keyword>
+  <keyword>transmit power control</keyword>
+</bibdata>

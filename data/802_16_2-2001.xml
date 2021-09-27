@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Recommended Practice for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Recommended Practice for Coexistence of Fixed Broadband Wireless Access Systems</title>
+  <title type="main" format="text/plain">Recommended Practice for Local and Metropolitan Area Networks - Recommended Practice for Coexistence of Fixed Broadband Wireless Access Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/950355</uri>
+  <docidentifier type="IEEE">IEEE Std 802.16.2-2001</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4019-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93348</docidentifier>
+  <docnumber>802.16.2-2001</docnumber>
+  <date type="created">
+    <on>2001</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2001-07-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 802.16.2-2004 Abstract:This IEEE recommended practice provides guidelines for minimizing interference in fixed broadband wireless access (BWA)systems operating in the frequency range 10 to 66 GHz, with particular focus on the range 23.5 to 43.5 GHz. It analyzes coexistence scenarios and provides guidance for system design,deployment,coordination,and frequency usage.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16.2-2004 (Revision of IEEE Std 802.16.2-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE 802.16 Standard</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>coexistence</keyword>
+  <keyword>fixed broadband wireless access (BWA)</keyword>
+  <keyword>interference</keyword>
+  <keyword>local multipoint distribution service (LMDS)</keyword>
+  <keyword>millimeter wave</keyword>
+  <keyword>multipoint</keyword>
+  <keyword>point-to-multipoint</keyword>
+  <keyword>radio</keyword>
+  <keyword>wireless metropolitan area network (WirelessMAN) standard</keyword>
+</bibdata>

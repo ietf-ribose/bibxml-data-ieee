@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Methods and Equipment for Measuring the Transmission Characteristics of Analog Voice Frequency Circuits</title>
+  <title type="main" format="text/plain">IEEE Standard Methods and Equipment for Measuring the Transmission Characteristics of Analog Voice Frequency Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30672</uri>
+  <docidentifier type="IEEE">IEEE Std 743-1984</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4403-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1984.82419</docidentifier>
+  <docnumber>743-1984</docnumber>
+  <date type="created">
+    <on>1984-11-14</on>
+  </date>
+  <date type="published">
+    <on>2018-06-12</on>
+  </date>
+  <date type="issued">
+    <on>1992-08-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Prescribes criteria that establish protection requirements for Class 1E power systems and equipment. It describes the purpose of and the means for obtaining protection from electrical and mechanical damage, or failures that can occur within a time period that is shorter than that required for operator action. It includes both design and documentation requirements. It does not include physical plant design requirements to protect against certain events. .</abstract>
+  <copyright>
+    <from>1984</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 743-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Data communication</keyword>
+  <keyword>Electronic equipment testing</keyword>
+  <keyword>Electronic switching systems</keyword>
+  <keyword>Measurement standards</keyword>
+  <keyword>Telephone exchanges</keyword>
+  <keyword>Subscriber loops</keyword>
+  <keyword>Speech communication</keyword>
+  <keyword>characteristics</keyword>
+  <keyword>analog</keyword>
+  <keyword>voice</keyword>
+  <keyword>frequency</keyword>
+  <keyword>circuits</keyword>
+</bibdata>

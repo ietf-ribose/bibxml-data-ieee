@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Design Tests for High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
+  <title type="main" format="text/plain">IEEE Standard Design Tests for High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/689542</uri>
+  <docidentifier type="IEEE">IEEE Std C37.41-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4439-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.82878</docidentifier>
+  <docnumber>C37.41-1988</docnumber>
+  <date type="created">
+    <on>1989-08-14</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1988-03-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded. Tests for high-voltage fuses (above 600 V), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories (for AC distribution systems) are covered. These include enclosed, open, and open-link types of distribution cutouts and fuses; distribution current-limiting fuses; distribution oil cutouts; distribution enclosed single-pole air switches; power fuses, including current-limiting types; outdoor and indoor fuse disconnecting switches; fuse supports, fuse mountings, fuse hooks, fuse tongs, and fuse links of the type used exclusively with the above products; and removable switch blades for certain of the above.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.41-1994</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Switchgear testing</keyword>
+  <keyword>high-voltage fuses</keyword>
+  <keyword>single-pole air switches</keyword>
+  <keyword>AC</keyword>
+  <keyword>distribution</keyword>
+  <keyword>switch blades</keyword>
+  <keyword>oil cutouts</keyword>
+</bibdata>

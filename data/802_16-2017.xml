@@ -1,0 +1,77 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Air Interface for Broadband Wireless Access Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Air Interface for Broadband Wireless Access Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8303870</uri>
+  <docidentifier type="IEEE">IEEE Std 802.16-2017 (Revision of IEEE Std 802.16-2012)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4474-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8303870</docidentifier>
+  <docnumber>802.16-2017</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-02-27</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the air interface, including the medium access control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint broadband wireless access (BWA) systems providing multiple services. The MAC is structured to support the WirelessMAN-SC, WirelessMAN-OFDM, and WirelessMAN-OFDMA PHY specifications, each suited to a particular operational environment. The standard enables rapid worldwide deployment of innovative, cost-effective, and interoperable multi-vendor broadband wireless access products, facilitates competition in broadband access by providing alternatives to wireline broadband access, encourages consistent worldwide spectrum allocation, and accelerates the commercialization of broadband wireless access systems.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16-2012 (Revision of IEEE Std 802.16-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Broadband</keyword>
+  <keyword>Cellular networks</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Microwave communication</keyword>
+  <keyword>broadband wireless access</keyword>
+  <keyword>BWA</keyword>
+  <keyword>cellular layer</keyword>
+  <keyword>fixed broadband wireless access</keyword>
+  <keyword>IEEE 802.16(TM)</keyword>
+  <keyword>IMT-2000</keyword>
+  <keyword>MAN</keyword>
+  <keyword>management information base</keyword>
+  <keyword>MIB</keyword>
+  <keyword>microwave</keyword>
+  <keyword>mobile broadband</keyword>
+  <keyword>mobile broadband wireless access</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>OFDMA</keyword>
+  <keyword>radio</keyword>
+  <keyword>standard</keyword>
+  <keyword>WAS</keyword>
+  <keyword>wireless access systems</keyword>
+  <keyword>WirelessMAN(R)</keyword>
+  <keyword>wireless metropolitan area network</keyword>
+</bibdata>

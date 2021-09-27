@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard: Criteria for Protection Systems for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard: Criteria for Protection Systems for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6125207</uri>
+  <docidentifier type="IEEE">IEEE Std 279-1971 (Revision of IEEE Std 271-1968)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6442-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6125207</docidentifier>
+  <docnumber>279-1971</docnumber>
+  <date type="created">
+    <on>2012-05-17</on>
+  </date>
+  <date type="published">
+    <on>2012-05-17</on>
+  </date>
+  <date type="issued">
+    <on>1971-06-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Withdrawn Standard June 1984. These criteria established minimum requirements for the safety-related functional performance and reliability of protection systems for stationary land-based nuclear reactors producing steam for electric power generation. Fulfillment of these requirements does not necessarily fully establish the adequacy of protective system functional performance and reliability. On the other hand, omission of any of these requirements will, in most instances, be an indication of system inadequacy. For purposes of these criteria, the nuclear power generating station protection system encompasses all electric and mechanical devices and circuitry (from sensors to actuation device input terminals) involved in generating those signals associated with the protective function. These signals include those that actuate reactor trip and that, in the event of a serious reactor accident, actuate engineered safeguards such as containment isolation, core spray, safety injection, pressure reduction, and air cleaning.</abstract>
+  <copyright>
+    <from>1971</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Inductors</keyword>
+  <keyword>Reliability</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Mechanical sensors</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Substation protection</keyword>
+</bibdata>

@@ -1,0 +1,77 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Recommended Practice for Conducting Short-Circuit Studies and Analysis of Industrial and Commercial Power Systems</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Recommended Practice for Conducting Short-Circuit Studies and Analysis of Industrial and Commercial Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8387006</uri>
+  <docidentifier type="IEEE">IEEE P3002.3/D7, December 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4984-7</docidentifier>
+  <docnumber>P3002.3/D7, Dec 2017</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-06-15</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Activities related to short-circuit analysis, including design considerations for new systems, analytical studies for existing systems, as well as operational and model validation considerations for industrial and commercial power systems are addressed. Fault current calculation and device duty evaluation is included in short-circuit analysis. Accuracy of calculation results primarily relies on system modeling assumptions and methods used. The use of computer-aided analysis software with a list of desirable capabilities recommended to conduct a modern short-circuit study is emphasized. Examples of system data requirements and result analysis techniques are presented.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Short-circuit currents</keyword>
+  <keyword>Fault currents</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Industrial power systems</keyword>
+  <keyword>ac decrement</keyword>
+  <keyword>asymmetrical fault current</keyword>
+  <keyword>available fault current</keyword>
+  <keyword>bolted fault</keyword>
+  <keyword>breaking capacity</keyword>
+  <keyword>breaking duty</keyword>
+  <keyword>data collection</keyword>
+  <keyword>dc component</keyword>
+  <keyword>dc decrement</keyword>
+  <keyword>dc offset</keyword>
+  <keyword>device duty calculation</keyword>
+  <keyword>fault calculation</keyword>
+  <keyword>fault duty</keyword>
+  <keyword>IEEE 3002.3</keyword>
+  <keyword>interrupting capacity</keyword>
+  <keyword>interrupting duty</keyword>
+  <keyword>making capacity</keyword>
+  <keyword>making duty</keyword>
+  <keyword>momentary capacity</keyword>
+  <keyword>momentary duty</keyword>
+  <keyword>short-circuit analysis</keyword>
+  <keyword>short-circuit current</keyword>
+  <keyword>short-circuit studies</keyword>
+  <keyword>short-circuit withstand</keyword>
+  <keyword>symmetrical component</keyword>
+  <keyword>symmetrical fault current</keyword>
+  <keyword>system modeling</keyword>
+  <keyword>system validation</keyword>
+  <keyword>X/R ratio</keyword>
+</bibdata>

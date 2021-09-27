@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Definition, Specification and Analysis of Systems Used for Supervisory Control, Data Acquisition, and Automatic Control</title>
+  <title type="main" format="text/plain">IEEE Standard Definition, Specification and Analysis of Systems Used for Supervisory Control, Data Acquisition, and Automatic Control</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/478424</uri>
+  <docidentifier type="IEEE">IEEE Std C37.1-1994</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1009-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.79185</docidentifier>
+  <docnumber>C37.1-1994</docnumber>
+  <date type="created">
+    <on>1994-10-31</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1994-03-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Distributed multi-computer master stations and distributed remote terminal units (RTUs) are introduced. Submaster RTUs used in an automated distribution system with downstream feeder RTUs is defined. Local area networks with master stations are discussed. Intelligent electronic devices (IEDs) with respect to their interface to RTUs and master stations are defined. New surge withstand capability (SWC) standards and their applicability to SCADA is shown.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.1-1987</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.1-2007 (Revision of IEEE Std C37.1-1994)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Distributed control</keyword>
+  <keyword>Distributed computing</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power system control</keyword>
+  <keyword>SCADA systems</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>automatic control</keyword>
+  <keyword>data acquisition</keyword>
+  <keyword>SCADA</keyword>
+  <keyword>supervisory control</keyword>
+</bibdata>

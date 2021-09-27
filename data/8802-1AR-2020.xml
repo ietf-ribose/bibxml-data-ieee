@@ -1,0 +1,88 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE International Standard for Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 1AR:Secure device identity</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard for Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 1AR:Secure device identity</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9052099</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-1AR:2020(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6588-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2020.9052099</docidentifier>
+  <docnumber>8802-1AR-2020</docnumber>
+  <date type="updated">
+    <on>2020-04-24</on>
+  </date>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-03-31</on>
+  </date>
+  <date type="issued">
+    <on>2020</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A Secure Device Identifier (DevID) is cryptographically bound to a device and supports authentication of the device's identity. An Initial Device Identifier (IDevID) provided by the supplier of a device can be supplemented by Local Device Identifiers (LDevIDs) facilitating enrollment (provisioning of authentication and authorization credentials) by local network administrators.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A Secure Device Identifier (DevID) is cryptographically bound to a device and supports authentication of the device???s identity. An Initial Device Identifier (IDevID) provided by the supplier of a device can be supplemented by Local Device Identifiers (LDevIDs) facilitating enrollment (provisioning of authentication and authorization credentials) by local network administrators.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AR-2018 (Revision of IEEE Std 802.1AR-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Certification</keyword>
+  <keyword>Cryptography</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>access control</keyword>
+  <keyword>authentication</keyword>
+  <keyword>authorization</keyword>
+  <keyword>certificate</keyword>
+  <keyword>IEEE 802.1AR</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>PKI</keyword>
+  <keyword>port-based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>Secure Device Identifier</keyword>
+  <keyword>security</keyword>
+  <keyword>X.509</keyword>
+</bibdata>

@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Behavioural languages</title>
+  <title type="title-part" format="text/plain">Part 1-1: VHDL Language Reference Manual</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - Behavioural languages - Part 1-1: VHDL Language Reference Manual</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5967868</uri>
+  <docidentifier type="IEEE">IEC 61691-1-1:2011(E) IEEE Std 1076-2008</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6605-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5967868</docidentifier>
+  <docnumber>61691-1-1-2011</docnumber>
+  <date type="created">
+    <on>2011-05-19</on>
+  </date>
+  <date type="published">
+    <on>2016-06-20</on>
+  </date>
+  <date type="issued">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Adoption of IEEE Std 1076-2008. VHSIC Hardware Description Language (VHDL) is defined. VHDL is a formal notation intended for use in all phases of the creation of electronic systems. Because it is both machine readable and human readable, it supports the development, verification, synthesis, and testing of hardware designs; the communication of hardware design data; and the maintenance, modification, and procurement of hardware. Its primary audiences are the implementors of tools supporting the language and the advanced users of the language. (Superseded by IEEE C95.1-2019)</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076-2008 (Revision of IEEE Std 1076-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Hardware design languages</keyword>
+  <keyword>Computer languages</keyword>
+  <keyword>Electronics packaging</keyword>
+  <keyword>Behavioral science</keyword>
+  <keyword>computer languages</keyword>
+  <keyword>electronic systems</keyword>
+  <keyword>hardware</keyword>
+  <keyword>hardware design</keyword>
+  <keyword>VHDL</keyword>
+</bibdata>

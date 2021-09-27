@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Qualification of Class 1E Static Battery Chargers and Inverters for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard for Qualification of Class 1E Static Battery Chargers and Inverters for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/21025</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 650-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4238-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.120964</docidentifier>
+  <docnumber>650-1979</docnumber>
+  <date type="created">
+    <on>1979-10-12</on>
+  </date>
+  <date type="published">
+    <on>2019-04-16</on>
+  </date>
+  <date type="issued">
+    <on>1979-03-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 650-1990. Methods for qualifying static battery chargers and inverters for Class 1E installations in a mild environment outside containment in nuclear power generating stations are described. The qualification methods set forth employ a combination of type testing and analysis, the latter including a justification of methods, theories, and assumptions used. These procedures meet the requirements of IEEE Std 323-1983, IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power Generating Stations.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 650-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Battery chargers</keyword>
+  <keyword>Inverters</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Standards</keyword>
+  <keyword>1E</keyword>
+  <keyword>battery</keyword>
+  <keyword>chargers</keyword>
+  <keyword>inverters</keyword>
+  <keyword>NPGS</keyword>
+</bibdata>

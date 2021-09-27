@@ -1,0 +1,42 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Glossary of Computer Graphics Terminology</title>
+  <title type="main" format="text/plain">IEEE Standard Glossary of Computer Graphics Terminology</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159476</uri>
+  <docidentifier type="IEEE">IEEE Std 610.6-1991</docidentifier>
+  <docidentifier type="ISBN">0-7381-4572-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.101088</docidentifier>
+  <docnumber>610.6-1991</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="issued">
+    <on>1991-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms in the field of computer graphics are defined. Topics covered include general computer graphics concepts, computer graphics hardware and hardware concepts, primitives and attributes, input devices, image concepts and techniques, display techniques, visual effects, windows and viewports, CRT terminology, and three-dimensional technology. Terms considered to be parochial to one group or organisation, company proprietary or trademarked, multiword terms whose meaning could be inferred from the definitions of the component words, and terms whose meaning in the computer field could be directly inferred from their standard English meaning are excluded.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Computer graphics</keyword>
+  <keyword>Terminology</keyword>
+</bibdata>

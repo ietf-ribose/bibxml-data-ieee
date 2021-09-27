@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Protocol for Stream Management in Media Client Devices</title>
+  <title type="main" format="text/plain">IEEE Standard Protocol for Stream Management in Media Client Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6265328</uri>
+  <docidentifier type="IEEE">IEEE Std 2200-2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7289-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6265328</docidentifier>
+  <docnumber>2200-2012</docnumber>
+  <date type="updated">
+    <on>2012-09-14</on>
+  </date>
+  <date type="created">
+    <on>2012-08-09</on>
+  </date>
+  <date type="published">
+    <on>2012-08-10</on>
+  </date>
+  <date type="issued">
+    <on>2012-06-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Interfaces for intelligently distributing and replicating content over heterogeneous networks to portable and intermediate devices with local storage are defined.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Interfaces for intelligently distributing and replicating content over heterogeneous networks to portable and intermediate devices with local storage are defined.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Content management</keyword>
+  <keyword>Media</keyword>
+  <keyword>Cache storage</keyword>
+  <keyword>Streaming media</keyword>
+  <keyword>Queueing analysis</keyword>
+  <keyword>content caching</keyword>
+  <keyword>content queue</keyword>
+  <keyword>delayed delivery</keyword>
+  <keyword>device discovery download</keyword>
+  <keyword>IEEE 2200</keyword>
+  <keyword>intermediate devices</keyword>
+  <keyword>mobile content delivery network policy</keyword>
+  <keyword>seamless play</keyword>
+</bibdata>

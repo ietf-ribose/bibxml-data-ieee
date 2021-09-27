@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Guide on the Prediction, Measurement, and Analysis of AM Broadcast Reradiation by Power Lines</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Guide on the Prediction, Measurement, and Analysis of AM Broadcast Reradiation by Power Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8368047</uri>
+  <docidentifier type="IEEE">IEEE P1260/D4, May 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4947-2</docidentifier>
+  <docnumber>P1260/D4, May 2018</docnumber>
+  <date type="created">
+    <on>2018-12-07</on>
+  </date>
+  <date type="published">
+    <on>2018-05-26</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A set of procedures to be followed to cope with reradiation of AM broadcast signals from power lines and other large metallic structures is provided. Reradiation may be described as electromagnetic waves radiated from a structure that has parasitically picked up a signal from the environment. A simplified prediction technique called a survey is described to determine which structures could possibly cause a problem. Guidelines for measurements and data analysis are included.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1260-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Power measurement</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Interference</keyword>
+  <keyword>AM broadcast</keyword>
+  <keyword>IEEE 1260&amp;amp;amp;#8482;</keyword>
+  <keyword>interference prediction</keyword>
+  <keyword>measurement</keyword>
+  <keyword>power lines</keyword>
+  <keyword>reradiation</keyword>
+</bibdata>

@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks Amendment 11: Two-Port Media Access Control (Mac) Relay</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks Amendment 11: Two-Port Media Access Control (Mac) Relay</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5372461</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1aj-2009 (Amendment to IEEE Std 802.1Q - 2005)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6139-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5372461</docidentifier>
+  <docnumber>802.1aj-2009</docnumber>
+  <date type="updated">
+    <on>2010-02-09</on>
+  </date>
+  <date type="created">
+    <on>2009-12-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2009-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.1 Q specifies the function of a MAC Relay with two MACs, and the protocols and procedures to support its operation. A MAC Relay is transparent to all frame-based media independent protocols except those explicitly addressed to this device. It is remotely manageable through at least one of its external MACs, and signals a failure of either MAC'S LAN through the other MAC.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.1Q specifies the function of a MAC Relay with two MACs, and the protocols and procedures to support its operation. A MAC Relay is transparent to all frame-based media independent protocols except those explicitly addressed to this device. It is remotely manageable through at least one of its external MACs, and signals a failure of either MAC's LAN through the other MAC.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-1998</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>802.1aj-2009</keyword>
+  <keyword>802.1Q-2005</keyword>
+  <keyword>MAC Relay</keyword>
+  <keyword>network interface device</keyword>
+  <keyword>Provider Bridged Networks</keyword>
+  <keyword>Virtual Bridged Local Area Networks</keyword>
+  <keyword>Virtual LANs</keyword>
+  <keyword>VLANs</keyword>
+</bibdata>

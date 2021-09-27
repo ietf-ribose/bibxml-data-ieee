@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Establishing Transformer Capability When Supplying Nonsinusoidal Load Currents</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Establishing Transformer Capability When Supplying Nonsinusoidal Load Currents</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684609</uri>
+  <docidentifier type="IEEE">IEEE Std C57.110-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0841-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.8684609</docidentifier>
+  <docnumber>C57.110-1998</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998-07-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std C57.110-2008. Methods are developed to conservatively evaluate the feasibility of supplying additional nonsinusoidal load currents from an existing installed dry-type or liquified transformer, as a portion of the total load. Clarification of the necessary application information is provided to assist in properly specifying a new transformer expected to carry a load, a portion of which is composed of nonsinusoidal load currents. A number of examples illustrating these methods and calculations are presented. Reference annexes make a comparison of the document calculations to calculations found in other industry standards and suggested temperature rise methods are detailed for reference purposes.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.110-2008 (Revision of IEEE Std C57.110-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.110-2008 (Revision of IEEE Std C57.110-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>current</keyword>
+  <keyword>eddy-current losses</keyword>
+  <keyword>harmonic current</keyword>
+  <keyword>harmonic load losses</keyword>
+  <keyword>harmonic loss factor</keyword>
+  <keyword>harmonics</keyword>
+  <keyword>K-factor</keyword>
+  <keyword>load currents</keyword>
+  <keyword>nonsinusoidal</keyword>
+  <keyword>transformer</keyword>
+</bibdata>

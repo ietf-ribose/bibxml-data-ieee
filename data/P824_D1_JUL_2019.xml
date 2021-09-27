@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Series Capacitor Banks in Power Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Series Capacitor Banks in Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8818733</uri>
+  <docidentifier type="IEEE">IEEE P824/D1, July 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6103-0</docidentifier>
+  <docnumber>P824/D1, Jul 2019</docnumber>
+  <date type="created">
+    <on>2019-08-27</on>
+  </date>
+  <date type="published">
+    <on>2019-08-28</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 824-2004 (Revision of IEEE Std 824-1994)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Capacitors</keyword>
+  <keyword>Power distribution planning</keyword>
+  <keyword>Power systems</keyword>
+</bibdata>

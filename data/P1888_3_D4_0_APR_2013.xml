@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ubiquitous Green Community Control Network: Security</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ubiquitous Green Community Control Network: Security</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6502638</uri>
+  <docidentifier type="IEEE">IEEE P1888.3/D4.0, April 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8385-5</docidentifier>
+  <docnumber>P1888.3/D4.0, Apr 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-04-16</on>
+  </date>
+  <date type="issued">
+    <on>2013-04-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes enhanced security management function forthe protocol defined in IEEE 1888 Ubiquitous Green Community ControlNetwork Protocol, specifies security requirements, defines system security architecture, gives a standardized description of authentication, authorization, along with security procedures and protocols. This standard can avoid unintended data disclosure to the public and unauthorized access to resources, while providing enhanced integrity and confidentiality of transmitted data in the ubiquitous green community control network.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Green design</keyword>
+  <keyword>Ubiquitous computing</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Green computing</keyword>
+  <keyword>security</keyword>
+  <keyword>mutual authentication</keyword>
+  <keyword>authorization</keyword>
+  <keyword>integrity</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>access control</keyword>
+  <keyword>certificate</keyword>
+</bibdata>

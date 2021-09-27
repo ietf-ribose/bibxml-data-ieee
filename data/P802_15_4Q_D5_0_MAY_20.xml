@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment for an Ultra Low Power Physical Layer</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment for an Ultra Low Power Physical Layer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7138555</uri>
+  <docidentifier type="IEEE">IEEE P802.15.4q/D5.0, May, 20</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9800-2</docidentifier>
+  <docnumber>P802.15.4q/D5.0, May, 20</docnumber>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-06-29</on>
+  </date>
+  <date type="issued">
+    <on>2015-01-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies two alternate PHYs, TASK and RS-GFSK, in addition to those of IEEE Std 802.15.4-2011. The amendment also defines those MAC modifications needed to support their implementation. The alternate PHYs enable low cost, ultra-low power consumption, and extended battery life, in various frequency bands and geographical regions under multiple regulatory domains.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2011 (Revision of IEEE Std 802.15.4-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolita area networks</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>PAN</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>ultra-low power</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>PHY</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+</bibdata>

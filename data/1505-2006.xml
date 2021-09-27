@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Receiver Fixture Interface</title>
+  <title type="main" format="text/plain">IEEE Standard for Receiver Fixture Interface</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4161138</uri>
+  <docidentifier type="IEEE">IEEE Std 1505-2006</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5003-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.352517</docidentifier>
+  <docnumber>1505-2006</docnumber>
+  <date type="updated">
+    <on>2008-02-11</on>
+  </date>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2006-08-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The scope of this document is the development of a common receiver/fixture interface (RFI) specification that is based upon available commercial standards integrated under a common "open" architecture. This mechanical/electrical interface is intended to serve government/commercial interest for applications in test, system integration, manufacturing, monitoring, and other functional requirements that demand large contact densities and quick-disconnect mechanical operation.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A mechanical and electrical specification for implementing a common interoperable mechanical quick-disconnect interconnect system for use by industry for interfacing large numbers of electrical signals (digital, analog, RF, power, etc.) is provided. These large interface panels (receiver and fixture panels) are employed primarily in test systems between stimulus/measurement assets and a related unit-under-test (UUT), although any application involving high-density contacts requiring a quick disconnect interface could benefit. The receiver is a receptacle that is mounted to test system mates with multiple fixtures, which serve as the buffer between the UUT and automatic test equipment (ATE). Fixtures translate standard input/output (I/O) signal routing offered at the receiver to a wiring interface that directly connects to the UUT. These UUT interfaces can represent cable connectors, direct plug-in (printed circuit board edge connectors), sensor monitoring, or manual feedback from the test technician. The primary objectives of this standard are: (a) to establish interface standards that permit interchangeability of mechanical/electrical receiver/fixture/connector product assemblies from various manufacturers under an open architecture; and (b) to develop within this framework a defined set(s) of interconnecting connector and mechanical specifications that supports available, accepted, low-cost commercial technology to reduced dependence on proprietary designs and extend life-cycle availability.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1505-2010 (Revision of IEEE Std 1505-2010)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Receivers</keyword>
+  <keyword>Fixtures</keyword>
+  <keyword>Connectors</keyword>
+  <keyword>Instrumentation and measurement</keyword>
+  <keyword>Integrated circuit interconnections</keyword>
+  <keyword>connector</keyword>
+  <keyword>fixture</keyword>
+  <keyword>framework</keyword>
+  <keyword>interface</keyword>
+  <keyword>interoperability</keyword>
+  <keyword>mass-interconnect</keyword>
+  <keyword>quick disconnect</keyword>
+  <keyword>receiver</keyword>
+  <keyword>specification</keyword>
+</bibdata>

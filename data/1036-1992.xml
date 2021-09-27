@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Application of Shunt Power Capacitors</title>
+  <title type="main" format="text/plain">IEEE Guide for Application of Shunt Power Capacitors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/211735</uri>
+  <docidentifier type="IEEE">IEEE Std 1036-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0376-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.114399</docidentifier>
+  <docnumber>1036-1992</docnumber>
+  <date type="created">
+    <on>1993-02-19</on>
+  </date>
+  <date type="published">
+    <on>2018-11-19</on>
+  </date>
+  <date type="issued">
+    <on>1992-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidelines for the application protection, and ratings of equipment for the safe and reliable utilization of shunt power capacitors are provided. This guide applies to the use of 50 and 60 Hz shunt power capacitors rated 2400 Vac and above, and assemblies of capacitors. Applications that range from simple unit utilization to complex bank situations are covered.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std P1036/D13a</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power capacitors</keyword>
+  <keyword>Standards</keyword>
+  <keyword>capacitor</keyword>
+  <keyword>power factor correction</keyword>
+  <keyword>shunt power capacitor</keyword>
+  <keyword>voltage control</keyword>
+</bibdata>

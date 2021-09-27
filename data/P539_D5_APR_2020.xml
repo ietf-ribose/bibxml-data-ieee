@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Definitions of Terms Relating to Corona and Field Effects of Overhead Power Lines</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Definitions of Terms Relating to Corona and Field Effects of Overhead Power Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9082954</uri>
+  <docidentifier type="IEEE">IEEE P539/D5, April 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6658-5</docidentifier>
+  <docnumber>P539/D5, Apr 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2020-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Definitions and usage of terms used in the measurement and analysis of corona and field effects of overhead power lines are presented in this standard. Correlation between measurements from equipment to standard terms is defined. Weather conditions such as rain, snow, and fog are defined and their measurement standards discussed. The intent is to assist in correlating standard terms found in literature and requirements to standard engineering practice.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 539-2005 (Revision of IEEE Std 539-1990)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 539-2005 (Revision of IEEE Std 539-1990)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Corona</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Magnetic fields</keyword>
+  <keyword>Meteorology</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>audible noise</keyword>
+  <keyword>corona</keyword>
+  <keyword>coupled voltage</keyword>
+  <keyword>electric field</keyword>
+  <keyword>electric field meter</keyword>
+  <keyword>fair weather</keyword>
+  <keyword>field effects</keyword>
+  <keyword>foul weather</keyword>
+  <keyword>freezing rain</keyword>
+  <keyword>ion</keyword>
+  <keyword>IEEE 539</keyword>
+  <keyword>magnetic field</keyword>
+  <keyword>perturbed field</keyword>
+  <keyword>radio noise</keyword>
+  <keyword>rain</keyword>
+  <keyword>snow</keyword>
+  <keyword>Trichel streamers</keyword>
+  <keyword>uniform field</keyword>
+  <keyword>wet snow</keyword>
+</bibdata>

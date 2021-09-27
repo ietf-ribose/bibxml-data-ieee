@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Technology of Unified Power Flow Controller Using Modular Multilevel Converter: Part 1 Functions</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Technology of Unified Power Flow Controller Using Modular Multilevel Converter: Part 1 Functions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8700689</uri>
+  <docidentifier type="IEEE">P2745.1/D4+1, April 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5770-5</docidentifier>
+  <docnumber>P2745.1/D4+1, Apr 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-04-26</on>
+  </date>
+  <date type="issued">
+    <on>2019-09-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An approach to preparing a functional specification for a unified power flow controller (UPFC) using modular multilevel converter (MMC) is documented by this guide. This guide provides the functional requirements for UPFC project application, including UPFC system composition, function and performance requirements, primary equipment requirements, control and protection requirements, characteristic description, spares, engineering studies, testing, documentation, as well as training of UPFC projects. The intention of this document is to serve as a base specification with an informative annex provided to guide utilities, manufacturers, integrators, and other interested entities to apply a particular UPFC project.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Load flow</keyword>
+  <keyword>Converters</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>control and protection system</keyword>
+  <keyword>function requirements</keyword>
+  <keyword>IEEE P2745.1(TM)</keyword>
+  <keyword>modular multilevel converter</keyword>
+  <keyword>performance requirements</keyword>
+  <keyword>primary equipment</keyword>
+  <keyword>system composition</keyword>
+  <keyword>test</keyword>
+  <keyword>unified power flow controller</keyword>
+</bibdata>

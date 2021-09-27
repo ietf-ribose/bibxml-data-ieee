@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard for IT</title>
+  <title type="title-main" format="text/plain">Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-part" format="text/plain">LAN/MAN -- Specific Requirements -- Part 11: Wireless LAN Medium Access Control and Physical Layer Specifications -- Amd 4: Enhancements for Very High Throughput for operation in bands below 6GHz</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for IT - Telecommunications and Information Exchange Between Systems - LAN/MAN -- Specific Requirements -- Part 11: Wireless LAN Medium Access Control and Physical Layer Specifications -- Amd 4: Enhancements for Very High Throughput for operation in bands below 6GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6627922</uri>
+  <docidentifier type="IEEE">IEEE P802.11ac/D7.0, September 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8861-4</docidentifier>
+  <docnumber>P802.11ac/D7.0, Sept 2013</docnumber>
+  <date type="created">
+    <on>2013-12-20</on>
+  </date>
+  <date type="published">
+    <on>2013-10-10</on>
+  </date>
+  <date type="issued">
+    <on>2013-12-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this amendment is to improve the IEEE 802.11(tm) wireless local area network (WLAN) user experience by providing significantly higher basic service set (BSS)throughput for existing WLAN application areas and to enable new market segments for operation below 6 GHz including distribution of multiple multimedia/data streams.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2007 (Revision of IEEE Std 802.11-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>MIMO</keyword>
+  <keyword>Signal array processing</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Quadrature amplitude modulation</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>256-QAM</keyword>
+  <keyword>beamforming</keyword>
+  <keyword>IEEE 802.11ac(tm)</keyword>
+  <keyword>multi-user MIMO</keyword>
+  <keyword>noncontiguous frequency segments</keyword>
+  <keyword>very high throughput</keyword>
+  <keyword>wider bandwidth</keyword>
+</bibdata>

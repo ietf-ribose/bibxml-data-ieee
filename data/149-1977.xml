@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Procedures for Antennas</title>
+  <title type="main" format="text/plain">IEEE Standard Test Procedures for Antennas</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19510</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 149-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0556-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.120310</docidentifier>
+  <docnumber>149-1977</docnumber>
+  <date type="created">
+    <on>1979-11-30</on>
+  </date>
+  <date type="published">
+    <on>2021-07-23</on>
+  </date>
+  <date type="issued">
+    <on>1977-12-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is used throughout government, industry and academia in the area of antenna testing. It provides many of the procedures currently used by antenna test organization. However, the technology has passed the standard by in the areas and many areas and equipment are not included. This update will include these.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Antennas</keyword>
+  <keyword>Electronic equipment testing</keyword>
+  <keyword>Measurement standards</keyword>
+</bibdata>

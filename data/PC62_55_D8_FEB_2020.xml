@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Surge Protection of DC Power Feeds to Remote Radio Heads</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Surge Protection of DC Power Feeds to Remote Radio Heads</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8994239</uri>
+  <docidentifier type="IEEE">IEEE PC62.55/D8, February 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6481-9</docidentifier>
+  <docnumber>PC62.55/D8, Feb 2020</docnumber>
+  <date type="created">
+    <on>2020-02-10</on>
+  </date>
+  <date type="published">
+    <on>2020-02-11</on>
+  </date>
+  <date type="issued">
+    <on>2020-06-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The waveform of currents likely to exist on dc feeds to equipment located at the tops of towers due to a lightning strike, and the consequences of that waveform for protector design, are described in this guide.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.55-2017</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Poles and towers</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Lightning</keyword>
+  <keyword>Feeds</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>IEEE C62.55</keyword>
+  <keyword>lightning</keyword>
+  <keyword>powering feed</keyword>
+  <keyword>protection</keyword>
+  <keyword>remote radio head</keyword>
+  <keyword>RRH</keyword>
+  <keyword>SPD</keyword>
+  <keyword>surge protective device</keyword>
+  <keyword>surge waveform</keyword>
+  <keyword>towers</keyword>
+</bibdata>

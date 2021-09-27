@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Layer 3 Transport Protocol for Time-Sensitive Applications in Local Area Networks</title>
+  <title type="main" format="text/plain">IEEE Standard for Layer 3 Transport Protocol for Time-Sensitive Applications in Local Area Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5762653</uri>
+  <docidentifier type="IEEE">IEEE Std 1733-2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6633-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5762653</docidentifier>
+  <docnumber>1733-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-03-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Protocol, data encapsulations, connection management, and presentation time procedures used to ensure interoperability between audio and video-based end stations that use standard networking services provided by all IEEE 802 networks meeting QoS requirements for time-sensitive applications by leveraging the Real-time Transport Protocol (RTP) family of protocols and IEEE 802.1 Audio/Video Bridging (AVB) protocols is specified in this standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Protocol, data encapsulations, connection management, and presentation time procedures used to ensure interoperability between audio and video-based end stations that use standard networking services provided by all IEEE 802 networks meeting QoS requirements for time-sensitive applications by leveraging the Real-time Transport Protocol (RTP) family of protocols and IEEE 802.1 Audio/Video Bridging (AVB) protocols is specified in this standard.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Transport protocols</keyword>
+  <keyword>bridged LAN</keyword>
+  <keyword>IEEE 802.1AS</keyword>
+  <keyword>IEEE 802.1 AVB protocols</keyword>
+  <keyword>IEEE 802.1Qat</keyword>
+  <keyword>IEEE 802.1Qav</keyword>
+  <keyword>IEEE 1733</keyword>
+  <keyword>LAN</keyword>
+  <keyword>QoS</keyword>
+  <keyword>RTCP</keyword>
+  <keyword>RTP</keyword>
+  <keyword>time-sensitive media streaming</keyword>
+  <keyword>timesynchronization</keyword>
+</bibdata>

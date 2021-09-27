@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for the Functional Verification Language 'e'</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for the Functional Verification Language 'e'</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5673094</uri>
+  <docidentifier type="IEEE">IEEE 1647/D8+3, December 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6524-0</docidentifier>
+  <docnumber>1647/D8+3, Dec 2010</docnumber>
+  <date type="created">
+    <on>2010-12-20</on>
+  </date>
+  <date type="issued">
+    <on>2010-12-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The e functional verification language is an application-specific programming language, aimed at automating the task of verifying a hardware or software design with respect to its specification. Verification environments written in e provide a model of the environment in which the design is expected to function, including the kinds of erroneous conditions the design needs to withstand. A typical verification environment is capable of generating user-controlled test inputs with statistically interesting characteristics. Such an environment can check the validity of the design responses. Functional coverage metrics are used to control the verification effort and gauge the quality of the design. e verification environments can be used throughout the design cycle, from a high-level architectural model to a fully realized system. A definition of the e language syntax and semantics and how tool developers and verification engineers should use them are contained in this standard.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Object oriented modeling</keyword>
+  <keyword>Formal verification</keyword>
+  <keyword>assertion</keyword>
+  <keyword>concurrent programming</keyword>
+  <keyword>constraint</keyword>
+  <keyword>dynamic verification</keyword>
+  <keyword>functional coverage</keyword>
+  <keyword>functional verification</keyword>
+  <keyword>simulation</keyword>
+  <keyword>temporal logic</keyword>
+  <keyword>test generation</keyword>
+</bibdata>

@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks-- Amendment 15: Multiple I-SID Registration Protocol</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks-- Amendment 15: Multiple I-SID Registration Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6024411</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1Qbe-2011 (Amendment to IEEE Std 802.1Q-2011)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6661-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6024411</docidentifier>
+  <docnumber>802.1Qbe-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2012-05-31</on>
+  </date>
+  <date type="issued">
+    <on>2011-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures, and managed objects to support topology change signaling to alter the binding (held in an l-Component) of Customer addresses to Backbone addresses on a per-l-SID basis. This is accomplished by extending the use of the Multiple Registration Protocol (MRP).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures, and managed objects to support topology change signaling to alter the binding (held in an I-Component) of Customer addresses to Backbone addresses on a per-I-SID basis. This is accomplished by extending the use of the Multiple Registration Protocol (MRP).</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2011 (Revision of IEEE Std 802.1Q-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolian area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Virtual environments</keyword>
+  <keyword>Bridged Bridged Local Area Networks</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>MIRP</keyword>
+  <keyword>MMRP</keyword>
+  <keyword>MRP</keyword>
+  <keyword>MVRP</keyword>
+  <keyword>Provider Backbone Bridges</keyword>
+  <keyword>Virtual Bridged Local Area Networks</keyword>
+  <keyword>virtual LANs</keyword>
+</bibdata>

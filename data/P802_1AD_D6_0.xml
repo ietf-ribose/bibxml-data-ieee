@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks---Amendment 4: Provider Bridges</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks---Amendment 4: Provider Bridges</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4039954</uri>
+  <docidentifier type="IEEE">IEEE Std P802.1ad/D6.0</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3301-3</docidentifier>
+  <docnumber>P802.1ad/D6.0</docnumber>
+  <date type="created">
+    <on>2005-12-31</on>
+  </date>
+  <date type="published">
+    <on>2020-07-01</on>
+  </date>
+  <date type="issued">
+    <on>2005-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment enables a service provider to use the architecture and protocols of IEEE Std 802.1Q to offer the equivalent of separate LANs, Bridged Local Area Networks, or Virtual Bridged Local Area Networks to a number of customers, while requiring no cooperation between the customers, and minimal cooperation between each customer and the service provider.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2005 (Incorporates IEEE Std 802.1Q1998, IEEE Std 802.1u-2001, IEEE Std 802.1v-2001, and IEEE Std 802.1s-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Bridged Local Area Networks</keyword>
+  <keyword>local area networks (LANs)</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+  <keyword>Rapid Spanning Tree Protocol (RSTP)</keyword>
+  <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+</bibdata>

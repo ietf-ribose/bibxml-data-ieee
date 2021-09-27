@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Ieee draft health informatics</title>
+  <title type="title-main" format="text/plain">personal health device communication part 10442: device specialization</title>
+  <title type="title-part" format="text/plain">strength fitness equipment</title>
+  <title type="main" format="text/plain">Ieee draft health informatics - personal health device communication part 10442: device specialization - strength fitness equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8707152</uri>
+  <docidentifier type="IEEE">IEEE P11073-10442/D6, April 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5809-2</docidentifier>
+  <docnumber>P11073-10442/D6, Apr 2019</docnumber>
+  <date type="created">
+    <on>2019-05-03</on>
+  </date>
+  <date type="published">
+    <on>2019-05-06</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of the communication between personal strength fitness devices and managers (e.g., cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology and information models. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth strength fitness devices. In this context, strength fitness devices are being used broadly to cover strength fitness devices that measure musculo-skeletal strength-conditioning activities.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Equipment</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+  <keyword>strength fitness equipment</keyword>
+</bibdata>

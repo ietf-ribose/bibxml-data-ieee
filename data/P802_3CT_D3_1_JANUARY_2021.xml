@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Ethernet</title>
+  <title type="title-main" format="text/plain">Amendment: Physical Layers and Management Parameters for 100 Gb/s Operation over DWDM (dense wavelength division multiplexing) systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ethernet - Amendment: Physical Layers and Management Parameters for 100 Gb/s Operation over DWDM (dense wavelength division multiplexing) systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9332306</uri>
+  <docidentifier type="IEEE">IEEE P802.3ct/D3.1, January 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7326-2</docidentifier>
+  <docnumber>P802.3ct/D3.1, January 2021</docnumber>
+  <date type="created">
+    <on>2021-01-19</on>
+  </date>
+  <date type="published">
+    <on>2021-01-21</on>
+  </date>
+  <date type="issued">
+    <on>2021-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment includes changes to IEEE Std 802.3-2018 and adds Clause 152 through Clause 154 and Annex 154A. This amendment adds 100 Gb/s Physical Layer specifications and management parameters for operation over DWDM systems using a combination of phase and amplitude modulation with coherent detection for reaches of at least 80 km.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Energy efficiency</keyword>
+  <keyword>Error correction codes</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Wavelength division multiplexing</keyword>
+  <keyword>100 Gb/s Ethernet</keyword>
+  <keyword>100GBASE-ZR</keyword>
+  <keyword>DP-DQPSK</keyword>
+  <keyword>dense wavelength division multiplexing (DWDM)</keyword>
+  <keyword>DWDM black link</keyword>
+  <keyword>Energy-Efficient Ethernet (EEE)</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>forward error correction (FEC)</keyword>
+  <keyword>IEEE 802.3</keyword>
+  <keyword>IEEE 802.3ct</keyword>
+  <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+  <keyword>single-mode fiber (SMF)</keyword>
+</bibdata>

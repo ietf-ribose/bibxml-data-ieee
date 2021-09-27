@@ -1,0 +1,91 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Ethernet</title>
+  <title type="main" format="text/plain">IEEE Standard for Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7297773</uri>
+  <docidentifier type="IEEE">IEEE P802.3_D3.1, April 2012 (Revision of IEEE Std 802.3-2008)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0036-7</docidentifier>
+  <docnumber>P802.3_D3.1, April 2012</docnumber>
+  <date type="created">
+    <on>2012-12-28</on>
+  </date>
+  <date type="published">
+    <on>2015-10-13</on>
+  </date>
+  <date type="issued">
+    <on>2012-08-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Ethernet local area network operation is specified for selected speeds of operation from 1 Mb/s to 100 Gb/s using a common media access control (MAC) specification and management information base (MIB). The Carrier Sense Multiple Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium (half duplex) operation, as well as full duplex operation. Speed specific Media Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY) for operation over coaxial, twisted-pair or fiber optic cables. System considerations for multisegment shared access networks describe the use of Repeaters that are defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation is supported at all speeds. Other specified capabilities include various PHY types for access networks, PHYs suitable for metropolitan area network applications, and the provision of power over selected twisted-pair PHY types.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>10BASE</keyword>
+  <keyword>100BASE</keyword>
+  <keyword>Data processing</keyword>
+  <keyword>EPON</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>10BASE</keyword>
+  <keyword>100BASE</keyword>
+  <keyword>1000BASE</keyword>
+  <keyword>10GBASE</keyword>
+  <keyword>40GBASE</keyword>
+  <keyword>100GBASE</keyword>
+  <keyword>10 Gigabit Ethernet</keyword>
+  <keyword>40 Gigabit Ethernet</keyword>
+  <keyword>100 Gigabit Ethernet</keyword>
+  <keyword>attachment unit interface</keyword>
+  <keyword>AUI</keyword>
+  <keyword>Auto Negotiation</keyword>
+  <keyword>Backplane Ethernet</keyword>
+  <keyword>data processing</keyword>
+  <keyword>DTE Power via the MDI</keyword>
+  <keyword>EPON</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Ethernet in the First Mile</keyword>
+  <keyword>Ethernet passive optical network</keyword>
+  <keyword>Fast Ethernet</keyword>
+  <keyword>Gigabit Ethernet</keyword>
+  <keyword>GMII</keyword>
+  <keyword>information exchange</keyword>
+  <keyword>IEEE 802.3</keyword>
+  <keyword>local area network</keyword>
+  <keyword>management</keyword>
+  <keyword>medium dependent interface</keyword>
+  <keyword>media independent interface</keyword>
+  <keyword>MDI</keyword>
+  <keyword>MIB</keyword>
+  <keyword>MII</keyword>
+  <keyword>PHY</keyword>
+  <keyword>physical coding sublayer</keyword>
+  <keyword>Physical Layer</keyword>
+  <keyword>physical medium attachment</keyword>
+  <keyword>PMA</keyword>
+  <keyword>Power over Ethernet</keyword>
+  <keyword>repeater</keyword>
+  <keyword>type field</keyword>
+  <keyword>VLAN TAG</keyword>
+  <keyword>XGMII</keyword>
+</bibdata>

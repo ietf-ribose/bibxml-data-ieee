@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Recommended Practice for Encryption and Management of Electronic Design Intellectual Property (IP)</title>
+  <title type="title-main" format="text/plain">Corrigendum 1: Correction to Rights Digest Description</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Recommended Practice for Encryption and Management of Electronic Design Intellectual Property (IP) - Corrigendum 1: Correction to Rights Digest Description</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7111198</uri>
+  <docidentifier type="IEEE">P1735_Cor1/D2, April 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9731-9</docidentifier>
+  <docnumber>P1735/D2, April 2015</docnumber>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-05-21</on>
+  </date>
+  <date type="issued">
+    <on>2015-09-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Correct an inconsistency within 7.4.3 of IEEE Std 1735-2014. The section contains a description of a rights digest followed by details on how to calculate it. The two do not match. (Note: This corrigenda was not published as a separate document, but was incorporated into IEEE Std 1735-2014)</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1735-2014 (Incorporates IEEE Std 1735-2014/Cor 1-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Encryption</keyword>
+  <keyword>Trust management</keyword>
+  <keyword>Intellectual property</keyword>
+  <keyword>Rights management</keyword>
+  <keyword>Digital systems</keyword>
+  <keyword>encrypted IP</keyword>
+  <keyword>digital envelope</keyword>
+  <keyword>trust model</keyword>
+  <keyword>keys</keyword>
+  <keyword>rights management</keyword>
+</bibdata>

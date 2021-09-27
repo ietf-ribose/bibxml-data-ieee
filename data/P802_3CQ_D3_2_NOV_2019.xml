@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ethernet Amendment: Maintenance #13: Power over Ethernet over 2 pairs</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ethernet Amendment: Maintenance #13: Power over Ethernet over 2 pairs</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8913752</uri>
+  <docidentifier type="IEEE">IEEE P802.3cq/D3.2, November 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6282-2</docidentifier>
+  <docnumber>P802.3cq/D3.2, Nov 2019</docnumber>
+  <date type="created">
+    <on>2019-11-25</on>
+  </date>
+  <date type="published">
+    <on>2019-11-26</on>
+  </date>
+  <date type="issued">
+    <on>2020-01-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2018 makes technical and editorial corrections and refinements to Power over Ethernet over 2-pairs in Clause 33.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Power transmission</keyword>
+  <keyword>802.3</keyword>
+  <keyword>802.3cq</keyword>
+  <keyword>amendment</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>DTE power via MDI</keyword>
+  <keyword>Power over Ethernet</keyword>
+  <keyword>PoE</keyword>
+</bibdata>

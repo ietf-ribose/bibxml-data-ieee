@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Software Acquisition, 1998 Edition</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Software Acquisition, 1998 Edition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/741938</uri>
+  <docidentifier type="IEEE">IEEE Std 1062, 1998 Edition</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1724-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.88821</docidentifier>
+  <docnumber>1062-1998</docnumber>
+  <date type="created">
+    <on>1998-12-29</on>
+  </date>
+  <date type="published">
+    <on>2016-02-24</on>
+  </date>
+  <date type="issued">
+    <on>1998-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 1062, 1998 Edition (R2002), Includes IEEE Std 1062-1993 and IEEE Std 1062a-1998. A set of useful quality practices that can be selected and applied during one or moresteps in a software acquisition process is described. This recommended practice can be applied tosoftware that runs on any computer system regardless of the size, complexity, or criticality of thesoftware, but is more suited for use on modified-off-the-shelf software and fully developed software.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1062-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Software metrics</keyword>
+  <keyword>acquirer</keyword>
+  <keyword>modified-off-the-shelf software</keyword>
+  <keyword>software acquisition life cycle</keyword>
+  <keyword>software acquisition process</keyword>
+  <keyword>supplier</keyword>
+</bibdata>

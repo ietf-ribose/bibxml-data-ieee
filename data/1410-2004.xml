@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Improving the Lightning Performance of Electric Power Overhead Distribution Lines</title>
+  <title type="main" format="text/plain">IEEE Guide for Improving the Lightning Performance of Electric Power Overhead Distribution Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1315281</uri>
+  <docidentifier type="IEEE">IEEE Std 1410-2004 (Revision of IEEE Std 1410-1997)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3991-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94577</docidentifier>
+  <docnumber>1410-2004</docnumber>
+  <date type="created">
+    <on>2004</on>
+  </date>
+  <date type="published">
+    <on>2018-12-04</on>
+  </date>
+  <date type="issued">
+    <on>2004-02-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Measures for improving the lightning protection performance of schemes applied to overhead power distribution lines are discussed in this guide.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1410-1997</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1410-2010 (Revision of IEEE Std 1410-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>Arresters</keyword>
+  <keyword>Insulators</keyword>
+  <keyword>distribution networks</keyword>
+  <keyword>IEEE guide</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>lightning protection</keyword>
+  <keyword>overhead power distribution lines</keyword>
+  <keyword>power overhead lines</keyword>
+  <keyword>power system lightning protection</keyword>
+  <keyword>power system protection</keyword>
+  <keyword>protection performance improvement</keyword>
+</bibdata>

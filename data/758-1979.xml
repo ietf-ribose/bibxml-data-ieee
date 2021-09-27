@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Subroutines for Computer Automated Measurement and Control (CAMAC)</title>
+  <title type="main" format="text/plain">IEEE Standard Subroutines for Computer Automated Measurement and Control (CAMAC)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19507</uri>
+  <docidentifier type="IEEE">IEEE Std 758-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0714-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.120307</docidentifier>
+  <docnumber>758-1979</docnumber>
+  <date type="created">
+    <on>1979-12-28</on>
+  </date>
+  <date type="published">
+    <on>2020-01-31</on>
+  </date>
+  <date type="issued">
+    <on>1978-12-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A set of standard subroutines that provide access to CAMAC facilities in a variety of computer programming languages is described. The subroutines are specifically intended to be suitable for use with FORTRAN, although they are not restricted to that language. The subroutines have been grouped into three subsets in order to provide different standard levels of implementation. The lowest level requires only two subroutines, but, nevertheless, gives access to most of the facilities that can be found in CAMAC. In higher levels of implementation, subroutines are added that permit procedures to be written in more mnemonic terminology, provide better handling of LAMs, permit procedures to be independent of the type of CAMAC highway used, and provide efficient block-transfer capability.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>CAMAC</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Algorithms</keyword>
+  <keyword>subroutines</keyword>
+  <keyword>CAMAC</keyword>
+</bibdata>

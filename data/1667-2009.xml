@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Authentication in Host Attachments of Transient Storage Devices</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Authentication in Host Attachments of Transient Storage Devices - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5953417</uri>
+  <docidentifier type="IEEE">IEEE Std 1667-2009 (Revision of IEEE Std 1667-2006) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6841-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5953417</docidentifier>
+  <docnumber>1667-2009</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2009-11-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This project defines a standard protocol for secure authentication and creation of trust between a secure host and a directly attached Transient and other Storage Devices, such as a USB flash drive, portable hard drive, or cellular phone. The protocol has only an indirect relationship with data integrity/security, and does not directly address issues of authorization and enforcement. The protocol also does not address devices that are attached using a network connection. However, a device that uses a point-to-point wireless connection such as WUSB may comply with this protocol.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1667-2006</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1667-2015 (Revision of IEEE Std 1667-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1667-2015 (Revision of IEEE Std 1667-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Storage automation</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Universal Serial Bus</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>1667-2009</keyword>
+  <keyword>authentication</keyword>
+  <keyword>certificates</keyword>
+  <keyword>discovery</keyword>
+  <keyword>probe</keyword>
+  <keyword>removable storage</keyword>
+  <keyword>security</keyword>
+</bibdata>

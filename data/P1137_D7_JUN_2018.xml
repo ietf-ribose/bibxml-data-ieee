@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for the Implementation of Inductive Coordination Mitigation Techniques and Application</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for the Implementation of Inductive Coordination Mitigation Techniques and Application</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8412365</uri>
+  <docidentifier type="IEEE">IEEE P1137/D7, June 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5060-7</docidentifier>
+  <docnumber>P1137/D7, Jun 2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-07-17</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidance for controlling or modifying the inductive environment and the susceptibility of affected wire line telecommunications facilities in order to operate within the acceptable levels of steady-state or surge induced voltages of the environmental interface (probe wire) defined by IEEE Std 776(TM) is provided in this Recommended Practice. Procedures for determining the source of the problem are given. Mitigation theory and philosophy are discussed, and mitigation devices are described. The application of typical mitigation apparatus are addressed. Advice for determining the best engineering solution is offered, and general safety considerations are discussed.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1137-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Steady-state</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Impedance</keyword>
+  <keyword>Telecommunication services</keyword>
+  <keyword>Transmission lines</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>coordination</keyword>
+  <keyword>coupling</keyword>
+  <keyword>harmonic</keyword>
+  <keyword>ICEP</keyword>
+  <keyword>IEEE 1137(TM)</keyword>
+  <keyword>impedance</keyword>
+  <keyword>inductive</keyword>
+  <keyword>influence</keyword>
+  <keyword>mitigation</keyword>
+  <keyword>mutual</keyword>
+  <keyword>noise</keyword>
+  <keyword>power</keyword>
+  <keyword>susceptibility</keyword>
+</bibdata>

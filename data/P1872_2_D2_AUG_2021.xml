@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Autonomous Robotics (AuR) Ontology</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Autonomous Robotics (AuR) Ontology</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9514816</uri>
+  <docidentifier type="IEEE">IEEE P1872.2/D2, August 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7890-8</docidentifier>
+  <docnumber>P1872.2/D2, Aug 2021</docnumber>
+  <date type="created">
+    <on>2021-08-13</on>
+  </date>
+  <date type="published">
+    <on>2021-08-16</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard extends IEEE 1872-2015 Standard for Ontologies for Robotics and Automation to represent additional domain-specific concepts, definitions, and axioms commonly used in Autonomous Robotics (AuR). This standard is general and can be used in many ways - for example, to specify the domain knowledge needed to unambiguously describe the design patterns of AuR systems, to represent AuR system architectures in a unified way, or as a guideline to build autonomous systems consisting of robots operating in various environments.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Robots</keyword>
+  <keyword>Automation</keyword>
+  <keyword>Ontologies</keyword>
+  <keyword>Autonomous systems</keyword>
+  <keyword>robotics</keyword>
+  <keyword>automation</keyword>
+  <keyword>IEEE1872.2</keyword>
+  <keyword>ontology</keyword>
+  <keyword>autonomous robots</keyword>
+</bibdata>

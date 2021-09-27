@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Health informatics--Point-of-care medical device communication Part 20702: Medical Devices Communication Profile for Web Services</title>
+  <title type="main" format="text/plain">IEEE Health informatics--Point-of-care medical device communication Part 20702: Medical Devices Communication Profile for Web Services</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7936656</uri>
+  <docidentifier type="IEEE">IEEE Std 11073-20702-2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2324-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.7936656</docidentifier>
+  <docnumber>11073-20702-2016</docnumber>
+  <date type="updated">
+    <on>2017-06-16</on>
+  </date>
+  <date type="created">
+    <on>2017-05-26</on>
+  </date>
+  <date type="published">
+    <on>2017-05-31</on>
+  </date>
+  <date type="issued">
+    <on>2016-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, a communication protocol specification for a distributed system of PoC medical devices and medical IT systems that need to exchange data, or safely control networked PoC medical devices by profiling Web Service specifications, is defined by this standard. Additional Web Service specifications are part of this standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, a communication protocol specification for a distributed system of PoC medical devices and medical IT systems that need to exchange data, or safely control networked PoC medical devices by profiling Web Service specifications, is defined by this standard. Additional Web Service specifications are part of this standard.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Media streaming</keyword>
+  <keyword>Internet</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Information retrieval</keyword>
+  <keyword>Knowledge discovery</keyword>
+  <keyword>Devices Profile for Web Services</keyword>
+  <keyword>DPWS</keyword>
+  <keyword>Efficient XML Interchange</keyword>
+  <keyword>EXI</keyword>
+  <keyword>IEEE 11073-20702(TM)</keyword>
+  <keyword>ISO/IEEE 11073</keyword>
+  <keyword>MDC</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>PoC</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>safety</keyword>
+  <keyword>Simple Object Access Protocol</keyword>
+  <keyword>SOAP</keyword>
+  <keyword>Streaming Web Services</keyword>
+  <keyword>WS-Discovery</keyword>
+</bibdata>

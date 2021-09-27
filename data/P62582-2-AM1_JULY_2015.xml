@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE Draft Nuclear Power Plants</title>
+  <title type="title-main" format="text/plain">Instrumentation and Control Important to Safety</title>
+  <title type="title-part" format="text/plain">Electrical Equipment Condition Monitoring Methods -- Part 2: Indenter Modulus Amendment 1</title>
+  <title type="main" format="text/plain">IEC/IEEE Draft Nuclear Power Plants - Instrumentation and Control Important to Safety - Electrical Equipment Condition Monitoring Methods -- Part 2: Indenter Modulus Amendment 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7185314</uri>
+  <docidentifier type="IEEE">IEC/IEEE P62582-2-am1, July 2015 (Amendment to IEC/IEEE 62582-2: 2011)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9866-8</docidentifier>
+  <docnumber>P62582-2-am1, July 2015</docnumber>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-08-11</on>
+  </date>
+  <date type="issued">
+    <on>2015-01-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The scope is the correction of Figure 1, Figure 2, Figure A. 1 and Figure B.1 of IEC/IEEE 62582-2:2011.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEC/IEEE 62582-2:2011 Edition 1.0 2011-08</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Electrical safety</keyword>
+</bibdata>

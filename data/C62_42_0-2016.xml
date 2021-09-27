@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application of Surge-Protective Components in Surge-Protective Devices and Equipment Ports--Overview</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Surge-Protective Components in Surge-Protective Devices and Equipment Ports--Overview</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8016718</uri>
+  <docidentifier type="IEEE">IEEE Std C62.42.0-2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3685-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.8016718</docidentifier>
+  <docnumber>C62.42.0-2016</docnumber>
+  <date type="updated">
+    <on>2017-09-15</on>
+  </date>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2017-08-25</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Surge-protective components (SPCs) used in power and telecom surge-protective devices (SPDs) and equipment ports are covered in the C62.42 guide series. This Overview part covers protective functions, both non-linear and linear; component technologies and characteristics; common circuit designs used in SPDs and equipment ports; and information on the impulse (surge) generators used to test SPCs. Additional parts of C62.42 on specific SPC technologies provide details on component construction, characteristics and ratings, and application examples.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Surge-protective components (SPCs) used in power and telecom surge-protective devices (SPDs) and equipment ports are covered in the C62.42 guide series. This Overview part covers protective functions, both non-linear and linear; component technologies and characteristics; common circuit designs used in SPDs and equipment ports; and information on the impulse (surge) generators used to test SPCs. Additional parts of C62.42 on specific SPC technologies provide details on component construction, characteristics and ratings, and application examples.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.42-2005 (Revision of IEEE C62.42-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Communications equipment</keyword>
+  <keyword>components</keyword>
+  <keyword>electrical protection</keyword>
+  <keyword>equipment ports</keyword>
+  <keyword>IEEE C62.42.0(TM)</keyword>
+  <keyword>mitigation</keyword>
+  <keyword>overcurrent</keyword>
+  <keyword>overvoltage</keyword>
+  <keyword>power</keyword>
+  <keyword>surge</keyword>
+  <keyword>surge-protective devices</keyword>
+  <keyword>telecommunication</keyword>
+</bibdata>

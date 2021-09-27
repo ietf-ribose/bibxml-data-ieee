@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Recommended Practice for Calculating AC Short-Circuit Currents in Industrial and Commercial Power Systems</title>
+  <title type="main" format="text/plain">Recommended Practice for Calculating AC Short-Circuit Currents in Industrial and Commercial Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4015546</uri>
+  <docidentifier type="IEEE">IEEE Std 551-2006 [The Violet Book]</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4859-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.248693</docidentifier>
+  <docnumber>551-2006</docnumber>
+  <date type="created">
+    <on>2006-11-17</on>
+  </date>
+  <date type="published">
+    <on>2013-03-28</on>
+  </date>
+  <date type="issued">
+    <on>2006-05-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice provides short-circuit current information including calculated short-circuit current duties for the application in industrial plants and commercial buildings, at all power system voltages, of power system equipment that senses, carries, or interrupts short-circuit currents. Equipment coverage includes, but should not be limited to, protective device sensors such as series trips and relays, passive equipment that may carry short circuit current such as bus, cable, reactors, and transformers as well as interrupters such as circuit breakers and fuses.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Short-circuit currents</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>available fault current</keyword>
+  <keyword>circuit breaker</keyword>
+  <keyword>circuit breaker applications</keyword>
+  <keyword>fuse</keyword>
+  <keyword>power system voltage</keyword>
+  <keyword>reactors</keyword>
+  <keyword>short-circuit applications guides</keyword>
+  <keyword>short-circuit duties</keyword>
+  <keyword>violet book</keyword>
+  <keyword>arc flash</keyword>
+  <keyword>color book</keyword>
+</bibdata>

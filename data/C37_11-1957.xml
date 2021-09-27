@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ASA American National Standard Requirements for Power Circuit Breaker Control</title>
+  <title type="main" format="text/plain">ASA American National Standard Requirements for Power Circuit Breaker Control</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7442018</uri>
+  <docidentifier type="IEEE">ASA C37.11-1957</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0475-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1957.7442018</docidentifier>
+  <docnumber>C37.11-1957</docnumber>
+  <date type="updated">
+    <on>2016-04-15</on>
+  </date>
+  <date type="created">
+    <on>1957</on>
+  </date>
+  <date type="published">
+    <on>2016-03-25</on>
+  </date>
+  <date type="issued">
+    <on>1957-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to all types of electrically controlled indoor and outdoor power circuit breakers, including circuit breakers in switchgear cubicles and in metal-clad switchgear, having an interrupting rating of 50 megavolt-amperes (mva) or higher and a voltage rating above 1500 volts. This standard applies for any source of circuit breaker operating energy, such as solenoid, motor, spring, compressed gas, etc, for any type of operating mechanism and for both a-c and d-c control power.</abstract>
+  <copyright>
+    <from>1957</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ASA</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>ASA Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Switching circuits</keyword>
+</bibdata>

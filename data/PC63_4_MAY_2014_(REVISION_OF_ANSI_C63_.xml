@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Approved Draft American National Standard for Methods of Measurement of Radio</title>
+  <title type="title-main" format="text/plain">Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">Approved Draft American National Standard for Methods of Measurement of Radio - Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6837411</uri>
+  <docidentifier type="IEEE">ANSI PC63.4, May 2014 (Revision of ANSI C63.4-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9131-7</docidentifier>
+  <docnumber>PC63.4, May 2014 (Revision of ANSI C63.</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-06-17</on>
+  </date>
+  <date type="issued">
+    <on>2014-06-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">U.S. consensus standard methods, instrumentation, and facilities for measurement of radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range 9 kHz to 40 GHz are specified. This standard does not include generic nor product-specific emission limits. Where possible, the specifications herein are harmonized with other national and international standards used for similar purposes</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.4-2009</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI standards</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>Magnetic field measurement</keyword>
+  <keyword>Low voltage</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Emissions</keyword>
+  <keyword>Digital equipment</keyword>
+  <keyword>Measurement</keyword>
+  <keyword>conducted emission testing</keyword>
+  <keyword>conducting ground plane</keyword>
+  <keyword>digital equipment</keyword>
+  <keyword>electric fieldmeasurement</keyword>
+  <keyword>intentional radiators</keyword>
+  <keyword>line impedance stabilization network</keyword>
+  <keyword>low-voltage electricalequipment</keyword>
+  <keyword>low-voltage electronic equipment</keyword>
+  <keyword>magnetic field measurement</keyword>
+  <keyword>normalized siteattenuation</keyword>
+  <keyword>radiated emission testing</keyword>
+  <keyword>radio-noise emissions</keyword>
+  <keyword>radio-noise power</keyword>
+  <keyword>site attenuation</keyword>
+  <keyword>unintentional radiators</keyword>
+</bibdata>

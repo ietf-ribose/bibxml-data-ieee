@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Medical Device Communications</title>
+  <title type="title-main" format="text/plain">Transport Profile</title>
+  <title type="title-part" format="text/plain">IrDA Based -- Cable Connected</title>
+  <title type="main" format="text/plain">IEEE Standard for Medical Device Communications - Transport Profile - IrDA Based -- Cable Connected</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/839659</uri>
+  <docidentifier type="IEEE">IEEE Std 1073.3.2-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1946-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91312</docidentifier>
+  <docnumber>1073.3.2-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2016-09-22</on>
+  </date>
+  <date type="issued">
+    <on>2000-01-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Replaced by ISO/IEC 11073-30200:2004. A connection-oriented transport profile and physical layer suitable for medical device communications in legacy devices is established. Communications services and protocols consis-tent with specifications of the Infrared Data Association are defined. These communication services and protocols are optimized for use in patient-connected bedside medical devices.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Medical services</keyword>
+  <keyword>bedside</keyword>
+  <keyword>Infrared Data Association</keyword>
+  <keyword>IrDA</keyword>
+  <keyword>legacy device</keyword>
+  <keyword>medical device</keyword>
+  <keyword>medical device communications</keyword>
+  <keyword>MIB</keyword>
+  <keyword>patient</keyword>
+  <keyword>SNTP</keyword>
+</bibdata>

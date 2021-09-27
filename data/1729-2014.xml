@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Electric Power Distribution System Analysis</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Electric Power Distribution System Analysis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6974967</uri>
+  <docidentifier type="IEEE">IEEE Std 1729-2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9397-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6974967</docidentifier>
+  <docnumber>1729-2014</docnumber>
+  <date type="updated">
+    <on>2014-12-19</on>
+  </date>
+  <date type="created">
+    <on>2014-12-05</on>
+  </date>
+  <date type="published">
+    <on>2014-12-04</on>
+  </date>
+  <date type="issued">
+    <on>2014-11-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The aim of this recommended practice is to expand the use of IEEE power distribution test feeders into a broader space of software developers, software users, and researchers. The need for new distribution software functionality evolves quickly in areas such as distributed resource modeling, load response to voltage and frequency, reliability improvement, neutral-earth voltage, harmonics, active controls, interoperability, etc. By leveraging and expanding the set of test feeders, more attention can focus on providing the new functionality. The scope of the recommended practice includes steady-state, event-based, probabilistic, stochastic, and dynamic analysis of medium-voltage (up to 35 kV) electric utility power distribution systems. Industrial and commercial power distribution systems, harmonic analysis, and electromagnetic transient analysis are all excluded.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The aim of this recommended practice is to expand the use of IEEE power distribution test feeders into a broader space of software developers, software users, and researchers. The need for new distribution software functionality evolves quickly in areas such as distributed resource modeling, load response to voltage and frequency, reliability improvement, neutral-earth voltage, harmonics, active controls, interoperability, etc. By leveraging and expanding the set of test feeders, more attention can focus on providing the new functionality. The scope of the recommended practice includes steady-state, event-based, probabilistic, stochastic, and dynamic analysis of medium-voltage (up to 35 kV) electric utility power distribution systems. Industrial and commercial power distribution systems, harmonic analysis, and electromagnetic transient analysis are all excluded.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>Power system planning</keyword>
+  <keyword>Power electronics</keyword>
+  <keyword>IEEE 1729</keyword>
+  <keyword>power distribution</keyword>
+  <keyword>power system analysis</keyword>
+</bibdata>

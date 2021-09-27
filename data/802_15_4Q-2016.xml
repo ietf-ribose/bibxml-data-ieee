@@ -1,0 +1,74 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks --Amendment 2: Ultra-Low Power Physical Layer</title>
+  <title type="main" format="text/plain">IEEE Standard for Low-Rate Wireless Networks --Amendment 2: Ultra-Low Power Physical Layer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7466448</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.4q-2016 (Amendment to IEEE Std 802.15.4-2015 as amended by IEEE Std 802.15.4n-2016)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0782-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7466448</docidentifier>
+  <docnumber>802.15.4q-2016</docnumber>
+  <date type="updated">
+    <on>2016-05-27</on>
+  </date>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2016-05-06</on>
+  </date>
+  <date type="issued">
+    <on>2016-01-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Two alternate physical layers (PHYs), TASK and RS-GFSK, are specified in this amendment in addition to the PHYs of IEEE Std 802.15.4-2015. The amendment also defines the medium access control (MAC) modifications needed to support the implementation of the TASK and RS-GFSK PHYs. These alternate PHYs enable low-cost, ultra-low power consumption, as well as extended battery life, in various frequency bands and geographical regions under multiple regulatory domains.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Two alternate physical layers (PHYs), TASK and RS-GFSK, are specified in this amendment in addition to the PHYs of IEEE Std 802.15.4-2015. The amendment also defines the medium access control (MAC) modifications needed to support the implementation of the TASK and RS-GFSK PHYs. These alternate PHYs enable low-cost, ultra-low power consumption, as well as extended battery life, in various frequency bands and geographical regions under multiple regulatory domains. (The PDF of this standard is available at no cost compliments of the IEEE GET program. http://ieeexplore.ieee.org/document/7466448/)</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2015 (Revision of IEEE Std 802.15.4-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>Low-power electronics</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Power system economics</keyword>
+  <keyword>IEEE 802.15 Standard</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>amendment</keyword>
+  <keyword>IEEE 802.15.4(TM)</keyword>
+  <keyword>IEEE 802.15.4q(TM)</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>PAN</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>PHY</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>ultra-low power</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

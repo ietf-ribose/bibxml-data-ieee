@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8741323</uri>
+  <docidentifier type="IEEE">IEEE P1588/D1.5, May 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5915-0</docidentifier>
+  <docnumber>P1588/D1.5, May 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-06-19</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">In this standard, a protocol is defined that provides precise synchronization of clocks in packet-based networked systems. Synchronization of clocks can be achieved in heterogeneous systems that include clocks of different inherent precision, resolution, and stability. The protocol supports synchronization accuracy and precision in the sub-microsecond range with minimal network and local computing resources. Customization is supported by means of profiles. The protocol includes default profiles that permit simple systems to be installed and operated without the need for user management. Sub-nanosecond time transfer accuracy can be achieved in a properly designed network.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1588-2008 (Revision of IEEE Std 1588-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Clocks</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Networked control systems</keyword>
+  <keyword>Smart grid</keyword>
+  <keyword>Boundary Clock</keyword>
+  <keyword>clock</keyword>
+  <keyword>Grandmaster Clock</keyword>
+  <keyword>IEEE 1588</keyword>
+  <keyword>management</keyword>
+  <keyword>Ordinary Clock</keyword>
+  <keyword>security</keyword>
+  <keyword>synchronization</keyword>
+  <keyword>Transparent Clock</keyword>
+</bibdata>

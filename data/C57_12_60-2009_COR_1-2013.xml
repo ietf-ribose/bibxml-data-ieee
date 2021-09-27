@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Procedure for Thermal Evaluation of Insulation Systems for Dry-Type Power and Distribution Transformers, Including Open-Wound, Solid-Cast, and Resin-Encapsulated Transformers</title>
+  <title type="main" format="text/plain">IEEE Standard Test Procedure for Thermal Evaluation of Insulation Systems for Dry-Type Power and Distribution Transformers, Including Open-Wound, Solid-Cast, and Resin-Encapsulated Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6541944</uri>
+  <docidentifier type="IEEE">IEEE Std C57.12.60-2009/Cor 1-2013 (Corrigendum to IEEE Std C57.12.60-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8481-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6541944</docidentifier>
+  <docnumber>C57.12.60-2009/Cor 1-2013</docnumber>
+  <date type="updated">
+    <on>2013-07-26</on>
+  </date>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-06-17</on>
+  </date>
+  <date type="issued">
+    <on>2013-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum clarifies temperature control for aging experiments in 4.5.1 that was a result of the combination of the two previous test standards. This corrigendum selects the method from the two which should have been used in the combined test standard represented by the 2009 version. This document also makes one minor editorial change in 4.4.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum clarifies temperature control for aging experiments in 4.5.1 that was a result of the combination of the two previous test standards. This corrigendum selects the method from the two which should have been used in the combined test standard represented by the 2009 version. This document also makes one minor editorial change in 4.4.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.60-2009 ( Revision of IEEE Std C57.12.60-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Insulation</keyword>
+  <keyword>Thermal management</keyword>
+  <keyword>Solid-cast transformers</keyword>
+  <keyword>IEEE C57.12.60</keyword>
+  <keyword>insulation systems</keyword>
+  <keyword>model transformer coils</keyword>
+  <keyword>open-wound transformers</keyword>
+  <keyword>resin-encapsulated transformers</keyword>
+  <keyword>solid-cast transformers</keyword>
+  <keyword>thermal evaluation</keyword>
+</bibdata>

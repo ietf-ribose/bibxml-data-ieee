@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard Framework for Reliability Prediction of Hardware</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard Framework for Reliability Prediction of Hardware - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5953402</uri>
+  <docidentifier type="IEEE">IEEE Std 1413-2010 (Revision of IEEE Std 1413-1998) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6829-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5953402</docidentifier>
+  <docnumber>1413-2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2010-03-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The framework for the reliability prediction for electronic hardware is covered in this standard. This standard identifies required elements for an understandable and credible reliability prediction with information to evaluate the effective use of the prediction results. A reliability prediction generated according to this standard shall have sufficient information concerning inputs, assumptions, data sources, methodology(ies), and uncertainties so that the risk associated with using the prediction results can be considered. This document does not provide instructions for how to perform reliability prediction and does not judge methodologies.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Hardware</keyword>
+  <keyword>Reliability</keyword>
+  <keyword>Prediction maintenance</keyword>
+  <keyword>Electronic equipment</keyword>
+  <keyword>1413-2010</keyword>
+  <keyword>assessment of reliability prediction</keyword>
+  <keyword>reliability</keyword>
+  <keyword>reliability prediction</keyword>
+</bibdata>

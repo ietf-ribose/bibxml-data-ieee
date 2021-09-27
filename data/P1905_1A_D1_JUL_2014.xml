@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for a Convergent Digital Home Network for Heterogeneous Technologies Amendment 1: Support of New MAC/PHYs and enhancements</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for a Convergent Digital Home Network for Heterogeneous Technologies Amendment 1: Support of New MAC/PHYs and enhancements</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6870352</uri>
+  <docidentifier type="IEEE">IEEE P1905.1a/D1, July 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9265-9</docidentifier>
+  <docnumber>P1905.1a/D1, Jul 2014</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-08-01</on>
+  </date>
+  <date type="issued">
+    <on>2014-09-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An abstraction layer for multiple home networking technologies that provides a common interface to widely deployed home networking technologies is defined in this standard: IEEE 1901 over power lines, IEEE 802.11 for wireless, Ethernet over twisted pair cable, and MoCA 1.1 over coax. Additional network technologies are supported by an extensible mechanism using an IEEE OUI and XML formatted document. Connectivity selection for transmission of packets arriving from any interface or application is supported by the 1905.1 abstraction layer. Modification to the underlying home networking technologies is not required by the 1905.1 abstraction layer, and hence it does not change the behavior or implementation of existing home networking technologies. The 1905 abstraction layer between is layers 2 and 3 and abstracts the individual details of each interface, aggregates available bandwidth, and facilitates seamless integration. The 1905 abstraction layer also facilitates end-to-end quality of service (QoS) while simplifying the introduction of new devices to the network, establishing secure connections, extending network coverage, and facilitating advanced network management features including discovery, path selection, auto configuration, and quality of service (QoS) negotiation.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power system management</keyword>
+  <keyword>Network topolgy</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Assembly</keyword>
+  <keyword>Home automation</keyword>
+  <keyword>Data modeling</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Quality of service</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>abstraction layer</keyword>
+  <keyword>access point (AP) auto configuration</keyword>
+  <keyword>data models</keyword>
+  <keyword>extensibility</keyword>
+  <keyword>fragmentation and reassembly</keyword>
+  <keyword>generic Phy</keyword>
+  <keyword>IEEE 802.1 bridge discovery</keyword>
+  <keyword>IEEE Std 802.11TM</keyword>
+  <keyword>IEEE Std 1901TM</keyword>
+  <keyword>IEEE Std 1905.1TM</keyword>
+  <keyword>L2</keyword>
+  <keyword>MoCA</keyword>
+  <keyword>pairwise master key</keyword>
+  <keyword>power management</keyword>
+  <keyword>push button</keyword>
+  <keyword>registration</keyword>
+  <keyword>security</keyword>
+  <keyword>topology discovery protocol</keyword>
+  <keyword>Wi-Fi</keyword>
+  <keyword>XML</keyword>
+</bibdata>

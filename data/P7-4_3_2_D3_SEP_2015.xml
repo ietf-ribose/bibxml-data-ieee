@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard Criteria for Programmable Digital Devices in Safety Systems of Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard Criteria for Programmable Digital Devices in Safety Systems of Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7397780</uri>
+  <docidentifier type="IEEE">IEEE P7-4.3.2/D3, September 2015</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0714-4</docidentifier>
+  <docnumber>P7-4.3.2/D3, Sep 2015</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-02-03</on>
+  </date>
+  <date type="issued">
+    <on>2016-01-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Additional specific requirements to supplement the criteria and requirements of IEEE Std 603 are specified for programmable digital devices. Within the context of this standard, the term programmable digital device is any device that relies on software instructions or programmable logic to accomplish a function. Examples include a computer, a programmable hardware device, or a device with firmware. Systems using these devices will also be referred to as digital safety systems in this standard. The criteria contained herein, in conjunction with criteria in IEEE Std 603, establish minimum functional and design requirements for programmable digital devices used as components of a safety system.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">P7-4.3.2/D4 February 2010</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Software verification</keyword>
+  <keyword>Programmable digital devices</keyword>
+  <keyword>commercial grade item</keyword>
+  <keyword>diversity</keyword>
+  <keyword>safety systems</keyword>
+  <keyword>software</keyword>
+  <keyword>software tools</keyword>
+  <keyword>software verification and validation</keyword>
+  <keyword>programmable digital devices</keyword>
+</bibdata>

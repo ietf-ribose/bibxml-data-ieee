@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Measurements of Electromagnetic Properties of Earth Media</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Measurements of Electromagnetic Properties of Earth Media</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9082930</uri>
+  <docidentifier type="IEEE">IEEE P356/D3.5, April 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6657-8</docidentifier>
+  <docnumber>P356/D3.5, Apr 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Measurements of the electrical properties of naturally occurring solids are covered in the scope of this guide. Not covered are methods that rely on mapping earth structure anomalies unless directly related to electrical properties. Coverage of numerical methods for forward/inverse modeling is limited.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 356-2010 (Revision of IEEE Std 356-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 356-2010 (Revision of IEEE Std 356-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Electromagnetic measurement</keyword>
+  <keyword>Electric variables measurement</keyword>
+  <keyword>Numerical models</keyword>
+  <keyword>Conductivity</keyword>
+  <keyword>Permittivity</keyword>
+  <keyword>Antennas and propagation</keyword>
+  <keyword>conductivity</keyword>
+  <keyword>earth materials</keyword>
+  <keyword>electromagnetic measurement techniques</keyword>
+  <keyword>IEEE 356&amp;amp;amp;#8482;</keyword>
+  <keyword>permittivity</keyword>
+  <keyword>resistivity</keyword>
+</bibdata>

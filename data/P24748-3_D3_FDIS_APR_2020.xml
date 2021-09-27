@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Approved Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and Software Engineering-Life Cycle Management-Part 3: Guidelines for the Application of ISO/IEC/IEEE 12207 (Software Life Cycle Processes)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Approved Draft International Standard - Systems and Software Engineering-Life Cycle Management-Part 3: Guidelines for the Application of ISO/IEC/IEEE 12207 (Software Life Cycle Processes)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9076356</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P24748-3/D3_FDIS, April 2020 (E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6631-8</docidentifier>
+  <docnumber>P24748-3/D3_FDIS, Apr 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-04-22</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 24748-3 provides guidance on the application of the software life cycle processes standard, ISO/IEC/IEEE 12207:2017. This document establishes guidance to implement a common framework for software life cycle processes, with well-defined terminology, that can be referenced by the software industry. This document provides guidance on defining, controlling, and improving software life cycle processes within an organization or a project. It recommends methods and approaches suitable for a variety of life cycle models. The guidance emphasizes the importance of establishing a strategy, planning, and the involvement of stakeholders, with the ultimate goal of achieving customer satisfaction. Its purpose is to help ensure consistency in system concepts and life cycle concepts, models, stages, processes, process application, key points of view, adaptation and use in various domains. This document concentrates on specific guidance for the Technical processes and how they can be effectively used during the software life cycle. It is intended to be useful in a variety of software life cycle situations, including the use of agile methods.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 24748-3:2012</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>life cycle</keyword>
+  <keyword>life cycle process</keyword>
+  <keyword>software</keyword>
+  <keyword>system</keyword>
+  <keyword>project</keyword>
+  <keyword>stage</keyword>
+  <keyword>software engineering</keyword>
+</bibdata>

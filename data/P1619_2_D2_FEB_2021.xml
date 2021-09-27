@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Wide-Block Encryption for Shared Storage Media</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Wide-Block Encryption for Shared Storage Media</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9352682</uri>
+  <docidentifier type="IEEE">IEEE P1619.2/D2, February 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7367-5</docidentifier>
+  <docnumber>P1619.2/D2, Feb 2021</docnumber>
+  <date type="created">
+    <on>2021-05-09</on>
+  </date>
+  <date type="published">
+    <on>2021-02-10</on>
+  </date>
+  <date type="issued">
+    <on>2021-05-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">EME2-AES and XCB-AES wide-block encryption with associated data (EAD) modes of the NIST AES block cipher, providing usage guidelines and test vectors, are described. A wide block encryption algorithm behaves as a single block cipher with a large plaintext input and ciphertext output, but uses a narrow block cipher [in this case Advanced Encryption Standard (AES)] internally. These encryption modes are oriented toward random access storage devices that do not provide authentication, but need to reduce the granularity of a potential attack.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1619.2-2010</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Encryption</keyword>
+  <keyword>Security</keyword>
+  <keyword>Storage management</keyword>
+  <keyword>Media</keyword>
+  <keyword>data-at-rest security</keyword>
+  <keyword>encryption</keyword>
+  <keyword>encryption with associated data (EAD)</keyword>
+  <keyword>encrypt-mix encrypt-v2 mode of operation (EME2)</keyword>
+  <keyword>extended codebook mode of operation (XCB)</keyword>
+  <keyword>IEEE 1619.2</keyword>
+  <keyword>security</keyword>
+  <keyword>storage</keyword>
+</bibdata>

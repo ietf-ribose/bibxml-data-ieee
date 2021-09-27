@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Service Composition Protocols of Next Generation Service Overlay Network (NGSON)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Service Composition Protocols of Next Generation Service Overlay Network (NGSON)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7893684</uri>
+  <docidentifier type="IEEE">IEEE P1903.2/D00, October 2016</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8045-8</docidentifier>
+  <docnumber>P1903.2/D00, Oct 2016</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-04-06</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies protocols among Service Composition (SC) Functional Entity (FE), Service Discovery and Negotiation (SDN) FE, Context Information Management (CIM) FE, Service Routing (SR) FE and Service Policy Decision (SPD) FE to support service composition capabilities in next generation service overlay network. The capabilities of service composition aim to support service chaining and instantiation, specification interpretation, service brokering and execution, and context-aware and dynamically adaptive service composition.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Context awareness</keyword>
+  <keyword>Content management</keyword>
+  <keyword>Next generation networking</keyword>
+  <keyword>Overlay networks</keyword>
+  <keyword>NGSON</keyword>
+  <keyword>Service Composition</keyword>
+  <keyword>Context Awareness</keyword>
+  <keyword>Dynamic Adaptation</keyword>
+  <keyword>Self Organization</keyword>
+</bibdata>

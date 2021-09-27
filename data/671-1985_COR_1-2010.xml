@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Specification Format Guide and Test Procedure for Nongyroscopic Inertial Angular Sensors: Jerk, Acceleration, Velocity, and Displacement Corrigendum 1: 4.7.2.6 Short-Term Stability and Annex A Sensor Dynamic Block Diagrams</title>
+  <title type="main" format="text/plain">IEEE Standard Specification Format Guide and Test Procedure for Nongyroscopic Inertial Angular Sensors: Jerk, Acceleration, Velocity, and Displacement Corrigendum 1: 4.7.2.6 Short-Term Stability and Annex A Sensor Dynamic Block Diagrams</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5551084</uri>
+  <docidentifier type="IEEE">IEEE Std 671-1985/Cor 1-2010 [Corrigendum to IEEE Std 671-1985 (Reaff 2008)]</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6390-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5551084</docidentifier>
+  <docnumber>671-1985/Cor 1-2010</docnumber>
+  <date type="updated">
+    <on>2010-09-03</on>
+  </date>
+  <date type="created">
+    <on>2010-08-10</on>
+  </date>
+  <date type="issued">
+    <on>2010-06-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 671-1985 provides specifications and test requirements for a non-gyroscopic inertial angular sensor that may measure angular jerk, acceleration, rate, or displacement with or without response down to zero frequency. A standard specification format is provided. A compilation of recommended test procedures, derived from those presently used in the industry, is also provided. Informative annexes cover design features and theoretical principles of operation. This corrigendum makes changes to 4.7.2.6 to delete a sentence that does not belong there, to add a subclause that was inadvertently left out, and to renumber the existing subclauses. Changes are also being made to fix the block diagrams in Annex A, to correct a misspelling of inertia, and to add a missing symbol.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 671-1985 provides specifications and test requirements for a non-gyroscopic inertial angular sensor that may measure angular jerk, acceleration, rate, or displacement with or without response down to zero frequency. A standard specification format is provided. A compilation of recommended test procedures, derived from those presently used in the industry, is also provided. Informative annexes cover design features and theoretical principles of operation.This corrigendum makes changes to 4.7.2.6 to delete a sentence that does not belong there, to add a subclause that was inadvertently left out, and to renumber the existing subclauses. Changes are also being made to fix the block diagrams in Annex A, to correct a misspelling of inertia, and to add a missing symbol.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Standards Board</keyword>
+  <keyword>Sensor systems</keyword>
+  <keyword>Acceleration</keyword>
+  <keyword>Gyroscopes</keyword>
+  <keyword>angular acceleration</keyword>
+  <keyword>angular displacement</keyword>
+  <keyword>angular jerk</keyword>
+  <keyword>angular rate</keyword>
+  <keyword>gyro</keyword>
+  <keyword>gyroscope</keyword>
+  <keyword>inertial instrument</keyword>
+  <keyword>inertial sensor</keyword>
+  <keyword>non-gyroscopic inertial angular sensor</keyword>
+</bibdata>

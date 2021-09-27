@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Guide for the Computation of Errors in Open-Area Test Site Measurements</title>
+  <title type="main" format="text/plain">American National Standard Guide for the Computation of Errors in Open-Area Test Site Measurements</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/641212</uri>
+  <docidentifier type="IEEE">ANSI Std C63.6-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0611-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.84747</docidentifier>
+  <docnumber>C63.6-1996</docnumber>
+  <date type="created">
+    <on>1997-12-08</on>
+  </date>
+  <date type="published">
+    <on>2019-10-31</on>
+  </date>
+  <date type="issued">
+    <on>1997</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The basis for the acceptability criterion of 4 dB for the site attenuation measurements required in ANSI C63.4-1992 is provided.</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Attenuation measurement</keyword>
+  <keyword>acceptability criterion</keyword>
+  <keyword>antenna factor</keyword>
+  <keyword>attenuator uncertainty</keyword>
+  <keyword>electromagnetic noise</keyword>
+  <keyword>error analysis</keyword>
+  <keyword>error budget</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Ieee draft standard for learning technology</title>
+  <title type="title-main" format="text/plain">conceptual model for resource aggregation for learning, education, and training</title>
+  <title type="main" format="text/plain">Ieee draft standard for learning technology - conceptual model for resource aggregation for learning, education, and training</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6156382</uri>
+  <docidentifier type="IEEE">IEEE P1484.13.1/D3, February 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7413-6</docidentifier>
+  <docnumber>P1484.13.1/D3, Feb 2012</docnumber>
+  <date type="created">
+    <on>2012-02-22</on>
+  </date>
+  <date type="issued">
+    <on>2012-02-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Standard defines a conceptual model for interpreting externalized representations of digital aggregations of resources for learning, education, and training. The conceptual model defines a set of concepts and the relationships among them and is expressed as a formal ontology. Internal compositions and uses of digital resources are not specified nor are processing methods for resource aggregations.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Learning systems</keyword>
+  <keyword>Adaptive systems</keyword>
+  <keyword>Resource management</keyword>
+  <keyword>Digital systems</keyword>
+  <keyword>aggregation format</keyword>
+  <keyword>conceptual model</keyword>
+  <keyword>content aggregation</keyword>
+  <keyword>digital aggregation</keyword>
+  <keyword>digital resource</keyword>
+  <keyword>resource aggregation</keyword>
+  <keyword>resource aggregation format</keyword>
+</bibdata>

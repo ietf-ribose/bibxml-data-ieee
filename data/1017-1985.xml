@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Field Testing Electric Submersible Pump Cable</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Field Testing Electric Submersible Pump Cable</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30691</uri>
+  <docidentifier type="IEEE">IEEE Std 1017-1985</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4315-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1984.82461</docidentifier>
+  <docnumber>1017-1985</docnumber>
+  <date type="created">
+    <on>1984-12-18</on>
+  </date>
+  <date type="published">
+    <on>2018-11-20</on>
+  </date>
+  <date type="issued">
+    <on>1984-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document presents procedures and test voltage values for acceptance and maintenance testing of ESP cable systems. It applies to cable systems rated 3000 V and 5000 V. It is intended to apply only to this special purpose cable.</abstract>
+  <copyright>
+    <from>1984</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1017-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Standards</keyword>
+  <keyword>Underwater cables</keyword>
+  <keyword>Testing</keyword>
+  <keyword>pump</keyword>
+  <keyword>submersible</keyword>
+  <keyword>cable</keyword>
+  <keyword>field</keyword>
+  <keyword>test</keyword>
+</bibdata>

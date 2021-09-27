@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial-Use Guide for Seismic Qualification of Class I Electric Equipment for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Trial-Use Guide for Seismic Qualification of Class I Electric Equipment for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6634312</uri>
+  <docidentifier type="IEEE">IEEE Std 344-1971 (ANSI N41.7)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8716-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6634312</docidentifier>
+  <docnumber>344-1971</docnumber>
+  <date type="created">
+    <on>2013-10-16</on>
+  </date>
+  <date type="published">
+    <on>2013-10-16</on>
+  </date>
+  <date type="issued">
+    <on>1971-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides direction for establishing procedures that will yield data which verify that the Class I electric equipment can meet its performance requirements during and following a design basis earthquake. This guide may be used by equipment manufactures to establish procedures that will yield data to substantiate performance claims or by equipment users to evaluate and verify performance of representative devices and assemblies as part of an overall qualification efforts.</abstract>
+  <copyright>
+    <from>1971</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 344-1975 (Revision of IEEE Std 344-1971)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 344-1975 (Revision of IEEE Std 344-1971)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Seismic measurements</keyword>
+  <keyword>Electric equipment</keyword>
+  <keyword>Earthquakes</keyword>
+  <keyword>Performance evaluation</keyword>
+</bibdata>

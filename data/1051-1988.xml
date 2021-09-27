@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Parameters to Characterize Digital Loop Performance</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Parameters to Characterize Digital Loop Performance</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29131</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 1051-1988</docidentifier>
+  <docidentifier type="ISBN">0-7381-4139-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.81611</docidentifier>
+  <docnumber>1051-1988</docnumber>
+  <date type="created">
+    <on>1988</on>
+  </date>
+  <date type="issued">
+    <on>1988-03-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this recommended practice is to suggest a set of transmission performance parameters to be used in the development of standards for low bit-rate digital channels between the user's location and an appropriate test point at the serving office. This recommended practice suggests a set of performance parameters for digital loop transmission between the user location and the serving office. In the case of ISDN the user location is defined as the T-reference point, or the U-reference point. In the case of non-ISDN, the user location is defined as the point in the transmission circuit analogous to the ISDN-defined T or U reference point. This recommended practice is limited to user information bit rates of 200 kb/s or lower.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Digital communication</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Subscriber loops</keyword>
+</bibdata>

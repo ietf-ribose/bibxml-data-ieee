@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Amendment for to IEEE Standard for Air Interface for Broadband Wireless Access Systems: Multi-tier Networks</title>
+  <title type="main" format="text/plain">IEEE Draft Amendment for to IEEE Standard for Air Interface for Broadband Wireless Access Systems: Multi-tier Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6905687</uri>
+  <docidentifier type="IEEE">IEEE P802.16q/D3 September 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9339-7</docidentifier>
+  <docnumber>P802.16q/D3 Sept 2014</docnumber>
+  <date type="created">
+    <on>2014-11-13</on>
+  </date>
+  <date type="published">
+    <on>2014-09-19</on>
+  </date>
+  <date type="issued">
+    <on>2014-11-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the air interface, including the medium access control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint broadband wireless access (BWA) systems providing multiple services. The MAC is structured to support the WirelessMAN-SC, WirelessMAN-OFDM, and WirelessMAN-OFDMA PHY specifications, each suited to a particular operational environment.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16-2009 (Revision of IEEE Std 802.16-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Broadband</keyword>
+  <keyword>Air interfaces</keyword>
+  <keyword>Multi-tier networks</keyword>
+</bibdata>

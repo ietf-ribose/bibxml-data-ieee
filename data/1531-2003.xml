@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Application and Specification of Harmonic Filters</title>
+  <title type="main" format="text/plain">IEEE Guide for Application and Specification of Harmonic Filters</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1249837</uri>
+  <docidentifier type="IEEE">IEEE Std 1531-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3719-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94407</docidentifier>
+  <docnumber>1531-2003</docnumber>
+  <date type="created">
+    <on>2003-11-24</on>
+  </date>
+  <date type="published">
+    <on>2019-10-25</on>
+  </date>
+  <date type="issued">
+    <on>2003-06-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidelines for specification of components, protection, and control of harmonic filters are provided. This guide applies to the use of 50 Hz and 60 Hz passive shunt power harmonic filters on low- and medium-voltage electric power systems. This document is the first guide specifically created for harmonic filters, although standards do presently exist for most of the components that are used in a filter. Applications including industrial low-voltage facilities, utility medium-voltage systems, and arc furnace installations are covered.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Filters</keyword>
+  <keyword>Harmonic filters</keyword>
+  <keyword>Power harmonic filters</keyword>
+  <keyword>Medium voltage</keyword>
+  <keyword>Shunts (electrical)</keyword>
+  <keyword>Furnaces</keyword>
+  <keyword>capacitors</keyword>
+  <keyword>harmonic filters</keyword>
+  <keyword>inductors</keyword>
+  <keyword>notch filters</keyword>
+  <keyword>passive filters</keyword>
+  <keyword>power filters</keyword>
+  <keyword>power system harmonics</keyword>
+  <keyword>reactors</keyword>
+  <keyword>switched capacitor filters</keyword>
+</bibdata>

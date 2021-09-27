@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Approved Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and Software Engineering -- Software Life Cycle Processes -- Part 2: Relation and Mapping Between ISO/IEC/IEEE 12207-1:2017 and ISO/IEC/IEEE 12207:2008</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Approved Draft International Standard - Systems and Software Engineering -- Software Life Cycle Processes -- Part 2: Relation and Mapping Between ISO/IEC/IEEE 12207-1:2017 and ISO/IEC/IEEE 12207:2008</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9147116</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE/ P12207-2/D3_FDIS, July 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7024-7</docidentifier>
+  <docnumber>P12207-2/D3_FDIS, Jul 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-07-24</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 12207-2 provides the mapping expressing corresponding relations between software life cycle processes in ISO/IEC/IEEE 12207:2017 and the processes in the previous edition ISO/IEC 12207:2008. These relations are demonstrated by means of mapping tables that show relationships between Process Outcomes, and Activities and Tasks in these both editions of ISO/IEC/IEEE 12207. This mapping assists users of the ISO/IEC 12207:2008 edition to transition to using the ISO/IEC/IEEE 12207:2017 edition. This document will help users understand the differences between the reference processes and requirements of the two editions of ISO/IEC/IEEE 12207, and help the user to understand any potential gaps or process enhancements might be needed in seeking conformance to, and/or use of ISO/IEC/IEEE 12207:2017. Also, this document provides to such users the mapping which helps to identify corresponding and compatible process outcomes, activities and tasks of processes for software systems in the ISO/IEC/IEEE 12207:2017.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+</bibdata>

@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)</title>
+  <title type="title-main" format="text/plain">Over-the-Air Data Exchange Protocol for Intelligent Transportation Systems (ITS)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE) - Over-the-Air Data Exchange Protocol for Intelligent Transportation Systems (ITS)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5570065</uri>
+  <docidentifier type="IEEE">IEEE P1609.11/D8, August 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6410-6</docidentifier>
+  <docnumber>P1609.11</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the electronic payment service layer and profile for Payment and Identity authentication, and Payment Data transfer for Dedicated Short Range Communication (DSRC) based applications in Wireless Access in Vehicular Environments. This standard defines a basic level of technical interoperability (vehicle-to-roadside) for electronic payment equipment, i.e. onboard unit (OBU) and roadside unit (RSU) using DSRC. It does not provide a full solution for interoperability, and it does not define other parts of the electronic payment system, other services, other technologies and non-technical elements of payment interoperability. This standard is not intended to define technology and processes to activate and store data into the OBU (personalization), nor the applications using the payment service.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Intelligent transportation systems</keyword>
+  <keyword>Data handling</keyword>
+  <keyword>EFC</keyword>
+  <keyword>electronic fee collection</keyword>
+  <keyword>electronic payment service</keyword>
+  <keyword>EPS</keyword>
+  <keyword>WAVE</keyword>
+  <keyword>Wireless Access in Vehicular Environments</keyword>
+</bibdata>

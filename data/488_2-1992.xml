@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Codes, Formats, Protocols, and Common Commands for Use With IEEE Std 488.1-1987, IEEE Standard Digital Interface for Programmable Instrumentation</title>
+  <title type="main" format="text/plain">IEEE Standard Codes, Formats, Protocols, and Common Commands for Use With IEEE Std 488.1-1987, IEEE Standard Digital Interface for Programmable Instrumentation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/213762</uri>
+  <docidentifier type="IEEE">IEEE Std 488.2-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0665-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.114468</docidentifier>
+  <docnumber>488.2-1992</docnumber>
+  <date type="created">
+    <on>1992-12-19</on>
+  </date>
+  <date type="published">
+    <on>2014-12-19</on>
+  </date>
+  <date type="issued">
+    <on>1992-06-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A set of codes and formats to be used by devices connected via the IEEE 488.1 bus is specified. This standard also defines communication protocols that are necessary to effect application-independent and device-dependent message exchanges, and further defines common commands and characteristics useful in instrument system applications. It is intended to apply to small-scale to medium-scale instrument systems comprised mainly of measurement, stimulus, and interconnect devices with an instrumentation controller. The standard may also apply to certain devices outside the scope of the instrument system environment. IEEE 488.1 subsets, standard message-handling protocols including error handling, unambiguous program and response-message syntactic structures, common commands useful in a wide range of instrument system applications, standard status reporting structures, and system configuration and synchronization protocols are covered. IEEE Std 488.2-1992 , 488.2 ,</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 488.2-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Protocols</keyword>
+  <keyword>Standards</keyword>
+  <keyword>controller</keyword>
+  <keyword>device</keyword>
+  <keyword>System interface</keyword>
+  <keyword>System bus</keyword>
+  <keyword>488.1</keyword>
+  <keyword>60488-2</keyword>
+</bibdata>

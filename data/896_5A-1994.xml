@@ -1,0 +1,42 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Futurebus+, Profile M (Military): Errata, Corrections, and Clarifications</title>
+  <title type="main" format="text/plain">IEEE Standard for Futurebus+, Profile M (Military): Errata, Corrections, and Clarifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/696975</uri>
+  <docidentifier type="IEEE">IEEE Std 896.5a-1994</docidentifier>
+  <docidentifier type="ISBN">0-7381-4423-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.122629</docidentifier>
+  <docnumber>896.5a-1994</docnumber>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="issued">
+    <on>1994-12-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The following topics were dealt with: The supplement contains errata, corrections, and clarifications to IEEE Std 896.5-1993. Futurebus+/sup TM/ standards provide system developers with a set of tools with which high performance bus-based systems may be developed. This architecture provides a wide range of performance scalability over both cost and time for multiple generations of single- and multiple-bus multiprocessor systems. This document, a companion standard to ISO/IEC 10857:1994 [ANSI/IEEE Std 896.1, 1994 Edition], builds on the logical layer by adding requirements for three military profiles. It is to these profiles that products will claim conformance.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Data buses</keyword>
+</bibdata>

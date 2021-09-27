@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Security</title>
+  <title type="title-main" format="text/plain">Amendment 3:Ethernet Data Encryption devices</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Security - Amendment 3:Ethernet Data Encryption devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7932238</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AEcg-2017 (Amendment to IEEE Std 802.1AE-2006 as amended by IEEE Std 802.1AEbn-2011 and IEEE Std 802.1AEbw-2013)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3725-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.7932238</docidentifier>
+  <docnumber>802.1AEcg-2017</docnumber>
+  <date type="updated">
+    <on>2017-06-09</on>
+  </date>
+  <date type="created">
+    <on>2017-05-19</on>
+  </date>
+  <date type="published">
+    <on>2017-05-19</on>
+  </date>
+  <date type="issued">
+    <on>2017-02-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Ethernet Data Encryption devices (EDEs) are specified in this amendment. An EDE is a two-port bridge that uses MACsec to provide secure connectivity for attached customer bridges, or for attached provider bridges. EDEs may allow the customer (or provider) bridges to continue to use a VLAN Identifier (VID) in transmitted frames to select (as already specified in IEEE Std 802.1Q(TM)) between provider network or provider backbone network services.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Ethernet Data Encryption devices (EDEs) are specified in this amendment. An EDE is a two-port bridge that uses MACsec to provide secure connectivity for attached customer bridges, or for attached provider bridges. EDEs may allow the customer (or provider) bridges to continue to use a VLAN Identifier (VID) in transmitted frames to select</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 8802-1AE:2013/Amd.3:2018(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Ethernet networks</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Access control</keyword>
+  <keyword>amendment</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>data origin authenticity</keyword>
+  <keyword>EDE</keyword>
+  <keyword>Ethernet Data Encryption device</keyword>
+  <keyword>IEEE 802.1AE</keyword>
+  <keyword>IEEE 802.1AEcg</keyword>
+  <keyword>integrity</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>port-based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>transparent bridging</keyword>
+</bibdata>

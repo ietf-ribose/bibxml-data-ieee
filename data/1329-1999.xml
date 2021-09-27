@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Method for Measuring Transmission Performance of Handsfree Telephone Sets</title>
+  <title type="main" format="text/plain">IEEE Standard Method for Measuring Transmission Performance of Handsfree Telephone Sets</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/917586</uri>
+  <docidentifier type="IEEE">IEEE Std 1329-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1824-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.92425</docidentifier>
+  <docnumber>1329-1999</docnumber>
+  <date type="created">
+    <on>2000-05-02</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1999-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Techniques for objective measurement of electroacoustic and voice switching characteristics of analog and digital handsfree telephones (HFTs) are provided. Due to the various characteristics of HFTs and the environments in which they operate, not all of the test procedures in this standard are applicable to all HFTs. Application of the test procedures to atypical HFTs should be determined on an individual basis.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Techniques for objective measurement of electroacoustic and voice switching characteristics of analog and digital handsfree telephones (HFTs) are provided. Due to the various characteristics of HFTs and the environments in which they operate, not all of the test procedures in this standard are applicable to all HFTs. Application of the test procedures to a typical HFTs should be determined on an individual basis.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1329-2010 (Revision of IEEE Std 1329-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Telephone sets</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Optical variables measurement</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Analog handsfree telephone</keyword>
+  <keyword>digital handsfree telephone</keyword>
+  <keyword>electroacoustic transmission characteristics</keyword>
+  <keyword>handsfree telephone</keyword>
+  <keyword>voice switching characteristics</keyword>
+  <keyword>voice transmission characteristics</keyword>
+</bibdata>

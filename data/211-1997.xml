@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
+  <title type="main" format="text/plain">IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/705931</uri>
+  <docidentifier type="IEEE">IEEE Std 211-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0580-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.87897</docidentifier>
+  <docnumber>211-1997</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="issued">
+    <on>1997-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms and definitions used in the context of electromagnetic wave propagation relating to the fields of telecommunications, remote sensing, radio astronomy, optical waves, plasma waves, the ionosphere, the magnetosphere, and magnetohydrodynamic, acoustic, and electrostatic waves are supplied.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 211-1990</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 211-2018 (Revision of IEEE Std 211-1997)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 211-2018 (Revision of IEEE Std 211-1997)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+</bibdata>

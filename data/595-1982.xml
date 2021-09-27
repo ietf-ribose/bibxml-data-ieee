@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Serial Highway Interface System (CAMAC) (Computer Automated Measurement and Control)</title>
+  <title type="main" format="text/plain">IEEE Standard Serial Highway Interface System (CAMAC) (Computer Automated Measurement and Control)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19516</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 595-1982</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0698-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1982.120312</docidentifier>
+  <docnumber>595-1982</docnumber>
+  <date type="created">
+    <on>1982-02-26</on>
+  </date>
+  <date type="published">
+    <on>2020-02-03</on>
+  </date>
+  <date type="issued">
+    <on>1981-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A serial highway (SH) system using byte-organized messages and configured as a unidirectional loop, to which are connected a system controller and up to sixty-two CAMAC crate assemblies, is defined. In the primary application, the controlled devices are CAMAC crate assemblies with serial crate controllers that conform to a defined message structure. In other applications, some or all of the controlled devices connected to the SH can be equipment that conforms to a subset of the full specification and is not necessarily constructed in CAMAC format or controlled by CAMAC commands.</abstract>
+  <copyright>
+    <from>1982</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>CAMAC</keyword>
+  <keyword>Standards</keyword>
+  <keyword>serial</keyword>
+  <keyword>highway</keyword>
+  <keyword>interface</keyword>
+  <keyword>system</keyword>
+  <keyword>CAMAC</keyword>
+</bibdata>

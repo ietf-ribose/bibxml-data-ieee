@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+  <title type="main" format="text/plain">IEC/IEEE International Standard - Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4839002</uri>
+  <docidentifier type="IEEE">IEC 61588:2009(E)</docidentifier>
+  <docidentifier type="ISBN">978-2-8318-1026-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.4839002</docidentifier>
+  <docnumber>61588-2009</docnumber>
+  <date type="updated">
+    <on>2009-06-15</on>
+  </date>
+  <date type="created">
+    <on>2009-02-27</on>
+  </date>
+  <date type="published">
+    <on>2019-11-01</on>
+  </date>
+  <date type="issued">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A protocol is provided in this standard that enables precise synchronization of clocks in measurement and control systems implemented with technologies such as network communication, local computing, and distributed objects. The protocol is applicable to systems communicating via packet networks. Heterogeneous systems are enabled that include clocks of various inherent precision, resolution, and stability to synchronize. System-wide synchronization accuracy and precision in the sub-microsecond range are supported with minimal network and local clock computing resources. Simple systems are installed and operated without requiring the management attention of users because the default behavior of the protocol allows for it.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A protocol is provided in this standard that enables precise synchronization of clocks in measurement and control systems implemented with technologies such as network communication, local computing, and distributed objects. The protocol is applicable to systems communicating via packet networks. Heterogeneous systems are enabled that include clocks of various inherent precision, resolution, and stability to synchronize. System-wide synchronization accuracy and precision in the sub-microsecond range are supported with minimal network and local clock computing resources. Simple systems are installed and operated without requiring the management attention of users because the default behavior of the protocol allows for it.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1588-2008 (Revision of IEEE Std 1588-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Distributed management</keyword>
+  <keyword>Clocks</keyword>
+  <keyword>Real-time systems</keyword>
+  <keyword>boundary clock</keyword>
+  <keyword>clock</keyword>
+  <keyword>distributed system</keyword>
+  <keyword>master clock</keyword>
+  <keyword>measurement and control system</keyword>
+  <keyword>real-time clock</keyword>
+  <keyword>synchronized clock</keyword>
+  <keyword>transparent clock</keyword>
+</bibdata>

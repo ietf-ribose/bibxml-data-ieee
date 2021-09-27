@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Automatic Test Markup Language (ATML) Instrument Description</title>
+  <title type="main" format="text/plain">IEEE Standard for Automatic Test Markup Language (ATML) Instrument Description</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6461897</uri>
+  <docidentifier type="IEEE">IEEE Std 1671.2-2012 (Revision of IEEE Std 1671.2-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8144-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6461897</docidentifier>
+  <docnumber>1671.2-2012</docnumber>
+  <date type="updated">
+    <on>2013-04-12</on>
+  </date>
+  <date type="created">
+    <on>2013-02-15</on>
+  </date>
+  <date type="published">
+    <on>2013-02-14</on>
+  </date>
+  <date type="issued">
+    <on>2012-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An exchange format is specified in this standard, using extensible markup language (XML), for identifying instrumentation that may be integrated in an automatic test system (ATS) that is to be used to test and diagnose a unit under test (UUT).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">An exchange format is specified in this standard, using extensible markup language (XML), for identifying instrumentation that may be integrated in an automatic test system (ATS) that is to be used to test and diagnose a unit under test (UUT).</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 1671.2-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Automatic test equipment</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>ATS</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>automatic test system</keyword>
+  <keyword>IEEE 1671.2</keyword>
+  <keyword>instrument</keyword>
+  <keyword>instrumentation</keyword>
+  <keyword>synthetic instrument</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

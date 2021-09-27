@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for the Functional Specification of Transmission Static Var Compensators</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for the Functional Specification of Transmission Static Var Compensators - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6042281</uri>
+  <docidentifier type="IEEE">IEEE Std 1031-2011 (Revision of IEEE Std 1031-2000) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7042-8</docidentifier>
+  <docnumber>1031-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2011-05-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An approach to preparing a specification for a transmission static var compensator is documented by this guide. The intention of this document is to serve as a base specification with an informative annex provided to allow users to modify or develop specific clauses to meet a particular application.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">An approach to preparing a specification for a transmission static var compensator is documented by this guide. The intention of this document is to serve as a base specification with an informative annex provided to allow users to modify or develop specific clauses to meet a particular application.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1031-2000 (Revision of IEEE Std 1031-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Static VAr compensators</keyword>
+  <keyword>Thyristors</keyword>
+  <keyword>Filters</keyword>
+  <keyword>Valves</keyword>
+  <keyword>filters</keyword>
+  <keyword>harmonics</keyword>
+  <keyword>IEEE 1031</keyword>
+  <keyword>static var compensators</keyword>
+  <keyword>static var system</keyword>
+  <keyword>thyristor-controlled reactor (TCR)</keyword>
+  <keyword>thyristor valves</keyword>
+  <keyword>thyristor-switched capacitor (TSC)</keyword>
+  <keyword>thyristor-switched reactor (TSR)</keyword>
+</bibdata>

@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Protective Relay Applications to Power System Buses</title>
+  <title type="main" format="text/plain">IEEE Guide for Protective Relay Applications to Power System Buses</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30628</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std C37.97-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0899-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.82356</docidentifier>
+  <docnumber>C37.97-1979</docnumber>
+  <date type="created">
+    <on>1979-12-19</on>
+  </date>
+  <date type="published">
+    <on>2017-01-16</on>
+  </date>
+  <date type="issued">
+    <on>1977-09-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The effective application of relays for protection of power system electrical buses is addressed. Common bus arrangements and some special arrangements used in the United States are covered; not all bus protection systems or all possible bus arrangements are included. Factors that determine the need and type of bus protection, and basic principles of bus protection operation are discussed. Relay input sources are covered. Bus protection systems and common bus arrangements with relay input sources are described. Also discussed are current transformer locations, wiring and grounding, location of the bus on the system, bus construction, problems associated with switching and bypassing, auxiliary tripping relays, reclosing of breakers after a bus differential operation, testing of bus differential relaying, and bus backup protection.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Busbars</keyword>
+  <keyword>Power system protection</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Standards</keyword>
+  <keyword>guide</keyword>
+  <keyword>relay</keyword>
+  <keyword>applications</keyword>
+  <keyword>power</keyword>
+  <keyword>system</keyword>
+  <keyword>Protective relaying</keyword>
+</bibdata>

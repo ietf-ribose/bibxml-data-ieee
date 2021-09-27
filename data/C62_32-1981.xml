@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Specifications for Low-Voltage Air Gap Surge-Protective Devices (Excluding Valve and Expulsion Type Devices)</title>
+  <title type="main" format="text/plain">IEEE Standard Test Specifications for Low-Voltage Air Gap Surge-Protective Devices (Excluding Valve and Expulsion Type Devices)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7378238</uri>
+  <docidentifier type="IEEE">ANSI/IEEE C62.32-1981</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0923-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1981.7378238</docidentifier>
+  <docnumber>C62.32-1981</docnumber>
+  <date type="updated">
+    <on>2016-02-12</on>
+  </date>
+  <date type="created">
+    <on>1981-12-11</on>
+  </date>
+  <date type="published">
+    <on>2016-01-11</on>
+  </date>
+  <date type="issued">
+    <on>1981-05-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Air gaps for overvoltage protection applications on systems with operating voltages equal to or less than 600 V rms are covered. These protective devices are designed for limiting the voltages on balanced or unbalanced communication, power, and signaling circuits. A series of standard design tests for determining the electrical characteristics of these air gap devices is specified. The tests provide a means of comparison among various air gap surge-protective devices.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Air gaps for overvoltage protection applications on systems with operating voltages equal to or less than 600 V rms are covered. These protective devices are designed for limiting the voltages on balanced or unbalanced communication, power, and signaling circuits. A series of standard design tests for determining the electrical characteristics of these air gap devices is specified. The tests provide a means of comparison among various air gap surge-protective devices.</abstract>
+  <copyright>
+    <from>1981</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.32-2004 (Revision of IEEE Std C62.32-1981)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Arresters</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>ANSI Standards</keyword>
+  <keyword>test</keyword>
+  <keyword>low-voltage</keyword>
+  <keyword>air</keyword>
+  <keyword>gap</keyword>
+  <keyword>spd</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Arresters</keyword>
+</bibdata>

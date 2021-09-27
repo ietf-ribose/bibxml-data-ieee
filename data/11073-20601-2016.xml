@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Health Informatics -- Personal Health Device Communication</title>
+  <title type="title-part" format="text/plain">Part 20601: Application Profile -- Optimized Exchange Protocol</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Health Informatics -- Personal Health Device Communication - Part 20601: Application Profile -- Optimized Exchange Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7842820</uri>
+  <docidentifier type="IEEE">ISO/IEEE 11073-20601:2016(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3788-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7842820</docidentifier>
+  <docnumber>11073-20601-2016</docnumber>
+  <date type="created">
+    <on>2016</on>
+  </date>
+  <date type="published">
+    <on>2017-02-03</on>
+  </date>
+  <date type="issued">
+    <on>2017</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard defines a common framework for making an abstract model of personal health data available in transport-independent transfer syntax required to establish logical connections between systems and to provide presentation capabilities and services needed to perform communication tasks. The protocol is optimized to personal health usage requirements and leverages commonly used methods and tools wherever possible.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 11073-20601-2014 (Revision of ISO/IEEE 11073-20601:2010)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>ISO</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>adoption</keyword>
+  <keyword>IEEE 11073-20601(TM)</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+</bibdata>

@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">AIEE Test Code for D-C Aircraft Rotating Machines</title>
+  <title type="main" format="text/plain">AIEE Test Code for D-C Aircraft Rotating Machines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7438713</uri>
+  <docidentifier type="IEEE">AIEE No 800-1953</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0443-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1953.7438713</docidentifier>
+  <docnumber>800-1953</docnumber>
+  <date type="updated">
+    <on>2016-04-22</on>
+  </date>
+  <date type="created">
+    <on>1953-01-15</on>
+  </date>
+  <date type="published">
+    <on>2016-03-22</on>
+  </date>
+  <date type="issued">
+    <on>1953</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">It is the purpose of this code to define uniform acceptable methods of making tests to determine that the performance and other characteristics of d-c rotating machines for aircraft comply with specification and application requirements. This code covers rotating machines which operate from or are connected to a direct-current system of an aircraft.</abstract>
+  <copyright>
+    <from>1953</from>
+    <owner>
+      <organization>
+        <name>AIEE</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>AIEE Standards</keyword>
+  <keyword>DC machines</keyword>
+  <keyword>Aircraft</keyword>
+  <keyword>Aerospace electronics</keyword>
+  <keyword>Rotating machines</keyword>
+</bibdata>

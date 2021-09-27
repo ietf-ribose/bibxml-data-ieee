@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Test Procedures for Synchronous Machines Part I&amp;amp;#8212;Acceptance and Performance Testing Part II&amp;amp;#8212;Test Procedures and Parameter Determination for Dynamic Analysis</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for Test Procedures for Synchronous Machines Part I&amp;amp;#8212;Acceptance and Performance Testing Part II&amp;amp;#8212;Test Procedures and Parameter Determination for Dynamic Analysis - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5953453</uri>
+  <docidentifier type="IEEE">IEEE Std 115-2009 (Revision of IEEE Std 115-1995) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5492-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5953453</docidentifier>
+  <docnumber>115-2009</docnumber>
+  <date type="created">
+    <on>2010-05-07</on>
+  </date>
+  <date type="published">
+    <on>2013-07-26</on>
+  </date>
+  <date type="issued">
+    <on>2009-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Instructions for conducting generally applicable and accepted tests to determine the performance characteristics of synchronous machines are contained in this guide. Although the tests described are applicable in general to synchronous generators, synchronous motors (larger than fractional horsepower), synchronous condensers, and synchronous frequency changers, the descriptions make reference primarily to synchronous generators and synchronous motors.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 115-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Synchronous machines</keyword>
+  <keyword>Reluctance machines</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>acceptance and performance testing</keyword>
+  <keyword>dynamic analysis</keyword>
+  <keyword>parameter determination</keyword>
+  <keyword>synchronous machines</keyword>
+</bibdata>

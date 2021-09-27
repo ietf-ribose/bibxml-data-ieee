@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Preparation of Excitation System Specifications</title>
+  <title type="main" format="text/plain">IEEE Guide for the Preparation of Excitation System Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159325</uri>
+  <docidentifier type="IEEE">IEEE Std 421.4-1990</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1092-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1990.101060</docidentifier>
+  <docnumber>421.4-1990</docnumber>
+  <date type="created">
+    <on>1990</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1990-05-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Replaced by 421.1-2004 (SH/SS95244) Abstract: IEEE Std 421.4-1990, IEEE Guide for the Preparation of Excitation System specifications, is intended to be a narrative description of items and functions that should be considered in the preparation of excitation system specifications. This guide applies to excitation systems for synchronous machines rated at 5000 kVA or larger.</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 421.4-2004 (Revision of IEEE Std 421.4-1990)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Standards</keyword>
+  <keyword>Synchronous machines</keyword>
+  <keyword>Testing</keyword>
+  <keyword>421.4</keyword>
+  <keyword>exciter</keyword>
+  <keyword>machine regulators</keyword>
+  <keyword>Synchronous machine regulators</keyword>
+  <keyword>Excitation system specification</keyword>
+  <keyword>Excitation control systems</keyword>
+</bibdata>

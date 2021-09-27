@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Guide for Electrostatic Discharge Test Methodologies and Acceptance Criteria for Electronic Equipment</title>
+  <title type="main" format="text/plain">American National Standard Guide for Electrostatic Discharge Test Methodologies and Acceptance Criteria for Electronic Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7465684</uri>
+  <docidentifier type="IEEE">ANSI C63.16-2016 (Revision of ANSI C63.16-1993)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0732-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7465684</docidentifier>
+  <docnumber>C63.16-2016</docnumber>
+  <date type="updated">
+    <on>2016-05-27</on>
+  </date>
+  <date type="created">
+    <on>2016-05-06</on>
+  </date>
+  <date type="published">
+    <on>2016-05-05</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Expanded explanations, best practices, and guidance for avoiding the pitfalls associated with electrostatic discharge (ESD) testing to IEC and other international ESD standards are provided and should be considered a supplement to these standards, rather than a replacement. Unique ESD test procedures related to connecting charged peripherals to equipment in use are also included. ** Downloads file posted at http://standards.ieee.org/downloads/C63/C63.16/.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Expanded explanations, best practices, and guidance for avoiding the pitfalls associated with electrostatic discharge (ESD) testing to IEC and other international ESD standards are provided and should be considered a supplement to these standards, rather than a replacement. Unique ESD test procedures related to connecting charged peripherals to equipment in use are also included. ** Downloads file posted at http://standards.ieee.org/downloads/C63/C63.16/</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Electrostatic discharge</keyword>
+  <keyword>Discharges (electric)</keyword>
+  <keyword>Testing</keyword>
+  <keyword>air discharge</keyword>
+  <keyword>ANSI C63.16</keyword>
+  <keyword>contact discharge</keyword>
+  <keyword>coupling plane</keyword>
+  <keyword>direct discharge</keyword>
+  <keyword>electrostatic discharge (ESD)</keyword>
+  <keyword>ESD event</keyword>
+  <keyword>ESD immunity</keyword>
+  <keyword>ESD simulator</keyword>
+  <keyword>ESD test criteria</keyword>
+  <keyword>indirect discharge</keyword>
+</bibdata>

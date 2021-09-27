@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Wide-Block Encryption for Shared Storage Media</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wide-Block Encryption for Shared Storage Media</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5407669</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1619.2/D15, Jan 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3046-3</docidentifier>
+  <docnumber>P1619.2/D15, Jan 2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes the EME2-AES and XCB-AES wide block encryption with associated data (EAD) modes of the NIST AES block cipher, providing usage guidelines and test vectors. A wide block encryption algorithm is one in which behaves as a single block cipher with a large plaintext input and ciphertext output, but uses a narrow block cipher (in this case AES) internally. These encryption modes are oriented towards random access storage devices that do not provide authentication, but need to reduce the granularity of a potential attack.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Storage automation</keyword>
+  <keyword>Encryption</keyword>
+  <keyword>Data storage systems</keyword>
+  <keyword>data-at-rest security</keyword>
+  <keyword>encryption</keyword>
+  <keyword>security</keyword>
+  <keyword>storage</keyword>
+  <keyword>encrypt-mix-encrypt-v2 mode of operation (EME2)</keyword>
+  <keyword>extended codebook mode of operation (XCB)</keyword>
+  <keyword>encryption with associated data (EAD)</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Accelerated Aging Tests for Medium-Voltage (5 kV-35 kV) Extruded Electric Power Cables Using Water-Filled Tanks</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for Accelerated Aging Tests for Medium-Voltage (5 kV-35 kV) Extruded Electric Power Cables Using Water-Filled Tanks - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5981366</uri>
+  <docidentifier type="IEEE">IEEE Std 1407 -2007 (Revision of IEEE Std 1407-1998) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6939-2</docidentifier>
+  <docnumber>1407-2007</docnumber>
+  <date type="created">
+    <on>2008-02-15</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2007-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides information on the equipment, cable specimens, test conditions, and measurements to perform accelerated aging tests on medium-voltage cables using water-filled tanks, whether the test be a time to failure test or a test in which samples are aged for fixed times followed by a diagnostic test such as a step ac breakdown test. The guide identifies the critical test parameters and describes techniques for their measurement and control. The implementation of the techniques will facilitate a comparison of data obtained by different laboratories.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 1407-2007 (Revision of IEEE Std 1407-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Aging</keyword>
+  <keyword>Water storage</keyword>
+  <keyword>Temperature measurement</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>1407-2007</keyword>
+  <keyword>accelerated-aging tests</keyword>
+  <keyword>cable core test</keyword>
+  <keyword>conductor resistance</keyword>
+  <keyword>cross-linked polyethylene (XLPE)</keyword>
+  <keyword>ethylene propylene rubber (EPR)</keyword>
+  <keyword>total harmonic distortion</keyword>
+  <keyword>tree- retardant XLPE (TRXLPE)</keyword>
+  <keyword>water-filled tanks</keyword>
+</bibdata>

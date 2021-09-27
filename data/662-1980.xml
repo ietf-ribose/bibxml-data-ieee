@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Terminology for Semiconductor Memory</title>
+  <title type="main" format="text/plain">IEEE Standard Terminology for Semiconductor Memory</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7434529</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 662-1980</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0414-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.7434529</docidentifier>
+  <docnumber>662-1980</docnumber>
+  <date type="updated">
+    <on>2016-04-01</on>
+  </date>
+  <date type="created">
+    <on>1980-11-26</on>
+  </date>
+  <date type="published">
+    <on>2016-03-16</on>
+  </date>
+  <date type="issued">
+    <on>1978-12-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this standard is to provide guidelines under which data sheets for new semiconductor memories are to be generated. Adherence to these guidelines should produce data sheets that are concise and consistently define the operation and characteristics of semiconductor memory devices. It is not intended that data sheets already in existence be changed to this format. However, data sheets being generated for the first time for new products should adhere to this standard.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 662-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Semiconductor devices</keyword>
+  <keyword>Memory</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Semiconductor memory</keyword>
+  <keyword>semiconductor</keyword>
+  <keyword>memory</keyword>
+  <keyword>terminology</keyword>
+</bibdata>

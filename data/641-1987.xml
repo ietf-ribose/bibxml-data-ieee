@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Definitions and Characterization of Metal Nitride Oxide Semiconductor Arrays</title>
+  <title type="main" format="text/plain">IEEE Standard Definitions and Characterization of Metal Nitride Oxide Semiconductor Arrays</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26538</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 641-1987</docidentifier>
+  <docidentifier type="ISBN">0-7381-4235-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.79517</docidentifier>
+  <docnumber>641-1987</docnumber>
+  <date type="created">
+    <on>1988</on>
+  </date>
+  <date type="issued">
+    <on>1987</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard has ten sections: an introduction to the MNOS device and memory array; symbols and definitions; references that contain added detail on specific concepts; MNOS arrays and functional operations; MNOS array retention; MNOS array endurance property; reliability considerations for MNOS arrays; the testing methodology necessary to establish the unique properties of the MNOS array for both the consumer and the producer; radiation effects on MNOS arrays; and nonvolatile memory technology, called floating-gate.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>MIS devices</keyword>
+  <keyword>Radiation effects</keyword>
+  <keyword>Semiconductor memories</keyword>
+</bibdata>

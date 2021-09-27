@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Measurement Procedure for Field Disturbance Sensors 300 MHz to 40 GHz</title>
+  <title type="main" format="text/plain">IEEE Standard Measurement Procedure for Field Disturbance Sensors 300 MHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/847754</uri>
+  <docidentifier type="IEEE">IEEE Std 475-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2493-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.91521</docidentifier>
+  <docnumber>475-2000</docnumber>
+  <date type="created">
+    <on>2000-05-31</on>
+  </date>
+  <date type="published">
+    <on>2013-01-03</on>
+  </date>
+  <date type="issued">
+    <on>2000-03-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">" Test procedures for microwave field disturbance sensors to measure radio frequency(RF) radiated field strength of the fundamental frequency, harmonic frequencies, near field powerflux density, and nonharmonic spurious emissions of sensors operating within the frequency rangeof 300 MHz to 40 GHz are defined. "</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 475-1983</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>field disturbance sensors</keyword>
+  <keyword>field strength measurements</keyword>
+  <keyword>measurement instrumentation</keyword>
+  <keyword>spurious emissions</keyword>
+  <keyword>test sites</keyword>
+  <keyword>test reports</keyword>
+</bibdata>

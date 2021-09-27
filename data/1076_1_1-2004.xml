@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard VHDL Analog and Mixed-Signal Extensions---Packages for Multiple Energy Domain Support</title>
+  <title type="main" format="text/plain">IEEE Standard VHDL Analog and Mixed-Signal Extensions---Packages for Multiple Energy Domain Support</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1459160</uri>
+  <docidentifier type="IEEE">IEEE Std 1076.1.1-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4646-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.96208</docidentifier>
+  <docnumber>1076.1.1-2004</docnumber>
+  <date type="created">
+    <on>2005</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2004-12-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines a collection of VHDL 1076.1 packages, compatible with IEEE Std 1076.1TM-1999, along with recommendations for conforming use, in order to facilitate the interchange of simulation models of physical components and subsystems. The packages include the definition of standard types, subtypes, natures, and constants for modeling in multiple energy domains (electrical, fluidic, mechanical, etc.).</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1076.1.1-2011 (Revision of IEEE Std 1076.1.1-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Design automation</keyword>
+  <keyword>Computational modeling</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>interchange</keyword>
+  <keyword>modeling</keyword>
+  <keyword>model interchange</keyword>
+  <keyword>model portability</keyword>
+  <keyword>multidisciplinary</keyword>
+  <keyword>multidisciplinary modeling</keyword>
+  <keyword>packages</keyword>
+  <keyword>portability</keyword>
+  <keyword>standard packages</keyword>
+  <keyword>standard VHDL packages</keyword>
+  <keyword>VHDL</keyword>
+  <keyword>VHDL-AMS</keyword>
+</bibdata>

@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for the Scheme Programming Language</title>
+  <title type="main" format="text/plain">IEEE Standard for the Scheme Programming Language</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159138</uri>
+  <docidentifier type="IEEE">IEEE Std 1178-1990</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1189-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.101032</docidentifier>
+  <docnumber>1178-1990</docnumber>
+  <date type="created">
+    <on>1991</on>
+  </date>
+  <date type="issued">
+    <on>1990-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The form and meaning of programs written in the Scheme programming language and in particular, their syntax, the semantic rules for interpreting them, and the representation of data to be input or output by them, are specified. The fundamental ideas of the language and the notational conventions used for describing and writing programs in the language are presented. The syntax and semantics of expressions, programs, and definitions are specified. Scheme's built-in procedures, which include all of the language's data manipulation and input/output primitives, are described, and a formal syntax for Scheme written in extended Backus-Naur form is provided. A formal denotational semantics for Scheme and some issues in the implementation of Scheme's arithmetic are covered.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>LISP</keyword>
+  <keyword>Programming</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

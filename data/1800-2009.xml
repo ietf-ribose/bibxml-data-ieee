@@ -1,0 +1,77 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5985443</uri>
+  <docidentifier type="IEEE">IEEE Std 1800-2009 (Revision of IEEE Std1800-2005) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7426-9</docidentifier>
+  <docnumber>1800-2009</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2009-12-11</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2009-11-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard represents a merger of two previous standards: IEEE Std 1364&amp;amp;#x2122;-2005 Verilog hardware description language (HDL) and IEEE Std 1800-2005 SystemVerilog unified hardware design, specification, and verification language. The 2005 SystemVerilog standard defines extensions to the 2005 Verilog standard. These two standards were designed to be used as one language. Merging the base Verilog language and the SystemVerilog extensions into a single standard provides users with all information regarding syntax and semantics in a single document.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard represents a merger of two previous standards: IEEE Std 1364(TM)-2005 Verilog hardware description language (HDL) and IEEE Std 1800-2005 SystemVerilog unified hardware design, specification, and verification language. The 2005 SystemVerilog standard defines extensions to the 2005 Verilog standard. These two standards were designed to be used as one language. Merging the base Verilog language and the SystemVerilog extensions into a single standard provides users with all information regarding syntax and semantics in a single document. (IEEE Std1800-2009 was a revision of both IEEE Std1364-2005 and IEEE Std1800-2005.)</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1364-2005 (Revision of IEEE Std 1364-2001)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1800-2005</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Hardware design languages</keyword>
+  <keyword>Computer languages</keyword>
+  <keyword>Design automation</keyword>
+  <keyword>Formal verification</keyword>
+  <keyword>CADCAM</keyword>
+  <keyword>1800-2009</keyword>
+  <keyword>1364-2005</keyword>
+  <keyword>assertions</keyword>
+  <keyword>design automation</keyword>
+  <keyword>design verification</keyword>
+  <keyword>hardware description language</keyword>
+  <keyword>HDL</keyword>
+  <keyword>HDVL</keyword>
+  <keyword>PLI</keyword>
+  <keyword>programming language interface</keyword>
+  <keyword>SystemVerilog</keyword>
+  <keyword>Verilog</keyword>
+  <keyword>VPI</keyword>
+</bibdata>

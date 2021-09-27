@@ -1,0 +1,75 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard on Transitions, Pulses, and Related Waveforms</title>
+  <title type="main" format="text/plain">IEEE Standard on Transitions, Pulses, and Related Waveforms</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1245784</uri>
+  <docidentifier type="IEEE">IEEE Std 181-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3571-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94394</docidentifier>
+  <docnumber>181-2003</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2003-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard presents approximately 100 terms, and their definitions, for accurately and precisely describing the waveforms of pulse signals and the process of measuring pulse signals. Algorithms are provided for computing the values of defined terms that describe measurable parameters of the waveform, such as transition duration, state level, pulse amplitude, and waveform aberrations. These analysis algorithms are applicable to two-state waveforms having one or two transitions connecting these states. Compound waveform analysis is accomplished by decomposing the compound waveform into its constituent two-state single-transition waveforms.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 181-1977</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 181-2011 (Revision of IEEE Std 181-2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Pulse measurements</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Compounds</keyword>
+  <keyword>History</keyword>
+  <keyword>aberration</keyword>
+  <keyword>algorithms</keyword>
+  <keyword>compound waveform</keyword>
+  <keyword>histogram</keyword>
+  <keyword>levels</keyword>
+  <keyword>pulse</keyword>
+  <keyword>pulse amplitude</keyword>
+  <keyword>pulse definitions</keyword>
+  <keyword>pulse measurement</keyword>
+  <keyword>states</keyword>
+  <keyword>state boundaries</keyword>
+  <keyword>state levels</keyword>
+  <keyword>transients</keyword>
+  <keyword>transitions</keyword>
+  <keyword>transition duration</keyword>
+  <keyword>waveforms</keyword>
+  <keyword>waveform analysis</keyword>
+  <keyword>waveform definitions</keyword>
+  <keyword>waveform parameters</keyword>
+  <keyword>waveform terms</keyword>
+</bibdata>

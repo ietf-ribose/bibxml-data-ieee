@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Three-Phase Manually Operated Subsurface and Vault Load-Interrupting Switches for Alternating-Current Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Three-Phase Manually Operated Subsurface and Vault Load-Interrupting Switches for Alternating-Current Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/935760</uri>
+  <docidentifier type="IEEE">IEEE Std C37.71-2001</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2841-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.92775</docidentifier>
+  <docnumber>C37.71-2001</docnumber>
+  <date type="created">
+    <on>2001</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2001-03-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">" Requirements are given for three-phase group operated subsurface and vault load-interrupting switchgear with maximum ratings of 600 A and 38 kV, and for utilizing separableinsulated connectors. Definitions are given, and service conditions and ratings are discussed.Design tests, production tests, and construction requirements are included."</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.71-1984</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Switchgear</keyword>
+  <keyword>subsurface switchgear</keyword>
+  <keyword>switched way</keyword>
+  <keyword>vault switchgear</keyword>
+</bibdata>

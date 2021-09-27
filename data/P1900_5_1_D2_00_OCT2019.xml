@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Policy Language for Dynamic Spectrum Access Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Policy Language for Dynamic Spectrum Access Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8892799</uri>
+  <docidentifier type="IEEE">IEEE P1900.5.1/D2.00, October 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6242-6</docidentifier>
+  <docnumber>P1900.5.1/D2.00, Oct2019</docnumber>
+  <date type="created">
+    <on>2019-11-05</on>
+  </date>
+  <date type="published">
+    <on>2019-11-06</on>
+  </date>
+  <date type="issued">
+    <on>2020-12-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A vendor-independent policy language for managing the functionality and behavior of dynamic spectrum access networks based on the language requirements defined in IEEE Std 1900.5&amp;amp;#8482;, IEEE Standard Policy Language Requirements and System Architectures for Dynamic Spectrum Access Systems, is defined in this standard.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Radio spectrum management</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>Description Logic</keyword>
+  <keyword>Dynamic Spectrum Access</keyword>
+  <keyword>First Order Logic</keyword>
+  <keyword>Horn-based rules</keyword>
+  <keyword>IEEE 1900.5.1&amp;amp;#8482;</keyword>
+  <keyword>IEEE 1900.5.2&amp;amp;#8482;</keyword>
+  <keyword>Policy Language</keyword>
+  <keyword>RIF Framework for Logic Dialect (RIFFLD)</keyword>
+  <keyword>rule interchange format (RIF)</keyword>
+  <keyword>Spectrum Consumption Modeling</keyword>
+  <keyword>Web Ontology Language (OWL 2)</keyword>
+</bibdata>

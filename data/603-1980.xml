@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Criteria for Safety Systems for Nuclear Power Generating Systems</title>
+  <title type="main" format="text/plain">IEEE Standard Criteria for Safety Systems for Nuclear Power Generating Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/30658</uri>
+  <docidentifier type="IEEE">IEEE Std 603-1980</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4390-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.82397</docidentifier>
+  <docnumber>603-1980</docnumber>
+  <date type="created">
+    <on>1980-11-24</on>
+  </date>
+  <date type="published">
+    <on>2016-03-11</on>
+  </date>
+  <date type="issued">
+    <on>1980-03-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Establishes minimum functional design criteria for the power, instrumentation, and control portions of nuclear power generating station safety systems. The criteria are to be applied to those systems required to protect the public health and safety by functioning to mitigate the consequences of design basis events. The intent is to promote safe practices for design and evaluation of safety system performance and reliability. Although the standard is limited to safety systems, many of the principles may have applicability to equipment provided for safe shutdown, post-accident monitoring display instrumentation, preventive interlock features, or any other systems, structures, or equipment related to safety.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 603-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Standards</keyword>
+  <keyword>criteria</keyword>
+  <keyword>safety</keyword>
+  <keyword>systems</keyword>
+  <keyword>nuclear</keyword>
+  <keyword>power</keyword>
+</bibdata>

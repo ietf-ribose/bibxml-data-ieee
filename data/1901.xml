@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Unapproved Draft Standard for Broadband over Power Line Networks: Medium Access Control and Physical Layer Specifications</title>
+  <title type="main" format="text/plain">IEEE Unapproved Draft Standard for Broadband over Power Line Networks: Medium Access Control and Physical Layer Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5429082</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1901/D3.00, Feb 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6196-9</docidentifier>
+  <docnumber>1901</docnumber>
+  <date type="created">
+    <on>2010-01-05</on>
+  </date>
+  <date type="published">
+    <on>2019-01-31</on>
+  </date>
+  <date type="issued">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Defined is a standard for high speed communication devices via electric power lines, so called Broadband over Power Line (BPL) devices. The standard uses transmission frequencies below 100 MHz. This standard is usable by all classes of BPL devices, including BPL devices used for the first-mile/last-mile connection to broadband services as well as BPL devices used in buildings for LANs, Smart Energy applications, transportation platforms (vehicle) applications, and other data distribution. This standard focuses on the balanced and efficient use of the power line communications channel by all classes of BPL devices, defining detailed mechanisms for coexistence and interoperability between different BPL devices, and ensuring that desired bandwidth and quality of service may be delivered. The standard addresses the necessary security questions to ensure the privacy of communications between users and allow the use of BPL for security sensitive services.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power line communications</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>BPL</keyword>
+  <keyword>MAC</keyword>
+  <keyword>PHY</keyword>
+  <keyword>PLC</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application, Operation, and Maintenance of High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application, Operation, and Maintenance of High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/646011</uri>
+  <docidentifier type="IEEE">IEEE Std C37.48-1997</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1074-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.85649</docidentifier>
+  <docnumber>C37.48-1997</docnumber>
+  <date type="created">
+    <on>1998-02-02</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1997-07-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information on the application, operation and maintenance of high-voltage fuses (above 1000 V), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories for use on ac distribution systems is provided. This guide is one of a series of complementary standards covering various types of high-voltage fuses and switches, so arranged that two of the standards apply to all devices while each of the other standards provide additional specifications for a particular device. For each device, IEEE Std C37.40-1993, IEEE Std C37.41- 1994, plus the standard covering that device, constitute a complete set of standards for each device. In addition, IEEE Std C37.48-1997 is an application, operation, and maintenance guide for all the devices.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.48-1987</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.48-2005 (Revision of IEEE Std C37.48-1997)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Fuses</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>current-limiting fuses</keyword>
+  <keyword>distribution class fuses</keyword>
+  <keyword>expulsion type fuses</keyword>
+  <keyword>fuse enclosure packages</keyword>
+  <keyword>fuses</keyword>
+  <keyword>power class fuses</keyword>
+</bibdata>

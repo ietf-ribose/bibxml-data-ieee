@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Shunt Power Capacitors</title>
+  <title type="main" format="text/plain">IEEE Standard for Shunt Power Capacitors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1042562</uri>
+  <docidentifier type="IEEE">IEEE Std 18-2002 (Revision of IEEE Std 18-1992)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3244-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2002.94135</docidentifier>
+  <docnumber>18-2002</docnumber>
+  <date type="created">
+    <on>2002-10-14</on>
+  </date>
+  <date type="published">
+    <on>2013-02-15</on>
+  </date>
+  <date type="issued">
+    <on>2002-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Capacitors rated 216 V or higher, 2.5 kvar or more, and designed for shunt connection toalternating-current transmission and distribution systems operating at a nominal frequency of 50 Hzor 60 Hz, within the guidelines of IEEE Std 1036-1992, are considered.</abstract>
+  <copyright>
+    <from>2002</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 18-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power capacitors</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Shunts (electrical)</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>capacitors</keyword>
+  <keyword>shunt connection</keyword>
+  <keyword>transmission and distribution systems</keyword>
+</bibdata>

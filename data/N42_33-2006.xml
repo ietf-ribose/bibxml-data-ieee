@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard for Portable Radiation Detection Instrumentation for Homeland Security</title>
+  <title type="main" format="text/plain">American National Standard for Portable Radiation Detection Instrumentation for Homeland Security</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4079477</uri>
+  <docidentifier type="IEEE">ANSI N42.33-2006 (Revision of ANSI N42.33-2003)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5279-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.299334</docidentifier>
+  <docnumber>N42.33-2006</docnumber>
+  <date type="created">
+    <on>2007-01-22</on>
+  </date>
+  <date type="published">
+    <on>2015-08-03</on>
+  </date>
+  <date type="issued">
+    <on>2006-08-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes design criteria, performance requirements and performance tests for portable radiation survey instruments.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI N42.33-2003</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI standards</keyword>
+  <keyword>Radiation detection</keyword>
+  <keyword>Detectors</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>design criteria</keyword>
+  <keyword>performance requirements</keyword>
+  <keyword>performance tests</keyword>
+  <keyword>portable radiation detectors</keyword>
+</bibdata>

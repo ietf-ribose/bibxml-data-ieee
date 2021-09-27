@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Unapproved IEEE Draft Standard for Medical Device Communications</title>
+  <title type="title-main" format="text/plain">Medical Device Data Language (MDDL) Virtual Medical Device, Specialized Capnometer</title>
+  <title type="main" format="text/plain">Unapproved IEEE Draft Standard for Medical Device Communications - Medical Device Data Language (MDDL) Virtual Medical Device, Specialized Capnometer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4040053</uri>
+  <docidentifier type="IEEE">IEEE Std P1073.1.3.11/D3.0</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2462-2</docidentifier>
+  <docnumber>P1073.1.3.11/D3.0</docnumber>
+  <date type="created">
+    <on>1999-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-04-20</on>
+  </date>
+  <date type="issued">
+    <on>1999</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard establishes a model for the implementation of the Capnometer Virtual Medical Device. It establishes a Design Model and specifies how this Model should be implemented. It also provides guidance concerning bandwidth requirements as well as how to specify conformance with this standard.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Biological system modeling</keyword>
+  <keyword>ISO</keyword>
+  <keyword>IEC</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>bedside</keyword>
+  <keyword>VMD</keyword>
+  <keyword>Channel</keyword>
+  <keyword>medical device</keyword>
+  <keyword>medical device communications</keyword>
+  <keyword>MIB</keyword>
+  <keyword>patient</keyword>
+  <keyword>Capnometer</keyword>
+  <keyword>Respiration Rate</keyword>
+</bibdata>

@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard</title>
+  <title type="title-main" format="text/plain">Health Informatics</title>
+  <title type="title-part" format="text/plain">Personal Health Device Communication -- Part 10404: Device Specialization -- Pulse Oximeter</title>
+  <title type="main" format="text/plain">IEEE Draft Standard - Health Informatics - Personal Health Device Communication -- Part 10404: Device Specialization -- Pulse Oximeter</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8645780</uri>
+  <docidentifier type="IEEE">IEEE P11073-10404/D6, February 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5572-5</docidentifier>
+  <docnumber>P11073-10404/D6, Feb 2019</docnumber>
+  <date type="created">
+    <on>2019-02-19</on>
+  </date>
+  <date type="published">
+    <on>2019-02-20</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 11073-10404-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Biomedical equipment</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Pulse oximetry</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Pulse oximeters</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+  <keyword>pulse oximeter</keyword>
+</bibdata>

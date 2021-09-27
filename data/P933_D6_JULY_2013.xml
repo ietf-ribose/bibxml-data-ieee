@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Definition of Reliability Program Plans for Nuclear Generating Stations and Other Nuclear Facilities</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Definition of Reliability Program Plans for Nuclear Generating Stations and Other Nuclear Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6562734</uri>
+  <docidentifier type="IEEE">IEEE P933/D6, July 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8534-7</docidentifier>
+  <docnumber>P933/D6, July 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-07-17</on>
+  </date>
+  <date type="issued">
+    <on>2013-12-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides guidelines for the definition of a reliability program at nuclear generating stations and other nuclear facilities. The document emphasizes reliability programs during the operating phase of such facilities; however, the general approach applies to all phases (e.g., design, construction, start-up, operating, and decommissioning) of the facility.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 933-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Reliability</keyword>
+  <keyword>problem analysis</keyword>
+  <keyword>reliability analysis</keyword>
+  <keyword>reliability program plan</keyword>
+</bibdata>

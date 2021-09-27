@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer SpecificationsAmendment: Media Access Control (MAC) service interface and management parameters to support time synchronization protocols</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer SpecificationsAmendment: Media Access Control (MAC) service interface and management parameters to support time synchronization protocols</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5623110</uri>
+  <docidentifier type="IEEE">IEEE Draft P802.3bf/D2.1, September 2010 (Draft Amendment to IEEE Std 802.3-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6336-9</docidentifier>
+  <docnumber>P802.3bf</docnumber>
+  <date type="created">
+    <on>2010-11-03</on>
+  </date>
+  <date type="issued">
+    <on>2010-11-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.32008 defines the Time Synchronization Service Interface(TSSI) to indicate when the SFD crosses the generic Medium Independent Interface (xMII), together with management objects indicating transmission latency between the MDI and xMII for the given PHY. Both features are required to support IEEE Std P802.1AS-201X.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>802.3bf</keyword>
+  <keyword>802.1AS</keyword>
+  <keyword>time synchronization protocol</keyword>
+</bibdata>

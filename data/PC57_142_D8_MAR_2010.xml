@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide to Describe the Occurrence and Mitigation of Switching Transients Induced by Transformer, Switching Device, and System Interaction</title>
+  <title type="main" format="text/plain">IEEE Draft Guide to Describe the Occurrence and Mitigation of Switching Transients Induced by Transformer, Switching Device, and System Interaction</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5445191</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std PC57.142/D8, Mar 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2744-9</docidentifier>
+  <docnumber>PC57.142/D8, Mar 2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide addresses the performance of transformers in the presence of oscillatory transients. Oscillatory transients are typically produced by the interaction of the switching device, transformer, load, and system. This Guide describes operating conditions that may produce oscillatory switching transient voltages damaging to the transformer insulation system. It discusses the electrical characteristics of the source, switching device, transformer, load and the nature of their transient interaction. It discusses several mitigation methods. Two generic examples are included. This Guide focuses on mechanical switching 6 devices and does not address semiconductor switching devices.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Switching circuits</keyword>
+  <keyword>Mitigation</keyword>
+  <keyword>oscillatory</keyword>
+  <keyword>snubber</keyword>
+  <keyword>switching device</keyword>
+  <keyword>transformer</keyword>
+  <keyword>transient</keyword>
+</bibdata>

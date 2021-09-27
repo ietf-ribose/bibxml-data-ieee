@@ -1,0 +1,83 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear Power Generating Stations and Other Nuclear Facilities - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8748228</uri>
+  <docidentifier type="IEEE">IEEE Std 572-2019 (Revision of IEEE Std 572-2006) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5934-1</docidentifier>
+  <docnumber>572-2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-06-27</on>
+  </date>
+  <date type="issued">
+    <on>2019-02-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Basic requirements, direction, and methods for qualifying Class lE connection assemblies for service in nuclear power generating stations and otherre nuclear facilities are provided in this standard. These requirements include connectors, terminations, and environmental seals in combination with related cables or wires as assemblies. Qualification of cable with connectors to this standard does not replace qualification to IEEE Std 383(TM)-2015. This standard does not apply to containment electric penetrations, fire stops, in-line splices, components for service within the reactor vessel, or fiber optic connectors. (Refer to IEEE Std 1682(TM)-2011.) The qualification requirements in this standard, when met, demonstrate and document the ability of the equipment to perform safety function(s) under applicable service conditions (including design basis events) reducing the risks of common cause equipment failures. This standard does not provide environmental stress levels and performance requirements.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 572-2006 (Revision of IEEE Std 572-1985)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Assembly</keyword>
+  <keyword>Aging</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Radiation safety</keyword>
+  <keyword>Radiation monitoring</keyword>
+  <keyword>age</keyword>
+  <keyword>age conditioning</keyword>
+  <keyword>aging</keyword>
+  <keyword>baseline parameter</keyword>
+  <keyword>cable</keyword>
+  <keyword>cable assembly</keyword>
+  <keyword>condition monitoring</keyword>
+  <keyword>connection assemblies</keyword>
+  <keyword>connector</keyword>
+  <keyword>equipment qualification</keyword>
+  <keyword>generic qualification</keyword>
+  <keyword>harsh environment</keyword>
+  <keyword>IEEE 572</keyword>
+  <keyword>interface</keyword>
+  <keyword>margin</keyword>
+  <keyword>mild environment</keyword>
+  <keyword>nuclear</keyword>
+  <keyword>qualification methods</keyword>
+  <keyword>qualified life</keyword>
+  <keyword>radiation</keyword>
+  <keyword>safety-related function</keyword>
+  <keyword>significant aging mechanism</keyword>
+  <keyword>termination</keyword>
+  <keyword>test plan</keyword>
+  <keyword>test sequence</keyword>
+  <keyword>type testing</keyword>
+</bibdata>

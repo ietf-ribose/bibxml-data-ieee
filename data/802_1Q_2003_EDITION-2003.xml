@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1203093</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1Q, 2003 Edition (Incorporates IEEE Std 802.1Q-1998, IEEE Std 802.1u-2001, IEEE Std 802.1v-2001, and IEEE Std 802.1s-2002)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3663-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94280</docidentifier>
+  <docnumber>802.1Q, 2003 Edition-2003</docnumber>
+  <date type="created">
+    <on>2003-05-07</on>
+  </date>
+  <date type="published">
+    <on>2016-12-14</on>
+  </date>
+  <date type="issued">
+    <on>2003</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines an architecture for Virtual Bridged LANs, the services provided in Virtual Bridged LANs, and the protocols and algorithms involved in the provision of those services. (Incorporates IEEE Std 802.1Q-1998, IEEE Std 802.1u&amp;amp;#8482;-2001, IEEE Std 802.1v&amp;amp;#8482;-2001, and IEEE Std 802.1s&amp;amp;#8482;-2002)</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.1D, 1998 Edition</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Local area networks</keyword>
+  <keyword>Access protocols</keyword>
+  <keyword>Communication standards</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridge management</keyword>
+  <keyword>media access control bridges</keyword>
+  <keyword>virtual LANs</keyword>
+  <keyword>IEEE 802.1</keyword>
+  <keyword>IEEE 802.1u</keyword>
+  <keyword>IEEE 802.1v</keyword>
+  <keyword>IEEE 802.1s</keyword>
+  <keyword>IEEE 802.1Q</keyword>
+</bibdata>

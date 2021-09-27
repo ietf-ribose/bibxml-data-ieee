@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for High Performance Serial Bus</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for High Performance Serial Bus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4497216</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1394/D2, Apr 2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2928-3</docidentifier>
+  <docnumber>P1394/D2, Apr 2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides specifications for a high-speed serial bus which supports both asynchronous and isochronous communication and integrates well with most IEEE standard 32-bit and 64-bit parallel buses. It is intended to provide a low-cost interconnect between cards on the same backplane, cards on other backplanes, and external peripherals. Interfaces to longer-distance transmission media (such as UTP, optical fiber, and POF) allow the interconnection to be extended throughout a local network. This standard follows the IEEE Std 1212&amp;amp;#8482; -2001 Command and Status Register (CSR) architecture.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Standards</keyword>
+  <keyword>IEEE activities</keyword>
+  <keyword>Permission</keyword>
+  <keyword>Intellectual property</keyword>
+  <keyword>Standardization</keyword>
+</bibdata>

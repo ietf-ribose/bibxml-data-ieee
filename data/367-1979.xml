@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
+  <title type="main" format="text/plain">IEEE Guide for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7409903</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 367-1979</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0316-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.7409903</docidentifier>
+  <docnumber>367-1979</docnumber>
+  <date type="updated">
+    <on>2016-03-18</on>
+  </date>
+  <date type="created">
+    <on>1979-12-18</on>
+  </date>
+  <date type="published">
+    <on>2016-02-17</on>
+  </date>
+  <date type="issued">
+    <on>1978-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Difficulties are experienced by telecommunication and protective relay engineers in determining the maximum power station ground potential rise, or induced voltages, or both. Suitably rated protective devices are required for personnel safety and for the protection and continuity of service of wire line telecommunication facilities entering electrical power stations, or otherwise exposed to the influence of electrical power circuits. This guide provides guidance for the calculation of these maximum voltages and for the acceptance of values lower than maximum, as well as the time requirements of communication channels where protective relaying is involved.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 367-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Electric potential</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Fault currents</keyword>
+  <keyword>Power generation</keyword>
+  <keyword>Circuit faults</keyword>
+  <keyword>Communications technology</keyword>
+  <keyword>Electrical resistance measurement</keyword>
+  <keyword>ANSI Standards</keyword>
+</bibdata>

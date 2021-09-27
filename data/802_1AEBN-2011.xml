@@ -1,0 +1,75 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Security Amendment 1: Galois Counter Mode--Advanced Encryption Standard-- 256 (GCM-AES-256) Cipher Suite</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Security Amendment 1: Galois Counter Mode--Advanced Encryption Standard-- 256 (GCM-AES-256) Cipher Suite</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6047536</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AEbn-2011 (Amendment to IEEE Std 802.1AE-2006)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6735-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6047536</docidentifier>
+  <docnumber>802.1AEbn-2011</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011-10-14</on>
+  </date>
+  <date type="published">
+    <on>2012-08-07</on>
+  </date>
+  <date type="issued">
+    <on>2011-09-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AE-2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Security</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>authenticity</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>data origin integrity</keyword>
+  <keyword>IEEE 802.1AEbn</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>port based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>transparent bridging</keyword>
+</bibdata>

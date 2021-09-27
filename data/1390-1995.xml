@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Utility Telemetry Service Architecture for Switched Telephone Network</title>
+  <title type="main" format="text/plain">IEEE Standard for Utility Telemetry Service Architecture for Switched Telephone Network</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499702</uri>
+  <docidentifier type="IEEE">IEEE Std 1390-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0572-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80833</docidentifier>
+  <docnumber>1390-1995</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="published">
+    <on>2014-09-15</on>
+  </date>
+  <date type="issued">
+    <on>1995-09-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Withdrawn Standard. Withdrawn Date: Feb 06, 2006. This standard describes a utility telemetry service architecture operated over the telephone network. The architecture described is a basic transport architecture capable of supporting many different applications. The text is described in terms of a utility meter reading application, but any enhanced service provider (ESP) communication can be transported. Telemetry calls may be initiated by either the utility/service provider (outbound) or the telemetry interface unit (TIU)/CPE (inbound) on the end user's premise.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Power system measurements</keyword>
+  <keyword>Telemetry</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Telephony</keyword>
+  <keyword>automatic meter</keyword>
+  <keyword>meter reading</keyword>
+  <keyword>telemetry</keyword>
+  <keyword>energy management</keyword>
+  <keyword>enhanced service</keyword>
+  <keyword>service provider</keyword>
+  <keyword>meter reading</keyword>
+  <keyword>telephone network</keyword>
+  <keyword>utility communication</keyword>
+</bibdata>

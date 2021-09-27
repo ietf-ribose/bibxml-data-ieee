@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for IEEE Information Technology</title>
+  <title type="title-main" format="text/plain">Portable Operating System Interface (POSIX(TM))</title>
+  <title type="main" format="text/plain">IEEE Standard for IEEE Information Technology - Portable Operating System Interface (POSIX(TM))</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/974398</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.1-2001 (Revision of IEEE Std 1003.1-1996 and IEEE Std 1003.2-1992)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3047-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93364</docidentifier>
+  <docnumber>1003.1-2001</docnumber>
+  <date type="created">
+    <on>2001-12-06</on>
+  </date>
+  <date type="published">
+    <on>2015-10-13</on>
+  </date>
+  <date type="issued">
+    <on>2001-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines a standard operating system interface and environment, including a command interpreter (or "shell"), and common utility programs to support applications portability at the source code level. It is the single common revision to IEEE Std 1003.1-1996, IEEE Std 1003.2-1992, and the Base Specifications of The Open Group Single UNIX(TM)† Specification, Version 2. This standard is intended to be used by both applications developers and system implementors and comprises four major components (each in an associated volume)</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1003.1-2008 (Revision of IEEE Std 1003.1-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>application program interface (API)</keyword>
+  <keyword>argument</keyword>
+  <keyword>asynchronous</keyword>
+  <keyword>basic regular expression (BRE)</keyword>
+  <keyword>batch job</keyword>
+  <keyword>batch system</keyword>
+  <keyword>built-in utility</keyword>
+  <keyword>byte</keyword>
+  <keyword>child</keyword>
+  <keyword>command language interpreter</keyword>
+  <keyword>CPU</keyword>
+  <keyword>extended regular expression (ERE)</keyword>
+  <keyword>FIFO</keyword>
+  <keyword>file access control mechanism</keyword>
+</bibdata>

@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC/IEEE International</title>
+  <title type="title-main" format="text/plain">Standard Digital Interface for Programmable Instrumentation</title>
+  <title type="title-part" format="text/plain">Part 2: Codes, formats, protocols and common commands</title>
+  <title type="main" format="text/plain">IEC/IEEE International - Standard Digital Interface for Programmable Instrumentation - Part 2: Codes, formats, protocols and common commands</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1352831</uri>
+  <docidentifier type="IEEE">IEEE 488.2 IEC 60488-2 First edition 2004-05</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4100-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.95390</docidentifier>
+  <docnumber>60488-2-2004</docnumber>
+  <date type="created">
+    <on>2004-05-15</on>
+  </date>
+  <date type="published">
+    <on>2019-10-31</on>
+  </date>
+  <date type="issued">
+    <on>2004</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A set of codes and formats to be used by devices connected via the IEEE 488.1 bus is specified. This standard also defines communication protocols that are necessary to effect application-independent and device-dependent message exchanges, and further defines common commands and characteristics useful in instrument system applications.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEC Standards</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>IEC</keyword>
+  <keyword>Customer services</keyword>
+  <keyword>Syntactics</keyword>
+  <keyword>Registers</keyword>
+  <keyword>IEEE Std 60488.3-1992</keyword>
+  <keyword>60488.3</keyword>
+  <keyword>488.2 codes</keyword>
+  <keyword>communication protocols</keyword>
+  <keyword>commands</keyword>
+  <keyword>deminitions</keyword>
+  <keyword>instrument system applications</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Bar Coding for Distribution Transformers and Step-Voltage Regulators</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Bar Coding for Distribution Transformers and Step-Voltage Regulators</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6507231</uri>
+  <docidentifier type="IEEE">IEEE PC57.12.35/D4, April 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8400-5</docidentifier>
+  <docnumber>PC57.12.35/D4, Apr 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-04-23</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Bar code label requirements for specific types of distribution transformers and stepvoltageregulators are covered in this standard. Data content for temporary and permanent barcode labeling is described as well as bar code label print quality and durability requirements.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.35-2007 (Revision of IEEE Std C57.12.35-1996) - Redline</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Regulators</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Bar codes</keyword>
+  <keyword>bar code label</keyword>
+  <keyword>distribution transformer</keyword>
+  <keyword>step-voltage regulator</keyword>
+</bibdata>

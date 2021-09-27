@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Methods for Measuring Transmission Performance of Analog and Digital Telephone Sets</title>
+  <title type="main" format="text/plain">IEEE Standard Methods for Measuring Transmission Performance of Analog and Digital Telephone Sets</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/211096</uri>
+  <docidentifier type="IEEE">IEEE Std 269-1992</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3736-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.114392</docidentifier>
+  <docnumber>269-1992</docnumber>
+  <date type="created">
+    <on>1993-01-21</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1992-06-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 269-2002. Practical methods for measuring the transmission characteristics of both digital and conventional to wire analog telephone sets by means of objective measurements on a test connection are described. The test results thus obtained may be used as a means of evaluating or specifying the transmission performance of a telephone set on a standardized basis. The measurements are applicable to telephone sets incorporating carbon or linear transmitters. Measurements are over the frequency range most useful for speech: 100-5000 Hz. The test methods are not intended to be applicable to special devices, such as noise-exclusion transmitters, distant-talking transmitters, insert-type receivers, or noise-exclusion receivers equipped with large ear pads.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 269-1983 (Revision of IEEE Std 269-1971)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 269-2002 (Revision of IEEE Std 269-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Communication standards</keyword>
+  <keyword>Telephone sets</keyword>
+  <keyword>performance</keyword>
+  <keyword>analog</keyword>
+  <keyword>telephone</keyword>
+  <keyword>sets</keyword>
+  <keyword>digital</keyword>
+  <keyword>voice</keyword>
+  <keyword>transmission</keyword>
+  <keyword>Voice transmission performance</keyword>
+  <keyword>Telephony</keyword>
+</bibdata>

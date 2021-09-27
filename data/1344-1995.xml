@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Synchrophasers for Power Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Synchrophasers for Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/943067</uri>
+  <docidentifier type="IEEE">IEEE Std 1344-1995(R2001)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0909-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.93278</docidentifier>
+  <docnumber>1344-1995</docnumber>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="issued">
+    <on>1995-12-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The synchronizing input and the data output for phasor measurements made by substation computer systems is discussed. Processes involved in computing phasors from sampled data, data-to-phasor conversions, and formats for timing imputs and phasor data output from a phasor measurement unit (PMU) are also addressed.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.118-2005 (Revision of IEEE Std 1344-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.118-2005 (Revision of IEEE Std 1344-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power system measurements</keyword>
+</bibdata>

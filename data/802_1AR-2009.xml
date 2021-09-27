@@ -1,0 +1,74 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and metropolitan area networks</title>
+  <title type="title-main" format="text/plain">Secure Device Identity</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks - Secure Device Identity</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5367679</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AR-2009</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6141-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5367679</docidentifier>
+  <docnumber>802.1AR-2009</docnumber>
+  <date type="updated">
+    <on>2014-03-21</on>
+  </date>
+  <date type="created">
+    <on>2009-12-22</on>
+  </date>
+  <date type="published">
+    <on>2014-03-06</on>
+  </date>
+  <date type="issued">
+    <on>2009-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A secure device identifier (DevID) is cryptographically bound to a device and supports authentication of the devices identity. Locally significant identities can be securely associated with an initial manufacturer-provisioned DevID and used in provisioning and authentication protocols toallow a network administrator to establish the trustworthiness of a device and select appropriate policies for transmission and reception of data and control protocols to and from the device.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A secure device identifier (DevID) is cryptographically bound to a device and supports authentication of the device’s identity. Locally significant identities can be securely associated with an initial manufacturer-provisioned DevID and used in provisioning and authentication protocols to allow a network administrator to establish the trustworthiness of a device and select appropriate policies for transmission and reception of data and control protocols to and from the device.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AR-2018 (Revision of IEEE Std 802.1AR-2009)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Object recognition</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>802.1AR-2009</keyword>
+  <keyword>access control</keyword>
+  <keyword>authentication</keyword>
+  <keyword>authorization</keyword>
+  <keyword>certificate</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>PKI</keyword>
+  <keyword>port-based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>secure device identifier</keyword>
+  <keyword>security</keyword>
+  <keyword>X.509</keyword>
+  <keyword>access control, authentication, authorization, certificate, LANs, local area networks,</keyword>
+  <keyword>MAC security, MANs, metropolitan area networks, PKI, port-based network access control, secure</keyword>
+  <keyword>association, secure device identifier, security, X.509</keyword>
+</bibdata>

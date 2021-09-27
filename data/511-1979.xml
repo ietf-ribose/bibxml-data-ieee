@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard on Video Signal Transmission Measurement of Linear Waveform Distortion</title>
+  <title type="main" format="text/plain">IEEE Standard on Video Signal Transmission Measurement of Linear Waveform Distortion</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19501</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 511-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4223-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.120303</docidentifier>
+  <docnumber>511-1979</docnumber>
+  <date type="created">
+    <on>1979-12-11</on>
+  </date>
+  <date type="published">
+    <on>2016-03-04</on>
+  </date>
+  <date type="issued">
+    <on>1978-12-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes methods for measuring the linear waveform distortions of TV video signals, that is, distortions which are caused by amplitude-independent (linear) transmission characteristics of television equipment and facilities. The primary application of this standard is for routine operational and maintenance tests, where rapid interpretation of test results is desirable. The techniques described here may also be applicable to laboratory measurements, and detailed mainteance procedures.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Measurement standards</keyword>
+  <keyword>video</keyword>
+  <keyword>signal</keyword>
+  <keyword>transmission</keyword>
+  <keyword>waveform</keyword>
+  <keyword>distortion</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Standard Specification Format Guide and Test Procedure for Single-Axis Interferometric Fiber Optic Gyros</title>
+  <title type="title-main" format="text/plain">Corrigendum 1: Figure 1 and Clauses 5.3.4, 8.3, 12.11.4.3.2, 12.11.4.3.3, 12.11.4.3.4, 12.12.3.1, 12.12.4.1</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard Specification Format Guide and Test Procedure for Single-Axis Interferometric Fiber Optic Gyros - Corrigendum 1: Figure 1 and Clauses 5.3.4, 8.3, 12.11.4.3.2, 12.11.4.3.3, 12.11.4.3.4, 12.12.3.1, 12.12.4.1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7511641</uri>
+  <docidentifier type="IEEE">IEEE P952/Cor 1/D9, June 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2171-3</docidentifier>
+  <docnumber>P952/Cor 1/D9, Jun 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-07-13</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Part I (clauses 3 through 8) of this standard is a specification format guide for the preparation of a single-axis interferometric fiber optic gyro (IFOG) specification. Part II (clauses 9 through 12) is a compilation of recommended procedures for testing an IFOG. These procedures, including test conditions to be considered, are derived from those currently in use.For a specific application, the test procedure should reflect the requirements of the specification;therefore, not all tests outlined in this standard need be included, nor are additional testsprecluded.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 952-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Optical interferometry</keyword>
+  <keyword>Optical fibers</keyword>
+  <keyword>Gyroscopes</keyword>
+  <keyword>Interferometry</keyword>
+  <keyword>fiber gyro</keyword>
+  <keyword>fiber optic gyro</keyword>
+  <keyword>gyro</keyword>
+  <keyword>gyroscope</keyword>
+  <keyword>IFOG</keyword>
+  <keyword>inertial instrument</keyword>
+  <keyword>inertial sensor</keyword>
+  <keyword>interferometric fiber optic gyro</keyword>
+  <keyword>optical gyro</keyword>
+  <keyword>Sagnac effect</keyword>
+  <keyword>Sagnac gyro.</keyword>
+</bibdata>

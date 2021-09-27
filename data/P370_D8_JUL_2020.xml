@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Electrical Characterization of Printed Circuit Board and Related Interconnects at Frequencies up to 50GHz.</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Electrical Characterization of Printed Circuit Board and Related Interconnects at Frequencies up to 50GHz.</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9134991</uri>
+  <docidentifier type="IEEE">P370/D8, July 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6837-4</docidentifier>
+  <docnumber>P370/D8, Jul 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-07-07</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides standard and recommended practices for ensuring the quality of measured data for high frequency electrical interconnect at frequencies up to 50 GHz. This might include but is not limited to: recommended design of test fixtures, methods and processes for ensuring the accuracy and consistency of measured data for signals with frequency content up to 50 GHz. The standard and general practice should be applicable for frequencies higher than 50 GHz as well. The methods and techniques contained herein have been validated only to 50 GHz as of this writing.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Printed circuits</keyword>
+  <keyword>Embedded systems</keyword>
+  <keyword>Electrical measurement</keyword>
+  <keyword>Passivity</keyword>
+  <keyword>verification</keyword>
+  <keyword>consistency tests</keyword>
+  <keyword>de-embedding electrical measurement</keyword>
+  <keyword>S-parameters</keyword>
+  <keyword>interconnect</keyword>
+  <keyword>fixture</keyword>
+  <keyword>passivity</keyword>
+  <keyword>causality</keyword>
+  <keyword>reciprocity</keyword>
+</bibdata>

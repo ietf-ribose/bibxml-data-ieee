@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Interrupter Switches for Alternating Current, Rated Above 1,000 Volts</title>
+  <title type="main" format="text/plain">IEEE Standard for Interrupter Switches for Alternating Current, Rated Above 1,000 Volts</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/720564</uri>
+  <docidentifier type="IEEE">IEEE Std 1247-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1483-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.88279</docidentifier>
+  <docnumber>1247-1998</docnumber>
+  <date type="created">
+    <on>1998-10-14</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998-07-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The basic requirements of interrupter switches used indoors, outdoors, and in enclosures are covered. This standard does not apply to load-break separable insulated connectors.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1247-2005 (Revision of IEEE Std 1247-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Interrupters</keyword>
+  <keyword>enclosed switch</keyword>
+  <keyword>indoor switch</keyword>
+  <keyword>interrupter switch</keyword>
+  <keyword>outdoor switch</keyword>
+  <keyword>switching ability</keyword>
+  <keyword>switching current</keyword>
+  <keyword>switching rating</keyword>
+</bibdata>

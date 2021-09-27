@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Liquid-Immersed Transformers Through-Fault-Current Duration</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Liquid-Immersed Transformers Through-Fault-Current Duration</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8000440</uri>
+  <docidentifier type="IEEE">IEEE PC57.109/D3.0, June 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4233-6</docidentifier>
+  <docnumber>PC57.109/D3.0, Jun 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-08-02</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommendations believed essential for the application of overcurrent protective devices applied to limit the exposure time of transformers to short circuit current are set forth. Transformer coordination curves are presented for four categories of transformers. There is no intent to imply overload capability.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.109-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Fault diagnosis</keyword>
+  <keyword>Liquid cooling</keyword>
+  <keyword>Immersion cooling</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Assembly</keyword>
+  <keyword>Gas insulation</keyword>
+  <keyword>IEEE C57.109&amp;amp;amp;#8482;</keyword>
+  <keyword>liquid-immersed transformer</keyword>
+  <keyword>transformer</keyword>
+</bibdata>

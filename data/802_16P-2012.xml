@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Air Interface for Broadband Wireless Access Systems--Amendment 1: Enhancements to Support Machine-to-Machine Applications</title>
+  <title type="main" format="text/plain">IEEE Standard for Air Interface for Broadband Wireless Access Systems--Amendment 1: Enhancements to Support Machine-to-Machine Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6327306</uri>
+  <docidentifier type="IEEE">IEEE Std 802.16p-2012 (Amendment to IEEE Std 802.16-2012)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7319-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6327306</docidentifier>
+  <docnumber>802.16p-2012</docnumber>
+  <date type="updated">
+    <on>2012-12-17</on>
+  </date>
+  <date type="created">
+    <on>2012-10-08</on>
+  </date>
+  <date type="published">
+    <on>2012-10-08</on>
+  </date>
+  <date type="issued">
+    <on>2012-08-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Enhancements to the WirelessMAN-OFDMA Air Interface, an air interface designated as &amp;amp;#x201C;IMT-2000&amp;amp;#x201D; by the International Telecommunication Union-Radiocommunication Sector (ITU-R), are specified by this amendment. The enhancements provide improved support for machine-to-machine applications. Keywords: amendment, broadband wireless access (BWA), IEEE 802.16, IEEE 802.16p, IMT-2000 radio interface, machine to machine (M2M), mobile broadband, orthogonal frequency-division multiple access (OFDMA), WirelessMAN-OFDMA Air Interface, wireless metropolitan area networks</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Enhancements to the Wireless MAN-OFDMA Air Interface, an air interface designated as "IMT-2000" by the International Telecommunication Union-Radio communication Sector (ITU-R), are specified by this amendment. The enhancements provide improved support for machine-to-machine applications.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16-2009 (Revision of IEEE Std 802.16-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>IEEE 802.16 Standard</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>Interface states</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>amendment</keyword>
+  <keyword>broadband wireless access (BWA)</keyword>
+  <keyword>IEEE 802.16</keyword>
+  <keyword>IEEE 802.16p</keyword>
+  <keyword>IMT-2000 radio interface</keyword>
+  <keyword>machine to machine (M2M)</keyword>
+  <keyword>mobile broadband</keyword>
+  <keyword>orthogonal frequency-division multiple access (OFDMA)</keyword>
+  <keyword>WirelessMAN-OFDMA Air Interface</keyword>
+  <keyword>wireless metropolitan area networks</keyword>
+</bibdata>

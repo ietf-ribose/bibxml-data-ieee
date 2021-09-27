@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC 62530 Ed. 1 (IEEE Std 1800(TM)-2005): Standard for SystemVerilog</title>
+  <title type="title-main" format="text/plain">Unified Hardware Design, Specification, and Verification Language</title>
+  <title type="main" format="text/plain">IEC 62530 Ed. 1 (IEEE Std 1800(TM)-2005): Standard for SystemVerilog - Unified Hardware Design, Specification, and Verification Language</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4410440</uri>
+  <docidentifier type="IEEE">IEC 62530:2007 (E)</docidentifier>
+  <docidentifier type="ISBN">9-7807-3815-7269</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.4410440</docidentifier>
+  <docnumber>62530-2007</docnumber>
+  <date type="created">
+    <on>2007-12-09</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2007</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides a set of extensions to the IEEE 1364&amp;amp;#8482; Verilog&amp;amp;#174; hardware description language (HDL) to aid in the creation and verification of abstract architectural level models. It also includes design specification methods, embedded assertions language, testbench language including coverage and an assertions application programming interface (API), and a direct programming interface (DPI). This standard enables a productivity boost in design and validation and covers design, simulation, validation, and formal assertion-based verification flows.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEC Standards</keyword>
+  <keyword>IEC</keyword>
+  <keyword>Syntactics</keyword>
+  <keyword>Arrays</keyword>
+  <keyword>Casting</keyword>
+  <keyword>Hardware</keyword>
+  <keyword>assertions</keyword>
+  <keyword>design automation</keyword>
+  <keyword>design verification</keyword>
+  <keyword>hardware description language</keyword>
+  <keyword>HDL</keyword>
+  <keyword>PLI</keyword>
+  <keyword>programming language interface</keyword>
+  <keyword>SystemVerilog</keyword>
+  <keyword>Verilog</keyword>
+  <keyword>Verilog programming interface</keyword>
+  <keyword>VPI</keyword>
+</bibdata>

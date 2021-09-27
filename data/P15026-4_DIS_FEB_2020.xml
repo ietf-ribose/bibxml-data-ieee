@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE Draft International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering--Systems and software assurance -- Part 4: Assurance in the life cycle</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Draft International Standard - Systems and software engineering--Systems and software assurance -- Part 4: Assurance in the life cycle</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9046310</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE P15026-4/DIS, February 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6584-7</docidentifier>
+  <docnumber>P15026-4/DIS, Feb 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-03-24</on>
+  </date>
+  <date type="issued">
+    <on>2021-03-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides guidance and recommendations for assurance of a selected claim about the system-of-interest by achieving the claim and showing the achievement. The guidance and recommendations are given in a System Assurance process view on top of ISO/IEC/IEEE 15288 and a Software Assurance process view on top of ISO/IEC/IEEE 12207.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+</bibdata>

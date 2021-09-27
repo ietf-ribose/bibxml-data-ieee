@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Software and systems engineering -- Developing user documentation in an agile environment</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Software and systems engineering -- Developing user documentation in an agile environment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5759576</uri>
+  <docidentifier type="IEEE">IEEE P26515/D1, April 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6641-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5759576</docidentifier>
+  <docnumber>P26515/D1, Apr 2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-04-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies procedures for managing user documentation throughout the software life cycle. It applies to people or organizations producing suites of documentation, to those undertaking a single documentation project, and to documentation produced internally, as well as to documentation contracted to outside service organizations. It provides an overview of the software documentation and information management processes, and also presents aspects of portfolio planning and content management that user documentation managers apply. It covers management activities in starting a project, including setting up procedures and specifications, establishing infrastructure, and building a team. It includes examples of roles needed on a user documentation team. It addresses measurements and estimates needed for management control, and the use of supporting processes such as change management, schedule and cost control, resource management, and quality management and process improvement. It includes requirements for key documents produced for user documentation management, including documentation plans and documentation management plans. The standard is independent of the software tools that may be used to produce or manage documentation, and applies to both printed documentation and on-screen documentation. Much of its guidance is applicable to user documentation for systems including hardware as well as software</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>software user documentation</keyword>
+  <keyword>information management</keyword>
+  <keyword>documentation management</keyword>
+  <keyword>documentation management plan</keyword>
+</bibdata>

@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Terrestrial Photovoltaic Power System Safety</title>
+  <title type="main" format="text/plain">IEEE Guide for Terrestrial Photovoltaic Power System Safety</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/752491</uri>
+  <docidentifier type="IEEE">IEEE Std 1374-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3967-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.88280</docidentifier>
+  <docnumber>1374-1998</docnumber>
+  <date type="created">
+    <on>1998-10-02</on>
+  </date>
+  <date type="published">
+    <on>2018-08-22</on>
+  </date>
+  <date type="issued">
+    <on>1998-04-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The design, equipment applicability, and hardware installation of electrically safe, stand- alone, and grid-connected PV power systems operating at less than 50 kW output are addressed. Storage batteries and other generating equipment are discussed briefly.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Photovoltaic power systems</keyword>
+  <keyword>ampacity</keyword>
+  <keyword>cable types</keyword>
+  <keyword>PV system</keyword>
+</bibdata>

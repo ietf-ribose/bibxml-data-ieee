@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice -- Adoption of IEC 61000-4-15:2010, Electromagnetic compatibility (EMC)---Testing and measurement techniques---Flickermeter---Functional and design specifications</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice -- Adoption of IEC 61000-4-15:2010, Electromagnetic compatibility (EMC)---Testing and measurement techniques---Flickermeter---Functional and design specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5937014</uri>
+  <docidentifier type="IEEE">IEEE IEEE P1453/D3, June 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6767-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5937014</docidentifier>
+  <docnumber>IEEE P1453/D3, June 2011</docnumber>
+  <date type="created">
+    <on>2011-01-01</on>
+  </date>
+  <date type="published">
+    <on>2019-01-29</on>
+  </date>
+  <date type="issued">
+    <on>2011</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard adopts IEC 61000-4-15:2010, which gives a functional and design specification for flicker measuring apparatus intended to indicate the correct flicker perception level for all practical voltage fluctuation waveforms. Information is presented to enable such an instrument to be constructed. A method is given for the evaluation of flicker severity on the basis of the output of flickermeters complying with this standard. The object of IEC 61000-4-15:2010 is to provide basic information for the design and the instrumentation of an analogue or digital flicker measuring apparatus. It does not give tolerance limit values of flicker severity.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Design methodology</keyword>
+  <keyword>flicker</keyword>
+  <keyword>voltage fluctuation</keyword>
+</bibdata>

@@ -1,0 +1,153 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology&amp;amp;#8212;Telecommunications and information exchange between systems Local and metropolitan area networks&amp;amp;#8212;Specific requirements</title>
+  <title type="title-part" format="text/plain">Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology&amp;amp;#8212;Telecommunications and information exchange between systems Local and metropolitan area networks&amp;amp;#8212;Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7786995</uri>
+  <docidentifier type="IEEE">IEEE Std 802.11-2016 (Revision of IEEE Std 802.11-2012)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3645-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7786995</docidentifier>
+  <docnumber>802.11-2016</docnumber>
+  <date type="created">
+    <on>2016-12-14</on>
+  </date>
+  <date type="published">
+    <on>2016-12-16</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Technical corrections and clarifications to IEEE Std 802.11 for wireless local area networks (WLANs) as well as enhancements to the existing medium access control (MAC) and physical layer (PHY) functions are specified in this revision. Amendments 1 to 5 published in 2012 and 2013 have also been incorporated into this revision.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2020 (Revision of IEEE Std 802.11-2016)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2012 (Revision of IEEE Std 802.11-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Dynamic scheduling</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>White spaces</keyword>
+  <keyword>Array signal processing</keyword>
+  <keyword>2.4 GHz</keyword>
+  <keyword>256-QAM</keyword>
+  <keyword>3650 MHz</keyword>
+  <keyword>4.9 GHz</keyword>
+  <keyword>5 GHz</keyword>
+  <keyword>5.9 GHz</keyword>
+  <keyword>60 GHz</keyword>
+  <keyword>advanced encryption standard</keyword>
+  <keyword>AES</keyword>
+  <keyword>audio</keyword>
+  <keyword>beamforming</keyword>
+  <keyword>carrier sense multiple access/collision avoidance</keyword>
+  <keyword>CCMP</keyword>
+  <keyword>channel switching</keyword>
+  <keyword>clustering</keyword>
+  <keyword>contention based access period</keyword>
+  <keyword>Counter mode with Cipherblock chaining Message authentication code Protocol</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>CSMA/CA</keyword>
+  <keyword>DFS</keyword>
+  <keyword>direct link</keyword>
+  <keyword>directional multi-gigabit</keyword>
+  <keyword>dynamic allocation of service period</keyword>
+  <keyword>dynamic extension of service period</keyword>
+  <keyword>dynamic frequency selection</keyword>
+  <keyword>dynamic truncation of service period</keyword>
+  <keyword>E911</keyword>
+  <keyword>EDCA</keyword>
+  <keyword>emergency alert system</keyword>
+  <keyword>emergency services</keyword>
+  <keyword>fast session transfer</keyword>
+  <keyword>forwarding</keyword>
+  <keyword>GCMP</keyword>
+  <keyword>generic advertisement service</keyword>
+  <keyword>high throughput</keyword>
+  <keyword>IEEE 802.11&amp;amp;#8482;</keyword>
+  <keyword>international roaming</keyword>
+  <keyword>interworking</keyword>
+  <keyword>interworking with external networks</keyword>
+  <keyword>LAN</keyword>
+  <keyword>local area network</keyword>
+  <keyword>MAC</keyword>
+  <keyword>management</keyword>
+  <keyword>measurement</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>media-independent handover</keyword>
+  <keyword>medium access controller</keyword>
+  <keyword>mesh</keyword>
+  <keyword>MIH</keyword>
+  <keyword>millimeter-wave</keyword>
+  <keyword>MIMO</keyword>
+  <keyword>MIMO-OFDM</keyword>
+  <keyword>multi-band operation</keyword>
+  <keyword>multi-hop</keyword>
+  <keyword>multi-user MIMO</keyword>
+  <keyword>multiple input multiple output</keyword>
+  <keyword>network advertisement</keyword>
+  <keyword>network discovery</keyword>
+  <keyword>network management</keyword>
+  <keyword>network selection</keyword>
+  <keyword>noncontiguous frequency segments</keyword>
+  <keyword>OCB</keyword>
+  <keyword>path-selection</keyword>
+  <keyword>personal basic service set</keyword>
+  <keyword>PHY</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>power saving</keyword>
+  <keyword>QoS</keyword>
+  <keyword>quality of service</keyword>
+  <keyword>quality-of-service management frame</keyword>
+  <keyword>radio</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>radio resource</keyword>
+  <keyword>radio management</keyword>
+  <keyword>relay operation</keyword>
+  <keyword>spatial sharing</keyword>
+  <keyword>SSPN</keyword>
+  <keyword>subscriber service provider</keyword>
+  <keyword>television white spaces</keyword>
+  <keyword>TPC</keyword>
+  <keyword>transmit power control</keyword>
+  <keyword>video</keyword>
+  <keyword>wireless access in vehicular environments</keyword>
+  <keyword>wireless LAN</keyword>
+  <keyword>wireless local area network</keyword>
+  <keyword>WLAN</keyword>
+  <keyword>wireless network management</keyword>
+  <keyword>zero-knowledge proof</keyword>
+</bibdata>

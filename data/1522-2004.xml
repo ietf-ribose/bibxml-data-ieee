@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Testability and Diagnosability Characteristics and Metrics</title>
+  <title type="main" format="text/plain">IEEE Standard for Testability and Diagnosability Characteristics and Metrics</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1412648</uri>
+  <docidentifier type="IEEE">IEEE Std 1522-2004</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4493-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.95926</docidentifier>
+  <docnumber>1522-2004</docnumber>
+  <date type="created">
+    <on>2005</on>
+  </date>
+  <date type="published">
+    <on>2019-10-23</on>
+  </date>
+  <date type="issued">
+    <on>2004-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard was developed to provide standard, unambiguous definitions of testability diagnosability metrics and characteristics. It builds on fundamental definitions derived from elements in formal information models related to test and diagnosis defined in IEEE Std 1232-2002.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Measurement</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>aggregation fundamentals</keyword>
+  <keyword>cost-related fundamentals</keyword>
+  <keyword>diagnosability</keyword>
+  <keyword>diagnose</keyword>
+</bibdata>

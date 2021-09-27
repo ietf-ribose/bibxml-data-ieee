@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for Installation Design and Installation of Valve-Regulated Lead-Acid Batteries for Stationary Applications</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for Installation Design and Installation of Valve-Regulated Lead-Acid Batteries for Stationary Applications</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6589090</uri>
+  <docidentifier type="IEEE">IEEE P1187/D13, August 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8656-6</docidentifier>
+  <docnumber>P1187/D13, August 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-09-05</on>
+  </date>
+  <date type="issued">
+    <on>2013-09-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice provides guidance for the installation and installation design of valve-regulated lead acid (VRLA) batteries. This recommended practice is intended for all standby stationary installations. However, specific applications, such as emergency lighting units and semi-portable equipment, may have other appropriate practices and are beyond the scope of this recommended practice. Alternative energy applications are not covered.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1187-2002 (Revision of IEEE Std 1187-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Batteries</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Ohmic contacts</keyword>
+  <keyword>Voltage measurements</keyword>
+  <keyword>Valves</keyword>
+  <keyword>acceptance test</keyword>
+  <keyword>battery capacity</keyword>
+  <keyword>battery installation</keyword>
+  <keyword>battery installation design</keyword>
+  <keyword>battery maintenance</keyword>
+  <keyword>battery terminal voltage</keyword>
+  <keyword>battery testing</keyword>
+  <keyword>connection resistance measurements</keyword>
+  <keyword>float voltage</keyword>
+  <keyword>internal ohmic measurements</keyword>
+  <keyword>standby power applications</keyword>
+  <keyword>valve-regulated lead acid battery.</keyword>
+</bibdata>

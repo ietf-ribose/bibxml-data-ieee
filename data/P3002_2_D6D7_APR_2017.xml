@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for Conducting Load-Flow Studies of Industrial and Commercial Power Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for Conducting Load-Flow Studies of Industrial and Commercial Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7948694</uri>
+  <docidentifier type="IEEE">IEEE P3002.2/D6D7, April 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4124-7</docidentifier>
+  <docnumber>P3002.2/D6D7, Apr 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-06-14</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Activities related to load flow analysis, including design considerations for new systems, analytical studies for existing systems, as well as operational and model validation considerations for industrial and commercial power systems are addressed. Load flow analysis includes steadystate power flow and voltage analysis along with considerations for optimal power flow calculations. The use of computer-aided analysis software, with a list of desirable capabilities recommended to conduct a modern load-flow study, is emphasized. Examples of system data requirements and result analysis techniques are presented.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Load management</keyword>
+  <keyword>Voltage measurment</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Ampacity</keyword>
+  <keyword>Power generation</keyword>
+  <keyword>cable ampacity</keyword>
+  <keyword>compensation</keyword>
+  <keyword>convergence</keyword>
+  <keyword>demand factor</keyword>
+  <keyword>electrical losses</keyword>
+  <keyword>Gauss-Seidel</keyword>
+  <keyword>generation</keyword>
+  <keyword>IEEE 3002.2</keyword>
+  <keyword>impedance</keyword>
+  <keyword>industrial loads</keyword>
+  <keyword>industrial power system</keyword>
+  <keyword>load flow analysis</keyword>
+  <keyword>load-flow studies</keyword>
+  <keyword>Newton-Raphson</keyword>
+  <keyword>overload</keyword>
+  <keyword>over voltage</keyword>
+  <keyword>power demand</keyword>
+  <keyword>power factor correction</keyword>
+  <keyword>power flow</keyword>
+  <keyword>system validation</keyword>
+  <keyword>under voltage</keyword>
+  <keyword>voltage drop</keyword>
+  <keyword>voltage profile</keyword>
+  <keyword>voltage rise</keyword>
+</bibdata>

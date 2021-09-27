@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Metal-Oxide Surge Arresters for AC Power Circuits (&amp;amp;#x003E;1 kV)</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Metal-Oxide Surge Arresters for AC Power Circuits (&amp;amp;#x003E;1 kV) - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9246994</uri>
+  <docidentifier type="IEEE">IEEE Std C62.11-2020 (Revision of IEEE Std C62.11-2012) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7122-0</docidentifier>
+  <docnumber>C62.11-2020</docnumber>
+  <date type="updated">
+    <on>2021-05-23</on>
+  </date>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-11-02</on>
+  </date>
+  <date type="issued">
+    <on>2020-05-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Metal-oxide surge arresters (MOSAs) designed to repeatedly limit the voltage surges on 48 Hz to 62 Hz power circuits (&amp;amp;gt;1000 V) by passing surge discharge current and automatically limiting the flow of system power current are addressed in this standard. This standard applies to devices for separate mounting and to devices supplied integrally with other equipment. The tests demonstrate that an arrester is able to survive the rigors of reasonable environmental conditions and system phenomena while protecting equipment and/or the system from damaging overvoltages caused by lightning, switching, and other undesirable surges.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Metal-oxide surge arresters (MOSAs) designed to repeatedly limit the voltage surges on 48 Hz to 62 Hz power circuits (&amp;amp;#x003E;1000 V) by passing surge discharge current and automatically limiting the flow of system power current are addressed in this standard. This standard applies to devices for separate mounting and to devices supplied integrally with other equipment. The tests demonstrate that an arrester is able to survive the rigors of reasonable environmental conditions and system phenomena while protecting equipment and/or the system from damaging overvoltages caused by lightning, switching, and other undesirable surges.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.11-2012 (Revision of IEEE Std C62.11-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Discharges (electric)</keyword>
+  <keyword>Arresters</keyword>
+  <keyword>Lightning</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>MOS devices</keyword>
+  <keyword>charge transfer</keyword>
+  <keyword>discharge current</keyword>
+  <keyword>discharge voltage</keyword>
+  <keyword>IEEE C62.11</keyword>
+  <keyword>lightning protection</keyword>
+  <keyword>maximum continuous operating voltage</keyword>
+  <keyword>MCOV</keyword>
+  <keyword>metal-oxide disk</keyword>
+  <keyword>metal-oxide surge arrester</keyword>
+  <keyword>MOSA</keyword>
+  <keyword>single-impulse charge transfer rating</keyword>
+  <keyword>surge arrester</keyword>
+  <keyword>thermal charge transfer rating</keyword>
+  <keyword>thermal energy withstand rating</keyword>
+  <keyword>TOV</keyword>
+</bibdata>

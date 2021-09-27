@@ -1,0 +1,73 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Adoption of Smart Energy Profile 2.0 Application Protocol Standard</title>
+  <title type="main" format="text/plain">IEEE Adoption of Smart Energy Profile 2.0 Application Protocol Standard</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6662361</uri>
+  <docidentifier type="IEEE">IEEE Std 2030.5-2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8746-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6662361</docidentifier>
+  <docnumber>2030.5-2013</docnumber>
+  <date type="updated">
+    <on>2014-01-17</on>
+  </date>
+  <date type="created">
+    <on>2013-11-11</on>
+  </date>
+  <date type="published">
+    <on>2013-11-12</on>
+  </date>
+  <date type="issued">
+    <on>2013-10-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The 'APPLICATION' layer with TCP/IP providing functions in the 'TRANSPORT' and 'INTERNET' layers is defined in this standard. Depending on the physical layer in use (e.g., IEEE 802.15.4(TM), IEEE 802.11(TM), IEEE 1901(TM)), a variety of lower layer protocols may be involved in providing a complete solution. Generally, lower layer protocols are not discussed in this standard except where there is a direct interaction with the application protocol. This standard defines the mechanisms for exchanging application messages, the exact messages exchanged including error messages, and the security features used to protect the application messages. With respect to the OSI network model, this standard is built using the four-layer Internet stack model. The defined application protocol is an IEC 61968 common information model [61968] profile, mapping directly where possible, and using subsets and extensions where needed, and follows an IETF RESTful architecture [REST].</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The 'APPLICATION' layer with TCP/IP providing functions in the 'TRANSPORT' and 'INTERNET' layers is defined in this standard. Depending on the physical layer in use (e.g., IEEE 802.15.4(TM), IEEE 802.11(TM), IEEE 1901(TM)), a variety of lower layer protocols may be involved in providing a complete solution. Generally, lower layer protocols are not discussed in this standard except where there is a direct interaction with the application protocol. This standard defines the mechanisms for exchanging application messages, the exact messages exchanged including error messages, and the security features used to protect the application messages. With respect to the OSI network model, this standard is built using the four-layer Internet stack model. The defined application protocol is an IEC 61968 common information model [61968] profile, mapping directly where possible, and using subsets and extensions where needed, and follows an IETF RESTful architecture [REST]. (NOTE: additional files for this standard is available at http://standards.ieee.org/downloads/2030.5/)</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 2030.5-2018 (Revision of IEEE Std 2030.5-2013)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Energy management</keyword>
+  <keyword>Load management</keyword>
+  <keyword>Smart energy</keyword>
+  <keyword>Electric vehicles</keyword>
+  <keyword>Pricing</keyword>
+  <keyword>Distributed processing</keyword>
+  <keyword>Smart grids</keyword>
+  <keyword>adoption</keyword>
+  <keyword>application</keyword>
+  <keyword>application protocol</keyword>
+  <keyword>demand response</keyword>
+  <keyword>distributed energy resources</keyword>
+  <keyword>energy usage information</keyword>
+  <keyword>IEEE 2030.5</keyword>
+  <keyword>load control</keyword>
+  <keyword>metering</keyword>
+  <keyword>plugin electric vehicles</keyword>
+  <keyword>prepayment</keyword>
+  <keyword>pricing communication</keyword>
+  <keyword>RESTful</keyword>
+  <keyword>SEP 2</keyword>
+  <keyword>smart energy</keyword>
+  <keyword>smart energy profile</keyword>
+  <keyword>Smart Energy Profile 2</keyword>
+</bibdata>

@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Use of IEEE Standard Dictionary of Measures to Produce Reliable Software</title>
+  <title type="main" format="text/plain">IEEE Guide for the Use of IEEE Standard Dictionary of Measures to Produce Reliable Software</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26479</uri>
+  <docidentifier type="IEEE">IEEE Std 982.2-1988</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0398-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1989.122630</docidentifier>
+  <docnumber>982.2-1988</docnumber>
+  <date type="created">
+    <on>1989</on>
+  </date>
+  <date type="published">
+    <on>2019-04-09</on>
+  </date>
+  <date type="issued">
+    <on>1988-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the family on Software Engineering. This guide provides the underlying concepts and motivation for establishing a measurement process for reliable software, utilizing IEEE Std 982.1-1988, IEEE Standard Dictionary of Measures to Produce Reliable Software. It contains information necessary for application of measures to a project. It includes guidance for the following: applying product and process measures throughout the software life cycle, providing the means for continual self-assessment and reliability improvement; optimizing the development of reliable software, beginning at the early development stages with respect to constraints such as cost and schedule; maximizing the reliability of software in its actual use environment during the operation and maintenance phases; and developing the means to manage reliability in the same manner that cost and schedule are managed. The guide is intended for design, development, evaluation (e.g., auditing or procuring agency), and maintenance personnel; software quality and software reliability personnel; and operations and acquisition support managers. It is organized to provide input to the planning process for reliability management.</abstract>
+  <copyright>
+    <from>1989</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Terminology</keyword>
+  <keyword>Software reliability</keyword>
+  <keyword>Standards</keyword>
+  <keyword>dictionary</keyword>
+  <keyword>measures</keyword>
+  <keyword>produce</keyword>
+  <keyword>reliable</keyword>
+  <keyword>Software metrics</keyword>
+  <keyword>Software development management</keyword>
+</bibdata>

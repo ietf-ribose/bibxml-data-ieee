@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Bar Coding for Distribution Transformers</title>
+  <title type="main" format="text/plain">IEEE Standard for Bar Coding for Distribution Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/552901</uri>
+  <docidentifier type="IEEE">IEEE Std C57.12.35-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0856-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81543</docidentifier>
+  <docnumber>C57.12.35-1996</docnumber>
+  <date type="created">
+    <on>1996-11-08</on>
+  </date>
+  <date type="published">
+    <on>2013-11-08</on>
+  </date>
+  <date type="issued">
+    <on>1996-06-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the C57 family on Power Distribution and Regulating Transformers. This standard sets forth bar code label requirements for overhead, padmounted, and underground-type distribution transformers. Included herein are requirements for data content, symbology, label layout, print quality, and label life expectancy.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.35-2007 (Revision of IEEE Std C57.12.35-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.35-2007 (Revision of IEEE Std C57.12.35-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>distribution transformers</keyword>
+  <keyword>bar coding</keyword>
+</bibdata>

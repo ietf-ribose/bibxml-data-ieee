@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and Synchronization for Time-Sensitive Applications</title>
+  <title type="title-main" format="text/plain">Corrigendum 1: Technical and Editorial Corrections</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and Synchronization for Time-Sensitive Applications - Corrigendum 1: Technical and Editorial Corrections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9500158</uri>
+  <docidentifier type="IEEE">IEEE P802.1AS-2020/Cor1/D3.0, July 2021 (Corrigendum to IEEE Std 802.1AS-2020)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7857-1</docidentifier>
+  <docnumber>P802.1AS–2020/Cor1/D3.0, Jul 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-07-28</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum to IEEE Std 802.1ASTM-2020 provides technical and editorial corrections.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AS-2020 (Revision of IEEE Std 802.1AS-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>best master</keyword>
+  <keyword>frequency offset</keyword>
+  <keyword>Grandmaster Clock</keyword>
+  <keyword>Grandmaster PTP Instance</keyword>
+  <keyword>PTP End Instance</keyword>
+  <keyword>PTP Relay Instance</keyword>
+  <keyword>IEEE 802.1AS&amp;amp;#8482;</keyword>
+  <keyword>phase offset</keyword>
+  <keyword>synchronization</keyword>
+  <keyword>syntonization</keyword>
+  <keyword>time-aware system</keyword>
+</bibdata>

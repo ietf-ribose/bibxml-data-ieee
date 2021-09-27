@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Block Transfers in CAMAC Systems (Computer Automated Measurement and Control)</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Block Transfers in CAMAC Systems (Computer Automated Measurement and Control)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/21002</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 683-1976</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0709-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1976.120779</docidentifier>
+  <docnumber>683-1976</docnumber>
+  <date type="created">
+    <on>1976-10-29</on>
+  </date>
+  <date type="published">
+    <on>2020-02-03</on>
+  </date>
+  <date type="issued">
+    <on>1976-09-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The recommended block-transfer algorithms are discussed, and those given in the basic CAMAC specification are described. These algorithms are well established and are supported by existing hardware. Some new algorithms are then discussed. Compatibility, hardware design, and software considerations are addressed.</abstract>
+  <copyright>
+    <from>1976</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>CAMAC</keyword>
+  <keyword>Standards</keyword>
+  <keyword>block</keyword>
+  <keyword>transfers</keyword>
+  <keyword>CAMAC</keyword>
+  <keyword>systems</keyword>
+</bibdata>

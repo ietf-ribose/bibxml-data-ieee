@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Monitoring, Information Exchange, and Control of Distributed Resources Interconnected with Electric Power Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Monitoring, Information Exchange, and Control of Distributed Resources Interconnected with Electric Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4432408</uri>
+  <docidentifier type="IEEE">IEEE Std 1547.3-2007</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5634-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.4432408</docidentifier>
+  <docnumber>1547.3-2007</docnumber>
+  <date type="updated">
+    <on>2008-10-25</on>
+  </date>
+  <date type="created">
+    <on>2007-11-16</on>
+  </date>
+  <date type="published">
+    <on>2014-12-09</on>
+  </date>
+  <date type="issued">
+    <on>2007-05-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is intended to facilitate the interoperability of distributed resources (DR) and help DR project stakeholders implement monitoring, information exchange, and control (MIC) to support the technical and business operations of DR and transactions among the stakeholders. The focus is on MIC between DR controllers and stakeholder entities with direct communication interactions. This guide incorporates information modeling, use case approaches, and a proforma information exchange template and introduces the concept of an information exchange interface. The concepts and approaches are compatible with historical approaches to establishing and satisfying MIC needs. The IEEE 1547trade series of standards is cited in the U.S. Federal Energy Policy Act of 2005, and this guide is one document in the IEEE 1547 series. This guide is primarily concerned with MIC between the DR unit controller and the outside world. However, the concepts and methods should also prove helpful to manufacturers and implementers of communications systems for loads, energy management systems, SCADA, electric power system and equipment protection, and revenue metering. The guide does not address the economic or technical viability of specific types of DR. It provides use case methodology and examples (e.g., examples of DR unit dispatch, scheduling, maintenance, ancillary services, and reactive supply). Market drivers will determine which DR applications become viable. This document provides guidelines rather than mandatory requirements or prioritized preferences.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This guide is intended to facilitate the interoperability of distributed resources (DR) and help DR project stakeholders implement monitoring, information exchange, and control (MIC) to support the technical and business operations of DR and transactions among the stakeholders. The focus is on MIC between DR controllers and stakeholder entities with direct communication interactions. This guide incorporates information modeling, use case approaches, and a proforma information exchange template and introduces the concept of an information exchange interface. The concepts and approaches are compatible with historical approaches to establishing and satisfying MIC needs. The IEEE 1547&amp;amp;#8482; series of standards is cited in the U.S. Federal Energy Policy Act of 2005, and this guide is one document in the IEEE 1547 series.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>federal</keyword>
+  <keyword>national</keyword>
+  <keyword>regional</keyword>
+  <keyword>SCADA; standards; state; substations; supervisory; telemetry; utility grid</keyword>
+</bibdata>

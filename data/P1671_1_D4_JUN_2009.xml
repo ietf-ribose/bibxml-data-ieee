@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML, Exchanging Test Descriptions</title>
+  <title type="main" format="text/plain">IEEE Draft Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML, Exchanging Test Descriptions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5089365</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1671.1/D4, Jun 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3088-3</docidentifier>
+  <docnumber>P1671.1/D4, Jun 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document specifies an exchange format, using the eXtensible Markup Language (XML), for exchanging the test description information defining test performance, test conditions, diagnostic requirements, and support equipment to locate, align, and verify the proper operation of a Unit Under Test (UUT). This is in support of the development of Test Program Sets (TPSs) that will be used in an automatic test environment.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>automatic test system (ATS)</keyword>
+  <keyword>diagnostic requirements</keyword>
+  <keyword>test description</keyword>
+  <keyword>Test Program Set (TPS)</keyword>
+  <keyword>test requirements</keyword>
+  <keyword>Test Requirements Document (TRD)</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Shunt Power Capacitors</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Shunt Power Capacitors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6376068</uri>
+  <docidentifier type="IEEE">IEEE P18/D3, Oct ober 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8034-2</docidentifier>
+  <docnumber>P18/D3, Oct 2012</docnumber>
+  <date type="created">
+    <on>2012-12-07</on>
+  </date>
+  <date type="published">
+    <on>2012-12-07</on>
+  </date>
+  <date type="issued">
+    <on>2012-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Power capacitors rated 216 V or higher, 2.5 kvar or more, and designed for shunt connection to alternating-current transmission and distribution systems operating at a nominal frequency of 50 Hz or 60 Hz are considered.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 18-2002 (Revision of IEEE Std 18-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Capacitors</keyword>
+  <keyword>Shunt capacitors</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>capacitors</keyword>
+  <keyword>shunt connection</keyword>
+  <keyword>transmission and distribution systems</keyword>
+</bibdata>

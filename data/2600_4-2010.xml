@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Protection Profile for Hardcopy Devices in IEEE Std 2600(TM)-2008 Operational Environment D</title>
+  <title type="main" format="text/plain">IEEE Standard Protection Profile for Hardcopy Devices in IEEE Std 2600(TM)-2008 Operational Environment D</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5426443</uri>
+  <docidentifier type="IEEE">IEEE Std 2600.4-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6167-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5426443</docidentifier>
+  <docnumber>2600.4-2010</docnumber>
+  <date type="updated">
+    <on>2010-03-22</on>
+  </date>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="published">
+    <on>2020-12-09</on>
+  </date>
+  <date type="issued">
+    <on>2010-02-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A protection profile for hardcopy devices in a small, private information processing environment is discussed in this standard in which most elements of security are provided by the physical environment, but basic network security is needed to protect the device and its network from misuse from outside of the environment. Small offices and home offices are typical applications of this environment. This environment will be known as "operational environment D".</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Standard for a Protection Profile for Hardcopy Devices in a small, private information processing environment in which most elements of security are provided by the physical environment, but basic network security is needed to protect the device and its network from misuse from outside of the environment. Small offices and home offices are typical applications of this environment. This environment will be known as “Operational Environment D.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Disk drives</keyword>
+  <keyword>Data storage systems</keyword>
+  <keyword>2600.4-2010</keyword>
+  <keyword>all-in-one</keyword>
+  <keyword>Common Criteria</keyword>
+  <keyword>copier</keyword>
+  <keyword>disk overwrite</keyword>
+  <keyword>document</keyword>
+  <keyword>document server</keyword>
+  <keyword>document storage and retrieval</keyword>
+  <keyword>facsimile</keyword>
+  <keyword>fax</keyword>
+  <keyword>hardcopy</keyword>
+  <keyword>ISO/IEC 15408</keyword>
+  <keyword>multifunction device (MFD)</keyword>
+  <keyword>multifunction product (MFP)</keyword>
+  <keyword>network</keyword>
+  <keyword>network interface</keyword>
+  <keyword>nonvolatile storage</keyword>
+  <keyword>office</keyword>
+  <keyword>paper</keyword>
+  <keyword>printer</keyword>
+  <keyword>Protection Profile</keyword>
+  <keyword>residual data</keyword>
+  <keyword>scanner</keyword>
+  <keyword>security target</keyword>
+  <keyword>shared communications medium</keyword>
+  <keyword>temporary data</keyword>
+</bibdata>

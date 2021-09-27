@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Field Testing of Shielded Power Cable Systems Using Very Low Frequency (VLF) (less than 1 Hz)</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Field Testing of Shielded Power Cable Systems Using Very Low Frequency (VLF) (less than 1 Hz)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6182570</uri>
+  <docidentifier type="IEEE">IEEE P400.2/D12 January 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7485-3</docidentifier>
+  <docnumber>P400.2/D12 Jan 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="issued">
+    <on>2012-04-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide describes very low frequency (VLF) withstand and other diagnostic tests and measurements that are performed using VLF energization in the field on shielded power cable systems. Whenever possible, cable systems are treated in a similar manner to individual cables. Tables are included as an aid to identifying the effectiveness of the VLF ac voltage test for various cable system insulation problems.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 400.2-2004</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Spectroscopy</keyword>
+  <keyword>Fault tolerance</keyword>
+  <keyword>AC machines</keyword>
+  <keyword>Electric discharges</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>Dielectric measurements</keyword>
+  <keyword>Cable testing</keyword>
+  <keyword>proof testing</keyword>
+  <keyword>hipot testing</keyword>
+  <keyword>cable system testing</keyword>
+  <keyword>very low frequency testing</keyword>
+  <keyword>VLF ac voltage testing</keyword>
+  <keyword>tan delta testing</keyword>
+  <keyword>partial discharge testing</keyword>
+  <keyword>dielectric spectroscopy</keyword>
+  <keyword>cable fault locating</keyword>
+  <keyword>condition assessment</keyword>
+  <keyword>grounding</keyword>
+  <keyword>safety.</keyword>
+</bibdata>

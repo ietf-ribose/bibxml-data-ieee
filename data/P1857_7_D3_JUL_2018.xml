@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Adaptive Streaming</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Adaptive Streaming</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8419801</uri>
+  <docidentifier type="IEEE">IEEE P1857.7/D3, July 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5087-4</docidentifier>
+  <docnumber>P1857.7/D3, Jul 2018</docnumber>
+  <date type="created">
+    <on>2018-12-04</on>
+  </date>
+  <date type="published">
+    <on>2018-07-25</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the media presentation description format and media segment format for dynamic and adaptive streaming over networks such as HTTP. Particularly, the specified formats support multi-stream synchronization, content protection, and content authentication. The target applications and services include but not limited to Internet media streaming, IPTV, and video-on-demand.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Media streaming</keyword>
+  <keyword>Content management</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Adaptive systems</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Video on demand</keyword>
+  <keyword>Adaptive streaming</keyword>
+  <keyword>Media presentation</keyword>
+  <keyword>Media presentation description</keyword>
+  <keyword>Segment</keyword>
+  <keyword>Content security</keyword>
+  <keyword>multi-stream</keyword>
+  <keyword>Ownership</keyword>
+</bibdata>

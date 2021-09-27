@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Ethernet</title>
+  <title type="title-main" format="text/plain">Amendment 1: Physical Layer Specifications and Management Parameters for Extended Ethernet Passive Optical Networks</title>
+  <title type="main" format="text/plain">IEEE Standard for Ethernet - Amendment 1: Physical Layer Specifications and Management Parameters for Extended Ethernet Passive Optical Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6587259</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3bk-2013 (Amendment to IEEE Std 802.3-2012)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8574-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6587259</docidentifier>
+  <docnumber>802.3bk-2013</docnumber>
+  <date type="updated">
+    <on>2013-10-04</on>
+  </date>
+  <date type="created">
+    <on>2013-08-30</on>
+  </date>
+  <date type="published">
+    <on>2013-08-27</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3 defines the physical layer specifications and management parameters for EPON operation on point-to-multipoint passive optical networks supporting extended power budget classes of PX30, PX40, PRX40, and PR40 PMDs.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3 defines the physical layer specifications and management parameters for EPON operation on point-to-multipoint passive optical networks supporting extended power budget classes of PX30, PX40, PRX40, and PR40 PMDs.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2012 (Revision to IEEE Std 802.3-2008)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Time measurement</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Passive optical networks</keyword>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>extended EPON</keyword>
+  <keyword>IEEE 802.3&amp;amp;#8482;</keyword>
+  <keyword>IEEE 802.3bk&amp;amp;#8482;</keyword>
+  <keyword>PRX40</keyword>
+  <keyword>PR40</keyword>
+  <keyword>PX30</keyword>
+  <keyword>PX40</keyword>
+</bibdata>

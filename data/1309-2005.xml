@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Calibration of Electromagnetic Field Sensors and Probes, Excluding Antennas, from 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">IEEE Standard for Calibration of Electromagnetic Field Sensors and Probes, Excluding Antennas, from 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1577466</uri>
+  <docidentifier type="IEEE">IEEE Std 1309-2005 (Revision of IEEE Std 1309-1996)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4747-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.98650</docidentifier>
+  <docnumber>1309-2005</docnumber>
+  <date type="created">
+    <on>2005-12-09</on>
+  </date>
+  <date type="published">
+    <on>2016-07-08</on>
+  </date>
+  <date type="issued">
+    <on>2005-06-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Consensus calibration methods for electromagnetic (EM) field sensors and probes are provided. Data recording and reporting requirements are given, and a method for determining uncertainty is specified.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1309-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Calibration</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Probes</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>calibration</keyword>
+  <keyword>electromagnetic</keyword>
+  <keyword>field probe</keyword>
+  <keyword>field sensor</keyword>
+  <keyword>measurement instrumentation uncertainty</keyword>
+  <keyword>electric field measurement.</keyword>
+</bibdata>

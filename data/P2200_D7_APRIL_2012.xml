@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Protocol for Stream Management in Media Client Devices</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Protocol for Stream Management in Media Client Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6188990</uri>
+  <docidentifier type="IEEE">IEEE P2200/D7, April 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7468-6</docidentifier>
+  <docnumber>P2200/D7, April 2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-04-23</on>
+  </date>
+  <date type="issued">
+    <on>2012-04-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines interfaces for intelligently distributing and replicating content over heterogeneous networks to portable and intermediate devices with local storage.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Streaming media</keyword>
+  <keyword>Content distribution networks</keyword>
+  <keyword>Mobile communication</keyword>
+  <keyword>Cache storage</keyword>
+  <keyword>Queueing analysis</keyword>
+  <keyword>content caching</keyword>
+  <keyword>intermediate devices</keyword>
+  <keyword>content queue</keyword>
+  <keyword>network policy</keyword>
+  <keyword>seamless play</keyword>
+  <keyword>delayed delivery</keyword>
+  <keyword>download</keyword>
+  <keyword>mobile content delivery</keyword>
+  <keyword>device discovery</keyword>
+</bibdata>

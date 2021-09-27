@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19522</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 367-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4194-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.120314</docidentifier>
+  <docnumber>367-1987</docnumber>
+  <date type="created">
+    <on>1988</on>
+  </date>
+  <date type="published">
+    <on>2016-02-17</on>
+  </date>
+  <date type="issued">
+    <on>1987-06-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Guidance is provided for the calculation of interfering voltages and their appropriate reduction from worst-case values for use in wire-line telecommunication protection design. Information is also included for the determination of the fault current and earth-return current levels; their probability, waveform, and duration; and the impedance to remote earthing points used in these ground potential rise (GPR) and longitudinally induced voltage calculations. The zone of influence of the power station GPR; the calculation of the inducing currents; the mutual impedance between power and wire-line telecommunication facilities and shield factors; and the channel time requirements for wire-line telecommunication facilities where noninterruptible channels are required for protective relaying and other purposes are covered.</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 367-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Grounding</keyword>
+  <keyword>Standards</keyword>
+  <keyword>ground</keyword>
+  <keyword>potential</keyword>
+  <keyword>induced</keyword>
+  <keyword>fault</keyword>
+  <keyword>rise</keyword>
+  <keyword>Wire communication</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>Power system faults</keyword>
+</bibdata>

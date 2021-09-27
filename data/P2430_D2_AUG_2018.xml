@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Software Nonfunctional Sizing Measurement</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Software Nonfunctional Sizing Measurement</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8542989</uri>
+  <docidentifier type="IEEE">IEEE P2430/D2, August 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5326-4</docidentifier>
+  <docnumber>P2430/D2, Aug 2018</docnumber>
+  <date type="created">
+    <on>2018-11-16</on>
+  </date>
+  <date type="published">
+    <on>2018-11-21</on>
+  </date>
+  <date type="issued">
+    <on>2019-06-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A method for the sizing of nonfunctional software requirements is defined in this standard. It complements ISO/IEC 20926:2009, which defines a method for the sizing of functional user requirements. Non-functional categories for data operations, interface design, technical environment, and architecture software are included in this standard.Steps to determine and calculate the non-functional size are also included. Handling requirements involving both functional and non-functional requirements are explained in this standard, which also covers how to apply non-functional sizing estimates in terms of cost, project duration and quality, and considerations of software performance in terms of productivity and quality. The combination of functional and nonfunctional size should correspond to the total size necessary to produce the software. The functional size and non-functional size are orthogonal, and both are needed when sizing the software. The complementarity of the functional and the non-functional sizes, to avoid overlaps or gaps between the two size methods, are described in this standard. Calculating the implementation work effort and duration of the non-functional requirements is outside the scope of this standard.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software measurement</keyword>
+  <keyword>IEEE 2430</keyword>
+  <keyword>IFPUG</keyword>
+  <keyword>non-functional size measurements</keyword>
+  <keyword>non-functional requirements</keyword>
+  <keyword>SNAP</keyword>
+</bibdata>

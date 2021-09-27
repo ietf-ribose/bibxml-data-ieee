@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)</title>
+  <title type="title-main" format="text/plain">Multi-Channel Operation</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE) - Multi-Channel Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5445223</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1609.4/D6.0, Mar 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3032-6</docidentifier>
+  <docnumber>P1609.4/D6.0, Mar 2010</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard describes multi-channel wireless radio operations, WAVE mode, medium access control (MAC) and physical layers (PHYs), including the operation of control channel (CCH) and service channel (SCH) interval timers, parameters for priority access, channel switching and routing, management services, and primitives designed for multi-channel operations.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Vehicles</keyword>
+  <keyword>channel coordination</keyword>
+  <keyword>multi-channel operation</keyword>
+  <keyword>user priority</keyword>
+  <keyword>WAVE</keyword>
+  <keyword>wireless access in vehicular environments</keyword>
+</bibdata>

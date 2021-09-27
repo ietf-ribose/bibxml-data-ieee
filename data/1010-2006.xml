@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Control of Hydroelectric Power Plants</title>
+  <title type="main" format="text/plain">IEEE Guide for Control of Hydroelectric Power Plants</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1678344</uri>
+  <docidentifier type="IEEE">IEEE Std 1010-2006 (Revision of IEEE Std 1010-1987)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4953-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.226661</docidentifier>
+  <docnumber>1010-2006</docnumber>
+  <date type="created">
+    <on>2006-08-18</on>
+  </date>
+  <date type="published">
+    <on>2018-12-20</on>
+  </date>
+  <date type="issued">
+    <on>2006-03-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is to serve as a reference document for practicing engineers in the hydroelectric industry. It documents prevailing industry practices in hydroelectric power plant control system logic, control system configurations, and control modes. It describes the control and monitoring requirements for equipment and systems associated with conventional and pumped-storage hydroelectric plants. It includes typical methods of local and remote control, details of the control interfaces for plant equipment, requirements for centralized and off-site control.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Hydroelectric power generation</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Power systems reliability</keyword>
+  <keyword>automation</keyword>
+  <keyword>control systems</keyword>
+  <keyword>hydroelectric</keyword>
+  <keyword>unit controls</keyword>
+</bibdata>

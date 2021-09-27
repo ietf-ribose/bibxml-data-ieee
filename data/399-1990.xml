@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Industrial and Commercial Power System Analysis</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Industrial and Commercial Power System Analysis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/257619</uri>
+  <docidentifier type="IEEE">IEEE Std 399-1990</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7044-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1990.115569</docidentifier>
+  <docnumber>399-1990</docnumber>
+  <date type="created">
+    <on>1990-12-15</on>
+  </date>
+  <date type="published">
+    <on>2013-01-16</on>
+  </date>
+  <date type="issued">
+    <on>1990-05-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 399-1997. This recommended practice is a reference source for engineers involved in industrial and commercial power systems analysis. It contains a thorough analysis of the power system data required, and the techniques most commonly used in computer-aided analysis, in order to perform specific power system studies of the following: short-circuit, load flow, motorstarting, cable ampacity, stability, harmonic analysis, switching transient, reliability, ground mat, protective coordination, DC auxiliary power system, and power system modeling.</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 399-1980</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 399-1997</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Standards</keyword>
+  <keyword>brown book</keyword>
+  <keyword>industrial power</keyword>
+  <keyword>commercial power</keyword>
+  <keyword>power systems</keyword>
+  <keyword>analysis theory</keyword>
+  <keyword>Power system studies</keyword>
+  <keyword>Power system stability</keyword>
+  <keyword>Power system analysis theory</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Load flow analysis</keyword>
+  <keyword>harmonics</keyword>
+  <keyword>Grounding</keyword>
+</bibdata>

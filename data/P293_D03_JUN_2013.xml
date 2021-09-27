@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Approved Draft Test Procedure for Single-Degree-of-Freedom Spring-Restrained Rate Gyros</title>
+  <title type="title-main" format="text/plain">Corrigendum 1: Table 1 Heading</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Test Procedure for Single-Degree-of-Freedom Spring-Restrained Rate Gyros - Corrigendum 1: Table 1 Heading</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6842574</uri>
+  <docidentifier type="IEEE">IEEE P293/D03, June 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9216-1</docidentifier>
+  <docnumber>P293/D03, Jun 2013</docnumber>
+  <date type="created">
+    <on>2014-12-05</on>
+  </date>
+  <date type="published">
+    <on>2014-06-24</on>
+  </date>
+  <date type="issued">
+    <on>2014-11-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Correction to Table 1 on page 14</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 293-1969</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Gyroscopes</keyword>
+  <keyword>Accelerometers</keyword>
+</bibdata>

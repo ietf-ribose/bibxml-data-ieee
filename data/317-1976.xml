@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Electric Penetration Assemblies in Containment Structures for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard for Electric Penetration Assemblies in Containment Structures for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7407238</uri>
+  <docidentifier type="IEEE">IEEE Std 317-1976 (Revision of IEEE Std 317-1972)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0289-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1976.7407238</docidentifier>
+  <docnumber>317-1976</docnumber>
+  <date type="updated">
+    <on>2016-03-04</on>
+  </date>
+  <date type="created">
+    <on>1976-05-24</on>
+  </date>
+  <date type="published">
+    <on>2016-02-15</on>
+  </date>
+  <date type="issued">
+    <on>1975-09-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard prescribes the requirements for the design, construction, test, and installation of electric penetration assemblies in nuclear containment structures for stationary nuclear power generating stations. The requirements for external circuits which connect to penetration assemblies are beyond the scope of this standard.</abstract>
+  <copyright>
+    <from>1976</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 317-1983</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Containment </keyword>
+  <keyword>Safety</keyword>
+</bibdata>

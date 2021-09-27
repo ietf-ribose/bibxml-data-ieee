@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz</title>
+  <title type="main" format="text/plain">IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1626482</uri>
+  <docidentifier type="IEEE">IEEE Std C95.1-2005 (Revision of IEEE Std C95.1-1991)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4835-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.99501</docidentifier>
+  <docnumber>C95.1-2005</docnumber>
+  <date type="created">
+    <on>2006</on>
+  </date>
+  <date type="published">
+    <on>2015-09-16</on>
+  </date>
+  <date type="issued">
+    <on>2005-10-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommendations to protect against harmful effects in human beings exposed to electromagnetic fields in the frequency range from 3 kHz to 300 GHz are provided in this standard. These recommendations are intended to apply in controlled environments and for general population exposure. These recommendations are not intended to apply to the exposure of patients by or under the direction of physicians and medical professionals.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C95.1-1991</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C95.1-2019 (Revision of IEEE Std C95.1-2005/ Incorporates IEEE Std C95.1-2019/Cor 1-2019)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Electromagnetic fields</keyword>
+  <keyword>basic restrictions (BR)</keyword>
+  <keyword>maximum permissible exposure (MPE)</keyword>
+  <keyword>radio frequency (RF)</keyword>
+  <keyword>RF exposure</keyword>
+  <keyword>RF safety</keyword>
+  <keyword>specific absorption rate (SAR)</keyword>
+</bibdata>

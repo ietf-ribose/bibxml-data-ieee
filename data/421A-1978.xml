@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance of Excitation Control Systems</title>
+  <title type="main" format="text/plain">IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance of Excitation Control Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27751</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 421A-1978</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4205-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1978.80885</docidentifier>
+  <docnumber>421A-1978</docnumber>
+  <date type="created">
+    <on>1978</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1976-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 421.2-1990. This guide includes criteria, definitions, and test procedures for evaluating the dynamic performance of excitation control systems as applied by electric utilities. Primary purposes are to provide a basis for evaluating closed-loop performance of excitation control systems (including both the synchronous machine and its excitation system) for both large and small signal distutbances; confirming the adequacy of mathematical models of excitation systems for use in analytical studies of power systems; specifying methods for performing test of excitation control systems and their components; and preparing excitation system specifications and additional standards. Portions of this guide will also serve as an educational means for people becoming acquainted with excitation control systems.</abstract>
+  <copyright>
+    <from>1978</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 421.2-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Control systems</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>421.2</keyword>
+</bibdata>

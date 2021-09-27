@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide--Adoption of ISO/IEC TR 24474:2010 Systems and Software Engineering-- Life Cycle Management--Guidelines for Process Description</title>
+  <title type="main" format="text/plain">IEEE Guide--Adoption of ISO/IEC TR 24474:2010 Systems and Software Engineering-- Life Cycle Management--Guidelines for Process Description</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6190704</uri>
+  <docidentifier type="IEEE">IEEE Std 24774-2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7242-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6190704</docidentifier>
+  <docnumber>24774-2012</docnumber>
+  <date type="updated">
+    <on>2012-06-04</on>
+  </date>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-04-26</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An increasing number of international, national and industry standards describe process models. These models are developed for a range of purposes including process implementation and assessment. The terms and descriptions used in such models vary in format, content and level of prescription. ISO/IEC TR 24774:2010 presents guidelines for the elements used most frequently in describing a process: the title, purpose, outcomes, activities, task and information item. Whilst the primary purpose of ISO/IEC TR 24774:2010 is to encourage consistency in standard process reference models, the guidelines it provides can be applied to any process model developed for any purpose.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC TR 24774:2010 is adopted by this standard. An increasing number of international, national and industry standards describe process models. These models are developed for a range of purposes including process implementation and assessment. The terms and descriptions used in such models vary in format, content and level of prescription. ISO/IEC TR 24774:2010 presents guidelines for the elements used most frequently in describing a process: the title, purpose, outcomes, activities, task and information item. Whilst the primary purpose of ISO/IEC TR 24774:2010 is to encourage consistency in standard process reference models, the guidelines it provides can be applied to any process model developed for any purpose.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 24774:2021(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>ISO standards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>activity</keyword>
+  <keyword>assessment</keyword>
+  <keyword>IEEE 24774</keyword>
+  <keyword>life cycle</keyword>
+  <keyword>outcome</keyword>
+  <keyword>process</keyword>
+  <keyword>task</keyword>
+</bibdata>

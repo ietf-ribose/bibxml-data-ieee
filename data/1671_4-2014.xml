@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Automatic Test Markup Language (ATML) Test Configuration</title>
+  <title type="main" format="text/plain">IEEE Standard for Automatic Test Markup Language (ATML) Test Configuration</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6808402</uri>
+  <docidentifier type="IEEE">IEEE Std 1671.4-2014 (Revision of IEEE Std 1671.4-2007)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9022-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2014.6808402</docidentifier>
+  <docnumber>1671.4-2014</docnumber>
+  <date type="updated">
+    <on>2014-07-18</on>
+  </date>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2014-03-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An exchange format is specified in this standard, using extensible markup language (XML), for identifying the test configuration used to test for and diagnose faults of a unit under test (UUT) on an automatic test system (ATS).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">An exchange format is specified in this standard, using extensible markup language (XML), for identifying the test configuration used to test for and diagnose faults of a unit under test (UUT) on an automatic test system (ATS).</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1671.4-2007</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Test configuration</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>automatic test system (ATS)</keyword>
+  <keyword>IEEE 1671.4(TM)</keyword>
+  <keyword>Master Configuration Control Document (MCCD)</keyword>
+  <keyword>Master Test Program Set Index (MTPSI)</keyword>
+  <keyword>station configuration file</keyword>
+  <keyword>test configuration</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

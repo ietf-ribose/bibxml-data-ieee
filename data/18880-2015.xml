@@ -1,0 +1,85 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE Information technology- Ubiquitous green community control network protocol</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE Information technology- Ubiquitous green community control network protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7098298</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 18880:2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9665-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2015.7098298</docidentifier>
+  <docnumber>18880-2015</docnumber>
+  <date type="updated">
+    <on>2015-05-29</on>
+  </date>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2015-04-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The standard identifies gateways for field-bus networks, data storage for archiving and developing data sharing platforms, and application units as important system components for developing digital communities, i.e., building-scale and city-wide ubiquitous facility networking infrastructure. The standard defines a data exchange protocol that generalizes and interconnects these components (gateways, storage, application units) over the IPv4/v6-based networks. This enables integration of multiple facilities, data storage, application services such as central management, energy saving, environmental monitoring, and alarm notification systems.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The standard identifies gateways for field-bus networks, data storage for archiving and developing data sharing platforms, and application units as important system components for developing digital communities, i.e., building-scale and city-wide ubiquitous facility networking infrastructure. The standard defines a data exchange protocol that generalizes and interconnects these components (gateways, storage, application units) over the IPv4/v6-based networks. This enables integration of multiple facilities, data storage, application services such as central management, energy saving, environmental monitoring, and alarm notification systems.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Actuators</keyword>
+  <keyword>Communication protocols</keyword>
+  <keyword>Storage automation</keyword>
+  <keyword>Green design</keyword>
+  <keyword>Energy management</keyword>
+  <keyword>Gateways</keyword>
+  <keyword>Access interface</keyword>
+  <keyword>access interface</keyword>
+  <keyword>actuator</keyword>
+  <keyword>APP</keyword>
+  <keyword>application</keyword>
+  <keyword>communication protocol</keyword>
+  <keyword>component</keyword>
+  <keyword>data structure</keyword>
+  <keyword>energy management</keyword>
+  <keyword>energy saving</keyword>
+  <keyword>facility networking</keyword>
+  <keyword>gateway</keyword>
+  <keyword>GW</keyword>
+  <keyword>IEEE 1888(TM)</keyword>
+  <keyword>point</keyword>
+  <keyword>registry</keyword>
+  <keyword>sensor</keyword>
+  <keyword>SOAP</keyword>
+  <keyword>storage</keyword>
+</bibdata>

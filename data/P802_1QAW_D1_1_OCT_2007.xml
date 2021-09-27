@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment 10: Data Driven and Data Dependent Connectivity Fault Management (IEEE Draft Amendment to IEEE Std 802.1Q -2005)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment 10: Data Driven and Data Dependent Connectivity Fault Management (IEEE Draft Amendment to IEEE Std 802.1Q -2005)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4432382</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P802.1Qaw/D1.1, Oct 2007</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2676-3</docidentifier>
+  <docnumber>P802.1Qaw/D1.1, Oct 2007</docnumber>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment extends the connectivity fault management capabilities introduced in P802.1ag to include diagnosis and isolation of faults sensitive to, or caused by, particular data patterns in frames transmitted by a service user. See the introductory notes for what this draft tries to accomplish, and for project scope, status, and history.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Electric Power Distribution Reliability Indices</title>
+  <title type="main" format="text/plain">IEEE Guide for Electric Power Distribution Reliability Indices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684511</uri>
+  <docidentifier type="IEEE">IEEE Std 1366, 2001 Edition</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2995-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.8684511</docidentifier>
+  <docnumber>1366-1998</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 1366-2003. Useful distribution reliability indices, and factors that affect their calculation, are identi-fied. This guide includes indices that are useful today as well as ones that may be useful in thefuture. The indices are intended to apply to distribution systems, substations, circuits, and definedregions.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1366-2003 (Revision of IEEE Std 1366-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1366-2003 (Revision of IEEE Std 1366-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1366-2003 (Revision of IEEE Std 1366-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>circuits</keyword>
+  <keyword>distribution reliability indices</keyword>
+  <keyword>distribution systems</keyword>
+  <keyword>electric power</keyword>
+  <keyword>reliability indices</keyword>
+</bibdata>

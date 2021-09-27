@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">American National Standard for Power Systems</title>
+  <title type="title-main" format="text/plain">Alternating-Current Electrical Systems and Equipment Operating at Voltages Above 230 kV Nominal-Preferred Voltage Ratings</title>
+  <title type="main" format="text/plain">American National Standard for Power Systems - Alternating-Current Electrical Systems and Equipment Operating at Voltages Above 230 kV Nominal-Preferred Voltage Ratings</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29051</uri>
+  <docidentifier type="IEEE">ANSI Std C92.2-1987</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0682-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1987.81534</docidentifier>
+  <docnumber>C92.2-1987</docnumber>
+  <date type="created">
+    <on>1987-12-21</on>
+  </date>
+  <date type="published">
+    <on>2016-01-21</on>
+  </date>
+  <date type="issued">
+    <on>1987</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard supersedes ANSI C92.2-1981, Preferred Voltage Ratings for Alternating-Current Electrical Systems and Equipment Operating at Voltages Above 230 kV Nominal. Preferred maximum voltage ratings provide guidance in the development and design of these systems and equipment. Preferred nominal voltage ratings are included to provide consistent standard designations for electrical systems in the extra-high and ultra-high voltage classes. This standard includes preferred voltage ratings up to and including 1200 kV maximum system voltage, as defined in the standard. Above this value, additional research and development work is needed before standard voltage levels can be specified. It is expected that the next voltage level to be established will be as high as is technically and economically feasible at the time that it is introduced.</abstract>
+  <copyright>
+    <from>1987</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1312-1993</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power systems</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

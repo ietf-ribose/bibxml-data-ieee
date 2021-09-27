@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Test Specifications for Surge-Protective Devices (SPDs) for Use on the Load Side of the Service Equipment in Low Voltage (1000 V and less) AC Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Test Specifications for Surge-Protective Devices (SPDs) for Use on the Load Side of the Service Equipment in Low Voltage (1000 V and less) AC Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4977252</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std PC62.62/D3, Apr 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3537-6</docidentifier>
+  <docnumber>PC62.62/D3, Apr 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to Surge-protective Devices (SPDs) intended to be installed on the load side of the service equipment connected to 50 Hz or 60 Hz AC power circuits rated at 1000 V (rms) or less. Performance characteristics and standard methods for testing and rating are established for these devices, which may be composed of any combination of components. The tests in this standard are aimed at providing comparisons among the variety of surge-protective devices available.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>combination wave</keyword>
+  <keyword>current driven test</keyword>
+  <keyword>disconnector</keyword>
+  <keyword>induced failure</keyword>
+  <keyword>maximum continuous operating voltage (MCOV)</keyword>
+  <keyword>nominal discharge current</keyword>
+  <keyword>one-port SPD</keyword>
+  <keyword>operational duty cycle</keyword>
+  <keyword>ring-wave</keyword>
+  <keyword>service equipment</keyword>
+  <keyword>short-circuit current rating (SCCR)</keyword>
+  <keyword>SPD type</keyword>
+  <keyword>surge protection</keyword>
+  <keyword>surge tests</keyword>
+  <keyword>surge-protective device (SPD)</keyword>
+  <keyword>temporary overvoltage (TOV)</keyword>
+  <keyword>80 transient voltage surge suppressor (TVSS)</keyword>
+  <keyword>two-port SPD</keyword>
+</bibdata>

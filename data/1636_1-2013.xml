@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML) - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6759735</uri>
+  <docidentifier type="IEEE">IEEE Std 1636.1-2013 (Revision of IEEE Std 1636.1-2007) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9011-2</docidentifier>
+  <docnumber>1636.1-2013</docnumber>
+  <date type="created">
+    <on>2013-11-08</on>
+  </date>
+  <date type="published">
+    <on>2014-03-07</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to promote and facilitate interoperability between components of automatic test systems where test results need to be shared. The standard thus facilitates the capture of test results data in storage devices and databases, facilitating online and offline analysis. The test results schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format utilizes the XML formats.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1636.1-2018 (Revision of IEEE Std 1636.1-2013)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1636.1-2018 (Revision of IEEE Std 1636.1-2013)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>Computer interfaces</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>XML</keyword>
+  <keyword>Software testing</keyword>
+  <keyword>Automatic testing</keyword>
+  <keyword>automated test system (ATS)</keyword>
+  <keyword>eXtensible markup language (XML)</keyword>
+  <keyword>IEEE 1636.1(TM)</keyword>
+  <keyword>session information</keyword>
+  <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+  <keyword>test results</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

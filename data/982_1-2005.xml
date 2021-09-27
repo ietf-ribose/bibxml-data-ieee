@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Dictionary of Measures of the Software Aspects of Dependability</title>
+  <title type="main" format="text/plain">IEEE Standard Dictionary of Measures of the Software Aspects of Dependability</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1634994</uri>
+  <docidentifier type="IEEE">IEEE Std 982.1-2005 (Revision of IEEE Std 982.1-1988)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4847-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.215280</docidentifier>
+  <docnumber>982.1-2005</docnumber>
+  <date type="created">
+    <on>2006-05-08</on>
+  </date>
+  <date type="published">
+    <on>2020-05-20</on>
+  </date>
+  <date type="issued">
+    <on>2005-11-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A Standard Dictionary of Measures of the Software Aspects of Dependability for assessing and predicting the reliability, maintainability, and availability of any software system; in particular, it applies to mission critical software systems.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Software measurement</keyword>
+  <keyword>Dictionaries</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>availability</keyword>
+  <keyword>dependability</keyword>
+  <keyword>maintainability</keyword>
+  <keyword>and reliability</keyword>
+</bibdata>

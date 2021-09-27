@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for EMF Exposure Assessment of Internet of Things (IoT) Technologies and Devices</title>
+  <title type="main" format="text/plain">IEEE Guide for EMF Exposure Assessment of Internet of Things (IoT) Technologies and Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9319817</uri>
+  <docidentifier type="IEEE">IEEE Std 1528.7-2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7078-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9319817</docidentifier>
+  <docnumber>1528.7-2020</docnumber>
+  <date type="updated">
+    <on>2021-03-05</on>
+  </date>
+  <date type="created">
+    <on>2021-01-11</on>
+  </date>
+  <date type="published">
+    <on>2021-01-11</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">In the wireless communication field, 5G and Internet of Things (IoT) solutions are the main emerging technologies and future wireless communication will rely on them. A methodology for classifying IoT devices based on radio frequency (RF) exposure characteristics is provided. Classification is based on frequency, bandwidth, radiated power, and typical installation configuration. Links between device class and available measurement/computational standards are provided. A framework criterion for exclusion classes for exposure assessment and criteria for addressing situations where exposure assessment is unavailable are included.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">In the wireless communication field, 5G and Internet of Things (IoT) solutions are the main emerging technologies and future wireless communication will rely on them. A methodology for classifying IoT devices based on radio frequency (RF) exposure characteristics is provided. Classification is based on frequency, bandwidth, radiated power, and typical installation configuration. Links between device class and available measurement/computational standards are provided. A framework criterion for exclusion classes for exposure assessment and criteria for addressing situations where exposure assessment is unavailable are included.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Internet of Things</keyword>
+  <keyword>Radiation detectors</keyword>
+  <keyword>Electromagnetic fields</keyword>
+  <keyword>exposure to electromagnetic fields</keyword>
+  <keyword>IEEE 1528&amp;amp;#8482;</keyword>
+  <keyword>Internet of Things devices</keyword>
+  <keyword>multiple IoT devices</keyword>
+</bibdata>

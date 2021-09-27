@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 10 Mb/s Operation and Associated Power Delivery over a Single Balanced Pair of Conductors</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 10 Mb/s Operation and Associated Power Delivery over a Single Balanced Pair of Conductors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8703255</uri>
+  <docidentifier type="IEEE">IEEE P802.3cg/D3.0, March 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5781-1</docidentifier>
+  <docnumber>P802.3cg/D3.0, Mar 2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2019-11-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2018 specifies additions and appropriate modifications to add 10 Mb/s Physical Layer (PHY) specifications and management parameters for operation, and associated optional provision of power, over a single balanced pair of conductors.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3-2018 (Revision of IEEE Std 802.3-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Collision avoidance</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>10BASE-T1L</keyword>
+  <keyword>10BASE-T1S</keyword>
+  <keyword>amendment</keyword>
+  <keyword>copper</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>IEEE 802.3</keyword>
+  <keyword>IEEE 802.3cg</keyword>
+  <keyword>MASTER-SLAVE</keyword>
+  <keyword>medium dependent interface</keyword>
+  <keyword>physical coding sublayer</keyword>
+  <keyword>Physical Layer</keyword>
+  <keyword>Physical Layer Collision Avoidance</keyword>
+  <keyword>PLCA</keyword>
+  <keyword>physical medium attachment</keyword>
+</bibdata>

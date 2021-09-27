@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks: Media Access Control (MAC) Bridges</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks: Media Access Control (MAC) Bridges</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1309630</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1D-2004 (Revision of IEEE Std 802.1D-1998)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3982-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94569</docidentifier>
+  <docnumber>802.1D-2004</docnumber>
+  <date type="created">
+    <on>2004</on>
+  </date>
+  <date type="published">
+    <on>2012-05-22</on>
+  </date>
+  <date type="issued">
+    <on>2004-02-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An architecture for the interconnection of IEEE 802(R) Local Area Networks (LANs) below the MAC Service boundary is defined. MAC Bridges, as specified by this standard, allow communications between end stations attached to separate LANs, each with its own separate MAC, to be transparent to logical link control (LLC) and network layer protocols, just as if the stations were attached to the same LAN.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.1D, 1998 Edition</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Bridges</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>active topology</keyword>
+  <keyword>filtering</keyword>
+  <keyword>GARP</keyword>
+  <keyword>GMRP</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networds</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANS</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>multicast registration</keyword>
+  <keyword>transparent bridging</keyword>
+  <keyword>quality of service</keyword>
+  <keyword>RSTP</keyword>
+  <keyword>spanning tree</keyword>
+</bibdata>

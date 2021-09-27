@@ -1,0 +1,38 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">Health informatics</title>
+  <title type="title-main" format="text/plain">Personal health device communication</title>
+  <title type="title-part" format="text/plain">Part 10472 Device specialization -- Medication monitor</title>
+  <title type="main" format="text/plain">Health informatics - Personal health device communication - Part 10472 Device specialization -- Medication monitor</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5281211</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P11073-10472/D05, Sept 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2713-5</docidentifier>
+  <docnumber>P11073-10472/D05, Sept 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of the communication between medication monitoring devices and managers (e.g. cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology and information models. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting ambiguity in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for medication monitors. In this context, medication monitors are defined as devices that have the ability to determine and communicate (to a manager) measures of a user's adherence to a medication regime.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

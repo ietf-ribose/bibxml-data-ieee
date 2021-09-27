@@ -1,0 +1,80 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Information technology--Telecommunications and information exchange between systems</title>
+  <title type="title-part" format="text/plain">Local and metropolitan area networks--Specific requirements -- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: Sub 1 GHz License Exempt Operation</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Information technology--Telecommunications and information exchange between systems - Local and metropolitan area networks--Specific requirements -- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: Sub 1 GHz License Exempt Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8694176</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-11:2018/Amd.2:2019(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5728-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2019.8694176</docidentifier>
+  <docnumber>8802-11:2018/Amd 2-2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-04-19</on>
+  </date>
+  <date type="issued">
+    <on>2019</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Modifications to both the IEEE 802.11(TM) physical layer (PHY) and the medium access control (MAC) sublayer to enable operation of license-exempt IEEE 802.11 wireless networks in frequency bands below 1 GHz, excluding the television (TV) White Space bands, with a transmission range up to 1 km and a minimum data rate of at least 100 Kb/s are defined in this amendment.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="adoptedFrom">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11ah-2016 (Amendment to IEEE Std 802.11-2016, as amended by IEEE Std 802.11ai-2016)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>OFDM modulation</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>IEEE 802.11ah</keyword>
+  <keyword>long transmission range</keyword>
+  <keyword>low power consumption</keyword>
+  <keyword>MAC</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>narrower bandwidth</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>orthogonal frequency division multiplexing</keyword>
+  <keyword>PHY</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>sub 1 GHz</keyword>
+  <keyword>wireless local area network</keyword>
+  <keyword>WLAN</keyword>
+</bibdata>

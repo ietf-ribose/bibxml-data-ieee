@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Testing and Performance of Hardware for Optical Groundwire (OPGW)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Testing and Performance of Hardware for Optical Groundwire (OPGW)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5743073</uri>
+  <docidentifier type="IEEE">IEEE P1591.1/D2, March 2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6618-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5743073</docidentifier>
+  <docnumber>P1591.1/D2, Mar 2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="issued">
+    <on>2011-04-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Hardware performance, test requirements, procedures, and acceptance criteria for a transmission line overhead ground wire (a.k.a shield wire, static wire, earth wire, skywire) with optical fibers commonly known as optical ground wire (OPGW) are covered. Functional requirements, such as electrical, mechanical, optical fiber, environmental and test requirements related to design, installation, in-service, and maintenance, including routine tests, are covered.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wire</keyword>
+  <keyword>Hardware</keyword>
+  <keyword>Optical fibers</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>fibre optic ground wire</keyword>
+  <keyword>laboratory tests</keyword>
+  <keyword>OPGW</keyword>
+  <keyword>optical ground wire</keyword>
+  <keyword>type tests</keyword>
+</bibdata>

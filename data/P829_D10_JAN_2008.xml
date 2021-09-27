@@ -1,0 +1,40 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Software and System Test Documentation</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Software and System Test Documentation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4447429</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P829_D10, Jan 2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2598-8</docidentifier>
+  <docnumber>P829_D10, Jan 2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Test processes determine whether the development products of a given activity conform to the requirements of that activity and whether the system and/or software satisfies its intended use and user needs. Testing process tasks are specified for different integrity levels. These process tasks determine the appropriate breadth and depth of test documentation. The documentation elements for each type of test documentation can then be selected. The scope of testing encompasses software-based systems, computer software, hardware and their interfaces. This standard applies to software-based systems being developed, maintained, or reused (legacy, COTS, Non-Developmental Items). The term software also includes firmware, microcode and documentation. Test processes can include inspection, analysis, demonstration, verification and validation of software products.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Testing</keyword>
+  <keyword>test documentation</keyword>
+  <keyword>integrity level</keyword>
+  <keyword>and life cycle</keyword>
+</bibdata>

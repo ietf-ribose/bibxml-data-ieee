@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Biometric Open Protocol</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Biometric Open Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8533643</uri>
+  <docidentifier type="IEEE">IEEE P2410/D3, December 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5312-7</docidentifier>
+  <docnumber>P2410/D3, Dec 2018</docnumber>
+  <date type="created">
+    <on>2018-11-12</on>
+  </date>
+  <date type="published">
+    <on>2018-11-13</on>
+  </date>
+  <date type="issued">
+    <on>2019-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Identity assertion, role gathering, multilevel access control, assurance, and auditing are provided by the Biometric Open Protocol Standard (BOPS). An implementation of the BOPS III spec is described, which includes both the software running on the client device as well as the server. Pluggable components are allowed to replace existing components’ functionality, accepting integration into current operating environments in a short period of time. A “point-and-cut” mechanism to add the appropriate security to both development and production systems is offered through the BOPS implementation functionality. Homomorphic encryption and a tremendous simplification of the API are also described.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 2410-2017 (Revision of IEEE 2410-2015)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Biometrics (access control)</keyword>
+  <keyword>Access control</keyword>
+  <keyword>Security of data</keyword>
+  <keyword>Open systems</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>This standard provides a biometric-agnostic security protocol for authentication</keyword>
+  <keyword>identification</keyword>
+  <keyword>and liveness.</keyword>
+</bibdata>

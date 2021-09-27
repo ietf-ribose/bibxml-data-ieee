@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practice for Secure Multi-party Computation</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practice for Secure Multi-party Computation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9387690</uri>
+  <docidentifier type="IEEE">IEEE P2842/D2, October 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7539-6</docidentifier>
+  <docnumber>P2842/D2, Oct 2020</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-03-26</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Data has become one of the most important assets in ICT area. Secure Multi-Party Computation plays a very important role in balancing data usage and data protection. It could build trust and security in data collaboration and big data analysis related areas. This standard provides a technical framework for Secure Multi-Party Computation, including 4 specifying: --An overview of Secure Multi-Party Computation --A technical framework of Secure Multi-Party Computation --Security levels of Secure Multi-Party Computation --Use cases based on Secure Multi-Party Computation</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Security</keyword>
+  <keyword>Computation theory</keyword>
+  <keyword>Computational comolexity</keyword>
+  <keyword>MPC</keyword>
+  <keyword>Secure Multi-party Computation</keyword>
+  <keyword>technical framework</keyword>
+</bibdata>

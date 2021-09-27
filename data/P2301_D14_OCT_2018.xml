@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Cloud Portability and Interoperability Profiles (CPIP)</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Cloud Portability and Interoperability Profiles (CPIP)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8894226</uri>
+  <docidentifier type="IEEE">IEEE P2301/D14, October 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6249-5</docidentifier>
+  <docnumber>P2301/D14, Oct 2018</docnumber>
+  <date type="created">
+    <on>2019-11-06</on>
+  </date>
+  <date type="published">
+    <on>2019-11-07</on>
+  </date>
+  <date type="issued">
+    <on>2020-01-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Advice is given for cloud computing ecosystem participants (cloud vendors, service providers, and users) of standards-based choices in areas such as application interfaces, portability interfaces, management interfaces, interoperability interfaces, file formats, and operation conventions. These choices are grouped into multiple logical profiles, which are organized to address different cloud roles.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Cloud computing</keyword>
+  <keyword>Computer security</keyword>
+  <keyword>Privacy</keyword>
+  <keyword>cloud customers</keyword>
+  <keyword>cloud management</keyword>
+  <keyword>cloud profiles</keyword>
+  <keyword>cloud service providers</keyword>
+  <keyword>consent interoperability</keyword>
+  <keyword>data portability</keyword>
+  <keyword>IEEE 2301</keyword>
+  <keyword>interoperability</keyword>
+  <keyword>privacy</keyword>
+  <keyword>security</keyword>
+</bibdata>

@@ -1,0 +1,75 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Adoption of ISO/IEC 90003:2014, Software Engineering -- Guidelines for the Application of ISO 9001:2008 to Computer Software</title>
+  <title type="main" format="text/plain">IEEE Standard Adoption of ISO/IEC 90003:2014, Software Engineering -- Guidelines for the Application of ISO 9001:2008 to Computer Software</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7274039</uri>
+  <docidentifier type="IEEE">IEEE Std 90003-2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9850-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2015.7274039</docidentifier>
+  <docnumber>90003-2015</docnumber>
+  <date type="updated">
+    <on>2015-10-16</on>
+  </date>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-09-22</on>
+  </date>
+  <date type="issued">
+    <on>2015-09-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This International Standard provides guidance for organizations in the application of ISO 9001:2008 to the acquisition, supply, development, operation, and maintenance of computer software and related support services. It does not add to or otherwise change the requirements of ISO 9001:2008.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This International Standard provides guidance for organizations in the application of ISO 9001:2008 to the acquisition, supply, development, operation, and maintenance of computer software and related support services. It does not add to or otherwise change the requirements of ISO 9001:2008.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 90003-2008</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 90003:2018(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Software qualiy</keyword>
+  <keyword>Quality management</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>9001</keyword>
+  <keyword>adoption</keyword>
+  <keyword>computer software</keyword>
+  <keyword>IEEE 90003(TM)</keyword>
+  <keyword>quality management</keyword>
+</bibdata>

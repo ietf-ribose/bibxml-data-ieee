@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 15.3: Amendment 2: Millimeter-wave-based Alternative Physical Layer Extension</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 15.3: Amendment 2: Millimeter-wave-based Alternative Physical Layer Extension</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5284444</uri>
+  <docidentifier type="IEEE">IEEE Std 802.15.3c-2009 (Amendment to IEEE Std 802.15.3-2003)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6050-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5284444</docidentifier>
+  <docnumber>802.15.3c-2009</docnumber>
+  <date type="updated">
+    <on>2009-10-30</on>
+  </date>
+  <date type="created">
+    <on>2009-10-12</on>
+  </date>
+  <date type="published">
+    <on>2015-11-11</on>
+  </date>
+  <date type="issued">
+    <on>2009-09-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment defines an alternative physical layer (PHY) for IEEE Std 802.15.3-2003. Three PHY modes have been defined that enable data rates in excess of 5 Gb/s using the 60 GHz band. A beamforming protocol has been defined to improve the range of communicating devices. Aggregation and block acknowledgment have been defined to improve the medium access control (MAC) efficiency at the high data rates provided for by the PHY.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This amendment defines and alternative physical layer (PHY) for IEEE Std 802.15.3-2003. Three PHY modes have been defined that enable data rates in excess of 5 Gb/s using the 60 GHz band. A beam forming protocol has been defined to improve the range of communicating devices. Aggregation and block acknowledgment have been defined to improve the medium access control (MAC) efficiency at the high data rates provided for by the PHY.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Wireless personal area networks</keyword>
+  <keyword>IEEE 802.15 Standard</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Millimeter wave communication</keyword>
+  <keyword>802.15.3-2009</keyword>
+  <keyword>802.15.3c-2009</keyword>
+  <keyword>60 GHz</keyword>
+  <keyword>aggregation</keyword>
+  <keyword>beam forming</keyword>
+  <keyword>block acknowledgment</keyword>
+  <keyword>millimeter wave</keyword>
+  <keyword>uncompressed video</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+  <keyword>WiGig</keyword>
+  <keyword>wireless gigabit.</keyword>
+</bibdata>

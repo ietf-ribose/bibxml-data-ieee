@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ANSI/IEEE Guide for Calculating Losses in Isolated Phase Bus</title>
+  <title type="main" format="text/plain">ANSI/IEEE Guide for Calculating Losses in Isolated Phase Bus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7442030</uri>
+  <docidentifier type="IEEE">ANSI/ IEEE C37.23-1969</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0485-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1969.7442030</docidentifier>
+  <docnumber>C37.23-1969</docnumber>
+  <date type="updated">
+    <on>2016-04-15</on>
+  </date>
+  <date type="created">
+    <on>1969</on>
+  </date>
+  <date type="published">
+    <on>2016-03-25</on>
+  </date>
+  <date type="issued">
+    <on>1970-07-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Over the years, the isolated-phase bus has received widespread application in connecting the output of generators to step-up transformers. The trend toward generating units of larger capacity has dictated the need for higher rated isolated-phase bus designs. The increased losses associated with the higher capacity bus may be significant in the economic evaluation of alternate schemes or selection of equipment. The bus designer must know the magnitude and distribution of losses in order to keep temperature rises of bus components within the limits specified in USA Standard C37.20. In addition, the losses must be known to permit proper sizing of forced-cooling equipment whenever it is used.Various papers have been presented that deal with the determination of losses in isolated-phase bus enclosures. The difference in the results obtained for the same bus using various methods is of sufficient magnitude to cause concern. The industry has indicated the need for a guide for calculating losses to establish a common yardstick for establishing, evaluating, and applying different designs.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Over the years, the isolated-phase bus has received widespread application in connecting the output of generators to step-up transformers. The trend toward generating units of larger capacity has dictated the need for higher rated isolated-phase bus designs. The increased losses associated with the higher capacity bus may be significant in the economic evaluation of alternate schemes or selection of equipment. The bus designer must know the magnitude and distribution of losses in order to keep temperature rises of bus components within the limits specified in USA Standard C37.20. In addition, the losses must be known to permit proper sizing of forced-cooling equipment whenever it is used. Various papers have been presented that deal with the determination of losses in isolated-phase bus enclosures. The difference in the results obtained for the same bus using various methods is of sufficient magnitude to cause concern. The industry has indicated the need for a guide for calculating losses to establish a common yardstick for establishing, evaluating, and applying different designs.</abstract>
+  <copyright>
+    <from>1969</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ANSI Standard</keyword>
+  <keyword>Loss management</keyword>
+  <keyword>Phase bus</keyword>
+  <keyword>Conductors</keyword>
+  <keyword>Skin effect</keyword>
+  <keyword>Heating</keyword>
+  <keyword>Magnetic hysteresis</keyword>
+  <keyword>Eddy currents</keyword>
+</bibdata>

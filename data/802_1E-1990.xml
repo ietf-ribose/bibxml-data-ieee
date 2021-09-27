@@ -1,0 +1,44 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: System Load Protocol</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: System Load Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159268</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1E-1990</docidentifier>
+  <docidentifier type="ISBN">0-7381-4412-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.101049</docidentifier>
+  <docnumber>802.1E-1990</docnumber>
+  <date type="created">
+    <on>1991</on>
+  </date>
+  <date type="issued">
+    <on>1990-05-31</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines services and protocol elements that permit the downloading of memory images to data processing equipment attached to IEEE 802 local and metropolitan area networks. The protocol makes use of the group addressing capabilities inherent in LAN/MAN technologies to permit simultaneous loading of the same memory image to multiple destination systems. The standard includes the specification of managed objects that permit the operation of the load protocol to be remotely managed.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Computer networks</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Standards</keyword>
+</bibdata>

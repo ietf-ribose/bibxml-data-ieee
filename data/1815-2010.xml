@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Electric Power Systems Communications -- Distributed Network Protocol (DNP3)</title>
+  <title type="main" format="text/plain">IEEE Standard for Electric Power Systems Communications -- Distributed Network Protocol (DNP3)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5518537</uri>
+  <docidentifier type="IEEE">IEEE Std 1815-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6312-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5518537</docidentifier>
+  <docnumber>1815-2010</docnumber>
+  <date type="updated">
+    <on>2010-08-13</on>
+  </date>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="published">
+    <on>2013-07-23</on>
+  </date>
+  <date type="issued">
+    <on>2010-06-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The DNP3 protocol structure, functions, and application alternatives and the corresponding conformance test procedures are specified. In addition to defining the structure and operation of DNP3, three application levels that are interoperable are defined. The simplest application is for low-cost distribution feeder devices, and the most complex is for full-featured master stations. The intermediate application level is for substation and other intermediate devices. The protocol is suitable for operation on a variety of communication media consistent with the makeup of most electric power communication systems. Keywords: Distributed Network Protocol (DNP3), distribution automation, distribution feeder, electric power communication systems, master station, substation automation</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The DNP3 protocol structure, functions, and application alternatives and the corresponding conformance test procedures are specified. In addition to defining the structure and operation of DNP3, three application levels that are interoperable are defined. The simplest application is for low-cost distribution feeder devices, and the most complex is for full-featured master stations. The intermediate application level is for substation and other intermediate devices. The protocol is suitable for operation on a variety of communication media consistent with the makeup of most electric power communication systems.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Feeds</keyword>
+  <keyword>Distributed control</keyword>
+  <keyword>Distributed Network Protocol (DNP3)</keyword>
+  <keyword>distribution automation</keyword>
+  <keyword>distribution feeder</keyword>
+  <keyword>electric power communication systems</keyword>
+  <keyword>master station</keyword>
+  <keyword>substation automation</keyword>
+</bibdata>

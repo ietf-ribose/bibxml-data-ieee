@@ -1,0 +1,80 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Specifications for Surge-Protective Devices (SPDs) for Use on the Load Side of the Service Equipment in Low Voltage (1000 V and less) AC Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Standard Test Specifications for Surge-Protective Devices (SPDs) for Use on the Load Side of the Service Equipment in Low Voltage (1000 V and less) AC Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5729665</uri>
+  <docidentifier type="IEEE">IEEE Std C62.62-2010 (Revision of IEEE Std C62.62-2000)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6529-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5729665</docidentifier>
+  <docnumber>C62.62-2010</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2018-08-09</on>
+  </date>
+  <date type="issued">
+    <on>2010-12-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Surge-protective devices (SPDs) intended to be installed on the load side of the service equipment connected to 50 Hz or 60 Hz AC power circuits rated at 1000 V (root mean squared [rms]) or less are the focus of this standard. Performance characteristics and standard methods for testing and rating are established for these devices, which may be composed of any combination of components. The tests in this standard are aimed at providing comparisons among the variety of SPDs available.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Surge-protective devices (SPDs) intended to be installed on the load side of the service equipment connected to 50 Hz or 60 Hz AC power circuits rated at 1000 V (root mean squared [rms]) or less are the focus of this standard. Performance characteristics and standard methods for testing and rating are established for these devices, which may be composed of any combination of components. The tests in this standard are aimed at providing comparisons among the variety of SPDs available.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.62-2000</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.62-2018 (Revision of IEEE Std C62.62-2010)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Surge Protective Devices - c62</keyword>
+  <keyword>C62.62</keyword>
+  <keyword>combination wave</keyword>
+  <keyword>current-driven test</keyword>
+  <keyword>disconnector</keyword>
+  <keyword>induced failure</keyword>
+  <keyword>maximum continuous operating voltage (MCOV)</keyword>
+  <keyword>nominal discharge current</keyword>
+  <keyword>one-port SPD</keyword>
+  <keyword>operational duty cycle</keyword>
+  <keyword>ring wave</keyword>
+  <keyword>service equipment</keyword>
+  <keyword>short-circuit current rating (SCCR)</keyword>
+  <keyword>SPD Type</keyword>
+  <keyword>surge protection</keyword>
+  <keyword>surge tests</keyword>
+  <keyword>surge-protective device (SPD)</keyword>
+  <keyword>temporary overvoltage (TOV)</keyword>
+  <keyword>transient voltage-surge suppressor (TVSS)</keyword>
+  <keyword>two-port SPD</keyword>
+  <keyword>Type 1 SPD</keyword>
+  <keyword>Type 2 SPD</keyword>
+  <keyword>Type 3 SPD</keyword>
+  <keyword>Type 4 SPD</keyword>
+</bibdata>

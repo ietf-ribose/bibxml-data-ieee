@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Control Switchboards</title>
+  <title type="main" format="text/plain">IEEE Standard for Control Switchboards</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1556466</uri>
+  <docidentifier type="IEEE">IEEE Std C37.21-2005 (Revision of IEEE Std C37.21-1985)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4751-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.97971</docidentifier>
+  <docnumber>C37.21-2005</docnumber>
+  <date type="created">
+    <on>2005-12-01</on>
+  </date>
+  <date type="published">
+    <on>2017-06-06</on>
+  </date>
+  <date type="issued">
+    <on>2005-06-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard covers ratings, construction, and testing of dead-front control switchboards containing but not limited to devices such as switches, control devices, instrumentation, metering, monitoring, alarms, annunciators, protective and auxiliary relays, and regulating devices and accessories. It includes, but is not specifically limited to, switchboards for the control and protection of apparatus used for or associated with power generation, conversion, transmission, and distribution. Types of switchboards may include control, vertical, dead-front, enclosed, dual, or duplex switchboards. Other construction types include control desks, consoles, benchboards, dual or duplex benchboards, fixed rack, cabinet, and swing rack cabinets. It does not apply to industrial controls, communication equipment, switchboards for use on board ships, or Class 1E switchboards for use in nuclear generating stations.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std ANSI/IEEE C37.21-1985</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.21-2017 (Revision of IEEE Std C37.21-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Switches</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Switching circuits</keyword>
+  <keyword>control switchboard</keyword>
+  <keyword>vertical switchboard</keyword>
+  <keyword>dead-front switchboard</keyword>
+  <keyword>enclosed switchboard</keyword>
+  <keyword>dual switchboard</keyword>
+  <keyword>duplex switchboard</keyword>
+  <keyword>control desk</keyword>
+  <keyword>console</keyword>
+  <keyword>benchboard</keyword>
+  <keyword>dual or duplex benchboard</keyword>
+  <keyword>fixed rack cabinet</keyword>
+  <keyword>or swing rack cabinet</keyword>
+</bibdata>

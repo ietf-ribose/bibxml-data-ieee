@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Radio-Frequency Energy and Current-Flow Symbols</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Radio-Frequency Energy and Current-Flow Symbols</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8322438</uri>
+  <docidentifier type="IEEE">IEEE PC95.2/D1.5 February 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4802-4</docidentifier>
+  <docnumber>PC95.2/D1.5 Feb 2018</docnumber>
+  <date type="created">
+    <on>2018-01-01</on>
+  </date>
+  <date type="published">
+    <on>2018-03-22</on>
+  </date>
+  <date type="issued">
+    <on>2018</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Symbols to inform people about the presence of potentially hazardous levels of radio-frequency energy or the presence of contact current hazards in the frequency range of 3 kHz to 300 GHz are specified in this standard. Guidance is given about how these symbols should be used on warning signs and labels.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C95.2-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Hazards</keyword>
+  <keyword>Microwave communication</keyword>
+  <keyword>Radio frequency</keyword>
+  <keyword>Current control</keyword>
+  <keyword>caution</keyword>
+  <keyword>contact current</keyword>
+  <keyword>danger</keyword>
+  <keyword>hazard</keyword>
+  <keyword>labels</keyword>
+  <keyword>microwave</keyword>
+  <keyword>radio-frequency</keyword>
+  <keyword>shock</keyword>
+  <keyword>signs</keyword>
+  <keyword>symbol</keyword>
+  <keyword>warning</keyword>
+</bibdata>

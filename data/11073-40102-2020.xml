@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard</title>
+  <title type="title-main" format="text/plain">Health informatics--Device interoperability Part 40102: Foundational&amp;amp;#8212;Cybersecurity&amp;amp;#8212;Capabilities for mitigation</title>
+  <title type="main" format="text/plain">IEEE Standard - Health informatics--Device interoperability Part 40102: Foundational&amp;amp;#8212;Cybersecurity&amp;amp;#8212;Capabilities for mitigation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9316194</uri>
+  <docidentifier type="IEEE">IEEE Std 11073-40102-2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7088-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9316194</docidentifier>
+  <docnumber>11073-40102-2020</docnumber>
+  <date type="updated">
+    <on>2021-02-27</on>
+  </date>
+  <date type="created">
+    <on>2021-01-08</on>
+  </date>
+  <date type="published">
+    <on>2021-01-06</on>
+  </date>
+  <date type="issued">
+    <on>2020-09-24</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">For Personal Health Devices (PHDs) and Point-of-Care Devices (PoCDs), a security baseline of application layer cybersecurity mitigation techniques is defined by this standard for certain use cases or for times when certain criteria are met. The mitigation techniques are based on an extended confidentiality, integrity, and availability (CIA) triad and are described generally to allow manufacturers to determine the most appropriate algorithms and implementations. A scalable information security toolbox appropriate for PHD/PoCD interfaces is specified that fulfills the intersection of requirements and recommendations from the National Institute of Standards and Technology (NIST) and the European Network and Information Security Agency (ENISA). A mapping of this standard to the NIST cybersecurity framework; IEC TR 80001-2-2; and the Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE) classification scheme is defined.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">For Personal Health Devices (PHDs) and Point-of-Care Devices (PoCDs), a security baseline of application layer cybersecurity mitigation techniques is defined by this standard for certain use cases or for times when certain criteria are met. The mitigation techniques are based on an extended confidentiality, integrity, and availability (CIA) triad and are described generally to allow manufacturers to determine the most appropriate algorithms and implementations. A scalable information security toolbox appropriate for PHD/PoCD interfaces is specified that fulfills the intersection of requirements and recommendations from the National Institute of Standards and Technology (NIST) and the European Network and Information Security Agency (ENISA). A mapping of this standard to the NIST cybersecurity framework; IEC TR 80001-2-2; and the Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE) classification scheme is defined.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Point of care</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Computer security</keyword>
+  <keyword>cybersecurity</keyword>
+  <keyword>IEEE 11073-40102&amp;amp;#8482;</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>mitigation techniques</keyword>
+  <keyword>Personal Health Devices</keyword>
+  <keyword>Point-of-Care Devices</keyword>
+</bibdata>

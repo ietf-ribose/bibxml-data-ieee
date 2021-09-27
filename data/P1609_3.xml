@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE)</title>
+  <title type="title-main" format="text/plain">Networking Services</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5562707</uri>
+  <docidentifier type="IEEE">IEEE P1609.3/D9, August 2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6412-0</docidentifier>
+  <docnumber>P1609.3</docnumber>
+  <date type="created">
+    <on>2010</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">WAVE Networking Services provides services to WAVE devices and systems. It represents roughly layers 3 and 4 of the OSI model and the IP, UDP, and TCP elements of the Internet model. The services provided include management and data services within WAVE devices.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>Provider Service Identifier</keyword>
+  <keyword>PSID</keyword>
+  <keyword>WAVE</keyword>
+  <keyword>Wireless Access in Vehicular Environments</keyword>
+  <keyword>WSM</keyword>
+</bibdata>

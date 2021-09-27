@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Transformers Directly Connected to Generators</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Transformers Directly Connected to Generators</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6568865</uri>
+  <docidentifier type="IEEE">IEEE PC57.116/D3.0, July 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8563-7</docidentifier>
+  <docnumber>PC57.116/D3.0, Jul 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-07-25</on>
+  </date>
+  <date type="issued">
+    <on>2014-01-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide provides information on the selection and application considerations for the unit power transformer and unit auxiliaries power transformer. Consideration is given to connections that include direct connection and connections through generator circuit breakers and load-break switches. The considerations referred to in this guide apply to hydroelectric and thermal electric generating stations. Various power transformer connections and possible operating problems under normal and abnormal conditions are treated. Phasing procedures, basic impulse insulation level selection, and loading practices are not covered.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.116-1989</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Backfeeds</keyword>
+  <keyword>Auxiliary power units</keyword>
+  <keyword>Generators</keyword>
+  <keyword>unit power transformer</keyword>
+  <keyword>unit auxiliary</keyword>
+  <keyword>generator bus</keyword>
+  <keyword>transformer connections</keyword>
+  <keyword>transmission system</keyword>
+  <keyword>electrical parameters</keyword>
+  <keyword>overexcitation</keyword>
+  <keyword>overcurrent</keyword>
+  <keyword>load tap changing</keyword>
+  <keyword>back-feed</keyword>
+</bibdata>

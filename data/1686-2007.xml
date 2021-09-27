@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Substation Intelligent Electronic Devices (IEDs) Cyber Security Capabilities</title>
+  <title type="main" format="text/plain">IEEE Standard for Substation Intelligent Electronic Devices (IEDs) Cyber Security Capabilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4453853</uri>
+  <docidentifier type="IEEE">IEEE Std 1686-2007</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5372-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.4453853</docidentifier>
+  <docnumber>1686-2007</docnumber>
+  <date type="updated">
+    <on>2008-03-17</on>
+  </date>
+  <date type="created">
+    <on>2008-02-11</on>
+  </date>
+  <date type="published">
+    <on>2014-01-07</on>
+  </date>
+  <date type="issued">
+    <on>2007-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The functions and features to be provided in substation intelligent electronic devices (lEDs) to accommodate critical infrastructure protection programs are defined in this standard. Security regarding the access, operation, configuration, firmware revision, and data retrieval from an IED is addressed in this standard. Communications for the purpose of power system protection (teleprotection) is not addressed. Encryption for the secure transmission of data both within and external to the substation, including supervisory control and data acquisition, is not part of this standard as this is addressed in other efforts.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The functions and features to be provided in substation intelligent electronic devices (IEDs) to accommodate critical infrastructure protection programs are defined in this standard. Security regarding the access, operation, configuration, firmware revision, and data retrieval from an IED is addressed in this standard. Communications for the purpose of power system protection (teleprotection) is not addressed. Encryption for the secure transmission of data both within and external to the substation, including supervisory control and data acquisition, is not part of this standard as this is addressed in other efforts.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Computer security</keyword>
+  <keyword>Power engineering</keyword>
+  <keyword>1686-2007</keyword>
+  <keyword>CIP</keyword>
+  <keyword>critical infrastructure protection</keyword>
+  <keyword>cyber</keyword>
+  <keyword>IED</keyword>
+  <keyword>intelligent electronic device</keyword>
+  <keyword>security</keyword>
+  <keyword>substation</keyword>
+</bibdata>

@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">LAN/MAN Management. IEEE Standards for Local and Metropolitan Area Networks:</title>
+  <title type="main" format="text/plain">LAN/MAN Management. IEEE Standards for Local and Metropolitan Area Networks:</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/210898</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1B-1992</docidentifier>
+  <docidentifier type="ISBN">0-7381-4410-X</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.114371</docidentifier>
+  <docnumber>802.1B-1992</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="issued">
+    <on>1992-09-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Services and protocol elements that permit the exchange of management information between stations attached to IEEE 802 local and metropolitan area networks are defined. The standard includes the specification of managed objects that permit the operation of the protocol elements to be remotely managed.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Communication system operations and management</keyword>
+  <keyword>Communication standards</keyword>
+</bibdata>

@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Recommended Practice for Media Access Control (MAC) Bridging of Ethernet V2.0 in IEEE 802 Local Area Networks</title>
+  <title type="main" format="text/plain">IEEE Standards for Local and Metropolitan Area Networks: Recommended Practice for Media Access Control (MAC) Bridging of Ethernet V2.0 in IEEE 802 Local Area Networks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8685836</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1H, 1997 Edition (ISO/IEC TR11802-5:1997)</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7541-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.8685836</docidentifier>
+  <docnumber>802.1H-1995</docnumber>
+  <date type="created">
+    <on>1994-11-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-09</on>
+  </date>
+  <date type="issued">
+    <on>1995-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Administratively withdrawn January 2011. Extensions to the behavior of ISO/IEC 10038 (IEEE 802.1D) media access control (MAC) Bridges, in order to facilitate interoperability in bridged local area networks (LANs) comprising CSMA/CD networks interconnected with other types of LAN using MAC Bridges, where the CSMA/CD networks contain a mixture of ISO/IEC 8802-3 and Ethernet V2.0 end stations, are specified. Additionally, guidelines are provided for the development of nonstandard 802 protocols, with particular emphasis on conversion of existing Ethernet protocols and the behavior to be expected from a Bridge, for the purpose of avoiding future incompatibilities.</abstract>
+  <copyright>
+    <from>1997</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>Data processing</keyword>
+  <keyword>carrier sense</keyword>
+  <keyword>multiple access</keyword>
+  <keyword>CSMA/CD</keyword>
+  <keyword>data processing</keyword>
+  <keyword>ethernet</keyword>
+  <keyword>fibre distributed data interface</keyword>
+  <keyword>FDDI</keyword>
+  <keyword>information exchange</keyword>
+  <keyword>LAN protocol</keyword>
+  <keyword>LAN</keyword>
+  <keyword>MAN</keyword>
+  <keyword>MAC bridges</keyword>
+  <keyword>interconnection</keyword>
+  <keyword>network interconnect</keyword>
+  <keyword>translation table</keyword>
+  <keyword>selective translation table</keyword>
+</bibdata>

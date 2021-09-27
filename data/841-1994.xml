@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Petroleum and Chemical Industry</title>
+  <title type="title-main" format="text/plain">Severe Duty Totally Enclosed Fan-Cooled (TEFC) Squirrel Cage Induction Motors</title>
+  <title type="title-part" format="text/plain">Up to and Including 500 hp</title>
+  <title type="main" format="text/plain">IEEE Standard for Petroleum and Chemical Industry - Severe Duty Totally Enclosed Fan-Cooled (TEFC) Squirrel Cage Induction Motors - Up to and Including 500 hp</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/392601</uri>
+  <docidentifier type="IEEE">IEEE Std 841-1994</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3062-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.121444</docidentifier>
+  <docnumber>841-1994</docnumber>
+  <date type="created">
+    <on>1994</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1994-03-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to high-efficiency TEFC, horizontal and vertical, single-speed, squirrel cage polyphase induction motors up to and including 500 hp, in NEMA frame sizes 143T and larger, for petroleum, chemical, and other severe duty applications (commonly referred to as severe duty motors). Excluded from the scope of this standard are motors with sleeve bearings and additional specific features required for explosion-proof motors.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 841-1986</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 841-2001</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Induction motors</keyword>
+  <keyword>Petroleum</keyword>
+  <keyword>Chemical industry</keyword>
+  <keyword>Chemicals</keyword>
+  <keyword>NEMA frame motors</keyword>
+  <keyword>severe duty motors</keyword>
+  <keyword>squirrel cage motors</keyword>
+  <keyword>totally enclosed fan</keyword>
+  <keyword>TEFC</keyword>
+  <keyword>Totally enclosed fan-cooled</keyword>
+  <keyword>Polyphase induction motors</keyword>
+</bibdata>

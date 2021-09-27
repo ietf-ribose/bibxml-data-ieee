@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
+  <title type="main" format="text/plain">IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/21008</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 211-1977</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4184-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.120942</docidentifier>
+  <docnumber>211-1977</docnumber>
+  <date type="created">
+    <on>1977-08-19</on>
+  </date>
+  <date type="published">
+    <on>2016-01-04</on>
+  </date>
+  <date type="issued">
+    <on>1976-06-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms and definitions used in the context of electromagnetic wave propagation relating to the fields of telecommunications, remote sensing, radio astronomy, optical waves, plasma waves, the ionosphere, the magnetosphere, and magnetohydrodynamic, acoustic, and electrostatic waves are supplied.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 211-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Terminology</keyword>
+  <keyword>Radio propagation</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>radio</keyword>
+  <keyword>wave</keyword>
+  <keyword>propagation</keyword>
+  <keyword>definition</keyword>
+  <keyword>terms</keyword>
+</bibdata>

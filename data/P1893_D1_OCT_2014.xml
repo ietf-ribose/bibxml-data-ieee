@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Measurement of DC Transmission Line and Earth Electrode Line Parameters</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Measurement of DC Transmission Line and Earth Electrode Line Parameters</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7101760</uri>
+  <docidentifier type="IEEE">IEEE P1893/D1, October 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9705-0</docidentifier>
+  <docnumber>P1893/D1, Oct 2014</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-05-05</on>
+  </date>
+  <date type="issued">
+    <on>2015-09-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">In this guide, field testing methodology and techniques are presented for measuring DC transmission line and earth electrode line parameters. The topics to be addressed will include basic requirements of the measurement; safety cautions; requirements for test instruments; testing induced voltage and current; verifying the polarity and testing insulation resistance; measuring DC resistance; measuring impedance frequency characteristic; reviewing various factors that can distort measurements.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Circuit impedence</keyword>
+  <keyword>Short circuit</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Earth electrode lines</keyword>
+  <keyword>Parameter estimation</keyword>
+  <keyword>distributed parameters</keyword>
+  <keyword>IEEE 1893</keyword>
+  <keyword>impedance frequency characteristic</keyword>
+  <keyword>short circuit and open circuit impedances</keyword>
+  <keyword>transmission line parameters</keyword>
+</bibdata>

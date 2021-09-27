@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Measurement Methods of Emissions from FM and Television Broadcast Receivers in the Frequency Range of 9kHz to 40GHz</title>
+  <title type="main" format="text/plain">IEEE Standard Measurement Methods of Emissions from FM and Television Broadcast Receivers in the Frequency Range of 9kHz to 40GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1299309</uri>
+  <docidentifier type="IEEE">IEEE Std 187-2003 (Revision of IEEE Std 187-1990)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3876-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2004.94495</docidentifier>
+  <docnumber>187-2003</docnumber>
+  <date type="created">
+    <on>2004-05-07</on>
+  </date>
+  <date type="published">
+    <on>2018-05-29</on>
+  </date>
+  <date type="issued">
+    <on>2003-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">(Revision of IEEE Std 187-1990) Abstract: Spurious radiation from sound and television broadcast receivers of the superheterodyne type are possible sources of interference with other radio services. This standard describes the potential sources of spurious radiation from receivers intended for the reception of sound and television broadcast, and the measurement methods for them.</abstract>
+  <copyright>
+    <from>2004</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 187-1990</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 187-2018 (Revision of IEEE Std 187-2003)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>TV broadcasting</keyword>
+  <keyword>TV interference</keyword>
+  <keyword>TV receivers</keyword>
+  <keyword>Electric field measurement</keyword>
+  <keyword>Electromagnetic radiative interference</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Electromagnetic compatibility</keyword>
+  <keyword>antenna radiation</keyword>
+  <keyword>conducted emissions</keyword>
+  <keyword>FM sound broadcast receivers</keyword>
+  <keyword>radiated emissions</keyword>
+  <keyword>spurious emissions</keyword>
+  <keyword>television broadcast receivers</keyword>
+</bibdata>

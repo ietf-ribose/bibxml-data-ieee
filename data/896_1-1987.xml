@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Backplane Bus Specifications for Multiprocessor Architectures: Futurebus+(R)</title>
+  <title type="main" format="text/plain">IEEE Standard Backplane Bus Specifications for Multiprocessor Architectures: Futurebus+(R)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/35051</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 896.1-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4262-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.86186</docidentifier>
+  <docnumber>896.1-1987</docnumber>
+  <date type="created">
+    <on>1988</on>
+  </date>
+  <date type="published">
+    <on>2015-04-08</on>
+  </date>
+  <date type="issued">
+    <on>1987-06-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document provides a level of specification sufficient to design modules that are functionally, operationally, electrically, and mechanically compatible. Additional documents are necessary only to promote a higher degree of system level compatibility in manufacturers’ products.</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 896.1-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Computer interfaces</keyword>
+  <keyword>Multiprocessing</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Futurebus</keyword>
+  <keyword>backplane bus specifications</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Detection, Location and Interpretation of Sources of Acoustic Emissions from Electrical Discharges in Power Transformers and Power Reactors</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Detection, Location and Interpretation of Sources of Acoustic Emissions from Electrical Discharges in Power Transformers and Power Reactors</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8268644</uri>
+  <docidentifier type="IEEE">IEEE PC57.127/D3, October 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4656-3</docidentifier>
+  <docnumber>PC57.127/D3, Oct 2017</docnumber>
+  <date type="created">
+    <on>2018-01-23</on>
+  </date>
+  <date type="published">
+    <on>2018-01-24</on>
+  </date>
+  <date type="issued">
+    <on>2018-10-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The detection and location of acoustic emissions (AEs) from partial discharges (PDs) and other sources in liquid-insulated power transformers and reactors are covered in this guide. A means of associating the relative magnitude and position of PDs and other sources with the acoustic signals obtained by strategically located transducers is provided.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.127-2007 (Revision of IEEE Std C57.127-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Inductors</keyword>
+  <keyword>Acoustic emission</keyword>
+  <keyword>Discharges (electric)</keyword>
+  <keyword>Oil insulation</keyword>
+  <keyword>acoustic emission (AE)</keyword>
+  <keyword>attenuation</keyword>
+  <keyword>burst</keyword>
+  <keyword>gas-in-oil analysis</keyword>
+  <keyword>IEEE C57.127</keyword>
+  <keyword>low-amplitude discharges</keyword>
+  <keyword>partial discharge (PD)</keyword>
+  <keyword>power transformers</keyword>
+  <keyword>reactors</keyword>
+</bibdata>

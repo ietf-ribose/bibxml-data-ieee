@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for In-Service Maintenance and Electrical Testing of Live-Line Tools</title>
+  <title type="main" format="text/plain">IEEE Guide for In-Service Maintenance and Electrical Testing of Live-Line Tools</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/26668</uri>
+  <docidentifier type="IEEE">IEEE Std 978-1984</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2408-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1984.79677</docidentifier>
+  <docnumber>978-1984</docnumber>
+  <date type="created">
+    <on>1984-08-31</on>
+  </date>
+  <date type="published">
+    <on>2018-06-12</on>
+  </date>
+  <date type="issued">
+    <on>1983-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommendations for in-service inspection, maintenance, and electrical testing of live-line tools are provided. Both job-site and shop or laboratory procedures are covered. Only the electrical aspects are discussed, namely, ac, dc, high-potential test, and watts-loss procedures. All electrical values, unless otherwise stated, are 50 Hz--60 Hz rms values. Not all of the proven practical methods and procedures are included. However, the choice of methods is based on sound engineering principles, engineering safety considerations, decades of testing, and the field experiences of many utilities.</abstract>
+  <copyright>
+    <from>1984</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Inspection</keyword>
+  <keyword>Maintenance</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Power transmission maintenance</keyword>
+  <keyword>Power distribution maintenance</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Electric shock</keyword>
+</bibdata>

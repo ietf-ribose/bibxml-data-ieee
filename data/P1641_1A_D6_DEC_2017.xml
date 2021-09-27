@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for the Use of IEEE Std 1641, IEEE Standard for Signal and Test Definition Amendment to add Guidelines for producing reusable Test Signal Frameworks (TSFs) for use on platforms utilizing Automatic Test Markup Language (ATML)</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for the Use of IEEE Std 1641, IEEE Standard for Signal and Test Definition Amendment to add Guidelines for producing reusable Test Signal Frameworks (TSFs) for use on platforms utilizing Automatic Test Markup Language (ATML)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8237220</uri>
+  <docidentifier type="IEEE">IEEE P1641.1a/D6, December 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4560-3</docidentifier>
+  <docnumber>P1641.1a/D6, Dec 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-12-22</on>
+  </date>
+  <date type="issued">
+    <on>2018-03-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Amend the guide to add guidelines for producing reusable TSFs for use on platforms utilizing ATML, and produce example TSFs showing conformance with the guidelines. This guide explains how signal definitions and test requirements may be implemented in conformance with IEEE Std 1641-2010. It also provides background information, tutorial support, and examples of signal definitions and test requirements for users of the standard. TSFs are major component for adhering with the IEEE Std 1641. There is little guidance in helping users create their own reusable TSFs or examples that show good practices to copy.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Guidelines</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Markup languages</keyword>
+  <keyword>XML</keyword>
+  <keyword>ATLAS</keyword>
+  <keyword>IEEE 1641.1™</keyword>
+  <keyword>TSF Library</keyword>
+</bibdata>

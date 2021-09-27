@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Evaluating Electric Power System Compatibility With Electronic Process Equipment</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Evaluating Electric Power System Compatibility With Electronic Process Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/694188</uri>
+  <docidentifier type="IEEE">IEEE Std 1346-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1393-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.87816</docidentifier>
+  <docnumber>1346-1998</docnumber>
+  <date type="created">
+    <on>1998</on>
+  </date>
+  <date type="issued">
+    <on>1998-05-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A standard methodology for the technical and financial analysis of voltage sag compatibility between process equipment and electric power systems is recommended. The methodology presented is intended to be used as a planning tool to quantify the voltage sag environment and process sensitivity. It shows how technical and financial alternatives can be evaluated. Performance limits for utility systems, power distribution systems, or electronic process equipment are not included.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Power quality</keyword>
+</bibdata>

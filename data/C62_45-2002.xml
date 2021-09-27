@@ -1,0 +1,47 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice on Surge Testing for Equipment Connected to Low-Voltage (1000 V and less) AC Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice on Surge Testing for Equipment Connected to Low-Voltage (1000 V and less) AC Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1196925</uri>
+  <docidentifier type="IEEE">IEEE Std C62.45-2002 (Revision of IEEE Std C62.45-1992)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3486-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.94255</docidentifier>
+  <docnumber>C62.45-2002</docnumber>
+  <date type="created">
+    <on>2003</on>
+  </date>
+  <date type="published">
+    <on>2020-02-12</on>
+  </date>
+  <date type="issued">
+    <on>2002-11-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The scope of this recommended practice is the performance of surge testing on electrical and electronic equipment connected to low-voltage ac power circuits, specifically using the recommended test waveforms defined in IEEE Std C62.41.2 -2002. Nevertheless, these recommendations are applicable to any surge testing, regardless of the specific surges that may be applied.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The scope of this recommended practice is the performance of surge testing on electrical and electronic equipment connected to low-voltage ac power circuits, specifically using there commended test waveform defined in IEEE Std C62.41.2-2002. Nevertheless, these recommendations are applicable to any surge testing, regardless of the specific surges that may be applied.</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>low-voltage ac power circuit</keyword>
+  <keyword>surge testing</keyword>
+  <keyword>surge withstand level</keyword>
+</bibdata>

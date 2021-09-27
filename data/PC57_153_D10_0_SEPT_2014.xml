@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Paralleling Regulating Transformers</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Paralleling Regulating Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6936838</uri>
+  <docidentifier type="IEEE">IEEE PC57.153/D10.0, September 2014</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9395-3</docidentifier>
+  <docnumber>PC57.153/D10.0, Sept 2014</docnumber>
+  <date type="created">
+    <on>2014-01-01</on>
+  </date>
+  <date type="published">
+    <on>2014-10-27</on>
+  </date>
+  <date type="issued">
+    <on>2014</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This paralleling guide describes and compares control methods of paralleling regulating transformers. The control methods include: master/follower, circulating current, power factor, circulating reactive current and negative reactant methods. This guide presents operating philosophy descriptions, sample wiring diagrams, typical operational variations, the provision of adequate backup protection and typical misapplication consequences. This guide does not apply to phase shifting regulating transformers.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Regulators</keyword>
+  <keyword>Regulating transformers</keyword>
+</bibdata>

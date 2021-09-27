@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Preferred Power Supply (PPS) for Nuclear Power Generating Stations (NPGS)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Preferred Power Supply (PPS) for Nuclear Power Generating Stations (NPGS)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6291736</uri>
+  <docidentifier type="IEEE">IEEE P765/D3, August 2012</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7550-8</docidentifier>
+  <docnumber>P765/D3, Aug 2012</docnumber>
+  <date type="created">
+    <on>2012-08-30</on>
+  </date>
+  <date type="published">
+    <on>2012-08-30</on>
+  </date>
+  <date type="issued">
+    <on>2012-08-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The design criteria of the preferred power supply (PPS) and its interfaces with the Class 1E power system, switchyard, transmission system, and alternate ac (AAC) source are described. This standard provides PPS requirements for nuclear power plants and guidance in the areas of AAC power source interfaces with PPS, physical independence of the PPS power and control circuits, and expanded PPS criteria for multi-unit stations.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 765-2006 (Revision of IEEE Std 765-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>AC machines</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Power generation</keyword>
+  <keyword>Generators</keyword>
+  <keyword>Switching systems</keyword>
+  <keyword>AAC</keyword>
+  <keyword>alternate ac source</keyword>
+  <keyword>Class 1E</keyword>
+  <keyword>NPGS</keyword>
+  <keyword>nuclear power generating station</keyword>
+  <keyword>PPS</keyword>
+  <keyword>preferred power supply</keyword>
+  <keyword>switchyard</keyword>
+  <keyword>transmission system</keyword>
+</bibdata>

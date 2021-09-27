@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9504481</uri>
+  <docidentifier type="IEEE">P7-4.3.2/D4 February 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7867-0</docidentifier>
+  <docnumber>P802.11r_D9.0, Jan 2008</docnumber>
+  <date type="created">
+    <on>2008-12-31</on>
+  </date>
+  <date type="published">
+    <on>2021-08-02</on>
+  </date>
+  <date type="issued">
+    <on>2010-06-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Additional computer specific requirements to supplement the criteria and requirements of IEEE Std 603-2009 are specified. Within the context of this standard, the term computer is a system that includes computer hardware, software, firmware, and interfaces. The criteria contained herein, in conjunction with criteria in IEEE Std 603-2009, establish minimum functional and design requirements for computers used as components of a safety system.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 7-4.3.2-2016 (Revision of IEEE Std 7-4.3.2-2010)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 7-4.3.2-2003 (Revision of IEEE Std 7-4.3.2-1993)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Software tools</keyword>
+  <keyword>commercial grade item</keyword>
+  <keyword>diversity</keyword>
+  <keyword>safety systems</keyword>
+  <keyword>software</keyword>
+  <keyword>software tools</keyword>
+  <keyword>software verification and validation</keyword>
+</bibdata>

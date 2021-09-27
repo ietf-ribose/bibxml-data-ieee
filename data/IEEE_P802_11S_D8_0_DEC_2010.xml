@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information Technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications Amendment 10: Mesh Networking</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications Amendment 10: Mesh Networking</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5677290</uri>
+  <docidentifier type="IEEE">IEEE P802.11s/D8.0, December 2010</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4207-7</docidentifier>
+  <docnumber>IEEE P802.11s/D8.0, Dec 2010</docnumber>
+  <date type="created">
+    <on>2010-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-07-25</on>
+  </date>
+  <date type="issued">
+    <on>2011-09-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment describes protocols for IEEE 802.11 stations to form self-configuring multi-hop networks that support both broadcast/multicast and unicast data delivery.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Physical layer</keyword>
+  <keyword>LAN interconnection</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>IEEE 802.11 Standards</keyword>
+  <keyword>forwarding</keyword>
+  <keyword>IEEE 802.11s</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>mesh</keyword>
+  <keyword>multi-hop</keyword>
+  <keyword>path selection</keyword>
+  <keyword>wireless LAN</keyword>
+  <keyword>zero-knowledge proof</keyword>
+</bibdata>

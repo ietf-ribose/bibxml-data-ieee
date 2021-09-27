@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Evaluation and Performance of Radiation Detection Portal Monitors for Use in Homeland Security</title>
+  <title type="main" format="text/plain">American National Standard Evaluation and Performance of Radiation Detection Portal Monitors for Use in Homeland Security</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4079483</uri>
+  <docidentifier type="IEEE">ANSI N42.35-2006 (Revision of ANSI N42.35-2004)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5283-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.299336</docidentifier>
+  <docnumber>N42.35-2006</docnumber>
+  <date type="created">
+    <on>2007-01-22</on>
+  </date>
+  <date type="published">
+    <on>2015-11-10</on>
+  </date>
+  <date type="issued">
+    <on>2006</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The performance requirements for portal monitor instruments are described in this standard. The requirements stated are based on instruments used in support of efforts associated with the United States Department of Homeland Security.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI N42.35-2016 (Revision of ANSI N42.35-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Instruments</keyword>
+  <keyword>Portals</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Radiation detectors</keyword>
+  <keyword>homeland security</keyword>
+  <keyword>instrument test</keyword>
+  <keyword>portal monitors</keyword>
+  <keyword>radiation detectors</keyword>
+</bibdata>

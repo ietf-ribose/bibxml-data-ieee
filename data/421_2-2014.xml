@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance of Excitation Control Systems</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance of Excitation Control Systems - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6889139</uri>
+  <docidentifier type="IEEE">IEEE Std 421.2-2014 (Revision of IEEE Std 421.2-1990) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9312-0</docidentifier>
+  <docnumber>421.2-2014</docnumber>
+  <date type="created">
+    <on>2014</on>
+  </date>
+  <date type="published">
+    <on>2014-09-03</on>
+  </date>
+  <date type="issued">
+    <on>2014-03-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide includes criteria, definitions, and test procedures for evaluating the dynamic performance of excitation control systems for synchronous machines as applied by electric utilities.</abstract>
+  <copyright>
+    <from>2014</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 421.2-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>closed loop systems</keyword>
+  <keyword>Excitation</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Signal disturbances</keyword>
+  <keyword>Synchronous machines</keyword>
+  <keyword>Closed-loop performance</keyword>
+  <keyword>dynamic performance</keyword>
+  <keyword>excitation control systems</keyword>
+  <keyword>excitation system specifications</keyword>
+  <keyword>IEEE Std 421.2(TM)</keyword>
+  <keyword>large signal disturbances</keyword>
+  <keyword>model</keyword>
+  <keyword>small signal disturbances</keyword>
+  <keyword>stabilizer</keyword>
+  <keyword>synchronous machine</keyword>
+</bibdata>

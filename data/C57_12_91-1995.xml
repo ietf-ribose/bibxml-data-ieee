@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Code for Dry-Type Distribution and Power Transformers</title>
+  <title type="main" format="text/plain">IEEE Standard Test Code for Dry-Type Distribution and Power Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499703</uri>
+  <docidentifier type="IEEE">IEEE Std C57.12.91-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2992-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80834</docidentifier>
+  <docnumber>C57.12.91-1995</docnumber>
+  <date type="created">
+    <on>1996-02-16</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1995-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by C57.12.91-2001. Methods for performing tests specified in IEEE Std C57.12.01-1989 and other referenced standards applicable to dry-type distribution and power transformers are described. This standard is intended for use as a basis for performance, safety, and the proper testing of dry-type distribution and power transformers. This standard applies to all dry-type transformers except instrument transformers, step-voltage and induction voltage regulators, arc furnace transformers, rectifier transformers, specialty transformers, and mine transformers.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C57.12.91-1979</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.91-2001</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power transformer losses</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>Resistance measurement</keyword>
+  <keyword>Temperature measurement</keyword>
+  <keyword>Acoustic noise measurement</keyword>
+  <keyword>Power transformer insulation testing</keyword>
+  <keyword>dry type</keyword>
+  <keyword>transformers</keyword>
+  <keyword>power transformer</keyword>
+  <keyword>test code</keyword>
+</bibdata>

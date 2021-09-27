@@ -1,0 +1,49 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE): Service Specification</title>
+  <title type="main" format="text/plain">IEEE Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE): Service Specification</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/749036</uri>
+  <docidentifier type="IEEE">IEEE Std 1232.2-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3533-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.89195</docidentifier>
+  <docnumber>1232.2-1998</docnumber>
+  <date type="created">
+    <on>1999-02-19</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Formal software interfaces to system diagnosis tools and applications are defined. As part of the AI-ESTATE set of standards, this standard defines services to manipulate information models as defined in IEEE Std 1232.1-1997 and to control a diagnostic reasoner. This standard includes a new information model to manipulate dynamic information obtained during the process of system diagnosis. Service bindings to ANSI C and ANSI Ada are also provided.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>AI-ESTATE</keyword>
+  <keyword>artificial intelligence</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>dynamic context model</keyword>
+  <keyword>system test</keyword>
+</bibdata>

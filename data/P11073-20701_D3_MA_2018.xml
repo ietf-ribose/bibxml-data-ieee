@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Service-Oriented Medical Device Exchange Architecture &amp;amp;amp; Protocol Binding</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Service-Oriented Medical Device Exchange Architecture &amp;amp;amp; Protocol Binding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8310991</uri>
+  <docidentifier type="IEEE">IEEE P11073-20701/D3, March 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4737-9</docidentifier>
+  <docnumber>P11073-20701/D3, Ma 2018</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-03-09</on>
+  </date>
+  <date type="issued">
+    <on>2018-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, an architecture for service-oriented distributed PoC medical devices and medical IT systems is defined. This standard defines a binding of the Participant, Discovery, and Communication Model defined in IEEE Std 11073-10207(TM) to the profile for transport over Web Services defined in IEEE Std 11073-20702(TM). Moreover, a binding to Network Time Protocol (NTP) and Differentiated Services (DiffServ) is defined for time synchronization and transport Quality of Service requirements.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Service oriented architecture</keyword>
+  <keyword>Patient monitoring</keyword>
+  <keyword>Point of care</keyword>
+  <keyword>Biomedical monitoring</keyword>
+  <keyword>Remote monitoring</keyword>
+  <keyword>alert systems</keyword>
+  <keyword>BICEPS</keyword>
+  <keyword>DiffServ</keyword>
+  <keyword>IEEE 11073-20701</keyword>
+  <keyword>ISO/IEEE 11073</keyword>
+  <keyword>MDPWS</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>NTP</keyword>
+  <keyword>patient</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>remote control</keyword>
+  <keyword>service-oriented architecture</keyword>
+</bibdata>

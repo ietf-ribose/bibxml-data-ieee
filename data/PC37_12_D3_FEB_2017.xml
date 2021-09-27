@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Specifications of High-Voltage Circuit Breakers (Over 1000 Volts)</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Specifications of High-Voltage Circuit Breakers (Over 1000 Volts)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7859255</uri>
+  <docidentifier type="IEEE">IEEE PC37.12/D3, February 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3858-2</docidentifier>
+  <docnumber>PC37.12/D3, Feb 2017</docnumber>
+  <date type="created">
+    <on>2017-02-17</on>
+  </date>
+  <date type="published">
+    <on>2017-02-20</on>
+  </date>
+  <date type="issued">
+    <on>2018-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Specifications that apply to all indoor and outdoor types of ac high-voltage circuit breakers rated above 1000 volts are covered in this document. This document is issued only as a guide for use in compiling specifications for ac high-voltage circuit breakers. The imperative mode of the language is illustrative of that used in specifications.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.12-2008</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Capacitance</keyword>
+  <keyword>High voltage techniques</keyword>
+  <keyword>Dielectrics</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Dielectrics</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>capacitance current switching</keyword>
+  <keyword>circuit breaker</keyword>
+  <keyword>dielectric withstand</keyword>
+  <keyword>fast transient recovery voltage</keyword>
+  <keyword>high-voltage</keyword>
+  <keyword>IEEE Std C37.12(TM)</keyword>
+  <keyword>indoor</keyword>
+  <keyword>initial</keyword>
+  <keyword>interrupting time</keyword>
+  <keyword>manufacturer</keyword>
+  <keyword>mechanical endurance</keyword>
+  <keyword>operating duty</keyword>
+  <keyword>outdoor</keyword>
+  <keyword>power frequency</keyword>
+  <keyword>purchaser</keyword>
+  <keyword>ratings</keyword>
+  <keyword>related capabilities</keyword>
+  <keyword>short-circuit current</keyword>
+  <keyword>short-line fault</keyword>
+  <keyword>specification</keyword>
+</bibdata>

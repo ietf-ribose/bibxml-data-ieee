@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for DevOps:Building Reliable and Secure Systems Including Application Build, Package, and Deployment</title>
+  <title type="main" format="text/plain">IEEE Standard for DevOps:Building Reliable and Secure Systems Including Application Build, Package, and Deployment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9415476</uri>
+  <docidentifier type="IEEE">IEEE Std 2675-2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7407-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2021.9415476</docidentifier>
+  <docnumber>2675-2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-04-23</on>
+  </date>
+  <date type="issued">
+    <on>2021-02-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Technical principles and processes to build, package, and deploy systems and applications in a reliable and secure way are specified. Establishing effective compliance and information technology (IT) controls is the focus. DevOps principles presented include mission first, customer focus, left-shift, continuous everything, and systems thinking. How stakeholders, including developers and operations staff, can collaborate and communicate effectively is described. The process outcomes and activities herein are aligned with the process model specified in ISO/IEC/IEEE 12207:2017 and ISO/IEC/IEEE 15288:2015.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Security</keyword>
+  <keyword>Reliability</keyword>
+  <keyword>Continuous time systems</keyword>
+  <keyword>Agile software development</keyword>
+  <keyword>agile</keyword>
+  <keyword>continuous delivery</keyword>
+  <keyword>continuous deployment</keyword>
+  <keyword>continuous integration</keyword>
+  <keyword>DevOps</keyword>
+  <keyword>IEEE 2675</keyword>
+  <keyword>left-shift</keyword>
+</bibdata>

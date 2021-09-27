@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Metal-Enclosed Low-Voltage (1000Vac and below, 3200Vdc and below) Power Circuit Breaker Switchgear Amendment 1: Control and Secondary Circuits and Devices, and All Wiring</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Metal-Enclosed Low-Voltage (1000Vac and below, 3200Vdc and below) Power Circuit Breaker Switchgear Amendment 1: Control and Secondary Circuits and Devices, and All Wiring</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8822856</uri>
+  <docidentifier type="IEEE">IEEE PC37.20.1a/04, August 2019</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6107-8</docidentifier>
+  <docnumber>PC37.20.1a/04, Aug 2019</docnumber>
+  <date type="created">
+    <on>2019-08-30</on>
+  </date>
+  <date type="published">
+    <on>2019-09-02</on>
+  </date>
+  <date type="issued">
+    <on>2020-03-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The requirements for control, secondary, and logic-level wiring are addressed in this amendment. It covers wire type, ampacity, and methods for protecting wiring across a hinge.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.20.1-2015 (Revision of IEEE Std C37.20.1-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Metal enclosures</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>circuit breaker</keyword>
+  <keyword>control</keyword>
+  <keyword>cumulative loading</keyword>
+  <keyword>current transformers</keyword>
+  <keyword>drawout</keyword>
+  <keyword>IEEE C37.20.1</keyword>
+  <keyword>IEEE C37.20.1a</keyword>
+  <keyword>indoor</keyword>
+  <keyword>instrumentation</keyword>
+  <keyword>load current-carrying</keyword>
+  <keyword>metal-enclosed</keyword>
+  <keyword>metering</keyword>
+  <keyword>outdoor</keyword>
+  <keyword>protection</keyword>
+  <keyword>stationary</keyword>
+  <keyword>switchgear</keyword>
+</bibdata>

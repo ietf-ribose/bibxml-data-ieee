@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Test Methods for Surge Protectors and Protective Circuits Used in Information and Communications Technology (ICT) circuits, including Smart Grid Data Circuits</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Test Methods for Surge Protectors and Protective Circuits Used in Information and Communications Technology (ICT) circuits, including Smart Grid Data Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7407244</uri>
+  <docidentifier type="IEEE">IEEE PC62.36/D38, February 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0743-4</docidentifier>
+  <docnumber>PC62.36/D38, Feb 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-02-15</on>
+  </date>
+  <date type="issued">
+    <on>2016-05-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to surge protectors for application on multiconductor balanced or unbalanced data, communications, and signaling circuits with voltages equal to or less than 1000 V rms, or 1200 V dc. These surge protectors are designed to limit voltage surges, current surges, or both.This standard describes the methods of testing and criteria for determining the end of life of electrical surge protectors used in low-voltage data, communications, and signaling circuits. The surge protectors covered are multiple-component series or parallel combinations of linear or nonlinear elements, packaged for the purpose of limiting voltage, current, or both. This standard describes the methods of testing and criteria (where appropriate) for the characteristics and ratings of surge protectors used in information and communications technology (ICT) circuits, and smart grid data circuits. This standard is not intended to cover packaged single gas tube, air gap, varistor, or avalanche junction surge protective components, which are covered by IEEE Std C62.31 [IEEE Standard Test Specifications for Gas-Tube Surge Protective Devices], IEEE Std C62.32 [IEEE Standard Test Specifications for Low-Voltage Air Gap Surge Protective Devices], IEEE Std C62.33 [IEEE Standard Test Specifications for Varistor Surge Protective Devices], and IEEE Std C62.35 [IEEE Standard Test Specifications for Avalanche Junction Semiconductor Surge Protective Devices], respectively. Specifically excluded from this standard are test methods for low-voltage power circuit applications. For protection of wire-line communication facilities under the specialized conditions found at power stations, consult IEEE Std 487 [IEEE Recommended Practice for the Protection of Wire-Line Communication Facilities Serving Electric Power Stations].</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Smart grids</keyword>
+  <keyword>Power transmission lines</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>Surge Protector</keyword>
+  <keyword>SPD</keyword>
+  <keyword>Transient Overvoltage Protector</keyword>
+  <keyword>Surge Protective Circuits</keyword>
+  <keyword>ICT Surge Protection</keyword>
+  <keyword>Smart Grid Surge Protection</keyword>
+  <keyword>Telecommunication Line Protector Unit</keyword>
+  <keyword>Signal Line Surge Protection</keyword>
+</bibdata>

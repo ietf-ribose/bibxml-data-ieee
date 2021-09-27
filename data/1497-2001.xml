@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Standard Delay Format (SDF) for the Electronic Design Process</title>
+  <title type="main" format="text/plain">IEEE Standard for Standard Delay Format (SDF) for the Electronic Design Process</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/972829</uri>
+  <docidentifier type="IEEE">IEEE Std 1497-2001</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3075-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93359</docidentifier>
+  <docnumber>1497-2001</docnumber>
+  <date type="created">
+    <on>2001-12-14</on>
+  </date>
+  <date type="published">
+    <on>2019-04-26</on>
+  </date>
+  <date type="issued">
+    <on>2001-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEC 61523-3: 2004 Dual-logo document. Replaces IEEE Std 1497-2001. The Standard Delay Format (SDF) is defined in this standard. SDF is a textual file format for representing the delay and timing information of electronic systems. While both human and machine readable, in its most common usage it will be machine written and machine read in support of timing analysis and verification tools, and of other tools requiring delay and timing information. The primary audience for this standard is the implementors of tools supporting the format, but anyone with a need to understand the format’s contents will find it useful.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Timing</keyword>
+  <keyword>computer languages</keyword>
+  <keyword>delay backannotation</keyword>
+  <keyword>digital systems</keyword>
+  <keyword>electronic systems</keyword>
+  <keyword>hardware</keyword>
+  <keyword>hardware design</keyword>
+  <keyword>SDF</keyword>
+  <keyword>timing</keyword>
+  <keyword>timing analysis</keyword>
+  <keyword>timing back annotation</keyword>
+  <keyword>timing verification</keyword>
+</bibdata>

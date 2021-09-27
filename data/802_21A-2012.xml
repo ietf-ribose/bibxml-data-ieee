@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Independent Handover Services</title>
+  <title type="title-main" format="text/plain">Amendment for Security Extensions to Media Independent Handover Services and Protocol</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and Metropolitan Area Networks: Media Independent Handover Services - Amendment for Security Extensions to Media Independent Handover Services and Protocol</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6194248</uri>
+  <docidentifier type="IEEE">IEEE Std 802.21a-2012 (Amendment to IEEE Std 802.21-2008)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7257-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6194248</docidentifier>
+  <docnumber>802.21a-2012</docnumber>
+  <date type="updated">
+    <on>2012-05-25</on>
+  </date>
+  <date type="created">
+    <on>2012-05-03</on>
+  </date>
+  <date type="published">
+    <on>2012-05-03</on>
+  </date>
+  <date type="issued">
+    <on>2012-03-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Extensions to IEEE Std 802.21-2008 are provided for security mechanisms to protect media independent handover services and mechanisms to use MIH to assist proactive authentication to reduce the latency due to media access authentication and key establishment with the target network.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Amendment to IEEE Std 802.21-2008. Extensions to IEEE Std 802.21-2008 are provided for security mechanisms to protect media independent handover services and mechanisms to use MIH to assist proactive authentication to reduce the latency due to media access authentication and key establishment with the target network.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Authentication</keyword>
+  <keyword>Access protocols</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>IEEE 802.21</keyword>
+  <keyword>IEEE 802.21a</keyword>
+  <keyword>proactive authentication</keyword>
+  <keyword>service access authentication</keyword>
+  <keyword>security protection</keyword>
+</bibdata>

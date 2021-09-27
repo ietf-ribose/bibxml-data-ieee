@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks</title>
+  <title type="title-main" format="text/plain">Amendment 15: Bridging of IEEE 802.20</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks - Amendment 15: Bridging of IEEE 802.20</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7327115</uri>
+  <docidentifier type="IEEE">IEEE Std 802.20b-2010 (Amendment to IEEE Std 802.1Q-2005)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6355-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.7327115</docidentifier>
+  <docnumber>802.20b-2010</docnumber>
+  <date type="created">
+    <on>2010-11-19</on>
+  </date>
+  <date type="published">
+    <on>2015-11-11</on>
+  </date>
+  <date type="issued">
+    <on>2010-11-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies the mechanism for the support of bridging of IEEE 802.20 networks.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1Q-2005 (Incorporates IEEE Std 802.1Q1998, IEEE Std 802.1u-2001, IEEE Std 802.1v-2001, and IEEE Std 802.1s-2002)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Virtual LAN</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>802.20</keyword>
+  <keyword>bridging</keyword>
+</bibdata>

@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Service Interoperability in Ethernet Passive Optical Networks (SIEPON)</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Service Interoperability in Ethernet Passive Optical Networks (SIEPON) - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8372986</uri>
+  <docidentifier type="IEEE">IEEE Std 1904.1-2017 (Revision of IEEE Std 1904.1-2013) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4939-7</docidentifier>
+  <docnumber>1904.1-2017</docnumber>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2018-06-05</on>
+  </date>
+  <date type="issued">
+    <on>2017-02-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The system-level requirements needed to ensure service-level, multi-vendor interoperability of Ethernet Passive Optical Network (EPON) equipment is described. The existing IEEE 802.3 and IEEE 802.1 standards, which ensure the interoperability at the Physical Layer(PHY) and Data Link Layer, are complemented by the specifications. Specifically included in this specification are - EPON system-level interoperability specifications covering equipment functionality, traffic engineering, and service-level quality of service/class of service (QoS/CoS) mechanisms; - Management specifications covering equipment management, service management, and EPON power&amp;amp;amp;#8208;saving mechanism.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>EPON</keyword>
+  <keyword>Interoperability</keyword>
+  <keyword>Quality of service</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Passive optical networks</keyword>
+  <keyword>1G-EPON</keyword>
+  <keyword>10G-EPON</keyword>
+  <keyword>EPON</keyword>
+  <keyword>Ethernet Passive Optical Network</keyword>
+  <keyword>IEEE 1904.1</keyword>
+  <keyword>interoperability</keyword>
+  <keyword>QoS</keyword>
+  <keyword>quality of service</keyword>
+  <keyword>service interoperability</keyword>
+  <keyword>SIEPON</keyword>
+</bibdata>

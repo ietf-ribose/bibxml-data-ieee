@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for the Application of Shunt Reactor Switching</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Shunt Reactor Switching - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5954123</uri>
+  <docidentifier type="IEEE">IEEE Std C37.015-2009 (Revision of IEEE Std C37.015-1993) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8698-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2010.5954123</docidentifier>
+  <docnumber>C37.015-2009</docnumber>
+  <date type="created">
+    <on>2010-02-12</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2009-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This application guide applies to ac high-voltage circuit breakers rated for shunt reactor switching. The guide covers the specific cases of switching directly grounded shunt reactors, ungrounded shunt reactors and shunt reactors grounded through a neutral reactor. Directly grounded reactors are common on systems having a voltage of 60 kV and above, while ungrounded reactors are commonly applied on systems having a voltage below 60 kV. Schemes where the reactor is grounded through a neutral reactor are usually only applied on systems having a voltage of 60 kV and above. Whereas this application guide is directed towards circuit breakers, it is recognized and accepted that other switching devices such as high voltage load break switches and circuit switchers are capable of shunt reactor switching and this guide may be applied as appropriate.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.015-1993</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.015-2017 (Revision of IEEE Std C37.015-2009</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.015-2017 (Revision of IEEE Std C37.015-2009</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Shunt (electrical)</keyword>
+  <keyword>Reactors</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Inductive power transmission</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Reactive power control</keyword>
+  <keyword>C37.015-2009</keyword>
+  <keyword>ac high voltage circuit breakers</keyword>
+  <keyword>application</keyword>
+  <keyword>inductive load switching</keyword>
+  <keyword>overvoltages</keyword>
+  <keyword>shunt reactor switching</keyword>
+  <keyword>small inductive currents</keyword>
+</bibdata>

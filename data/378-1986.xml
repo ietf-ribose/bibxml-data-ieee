@@ -1,0 +1,43 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard on Network Analyzers (100 kHz to 18GHz)</title>
+  <title type="main" format="text/plain">IEEE Standard on Network Analyzers (100 kHz to 18GHz)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29108</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 378-1986</docidentifier>
+  <docidentifier type="ISBN">0-7381-4196-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1986.81601</docidentifier>
+  <docnumber>378-1986</docnumber>
+  <date type="created">
+    <on>1986</on>
+  </date>
+  <date type="issued">
+    <on>1986</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard was written for users and manufacturers of automatic network analyzers. The purpose of the standard is to provide common terminology, to give performance parameters required for describing and specifying network analyzers, and to provide assistance in verifying performance. Automatic network analyzers are used to measure complex reflection and transmission characteristics of one- and two-port devices at radio and microwave frequencies. Measurement uncertainties are a function of both the magnitude and phase angle of the device under test as well as the frequency. This standard specifies a set of useful reference networks or standard devices that may be used for verification. A network analyzer as considered is any system that measures two-port transmission or one-port reflection of multiports. A wide variety of attention and impedance measurement equipment is of concern.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1986</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Measurement standards</keyword>
+  <keyword>Microwave reflectometry</keyword>
+  <keyword>Circuit analysis</keyword>
+</bibdata>

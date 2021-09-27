@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Direct Lightning Stroke Shielding of Substations</title>
+  <title type="main" format="text/plain">IEEE Guide for Direct Lightning Stroke Shielding of Substations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/552978</uri>
+  <docidentifier type="IEEE">IEEE Std 998-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1015-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81546</docidentifier>
+  <docnumber>998-1996</docnumber>
+  <date type="created">
+    <on>1996-02-15</on>
+  </date>
+  <date type="published">
+    <on>2016-02-16</on>
+  </date>
+  <date type="issued">
+    <on>1996-04-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Design information for the methods historically and typically applied by substation designers to minimize direct lightning strokes to equipment and buswork within substations is provided. Two approaches, the classical empirical method and the electrogeometric model, are presented in detail. A third approach involving the use of active lightning terminals is also briefly reviewed.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>direct stroke shielding</keyword>
+  <keyword>lightning stroke protection</keyword>
+  <keyword>substations</keyword>
+</bibdata>

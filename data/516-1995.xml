@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Maintenance Methods on Energized Power Lines</title>
+  <title type="main" format="text/plain">IEEE Guide for Maintenance Methods on Energized Power Lines</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/467538</uri>
+  <docidentifier type="IEEE">IEEE Std 516-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3806-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.122635</docidentifier>
+  <docnumber>516-1995</docnumber>
+  <date type="updated">
+    <on>1995-09-26</on>
+  </date>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1995-03-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 516-2003. General recommendations for performing maintenance work on energized power lines are provided. Technical explanations as required to cover certain laboratory testing of tools and equipment, field maintenance and care of tools and equipment, and work methods for the maintenance of energized lines and for persons working in the vicinity of energized lines are included.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 516-1987</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 516-2003 (Revision of IEEE Std 516-1995)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power transmission maintenance</keyword>
+  <keyword>Power distribution maintenance</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>energized</keyword>
+  <keyword>equipment</keyword>
+  <keyword>maintenance</keyword>
+  <keyword>power lines</keyword>
+  <keyword>tools</keyword>
+</bibdata>

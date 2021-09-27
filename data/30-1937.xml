@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">AIEE Definitions and General Standards for Wires and Cables</title>
+  <title type="main" format="text/plain">AIEE Definitions and General Standards for Wires and Cables</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7405213</uri>
+  <docidentifier type="IEEE">AIEE No 30-1937 (ASA C8.1-1932)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0278-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1937.7405213</docidentifier>
+  <docnumber>30-1937</docnumber>
+  <date type="updated">
+    <on>2016-03-04</on>
+  </date>
+  <date type="created">
+    <on>1937</on>
+  </date>
+  <date type="published">
+    <on>2016-02-11</on>
+  </date>
+  <date type="issued">
+    <on>1937</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">These standards include definitions and standards of a general character which are applicable to wires and cables for power purposes. The standards for specific kinds of insulation will be found in the individual standards for those insulations.</abstract>
+  <copyright>
+    <from>1937</from>
+    <owner>
+      <organization>
+        <name>AIEE</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">AIEE No. 30-1944 (Revision of AIEE No. 30-1937)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>AIEE Standards</keyword>
+  <keyword>Wiring</keyword>
+  <keyword>Cables</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Terminology</keyword>
+</bibdata>

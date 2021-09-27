@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Harmonic Control in Electric Power Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Harmonic Control in Electric Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9420467</uri>
+  <docidentifier type="IEEE">IEEE P519/D5.1, January 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7622-5</docidentifier>
+  <docnumber>P519/D5.1, Jan 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-04-30</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Goals for the design of electrical systems that include both linear and nonlinear loads are established in this standard. The voltage and current waveforms that may exist throughout the system are described, and waveform distortion goals for the system designer are established. The interface between sources and loads is described as the point of common coupling and observance of the design goals will reduce interference between electrical equipment. This standard addresses steady-state limitations. Transient conditions exceeding these limitations may be encountered. This document sets the quality of power that is to be provided at the point of common coupling. This document does not cover the effects of radio-frequency interference; however, guidance is offered for wired telephone systems</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 519-2014 (Revision of IEEE Std 519-1992)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power system harmonics</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Power quality</keyword>
+  <keyword>harmonics</keyword>
+  <keyword>IEEE 519&amp;amp;#8482;</keyword>
+  <keyword>power quality</keyword>
+</bibdata>

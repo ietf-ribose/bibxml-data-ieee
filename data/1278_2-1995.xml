@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Distributed Interactive Simulation</title>
+  <title type="title-main" format="text/plain">Communication Services and Profiles</title>
+  <title type="main" format="text/plain">IEEE Standard for Distributed Interactive Simulation - Communication Services and Profiles</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/499688</uri>
+  <docidentifier type="IEEE">IEEE Std 1278.2-1995</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0994-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.80824</docidentifier>
+  <docnumber>1278.2-1995</docnumber>
+  <date type="updated">
+    <on>2016-02-19</on>
+  </date>
+  <date type="created">
+    <on>1996-11-10</on>
+  </date>
+  <date type="published">
+    <on>2015-11-10</on>
+  </date>
+  <date type="issued">
+    <on>1995-09-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Communication services to support information exchange between simulation applications participating in the Distributed Interactive Simulation (DIS) environment are defined. These communication services describe a connectionless information transfer that supports real-time, as well as non-real-time, exchange. Several communication profiles specifying communication services are provided.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Communication services to support information exchange between simulation applications participating in the Distributed Interactive Simulation (DIS) environment are defined. These communication services describe a connectionless information transfer that supports real-time, as well as non-real-time, exchange. Several communication profiles specifying communication services are provided.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Distributed computing</keyword>
+  <keyword>Interactive systems</keyword>
+  <keyword>Simulation software</keyword>
+  <keyword>Software standards</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>communication</keyword>
+  <keyword>DIS</keyword>
+  <keyword>simulation network</keyword>
+  <keyword>protocol data units</keyword>
+  <keyword>PDU</keyword>
+  <keyword>multicast</keyword>
+</bibdata>

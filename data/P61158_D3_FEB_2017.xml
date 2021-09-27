@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Industrial Hard Real-Time Communication</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Industrial Hard Real-Time Communication</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7858621</uri>
+  <docidentifier type="IEEE">IEEE P61158/D3, February 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3855-1</docidentifier>
+  <docnumber>P61158/D3, Feb 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-02-17</on>
+  </date>
+  <date type="issued">
+    <on>2017</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The Standard for Industrial Hard Real-Time Communication is an adoption of the EPSG DS 301--Ethernet POWERLINK--Communication Profile Specification. Ethernet POWERLINK is a communication profile for Real-Time Ethernet (RTE). It extends Ethernet according to the IEEE Std 802.3 with mechanisms to transfer data with predictable timing and precise synchronisation. The communication profile meets timing demands typical for high performance automation and motion applications. It does not change basic principles of the Fast Ethernet Standard IEEE 802.3 but extends it towards RTE. Thus it is possible to leverage and continue to use any standard Ethernet silicon, infrastructure component or test and measurement equipment like a network analyzer.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power plants</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Communication Technology</keyword>
+  <keyword>Real-time Ethernet</keyword>
+  <keyword>Industrial Ethernet</keyword>
+  <keyword>Industrial Automation</keyword>
+  <keyword>Ethernet POWERLINK</keyword>
+</bibdata>

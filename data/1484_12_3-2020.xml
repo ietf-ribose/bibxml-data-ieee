@@ -1,0 +1,55 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Learning Technology--Extensible Markup Language (XML) Schema Definition Language Binding for Learning Object Metadata</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Learning Technology--Extensible Markup Language (XML) Schema Definition Language Binding for Learning Object Metadata - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9160005</uri>
+  <docidentifier type="IEEE">IEEE Std 1484.12.3-2020 (Revision of IEEE Std 1484.12.3-2005) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6905-0</docidentifier>
+  <docnumber>1484.12.3-2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-08-05</on>
+  </date>
+  <date type="issued">
+    <on>2020-03-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Standard defines a World Wide Web Consortium (W3C) Extensible Markup Language (XML) Schema definition language binding of the learning object metadata (LOM) data model defined in IEEE Std 1484.12.1TM&amp;amp;#8211;2002. The purpose of this Standard is to allow the creation of LOM instances in XML, which allows for interoperability and the exchange of LOM XML instances between various systems. This Standard uses the W3C XML Schema definition language to define the syntax and semantics of the XML encodings.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Metadata</keyword>
+  <keyword>Learning systems</keyword>
+  <keyword>1484.12.1&amp;amp;#8211;2002</keyword>
+  <keyword>Extensible Markup Language (XML)</keyword>
+  <keyword>learning object metadata (LOM)</keyword>
+  <keyword>LOM XML instance</keyword>
+  <keyword>LOM XML Schema binding</keyword>
+  <keyword>metadata</keyword>
+  <keyword>W3C XML Schema definition language</keyword>
+  <keyword>XML Schema definition (XSD)</keyword>
+</bibdata>

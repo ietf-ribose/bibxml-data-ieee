@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard for Specifications of Electromagnetic Interference and Field Strength Measuring Instrumentation in the Frequency Range 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">American National Standard for Specifications of Electromagnetic Interference and Field Strength Measuring Instrumentation in the Frequency Range 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8085444</uri>
+  <docidentifier type="IEEE">ANSI C63.2-2016 (Revision of ANSI C63.2-2009) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4478-1</docidentifier>
+  <docnumber>C63.2-2016</docnumber>
+  <date type="created">
+    <on>2017-02-20</on>
+  </date>
+  <date type="published">
+    <on>2017-10-26</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Requirements for measuring instruments used for electromagnetic interference (EMI) measurements are provided, involving quasi-peak, peak, and average detection in the frequency range 9 kHz to 40 GHz.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C63.2-2009 (Revision of ANSI C63.2-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ANSI Standards</keyword>
+  <keyword>Receivers</keyword>
+  <keyword>Electromagnetic measurements</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Electromagnetic interference</keyword>
+  <keyword>ANSI C63.2</keyword>
+  <keyword>average detection</keyword>
+  <keyword>electromagnetic compatibility</keyword>
+  <keyword>electromagnetic interference</keyword>
+  <keyword>EMI Receiver</keyword>
+  <keyword>field strength measurement instrumentation</keyword>
+  <keyword>peak detection</keyword>
+  <keyword>quasi-peak detection</keyword>
+</bibdata>

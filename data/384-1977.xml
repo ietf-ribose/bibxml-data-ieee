@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
+  <title type="main" format="text/plain">IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7414358</uri>
+  <docidentifier type="IEEE">IEEE Std 384-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0322-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7414358</docidentifier>
+  <docnumber>384-1977</docnumber>
+  <date type="updated">
+    <on>2016-04-01</on>
+  </date>
+  <date type="created">
+    <on>1977</on>
+  </date>
+  <date type="published">
+    <on>2016-02-19</on>
+  </date>
+  <date type="issued">
+    <on>1977-03-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The scope of this document is the independence requirements of the circuits and equipment comprising or associated with Class 1E systems. It sets forth criteria for the independence that can be achieved by physical separation and electrical isolation of circuits and equipment which are redundant but does not address the determination of what is to be considered redundant.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 384-1981 (Revision of ANSI/IEEE Std 384-1977</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power supplies</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Mechanical systems</keyword>
+  <keyword>Electrical equipment</keyword>
+  <keyword>Circuits</keyword>
+</bibdata>

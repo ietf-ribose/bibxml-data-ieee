@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Technology of Unified Power Flow Controller Using Modular Multilevel Converter: Part 3 Thyristor Bypass Switch</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Technology of Unified Power Flow Controller Using Modular Multilevel Converter: Part 3 Thyristor Bypass Switch</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9037441</uri>
+  <docidentifier type="IEEE">IEEE P2745.3/D5, March 2020</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-6557-1</docidentifier>
+  <docnumber>P2745.3/D5, Mar 2020</docnumber>
+  <date type="created">
+    <on>2020</on>
+  </date>
+  <date type="published">
+    <on>2020-03-16</on>
+  </date>
+  <date type="issued">
+    <on>2020-06-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">An approach to preparing a specification for the thyristor bypass switch (TBS) of a unified power flow controller (UPFC) using modular multilevel converter (MMC) technology is documented by this guide. The intention of this guide is to serve as a base specification to allow users to modify or develop specific clauses to meet a particular application.</abstract>
+  <copyright>
+    <from>2020</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Thyristors</keyword>
+  <keyword>Flow control</keyword>
+  <keyword>Bypass switches</keyword>
+  <keyword>fast bypass system</keyword>
+  <keyword>function requirements</keyword>
+  <keyword>IEEE 2745.3</keyword>
+  <keyword>performance requirements</keyword>
+  <keyword>system composition</keyword>
+  <keyword>test</keyword>
+  <keyword>thyristor bypass switch</keyword>
+</bibdata>

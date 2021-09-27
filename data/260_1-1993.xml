@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Letter Symbols for Units of Measurement (SI Units, Customary Inch-Pound Units, and Certain Other Units)</title>
+  <title type="main" format="text/plain">American National Standard Letter Symbols for Units of Measurement (SI Units, Customary Inch-Pound Units, and Certain Other Units)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/392537</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 260.1-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0944-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.121426</docidentifier>
+  <docnumber>260.1-1993</docnumber>
+  <date type="created">
+    <on>1994-01-10</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1993-06-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 260.1-2004. General principles of letter symbol standardization are discussed. Symbols are given for general use and for use with limited character sets. The symbols given are intended for all applications, including use in text and equations; in graphs and diagrams; and on panels, labels, and nameplates.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 260-1978</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 260.1-2004 (Revision of IEEE Std 260.1-1993)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Measurement units</keyword>
+  <keyword>Weight measurement</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>abbreviations</keyword>
+  <keyword>letter symbols</keyword>
+  <keyword>measurement</keyword>
+  <keyword>SI</keyword>
+  <keyword>units</keyword>
+</bibdata>

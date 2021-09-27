@@ -1,0 +1,66 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for the Design and Qualification of Class 1E Control Boards, Panels, and Racks Used in Nuclear Power Generating Stations</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for the Design and Qualification of Class 1E Control Boards, Panels, and Racks Used in Nuclear Power Generating Stations - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7873201</uri>
+  <docidentifier type="IEEE">IEEE Std 420-2001 (Revision of ANSI/IEEE Std 420-1982) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3891-9</docidentifier>
+  <docnumber>420-2001</docnumber>
+  <date type="created">
+    <on>2002-02-08</on>
+  </date>
+  <date type="published">
+    <on>2017-03-07</on>
+  </date>
+  <date type="issued">
+    <on>2001-10-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the design requirements for new and/or modified Class 1E control boards, panels, and racks and establishes the methods to verify that these requirements have been satisfied. Methods for meeting the separation criteria contained in ANSI/IEEE Std 384-1992 are addressed. Qualification is also included to address the overall requirements of ANSI/IEEE Std 323-1983 and ANSI/IEEE Std 344-1987.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 420-1982</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Wiring</keyword>
+  <keyword>Control boards</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>cabling</keyword>
+  <keyword>control boards</keyword>
+  <keyword>independence</keyword>
+  <keyword>isolation</keyword>
+  <keyword>nuclear</keyword>
+  <keyword>panels</keyword>
+  <keyword>qualification</keyword>
+  <keyword>racks</keyword>
+  <keyword>safety</keyword>
+  <keyword>separation</keyword>
+  <keyword>wiring</keyword>
+</bibdata>

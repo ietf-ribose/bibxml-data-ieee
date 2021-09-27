@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Requirements, Terminology, and Test Procedures for Neutral Grounding Devices</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Requirements, Terminology, and Test Procedures for Neutral Grounding Devices</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7272724</uri>
+  <docidentifier type="IEEE">IEEE PC57.32/D16.2, September 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9978-8</docidentifier>
+  <docnumber>PC57.32/D16.2, Sept 2015</docnumber>
+  <date type="created">
+    <on>2015-10-06</on>
+  </date>
+  <date type="published">
+    <on>2015-09-21</on>
+  </date>
+  <date type="issued">
+    <on>2015</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to devices used for the purpose of controlling the ground current or the potentials to ground of an alternating current system. These devices are: groundingtransformers, ground-fault neutralizers, resistors, reactors, or combinations of these.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 32-1972</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Grounding</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Resistors</keyword>
+  <keyword>Reactors</keyword>
+  <keyword>Arc discharges</keyword>
+  <keyword>Arc-suppression reactors</keyword>
+  <keyword>ground fault neutralizers</keyword>
+  <keyword>grounding transformers</keyword>
+  <keyword>neutral grounding devices</keyword>
+  <keyword>reactors</keyword>
+  <keyword>resistors.</keyword>
+</bibdata>

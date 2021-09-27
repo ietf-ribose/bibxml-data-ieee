@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Qualification of Actuators for Power-Operated Valve Assemblies With Safety-Related Functions for Nuclear Power Plants</title>
+  <title type="main" format="text/plain">IEEE Standard for Qualification of Actuators for Power-Operated Valve Assemblies With Safety-Related Functions for Nuclear Power Plants</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/531658</uri>
+  <docidentifier type="IEEE">IEEE Std 382-1996</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0687-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81081</docidentifier>
+  <docnumber>382-1996</docnumber>
+  <date type="created">
+    <on>1996-11-30</on>
+  </date>
+  <date type="published">
+    <on>2019-09-06</on>
+  </date>
+  <date type="issued">
+    <on>1996-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 382-2006 The qualification of all types of power-driven valve actuators, including damper actuators, for safety-related functions in nuclear power generating stations, is described. This standard may also be used to separately qualify actuator components. The minimum requirements for, and guidance regarding, the methods and procedures for qualification of power-driven valve actuators with safety-related functions are provided.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 382-1985</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 382-2006 (Revision of IEEE Std 382-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 382-2006 (Revision of IEEE Std 382-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Valves</keyword>
+  <keyword>Actuators</keyword>
+  <keyword>Fission reactor protection/safety</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>class 1E safety equipment</keyword>
+  <keyword>nuclear power plants</keyword>
+  <keyword>qualification</keyword>
+</bibdata>

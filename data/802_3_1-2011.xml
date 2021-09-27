@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Management Information Base (MIB) Definitions for Ethernet</title>
+  <title type="main" format="text/plain">IEEE Standard for Management Information Base (MIB) Definitions for Ethernet</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5951710</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3.1-2011</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6700-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5951710</docidentifier>
+  <docnumber>802.3.1-2011</docnumber>
+  <date type="created">
+    <on>2011</on>
+  </date>
+  <date type="published">
+    <on>2012-10-12</on>
+  </date>
+  <date type="issued">
+    <on>2011-05-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The Management Information Base (MIB) module specifications for IEEE Std 802.3, also known as Ethernet, are contained in this standard. It includes the Structure of Management Information Version 2 (SMIv2) MIB module specifications formerly produced and published by the Internet Engineering Task Force (IETF), and the Guidelines for the Definition of Managed Objects (GDMO) MIB modules formerly specified within IEEE Std 802.3, as well as extensions resulting from amendments to IEEE Std 802.3. The SMIv2 MIB modules are intended for use with the Simple Network Management Protocol (SNMP), commonly used to manage Ethernet.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.3.1-2013 (Revision of IEEE Std 802.3.1-2011)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Management information systems</keyword>
+  <keyword>Ethernet networks</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>GDMO</keyword>
+  <keyword>IEEE 802.3.1</keyword>
+  <keyword>MIB</keyword>
+  <keyword>network management</keyword>
+  <keyword>SNMP</keyword>
+  <keyword>SMIv2</keyword>
+</bibdata>

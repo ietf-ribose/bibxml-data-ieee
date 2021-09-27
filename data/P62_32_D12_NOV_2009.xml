@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Test Methods for Avalanche Junction Semiconductor Surge-Protective Device Components</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Test Methods for Avalanche Junction Semiconductor Surge-Protective Device Components</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5399262</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P62.32_D12, Nov 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2502-5</docidentifier>
+  <docnumber>P62.32_D12, Nov 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to the avalanche breakdown diodes used for surge protection on systems with voltages equal to or less than 1000 V rms or 1200 V dc. The avalanche breakdown diode surge suppressor is a semiconductor diode which can operate in either the forward or reverse direction of its V-I characteristic. This component is a single package, which may be assembled from any combination of series and/or parallel diode chips. This standard contains definitions, service conditions, and a series of test criteria for determining the electrical characteristics and verifying ratings of these avalanche breakdown diodes. If the characteristics differ with the direction of conduction, then each direction of conduction shall be separately specified.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>avalanche breakdown diode</keyword>
+  <keyword>avalanche junction semiconductor</keyword>
+  <keyword>breakdown voltage</keyword>
+  <keyword>communication circuits</keyword>
+  <keyword>power circuits</keyword>
+  <keyword>SPD</keyword>
+  <keyword>surge</keyword>
+  <keyword>surge-protective device</keyword>
+  <keyword>surge protector</keyword>
+  <keyword>transient voltage suppressor</keyword>
+  <keyword>TVS</keyword>
+  <keyword>zener</keyword>
+  <keyword>clamping</keyword>
+  <keyword>stand-by current</keyword>
+  <keyword>impulse</keyword>
+  <keyword>limiting</keyword>
+  <keyword>silicon avalanche diode</keyword>
+  <keyword>SAD</keyword>
+</bibdata>

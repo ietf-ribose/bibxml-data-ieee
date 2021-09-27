@@ -1,0 +1,46 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) Amendment to the MAC sub-layer</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) Amendment to the MAC sub-layer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5975184</uri>
+  <docidentifier type="IEEE">IEEE P802.15.4e/D6.0, July 2011 based on Draft IEEE P802.15.4 REVi/D09 (Revision of IEEE Std 802.15.4-2006)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6917-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5975184</docidentifier>
+  <docnumber>P802.15.4e/D6.0, July 2011</docnumber>
+  <date type="created">
+    <on>2011-08-02</on>
+  </date>
+  <date type="issued">
+    <on>2011-08-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The intention of this amendment is to enhance and add functionality to the 802.15.4 MAC to a) better support the industrial markets and b) permit compatibility with modifications being proposed within the Chinese WPAN. Specifically, the MAC enhancements are limited to: * TDMA: to provide a)determinism, b)enhanced utilization of bandwidth * Channel Hopping: to provide additional robustness in high interfering environments and enhance coexistence with other wireless networks * GTS: to increase its flexibility such as a) supporting peer to peer, b)the length of the slot, and c) number of slots * CSMA: to improve throughput and reduce energy consumption * Security: to add support for additional options such as asymmetrical keys * Low latency: to reduce end to end delivery time such as needed for control applications</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Media Access Protocol</keyword>
+</bibdata>

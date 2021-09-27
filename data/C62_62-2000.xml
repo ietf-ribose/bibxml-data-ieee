@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Test Specifications for Surge Protective Devices for Low Voltage AC Power Circuits</title>
+  <title type="main" format="text/plain">IEEE Standard Test Specifications for Surge Protective Devices for Low Voltage AC Power Circuits</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/890180</uri>
+  <docidentifier type="IEEE">IEEE Std C62.62-2000</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1991-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.92290</docidentifier>
+  <docnumber>C62.62-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2000-02-29</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">" This standard establishes methods for testing and measuring the performance charac-teristics for surge-protective devices used in low-voltage ac power circuits. Definitions are statedthat apply specifically to surge-protective devices. The testing requirements are categorized intotwo groups, in which a minimum set of basic tests (BTs) are prescribed for all surge-protectivedevices within the scope of its documents, supplemented by additional tests (ATs) that might beneeded to establish particular application requirements. "</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.62-2010 (Revision of IEEE Std C62.62-2000)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power system protection</keyword>
+  <keyword>discharge voltage</keyword>
+  <keyword>electromagnetic compatibility (EMI)</keyword>
+  <keyword>flashover</keyword>
+  <keyword>impulse</keyword>
+  <keyword>lightning</keyword>
+  <keyword>surge-protective devices</keyword>
+</bibdata>

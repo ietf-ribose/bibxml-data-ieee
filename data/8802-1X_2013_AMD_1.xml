@@ -1,0 +1,81 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Information technology</title>
+  <title type="title-part" format="text/plain">Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Part 1X: Port-based network access control AMENDMENT 1: MAC security key agreement protocol (MKA) extensions</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Information technology - Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Part 1X: Port-based network access control AMENDMENT 1: MAC security key agreement protocol (MKA) extensions</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7409891</uri>
+  <docidentifier type="IEEE">ISO/IEC/ IEEE 8802-1X First Edition 2013-12-01 AMENDMENT 1 2016-02-15</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0728-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7409891</docidentifier>
+  <docnumber>8802-1X:2013/Amd. 1</docnumber>
+  <date type="created">
+    <on>2016-02-19</on>
+  </date>
+  <date type="published">
+    <on>2016-02-17</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Media Access Control security (MACsec) Key Agreement protocol (MKA) data elements and procedures that provide additional security and manageability capabilities, including the ability to maintain secure communication while the operation of MKA is suspended, when used in conjunction with MACsec Cipher Suites that support Extended Packet Numbering are added in this amendment.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Network security</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Access control</keyword>
+  <keyword>authorized port</keyword>
+  <keyword>confidentiality</keyword>
+  <keyword>data origin authenticity</keyword>
+  <keyword>IEEE 802.1X(TM)</keyword>
+  <keyword>IEEE 802.1Xbx(TM)</keyword>
+  <keyword>integrity</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>MAC security</keyword>
+  <keyword>MAC Service</keyword>
+  <keyword>MANs</keyword>
+  <keyword>metropolitan area networks</keyword>
+  <keyword>port based network access control</keyword>
+  <keyword>secure association</keyword>
+  <keyword>security</keyword>
+  <keyword>transparent bridging</keyword>
+</bibdata>

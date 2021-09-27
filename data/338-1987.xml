@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Criteria for the Periodic Surveillance Testing of Nuclear Power Generating Station Safety Systems</title>
+  <title type="main" format="text/plain">IEEE Standard Criteria for the Periodic Surveillance Testing of Nuclear Power Generating Station Safety Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159360</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 338-1987</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0683-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1988.101067</docidentifier>
+  <docnumber>338-1987</docnumber>
+  <date type="created">
+    <on>1988-08-22</on>
+  </date>
+  <date type="published">
+    <on>2016-10-20</on>
+  </date>
+  <date type="issued">
+    <on>1987-09-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Design and operational criteria are provided for the performance of periodic testing as part of the surveillance program of nuclear power generating station safety systems. Such testing consists of functional tests and checks, calibration verification, and time-response measurements, as required, to verify that the safety system performs to meet its defined safety function. The system status, associated system documentation, test intervals, and test procedures during operation are also addressed.</abstract>
+  <copyright>
+    <from>1988</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 338-2006 (Revision of IEEE Std 338-1987)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Fission reactor safety</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Testing</keyword>
+  <keyword>surveillance</keyword>
+  <keyword>testing</keyword>
+  <keyword>safety</keyword>
+  <keyword>periodic</keyword>
+  <keyword>Power generation testing</keyword>
+  <keyword>Nuclear power generation protection</keyword>
+</bibdata>

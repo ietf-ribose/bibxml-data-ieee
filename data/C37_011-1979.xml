@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <title type="main" format="text/plain">IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/573174</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 37.011-1979</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4195-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.81619</docidentifier>
+  <docnumber>C37.011-1979</docnumber>
+  <date type="created">
+    <on>1980</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1977-06-02</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by C37.011-1994. Transient recovery voltage requirements for AC high-voltage circuit breakers rated above 1000 V and on a symmetrical current basis are addressed. The effect of circuit parameters and the circuit breaker on the transient recovery voltage is considered, and transient recovery voltage tests are specified. Circuit breaker rating and application, calculation of transient recovery voltages, a short method of calculating TRV limits, and typical values of capacitance and its calculation for various equipment are covered.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.011-1994</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Circuit breakers</keyword>
+  <keyword>ANSI</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Testing</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>Voltage measurement</keyword>
+  <keyword>C37.011</keyword>
+</bibdata>

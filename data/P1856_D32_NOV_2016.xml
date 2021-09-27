@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Framework for Prognostics and Health Management of Electronic Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Framework for Prognostics and Health Management of Electronic Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7769089</uri>
+  <docidentifier type="IEEE">IEEE P1856/D32, Nov 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3642-7</docidentifier>
+  <docnumber>P1856/D32, Nov 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-12-05</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Information for the implementation of prognostics and health management (PHM) for electronic systems is described in this standard. A normative framework for classifying PHM capability and for planning the development of PHM for an electronic system or product is also described in this standard. Manufacturers and end users can use this standard for planning the appropriate prognostics and health management techniques to implement and the associated life cycle operations for the system of interest.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Electronic systems</keyword>
+  <keyword>Classification</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>classification of electronics</keyword>
+  <keyword>electronic systems</keyword>
+  <keyword>health management</keyword>
+  <keyword>IEEE 1856(TM)</keyword>
+  <keyword>implementation in electronics</keyword>
+  <keyword>PHM defi nitions</keyword>
+  <keyword>PHM functional model</keyword>
+  <keyword>PHM Metrics</keyword>
+  <keyword>PHM operational model</keyword>
+  <keyword>prognostics</keyword>
+</bibdata>

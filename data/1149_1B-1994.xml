@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Supplement to Standard Test Access Port and Boundary-Scan Architecture (1149.1)</title>
+  <title type="main" format="text/plain">IEEE Supplement to Standard Test Access Port and Boundary-Scan Architecture (1149.1)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/467487</uri>
+  <docidentifier type="IEEE">IEEE Std 1149.1b-1994</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0960-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1995.122623</docidentifier>
+  <docnumber>1149.1b-1994</docnumber>
+  <date type="created">
+    <on>1995</on>
+  </date>
+  <date type="published">
+    <on>2019-04-08</on>
+  </date>
+  <date type="issued">
+    <on>1994-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 1149.1-2001 A language to describe components that conform to IEEE Std 1149.1-1990 is described in this supplement. The language is based on the VHSIC Hardware Description Language (VHDL). General characteristics, the overall structure of a boundary-scan description language (BSDL) description, special cases, and example packages are included.</abstract>
+  <copyright>
+    <from>1995</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1149.1-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Boundary scan testing</keyword>
+  <keyword>Hardware design languages</keyword>
+  <keyword>IEEE standards</keyword>
+  <keyword>boundary scan architure</keyword>
+  <keyword>description language</keyword>
+  <keyword>BSDL</keyword>
+  <keyword>test access port</keyword>
+  <keyword>VHDL</keyword>
+  <keyword>VHSIC Harware Description</keyword>
+</bibdata>

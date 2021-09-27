@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Application of the Single-Failure Criterion to Nuclear Power Generating Station Class 1E Systems</title>
+  <title type="main" format="text/plain">IEEE Standard Application of the Single-Failure Criterion to Nuclear Power Generating Station Class 1E Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7409873</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 379-1977</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0318-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1977.7409873</docidentifier>
+  <docnumber>379-1977</docnumber>
+  <date type="updated">
+    <on>2016-03-18</on>
+  </date>
+  <date type="created">
+    <on>1977</on>
+  </date>
+  <date type="published">
+    <on>2016-02-17</on>
+  </date>
+  <date type="issued">
+    <on>1976-12-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document interprets the single failure criterion, discusses failures, and presents an acceptable method of single failure analysis for Class 1E systems.</abstract>
+  <copyright>
+    <from>1977</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 379-1988</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Failure analysis</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Radioactive materials</keyword>
+  <keyword>ANSI Standards</keyword>
+</bibdata>

@@ -1,0 +1,41 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Adoption of ISO/IEC 26513:2009 -- Systems and Software Engineering -- Requirements for Testers and Reviewers of User Documentation</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Adoption of ISO/IEC 26513:2009 -- Systems and Software Engineering -- Requirements for Testers and Reviewers of User Documentation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5385165</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P26513/D1, Dec 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3150-7</docidentifier>
+  <docnumber>P26513/D1, Dec 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard provides requirements for the test and review of software user documentation as part of the life cycle processes. It defines the documentation process from the viewpoint of the documentation tester and reviewer. It specifies process for use in testing and reviewing of user documentation, and provides the minimum requirements for these activities. It is relevant to roles involved in testing and development of software and user documentation, including project managers, usability experts and information developers, in addition to testers and reviewers. It applies to both printed documentation and on-screen documentation, and is applicable to user documentation for systems including hardware.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>software user documentation</keyword>
+  <keyword>usability testing</keyword>
+  <keyword>documentation review</keyword>
+  <keyword>editing</keyword>
+  <keyword>information management</keyword>
+</bibdata>

@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear</title>
+  <title type="main" format="text/plain">IEEE Standard for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/392577</uri>
+  <docidentifier type="IEEE">IEEE Std C37.20.1-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1053-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.121437</docidentifier>
+  <docnumber>C37.20.1-1993</docnumber>
+  <date type="created">
+    <on>1994-05-05</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1993-09-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Standards product is part of the C37 family on Switchgear, Substations and Protective Relays. Low-votage metal-enclosed switchgear, which can contain either stationary or drawout, manually or electrically operated low-voltage ac or dc power circuit breakers in individual grounded metal compartments, in three-pole, two-pole, or single-pole construction is covered. Rated maximum voltage levels can be 254 V, 508 V, or 635 Vac and 300/325 Vm 800V, 1000 V, 1600V, or 3200 Vdc. The continuous current ratings of the main bus in ac designs can be 1600 A, 2000 A, 2500 A, 4000 A, 6000 A, 8000 A, 10 000 A, or 12 000 A. The switchgear can also contain associated control, instruments, metering, protective, and regulating devices as necessary. The standard deals with service conditions, rating, temperature limitations, and classification of insulating materials, insulation (dielectric) withstand voltage requirements, test procedures, and application.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.20.1-1987</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.20.1-2002 (Revision of IEEE Std C37.20.1-1993)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Instruments</keyword>
+  <keyword>Stationary</keyword>
+  <keyword>Qualifying terms</keyword>
+  <keyword>Protection</keyword>
+  <keyword>Outdoor</keyword>
+  <keyword>Metering</keyword>
+  <keyword>Load current-carrying</keyword>
+  <keyword>Instrumentation</keyword>
+  <keyword>Indoor</keyword>
+  <keyword>Drawout</keyword>
+  <keyword>Current transformers</keyword>
+  <keyword>Cumulative loading</keyword>
+  <keyword>Control</keyword>
+  <keyword>Common related terms</keyword>
+</bibdata>

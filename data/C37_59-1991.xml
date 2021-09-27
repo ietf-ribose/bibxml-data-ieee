@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Requirements for Conversion of Power Switchgear Equipment</title>
+  <title type="main" format="text/plain">IEEE Standard Requirements for Conversion of Power Switchgear Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/211001</uri>
+  <docidentifier type="IEEE">IEEE Std C37.59-1991</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7227-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.114385</docidentifier>
+  <docnumber>C37.59-1991</docnumber>
+  <date type="created">
+    <on>1992</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1991-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by C37.59-1996 . Power switchgear equipment that is converted from the original manufacturer’s designs, whether the conversion is performed in manufacturing plants or at installation sites, is covered.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.59-1996</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Design methodology</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>switchgear</keyword>
+  <keyword>equipment</keyword>
+  <keyword>conversion</keyword>
+</bibdata>

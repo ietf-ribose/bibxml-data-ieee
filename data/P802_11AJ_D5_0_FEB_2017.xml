@@ -1,0 +1,64 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information Technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 5: Enhancements for Very High Throughput to Support Chinese Millimeter Wave Frequency Bands(60 GHz and 45 GHz).</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 5: Enhancements for Very High Throughput to Support Chinese Millimeter Wave Frequency Bands(60 GHz and 45 GHz).</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7888896</uri>
+  <docidentifier type="IEEE">IEEE P802.11aj/D5.0, February 2017 (Amendment to IEEE Std 802.11REVmc 8.0, as amended by IEEE Std 802.11ah 10.0, IEEE Std 802.11ai 11.0 and IEEE Std 802.11ak 3.0 and IEEE Std 802.11aq 7.2)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3939-8</docidentifier>
+  <docnumber>P802.11aj/D5.0, Feb 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-03-29</on>
+  </date>
+  <date type="issued">
+    <on>2018-02-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The IEEE 802.11(TM) directional multi-gigabit (DMG) physical layer (PHY) and the medium access control (MAC) layer are modified by this amendment to IEEE Std 802.11(TM)-2016 to enable operation in the Chinese millimeter wave frequency band around 60 GHz. This amendment also defines modifications to the IEEE 802.11 PHY and MAC layer to enable operation in the Chinese millimeter wave frequency band around 45 GHz.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2012 (Revision of IEEE Std 802.11-2007) - Redline</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Millimeter wave commuincation</keyword>
+  <keyword>China</keyword>
+  <keyword>Array signal processing</keyword>
+  <keyword>Bandwidth allocation</keyword>
+  <keyword>Bidirectional control</keyword>
+  <keyword>Spatial sharing</keyword>
+  <keyword>beamforming</keyword>
+  <keyword>CDMG</keyword>
+  <keyword>China directional multi-gigabit</keyword>
+  <keyword>China millimeter-wave multigigabit</keyword>
+  <keyword>CMMG</keyword>
+  <keyword>DBC</keyword>
+  <keyword>DCS</keyword>
+  <keyword>dynamic bandwidth control</keyword>
+  <keyword>dynamic channel selection</keyword>
+  <keyword>IEEE 802.11(TM)</keyword>
+  <keyword>IEEE 802.11aj(TM)</keyword>
+  <keyword>opportunistic transmission</keyword>
+  <keyword>spatial sharing</keyword>
+</bibdata>

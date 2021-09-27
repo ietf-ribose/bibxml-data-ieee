@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standards Interpretations for Std 1224-1993, Std 1327.1-1993, Std 1224.1-1993</title>
+  <title type="main" format="text/plain">IEEE Standards Interpretations for Std 1224-1993, Std 1327.1-1993, Std 1224.1-1993</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/574661</uri>
+  <docidentifier type="IEEE">IEEE Std 1224/1327/1224.1/lNT, March 1994 Edition</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1381-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.81724</docidentifier>
+  <docnumber>1224/1224.1/1327-1994</docnumber>
+  <date type="created">
+    <on>1994</on>
+  </date>
+  <date type="published">
+    <on>2017-02-02</on>
+  </date>
+  <date type="issued">
+    <on>1994</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The Portable Applications Standards Committee of the IEEE Computer Society carried out a series of analyses of various problems encountered by users of IEEE Std 1224-1993, IEEE Standard for Information Technology - Open Systems Interconnection (OSI) Abstract Data Manipulation - Application Program Interface (API); IEEE Std 1327-1993, IEEE Standard for Information Technology - Open Systems Interconnection (OSI) Abstract Data Manipulation C Language Interfaces - Binding for Application Program Interface (API); and IEEE Std 1224.1-1993, IEEE Standard for Information Technology - X.400-Based Electronic Messaging - Application Program Interface (API). The results of its deliberations are presented in this document. The intent is to give the 1224 community reasonable ways of interpreting unclear portions of these standards.</abstract>
+  <copyright>
+    <from>1994</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>computer</keyword>
+  <keyword>computer environments</keyword>
+  <keyword>interfaces</keyword>
+  <keyword>interpretations</keyword>
+  <keyword>OM</keyword>
+  <keyword>API</keyword>
+  <keyword>OSI</keyword>
+  <keyword>X.400</keyword>
+</bibdata>

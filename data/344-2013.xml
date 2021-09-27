@@ -1,0 +1,81 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Seismic Qualification of Equipment for Nuclear Power Generating Stations</title>
+  <title type="main" format="text/plain">IEEE Standard for Seismic Qualification of Equipment for Nuclear Power Generating Stations</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6674964</uri>
+  <docidentifier type="IEEE">IEEE Std 344-2013 (Revision of IEEE Std 344-2004)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8657-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2013.6674964</docidentifier>
+  <docnumber>344-2013</docnumber>
+  <date type="updated">
+    <on>2014-01-17</on>
+  </date>
+  <date type="created">
+    <on>2013-11-22</on>
+  </date>
+  <date type="published">
+    <on>2013-11-25</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Practices are provided for establishing procedures that will yield data to demonstrate that the equipment can meet its performance requirements during and/or following one safe shutdown earthquake event preceded by a number of operating basis earthquake events. This standard may be used to establish tests, analyses, or experienced-based evaluations that will yield data to demonstrate equipment performance claims or to evaluate and verify performance of devices and assemblies as part of an overall qualification effort. Common methods currently in use for seismic qualification by test are presented. Two approaches to seismic analysis are described, one based on dynamic analysis and the other on static coefficient analysis. Two approaches to experienced-based seismic evaluation are described, one based on earthquake experience and the other based on test experience.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Practices are provided for establishing procedures that will yield data to demonstrate that the equipment can meet its performance requirements during and/or following one safe shutdown earthquake event preceded by a number of operating basis earthquake events. This standard may be used to establish tests, analyses, or experienced-based evaluations that will yield data to demonstrate equipment performance claims or to evaluate and verify performance of devices and assemblies as part of an overall qualification effort. Common methods currently in use for seismic qualification by test are presented. Two approaches to seismic analysis are described, one based on dynamic analysis and the other on static coefficient analysis. Two approaches to experienced-based seismic evaluation are described, one based on earthquake experience and the other based on test experience.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEC/IEEE 60980-344:2020</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 344-2004 (Revision of IEEE Std 344-1987)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Earthquakes</keyword>
+  <keyword>Spread spectrum management</keyword>
+  <keyword>Seismic activity</keyword>
+  <keyword>earthquake</keyword>
+  <keyword>earthquake experience</keyword>
+  <keyword>equipment qualification</keyword>
+  <keyword>IEEE 344(TM)</keyword>
+  <keyword>inclusion rules</keyword>
+  <keyword>nuclear</keyword>
+  <keyword>operating basis earthquake</keyword>
+  <keyword>prohibited features</keyword>
+  <keyword>qualification methods</keyword>
+  <keyword>required response spectrum</keyword>
+  <keyword>response spectra</keyword>
+  <keyword>safe shutdown earthquake</keyword>
+  <keyword>safety function</keyword>
+  <keyword>seismic</keyword>
+  <keyword>seismic analysis</keyword>
+  <keyword>test experience</keyword>
+  <keyword>test response spectrum</keyword>
+  <keyword>type testing</keyword>
+</bibdata>

@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Media Management Systems (MMS) Session Security, Authentication, Initialization Protocol (SSAIP)</title>
+  <title type="main" format="text/plain">IEEE Standard for Media Management Systems (MMS) Session Security, Authentication, Initialization Protocol (SSAIP)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/892458</uri>
+  <docidentifier type="IEEE">IEEE Std 1244.2-2000</docidentifier>
+  <docidentifier type="ISBN">0-7381-2508-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2000.92295</docidentifier>
+  <docnumber>1244.2-2000</docnumber>
+  <date type="created">
+    <on>2000</on>
+  </date>
+  <date type="issued">
+    <on>2000-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The syntax and semantics of the protocol messages that pass between the MMS client or MMS module and the MM are described. Since this protocol is only used in the context of the MMS, this standard cannot be understood without a thorough understanding of its architecture as described in IEEE Std 1244.1-2000.</abstract>
+  <copyright>
+    <from>2000</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

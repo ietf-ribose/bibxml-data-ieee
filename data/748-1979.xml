@@ -1,0 +1,42 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Spectrum Analyzers</title>
+  <title type="main" format="text/plain">IEEE Standard for Spectrum Analyzers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19504</uri>
+  <docidentifier type="IEEE">IEEE Std 748-1979</docidentifier>
+  <docidentifier type="ISBN">0-7381-4405-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.120304</docidentifier>
+  <docnumber>748-1979</docnumber>
+  <date type="created">
+    <on>1979</on>
+  </date>
+  <date type="issued">
+    <on>1978-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to frequency scanning spectrum analyzers. Instruments covered by this standard include: swept front end (superheterodyning in which the first local oscillator is swept); swept IF (superheterodyning in which other than the first local oscillator is swept); and video detector-tunable filter (analysis is accomplished by scanning the input filter across the signal in proportion to the CRT horizontal deflection with the detector output providing the vertical deflection). The purpose of this standard is to document the minimum specifications required by users or purchasers, or both, of spectrum analyzers. It will also provide a common means for comparison between instruments. In addition, uniformity of information from different manufacturers is realized.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Measurement standards</keyword>
+  <keyword>Spectral analysis</keyword>
+</bibdata>

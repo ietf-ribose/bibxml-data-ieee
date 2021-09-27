@@ -1,0 +1,78 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Ethernet Amendment 10: Media Access Control Parameters, Physical Layers and Management Parameters for 200 Gb/s and 400 Gb/s Operation</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Ethernet Amendment 10: Media Access Control Parameters, Physical Layers and Management Parameters for 200 Gb/s and 400 Gb/s Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7948700</uri>
+  <docidentifier type="IEEE">IEEE P802.3bs/D3.2, June 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4127-8</docidentifier>
+  <docnumber>P802.3bs/D3.2, Jun 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-06-14</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Clause 116 through Clause 124 and Annex 119A through Annex 120E are added by this amendment to IEEE Std 802.3-2015. This amendment includes IEEE 802.3 Media Access Control (MAC) parameters, Physical Layer specifications, and management parameters for the transfer of IEEE 802.3 format frames at 200 Gb/s and 400 Gb/s.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Energy efficiency</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Physical media</keyword>
+  <keyword>200 Gb/s Ethernet</keyword>
+  <keyword>200GAUI-4</keyword>
+  <keyword>200GAUI-8</keyword>
+  <keyword>200GBASE-DR4</keyword>
+  <keyword>200GBASE-FR4</keyword>
+  <keyword>200GBASE-LR4</keyword>
+  <keyword>200GBASE-R</keyword>
+  <keyword>200GMII</keyword>
+  <keyword>200GXS</keyword>
+  <keyword>400 Gb/s Ethernet</keyword>
+  <keyword>400GAUI-8</keyword>
+  <keyword>400GAUI-16</keyword>
+  <keyword>400GBASE-DR4</keyword>
+  <keyword>400GBASE-FR8</keyword>
+  <keyword>400GBASE-LR8</keyword>
+  <keyword>400GBASE-SR16</keyword>
+  <keyword>400GBASE-R</keyword>
+  <keyword>400GMII</keyword>
+  <keyword>400GXS</keyword>
+  <keyword>EEE</keyword>
+  <keyword>Energy Efficient Ethernet</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>FEC</keyword>
+  <keyword>forward error correction</keyword>
+  <keyword>IEEE 802.3(TM)</keyword>
+  <keyword>IEEE 802.3bs(TM)</keyword>
+  <keyword>MMF</keyword>
+  <keyword>PAM4</keyword>
+  <keyword>Physical Medium Dependent sublayer</keyword>
+  <keyword>PMD</keyword>
+  <keyword>SMF</keyword>
+</bibdata>

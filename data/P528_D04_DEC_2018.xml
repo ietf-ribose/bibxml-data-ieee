@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Inertial Sensor Terminology</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Inertial Sensor Terminology</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8635606</uri>
+  <docidentifier type="IEEE">IEEE P528/D04, December 2018</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5516-9</docidentifier>
+  <docnumber>P528/D04, Dec 2018</docnumber>
+  <date type="created">
+    <on>2019-01-11</on>
+  </date>
+  <date type="published">
+    <on>2019-02-05</on>
+  </date>
+  <date type="issued">
+    <on>2019-06-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Terms and definitions relating to inertial sensors are presented in this standard. Usage as understood by the inertial sensor community is given preference over general technical usage of the terms herein. The criterion for inclusion of a term and its definition in this standard is usefulness as related to inertial sensor technology.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 528-2001</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>IEEE 528&amp;amp;amp;#8482;</keyword>
+  <keyword>inertial sensor technology</keyword>
+  <keyword>inertial sensor terminology</keyword>
+</bibdata>

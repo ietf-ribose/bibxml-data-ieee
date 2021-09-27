@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis Amendment 2: To Change the Description of Transient Recovery Voltage for Harmonization with IEC 62271-100</title>
+  <title type="main" format="text/plain">IEEE Standard for Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis Amendment 2: To Change the Description of Transient Recovery Voltage for Harmonization with IEC 62271-100</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8727608</uri>
+  <docidentifier type="IEEE">IEEE Std C37.04b-2008 (Amendment to IEEE Std C37.04-1999)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5889-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.8727608</docidentifier>
+  <docnumber>C37.04b-2008</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <date type="published">
+    <on>2019-05-31</on>
+  </date>
+  <date type="issued">
+    <on>2008-12-10</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is revised to change the descriptions of the standard transient recovery voltage (TRV) envelope and ratings. This is applicable for ac high-voltage circuit breakers rated above 1000 V and on a symmetrical current basis. The capability limits of these circuit breakers are determined to a major degree by the TRV. The revised descriptions of TRV bring the TRV requirements in IEEE standards into harmony with the TRV requirements in IEC standards that apply to the same type and class of equipment.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.04-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Transient analysis</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>C37.40b-2008</keyword>
+  <keyword>high-voltage circuit breakers</keyword>
+  <keyword>transient recovery voltage</keyword>
+</bibdata>

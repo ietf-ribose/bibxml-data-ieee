@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial-Use Standard for a Cryptographic Protocol for Cyber Security of Substation Serial Links</title>
+  <title type="main" format="text/plain">IEEE Trial-Use Standard for a Cryptographic Protocol for Cyber Security of Substation Serial Links</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5715000</uri>
+  <docidentifier type="IEEE">IEEE Std 1711-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6871-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.5715000</docidentifier>
+  <docnumber>1711-2010</docnumber>
+  <date type="updated">
+    <on>2011-03-14</on>
+  </date>
+  <date type="created">
+    <on>2011-02-15</on>
+  </date>
+  <date type="published">
+    <on>2014-08-26</on>
+  </date>
+  <date type="issued">
+    <on>2010-11-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A cryptographic protocol to provide integrity, and optional confidentiality, for cyber security of serial links is defined in this trial use standard. Specific applications or hardware implementations are not addressed, and the standard is independent of the underlying communications protocol.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A cryptographic protocol to provide integrity, and optional confidentiality, for cyber security of serial links is defined in this trial use standard. Specific applications or hardware implementations are not addressed, and the standard is independent of the underlying communications protocol.</abstract>
+  <copyright>
+    <from>2010</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Cryptography</keyword>
+  <keyword>Computer security</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Cryptographic protocols</keyword>
+  <keyword>cyber security</keyword>
+  <keyword>encryption</keyword>
+  <keyword>IEEE 1711</keyword>
+  <keyword>integrity</keyword>
+  <keyword>serial link</keyword>
+</bibdata>

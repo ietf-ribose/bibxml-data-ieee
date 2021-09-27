@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Letter Designations for Radar-Frequency Bands</title>
+  <title type="main" format="text/plain">IEEE Standard Letter Designations for Radar-Frequency Bands</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7428784</uri>
+  <docidentifier type="IEEE">IEEE Std 521-1976</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0380-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1976.7428784</docidentifier>
+  <docnumber>521-1976</docnumber>
+  <date type="updated">
+    <on>2016-03-25</on>
+  </date>
+  <date type="created">
+    <on>1976-11-30</on>
+  </date>
+  <date type="published">
+    <on>2016-03-08</on>
+  </date>
+  <date type="issued">
+    <on>1975-09-04</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Radar systems operate in frequency bands that since World War II have been identified by letter designations. Over a period of time these frequencies and their associated letter-band designations have been fixed by usage. In order to recognize and preserve accepted usage, this standard defines the letter-band nomenclature to be used as a convenience for describing the frequency in which radar operates. It should be cautioned that these are not a substitute for the specific frequency limits of a radar, nor is it meant that these letter bands be applied to other than radar.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Radar systems operate in frequency bands that since World War II have been identified by letter designations. Over a period of time these frequencies and their associated letter-band designations have been fixed by usage. In order to recognize and preserve accepted usage, this standard defines the letter-band nomenclature to be used as a convenience for describing the frequency in which radar operates. It should be cautioned that these are not a substitute for the specific frequency limits of a radar, nor is it meant that these letter bands be applied to other than radar.</abstract>
+  <copyright>
+    <from>1976</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 521-1984</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Radar frequency bands</keyword>
+  <keyword>Military communication</keyword>
+  <keyword>Radar tracking</keyword>
+  <keyword>(complete)</keyword>
+</bibdata>

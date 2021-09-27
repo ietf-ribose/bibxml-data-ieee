@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Making High-Direct-Voltage Tests on Power Cable Systems in the Field</title>
+  <title type="main" format="text/plain">IEEE Guide for Making High-Direct-Voltage Tests on Power Cable Systems in the Field</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/27778</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 400-1980</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4201-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.81011</docidentifier>
+  <docnumber>400-1980</docnumber>
+  <date type="created">
+    <on>1980-10-28</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1978-12-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 400-1991. This guide lists the various field test methods that are currently available or under development with guidance on how to perform each test. The guide covers shielded, insulated power cable systems rated 5 kV through 500 kV unless these voltages are modified by the specific “point” document.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 400-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Cable insulation</keyword>
+  <keyword>Maintenance</keyword>
+  <keyword>Power cables</keyword>
+  <keyword>Standards</keyword>
+  <keyword>dc</keyword>
+  <keyword>tests</keyword>
+  <keyword>field</keyword>
+  <keyword>cable</keyword>
+  <keyword>high voltage</keyword>
+</bibdata>

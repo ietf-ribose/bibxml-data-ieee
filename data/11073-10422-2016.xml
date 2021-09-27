@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Health informatics--Personal health device communication Part 10422: Device Specialization--Urine Analyzer</title>
+  <title type="main" format="text/plain">Health informatics--Personal health device communication Part 10422: Device Specialization--Urine Analyzer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7740864</uri>
+  <docidentifier type="IEEE">IEEE Std 11073-10422-2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2270-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7740864</docidentifier>
+  <docnumber>11073-10422-2016</docnumber>
+  <date type="updated">
+    <on>2016-12-01</on>
+  </date>
+  <date type="created">
+    <on>2016-11-10</on>
+  </date>
+  <date type="published">
+    <on>2016-11-10</on>
+  </date>
+  <date type="issued">
+    <on>2016-06-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication between personal telehealth urine analyzer devices and compute engines (e.g., cell phones, personal computers, personal health appliances, and set-top boxes) is established by this standard in a manner that enables plug-and-play interoperability. Appropriate portions of existing standards are leveraged, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability is specified. A common core of communication functionality for personal telehealth urine analyzers is defined in this standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication between personal telehealth urine analyzer devices and compute engines (e.g., cell phones, personal computers, personal health appliances, and set-top boxes) is established by this standard in a manner that enables plug-and-play interoperability. Appropriate portions of existing standards are leveraged, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability is specified. A common core of communication functionality for personal telehealth urine analyzers is defined in this standard.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Bioinformatics</keyword>
+  <keyword>Informatics</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>Biomedical measurement</keyword>
+  <keyword>IEEE 11073-10422(TM)</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>personal health devices</keyword>
+  <keyword>urine analyzer</keyword>
+</bibdata>

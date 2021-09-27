@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Self-Organizing Management Protocols of Next Generation Service Overlay Network</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Self-Organizing Management Protocols of Next Generation Service Overlay Network</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7893681</uri>
+  <docidentifier type="IEEE">IEEE P1903.3/D00, October 2016</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8046-5</docidentifier>
+  <docnumber>P1903.3/D00, Oct 2016</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-04-06</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies protocols between Overlay Management (OM) Functional Entity (FE) and all other NGSON FEs, and/or NGSON nodes to enable OM FE involved self-organizing management capability. This capability includes activation and deactivation of an NGSON node and addition, deletion, movement and copy of an NGSON function entity from or to an NGSON node. This standard also specifies protocols among Service Routing (SR) FEs to enable OM FE non-involved self-organizing management capability such as re-organization of overlay structure among multiple SR FEs for recovery from a failed or overloaded SR FE or for performance improvement of service routing.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Next generation networking</keyword>
+  <keyword>Overlay networks</keyword>
+  <keyword>Optimization</keyword>
+  <keyword>NGSON</keyword>
+  <keyword>Self-Organization</keyword>
+  <keyword>Self-Configuration</keyword>
+  <keyword>Self-Optimization</keyword>
+  <keyword>Self-Recovery</keyword>
+</bibdata>

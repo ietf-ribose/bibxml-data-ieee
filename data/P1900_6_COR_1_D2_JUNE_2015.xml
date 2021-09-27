@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems.</title>
+  <title type="title-main" format="text/plain">Corrigendum 1</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems. - Corrigendum 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7172987</uri>
+  <docidentifier type="IEEE">IEEE P1900.6_Cor 1/D2, June 2015</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9787-6</docidentifier>
+  <docnumber>P1900.6_Cor 1/D2, June 2015</docnumber>
+  <date type="created">
+    <on>2015-08-27</on>
+  </date>
+  <date type="published">
+    <on>2015-07-30</on>
+  </date>
+  <date type="issued">
+    <on>2015-01-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This corrigendum to IEEE Std 1900.6TM-2011 modifies terms and definitions in response to comments received during the approval process of the IEEE Std 1900.1aTM-2012 and the IEEE Std 1900.6aTM-2014 that could not be considered in the 1900.6a. These corrections align the use of terms and definitions in the 1900.6 with their use in scope of the 1900.1 standard.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1900.6-2011</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Spread spectrum management</keyword>
+  <keyword>Data structures</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Radio communication</keyword>
+  <keyword>terms</keyword>
+  <keyword>definitions</keyword>
+  <keyword>corrections</keyword>
+</bibdata>

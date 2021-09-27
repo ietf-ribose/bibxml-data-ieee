@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Protective Relaying of Utility-Consumer Interconnections</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Protective Relaying of Utility-Consumer Interconnections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6565995</uri>
+  <docidentifier type="IEEE">IEEE PC37.95/D13, July 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8546-0</docidentifier>
+  <docnumber>PC37.95/D13, July 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-07-23</on>
+  </date>
+  <date type="issued">
+    <on>2014-04-01</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide applies to protective relay applications involving electric service to consumers that requires a transformation between the utilitys supply voltage and the consumers utilization voltage. It describes the factors that need to be considered in the design of adequate protection facilities, outlines modern relay practices, and provides several examples of the protection of typical utility-consumer interconnections.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.95-2002 (Revision of IEEE Std C37.95-1989)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Protective relaying</keyword>
+  <keyword>Licenses</keyword>
+  <keyword>Standards Board</keyword>
+  <keyword>Committees</keyword>
+  <keyword>backup protection</keyword>
+  <keyword>breaker-failure relaying</keyword>
+  <keyword>bus protection</keyword>
+  <keyword>electric service</keyword>
+  <keyword>IEEE C37.95</keyword>
+  <keyword>non-utility generation</keyword>
+  <keyword>protective relays</keyword>
+  <keyword>transformer protection</keyword>
+  <keyword>utility-consumer interconnection</keyword>
+</bibdata>

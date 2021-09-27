@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9373049</uri>
+  <docidentifier type="IEEE">P577/D5, March 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7465-8</docidentifier>
+  <docnumber>P577/D5, Mar 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-03-08</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The minimum acceptable requirements for the performance of reliability analyses for safety systems when used to address the reliability considerations discussed in industry standards and guidelines are set forth in this standard. The requirement that a reliability analysis be performed does not originate with this standard. However, when reliability analysis is used to demonstrate compliance with reliability requirements, this standard describes an acceptable response to the requirements.</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 577-2012 (Revision of IEEE Std 577-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>IEEE 577</keyword>
+  <keyword>nuclear facilities</keyword>
+  <keyword>reliability analysis</keyword>
+  <keyword>safety systems</keyword>
+</bibdata>

@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application of Insulation Coordination</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Insulation Coordination</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/806063</uri>
+  <docidentifier type="IEEE">IEEE Std 1313.2-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1762-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90576</docidentifier>
+  <docnumber>1313.2-1999</docnumber>
+  <date type="created">
+    <on>1999-11-15</on>
+  </date>
+  <date type="published">
+    <on>2020-02-12</on>
+  </date>
+  <date type="issued">
+    <on>1999-06-26</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The calculation method for selection of phase-to-ground and phase-to-phase insulation withstand voltages for equipment is presented. This guide gives methods for insulation coordination of different air-insulated systems like transmission lines and substations. The methods of analysis are illustrated by practical examples.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>atmospheric correction factor</keyword>
+  <keyword>backflash</keyword>
+  <keyword>basic lightning impulse level - BIL -</keyword>
+  <keyword>basic switching impulse insulation level - BSL -</keyword>
+  <keyword>clearances</keyword>
+  <keyword>crest value</keyword>
+  <keyword>ground fault factor</keyword>
+  <keyword>insulation coordination</keyword>
+  <keyword>insulation design</keyword>
+  <keyword>overvoltage</keyword>
+  <keyword>phase-to-ground insulation configuration</keyword>
+  <keyword>phase-to-phase insulation configuration</keyword>
+  <keyword>protective margin</keyword>
+  <keyword>protective radio</keyword>
+  <keyword>shielding failures</keyword>
+  <keyword>standard withstand voltages</keyword>
+  <keyword>voltage stress</keyword>
+</bibdata>

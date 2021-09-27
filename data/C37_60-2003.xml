@@ -1,0 +1,67 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Requirements for Overhead, Pad Mounted, Dry Vault, and Submersible Automatic Circuit Reclosers and Fault Interrupters for alternating current systems up to 38 kV</title>
+  <title type="main" format="text/plain">IEEE Standard Requirements for Overhead, Pad Mounted, Dry Vault, and Submersible Automatic Circuit Reclosers and Fault Interrupters for alternating current systems up to 38 kV</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4140816</uri>
+  <docidentifier type="IEEE">IEEE Std C37.60-2003</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3589-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2003.339580</docidentifier>
+  <docnumber>C37.60-2003</docnumber>
+  <date type="created">
+    <on>2003-08-11</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2003-03-20</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std C37.60-2003, IEEE Standard for Overhead, Pad-Mounted, Dry Vault, and Submersible Automatic Circuit Reclosers and Fault Interrupters for Alternating Current Systems Up to 38 kV</abstract>
+  <copyright>
+    <from>2003</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE C37.60-1981</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE PC37.60/IEC 62271-111_D10, February 2012</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Underwater vehicles</keyword>
+  <keyword>Circuit faults</keyword>
+  <keyword>Interrupters</keyword>
+  <keyword>dry vault</keyword>
+  <keyword>fault interrupter</keyword>
+  <keyword>overhead</keyword>
+  <keyword>pad-mounted</keyword>
+  <keyword>recloser</keyword>
+  <keyword>submersible</keyword>
+  <keyword>standard operating duty</keyword>
+  <keyword>switchgear</keyword>
+</bibdata>

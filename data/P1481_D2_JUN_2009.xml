@@ -1,0 +1,40 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture (OLA)</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Integrated Circuit (IC) Open Library Architecture (OLA)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5174156</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1481/D2, Jun 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2956-6</docidentifier>
+  <docnumber>P1481/D2, Jun 2009</docnumber>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Ways for integrated circuit designers to analyze chip timing and power consistently across a broad set of electric design automation (EDA) applications are covered in this standard. Methods by which integrated circuit vendors can express timing and power information once per given technology are also covered. In addition, this standard covers means by which EDA vendors can meet their application performance and capacity needs.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>chip delay</keyword>
+  <keyword>electronic design automation (EDA)</keyword>
+  <keyword>integrated circuit design</keyword>
+  <keyword>power calculation</keyword>
+</bibdata>

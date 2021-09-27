@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information technology--Telecommunications and information exchange between systems</title>
+  <title type="title-main" format="text/plain">Local and metropolitan area networks--Specific requirements</title>
+  <title type="title-part" format="text/plain">Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: Sub 1 GHz License Exempt Operation</title>
+  <title type="main" format="text/plain">IEEE Standard for Information technology--Telecommunications and information exchange between systems - Local and metropolitan area networks--Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: Sub 1 GHz License Exempt Operation</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7294607</uri>
+  <docidentifier type="IEEE">IEEE P802.11ah/D5.0, March 2015 (Amendment to IEEE Std 802.11REVmc/D4.0)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9730-2</docidentifier>
+  <docnumber>P802.11ah/D5.0, Mar 2015</docnumber>
+  <date type="created">
+    <on>2015-01-01</on>
+  </date>
+  <date type="published">
+    <on>2015-10-08</on>
+  </date>
+  <date type="issued">
+    <on>2016-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Modifications to both the IEEE 802.11(TM) physical layer (PHY) and the medium access control (MAC) sublayer to enable operation of license-exempt IEEE 802.11 wireless networks in frequency bands below 1 GHz, excluding the television (TV) White Space bands, with a transmission range up to 1 km and a minimum data rate of at least 100 Kb/s are defined in this amendment.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2007 (Revision of IEEE Std 802.11-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>Energy consumption</keyword>
+  <keyword>WLAN</keyword>
+  <keyword>Bandwidth allocation</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>IEEE 802.11ah</keyword>
+  <keyword>long transmission range</keyword>
+  <keyword>low power consumption</keyword>
+  <keyword>MAC</keyword>
+  <keyword>medium access control</keyword>
+  <keyword>narrower bandwidth</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>orthogonal frequency division multiplexing</keyword>
+  <keyword>PHY</keyword>
+  <keyword>physical layer</keyword>
+  <keyword>sub 1 GHz</keyword>
+  <keyword>wireless local area network</keyword>
+  <keyword>WLAN</keyword>
+</bibdata>

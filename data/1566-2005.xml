@@ -1,0 +1,51 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Performance of Adjustable Speed AC Drives Rated 375 kW and Larger</title>
+  <title type="main" format="text/plain">IEEE Standard for Performance of Adjustable Speed AC Drives Rated 375 kW and Larger</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1642554</uri>
+  <docidentifier type="IEEE">IEEE Std 1566-2005</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4866-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.217119</docidentifier>
+  <docnumber>1566-2005</docnumber>
+  <date type="created">
+    <on>2006</on>
+  </date>
+  <date type="published">
+    <on>2015-02-25</on>
+  </date>
+  <date type="issued">
+    <on>2005-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to AC adjustable speed drive (ASD) systems rated over 375 kW and above 750 V output voltage as used in petrochemical and similar applications. It covers the performance requirements for an ASD system including, but not limited to, input transformer or reactor as required, power electronics, control interfaces, cooling system, switchgear, and motor. Requirements for power quality, engineering analysis, start-up assistance, training, and spare parts are also included. Certain items such as the motor, switchgear or transformer may be excluded from the scope of vendor supply if so specified in the data sheets; however the system vendor shall specify any special requirements for the equipment thus excluded.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1566-2015 (Revision of IEEE Std 1566-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Variable speed drives</keyword>
+  <keyword>AC motors</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>Performance evaluation</keyword>
+  <keyword>adjustable speed</keyword>
+  <keyword>large drives</keyword>
+</bibdata>

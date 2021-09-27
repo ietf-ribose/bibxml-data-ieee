@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Information Technology</title>
+  <title type="title-main" format="text/plain">Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-part" format="text/plain">Local and Metropolitan Area Networks -- Specific Requirements -- Part 19: TV White Space Coexistence Methods Amendment: Coexistence Methods for Geo-Location Capable Devices Operating Under General Authorization</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks -- Specific Requirements -- Part 19: TV White Space Coexistence Methods Amendment: Coexistence Methods for Geo-Location Capable Devices Operating Under General Authorization</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7883795</uri>
+  <docidentifier type="IEEE">IEEE P802.19.1a/D2.0, January 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3930-5</docidentifier>
+  <docnumber>P802.19.1a/D2.0, Jan 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-03-21</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The network-based coexistence information exchange among networks and devices to enable network-based coexistence management is defined in this amendment to IEEE 802.19.1-2014. This amendment specifies procedures and protocols for collection and exchange of coexistence information of heterogeneous networks, spectrum resource measurements and network performance metrics, such as packet error ratio, delay, etc., and information elements and data structures to capture coexistence information.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.19.1-2014</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Information exchange</keyword>
+  <keyword>TV</keyword>
+  <keyword>White spaces</keyword>
+  <keyword>5 GHz license-exempt bands</keyword>
+  <keyword>database</keyword>
+  <keyword>general authorized access in 3.5 GHz bands</keyword>
+  <keyword>geolocation</keyword>
+  <keyword>IEEE 802(R)</keyword>
+  <keyword>IEEE 802.19.1(TM)</keyword>
+  <keyword>IEEE 802.19.1a(TM)</keyword>
+  <keyword>network-based coexistence</keyword>
+  <keyword>spectrum management</keyword>
+  <keyword>TV band white spaces</keyword>
+</bibdata>

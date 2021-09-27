@@ -1,0 +1,74 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for Monitoring Electric Power Quality</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for Monitoring Electric Power Quality</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5154067</uri>
+  <docidentifier type="IEEE">IEEE Std 1159-2009 (Revision of IEEE Std 1159-1995)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5939-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5154067</docidentifier>
+  <docnumber>1159-2009</docnumber>
+  <date type="updated">
+    <on>2009-12-21</on>
+  </date>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <date type="published">
+    <on>2019-08-13</on>
+  </date>
+  <date type="issued">
+    <on>2009-03-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice encompasses the monitoring of electrical characteristics of single-phase and polyphase ac power systems. It includes consistent descriptions of conducted electromagnetic phenomena occurring on power systems. This recommended practice describes nominal conditions and deviations from these nominal conditions that may originate within the source of supply or load equipment or may originate from interactions between the source and the load. Also, this recommended practice discusses power quality monitoring devices, application techniques, and the interpretation of monitoring results.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This Recommended Practice encompasses the monitoring of electrical characteristics of single-phase and polyphase ac power systems. It includes consistent descriptions of conducted electromagnetic phenomena occurring on power systems. The document describes nominal conditions and deviations from these nominal conditions that may originate within the source of supply or load equipment, or from interactions between the source and the load. Also, this document discusses power quality monitoring devices, application techniques, and interpretation of monitoring results.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1159-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Monitoring</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Electromagnetics</keyword>
+  <keyword>Power quality</keyword>
+  <keyword>1159-2009</keyword>
+  <keyword>assessment</keyword>
+  <keyword>compatibility</keyword>
+  <keyword>dip</keyword>
+  <keyword>distortion</keyword>
+  <keyword>electromagnetic phenomena</keyword>
+  <keyword>harmonics</keyword>
+  <keyword>imbalance</keyword>
+  <keyword>instruments</keyword>
+  <keyword>monitoring</keyword>
+  <keyword>power quality</keyword>
+  <keyword>rms variation</keyword>
+  <keyword>sag</keyword>
+  <keyword>swell</keyword>
+  <keyword>transient</keyword>
+  <keyword>unbalance</keyword>
+</bibdata>

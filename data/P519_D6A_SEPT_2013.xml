@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Recommended Practices and Requirements for Harmonic Control in Electric Power Systems</title>
+  <title type="main" format="text/plain">IEEE Draft Recommended Practices and Requirements for Harmonic Control in Electric Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6630043</uri>
+  <docidentifier type="IEEE">IEEE P519/D6a, September 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8711-2</docidentifier>
+  <docnumber>P519/D6a, Sept 2013</docnumber>
+  <date type="created">
+    <on>2013-11-12</on>
+  </date>
+  <date type="published">
+    <on>2013-10-11</on>
+  </date>
+  <date type="issued">
+    <on>2013-11-12</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This recommended practice intends to establish goals for the design of electrical systems that include both linear and nonlinear loads. The voltage and current waveforms that may exist throughout the system are described, and waveform distortion goals for the system designer are established. The interface between sources and loads is described as the point of common coupling and observance of the design goals will reduce interference between electrical equipment. This recommended practice addresses steady-state limitations. Transient conditions exceeding these limitations may be encountered. This document sets the quality of power that is to be provided at the point of common coupling. This document does not cover the effects of radio frequency interference; however, guidance is offered for wired telephone systems.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 519-1992</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Power systems planning</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Power quality</keyword>
+  <keyword>power quality</keyword>
+  <keyword>harmonics</keyword>
+</bibdata>

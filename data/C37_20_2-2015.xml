@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Metal-Clad Switchgear</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Metal-Clad Switchgear - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7361690</uri>
+  <docidentifier type="IEEE">IEEE Std C37.20.2-2015 (Revision of IEEE Std C37.20.2-1999) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0617-8</docidentifier>
+  <docnumber>C37.20.2-2015</docnumber>
+  <date type="updated">
+    <on>2016-01-22</on>
+  </date>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-12-21</on>
+  </date>
+  <date type="issued">
+    <on>2015-06-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Metal-clad (MC) medium-voltage switchgear that contains drawout electrically operated circuit breakers is covered. MC switchgear is compartmentalized to isolate components such as instrumentation, main bus, and both incoming and outgoing connections with grounded metal barriers. Rated maximum voltage levels for metal-clad switchgear range from 4.76 kV to 38 kV with main bus continuous current ratings of 1200 A, 2000 A, 3000 A, and 4000 A. MC switchgear also contains associated control, instruments, metering, relaying, protective, and regulating devices, as necessary. Service conditions, ratings, temperature limitations and classification of insulating materials, insulation (dielectric) withstand voltage requirements, test procedures, and applications are discussed.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Metal-clad (MC) medium-voltage switchgear that contains drawout electrically operated circuit breakers is covered. MC switchgear is compartmentalized to isolate components such as instrumentation, main bus, and both incoming and outgoing connections with grounded metal barriers. Rated maximum voltage levels for metal-clad switchgear range from 4.76 kV to 38 kV with main bus continuous current ratings of 1200 A, 2000 A, 3000 A, and 4000 A. MC switchgear also contains associated control, instruments, metering, relaying, protective, and regulating devices, as necessary. Service conditions, ratings, temperature limitations and classification of insulating materials, insulation (dielectric) withstand voltage requirements, test procedures, and applications are discussed.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C37.20.2-1999</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Control systems</keyword>
+  <keyword>Current distribution</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Switchgear</keyword>
+  <keyword>Metal-enclosed switchgear</keyword>
+  <keyword>Load management</keyword>
+  <keyword>control</keyword>
+  <keyword>cumulative loading</keyword>
+  <keyword>current transformers</keyword>
+  <keyword>drawout</keyword>
+  <keyword>IEEE C37.20.2(TM)</keyword>
+  <keyword>indoor</keyword>
+  <keyword>instrumentation</keyword>
+  <keyword>load current-carrying</keyword>
+  <keyword>metal-clad (MC) switchgear</keyword>
+  <keyword>metal-enclosed (ME) power switchgear</keyword>
+  <keyword>outdoor</keyword>
+  <keyword>protection</keyword>
+  <keyword>switchgear assemblies</keyword>
+  <keyword>transformer accuracy</keyword>
+  <keyword>voltage transformers</keyword>
+</bibdata>

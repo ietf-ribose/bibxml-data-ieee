@@ -1,0 +1,69 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Information technology--Smart transducer interface for sensors and actuators--Part 7: Transducers to radio frequency identification (RFID) systems communication protocols and transducer electronic data sheet (TEDS) formats</title>
+  <title type="main" format="text/plain">Information technology--Smart transducer interface for sensors and actuators--Part 7: Transducers to radio frequency identification (RFID) systems communication protocols and transducer electronic data sheet (TEDS) formats</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6155051</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 21451-7:2011(E) (Revision of 1451.7-2010</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6693-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2012.6155051</docidentifier>
+  <docnumber>21451-7-2011</docnumber>
+  <date type="updated">
+    <on>2012-04-06</on>
+  </date>
+  <date type="created">
+    <on>2012-02-10</on>
+  </date>
+  <date type="issued">
+    <on>2011-06-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 21451-7:2011 defines data formats to facilitate communications between radio frequency identification (RFID) systems and smart RFID tags with integral transducers (sensors and actuators). It defines new Transducer Electronic Data Sheet (TEDS) formats based on the ISO/IEC/IEEE 21451 series of standards. It also defines a command structure and specifies the communication methods with which the command structure is designed to be compatible.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">ISO/IEC/IEEE 21451-7:2011 defines data formats to facilitate communications between radio frequency identification (RFID) systems and smart RFID tags with integral transducers (sensors and actuators). It defines new Transducer Electronic Data Sheet (TEDS) formats based on the ISO/IEC/IEEE 21451 series of standards. It also defines a command structure and specifies the communication methods with which the command structure is designed to be compatible.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Transducers</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Actuators</keyword>
+  <keyword>Radiofrequency identification</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>1451.7 transducer</keyword>
+  <keyword>sensor</keyword>
+  <keyword>sensor air interface</keyword>
+  <keyword>sensor and RFID system interface</keyword>
+  <keyword>sensor identification</keyword>
+  <keyword>sensor physical interface</keyword>
+  <keyword>sensor security</keyword>
+  <keyword>smart transducer</keyword>
+</bibdata>

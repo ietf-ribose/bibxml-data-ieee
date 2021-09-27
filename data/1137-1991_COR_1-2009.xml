@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Implementation of Inductive Coordination Mitigation Techniques and Applications--Corrigendum 1</title>
+  <title type="main" format="text/plain">IEEE Guide for the Implementation of Inductive Coordination Mitigation Techniques and Applications--Corrigendum 1</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5290504</uri>
+  <docidentifier type="IEEE">IEEE STD 1137-1991/Cor1-2009</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6054-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5290504</docidentifier>
+  <docnumber>1137-1991/Cor 1-2009</docnumber>
+  <date type="updated">
+    <on>2009-11-13</on>
+  </date>
+  <date type="created">
+    <on>2009-10-16</on>
+  </date>
+  <date type="published">
+    <on>2019-07-24</on>
+  </date>
+  <date type="issued">
+    <on>2009-09-11</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 1137trade-1991 provides guidance for controlling or modifying the inductive environment and the susceptibility of affected wire line telecommunications facilities in order to operate within the acceptable levels of steady-state or surge induced voltages of the environmental interface (probe wire) defined by IEEE Std 776trade-1987. Procedures for determining the source of the problem are given. Mitigation theory and philosophy are discussed, and mitigation devices are described. The application of typical mitigation apparatus is addressed. Advice for determining the best engineering solution is offered, and general safety considerations are discussed.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">IEEE Std 1137-1991 provides guidance for controlling or modifying the inductive environment and the susceptibility of affected wire line telecommunications facilities in order to operate within the acceptable levels of steady-state or surge induced voltages of the environmental interface (probe wire) defined by IEEE Std 776-1987. Procedures for determining the source of the problem are given. Mitigation theory and philosophy are discussed, and mitigation devices are described. The application of typical mitigation apparatus is addressed. Advice for determining the best engineering solution is offered, and general safety considerations are discussed. This corrigendum corrects Table 3&amp;amp;#8212;Longitudinal Balance Performance Thresholds and the first and last sentences of the third paragraph in 8.5 of IEEE Std 1137-1991.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1137-1991</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Impedance</keyword>
+  <keyword>Noise measurement</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>1137-1991 Cor1-2009</keyword>
+  <keyword>coordination</keyword>
+  <keyword>coupling</keyword>
+  <keyword>harmonic</keyword>
+  <keyword>ICEP</keyword>
+  <keyword>impedance</keyword>
+  <keyword>inductive</keyword>
+  <keyword>influence</keyword>
+  <keyword>mitigation</keyword>
+  <keyword>mutual</keyword>
+  <keyword>noise</keyword>
+  <keyword>power</keyword>
+  <keyword>susceptibility</keyword>
+</bibdata>

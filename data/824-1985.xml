@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Series Capacitors in Power Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Series Capacitors in Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/29147</uri>
+  <docidentifier type="IEEE">IEEE Std 824-1985</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4417-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1985.81698</docidentifier>
+  <docnumber>824-1985</docnumber>
+  <date type="created">
+    <on>1985-11-25</on>
+  </date>
+  <date type="published">
+    <on>2019-05-01</on>
+  </date>
+  <date type="issued">
+    <on>1984-09-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Capacitors and assemblies of capacitors, insulation means, switching, protective equipment, and control accessories that form a complete bank for inserting in series with a transmission line are applied. Included are requirements for safety, rating, and protective device levels. Functional requirements for alarm devices, maintenance, design and production tests, and a guide for operation are included. Functional requirements for protective devices are addressed, including varistors and bypass gaps.</abstract>
+  <copyright>
+    <from>1985</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Power capacitors</keyword>
+  <keyword>Power systems</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Testing</keyword>
+</bibdata>

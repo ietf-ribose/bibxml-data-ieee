@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Protection System Redundancy for Power System Reliability</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Protection System Redundancy for Power System Reliability</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9466915</uri>
+  <docidentifier type="IEEE">IEEE PC37.120/D12.0, June 2021</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-7786-4</docidentifier>
+  <docnumber>PC37.120/D12.0, Jun 2021</docnumber>
+  <date type="created">
+    <on>2021</on>
+  </date>
+  <date type="published">
+    <on>2021-06-28</on>
+  </date>
+  <date type="issued">
+    <on>2021</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide is developed to assist users in selecting the appropriate level of protection system redundancy for power system reliability based on the best industry practices. It defines protection system redundancy and examines the effect of protection system components on redundancy. Different concepts of redundancy as related to physical location, instrument transformer, relay scheme, and communication systems are discussed. Redundancy application considerations for various power system elements are presented</abstract>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Circuit breakers</keyword>
+  <keyword>Failure analysis</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>Communication systems</keyword>
+  <keyword>redundancy</keyword>
+  <keyword>reliability</keyword>
+  <keyword>security</keyword>
+  <keyword>dependability</keyword>
+  <keyword>protection systems</keyword>
+  <keyword>primary protection</keyword>
+  <keyword>backup protection</keyword>
+  <keyword>breaker failure protection</keyword>
+  <keyword>current transformers</keyword>
+  <keyword>voltage transformers</keyword>
+  <keyword>communication systems</keyword>
+</bibdata>

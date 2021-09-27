@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Calibration of Electromagnetic Field Sensors and Probes, Excluding Antennas, from 9 kHz to 40 GHz</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Calibration of Electromagnetic Field Sensors and Probes, Excluding Antennas, from 9 kHz to 40 GHz</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6527268</uri>
+  <docidentifier type="IEEE">IEEE P1309/D1.2, June 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8485-2</docidentifier>
+  <docnumber>P1309/D1.2, June 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-06-07</on>
+  </date>
+  <date type="issued">
+    <on>2013-07-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Consensus calibration methods for electromagnetic (EM) field sensors and probes are provided. Data recording and reporting requirements are given, and methods for estimating measurement uncertainty are specified.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1309-2005 (Revision of IEEE Std 1309-1996)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Electromagnetic fields</keyword>
+  <keyword>Electromagnetic measurements</keyword>
+  <keyword>Sensors</keyword>
+  <keyword>Probes</keyword>
+  <keyword>Uncertainty</keyword>
+  <keyword>Calibration</keyword>
+  <keyword>calibration</keyword>
+  <keyword>electric field measurement</keyword>
+  <keyword>electromagnetic</keyword>
+  <keyword>field probe</keyword>
+  <keyword>field sensor</keyword>
+  <keyword>instrumentation measurement uncertainty</keyword>
+</bibdata>

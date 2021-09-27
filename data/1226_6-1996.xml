@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE ABBET(R)- IEEE Guide for the Understanding of the "A Broad-Based Environment for Test (ABBET)(R)" Standard</title>
+  <title type="main" format="text/plain">IEEE ABBET(R)- IEEE Guide for the Understanding of the "A Broad-Based Environment for Test (ABBET)(R)" Standard</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/503122</uri>
+  <docidentifier type="IEEE">IEEE Std 1226.6-1996</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-726-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1996.81016</docidentifier>
+  <docnumber>1226.6-1996</docnumber>
+  <date type="created">
+    <on>1996</on>
+  </date>
+  <date type="published">
+    <on>2016-01-20</on>
+  </date>
+  <date type="issued">
+    <on>1996-04-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">As a part of the family of IEEE ABBET(R) standards, this guide facilitates an understanding of the relationships of IEEE ABBET(R) 1226-1993 and its component standards, as well as the relationship of an ABBET implementation with the design, production, support, and operational environments with which it may be used.</abstract>
+  <copyright>
+    <from>1996</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>ABBET(R)</keyword>
+  <keyword>ABBET(R) layers</keyword>
+  <keyword>base document</keyword>
+  <keyword>component standard</keyword>
+  <keyword>information sharing</keyword>
+  <keyword>product life cycle</keyword>
+  <keyword>software reuse</keyword>
+  <keyword>systems architecture</keyword>
+</bibdata>

@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks-- Station and Media Access Control Connectivity Discovery Corrigendum 2: Technical and Editorial Corrections</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks-- Station and Media Access Control Connectivity Discovery Corrigendum 2: Technical and Editorial Corrections</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7056401</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1AB-2009/Cor 2-2015 (Corrigendum to IEEE Std 802.1AB-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-9567-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2015.7056401</docidentifier>
+  <docnumber>802.1AB-2009/Cor 2-2015</docnumber>
+  <date type="updated">
+    <on>2015-03-27</on>
+  </date>
+  <date type="created">
+    <on>2015</on>
+  </date>
+  <date type="published">
+    <on>2015-03-09</on>
+  </date>
+  <date type="issued">
+    <on>2015-02-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Technical and editorial errors identified by the IEEE 802.1 Working Groups maintenance activity are corrected by this corrigendum to IEEE 802.1AB&amp;amp;#x2122;-2009.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Technical and editorial errors identified by the IEEE 802.1 Working Group’s maintenance activity are corrected by this corrigendum to IEEE 802.1AB(TM)-2009.</abstract>
+  <copyright>
+    <from>2015</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">corrects</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.1AB-2009 (Revision of IEEE Std 802.1AB-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Network topoloty</keyword>
+  <keyword>Management information base</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Link layer protocols</keyword>
+  <keyword>IEEE 802.1AB(TM)</keyword>
+  <keyword>link layer discovery protocol</keyword>
+  <keyword>management information base</keyword>
+  <keyword>topology discovery</keyword>
+  <keyword>topology information</keyword>
+</bibdata>

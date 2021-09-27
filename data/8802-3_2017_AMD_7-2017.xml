@@ -1,0 +1,72 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">ISO/IEC/IEEE International Standard for Ethernet Amendment 7: Media Access Control Parameters, Physical Layers, and Management Parameters for 2.5 Gb/s and 5 Gb/s Operation, Types 2.5GBASE-T and 5GBASE-T</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard for Ethernet Amendment 7: Media Access Control Parameters, Physical Layers, and Management Parameters for 2.5 Gb/s and 5 Gb/s Operation, Types 2.5GBASE-T and 5GBASE-T</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8323451</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 8802-3:2017/Amd.7:2017(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4774-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8323451</docidentifier>
+  <docnumber>8802-3:2017/Amd 7-2017</docnumber>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-03-23</on>
+  </date>
+  <date type="issued">
+    <on>2018</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Protocols, procedures, and managed objects to allow IEEE 802.11 media to provide internal connections within bridged networks, as well as access to bridged networks, are provided in this amendment.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Bridge circuits</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Media Access Protocol</keyword>
+  <keyword>Wireless fidelity</keyword>
+  <keyword>amendment</keyword>
+  <keyword>IEEE 802.1Q(TM)</keyword>
+  <keyword>IEEE 802.11(TM)</keyword>
+  <keyword>LANs</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>transparent bridging</keyword>
+  <keyword>VLANs</keyword>
+  <keyword>Wi-Fi</keyword>
+  <keyword>wireless</keyword>
+</bibdata>

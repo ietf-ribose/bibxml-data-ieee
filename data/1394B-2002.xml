@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Standard for High Performance Serial Bus (High Speed Supplement)]</title>
+  <title type="main" format="text/plain">Standard for High Performance Serial Bus (High Speed Supplement)]</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1146719</uri>
+  <docidentifier type="IEEE">IEEE Std 1394b-2002 (Amendment to IEEE Std 1394-1995)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3254-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2002.94221</docidentifier>
+  <docnumber>1394b-2002</docnumber>
+  <date type="created">
+    <on>2002-12-14</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2002-03-21</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Supplemental information for a high-speed serial bus that integrates well with most IEEE standard 32-bit and 64-bit parallel buses is specified. It is intended to extend the usefulness of a low-cost interconnect between external peripherals. This standard follows the IEEE Std 1212 &amp;amp;#8482;-2001 Command and Status Register (CSR) architecture.</abstract>
+  <copyright>
+    <from>2002</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1394-1995</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE 1394 Standard</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Encoding</keyword>
+  <keyword>Optical fibers</keyword>
+  <keyword>Plastics</keyword>
+  <keyword>bus</keyword>
+  <keyword>Computers</keyword>
+  <keyword>high-speed serial bus</keyword>
+  <keyword>interconnect</keyword>
+</bibdata>

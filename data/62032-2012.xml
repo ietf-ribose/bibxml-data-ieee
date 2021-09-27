@@ -1,0 +1,68 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEC 62032:2012(E)(IEEE Std C57.135-2011) Guide for the Application, Specification, and Testing of Phase-Shifting Transformers</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEC 62032:2012(E)(IEEE Std C57.135-2011) Guide for the Application, Specification, and Testing of Phase-Shifting Transformers - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6329913</uri>
+  <docidentifier type="IEEE">IEC 62032:2012(E) (IEEE Std C57.135-2011) (Revision of IEC 62032-2005 and IEEE Std C57.135-2001) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7584-3</docidentifier>
+  <docnumber>62032-2012</docnumber>
+  <date type="created">
+    <on>2012</on>
+  </date>
+  <date type="published">
+    <on>2012-10-12</on>
+  </date>
+  <date type="issued">
+    <on>2012</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Theory, application of phase-shifting transformers, and the difference of specification and testing to standard system transformers are described in this guide. Various types of phase-shifting transformers and how to select the optimal design to achieve required control of power flow are covered. An understanding of the terminology, types, construction, and testing specific to phase-shifting transformers is provided.</abstract>
+  <copyright>
+    <from>2012</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEC 62032-2005 IEEE C57.135-2005</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Transformers</keyword>
+  <keyword>Phase shift keying</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>advance phase angle</keyword>
+  <keyword>dual-core design</keyword>
+  <keyword>IEEE C57.135</keyword>
+  <keyword>main transformer</keyword>
+  <keyword>phase-shifting transformer</keyword>
+  <keyword>power transfer</keyword>
+  <keyword>retard phase angle</keyword>
+  <keyword>series transformer</keyword>
+  <keyword>single-core design</keyword>
+  <keyword>special tests</keyword>
+</bibdata>

@@ -1,0 +1,56 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Ethernet Amendment 5: Specification and Management Parameters for Interspersing Express Traffic</title>
+  <title type="main" format="text/plain">IEEE Standard for Ethernet Amendment 5: Specification and Management Parameters for Interspersing Express Traffic</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7900321</uri>
+  <docidentifier type="IEEE">IEEE Std 802.3br-2016 (Amendment to IEEE Std 802.3-2015 as amended by IEEE St802.3bw-2015, IEEE Std 802.3by-2016, IEEE Std 802.3bq-2016, and IEEE Std 802.3bp-2016)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2335-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2016.7900321</docidentifier>
+  <docnumber>802.3br-2016</docnumber>
+  <date type="created">
+    <on>2016-10-14</on>
+  </date>
+  <date type="published">
+    <on>2017-04-14</on>
+  </date>
+  <date type="issued">
+    <on>2016-06-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment to IEEE Std 802.3-2015 specifies additions to and appropriate modifications to add support for interspersing express traffic over a single physical link.</abstract>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 8802-3:2017/Amd.5:2017(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>Time measurement</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Passive optical networks</keyword>
+  <keyword>IEEE 802.3 Standard</keyword>
+  <keyword>Ethernet</keyword>
+  <keyword>express traffic</keyword>
+  <keyword>IEEE 802&amp;amp;amp;#174;</keyword>
+  <keyword>IEEE 802.3&amp;amp;amp;#8482;</keyword>
+  <keyword>IEEE 802.3br&amp;amp;amp;#8482;</keyword>
+  <keyword>preemption</keyword>
+</bibdata>

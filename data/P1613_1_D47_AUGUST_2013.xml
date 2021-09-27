@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard Environmental and Testing Requirements for Communications Networking Devices Installed in Transmission and Distribution Facilities</title>
+  <title type="main" format="text/plain">IEEE Draft Standard Environmental and Testing Requirements for Communications Networking Devices Installed in Transmission and Distribution Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6594780</uri>
+  <docidentifier type="IEEE">IEEE P1613.1/D47, August 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8654-2</docidentifier>
+  <docnumber>P1613.1/D47, August 2013</docnumber>
+  <date type="created">
+    <on>2013-10-16</on>
+  </date>
+  <date type="published">
+    <on>2013-09-09</on>
+  </date>
+  <date type="issued">
+    <on>2013-10-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Environmental testing requirements are defined for communications networking devices to be installed in transmission and distribution facilities. This standard establishes a common reproducible basis for designing and evaluating devices utilizing radio frequency (RF) up to 6 GHz, power line communications, and broadband over power line (BPL) technologies. It also requires immunity to five IEC electromagnetic compatibility standards for which there are no IEEE equivalent standards. This standard is an extension to IEEE 1613-2009 Standard Environmental and Testing Requirements for Communications Networking Devices Installed in Electric Power Substations and its Amendment 1 - 2011.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Hazards</keyword>
+  <keyword>Communication networks</keyword>
+  <keyword>Electromagnetic fields</keyword>
+  <keyword>Oscillators</keyword>
+  <keyword>Surge protection</keyword>
+  <keyword>Power distribution</keyword>
+  <keyword>Radiation</keyword>
+  <keyword>communications networking device</keyword>
+  <keyword>surge</keyword>
+  <keyword>immunity</keyword>
+  <keyword>radiated</keyword>
+  <keyword>conducted RF</keyword>
+  <keyword>RFI hazards</keyword>
+  <keyword>IEC standards</keyword>
+  <keyword>power frequency magnetic fields</keyword>
+  <keyword>damped oscillatory magnetic fields</keyword>
+  <keyword>common mode disturbances.</keyword>
+</bibdata>

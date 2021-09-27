@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Scalable Storage Interface</title>
+  <title type="main" format="text/plain">IEEE Standard for Scalable Storage Interface</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1611109</uri>
+  <docidentifier type="IEEE">IEEE Std 1285-2005</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4799-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2006.99380</docidentifier>
+  <docnumber>1285-2005</docnumber>
+  <date type="created">
+    <on>2006</on>
+  </date>
+  <date type="published">
+    <on>2021-04-13</on>
+  </date>
+  <date type="issued">
+    <on>2005-09-22</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document specifies a scalable interface between mass-storage devices and controlling hard-ware/software. The interface has been optimized for low-latency interconnects, assuming that the proces-sor/controller and the storage device can often be co-located on the same printed-circuit board. The interface can also be used with longer-distance bus-like interconnects, including (but not limited to) IEEE Std 1394-1995 Serial Bus and IEEE Std 1596-1992 Scalable Coherent Interface.</abstract>
+  <copyright>
+    <from>2006</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Uniform resource locators</keyword>
+  <keyword>Warranties</keyword>
+  <keyword>Trademarks</keyword>
+  <keyword>Microprocessors</keyword>
+  <keyword>storage interface</keyword>
+  <keyword>mass-storage</keyword>
+  <keyword>controller</keyword>
+</bibdata>

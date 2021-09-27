@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Synchrophasor Data Transfer for Power Systems</title>
+  <title type="main" format="text/plain">IEEE Standard for Synchrophasor Data Transfer for Power Systems</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6111222</uri>
+  <docidentifier type="IEEE">IEEE Std C37.118.2-2011 (Revision of IEEE Std C37.118-2005)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-6813-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2011.6111222</docidentifier>
+  <docnumber>C37.118.2-2011</docnumber>
+  <date type="updated">
+    <on>2012-01-16</on>
+  </date>
+  <date type="created">
+    <on>2011-12-28</on>
+  </date>
+  <date type="published">
+    <on>2014-04-18</on>
+  </date>
+  <date type="issued">
+    <on>2011-12-07</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A method for real-time exchange of synchronized phasor measurement data between power system equipment is defined. This standard specifies messaging that can be used with any suitable communication protocol for real-time communication between phasor measurement units (PMU), phasor data concentrators (PDC), and other applications. It defines message types, contents, and use. Data types and formats are specified. A typical measurement system is described. Communication options and requirements are described in annexes. Keywords: data concentrator, DC, IEEE C37.118.2, PDC, phasor, phasor data concentrator, phasor measurement unit, PMU, synchronized phasor, synchrophasor.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A method for real-time exchange of synchronized phasor measurement data between power system equipment is defined. This standard specifies messaging that can be used with any suitable communication protocol for real-time communication between phasor measurement units (PMU), phasor data concentrators (PDC), and other applications. It defines message types, contents, and use. Data types and formats are specified. A typical measurement system is described. Communication options and requirements are described in annexes.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Data storage</keyword>
+  <keyword>Synchronization</keyword>
+  <keyword>Phasor measurement units</keyword>
+  <keyword>Power system dynamics</keyword>
+  <keyword>Data processing</keyword>
+  <keyword>data concentrator</keyword>
+  <keyword>DC</keyword>
+  <keyword>IEEE C37.118.2</keyword>
+  <keyword>PDC</keyword>
+  <keyword>phasor</keyword>
+  <keyword>phasor data concentrator</keyword>
+  <keyword>phasor measurement unit</keyword>
+  <keyword>PMU</keyword>
+  <keyword>synchronized phasor</keyword>
+  <keyword>synchrophasor</keyword>
+</bibdata>

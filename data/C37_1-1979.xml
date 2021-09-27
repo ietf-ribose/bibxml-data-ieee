@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Definition, Specification, and Analysis of Manual, Automatic, and Supervisory Station Control and Data Acquisition</title>
+  <title type="main" format="text/plain">American National Standard Definition, Specification, and Analysis of Manual, Automatic, and Supervisory Station Control and Data Acquisition</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7442042</uri>
+  <docidentifier type="IEEE">ANSI/IEEE C37.1-1979</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0478-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1979.7442042</docidentifier>
+  <docnumber>C37.1-1979</docnumber>
+  <date type="updated">
+    <on>2016-04-15</on>
+  </date>
+  <date type="created">
+    <on>1979-12-31</on>
+  </date>
+  <date type="published">
+    <on>2016-03-25</on>
+  </date>
+  <date type="issued">
+    <on>1977-12-15</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard applies to the definition, specification, performance, analysis, and application of equipment in manual, partial automatic, automatic, and supervisory control and data acquisition systems used with electric substations and generating stations and with installations of power utilization and conversion apparatus. This standard is intended to provide a basis for the definition, specification, and analysis of equipment described above.</abstract>
+  <copyright>
+    <from>1979</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std C37.1-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>ANSI Standards</keyword>
+  <keyword>SCADA systems</keyword>
+  <keyword>Power system control</keyword>
+  <keyword>Supervisory control</keyword>
+  <keyword>Terminology</keyword>
+  <keyword>Manuals</keyword>
+</bibdata>

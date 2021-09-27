@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Information Technology -Telecommunications and Information Exchange Between Systems</title>
+  <title type="title-main" format="text/plain">Local and Metropolitan Area Networks</title>
+  <title type="title-part" format="text/plain">Common Specifications -- Part 3: Media Access Control (MAC) Bridges: Amendment 2 -- Rapid Reconfiguration</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology -Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks - Common Specifications -- Part 3: Media Access Control (MAC) Bridges: Amendment 2 -- Rapid Reconfiguration</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/946612</uri>
+  <docidentifier type="IEEE">IEEE Std 802.1w-2001</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2925-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2001.93287</docidentifier>
+  <docnumber>802.1w-2001</docnumber>
+  <date type="created">
+    <on>2001</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2001-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 802.1D-2004 This IEEE Standards product is part of the 802 family on LAN/MAN. This amendment to IEEE Std 802.1D, 1998 Edition (ISO/IEC 15802-3: 1998) and IEEE Std 802.1t-2001 defines the changes necessary to the operation of a MAC Bridge in order to provide rapid Spanning Tree reconfiguration capability.</abstract>
+  <copyright>
+    <from>2001</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 802.1D, 1998 Edition</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>local area networks</keyword>
+  <keyword>MAC Bridge management</keyword>
+  <keyword>MAC Bridges</keyword>
+  <keyword>media access control (MAC) bridges</keyword>
+  <keyword>Rapid Spanning Tree Algorithm and Protocol (RSTP)</keyword>
+</bibdata>

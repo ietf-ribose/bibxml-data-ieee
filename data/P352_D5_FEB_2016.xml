@@ -1,0 +1,57 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for General Principles of Reliability Analysis of Nuclear Power Generating Station Systems and Other Nuclear Facilities</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for General Principles of Reliability Analysis of Nuclear Power Generating Station Systems and Other Nuclear Facilities</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7445800</uri>
+  <docidentifier type="IEEE">IEEE P352/D5, February 2016</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0842-4</docidentifier>
+  <docnumber>P352/D5, Feb 2016</docnumber>
+  <date type="created">
+    <on>2016-01-01</on>
+  </date>
+  <date type="published">
+    <on>2016-04-01</on>
+  </date>
+  <date type="issued">
+    <on>2016</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <copyright>
+    <from>2016</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 352-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Nuclear power generation</keyword>
+  <keyword>Failure analysis</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Substations</keyword>
+  <keyword>Class 1E</keyword>
+  <keyword>IEEE 352</keyword>
+  <keyword>nuclear power generating station</keyword>
+  <keyword>availability</keyword>
+  <keyword>failure rate</keyword>
+  <keyword>MTBF</keyword>
+  <keyword>MTTE</keyword>
+  <keyword>MTTR</keyword>
+  <keyword>reliability.</keyword>
+</bibdata>

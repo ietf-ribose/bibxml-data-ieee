@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Digitizing Waveform Recorders</title>
+  <title type="main" format="text/plain">IEEE Standard for Digitizing Waveform Recorders</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8291822</uri>
+  <docidentifier type="IEEE">IEEE Std 1057-2007 (Revision of IEEE 1057-1994) (Full-Use)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5350-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2008.8291822</docidentifier>
+  <docnumber>1057-2007</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <date type="published">
+    <on>2018-02-14</on>
+  </date>
+  <date type="issued">
+    <on>2007-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Revision of IEEE Std 1057-1994. This standard defines specifications and describes test methods for measuring the performance of electronic digitizing waveform recorders, waveform analyzers, and digitizing oscilloscopes with digital outputs. The standard is directed toward, but not restricted to, general-purpose waveform recorders and analyzers. Special applications can require additional manufacturer information and verification tests not covered in this standard. IEEE 1057 has many similarities to IEEE 1241 Standard for Terminology and Test Methods for Analog to Digital Converters (ADCs) . However, IEEE Std. 1057 shall be used for waveform recorders and IEEE Std. 1241 shall be used for ADCs.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1057-1994</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1057-2017 (Revision of IEEE Std 1057-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1057-2017 (Revision of IEEE Std 1057-2007)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Distortion</keyword>
+  <keyword>Oscilloscopes</keyword>
+  <keyword>Analog-digital conversion</keyword>
+  <keyword>Pulse measurements</keyword>
+  <keyword>Frequency response</keyword>
+  <keyword>1057-2007</keyword>
+  <keyword>effective number of bits</keyword>
+  <keyword>frequency response</keyword>
+  <keyword>noise</keyword>
+  <keyword>sine fitting</keyword>
+  <keyword>step pulse response</keyword>
+  <keyword>total harmonic distortion</keyword>
+  <keyword>transitions levels</keyword>
+  <keyword>waveform recorders</keyword>
+</bibdata>

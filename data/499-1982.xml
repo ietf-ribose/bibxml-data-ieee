@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practices for Cement Plant Electric Drives and Related Electric Equipment</title>
+  <title type="main" format="text/plain">IEEE Recommended Practices for Cement Plant Electric Drives and Related Electric Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8684561</uri>
+  <docidentifier type="IEEE">IEEE Std 499-1983</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4378-1</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1982.8684561</docidentifier>
+  <docnumber>499-1982</docnumber>
+  <date type="created">
+    <on>1982-11-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1982-09-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A recommended practice for electric drives and related electrical equipment for installation in the cement industry is set forth. The recommendations apply to all electric drives and include motors, controls, and control wiring associated with machinery or equipment commonly used in the manufacturing areas of cement plants, but they do not apply to power distribution circuits. The intent is to promote safety for personnel and equipment, maximum reliability with minimum loss of production, reduced maintenance and increased life of equipment, clarification of needs and conditions to reduce special engineering and chance of error in specification, and overall economy.</abstract>
+  <copyright>
+    <from>1983</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 499-1989 (Revision of ANSI/IEEE Std 499-1983)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 499-1989 (Revision of ANSI/IEEE Std 499-1983)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>cement</keyword>
+  <keyword>plant</keyword>
+  <keyword>electric</keyword>
+  <keyword>drives</keyword>
+</bibdata>

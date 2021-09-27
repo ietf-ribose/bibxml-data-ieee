@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Fault Accounting and Coverage Reporting (FACR) for Digital Modules</title>
+  <title type="main" format="text/plain">IEEE Standard for Fault Accounting and Coverage Reporting (FACR) for Digital Modules</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8303873</uri>
+  <docidentifier type="IEEE">IEEE Std 1804-2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4317-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8303873</docidentifier>
+  <docnumber>1804-2017</docnumber>
+  <date type="updated">
+    <on>2018-03-23</on>
+  </date>
+  <date type="created">
+    <on>2018-02-28</on>
+  </date>
+  <date type="published">
+    <on>2018-02-27</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Aspects of fault models as they are relevant to the generation of test patterns for digital circuits are formalized in this standard. Fault counting, fault classification, and fault coverage reporting across different automatic test pattern generation (ATPG) tools, for the single stuck-at fault model are included in the scope. It shall be incumbent for fault coverage to be reported in a uniform way on all ATPG tools (that comply with this standard). The generation of a uniform coverage (and, hence, a uniform test quality) metric for large chips [including systems-on-chips (SOCs)] with different cores and modules for which test patterns have been independently generated will be facilitated by this standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Aspects of fault models as they are relevant to the generation of test patterns for digital circuits are formalized in this standard. Fault counting, fault classification, and fault coverage reporting across different automatic test pattern generation (ATPG) tools, for the single stuck-at fault model are included in the scope. It shall be incumbent for fault coverage to be reported in a uniform way on all ATPG tools (that comply with this standard). The generation of a uniform coverage (and, hence, a uniform test quality) metric for large chips [including systems-on-chips (SOCs)] with different cores and modules for which test patterns have been independently generated will be facilitated by this standard.</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Semiconductor device testing</keyword>
+  <keyword>Fault diagnosis</keyword>
+  <keyword>Semiconductor device reliability</keyword>
+  <keyword>ATPG</keyword>
+  <keyword>fault models</keyword>
+  <keyword>fault simulation</keyword>
+  <keyword>IEEE 1804(TM)</keyword>
+  <keyword>semiconductor testing</keyword>
+  <keyword>stuck-at faults</keyword>
+  <keyword>test coverage</keyword>
+</bibdata>

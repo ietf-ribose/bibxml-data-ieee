@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Pre-Association Discovery</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Pre-Association Discovery</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8049420</uri>
+  <docidentifier type="IEEE">IEEE P802.11aq/D12.0, September 2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4400-2</docidentifier>
+  <docnumber>P802.11aq/D12.0, Sept 2017</docnumber>
+  <date type="created">
+    <on>2017-01-01</on>
+  </date>
+  <date type="published">
+    <on>2017-09-23</on>
+  </date>
+  <date type="issued">
+    <on>2018-06-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Modifications to IEEE Std 802.11™-2016, above the physical layer (PHY), to enable delivery of preassociation service discovery information to IEEE 802.11 stations (STAs) are defined in this amendment., above the physical layer (PHY), to enable delivery of preassociation service discovery information to IEEE Std 802.11 stations (STAs).</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.11-2012 (Revision of IEEE Std 802.11-2007) - Redline</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Knowledge discovery</keyword>
+  <keyword>Filters</keyword>
+  <keyword>Information retrieval</keyword>
+  <keyword>amendment</keyword>
+  <keyword>bloom filter</keyword>
+  <keyword>hash function</keyword>
+  <keyword>IEEE 802.11™</keyword>
+  <keyword>IEEE 802.11aq™</keyword>
+  <keyword>preassociation</keyword>
+  <keyword>service discovery</keyword>
+</bibdata>

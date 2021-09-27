@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Guide for Wireless Access in Vehicular Environments (WAVE) Architecture</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Guide for Wireless Access in Vehicular Environments (WAVE) Architecture - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8748234</uri>
+  <docidentifier type="IEEE">IEEE Std 1609.0-2019 (Revision of IEEE Std 1609.0-2013) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-5938-9</docidentifier>
+  <docnumber>1609.0-2019</docnumber>
+  <date type="created">
+    <on>2019</on>
+  </date>
+  <date type="published">
+    <on>2019-06-27</on>
+  </date>
+  <date type="issued">
+    <on>2019-02-08</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The wireless access in vehicular environments (WAVE) architecture and services necessary for WAVE devices to communicate in a mobile vehicular environment are described in this guide. It is meant to be used in conjunction with the family of IEEE 1609 standards as of its publication date. These include IEEE Std 1609.2(TM), IEEE Standard Security Services for Applications and Management Messages; IEEE Std 1609.3(TM), Networking Services; IEEE Std 1609.4(TM), Multi- Channel Operation; IEEE Std 1609.11(TM), Over-the-Air Electronic Payment Data Exchange Protocol for Intelligent Transportation Systems (ITS); IEEE Std 1609.12(TM), Identifiers; and IEEE Std 802.11(TM) in operation outside the context of a basic service set.</abstract>
+  <copyright>
+    <from>2019</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Intelligent vehicles</keyword>
+  <keyword>Wireless Access in Vehicular Environments</keyword>
+  <keyword>Intelligent transportation systems</keyword>
+  <keyword>Wireless networks</keyword>
+  <keyword>dedicated short range communications</keyword>
+  <keyword>DSRC</keyword>
+  <keyword>IEEE 1609.0(TM)</keyword>
+  <keyword>OBU</keyword>
+  <keyword>onboard unit</keyword>
+  <keyword>Provider Service Identifier (PSID)</keyword>
+  <keyword>roadside unit (RSU)</keyword>
+  <keyword>WAVE</keyword>
+  <keyword>WAVE service advertisement</keyword>
+  <keyword>WAVE Short Message</keyword>
+  <keyword>WAVE Short Message Protocol</keyword>
+  <keyword>wireless access in vehicular environments</keyword>
+  <keyword>WSA</keyword>
+  <keyword>WSM</keyword>
+  <keyword>WSMP</keyword>
+</bibdata>

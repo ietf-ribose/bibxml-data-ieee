@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide for Power System Protection Testing</title>
+  <title type="main" format="text/plain">IEEE Draft Guide for Power System Protection Testing</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4749828</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std PC37.233/D3.0, Dec2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-3453-9</docidentifier>
+  <docnumber>PC37.233/D3.0, Dec2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This guide covers suggested test requirements for Power System Protection Scheme Testing, System Application Tests, the scope and level of tests based on the application, and benefits of the overall protective schemes testing. This guide encompasses overall system testing procedures (generators, line, line reactors, transformer, capacitors, Special protection schemes, end-to-end testing, distributed application within substation, etc.), data collection requirements, as well as the test procedure definitions. The Guide describes the methods, extent, and types of system tests for protection applications, at various voltage levels. Control functions which are inherent to the protective systems are included. Importance of line testing, indirect trip applications, and open / closed loop tests (dynamic / non-linear tests) are also covered.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

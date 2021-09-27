@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Accelerated Aging Tests for Medium-Voltage Extruded Electric Power Cables Using Water-Filled Tanks</title>
+  <title type="main" format="text/plain">IEEE Guide for Accelerated Aging Tests for Medium-Voltage Extruded Electric Power Cables Using Water-Filled Tanks</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/757106</uri>
+  <docidentifier type="IEEE">IEEE Std 1407-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1574-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.89422</docidentifier>
+  <docnumber>1407-1998</docnumber>
+  <date type="created">
+    <on>1999</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998-10-14</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 1407-2007. Accelerated aging tests on extruded medium-voltage cables using water-filled tanks are addressed. Information on the equipment, cable samples, test conditions, and measurements to perform the aging tests is provided. Techniques on how to analyze the test data are also inlcuded.The implementation of this guide will allow a better description of the test data obtained by different laboratories.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 1407-2007 (Revision of IEEE Std 1407-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE STD 1407-2007 (Revision of IEEE Std 1407-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Power cable insulation</keyword>
+  <keyword>accelerated cable life test (ACLT)</keyword>
+  <keyword>accelerated aging test</keyword>
+  <keyword>cross-linked polyethylene (XLPE)</keyword>
+  <keyword>ethylene propylene rubber (EPR)</keyword>
+  <keyword>medium-voltage cable</keyword>
+  <keyword>tank structure</keyword>
+  <keyword>temperature measurement and profile</keyword>
+  <keyword>test conditions</keyword>
+  <keyword>water-filled tanks</keyword>
+</bibdata>

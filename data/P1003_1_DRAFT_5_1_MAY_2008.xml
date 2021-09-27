@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for Information Technology-Portable Operating System Interface (POSIX&amp;amp;#174;)--IEEE Draft Technical Standard: Base Specifications, Issue 7</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Information Technology-Portable Operating System Interface (POSIX&amp;amp;#174;)--IEEE Draft Technical Standard: Base Specifications, Issue 7</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4540155</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std P1003.1 Draft 5.1, May 2008</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2661-9</docidentifier>
+  <docnumber>P1003.1 Draft 5.1, May 2008</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">POSIX.1-200x defines a standard operating system interface and environment, including a command interpreter (or "shell"), and common utility programs to support applications portability at the source code level. POSIX.1-200x is intended to be used by both application developers and system implementors and comprises four major components (each in an associated volume)</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

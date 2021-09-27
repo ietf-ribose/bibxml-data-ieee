@@ -1,0 +1,48 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Communication Based Train Control Performance Requirements and Functional Requirements</title>
+  <title type="main" format="text/plain">IEEE Standard for Communication Based Train Control Performance Requirements and Functional Requirements</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/815310</uri>
+  <docidentifier type="IEEE">IEEE Std 1474.1-1999</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-1825-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1999.90611</docidentifier>
+  <docnumber>1474.1-1999</docnumber>
+  <date type="created">
+    <on>1999-12-30</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1999-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">SUPERSEDED BY 1474.1-2004 Abstract: Performance and functional requirements for a communications-based train control (CBTC) system are established in this standard. A CBTC system is a continuous, automatic train control system utilizing high-resolution train location determination, independent of track circuits; continuous, high-capacity, bidirectional train-to-wayside data communications; and trainborne and wayside processors capable of implementing automatic train protection (ATP) functions, as well as optional automatic train operation (ATO) and automatic train supervision (ATS) functions. In addition to CBTC functional requirements, this standard also defines headway criteria, system safety criteria, and system availability criteria for a CBTC system.</abstract>
+  <copyright>
+    <from>1999</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1474.1-2004 (Revision of IEEE Std 1474.1-1999)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Rail transportation</keyword>
+  <keyword>communications</keyword>
+  <keyword>signaling</keyword>
+  <keyword>train control</keyword>
+</bibdata>

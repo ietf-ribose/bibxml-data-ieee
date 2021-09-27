@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Trial use Standard Definitions for Use in Reporting Electric Generating Unit Reliability, Availability, and Productivity</title>
+  <title type="main" format="text/plain">IEEE Trial use Standard Definitions for Use in Reporting Electric Generating Unit Reliability, Availability, and Productivity</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7437350</uri>
+  <docidentifier type="IEEE">ANSI/ IEEE Std 762-1980</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-0440-2</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1980.7437350</docidentifier>
+  <docnumber>762-1980</docnumber>
+  <date type="updated">
+    <on>2016-04-08</on>
+  </date>
+  <date type="created">
+    <on>1980-12-18</on>
+  </date>
+  <date type="published">
+    <on>2016-03-21</on>
+  </date>
+  <date type="issued">
+    <on>1979-09-27</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to aid the electric power industry in reporting and evaluating electric generating unit reliability, availability, and productivity. This standard was developed to overcome present difficulties in the interpretation of electric generating unit performance data from various systems and to facilitate comparisons among different systems. It should also make possible the future exchange of meaningful data among systems in the United States, Canada, and throughout the world.</abstract>
+  <copyright>
+    <from>1980</from>
+    <owner>
+      <organization>
+        <name>American National Standards Institute</name>
+        <abbreviation>ANSI</abbreviation>
+        <uri>https://www.ansi.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI/IEEE Std 762-1987</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Electrical machinery</keyword>
+  <keyword>Power system reliability</keyword>
+  <keyword>Productivity</keyword>
+  <keyword>Terminology</keyword>
+</bibdata>

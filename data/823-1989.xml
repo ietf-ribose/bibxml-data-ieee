@@ -1,0 +1,45 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Methodologies for Specifying Voice Grade Channel Transmission Parameters and Evaluating Connection Transmission Performance for Speech Telephony</title>
+  <title type="main" format="text/plain">IEEE Standard Methodologies for Specifying Voice Grade Channel Transmission Parameters and Evaluating Connection Transmission Performance for Speech Telephony</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/89756</uri>
+  <docidentifier type="IEEE">IEEE Std 823-1989</docidentifier>
+  <docidentifier type="ISBN">0-7381-4579-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1990.94607</docidentifier>
+  <docnumber>823-1989</docnumber>
+  <date type="created">
+    <on>1990</on>
+  </date>
+  <date type="issued">
+    <on>1989-08-17</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This IEEE Std 823-1989 provides network planners with the methodology and models for calculating the transmission performance of connections made up of one channel or of two or more tandem channels. The performance parameters covered include connection loss, idle-circuit and quantisation noise, and talker echo path loss and delay. The methodology is given for determining the speech transmission performance and grade of service of a complete voice connection including the terminals (telephone sets), and evaluating the relative performance of alternative speech connections.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <copyright>
+    <from>1990</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Speech intelligibility</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Communication channels</keyword>
+  <keyword>Telephone sets</keyword>
+  <keyword>Telephony</keyword>
+</bibdata>

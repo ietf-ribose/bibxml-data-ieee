@@ -1,0 +1,52 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">American National Standard Data Format Standard for Radiation Detectors Used for Homeland Security</title>
+  <title type="main" format="text/plain">American National Standard Data Format Standard for Radiation Detectors Used for Homeland Security</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6202310</uri>
+  <docidentifier type="IEEE">ANSI N42.42-2006</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5561-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2007.6202310</docidentifier>
+  <docnumber>N42.42-2006</docnumber>
+  <date type="created">
+    <on>2007</on>
+  </date>
+  <date type="published">
+    <on>2012-05-17</on>
+  </date>
+  <date type="issued">
+    <on>2006-11-03</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard specifies the data format that shall be used for both required and optional data to be made available by radiation instruments for homeland security applications. The performance for these types of instruments is described in other standards; such as ANSI/IEEE N42.32, ANSI/IEEE N42.33, ANSI/IEEE N42.34, ANSI/IEEE N42.35, and ANSI/IEEE N42.38.</abstract>
+  <copyright>
+    <from>2007</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ANSI N42.42-2012 (Revision of ANSI N42.42-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Radiation detectors</keyword>
+  <keyword>Security</keyword>
+  <keyword>Data analysis</keyword>
+  <keyword>data format</keyword>
+  <keyword>DHS standards</keyword>
+  <keyword>homeland security</keyword>
+  <keyword>radiation detectors</keyword>
+</bibdata>

@@ -1,0 +1,50 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Microcontroller System Serial Control Bus</title>
+  <title type="main" format="text/plain">IEEE Standard for Microcontroller System Serial Control Bus</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/159173</uri>
+  <docidentifier type="IEEE">IEEE Std 1118-1990</docidentifier>
+  <docidentifier type="ISBN">978-1-5593-7096-7</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1991.101038</docidentifier>
+  <docnumber>1118.1-1990</docnumber>
+  <date type="created">
+    <on>1991-01-31</on>
+  </date>
+  <date type="published">
+    <on>2016-03-01</on>
+  </date>
+  <date type="issued">
+    <on>1990-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A serial control bus for interdevicehtrabuilding as well as intrasite interconnection of microcontrollers is described. The bus, which is defined for (but not limited to) microcontrollers and devices with limited reprogrammability, provides a multidrop bit-serial communication protocol that will allow the interconnection of distributed Independently manufactured devices. The protocol is optimized for instrumentation, distributed data acquisition systems, control devices, and test and measurement. Specifications for a common architecture, generic bus services, system wagement, data link, and several physical media are provided.The serial control bus expands upon BITBUS without making existing devices obsolete. System reliability has been enhanced by the addition of a system management layer, and generic bus services have been expanded.</abstract>
+  <copyright>
+    <from>1991</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Computer interfaces</keyword>
+  <keyword>Protocols</keyword>
+  <keyword>Standards</keyword>
+  <keyword>88 inverse discrete cosine transform</keyword>
+  <keyword>IDCT</keyword>
+  <keyword>visual telephony</keyword>
+  <keyword>reconstruction loop</keyword>
+</bibdata>

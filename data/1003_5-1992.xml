@@ -1,0 +1,62 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART 1: Binding for System Application Program Interface (API)</title>
+  <title type="main" format="text/plain">IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART 1: Binding for System Application Program Interface (API)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7160863</uri>
+  <docidentifier type="IEEE">IEEE Std 1003.5-1992</docidentifier>
+  <docidentifier type="ISBN">978-1-55937-229-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1994.7160863</docidentifier>
+  <docnumber>1003.5-1992</docnumber>
+  <date type="updated">
+    <on>2015-08-07</on>
+  </date>
+  <date type="created">
+    <on>1994</on>
+  </date>
+  <date type="published">
+    <on>2015-07-16</on>
+  </date>
+  <date type="issued">
+    <on>1992-06-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is part of the POSIX series of standards for applications and user interfaces to open systems. It defines the Ada language bindings as package specifications and accompanying textual descriptions to the application program interface (API). This standard supports application portability at the source level through the binding between ISO 8652:1987 (Ada) and ISO/IEC 9945-1:1990 (IEEE Std 1003.1-1990) (POSIX). Terminology and general requirements, process primitives, the process environment, files and directories, input and output primitives, device- and class-specific functions, language-specific services for Ada, and system databases are covered. It also specifies behavior to support the binding that must be provided by the Ada compilation system. The emphasis in POSIX is on application programs, so the interfaces in this document are not sufficient to implement an Ada compilation system or a POSIX shell, nor is this standard meant to be sufficient for real-time applications.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard is part of the POSIX series of standards for applications and user interfaces to open systems. It defines the Ada language bindings as package specifications and accompanying textual descriptions to the application program interface (API). This standard supports application portability at the source level through the binding between ISO 8652:1987 (Ada) and ISO/IEC 9945-1:1990 (IEEE Std 1003.1-1990) (POSIX). Terminology and general requirements, process primitives, the process environment, files and directories, input and output primitives, device- and class-specific functions, language-specific services for Ada, and system databases are covered. It also specifies behavior to support the binding that must be provided by the Ada compilation system. The emphasis in POSIX is on application programs, so the interfaces in this document are not sufficient to implement an Ada compilation system or a POSIX shell, nor is this standard meant to be sufficient for real-time applications.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>Appication programming interfaces</keyword>
+  <keyword>Operating systems</keyword>
+  <keyword>Computer languages</keyword>
+  <keyword>Portability</keyword>
+  <keyword>Ada</keyword>
+  <keyword>API</keyword>
+  <keyword>operating system</keyword>
+  <keyword>portable application</keyword>
+  <keyword>POSIX</keyword>
+  <keyword>POSIX language bindings</keyword>
+  <keyword>Open systems</keyword>
+  <keyword>Computer language bindings</keyword>
+  <keyword>Application portability</keyword>
+</bibdata>

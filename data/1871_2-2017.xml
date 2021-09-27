@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Recommended Practice for IEEE 1671 Test Equipment Templates and Extension Classes for Describing Intrinsic Signal Path Information for Cables, Interface Adapters, and Test Equipment</title>
+  <title type="main" format="text/plain">IEEE Recommended Practice for IEEE 1671 Test Equipment Templates and Extension Classes for Describing Intrinsic Signal Path Information for Cables, Interface Adapters, and Test Equipment</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8315177</uri>
+  <docidentifier type="IEEE">IEEE Std 1871.2-2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4287-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8315177</docidentifier>
+  <docnumber>1871.2-2017</docnumber>
+  <date type="updated">
+    <on>2018-03-30</on>
+  </date>
+  <date type="created">
+    <on>2018</on>
+  </date>
+  <date type="published">
+    <on>2018-03-13</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Recommended practices to extend the ATML exchange formats for the purposes of describing intrinsic paths are provided. An XML schema, an ATML instance document, and use cases related to intrinsic path characterizations are presented in this recommended practice.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This document is a recommended practice to extending the ATML exchange formats to for the purposes describing intrinsic paths. The recommended practice presents an XML schema an ATML instance document, and use cases related to intrinsic path characterizations. (NOTE: Additional files for this standard are available at http://standards.ieee.org/downloads/1871/1871.2-2017/)</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>XML</keyword>
+  <keyword>Test equipment</keyword>
+  <keyword>Automatic test equipment</keyword>
+  <keyword>Path planning</keyword>
+  <keyword>Automatic Test Markup Language (ATML)</keyword>
+  <keyword>XML schema</keyword>
+  <keyword>ATML instance document</keyword>
+  <keyword>automatic test equipment (ATE)</keyword>
+  <keyword>automatic test system (ATS)</keyword>
+  <keyword>test adapter</keyword>
+  <keyword>interface device</keyword>
+  <keyword>wire(s)</keyword>
+  <keyword>pin(s)</keyword>
+  <keyword>switch(es)</keyword>
+  <keyword>intrinsic path characteristics.</keyword>
+</bibdata>

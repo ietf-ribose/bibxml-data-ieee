@@ -1,0 +1,53 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard Practices and Requirements for Semiconductor Power Rectifier Transformers</title>
+  <title type="main" format="text/plain">IEEE Standard Practices and Requirements for Semiconductor Power Rectifier Transformers</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/9061674</uri>
+  <docidentifier type="IEEE">IEEE Std C57.18-10-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0878-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1997.9061674</docidentifier>
+  <docnumber>C57.18.10-1998</docnumber>
+  <date type="created">
+    <on>1997-11-30</on>
+  </date>
+  <date type="published">
+    <on>2020-04-08</on>
+  </date>
+  <date type="issued">
+    <on>1998-03-19</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Practices and requirements for semiconductor power rectifier transformers for dedicated loads rated single-phase 300 kW and above and three-phase 500 kW and above are included. Static precipitators, high-voltage converters for dc power transmission, and other nonlinear loads are excluded. Service conditions, both usual and unusual, are specified, or other standards are referenced as appropriate. Routine tests are specified. An informative annex provides several examples of load loss calculations for transformers when subjected to nonsinusoidal currents, based on calculations provided in the standard.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>Standards</keyword>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Loss measurement</keyword>
+  <keyword>Temperature measurement</keyword>
+  <keyword>Windings</keyword>
+  <keyword>Harmonic analysis</keyword>
+  <keyword>Patents</keyword>
+  <keyword>semiconductor</keyword>
+  <keyword>rectifier</keyword>
+  <keyword>transformer</keyword>
+</bibdata>

@@ -1,0 +1,65 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Receiver Fixture Interface</title>
+  <title type="title-main" format="text/plain">Redline</title>
+  <title type="main" format="text/plain">IEEE Standard for Receiver Fixture Interface - Redline</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6046064</uri>
+  <docidentifier type="IEEE">IEEE Std 1505-2010 (Revision of IEEE Std 1505-2006) - Redline</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-7052-7</docidentifier>
+  <docnumber>1505-2010</docnumber>
+  <date type="updated">
+    <on>2011-11-07</on>
+  </date>
+  <date type="created">
+    <on>2010-11-15</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2010-09-30</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A mechanical and electrical specification for implementing a common interoperable mechanical quick-disconnect interconnect system for use by industry for interfacing large numbers of electrical signals (digital, analog, RF, power, etc.) is provided. These large interface panels (receiver and fixture panels) are employed primarily in test systems between stimulus/measurement assets and a related unit-under-test (UUT), although any application involving high-density contacts requiring a quick disconnect interface could benefit. The receiver is a receptacle that is mounted to test system mates with multiple fixtures, which serve as the buffer between the UUT and automatic test equipment (ATE). Fixtures translate standard input/output (I/O) signal routing offered at the receiver to a wiring interface that directly connects to the UUT. These UUT interfaces can represent cable connectors, direct plug-in (printed circuit board edge connectors), sensor monitoring, or manual feedback from the test technician. The primary objectives of this standard are: (a) to establish interface standards that permit interchangeability of mechanical/electrical receiver/fixture/connector product assemblies from various manufacturers under an open architecture; and (b) to develop within this framework a defined set(s) of interconnecting connector and mechanical specifications that supports available, accepted, low-cost commercial technology to reduced dependence on proprietary designs and extend life-cycle availability.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A mechanical and electrical specification for implementing a common interoperable mechanical quick-disconnect interconnect system for use by industry for interfacing large numbers of electrical signals (digital, analog, RF, power, etc.) is provided. These large interface panels (receiver and fixture panels) are employed primarily in test systems between stimulus/measurement assets and a related unit-under-test (UUT), although any application involving high-density contacts requiring a quick disconnect interface could benefit. The receiver is a receptacle that is mounted to test system mates with multiple fixtures, which serve as the buffer between the UUT and automatic test equipment (ATE). Fixtures translate standard input/output (I/O) signal routing offered at the receiver to a wiring interface that directly connects to the UUT. These UUT interfaces can represent cable connectors, direct plug-in (printed circuit board edge connectors), sensor monitoring, or manual feedback from the test technician. The primary objectives of this standard are: (a) to establish interface standards that permit interchangeability of mechanical/electrical receiver/fixture/connector product assemblies from various manufacturers under an open architecture; and (b) to develop within this framework a defined set(s) of interconnecting connector and mechanical specifications that supports available, accepted, low-cost commercial technology to reduced dependence on proprietary designs and extend life-cycle availability.</abstract>
+  <copyright>
+    <from>2011</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 1505-2006</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Connectors</keyword>
+  <keyword>Receivers</keyword>
+  <keyword>connector</keyword>
+  <keyword>fixture</keyword>
+  <keyword>framework</keyword>
+  <keyword>interface</keyword>
+  <keyword>interoperability</keyword>
+  <keyword>mass-interconnect</keyword>
+  <keyword>quick disconnect</keyword>
+  <keyword>receiver</keyword>
+  <keyword>specification</keyword>
+</bibdata>

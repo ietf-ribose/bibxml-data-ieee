@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for Operation and Maintenance of Turbine Generators</title>
+  <title type="main" format="text/plain">IEEE Guide for Operation and Maintenance of Turbine Generators</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/19421</uri>
+  <docidentifier type="IEEE">ANSI/IEEE Std 67-1972</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4242-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1972.119967</docidentifier>
+  <docnumber>67-1972</docnumber>
+  <date type="created">
+    <on>1972</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1971-09-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by 67-1990. This standard covers general recommendations for the operation, loading, and maintenance of turbine-driven synchronous generators that have cylindrical rotors.</abstract>
+  <copyright>
+    <from>1972</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 67-1990</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Cooling</keyword>
+  <keyword>Maintenance</keyword>
+  <keyword>Machine windings</keyword>
+  <keyword>Standards</keyword>
+  <keyword>Synchronous generators</keyword>
+  <keyword>Turbines</keyword>
+  <keyword>turbiine</keyword>
+  <keyword>generators</keyword>
+  <keyword>operation</keyword>
+  <keyword>maintenance</keyword>
+</bibdata>

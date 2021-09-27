@@ -1,0 +1,76 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering -- Content of life-cycle information items (documentation)</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Systems and software engineering -- Content of life-cycle information items (documentation)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/7942151</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 15289:2017(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4076-9</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.7942151</docidentifier>
+  <docnumber>15289-2017</docnumber>
+  <date type="updated">
+    <on>2017-06-23</on>
+  </date>
+  <date type="created">
+    <on>2017</on>
+  </date>
+  <date type="published">
+    <on>2017-06-07</on>
+  </date>
+  <date type="issued">
+    <on>2017-03-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The purpose and content of all identified systems and software life cycle and service management information items (documentation) are specified in this document.The information item contents are defined according to generic document types(description, plan, policy, procedure, report, request, and specification) and the specific purpose of the document. This document provides a mapping of ISO/IEC/IEEE15288:2015, ISO/IEC 12207:2008 (IEEE Std 12207-2008), ISO/IEC 20000-1:2011 (IEEEStd 20000-1:2013), and ISO/IEC 20000-2 (IEEE Std 20000-2:2013) clauses with a set of information items. This document identifies records and information items based on analysis of references in ISO/IEC/IEEE 15288:2015, ISO/IEC 12207:2008 (IEEE Std12207-2008), ISO/IEC 20000-1:2011 (IEEE Std 20000-1:2013) and ISO/IEC 20000-2:2012 (IEEE 20000-2:2013), which in some cases provide partial or complete outlines for the content of specific documents. Information items may be combined or subdivided as needed for project or organizational purposes.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The purpose and content of all identified systems and software life cycle and service management information items (documentation) are specified in this document. The information item contents are defined according to generic document types (description, plan, policy, procedure, report, request, and specification) and the specific purpose of the document. This document provides a mapping of ISO/IEC/IEEE 15288:2015, ISO/IEC 12207:2008 (IEEE Std 12207&amp;amp;amp;#8208;2008), ISO/IEC 20000&amp;amp;amp;#8208;1:2011 (IEEE Std 20000&amp;amp;amp;#8208;1:2013), and ISO/IEC 20000&amp;amp;amp;#8208;2 (IEEE Std 20000&amp;amp;amp;#8208;2:2013) clauses with a set of information items. This document identifies records and information items based on analysis of references in ISO/IEC/IEEE 15288:2015, ISO/IEC 12207:2008 (IEEE Std 12207&amp;amp;amp;#8208;2008), ISO/IEC 20000&amp;amp;amp;#8208;1:2011 (IEEE Std 20000&amp;amp;amp;#8208;1:2013) and ISO/IEC 20000&amp;amp;amp;#8208;2:2012 (IEEE 20000&amp;amp;amp;#8208;2:2013), which in some cases provide partial or complete outlines for the content of specific documents. Information items may be combined or subdivided as needed for project or organizational purposes.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 15289:2015(E)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 15289:2019(E)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>Product life cycle management</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Content management</keyword>
+  <keyword>Information technology</keyword>
+  <keyword>15289</keyword>
+  <keyword>life cycle</keyword>
+  <keyword>life cycle process</keyword>
+  <keyword>software</keyword>
+</bibdata>

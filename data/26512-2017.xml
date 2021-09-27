@@ -1,0 +1,70 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">ISO/IEC/IEEE International Standard</title>
+  <title type="title-main" format="text/plain">Systems and software engineering</title>
+  <title type="title-part" format="text/plain">Requirements for acquirers and suppliers of information for users</title>
+  <title type="main" format="text/plain">ISO/IEC/IEEE International Standard - Systems and software engineering - Requirements for acquirers and suppliers of information for users</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8288807</uri>
+  <docidentifier type="IEEE">ISO/IEC/IEEE 26512:2017(E)</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4255-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2017.8288807</docidentifier>
+  <docnumber>26512-2017</docnumber>
+  <date type="updated">
+    <on>2018-03-09</on>
+  </date>
+  <date type="created">
+    <on>2017-11-01</on>
+  </date>
+  <date type="published">
+    <on>2018-02-09</on>
+  </date>
+  <date type="issued">
+    <on>2017-09-28</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This document was developed to assist users of ISO/IEC/IEEE 15288:2015 or ISO/IEC/IEEE 12207 to acquire or supply information for users as part of the system or life cycle processes. It defines the documentation process from the acquirer's standpoint and the supplier's standpoint. This document covers the requirements for information items used in the acquisition of user documentation products: the acquisition plan, document specification, statement of work, request for proposals, and the proposal. It provides an overview of the information management processes which may require acquisition and supply of system or software user documentation products and services. It addresses the preparation of requirements for user documentation. These requirements are central to the user documentation specification and statement of work. It includes requirements for primary document outputs of the acquisition and supply process: the request for proposal and the proposal for user documentation products and services. It also discusses the use of a Document Plan in the acquisition and supply processes. This document is independent of the software tools that may be used to produce documentation, and applies to both printed documentation and on-screen documentation. Its guidance is applicable to user documentation for systems including hardware as well as software.</abstract>
+  <copyright>
+    <from>2017</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>ISO</name>
+      </organization>
+    </owner>
+    <owner>
+      <organization>
+        <name>IEC</name>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ISO/IEC/IEEE 26512 First Edition, 2011-06-01</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>IEC Standards</keyword>
+  <keyword>ISO Standards</keyword>
+  <keyword>Software engineering</keyword>
+  <keyword>Systems engineering and theory</keyword>
+  <keyword>Requirements engineering</keyword>
+</bibdata>

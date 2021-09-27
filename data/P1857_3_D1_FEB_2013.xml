@@ -1,0 +1,58 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Standard for System of Advanced Audio and Video Coding</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for System of Advanced Audio and Video Coding</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6502632</uri>
+  <docidentifier type="IEEE">IEEE P1857.3/D1, February 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8134-9</docidentifier>
+  <docnumber>P1857.3/D1, Feb 2013</docnumber>
+  <date type="created">
+    <on>2013</on>
+  </date>
+  <date type="published">
+    <on>2013-04-16</on>
+  </date>
+  <date type="issued">
+    <on>2013-07-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Standard defines the storage file formats and RTP pay load formats for P1857 Video and P1857.2 Audio. The storage of video and audio not only uses the existing capabilities of the ISO Base Media File Format, but also defines extensions to support specific features of the P1857 Video codec and P1857.2 Audio codec. The target applications and services include but not limited to Internet media streaming, IPTV, video conference, video telephony, and video-on-demand.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>VIdeo coding</keyword>
+  <keyword>Audio coding</keyword>
+  <keyword>File formats</keyword>
+  <keyword>Packet switching</keyword>
+  <keyword>System</keyword>
+  <keyword>Video</keyword>
+  <keyword>Audio</keyword>
+  <keyword>Storage</keyword>
+  <keyword>File format</keyword>
+  <keyword>Track</keyword>
+  <keyword>Box</keyword>
+  <keyword>Transmission</keyword>
+  <keyword>RTP payload format</keyword>
+  <keyword>NAL unit</keyword>
+  <keyword>Packetization</keyword>
+</bibdata>

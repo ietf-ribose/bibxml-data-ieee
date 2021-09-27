@@ -1,0 +1,61 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Health informatics--Point-of-care medical device communication Part 10207: Domain Information and Service Model for Service-Oriented Point-of-Care Medical Device Communication</title>
+  <title type="main" format="text/plain">IEEE Health informatics--Point-of-care medical device communication Part 10207: Domain Information and Service Model for Service-Oriented Point-of-Care Medical Device Communication</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/8299598</uri>
+  <docidentifier type="IEEE">IEEE Std 11073-10207-2017</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-4627-3</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2018.8299598</docidentifier>
+  <docnumber>11073-10207-2017</docnumber>
+  <date type="updated">
+    <on>2018-03-09</on>
+  </date>
+  <date type="created">
+    <on>2018-02-21</on>
+  </date>
+  <date type="published">
+    <on>2018-02-21</on>
+  </date>
+  <date type="issued">
+    <on>2017-12-06</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073(TM) family of standards for point-of-care medical device communication, a Participant Model derived from the ISO/IEEE11073-10201 Domain Information Model is provided in this standard. The Participant Model specifies the structure of medical information objects. This standard also defines an abstract Communication Model to support the exchange of medical information objects. All elements of the Participant Model and Communication Model are specified using XML Schema. Core subjects of the Participant Model comprise modelling of medical device-related data, e.g., measurements and settings, alert systems, contextual information (e.g., patient demographics and location information), remote control, and archival information. Model extensibility is provided inherently through the use of XML Schema (Additional files are available for this standard at http://standards.ieee.org/downloads/11073/).</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073(TM) family of standards for point-of-care medical device communication, a Participant Model derived from the ISO/IEEE11073-10201 Domain Information Model is provided in this standard. The Participant Model specifies the structure of medical information objects. This standard also defines an abstract Communication Model to support the exchange of medical information objects. All elements of the Participant Model and Communication Model are specified using XML Schema. Core subjects of the Participant Model comprise modelling of medical device-related data, e.g., measurements and settings, alert systems, contextual information (e.g., patient demographics and location information), remote control, and archival information. Model extensibility is provided inherently through the use of XML Schema.textual information like patient demographics and location information, remote control, and archival. Model extensibility is provided inherently through the use of XML Schema. (Additional files are available for this standard at http://standards.ieee.org/downloads/11073/)</abstract>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Medical devices</keyword>
+  <keyword>XML</keyword>
+  <keyword>Context modeling</keyword>
+  <keyword>Data models</keyword>
+  <keyword>Point of care</keyword>
+  <keyword>alert systems</keyword>
+  <keyword>IEEE 11073-10207(TM)</keyword>
+  <keyword>medical device communication</keyword>
+  <keyword>patient</keyword>
+  <keyword>point-of-care</keyword>
+  <keyword>remote control</keyword>
+  <keyword>service-oriented architecture</keyword>
+  <keyword>XML Schema</keyword>
+</bibdata>

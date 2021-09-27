@@ -1,0 +1,54 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Approved Draft Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Common Information Elements</title>
+  <title type="main" format="text/plain">IEEE Approved Draft Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Common Information Elements</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6517439</uri>
+  <docidentifier type="IEEE">IEEE P1636.99/D5, May 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8453-1</docidentifier>
+  <docnumber>P1636.99/D5, May 2013</docnumber>
+  <date type="created">
+    <on>2013-11-08</on>
+  </date>
+  <date type="published">
+    <on>2013-05-20</on>
+  </date>
+  <date type="issued">
+    <on>2013-08-23</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>Piscataway</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard is intended to promote and facilitate interoperability between components of SIMICA. The standard defines EXPRESS information models and XML schemas that together define the common information elements supporting these interfaces</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE standards</keyword>
+  <keyword>Software maintenance</keyword>
+  <keyword>Information management</keyword>
+  <keyword>Maintenance engineering</keyword>
+  <keyword>Testing</keyword>
+  <keyword>XML</keyword>
+  <keyword>Automated Test System (ATS)</keyword>
+  <keyword>eXtensible markup language (XML)</keyword>
+  <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+  <keyword>test results</keyword>
+  <keyword>session information</keyword>
+  <keyword>XML schema</keyword>
+</bibdata>

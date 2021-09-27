@@ -1,0 +1,63 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Standard for Overhead Type Distribution Transformers, 500 kVA and Smaller: High Voltage, 34500 Volts and Below; Low Voltage, 7970/13800Y Volts and Below</title>
+  <title type="main" format="text/plain">Standard for Overhead Type Distribution Transformers, 500 kVA and Smaller: High Voltage, 34500 Volts and Below; Low Voltage, 7970/13800Y Volts and Below</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/1577467</uri>
+  <docidentifier type="IEEE">IEEE Std C57.12.20-2005 (Revision of IEEE Std C57.12.20-1997)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-4753-6</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2005.98651</docidentifier>
+  <docnumber>C57.12.20-2005</docnumber>
+  <date type="created">
+    <on>2005-12-09</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>2005-06-09</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This standard covers certain electrical, dimensional, and mechanical characteristics and safety features of single- and three-phase, 60 Hz, mineral-oil-immersed, self-cooled, overhead-type distribution transformers 500 kVA and smaller, high voltages 34 500 V and below and low voltages 7970/13 800Y V and below.</abstract>
+  <copyright>
+    <from>2005</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">ANSI C57.12.20-1997</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C57.12.20-2011 (Revision of IEEE Std C57.12.20-2005)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Oil insulation</keyword>
+  <keyword>Patents</keyword>
+  <keyword>Low voltage</keyword>
+  <keyword>High-voltage techniques</keyword>
+  <keyword>Regulators</keyword>
+  <keyword>electrical</keyword>
+  <keyword>dimensional</keyword>
+  <keyword>mechanical characteristics</keyword>
+  <keyword>safety features</keyword>
+  <keyword>mineral-oil-immersed</keyword>
+  <keyword>transformers 500kVA and smaller</keyword>
+  <keyword>high voltages 34 500 V and low voltages 7970/13 800Y V and below</keyword>
+</bibdata>

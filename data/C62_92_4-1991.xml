@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Guide for the Application of Neutral Grounding in Electrical Utility Systems, Part IV-Distribution</title>
+  <title type="main" format="text/plain">IEEE Guide for the Application of Neutral Grounding in Electrical Utility Systems, Part IV-Distribution</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/182873</uri>
+  <docidentifier type="IEEE">IEEE Std C62.92.4-1991</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-0935-0</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1992.106976</docidentifier>
+  <docnumber>C62.92.4-1991</docnumber>
+  <date type="created">
+    <on>1992-05-28</on>
+  </date>
+  <date type="published">
+    <on>2015-05-28</on>
+  </date>
+  <date type="issued">
+    <on>1991-12-05</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">The neutral grounding of single- and three-phase ac electric utility primary distribution systems with nominal voltages in the range of 2.4--34.5 kV is addressed. Classes of distribution systems grounding are defined. Basic considerations in distribution system grounding--concerning economics, control of temporary overvoltages, control of ground-fault currents, and ground relaying--are addressed. Also considered are use of grounding transformers, grounding of high-voltage neutral of wye/delta distribution transformers, and interconnection of primary and secondary neutrals of distribution transformers.</abstract>
+  <copyright>
+    <from>1992</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.92.4-2014 (Revision of IEEE Std C62.92.4-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std C62.92.4-2014 (Revision of IEEE Std C62.92.4-1991)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Grounding</keyword>
+  <keyword>Economics</keyword>
+  <keyword>Power transformers</keyword>
+  <keyword>Voltage control</keyword>
+  <keyword>distribution system grounding</keyword>
+  <keyword>distribution systems</keyword>
+  <keyword>electric utilities</keyword>
+  <keyword>grounding</keyword>
+  <keyword>neutralgrounding</keyword>
+  <keyword>primary distribution systems</keyword>
+</bibdata>

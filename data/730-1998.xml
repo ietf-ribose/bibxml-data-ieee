@@ -1,0 +1,59 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">Standard for Software Quality Assurance Plans</title>
+  <title type="main" format="text/plain">Standard for Software Quality Assurance Plans</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/720573</uri>
+  <docidentifier type="IEEE">IEEE Std 730-1998</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-3527-4</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1998.88284</docidentifier>
+  <docnumber>730-1998</docnumber>
+  <date type="created">
+    <on>1998-10-20</on>
+  </date>
+  <date type="published">
+    <on>2019-04-05</on>
+  </date>
+  <date type="issued">
+    <on>1998-06-25</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">Uniform, minimum acceptable requirements for preparation and content of Software QualityAssurance Plans (SQAPs) are provided. This standard applies to the development and maintenance of critical software. For non-critical software, or for software already developed, a subset of the requirements of this standard may be applied.</abstract>
+  <copyright>
+    <from>1998</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">revises</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE 730-1989</formattedref>
+    </bibitem>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 730-2002 (Revision of IEEE Std 730-1998)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>Software quality</keyword>
+  <keyword>critical design review</keyword>
+  <keyword>preliminary design review</keyword>
+  <keyword>software configuration management plan</keyword>
+  <keyword>software design description</keyword>
+  <keyword>software quality assurance plan</keyword>
+  <keyword>software requirements review</keyword>
+  <keyword>software requirements specification</keyword>
+  <keyword>software verification and validation plan</keyword>
+</bibdata>

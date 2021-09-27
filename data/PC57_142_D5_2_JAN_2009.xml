@@ -1,0 +1,36 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Draft Guide to Describe the Occurrence and Mitigation of Switching Transients Induced by Transformer, Switching Device, and System Interaction</title>
+  <title type="main" format="text/plain">IEEE Draft Guide to Describe the Occurrence and Mitigation of Switching Transients Induced by Transformer, Switching Device, and System Interaction</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/4749834</uri>
+  <docidentifier type="IEEE">IEEE Unapproved Draft Std PC57.142/D5.2, Jan 2009</docidentifier>
+  <docidentifier type="ISBN">978-1-5044-2741-8</docidentifier>
+  <docnumber>PC57.142/D5.2, Jan 2009</docnumber>
+  <date type="created">
+    <on>2008</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This Guide addresses the application of transformers in the presence of oscillatory switching transients. These oscillatory transients are typically produced by the interaction of the switching device, transformer, load, and system. This Guide defines operating conditions that may produce switching voltages damaging to the transformer insulation system. It discusses the electrical characteristics of the system source, switching device, transformer, and load and the nature of their transient interaction. It outlines several mitigation methods. Two examples are included.</abstract>
+  <copyright>
+    <from>2008</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+</bibdata>

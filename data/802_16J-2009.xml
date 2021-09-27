@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-main" format="text/plain">IEEE Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment 1: Multihop Relay Specification</title>
+  <title type="main" format="text/plain">IEEE Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment 1: Multihop Relay Specification</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/5167148</uri>
+  <docidentifier type="IEEE">IEEE Std 802.16j-2009 (Amendment to IEEE Std 802.16-2009)</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-5922-5</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.2009.5167148</docidentifier>
+  <docnumber>802.16j-2009</docnumber>
+  <date type="updated">
+    <on>2009-08-14</on>
+  </date>
+  <date type="created">
+    <on>2009</on>
+  </date>
+  <date type="published">
+    <on>2012-08-17</on>
+  </date>
+  <date type="issued">
+    <on>2009-05-13</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city/>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">This amendment specifies OFDMA physical layer and medium access control layer enhancements to IEEE Std 802.16 for licensed bands to enable the operation of relay stations.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEEE Std 802.16-2012.This document specifies OFDMA physical layer and medium access control layer enhancements to IEEE Std. 802.16 for licensed bands to enable the operation of relay stations.</abstract>
+  <copyright>
+    <from>2009</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.16-2009 (Revision of IEEE Std 802.16-2004)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE 802.16 Standard</keyword>
+  <keyword>Wireless communication</keyword>
+  <keyword>Relays</keyword>
+  <keyword>Broadband communication</keyword>
+  <keyword>Spread spectrum communication</keyword>
+  <keyword>802.16j-2009</keyword>
+  <keyword>broadband wireless access (BWA)</keyword>
+  <keyword>MAN</keyword>
+  <keyword>microwave</keyword>
+  <keyword>mobile</keyword>
+  <keyword>multihop relay</keyword>
+  <keyword>OFDM</keyword>
+  <keyword>OFDMA</keyword>
+  <keyword>radio</keyword>
+  <keyword>standard</keyword>
+  <keyword>wireless access systems (WAS)</keyword>
+  <keyword>WirelessMAN&amp;amp;#174;</keyword>
+  <keyword>wireless metropolitan area network</keyword>
+</bibdata>

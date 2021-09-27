@@ -1,0 +1,71 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+  <title type="title-main" format="text/plain">Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs)</title>
+  <title type="title-part" format="text/plain">Amendment 6: TV White Space Between 54 MHz and 862MHz Physical Layer</title>
+  <title type="main" format="text/plain">IEEE Draft Standard for Local and Metropolitan Area Networks - Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) - Amendment 6: TV White Space Between 54 MHz and 862MHz Physical Layer</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/6581789</uri>
+  <docidentifier type="IEEE">P802.15.4m/D3, May 2013</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-8585-9</docidentifier>
+  <docnumber>P802.15.4m/D3, May 2013</docnumber>
+  <date type="created">
+    <on>2013-10-16</on>
+  </date>
+  <date type="published">
+    <on>2013-08-15</on>
+  </date>
+  <date type="issued">
+    <on>2013-10-16</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">In this amendment to IEEE Std 802.15.4-2011, outdoor low-data-rate, wireless, TV White Space network requirements are addressed. Alternate PHYs are defined as well as only those MAC modifications needed to support their implementation.</abstract>
+  <copyright>
+    <from>2013</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <relation type="updates">
+    <description format="text/plain" language="en" script="Latn">amends</description>
+    <bibitem>
+      <formattedref format="text/plain">IEEE Std 802.15.4-2011 (Revision of IEEE Std 802.15.4-2006)</formattedref>
+    </bibitem>
+  </relation>
+  <keyword>IEEE standards</keyword>
+  <keyword>Ad hoc networks</keyword>
+  <keyword>IEEE 802.11 standards</keyword>
+  <keyword>Wireless LAN</keyword>
+  <keyword>Personal area networks</keyword>
+  <keyword>White spaces</keyword>
+  <keyword>Local area networks</keyword>
+  <keyword>Metropolitan area networks</keyword>
+  <keyword>Low power electronics</keyword>
+  <keyword>ad hoc network</keyword>
+  <keyword>IEEE 802.15.4</keyword>
+  <keyword>IEEE 802.15.4m</keyword>
+  <keyword>low data rate</keyword>
+  <keyword>low power</keyword>
+  <keyword>LR-WPAN</keyword>
+  <keyword>mobility</keyword>
+  <keyword>PAN</keyword>
+  <keyword>personal area network</keyword>
+  <keyword>radio frequency</keyword>
+  <keyword>RF</keyword>
+  <keyword>short range</keyword>
+  <keyword>TV White Space</keyword>
+  <keyword>wireless</keyword>
+  <keyword>wireless personal area network</keyword>
+  <keyword>WPAN</keyword>
+</bibdata>

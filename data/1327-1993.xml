@@ -1,0 +1,60 @@
+<bibdata type="standard">
+  <title type="title-intro" format="text/plain">IEEE Standard for Interconnection (OSI) Abstract Data Manipulation C Language Interfaces</title>
+  <title type="title-main" format="text/plain">Binding for Application Program Interfaces (API)</title>
+  <title type="main" format="text/plain">IEEE Standard for Interconnection (OSI) Abstract Data Manipulation C Language Interfaces - Binding for Application Program Interfaces (API)</title>
+  <uri type="src">https://ieeexplore.ieee.org/document/286085</uri>
+  <docidentifier type="IEEE">IEEE Std 1327-1993</docidentifier>
+  <docidentifier type="ISBN">978-0-7381-2360-8</docidentifier>
+  <docidentifier type="DOI">10.1109/IEEESTD.1993.119661</docidentifier>
+  <docnumber>1327-1993</docnumber>
+  <date type="created">
+    <on>1993</on>
+  </date>
+  <date type="published">
+    <on>2019-04-12</on>
+  </date>
+  <date type="issued">
+    <on>1993-03-18</on>
+  </date>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Institute of Electrical and Electronics Engineers</name>
+      <abbreviation>IEEE</abbreviation>
+      <uri>http://www.ieee.org</uri>
+      <address>
+        <city>New York</city>
+        <country>USA</country>
+      </address>
+    </organization>
+  </contributor>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract format="text/plain" language="en" script="Latn">A C programming language binding for the general-purpose OSI Abstract Data Manipulation (OM) Application Program Interface (API) in IEEE Std 1224- 1993 is defined. This standard is intended for use by application developers, system implementors, test method writers, and users to support application portability at the source-code level. The API defined in this standard contains two major parts: an interface for accessing the services defined in the programming language independent specification, and an interface for language-specific services.</abstract>
+  <copyright>
+    <from>1993</from>
+    <owner>
+      <organization>
+        <name>Institute of Electrical and Electronics Engineers</name>
+        <abbreviation>IEEE</abbreviation>
+        <uri>http://www.ieee.org</uri>
+      </organization>
+    </owner>
+  </copyright>
+  <keyword>IEEE Standards</keyword>
+  <keyword>Open systems</keyword>
+  <keyword>C languages</keyword>
+  <keyword>Consumer electronics</keyword>
+  <keyword>Syntactics</keyword>
+  <keyword>API</keyword>
+  <keyword>ASN.1</keyword>
+  <keyword>C language</keyword>
+  <keyword>OSI</keyword>
+  <keyword>Open systems interconnection</keyword>
+  <keyword>Open systems</keyword>
+  <keyword>Object management</keyword>
+  <keyword>Language binding</keyword>
+  <keyword>Application program interface</keyword>
+  <keyword>Application portability</keyword>
+  <keyword>Abstract syntax notation</keyword>
+</bibdata>
