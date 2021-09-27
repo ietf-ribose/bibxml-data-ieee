@@ -26,7 +26,7 @@ jobs:
         run: |
           gem install relaton-cli
       - name: Fetch documents
-        run: relaton fetch-data ieee-rawbib
+        run: relaton fetch-data ieee-rawbib -f xml
       - name: Push data
         run: |
           echo `date` > flag.txt
