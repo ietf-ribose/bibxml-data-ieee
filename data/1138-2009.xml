@@ -22,7 +22,7 @@
       <abbreviation>IEEE</abbreviation>
       <uri>http://www.ieee.org</uri>
       <address>
-        <city>Piscataway</city>
+        <city>New York</city>
         <country>USA</country>
       </address>
     </organization>
@@ -40,12 +40,6 @@
       </organization>
     </owner>
   </copyright>
-  <relation type="updates">
-    <description format="text/plain" language="en" script="Latn">revises</description>
-    <bibitem>
-      <formattedref format="text/plain">IEEE Std 1138-1994</formattedref>
-    </bibitem>
-  </relation>
   <keyword>IEEE standards</keyword>
   <keyword>Optical fiber devices</keyword>
   <keyword>Wiring</keyword>
