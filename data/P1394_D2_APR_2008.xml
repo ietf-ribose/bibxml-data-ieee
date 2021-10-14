@@ -22,7 +22,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document provides specifications for a high-speed serial bus which supports both asynchronous and isochronous communication and integrates well with most IEEE standard 32-bit and 64-bit parallel buses. It is intended to provide a low-cost interconnect between cards on the same backplane, cards on other backplanes, and external peripherals. Interfaces to longer-distance transmission media (such as UTP, optical fiber, and POF) allow the interconnection to be extended throughout a local network. This standard follows the IEEE Std 1212&amp;amp;#8482; -2001 Command and Status Register (CSR) architecture.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This document provides specifications for a high-speed serial bus which supports both asynchronous and isochronous communication and integrates well with most IEEE standard 32-bit and 64-bit parallel buses. It is intended to provide a low-cost interconnect between cards on the same backplane, cards on other backplanes, and external peripherals. Interfaces to longer-distance transmission media (such as UTP, optical fiber, and POF) allow the interconnection to be extended throughout a local network. This standard follows the IEEE Std 1212™ -2001 Command and Status Register (CSR) architecture.</abstract>
   <copyright>
     <from>2008</from>
     <owner>

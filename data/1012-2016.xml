@@ -32,8 +32,8 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;amp;amp;V) processes are used to determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;amp;amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;amp;amp;V processes encompasses systems, software, and hardware, and it includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused (legacy, commercial off-the-shelf [COTS], non-developmental items). The term software also includes firmware and microcode, and each of the terms system, software, and hardware includes documentation. V&amp;amp;amp;V processes include the analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
-  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;amp;amp;V) processes are used to determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;amp;amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;amp;amp;V processes encompasses systems, software, and hardware, and it includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused (legacy, commercial off-the-shelf [COTS], non-developmental items). The term software also includes firmware and microcode, and each of the terms system, software, and hardware includes documentation. V&amp;amp;amp;V processes include the analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;V) processes are used to determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;V processes encompasses systems, software, and hardware, and it includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused (legacy, commercial off-the-shelf [COTS], non-developmental items). The term software also includes firmware and microcode, and each of the terms system, software, and hardware includes documentation. V&amp;V processes include the analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;V) processes are used to determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;V processes encompasses systems, software, and hardware, and it includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused (legacy, commercial off-the-shelf [COTS], non-developmental items). The term software also includes firmware and microcode, and each of the terms system, software, and hardware includes documentation. V&amp;V processes include the analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
   <copyright>
     <from>2016</from>
     <owner>
@@ -64,19 +64,19 @@
   <keyword>criticality analysis</keyword>
   <keyword>design evaluation</keyword>
   <keyword>disposal plan evaluation</keyword>
-  <keyword>environmental verification and validation (V&amp;amp;amp;V) factors</keyword>
+  <keyword>environmental verification and validation (V&amp;V) factors</keyword>
   <keyword>hardware life cycle</keyword>
-  <keyword>hardware V&amp;amp;amp;V</keyword>
+  <keyword>hardware V&amp;V</keyword>
   <keyword>hardware verification and validation</keyword>
   <keyword>hazard analysis</keyword>
   <keyword>IEEE 1012</keyword>
   <keyword>implementation evaluation</keyword>
-  <keyword>independent verification and validation (IV&amp;amp;amp;V)</keyword>
+  <keyword>independent verification and validation (IV&amp;V)</keyword>
   <keyword>integration testing</keyword>
   <keyword>integrity level</keyword>
   <keyword>interface analysis</keyword>
-  <keyword>IV&amp;amp;amp;V</keyword>
-  <keyword>minimum V&amp;amp;amp;V tasks</keyword>
+  <keyword>IV&amp;V</keyword>
+  <keyword>minimum V&amp;V tasks</keyword>
   <keyword>nth of a kind</keyword>
   <keyword>objective evidence</keyword>
   <keyword>operating procedure evaluation</keyword>
@@ -91,7 +91,7 @@
   <keyword>security analysis</keyword>
   <keyword>software life cycle</keyword>
   <keyword>software quality assurance (SQA)</keyword>
-  <keyword>software V&amp;amp;amp;V</keyword>
+  <keyword>software V&amp;V</keyword>
   <keyword>software verification and validation</keyword>
   <keyword>source code documentation evaluation</keyword>
   <keyword>source code evaluation</keyword>
@@ -102,12 +102,12 @@
   <keyword>system maintenance strategy assessment</keyword>
   <keyword>system of interest</keyword>
   <keyword>system requirements evaluation</keyword>
-  <keyword>system V&amp;amp;amp;V</keyword>
+  <keyword>system V&amp;V</keyword>
   <keyword>system verification and validation</keyword>
   <keyword>testing</keyword>
   <keyword>traceability analysis</keyword>
-  <keyword>V&amp;amp;amp;V</keyword>
-  <keyword>V&amp;amp;amp;V measures</keyword>
+  <keyword>V&amp;V</keyword>
+  <keyword>V&amp;V measures</keyword>
   <keyword>validation</keyword>
   <keyword>verification</keyword>
 </bibdata>

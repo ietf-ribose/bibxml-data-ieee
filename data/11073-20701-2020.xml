@@ -32,8 +32,8 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, an architecture for service-oriented distributed PoC medical devices and medical IT systems is defined. This standard defines a binding of the Participant, Discovery, and Communication Model defined in IEEE Std 11073-10207&amp;amp;#x2122; to the profile for transport over Web Services defined in IEEE Std 11073-20702&amp;amp;#x2122;. Moreover, a binding to Network Time Protocol (NTP) and Differentiated Services (DiffServ) is defined for time synchronization and transport Quality of Service requirements.</abstract>
-  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, an architecture for service-oriented distributed PoC medical devices and medical IT systems is defined. This standard defines a binding of the Participant, Discovery, and Communication Model defined in IEEE Std 11073-10207&amp;amp;#8482; to the profile for transport over Web Services defined in IEEE Std 11073-20702&amp;amp;#8482;. Moreover, a binding to Network Time Protocol (NTP) and Differentiated Services (DiffServ) is defined for time synchronization and transport Quality of Service requirements.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, an architecture for service-oriented distributed PoC medical devices and medical IT systems is defined. This standard defines a binding of the Participant, Discovery, and Communication Model defined in IEEE Std 11073-10207™ to the profile for transport over Web Services defined in IEEE Std 11073-20702™. Moreover, a binding to Network Time Protocol (NTP) and Differentiated Services (DiffServ) is defined for time synchronization and transport Quality of Service requirements.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, an architecture for service-oriented distributed PoC medical devices and medical IT systems is defined. This standard defines a binding of the Participant, Discovery, and Communication Model defined in IEEE Std 11073-10207™ to the profile for transport over Web Services defined in IEEE Std 11073-20702™. Moreover, a binding to Network Time Protocol (NTP) and Differentiated Services (DiffServ) is defined for time synchronization and transport Quality of Service requirements.</abstract>
   <copyright>
     <from>2020</from>
     <owner>
@@ -70,7 +70,7 @@
   <keyword>alert systems</keyword>
   <keyword>BICEPS</keyword>
   <keyword>DiffServ</keyword>
-  <keyword>IEEE 11073-20701&amp;amp;#8482;</keyword>
+  <keyword>IEEE 11073-20701™</keyword>
   <keyword>ISO/IEEE 11073</keyword>
   <keyword>MDPWS</keyword>
   <keyword>medical device communication</keyword>

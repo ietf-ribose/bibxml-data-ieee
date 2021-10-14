@@ -32,8 +32,8 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">A real-time operating system (RTOS) called &amp;amp;#x03BC;T-Kernel for small-scale embedded systems such as systems with a single chip microcomputer including 16-bit CPUs, systems with a small amount of ROM/RAM, and systems without a memory management unit (MMU) are specified in this standard.</abstract>
-  <abstract format="text/plain" language="en" script="Latn">A real-time operating system (RTOS) called &amp;amp;#956;T-Kernel for small-scale embedded systems such as systems with a single chip microcomputer including 16-bit CPUs, systems with a small amount of ROM/RAM, and systems without a memory management unit (MMU) are specified in this standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A real-time operating system (RTOS) called μT-Kernel for small-scale embedded systems such as systems with a single chip microcomputer including 16-bit CPUs, systems with a small amount of ROM/RAM, and systems without a memory management unit (MMU) are specified in this standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A real-time operating system (RTOS) called μT-Kernel for small-scale embedded systems such as systems with a single chip microcomputer including 16-bit CPUs, systems with a small amount of ROM/RAM, and systems without a memory management unit (MMU) are specified in this standard.</abstract>
   <copyright>
     <from>2018</from>
     <owner>
@@ -59,7 +59,7 @@
   <keyword>event flag</keyword>
   <keyword>fast lock</keyword>
   <keyword>fast multi-lock</keyword>
-  <keyword>IEEE 2050&amp;amp;#8482;</keyword>
+  <keyword>IEEE 2050™</keyword>
   <keyword>interrupt handler</keyword>
   <keyword>kernel</keyword>
   <keyword>IoT edgenode</keyword>
@@ -87,5 +87,5 @@
   <keyword>task independent portion</keyword>
   <keyword>task scheduling</keyword>
   <keyword>TRON</keyword>
-  <keyword>&amp;amp;#956;T-Kernel</keyword>
+  <keyword>μT-Kernel</keyword>
 </bibdata>

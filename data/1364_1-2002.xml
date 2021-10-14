@@ -29,7 +29,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Superseded by IEC/IEEE 62142-2005. To develop a standard syntax and semantics for Verilog RTL synthesis. This standard shall define the subset of IEEE 1364 (Verilog HDL) which is suitable for RTL synthesis and shall define the semantics of that subset for the synthesis domain. This standard shall be based on the current existing standard IEEE 1364. To define syntax and semantics which can be used in common by all compliant RTL synthesis tools to achieve uniformity of results in a similar manner to which simulation tools currently use the IEEE 1364 standard. This will allow users of synthesis tools to produce well-defined designs whose functional characteristics are independent of any particular synthesis implementation by making their design compliant with this developed standard. Standard syntax and semantics for Verilog &amp;amp;#174; HDL-based RTL synthesis are described inthis standard.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Superseded by IEC/IEEE 62142-2005. To develop a standard syntax and semantics for Verilog RTL synthesis. This standard shall define the subset of IEEE 1364 (Verilog HDL) which is suitable for RTL synthesis and shall define the semantics of that subset for the synthesis domain. This standard shall be based on the current existing standard IEEE 1364. To define syntax and semantics which can be used in common by all compliant RTL synthesis tools to achieve uniformity of results in a similar manner to which simulation tools currently use the IEEE 1364 standard. This will allow users of synthesis tools to produce well-defined designs whose functional characteristics are independent of any particular synthesis implementation by making their design compliant with this developed standard. Standard syntax and semantics for Verilog ® HDL-based RTL synthesis are described inthis standard.</abstract>
   <copyright>
     <from>2002</from>
     <owner>
@@ -50,5 +50,5 @@
   <keyword>HDL</keyword>
   <keyword>RTL</keyword>
   <keyword>synthesis</keyword>
-  <keyword>Verilog &amp;amp;#174;</keyword>
+  <keyword>Verilog ®</keyword>
 </bibdata>

@@ -33,7 +33,7 @@
   <language>en</language>
   <script>Latn</script>
   <abstract format="text/plain" language="en" script="Latn">Circuitry that may be built into an integrated circuit to assist in the test, maintenance, and support of assembled printed circuit boards, assembled multi-die packages, and the test of die internal circuits is defined in this standard. The circuitry includes a high-speed TAP (HSTAP) with a packet encoder/decoder and distribution architecture through which instructions and test data are communicated. The standard leverages the languages of IEEE Std 1149.1(TM) to describe and operate the on-chip circuits.</abstract>
-  <abstract format="text/plain" language="en" script="Latn">Circuitry that may be built into an integrated circuit to assist in the test, maintenance, and support of assembled printed circuit boards, assembled multi-die packages, and the test of die internal circuits is defined in this standard. The circuitry includes a high-speed TAP (HSTAP) with a packet encoder/decoder and distribution architecture through which instructions and test data are communicated. The standard leverages the languages of IEEE Std 1149.1&amp;amp;#8482; to describe and operate the on-chip circuits.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Circuitry that may be built into an integrated circuit to assist in the test, maintenance, and support of assembled printed circuit boards, assembled multi-die packages, and the test of die internal circuits is defined in this standard. The circuitry includes a high-speed TAP (HSTAP) with a packet encoder/decoder and distribution architecture through which instructions and test data are communicated. The standard leverages the languages of IEEE Std 1149.1™ to describe and operate the on-chip circuits.</abstract>
   <copyright>
     <from>2017</from>
     <owner>
@@ -56,9 +56,9 @@
   <keyword>debug</keyword>
   <keyword>High Speed JTAG</keyword>
   <keyword>I2C</keyword>
-  <keyword>IEEE 1149.1&amp;amp;#8482;</keyword>
+  <keyword>IEEE 1149.1™</keyword>
   <keyword>PDL</keyword>
-  <keyword>IEEE 1149.10&amp;amp;#8482;</keyword>
+  <keyword>IEEE 1149.10™</keyword>
   <keyword>integrated circuit</keyword>
   <keyword>JTAG</keyword>
   <keyword>wafer</keyword>

@@ -29,7 +29,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">An amendment to the IEEE Std 1901.2-2013&amp;amp;#8482; standard for narrowband power line communications (PLC) via alternating current, direct current, and nonenergized electric power lines using frequencies below 500 kHz. The scope of the amendments include changes to clarify how and when to encrypt header and payload information elements, update the interleaver design in order to eliminate some drawbacks in certain channels, a new PHY data primitive attribute so sub-band SNR data can be obtained from the PHY, modification to the frame counter size for security to make it consistent with IEEE Std 802.15.4e&amp;amp;#8482;-2012, and adding a beacon attribute and change the zero crossing detector text.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">An amendment to the IEEE Std 1901.2-2013™ standard for narrowband power line communications (PLC) via alternating current, direct current, and nonenergized electric power lines using frequencies below 500 kHz. The scope of the amendments include changes to clarify how and when to encrypt header and payload information elements, update the interleaver design in order to eliminate some drawbacks in certain channels, a new PHY data primitive attribute so sub-band SNR data can be obtained from the PHY, modification to the frame counter size for security to make it consistent with IEEE Std 802.15.4e™-2012, and adding a beacon attribute and change the zero crossing detector text.</abstract>
   <copyright>
     <from>2015</from>
     <owner>

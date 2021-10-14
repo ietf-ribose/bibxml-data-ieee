@@ -29,7 +29,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This standard defines the protocol and interface that allows analog transducers to communicate digital information with an IEEE 1451 object. It also defines the format of the Transducer TEDS. The Transducer TEDS is based on the IEEE 1451.2&amp;amp;#x2122; TEDS. The standard does not specify the transducer design, signal conditioning, or the specific use of the TEDS.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This standard defines the protocol and interface that allows analog transducers to communicate digital information with an IEEE 1451 object. It also defines the format of the Transducer TEDS. The Transducer TEDS is based on the IEEE 1451.2™ TEDS. The standard does not specify the transducer design, signal conditioning, or the specific use of the TEDS.</abstract>
   <abstract format="text/plain" language="en" script="Latn">Adoption of IEEE Std 1451.2-1997. A digital interface for connecting transducers to microprocessors is defined. A Transducer Electronic Data Sheets (TEDS) and its data formats are described. An electrical interface, read and write logic functions to access the TEDS and a wide variety of transducers are defined. This standard does not specify signal conditioning, signal conversion, or how the TEDS data is used in applications.</abstract>
   <copyright>
     <from>2010</from>

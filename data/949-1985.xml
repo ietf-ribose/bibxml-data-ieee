@@ -26,7 +26,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">The purpose of this standard is to define a format for the transmission of files and their attributes between computer systems independent of the medium of transmission. It is intended that any information medium capable of representing a consecutive sequence of 8-bit bytes should be adaptable to the format specified in this standard. The format is designed to facilitate the human interface to file selection from transmissions by foreign systems.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <abstract format="text/plain" language="en" script="Latn">The purpose of this standard is to define a format for the transmission of files and their attributes between computer systems independent of the medium of transmission. It is intended that any information medium capable of representing a consecutive sequence of 8-bit bytes should be adaptable to the format specified in this standard. The format is designed to facilitate the human interface to file selection from transmissions by foreign systems.&lt;<etx>&gt;</etx></abstract>
   <copyright>
     <from>1985</from>
     <owner>

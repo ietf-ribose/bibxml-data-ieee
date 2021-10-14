@@ -26,7 +26,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">A C language binding to IEEE Std 1351-1994, a language-independent standard defining an application program interface (API) to the ACSE application service element from the OSI application layer and the connection-oriented services of the presentation layer is defined. The purpose of this API is to support portable implementations of application-specific OSI service elements and non-OSI applications&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A C language binding to IEEE Std 1351-1994, a language-independent standard defining an application program interface (API) to the ACSE application service element from the OSI application layer and the connection-oriented services of the presentation layer is defined. The purpose of this API is to support portable implementations of application-specific OSI service elements and non-OSI applications&lt;<etx>&gt;</etx></abstract>
   <copyright>
     <from>1994</from>
     <owner>

@@ -24,7 +24,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This Standard defines a World Wide Web Consortium (W3C) Extensible Markup Language (XML) Schema definition language binding of the learning object metadata (LOM) data model defined in IEEE Std 1484.12.1TM&amp;amp;amp;#8211;2002. The purpose of this Standard is to allow the creation of LOM instances in XML, which allows for interoperability and the exchange of LOM XML instances between various systems. This Standard uses the W3C XML Schema definition language to define the syntax and semantics of the XML encodings.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">This Standard defines a World Wide Web Consortium (W3C) Extensible Markup Language (XML) Schema definition language binding of the learning object metadata (LOM) data model defined in IEEE Std 1484.12.1TM–2002. The purpose of this Standard is to allow the creation of LOM instances in XML, which allows for interoperability and the exchange of LOM XML instances between various systems. This Standard uses the W3C XML Schema definition language to define the syntax and semantics of the XML encodings.</abstract>
   <copyright>
     <from>2019</from>
     <owner>
@@ -46,7 +46,7 @@
   <keyword>Metadata</keyword>
   <keyword>Terminology</keyword>
   <keyword>Learning systems</keyword>
-  <keyword>1484.12.1&amp;amp;amp;#8211;2002</keyword>
+  <keyword>1484.12.1–2002</keyword>
   <keyword>Extensible Markup Language (XML)</keyword>
   <keyword>learning object metadata (LOM)</keyword>
   <keyword>LOM XML instance</keyword>

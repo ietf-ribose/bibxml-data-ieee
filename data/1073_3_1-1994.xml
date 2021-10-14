@@ -29,7 +29,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">A local area network (LAN) for the interconnection of computers and medical devices is defined by the specifications and guidelines set forth in this standard. The functions, features, and protocols of the intra-room communications subnet of a bedside communications network known as the Medical Information Bus (MIB) are defined. This communications subnet is the functional equivalent for the MIB of the transport, network, data link, and physical layers of the organization for international standards (ISO) reference model for open systems interconnection (OSI). This standard defines the services and protocols for the MIB transport, network, and data link layers.&amp;lt;&amp;lt;ETX&amp;gt;&amp;gt;</abstract>
+  <abstract format="text/plain" language="en" script="Latn">A local area network (LAN) for the interconnection of computers and medical devices is defined by the specifications and guidelines set forth in this standard. The functions, features, and protocols of the intra-room communications subnet of a bedside communications network known as the Medical Information Bus (MIB) are defined. This communications subnet is the functional equivalent for the MIB of the transport, network, data link, and physical layers of the organization for international standards (ISO) reference model for open systems interconnection (OSI). This standard defines the services and protocols for the MIB transport, network, and data link layers.&lt;<etx>&gt;</etx></abstract>
   <copyright>
     <from>1995</from>
     <owner>

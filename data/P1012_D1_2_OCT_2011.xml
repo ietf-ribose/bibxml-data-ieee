@@ -25,7 +25,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;amp;amp;V) processes determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;amp;amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;amp;amp;V processes encompasses systems, software, and hardware, and includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused [legacy, commercial off-the-shelf (COTS), non developmental items]. The term software also includes firmware and microcode, and each of the terms system, software and hardware includes documentation. V&amp;amp;amp;V processes include analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">Verification and validation (V&amp;V) processes determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;V processes encompasses systems, software, and hardware, and includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused [legacy, commercial off-the-shelf (COTS), non developmental items]. The term software also includes firmware and microcode, and each of the terms system, software and hardware includes documentation. V&amp;V processes include analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
   <copyright>
     <from>2011</from>
     <owner>
@@ -41,11 +41,11 @@
   <keyword>Verification</keyword>
   <keyword>Software maintenance</keyword>
   <keyword>Product life cycle management</keyword>
-  <keyword>IV&amp;amp;amp;V</keyword>
+  <keyword>IV&amp;V</keyword>
   <keyword>integrity level</keyword>
   <keyword>software life cycle</keyword>
   <keyword>system life cycle</keyword>
-  <keyword>V&amp;amp;amp;V</keyword>
+  <keyword>V&amp;V</keyword>
   <keyword>validation</keyword>
   <keyword>verification</keyword>
 </bibdata>

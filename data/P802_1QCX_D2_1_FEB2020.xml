@@ -24,7 +24,7 @@
   </contributor>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">YANG data model that supports configuration, status reporting, and monitoring for Connectivity Fault Management (CFM) for Two-Port MAC Relays, Customer VLAN Bridges, and Provider Bridges is further developed by this amendment to IEEE Std 802.1Q&amp;amp;amp;#8482;-2018. See also IEEE Std 802.1Qcp&amp;amp;amp;#8482;-2018 for the introduction of this YANG data model.</abstract>
+  <abstract format="text/plain" language="en" script="Latn">YANG data model that supports configuration, status reporting, and monitoring for Connectivity Fault Management (CFM) for Two-Port MAC Relays, Customer VLAN Bridges, and Provider Bridges is further developed by this amendment to IEEE Std 802.1Q™-2018. See also IEEE Std 802.1Qcp™-2018 for the introduction of this YANG data model.</abstract>
   <copyright>
     <from>2020</from>
     <owner>
@@ -51,9 +51,9 @@
   <keyword>Bridged Local Area Networks</keyword>
   <keyword>CFM</keyword>
   <keyword>Connectivity Fault Management</keyword>
-  <keyword>IEEE 802.1Q&amp;amp;amp;#8482;</keyword>
-  <keyword>IEEE 802.1Qcp&amp;amp;amp;#8482;</keyword>
-  <keyword>IEEE 802.1Qcx&amp;amp;amp;#8482;</keyword>
+  <keyword>IEEE 802.1Q™</keyword>
+  <keyword>IEEE 802.1Qcp™</keyword>
+  <keyword>IEEE 802.1Qcx™</keyword>
   <keyword>LANs</keyword>
   <keyword>local area networks</keyword>
   <keyword>MAC Bridges</keyword>
