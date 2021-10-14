@@ -1,0 +1,25 @@
+<reference anchor="IEEE.P1609.1/D17" target="https://ieeexplore.ieee.org/document/8686394">
+  <front>
+    <title>IEEE Draft Trial-Use Standard for Wireless Access in Vehicular Environments (WAVE)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Dedicated short range communication</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <keyword>Multiplexing</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>DSRC</keyword>
+    <keyword>WAVE</keyword>
+    <keyword>resource manager</keyword>
+    <keyword>1609</keyword>
+    <abstract>This standard specifies a wireless access in vehicular environments (WAVE) dedicated short-range communications (DSRC) application, known as the WAVE resource manager (RM), designed to allow applications at remote sites to communicate with devices known as onboard units (OBUs), which are mounted in vehicles, through devices known as roadside units (RSUs), which are mounted on the roadside. The WAVE RM, acting like an application layer, multiplexes the communications of multiple remote applications, each communicating with multiple OBUs. The purpose of the communication is to conduct information interchange, needed to implement the requirements of the remote WAVE DSRC applications.</abstract>
+  </front>
+</reference>

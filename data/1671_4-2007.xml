@@ -1,0 +1,26 @@
+<reference anchor="IEEE.1671.4-2007" target="https://ieeexplore.ieee.org/document/4509494">
+  <front>
+    <title>IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Information via eXtensible Markup Language (XML): Exchanging Test Configuration Information</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4509494"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="May" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Automatic test equipment</keyword>
+    <keyword>1671.4-2007</keyword>
+    <keyword>automatic test equipment (ATE)</keyword>
+    <keyword>Automatic Test Markup Language (ATML)</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test system (ATS)</keyword>
+    <keyword>master configuration control document</keyword>
+    <keyword>master test program set index (MTPSI)</keyword>
+    <keyword>station configuration file</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This document specifies an exchange format, utilizing XML, for identifying the test configuration used to test and diagnose a unit under test (UUT) on an automatic test system (ATS).</abstract>
+  </front>
+</reference>

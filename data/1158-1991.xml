@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1158-1991" target="https://ieeexplore.ieee.org/document/161179">
+  <front>
+    <title>IEEE Recommended Practice for Determination of Power Losses in High-Voltage Direct-Current (HVDC) Converter Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101093"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="9"/>
+    <keyword>DC power transmission</keyword>
+    <keyword>Losses</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>HVDC</keyword>
+    <keyword>Power losses</keyword>
+    <keyword>HVDC converter stations</keyword>
+    <abstract>Withdrawn Standard. Withdrawn Date: Jan 10, 2002. No longer endorsed by the IEEE. A set of standard procedures for determining and verifying the total losses of a high-voltage direct-current (HVDC) converter station is recommended. The procedures are applicable to all parts of the converter station and cover standby, partial load, and full load losses and methods of calculation and measurement. All line commutated converter stations used for power exchange in utility systems are covered. Loss determination procedures for synchronous compensators or static var compensators are not included.</abstract>
+  </front>
+</reference>

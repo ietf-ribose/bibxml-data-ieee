@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P802.1Qaw_D4.0, Dec 2008" target="https://ieeexplore.ieee.org/document/4783138">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment 10: Management of Data Driven and Data Dependent Connectivity Faults (IEEE Draft Amendment to IEEE Std 802.1Q -2005)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This amendment extends the connectivity fault management capabilities introduced in IEEE Std 802.1ag-2007 to include tools to facilitate diagnosis and isolation of faults sensitive to, or caused by, particular data patterns in frames transmitted by a service user. See the introductory notes for what this draft tries to accomplish, and for project scope, status, and history.</abstract>
+  </front>
+</reference>

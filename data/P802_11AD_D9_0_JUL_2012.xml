@@ -1,0 +1,54 @@
+<reference anchor="IEEE.P802.11ad/D9.0, Jul 2012" target="https://ieeexplore.ieee.org/document/6242355">
+  <front>
+    <title>IEEE Approved Draft Standard for LAN</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="July" day="17"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Millimeter wave communication</keyword>
+    <keyword>Array signal processing</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>60 GHz</keyword>
+    <keyword>millimeter-wave</keyword>
+    <keyword>directional multi-gigabit</keyword>
+    <keyword>DMG</keyword>
+    <keyword>beamforming</keyword>
+    <keyword>personal basic service set</keyword>
+    <keyword>PBSS</keyword>
+    <keyword>GCMP</keyword>
+    <keyword>service period</keyword>
+    <keyword>SP</keyword>
+    <keyword>contention-based access period</keyword>
+    <keyword>CBAP</keyword>
+    <keyword>beacon transmission interval</keyword>
+    <keyword>BTI</keyword>
+    <keyword>announcement transmission interval</keyword>
+    <keyword>ATI</keyword>
+    <keyword>association beamforming training time</keyword>
+    <keyword>A-BFT</keyword>
+    <keyword>multi-band operation</keyword>
+    <keyword>fast session transfer</keyword>
+    <keyword>FST</keyword>
+    <keyword>PBSS control point</keyword>
+    <keyword>PCP</keyword>
+    <keyword>clustering</keyword>
+    <keyword>spatial sharing</keyword>
+    <keyword>dynamic allocation of service period</keyword>
+    <keyword>dynamic truncation of service period</keyword>
+    <keyword>dynamic extension of service period</keyword>
+    <keyword>relay operation</keyword>
+    <keyword>WiGig</keyword>
+    <keyword>wireless gigabit.</keyword>
+    <abstract>This amendment defines modifications to both the 802.11 physical layers (PHY) and the 802.11 Medium Access Control Layer (MAC) to enable operation in the 60 GHz frequency band capable of very high throughput.</abstract>
+  </front>
+</reference>

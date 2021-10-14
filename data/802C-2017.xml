@@ -1,0 +1,41 @@
+<reference anchor="IEEE.802c-2017" target="https://ieeexplore.ieee.org/document/8016709">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks:Overview and Architecture--Amendment 2: Local Medium Access Control (MAC) Address Usage</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8016709"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="August" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Identification</keyword>
+    <keyword>Registration</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Global addresses</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Network architecture</keyword>
+    <keyword>AAI</keyword>
+    <keyword>Administratively Assigned Identifier</keyword>
+    <keyword>CID</keyword>
+    <keyword>Company ID</keyword>
+    <keyword>ELI</keyword>
+    <keyword>Extended Local Identifier</keyword>
+    <keyword>global address</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE Registration Authority</keyword>
+    <keyword>local address</keyword>
+    <keyword>MAC</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>SAI</keyword>
+    <keyword>SLAP</keyword>
+    <keyword>Standard Assigned Identifier</keyword>
+    <keyword>Structured Local Address Plan</keyword>
+    <abstract>An optional local medium access control (MAC) address space structure, known as the Structured Local Address Plan (SLAP), is provided in this amendment to IEEE Std 802(R)-2014 in order to allow multiple administrations to coexist. This structure designates a range of local MAC addresses for protocols using a Company ID (CID) assigned by the IEEE Registration Authority. Another range of local MAC addresses is designated for assignment by administrators. The amendment recommends a range of local MAC addresses for use by IEEE 802(R) protocols.</abstract>
+  </front>
+</reference>

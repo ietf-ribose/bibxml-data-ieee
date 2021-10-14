@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C57.117-1986" target="https://ieeexplore.ieee.org/document/29145">
+  <front>
+    <title>IEEE Guide for Reporting Failure Data for Power Transformers and Shunt Reactors on Electric Utility Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81694"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Reliability</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Statistics</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Inductors</keyword>
+    <abstract>The reporting and statistical analysis of reliability of power transformers and shunt reactors used on electric utility power systems are addressed. The following types and applications of transformers are covered: power transformers, autotransformers, regulating transformers, phase-shifting transformers, shunt reactors, HVDC converter transformers, substation transformers, transmission tie transformers, unit transformers, unit auxiliary transformers, and grounding transformers. The format for the collection and reporting of data is presented, and the kinds of reports that may be useful to both users and manufacturers of transformers are illustrated. (This standard has been superseded by IEEE C57.125-2015)</abstract>
+  </front>
+</reference>

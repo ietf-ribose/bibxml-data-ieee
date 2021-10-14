@@ -1,0 +1,26 @@
+<reference anchor="IEEE.P1857a/D1, Dec 2013" target="https://ieeexplore.ieee.org/document/6705541">
+  <front>
+    <title>IEEE Draft Standard for Advanced Audio and Video Coding Amendment 1: Extension on timing and location information to support object tracking across multiple cameras at Surveillance High Group</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="January" day="8"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>VIdeo coding</keyword>
+    <keyword>Audio coding</keyword>
+    <keyword>Video tracking</keyword>
+    <keyword>Timing</keyword>
+    <keyword>Navigation</keyword>
+    <keyword>Surveillance</keyword>
+    <keyword>IEEE 1857TM</keyword>
+    <keyword>navigation information</keyword>
+    <keyword>surveillance video</keyword>
+    <abstract>Extensions to IEEE Std 1857.1-2013 are provided for surveillance video to support tracking across tracing in multiple cameras at surveillance based on the navigation information which mainly includes timing, location and movement information.</abstract>
+  </front>
+</reference>

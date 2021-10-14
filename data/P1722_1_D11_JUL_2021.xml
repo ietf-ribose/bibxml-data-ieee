@@ -1,0 +1,33 @@
+<reference anchor="IEEE.P1722.1/D11, Jul 2021" target="https://ieeexplore.ieee.org/document/9500161">
+  <front>
+    <title>IEEE Draft Standard for Device Discovery, Connection Management, and Control Protocol for Time-Sensitive Networking Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="July" day="28"/>
+    <keyword>AVDECC</keyword>
+    <keyword>ATDECC</keyword>
+    <keyword>bridged LAN</keyword>
+    <keyword>IEC 61883</keyword>
+    <keyword>IEEE 802.1&amp;#8482; AVB protocols</keyword>
+    <keyword>IEEE 802.1BA&amp;#8482;</keyword>
+    <keyword>IEEE 1722.1&amp;#8482;</keyword>
+    <keyword>IEEE Std 802.1AS&amp;#8482;2011</keyword>
+    <keyword>IEEE Std 802.1AS&amp;#8482;2020</keyword>
+    <keyword>IEEE Std 802.1Q&amp;#8482;2011</keyword>
+    <keyword>IEEE Std 802.1Q&amp;#8482;2018</keyword>
+    <keyword>IEEE Std 1722&amp;#8482;2011</keyword>
+    <keyword>IEEE Std 1722&amp;#8482;2016</keyword>
+    <keyword>LAN</keyword>
+    <keyword>QoS</keyword>
+    <keyword>time sensitive media streaming</keyword>
+    <keyword>time synchronization</keyword>
+    <abstract>This standard specifies the protocol, device discovery, connection management and device control procedures used to facilitate interoperability between audio and video based End Stations that use IEEE 1722 based Streams on IEEE 802(R) based networks.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P802.11z/D7.0, Feb 2010" target="https://ieeexplore.ieee.org/document/5422042">
+  <front>
+    <title>IEEE Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information processing</keyword>
+    <keyword>Direct Link</keyword>
+    <keyword>Power Saving</keyword>
+    <abstract>This amendment provides Direct Link Setup enhancements to the IEEE 802.11 MAC and PHY, extending direct link setup to be independent of the access point (AP), and adding power save capabilities. The direct link setup is made independent of the AP by tunneling the protocol messages inside data frames</abstract>
+  </front>
+</reference>

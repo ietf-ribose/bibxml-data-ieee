@@ -1,0 +1,33 @@
+<reference anchor="IEEE.802.1Q-2005/Cor 1-2008" target="https://ieeexplore.ieee.org/document/4654181">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4654181"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Standards Board</keyword>
+    <keyword>Societies</keyword>
+    <keyword>Committees</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>802.1Q-2005</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MRP</keyword>
+    <keyword>MMRP</keyword>
+    <keyword>virtual LANs</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <abstract>This corrigendum to IEEE Std 802.1Q corrects errors in the MRP protocol specification.</abstract>
+  </front>
+</reference>

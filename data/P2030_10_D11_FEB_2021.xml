@@ -1,0 +1,26 @@
+<reference anchor="IEEE.P2030.10/D11, Feb 2021" target="https://ieeexplore.ieee.org/document/9376757">
+  <front>
+    <title>IEEE Draft Standard for DC Microgrids for Rural and Remote Electricity Access Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Microgrids</keyword>
+    <keyword>Power grids</keyword>
+    <keyword>Rural areas</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>ELVDC</keyword>
+    <keyword>IEEE 2030.10</keyword>
+    <keyword>microgrid</keyword>
+    <abstract>This standard covers the design and operation of a dc microgrid for rural or remote applications based on extra low voltage dc to reduce cost and simplify stability. Such microgrids are typically operated without connecting to a nation's electric power system.</abstract>
+  </front>
+</reference>

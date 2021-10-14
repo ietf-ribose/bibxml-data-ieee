@@ -1,0 +1,45 @@
+<reference anchor="IEEE.P1402/D10, Apr 2021" target="https://ieeexplore.ieee.org/document/9416947">
+  <front>
+    <title>IEEE Draft Guide for Physical Security of Electric Power Substations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Security</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Lighting</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>access</keyword>
+    <keyword>access control</keyword>
+    <keyword>alarms</keyword>
+    <keyword>fences</keyword>
+    <keyword>IEEE 1402TM</keyword>
+    <keyword>intrusion</keyword>
+    <keyword>lighting</keyword>
+    <keyword>monitoring</keyword>
+    <keyword>perimeter fence</keyword>
+    <keyword>perimeter wall</keyword>
+    <keyword>physical security</keyword>
+    <keyword>power substation</keyword>
+    <keyword>security lighting</keyword>
+    <keyword>security plan</keyword>
+    <keyword>substation lighting</keyword>
+    <keyword>substation physical security</keyword>
+    <keyword>substation security</keyword>
+    <keyword>substation threat assessment</keyword>
+    <keyword>theft</keyword>
+    <keyword>threat mitigation</keyword>
+    <keyword>vandalism</keyword>
+    <abstract>This guide describes recommended practices for the physical security of electric power substations. It is designed to address a number of threats, including unauthorized access to substation facilities, theft of material, and vandalism. It describes options for positive access control, monitoring of facilities, and delay/deter features which could be employed to mitigate these threats. This guide also establishes options for different levels of physical security for electric power substations. The guide does not establish recommendations based on voltage levels, size or any depiction of criticality of the substation. The user will make these decisions based on threat assessment and criticality assignment by the substation owner. Overt attacks against the substation for the purpose of destroying its capability to operate, such as explosives, projectiles, vehicles, etc. are beyond the scope of this guide.</abstract>
+  </front>
+</reference>

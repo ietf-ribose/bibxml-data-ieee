@@ -1,0 +1,30 @@
+<reference anchor="IEEE.62.2-2004" target="https://ieeexplore.ieee.org/document/1488514">
+  <front>
+    <title>IEEE Guide for Diagnostic Field Testing of Electric Power Apparatus</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96280"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="16"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Uniform resource locators</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>brushless machine</keyword>
+    <keyword>commutator</keyword>
+    <keyword>damper winding</keyword>
+    <keyword>partial discharge</keyword>
+    <keyword>stator core</keyword>
+    <keyword>stator winding</keyword>
+    <keyword>thermocouple</keyword>
+    <abstract>This is a guide for determining applicable tests and inspection techniques for various types of large rotating electric machines. It provides short discussions relating to the capabilities and limitations of each test, typical test procedures and in some cases, how to interpret the expected range of results. This is to be a companion document to P62 Part 1-1995</abstract>
+  </front>
+</reference>

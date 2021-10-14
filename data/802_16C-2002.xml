@@ -1,0 +1,22 @@
+<reference anchor="IEEE.802.16c-2002" target="https://ieeexplore.ieee.org/document/8684696">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.8684696"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>fixed broadband wireless access networks</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>millimeter waves</keyword>
+    <keyword>microwaves</keyword>
+    <keyword>WirelessMAN standards</keyword>
+    <abstract>This amendment updates and expands Clause 12 of IEEE Std 802.16-2001, which concerns system profiles that list sets of features and functions to be used in typical implementation cases. Errors and inconsistencies in IEEE Std 802.16-2001 are also corrected. The scope is limited to 10–66 GHz.</abstract>
+  </front>
+</reference>

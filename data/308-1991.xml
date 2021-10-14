@@ -1,0 +1,23 @@
+<reference anchor="IEEE.308-1991" target="https://ieeexplore.ieee.org/document/182803">
+  <front>
+    <title>IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106969"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Fission reactor safety</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Power supplies</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>systems</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>safety</keyword>
+    <keyword>station</keyword>
+    <keyword>design</keyword>
+    <keyword>Nuclear safety</keyword>
+    <keyword>Nuclear power station design</keyword>
+    <keyword>Class 1E power systems</keyword>
+    <abstract>Class 1E portions of ac and dc power systems and instrumentation and control power systems in single-unit and multiunit nuclear power generating stations are covered. Not included are the preferred power supply; unit generator(s) and their buses; generator breaker; step-up, auxiliary, and start-up transformers; connections to the station switchyard; switchyard; transmission lines; and the transmission network. The intent is to provide criteria for the determination of Class 1E power system design features, criteria for sharing Class 1E power systems in multiunit stations, and the requirements for their testing and surveillance.</abstract>
+  </front>
+</reference>

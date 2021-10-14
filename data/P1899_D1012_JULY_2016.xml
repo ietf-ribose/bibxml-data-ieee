@@ -1,0 +1,28 @@
+<reference anchor="IEEE.P1899/D1012, July 2016" target="https://ieeexplore.ieee.org/document/7727924">
+  <front>
+    <title>IEEE Approved Draft Guide for Establishing Basic Requirements for High-Voltage Direct Current (HVDC) Transmission Protection and Control Equipment</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Substations</keyword>
+    <keyword>HVDC transmission</keyword>
+    <keyword>Control equipment</keyword>
+    <keyword>Auxiliary equipment</keyword>
+    <keyword>HVDC transmission system</keyword>
+    <keyword>AC substation control equipment</keyword>
+    <keyword>DC substation control equipment</keyword>
+    <keyword>Pole control equipment</keyword>
+    <keyword>Protection equipment</keyword>
+    <keyword>Auxiliary secondary equipment</keyword>
+    <abstract>This guide focuses on the AC/DC substation control equipment, pole control equipment, protection equipment, auxiliary secondary equipment of high-voltage direct-current (HVDC) transmission systems. Based on analyzing the existing HVDC transmission projects, this guide gives specifications for structure, configuration, performance and test of HVDC control and protection equipment, which could be applied to HVDC transmission system with the voltage range up to and including 800 kV.</abstract>
+  </front>
+</reference>

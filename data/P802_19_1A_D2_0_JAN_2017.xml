@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P802.19.1a/D2.0, Jan 2017" target="https://ieeexplore.ieee.org/document/7883795">
+  <front>
+    <title>IEEE Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="March" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>TV</keyword>
+    <keyword>White spaces</keyword>
+    <keyword>5 GHz license-exempt bands</keyword>
+    <keyword>database</keyword>
+    <keyword>general authorized access in 3.5 GHz bands</keyword>
+    <keyword>geolocation</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.19.1(TM)</keyword>
+    <keyword>IEEE 802.19.1a(TM)</keyword>
+    <keyword>network-based coexistence</keyword>
+    <keyword>spectrum management</keyword>
+    <keyword>TV band white spaces</keyword>
+    <abstract>The network-based coexistence information exchange among networks and devices to enable network-based coexistence management is defined in this amendment to IEEE 802.19.1-2014. This amendment specifies procedures and protocols for collection and exchange of coexistence information of heterogeneous networks, spectrum resource measurements and network performance metrics, such as packet error ratio, delay, etc., and information elements and data structures to capture coexistence information.</abstract>
+  </front>
+</reference>

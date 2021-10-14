@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P802.11aa/D9.0, Jan 2012" target="https://ieeexplore.ieee.org/document/6135477">
+  <front>
+    <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: MAC Enhancements for Robust Audio Video Streaming</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="22"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Audio-visual systems</keyword>
+    <keyword>audio</keyword>
+    <keyword>IEEE 802.11aa</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>video</keyword>
+    <keyword>wireless LAN</keyword>
+    <abstract>Amendment to IEEE Std 802.11(TM)-2012.This amendment specifies enhancements to the IEEE 802.11 medium access control (MAC) for robust audio video (AV) streaming, while maintaining coexistence with other types of traffic.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.P1702/D6, Dec 2010" target="https://ieeexplore.ieee.org/document/5668475">
+  <front>
+    <title>IEEE Draft Standard for Telephone Modem Communication Protocol to Complement the Utility Industry End Device Data Tables</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Modems</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>ANSI C12.21</keyword>
+    <keyword>IEEE 1702</keyword>
+    <keyword>MODEM</keyword>
+    <keyword>PSEM</keyword>
+    <abstract>This standard provides multisource and “plug and play” environment for the millions of metering devices in the field now and in the future using the telephone modem communication interface. It solves the problems associated with single-source systems and with multisource systems based upon proprietary communications protocols. Electric, water, and gas utilities and corresponding vendors can realize cost savings that ultimately shall benefit the client consumers of the utilities.</abstract>
+  </front>
+</reference>

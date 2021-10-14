@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1707-2015" target="https://ieeexplore.ieee.org/document/7363716">
+  <front>
+    <title>IEEE Recommended Practice for the Investigation of Events at Nuclear Facilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7363716"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Safty</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>event investigation</keyword>
+    <keyword>IEEE 1707(TM)</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>root cause</keyword>
+    <abstract>Common terminology and recommended practices for initiating and conducting event investigations, analyzing data, producing results, and identifying corrective actions associated with facility personnel, processes, equipment, and systems at nuclear facilities are provided in this document. The scope of event investigation activities addressed includes, but is not limited to, root cause analysis, which is an in depth investigation process used to identify primary causes of an event based on the systematic and consistent use of analysis tools. This recommended practice can be used for the investigation of all events and allows the use of a graduated approach to the depth of the investigation based upon the event significance.</abstract>
+  </front>
+</reference>

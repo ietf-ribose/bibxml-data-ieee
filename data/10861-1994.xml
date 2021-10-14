@@ -1,0 +1,22 @@
+<reference anchor="IEEE.10861-1994" target="https://ieeexplore.ieee.org/document/4140846">
+  <front>
+    <title>ISO/IEC Standard for Information Technology- Microprocessor Systems- High-Performance Synchronous 32-Bit Bus: Multibus II</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.339590"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March" day="28"/>
+    <keyword>high performance synchronous</keyword>
+    <keyword>synchronous 32 bit bus</keyword>
+    <keyword>multibus</keyword>
+    <keyword>multibus II</keyword>
+    <keyword>system bus architectures</keyword>
+    <abstract>The operation, functions, and attributes of a parallel system bus (PSB), called MULTIBUS II, are defined. A high-performance backplane bus intended for use in multiple processor systems, the PSB incorporates synchronous, 32-bit multiplexed address/data, with error detection, and uses a 10 MHz bus clock. This design is intended to provide reliable state-of-the-art operation and to allow the implementation of cost-effective, high-performance VLSI for the bus interface. Memory, I/O, message, and geographic address spaces are defined. Error detection and retry are provided for messages. The message-passing design allows a VLSI implementation, so that virtually all modules on the bus will utilize the bus at its highest performance--32 to 40 Mbyte/s. An overview of PSB, signal descriptions, the PSB protocol, electrical characteristics, and mechanical specifications are covered.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P802.15.13/D5.0, Sept 2021" target="https://ieeexplore.ieee.org/document/9540818">
+  <front>
+    <title>IEEE Draft Standard for Multi-Gigabit per Second Optical Wireless Communications (OWC), with Ranges up to 200 meters, for both stationary and mobile devices</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="17"/>
+    <keyword>optical wireless communication</keyword>
+    <keyword>LiFi</keyword>
+    <keyword>IEEE Std 802.15.13&amp;#8482;</keyword>
+    <keyword>DC-biased OFDM</keyword>
+    <keyword>pulsed modulation</keyword>
+    <keyword>distributed MIMO</keyword>
+    <keyword>mobility support</keyword>
+    <abstract>This standard defines the protocol and compatible network equipment for optical wireless communications and its operation as an optical wireless personal area network (OWPAN) supporting data rates of multiple Gbit/s for wireless specialty applications. The standard defines a medium access control (MAC) layer operating in beacon-enabled or non-beacon-enabled mode and three physical layers (PHYs) enabling low complexity, low power, and high throughput.</abstract>
+  </front>
+</reference>

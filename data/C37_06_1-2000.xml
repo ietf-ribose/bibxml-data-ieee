@@ -1,0 +1,27 @@
+<reference anchor="IEEE.C37.06.1-2000" target="https://ieeexplore.ieee.org/document/8285455">
+  <front>
+    <title>American National Standard Guide for High-Voltage Circuit Breakers Rated on Symmetrical Current Basis Designated -Definite Purpose for Fast Transient Recovery Voltage Rise Times</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.8285455"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="February" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>System recovery</keyword>
+    <keyword>High-Voltage Circuit Breakers</keyword>
+    <keyword>Symmetrical Current Basis</keyword>
+    <keyword>Fast Transient Recovery Voltage Rise Times</keyword>
+    <keyword>C37.06.1</keyword>
+    <abstract>The purpose of this guide is to provide suggested values of fast transient recovery voltage rise time ratings. The proposed ratings were suggested by the IEEE Switchgear Committee, and apply ONLY to currents in the ranges of 7 percent to 30 percent of Rated Short-Circuit Current. The TRVs for currents more than or equal to 60% of rated short-circuit current remain the same as for general purpose circuit breakers. Circuit breakers not identified by the manufacturer as "definite purpose for fast transient recovery voltage rise times"shall be understood to be "general purpose circuit breakers," meeting the C37.06 standard TRV requirements in table 1, 2, or 3 as appropriate.</abstract>
+  </front>
+</reference>

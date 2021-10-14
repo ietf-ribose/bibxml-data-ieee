@@ -1,0 +1,32 @@
+<reference anchor="IEEE.P1855/D2.0, Sept 2015" target="https://ieeexplore.ieee.org/document/7293047">
+  <front>
+    <title>IEEE Draft Standard for FML</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="October" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Fuzzy systems</keyword>
+    <keyword>XML</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Fuzzy logic</keyword>
+    <keyword>Fuzzy Markup Language</keyword>
+    <keyword>FML</keyword>
+    <keyword>eXtensible markup language</keyword>
+    <keyword>XML</keyword>
+    <keyword>fuzzy logic</keyword>
+    <keyword>fuzzy system</keyword>
+    <keyword>fuzzy logic controller</keyword>
+    <keyword>hardware independence</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>labeled tree</keyword>
+    <keyword>XML Schema</keyword>
+    <abstract>This standard presents a new specification language, named Fuzzy Markup Language(FML), exploiting the benefits offered by eXtensible Markup Language (XML) specifications and related tools in order to model a fuzzy logic system in a human-readable and hardware independent way. Therefore, it provides designers of industrial fuzzy systems with a unified and high-level methodology for describing interoperable fuzzy systems. This Standard uses the W3C XML Schema definition language to define the syntax and semantics of the FML programs.</abstract>
+  </front>
+</reference>

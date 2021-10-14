@@ -1,0 +1,24 @@
+<reference anchor="IEEE.356-1974" target="https://ieeexplore.ieee.org/document/27707">
+  <front>
+    <title>IEEE Guide for Radio Methods for Measuring Earth Conductivity</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.80219"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="20"/>
+    <keyword>Geophysical measurements</keyword>
+    <keyword>Radio communication</keyword>
+    <keyword>radio</keyword>
+    <keyword>earth</keyword>
+    <keyword>conductivity</keyword>
+    <keyword>measuring</keyword>
+    <keyword>methods</keyword>
+    <abstract>Withdrawn Standard. Withdrawn Date: Sep 15, 1995. This guide is the result of a survey of radio techniques employed for measuring the conductivity of the earth. Results are applicable to the design of communication channels that are influenced by the electrical characteristics of the earth. Emphasized are those techniques used at frequencies where the loss tangent is large. The techniques are classed broadly into those that make use of drill holes into the earth and those that do not. Also, a distinction is made between active and passive methods. Comments and critiques on the various techniques are included. Theoretical and practical details underlying some of the methods are given in the appendixes.</abstract>
+  </front>
+</reference>

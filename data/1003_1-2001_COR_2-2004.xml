@@ -1,0 +1,37 @@
+<reference anchor="IEEE.1003.1-2001/Cor 2-2004" target="https://ieeexplore.ieee.org/document/1282224">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94442"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="June" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>application program interface (API)</keyword>
+    <keyword>argument</keyword>
+    <keyword>asynchronous</keyword>
+    <keyword>basic regular expression (BRE)</keyword>
+    <keyword>batch job</keyword>
+    <keyword>batch system</keyword>
+    <keyword>built-in utility</keyword>
+    <keyword>byte</keyword>
+    <keyword>child</keyword>
+    <keyword>command language interpreter</keyword>
+    <keyword>CPU</keyword>
+    <keyword>extended regular expression (ERE)</keyword>
+    <keyword>FIFO</keyword>
+    <keyword>file access cont</keyword>
+    <abstract>Technical Corrigendum 2 addresses problems discovered since the approval of the 2003 edition of The Open Group Base Specifications, Issue 6, IEEE Std 1003.1, and ISO/IEC 9945. These are mainly due to resolving integration issues raised by the merger of the original Base documents.</abstract>
+  </front>
+</reference>

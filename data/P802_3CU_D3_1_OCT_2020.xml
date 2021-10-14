@@ -1,0 +1,31 @@
+<reference anchor="IEEE.P802.3cu/D3.1, Oct 2020" target="https://ieeexplore.ieee.org/document/9231292">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layers and Management Parameters for 100 Gb/s and 400 Gb/s Operation over Single-Mode Fiber at 100 Gb/s per Wavelength</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="October" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Forward error correction</keyword>
+    <keyword>Energy eficiency</keyword>
+    <keyword>100 Gb/s Ethernet</keyword>
+    <keyword>100GBASE-FR1</keyword>
+    <keyword>100GBASE-LR1</keyword>
+    <keyword>400 Gb/s Ethernet</keyword>
+    <keyword>400GBASE-FR4</keyword>
+    <keyword>400GBASE-LR4-6</keyword>
+    <keyword>Energy-Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>forward error correction (FEC)</keyword>
+    <keyword>IEEE 802.3&amp;#8482;</keyword>
+    <keyword>IEEE 802.3cu&amp;#8482;</keyword>
+    <keyword>PAM4</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>single-mode fiber (SMF)</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2018 adds Physical Layer specifications and management parameters for 100 Gb/s and 400 Gb/s Ethernet optical interfaces for reaches up to 10 km based on 100 Gb/s per wavelength optical signaling.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.11073-20601a-2010" target="https://ieeexplore.ieee.org/document/5703192">
+  <front>
+    <title>IEEE Health informatics--Personal health device communication Part 20601: Application profile--Optimized Exchange Protocol Amendment 1</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5703192"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="January" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Medical services</keyword>
+    <keyword>Medical information systems</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>11073</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Issues found within IEEE Std 11073-20601-2008 while implementing the standard and/or testing and certifying products are addressed in this amendment.</abstract>
+  </front>
+</reference>

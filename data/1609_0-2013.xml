@@ -1,0 +1,38 @@
+<reference anchor="IEEE.1609.0-2013" target="https://ieeexplore.ieee.org/document/6755433">
+  <front>
+    <title>IEEE Guide for Wireless Access in Vehicular Environments (WAVE)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6755433"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="March" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Vehicles</keyword>
+    <keyword>Intelligent vehicles</keyword>
+    <keyword>Road vehicles</keyword>
+    <keyword>Message systems</keyword>
+    <keyword>dedicated short range communications</keyword>
+    <keyword>DSRC</keyword>
+    <keyword>IEEE 1609.0&amp;#8482;</keyword>
+    <keyword>OBU</keyword>
+    <keyword>onboard unit</keyword>
+    <keyword>Provider Service Identifier (PSID)</keyword>
+    <keyword>roadside unit (RSU)</keyword>
+    <keyword>WAVE</keyword>
+    <keyword>WAVE service advertisement</keyword>
+    <keyword>WAVE Short Message</keyword>
+    <keyword>WAVE Short Message Protocol</keyword>
+    <keyword>wireless access in vehicular environments</keyword>
+    <keyword>WSA</keyword>
+    <keyword>WSM</keyword>
+    <keyword>WSMP</keyword>
+    <abstract>The wireless access in vehicular environments (WAVE) architecture and services necessary for WAVE devices to communicate in a mobile vehicular environment are described in this guide. It is meant to be used in conjunction with the family of IEEE 1609 standards as of its publication date. These include IEEE Std 1609.2, IEEE Standard Security Services for Applications and Management Messages, IEEE Std 1609.3 Networking Services, IEEE Std 1609.4 Multi-Channel Operation, IEEE Std 1609.11 Over-the-Air Electronic Payment Data Exchange Protocol for Intelligent Transportation Systems (ITS), IEEE Std 1609.12 Identifier Allocations, and IEEE Std 802.11 in operation outside the context of a basic service set.</abstract>
+  </front>
+</reference>

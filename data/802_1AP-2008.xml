@@ -1,0 +1,36 @@
+<reference anchor="IEEE.802.1ap-2008" target="https://ieeexplore.ieee.org/document/4799517">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks -- Virtual Bridged Local Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4799517"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Management information base</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>802.1ap-2008</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Management Information Base</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MIB</keyword>
+    <keyword>Simple Network Management Protocol</keyword>
+    <keyword>SMIv2</keyword>
+    <keyword>SNMP</keyword>
+    <keyword>Structure of Management Information version 2</keyword>
+    <keyword>transparent bridging</keyword>
+    <keyword>VLANs</keyword>
+    <abstract>This amendment includes management information base (MIB) definitions in IEEE Std 802.1Q.</abstract>
+  </front>
+</reference>

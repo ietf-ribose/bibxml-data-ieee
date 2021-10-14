@@ -1,0 +1,23 @@
+<reference anchor="IEEE.74-1958" target="https://ieeexplore.ieee.org/document/7383213">
+  <front>
+    <title>IEEE Standard Test Code for Industrial Control (600 Volts or Less)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1958.7383213"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Industrial control</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>AC motors</keyword>
+    <keyword>DC motors</keyword>
+    <abstract>This test code is concerned with tests on a representative sample of an industrial control device or apparatus in order to substantiate conformance of that type of device or apparatus with a recognized standard of performance. The aim is to insure that the test methods and procedures are capable of giving information which is pertinent, significant, and reproducible. No attempt is made to specify standards of acceptability for the apparatus, nor to suggest which, if any of these tests, should be made.</abstract>
+  </front>
+</reference>

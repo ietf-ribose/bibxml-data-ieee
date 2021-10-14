@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1160-1993" target="https://ieeexplore.ieee.org/document/239632">
+  <front>
+    <title>IEEE Standard Test Procedures for High-Purity Germanium Crystals for Radiation Detectors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115139"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="3"/>
+    <keyword>Germanium</keyword>
+    <keyword>Impurities</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Semiconductor radiation detectors</keyword>
+    <keyword>Radiation detectors</keyword>
+    <keyword>High-purity germanium (HPGe)</keyword>
+    <abstract>This standard applies to the measurement of bulk properties of high-purity germanium as they relate to fabrication and performance of germanium detectors for gamma rays and x rays. Such germanium is monocrystalline and has a net concentration of fewer than 1011 electrically active impurity center per cm3, usually on the order of 1010 cm-3.</abstract>
+  </front>
+</reference>

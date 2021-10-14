@@ -1,0 +1,44 @@
+<reference anchor="IEEE.8802-3:2017/Amd 9-2018" target="https://ieeexplore.ieee.org/document/8579637">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8579637"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>1000BASE-H</keyword>
+    <keyword>1000BASE-RHA</keyword>
+    <keyword>1000BASE-RHB</keyword>
+    <keyword>1000BASE-RXC</keyword>
+    <keyword>amendment</keyword>
+    <keyword>BASE-H</keyword>
+    <keyword>EEE</keyword>
+    <keyword>Energy Efficient Ethernet</keyword>
+    <keyword>IEEE 802.3</keyword>
+    <keyword>IEEE 802.3bv</keyword>
+    <keyword>PCS</keyword>
+    <keyword>Physical Coding Sublayer</keyword>
+    <keyword>Physical Medium Attachment sublayer</keyword>
+    <keyword>Physical Medium Dependent sublayer</keyword>
+    <keyword>plastic optical fiber</keyword>
+    <keyword>PMA</keyword>
+    <keyword>PMD</keyword>
+    <keyword>POF</keyword>
+    <abstract>A family of three point-to-point physical layers (PHYs) for 1000 Mb/s operation over duplex plastic optical fiber (POF) and related management parameters are specified by this amendment to IEEE Std 802.3-2015.</abstract>
+  </front>
+</reference>

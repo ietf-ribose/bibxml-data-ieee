@@ -1,0 +1,29 @@
+<reference anchor="IEEE.802.15.22.3-2020" target="https://ieeexplore.ieee.org/document/9253019">
+  <front>
+    <title>IEEE Standard for Spectrum Characterization and Occupancy Sensing</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9253019"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="November" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Spread spectrum communication</keyword>
+    <keyword>Communication system signaling</keyword>
+    <keyword>WRAN</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>IEEE 802.15.22.3</keyword>
+    <keyword>IEEE 802.22</keyword>
+    <keyword>radio spectrum sensing</keyword>
+    <keyword>SCOS</keyword>
+    <keyword>signal characterization</keyword>
+    <keyword>spectrum monitoring</keyword>
+    <keyword>WRAN standards</keyword>
+    <abstract>The architecture, abstraction layers, interfaces, and metadata requirements for spectrum characterization and occupancy sensing (SCOS) systems are specified in this standard. This standard also defines performance parameters, units, and measures. This SCOS system comprises one or more semi-autonomous spectrum sensors, which scan electromagnetic spectrum, digitize it, and perform processing, transmitting the resultant data with appropriate metadata to a central storage and processing system.</abstract>
+  </front>
+</reference>

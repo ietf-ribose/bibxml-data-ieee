@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C37.13-1963" target="https://ieeexplore.ieee.org/document/7370721">
+  <front>
+    <title>American Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7370721"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="1"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>AC machines</keyword>
+    <abstract>This standard applies to all low-voltage power circuit breakers of the 600-volt insulation class capable of interrupting short-circuit currents in excess of 10,000 amp (amperes) for use with ac circuits. Other low-voltage power circuit breakers for use on circuits rated up to 1,000 volts ac and 3,000 volts dc are not covered by this standard; molded-case circuit breakers are specifically not covered.</abstract>
+  </front>
+</reference>

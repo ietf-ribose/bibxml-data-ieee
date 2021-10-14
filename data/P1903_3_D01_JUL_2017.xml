@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P1903.3/D01, Jul 2017" target="https://ieeexplore.ieee.org/document/8000428">
+  <front>
+    <title>IEEE Approved Draft Standard for Self-Organizing Management Protocols of Next Generation Service Overlay Network</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="August" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Content management</keyword>
+    <keyword>Context awareness</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>Overlay networks</keyword>
+    <keyword>Next generation networking</keyword>
+    <keyword>Common Information Model</keyword>
+    <keyword>Telecommunication services</keyword>
+    <keyword>Self-organizing networks</keyword>
+    <keyword>NGSON</keyword>
+    <keyword>Self-Organization</keyword>
+    <keyword>Self-Configuration</keyword>
+    <keyword>Self-Optimization</keyword>
+    <keyword>Self-Recovery</keyword>
+    <abstract>This standard specifies protocols between Overlay Management (OM) Functional Entity (FE) and all other NGSON FEs, and/or NGSON nodes to enable OM FE involved self-organizing management capability. This capability includes activation and deactivation of an NGSON node and addition, deletion, movement and copy of an NGSON function entity from or to an NGSON node. This standard also specifies protocols among Service Routing (SR) FEs to enable OM FE non-involved self-organizing management capability such as re-organization of overlay structure among multiple SR FEs for recovery from a failed or overloaded SR FE or for performance improvement of service routing.</abstract>
+  </front>
+</reference>

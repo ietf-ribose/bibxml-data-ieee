@@ -1,0 +1,23 @@
+<reference anchor="IEEE.PC62.41.3/D4, Aug 2019" target="https://ieeexplore.ieee.org/document/8863793">
+  <front>
+    <title>IEEE Draft Guide for Interactions Between Power System Disturbances and Surge Protective Devices</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="October" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Harmonic analysis</keyword>
+    <keyword>Power qaulity</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>harmonics</keyword>
+    <keyword>noise</keyword>
+    <keyword>power system disturbance</keyword>
+    <keyword>surge-protective device (SPD)</keyword>
+    <keyword>swell</keyword>
+    <keyword>voltage sag</keyword>
+    <keyword>voltage surge.</keyword>
+    <abstract>Information is provided to users and manufacturers of surge-1 protective devices (SPDs) about the interactions that can occur between SPDs and power system disturbances. This guide applies to SPDs manufactured to be connected to 50 or 60 Hz ac power circuits rated at 100– 1000 V RMS. The effects of the presence and operation of SPDs on the quality of power available to the connected loads are described. The interaction between multiple SPDs on the same circuit is also described.</abstract>
+  </front>
+</reference>

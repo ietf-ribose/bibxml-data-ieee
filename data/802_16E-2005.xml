@@ -1,0 +1,27 @@
+<reference anchor="IEEE.802.16e-2005" target="https://ieeexplore.ieee.org/document/1603394">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99107"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE 802.16 Standard</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Microwave theory and techniques</keyword>
+    <keyword>fixed broadband wireless access network</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>microwave</keyword>
+    <keyword>mobile broadband wireless access network</keyword>
+    <keyword>WirelessMAN standards</keyword>
+    <abstract>This document provides enhancements to IEEE Std 802.16-2004 to support subscriber stations moving at vehicular speeds and thereby specifies a system for combined fixed and mobile broadband wireless access. Functions to support higher layer handoff between base stations or sectors are specified. Operation is limited to licensed bands suitable for fixed/mobile use below 6 GHz. Fixed 802.16-2004 subscriber capabilities shall not be compromised. In addition to mobility enhancements, this document contains substantive corrections to IEEE 802.16-2004 regarding fixed operation.</abstract>
+  </front>
+</reference>

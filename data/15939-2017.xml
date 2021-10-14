@@ -1,0 +1,32 @@
+<reference anchor="IEEE.15939-2017" target="https://ieeexplore.ieee.org/document/8337132">
+  <front>
+    <title>Iso/iec/ieee international standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="April" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <keyword>Software measurement</keyword>
+    <keyword>15939</keyword>
+    <keyword>measure</keyword>
+    <keyword>measurement</keyword>
+    <keyword>information needs</keyword>
+    <keyword>data</keyword>
+    <keyword>process</keyword>
+    <keyword>base measure</keyword>
+    <keyword>derived measure</keyword>
+    <keyword>indicator</keyword>
+    <keyword>measurable concept</keyword>
+    <abstract>This document provides an elaboration of the measurement process from ISO/IEC 15288 and ISO/IEC 12207. The measurement process is applicable to system and software engineering and management disciplines. The process is described through a model that defines the activities of the measurement process that are required to adequately specify what measurement information is required, how the measures and analysis results are to be applied, and how to determine if the analysis results are valid. The measurement process is flexible, tailorable, and adaptable to the needs of different users. This document identifies a process that supports defining a suitable set of measures that address specific information needs. It identifies the activities and tasks that are necessary to successfully identify, define, select, apply, and improve measurement within an overall project or organizational measurement structure. It also provides definitions for commonly used measurement terms.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1073.3.1-1994" target="https://ieeexplore.ieee.org/document/467513">
+  <front>
+    <title>IEEE Standard for Medical Device Communications-Transport Profile-Connection Mode</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122628"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Communication standards</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>ISO</keyword>
+    <keyword>Transport protocols</keyword>
+    <keyword>Biomedical communication</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Interconnected systems</keyword>
+    <abstract>A local area network (LAN) for the interconnection of computers and medical devices is defined by the specifications and guidelines set forth in this standard. The functions, features, and protocols of the intra-room communications subnet of a bedside communications network known as the Medical Information Bus (MIB) are defined. This communications subnet is the functional equivalent for the MIB of the transport, network, data link, and physical layers of the organization for international standards (ISO) reference model for open systems interconnection (OSI). This standard defines the services and protocols for the MIB transport, network, and data link layers.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

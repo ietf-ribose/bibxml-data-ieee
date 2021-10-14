@@ -1,0 +1,32 @@
+<reference anchor="IEEE.802.11e-2005" target="https://ieeexplore.ieee.org/document/1541572">
+  <front>
+    <title>IEEE Standard for Information technology--Local and metropolitan area networks--Specific requirements--Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97890"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Quality of service</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>BA</keyword>
+    <keyword>block acknowledgement</keyword>
+    <keyword>carrier sense multiple access/collision avoidance</keyword>
+    <keyword>CSMA/ CA</keyword>
+    <keyword>priority</keyword>
+    <keyword>polling</keyword>
+    <keyword>power save</keyword>
+    <keyword>QoS</keyword>
+    <keyword>quality of service</keyword>
+    <keyword>traffic stream Reference Standards: ISO/IEC 15802-3</keyword>
+    <keyword>Information Technology--Telecommunications and infor</keyword>
+    <abstract>This amendment defines the medium access control (MAC) procedures to support local area network (LAN) applications with quality of service (QoS) requirements. The procedures include the transport of voice, audio, and video over IEEE 802.11 wireless LANs (WLANs)</abstract>
+  </front>
+</reference>

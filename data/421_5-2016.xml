@@ -1,0 +1,26 @@
+<reference anchor="IEEE.421.5-2016" target="https://ieeexplore.ieee.org/document/7822884">
+  <front>
+    <title>IEEE Recommended Practice for Excitation System Models for Power System Stability Studies</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="January" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Excitation systems</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Stability analysis</keyword>
+    <keyword>Limiters</keyword>
+    <keyword>excitation limiter models</keyword>
+    <keyword>excitation systems models</keyword>
+    <keyword>IEEE 421.5(TM)</keyword>
+    <keyword>power system stability</keyword>
+    <keyword>power system stabilizer models</keyword>
+    <abstract>Excitation system and power system stabilizer models suitable for use in large-scale system stability studies are presented. Important excitation limiters and supplementary controls are also included. The model structures presented are intended to facilitate the use of field test data as a means of obtaining model parameters. The models are, however, reduced order models and do not necessarily represent all of the control loops of any particular system. The models are valid for frequency deviations of 5% from rated frequency and oscillation frequencies up to 3 Hz. These models would not normally be adequate for use in studies of subsynchronous resonance or other shaft torsional interaction behavior. Delayed protective and control features that may come into play in long-term dynamic performance studies are not represented. A sample set of data for each of the models, for at least one particular application, is provided.</abstract>
+  </front>
+</reference>

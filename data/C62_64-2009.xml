@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C62.64-2009" target="https://ieeexplore.ieee.org/document/6581780">
+  <front>
+    <title>IEEE Standard Specifications for Surge Protectors Used in Low-Voltage Data, Communications,and Signaling Circuits</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>C62.64-2009</keyword>
+    <keyword>low voltage</keyword>
+    <keyword>performance</keyword>
+    <keyword>surge protector</keyword>
+    <abstract>Surge protectors for application on multiconductor and coaxial, balanced or unbalanced, data, communications, and signaling circuits with voltages less than or equal to 1000 V rms or 1200 V dc are covered. These surge protectors are multiple-component series or parallel combinations of one or more nonlinear elements and zero or more linear elements. The tables of typical performance values provide a means of comparison among various surge protectors. They also provide a common engineering language beneficial to the user and manufacturer of surge protectors used in low-voltage data, communications, and signaling circuits.</abstract>
+  </front>
+</reference>

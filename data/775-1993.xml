@@ -1,0 +1,20 @@
+<reference anchor="IEEE.775-1993" target="https://ieeexplore.ieee.org/document/278300">
+  <front>
+    <title>IEEE Guide for Designing Multistress Aging Tests of Electrical Insulation in a Radiation Environment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119220"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="October" day="29"/>
+    <keyword>electrical insulation</keyword>
+    <keyword>multistress aging</keyword>
+    <keyword>single stress aging</keyword>
+    <abstract>Guidelines for evaluating electrical insulation materials that are subjected to more than one significant aging stress are provided. The focus is on materials or equipment intended for use in nuclear facilities, such as power stations, where thermal, moisture, and radiation stresses frequently are of importance. Factors to consider in accelerated aging programs are identified. Only the design of tests is addressed. Specific procedures are not prescribed.</abstract>
+  </front>
+</reference>

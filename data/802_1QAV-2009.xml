@@ -1,0 +1,24 @@
+<reference anchor="IEEE.802.1Qav-2009" target="https://ieeexplore.ieee.org/document/8684664">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks-- Virtual Bridged Local Area Networks Amendment 12: Forwarding and Queuing Enhancements for Time-Sensitive Streams</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.8684664"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>802.1Qav-2009</keyword>
+    <keyword>802.1Q-2005</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>time-sensitive data streams</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q defines enhancements to the forwarding and queueing functions of a VLAN Bridge to support the transmission of time sensitive data streams.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,19 @@
+<reference anchor="IEEE.741-1990" target="https://ieeexplore.ieee.org/document/159220">
+  <front>
+    <title>IEEE Standard Criteria for the Protection of Class 1E Power Systems and Equipment in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101044"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Failure analysis</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Valve actuator motor</keyword>
+    <keyword>Surveillance</keyword>
+    <keyword>Nuclear power generating station</keyword>
+    <keyword>Design requirements</keyword>
+    <abstract>Criteria that establish protection requirements for Class 1E power systems and equipment are prescribed. The purpose of and the means for obtaining protection from electrical and mechanical damage or failures that can occur within a time period that is shorter than that required for operator action are described. Both design and documentation requirements are included.</abstract>
+  </front>
+</reference>

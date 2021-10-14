@@ -1,0 +1,19 @@
+<reference anchor="IEEE.206-1960" target="https://ieeexplore.ieee.org/document/18453">
+  <front>
+    <title>IEEE Standard on Television: Measurement of Differential Gain and Differential Phase</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.119189"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Gain measurement</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Phase measurement</keyword>
+    <abstract>Describes a method for measuring differential gain and differential phase in equipment transmitting either monochrome or color television signals. The characteristics to be measured are defined.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

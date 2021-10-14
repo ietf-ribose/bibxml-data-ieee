@@ -1,0 +1,31 @@
+<reference anchor="IEEE.C63.5-2004" target="https://ieeexplore.ieee.org/document/1389296">
+  <front>
+    <title>American National Standard for Electromagnetic Compatibility Radiated Emission Measurements in Electromagnetic Interference (EMI) Control Calibration of Antennas (9 kHz to 40 GHz)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95640"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="June" day="20"/>
+    <keyword>Antenna measurements</keyword>
+    <keyword>Dipole antennas</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>ANSI</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>Electric variables measurement</keyword>
+    <keyword>antenna factors</keyword>
+    <keyword>equivalent capacitance substitution</keyword>
+    <keyword>linearly polarized antennas</keyword>
+    <keyword>near free space</keyword>
+    <keyword>reference antenna</keyword>
+    <keyword>standard antenna</keyword>
+    <keyword>standard site</keyword>
+    <keyword>standard transmitting loop</keyword>
+    <abstract>Methods for determining antenna factors of antennas used for radiated emission measurements of electromagnetic interference (EMI) from 9 kHz to 40 GHz are provided. Antennas included are linearly polarized antennas such as loops, rods (monopoles), tuned dipoles, biconical dipoles, log-periodic dipole arrays, hybrid linearly polarized arrays, broadband horns, etc., which are used in measurements governed by ANSI C63.4-2001. The methods include standard site (i.e. 3-antenna), reference antenna, equivalent capacitance substitution, standard transmitting loop, standard antenna, and standard field methods.</abstract>
+  </front>
+</reference>

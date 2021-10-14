@@ -1,0 +1,18 @@
+<reference anchor="IEEE.187-1951" target="https://ieeexplore.ieee.org/document/18440">
+  <front>
+    <title>IEEE Standard on Radio Receivers: Open Field Method of Measurement of Spurious Radiation From Frequency Modulation and Television Broadcast Receivers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1951.119021"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <keyword>Noise measurement</keyword>
+    <keyword>Electromagnetic fields</keyword>
+    <keyword>Frequency modulation</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Radio receivers</keyword>
+    <keyword>Electromagnetic radiative interference</keyword>
+    <keyword>TV receivers</keyword>
+    <keyword>Communication standards</keyword>
+    <abstract>Modern broadcast radio receivers of the superheterodyne type are frequently sources of spurious radiation from the local oscillator, which radiation may cause severe interference with other services. In addition, in the case of television broadcast receivers, there may be radiation of power from other sources beside the local oscillator. In this standard the potential sources of spurious radiation from frequency modulation and television broadcast receivers are described and methods of measurement whereby the strength of some of these radiations may be determined are set up. Where the methods for the two classes of receivers differ, the specifications for each are outlined.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

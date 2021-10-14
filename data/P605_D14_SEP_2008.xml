@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P605/D14, Sep 2008" target="https://ieeexplore.ieee.org/document/4629442">
+  <front>
+    <title>IEEE Draft Guide for Bus Design in Air Insulated Substations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>"A proper design of the substation bus insures a safe and reliable operation of the substation and the power system. Two different types of buses are used in substations, the rigid bus and strain (cable). This guide provides information on the different bus arrangements used in substations stating the advantages and disadvantages of each. Also it provides information as related to each bus type and construction. Once the bus type is selected, this guide provides the calculation tools for each bus type. Based on these calculations, the engineer can specify the bus size, the forces acting on the bus structure, number of mounting structures required and hardware requirements."</abstract>
+  </front>
+</reference>

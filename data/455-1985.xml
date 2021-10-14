@@ -1,0 +1,27 @@
+<reference anchor="IEEE.455-1985" target="https://ieeexplore.ieee.org/document/29071">
+  <front>
+    <title>IEEE Standard Test Procedure for Measuring Longitudinal Balance of Telephone Equipment Operating in the Voice Band</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81578"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="1"/>
+    <keyword>Impedance measurement</keyword>
+    <keyword>Electronic equipment testing</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Telephone equipment</keyword>
+    <keyword>measuring</keyword>
+    <keyword>longitudinal</keyword>
+    <keyword>balance</keyword>
+    <keyword>telephone</keyword>
+    <keyword>equipment</keyword>
+    <keyword>Communication system testing</keyword>
+    <abstract>The basic requirements for a test circuit that can be used to measure longitudinal balance are defined. Resistive elements are specified because they are generally considered easy to duplicate and balance. Standard test conditions and procedures are established.</abstract>
+  </front>
+</reference>

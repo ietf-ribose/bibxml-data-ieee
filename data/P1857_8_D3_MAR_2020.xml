@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P1857.8/D3, Mar 2020" target="https://ieeexplore.ieee.org/document/9052093">
+  <front>
+    <title>IEEE Draft Standard for 2nd Generation Audio Coding</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="March" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Audio coding</keyword>
+    <keyword>Channel coding</keyword>
+    <keyword>Acoustic systems</keyword>
+    <keyword>AVSA</keyword>
+    <keyword>channel coding</keyword>
+    <keyword>sound object coding</keyword>
+    <keyword>scene signal coding</keyword>
+    <keyword>spatial coding</keyword>
+    <keyword>IEEE 1857.8</keyword>
+    <keyword>panoramic audio</keyword>
+    <abstract>This standard is the second generation of IEEE std 1857.2-2013 [IEEE Standard for Advanced Audio Coding], which provides more flexible and high efficiency coding tool sets for compression, decompression, and packaging of the audio data, which should double the coding efficiency of IEEE std 1857.2-2013. The target applications and services include but are not limited to the audio accompanying video and other audio services and applications, such as the audio accompanying Internet video, TV audio system, digital audio storage, audio broadcasting and communication, virtual reality and panoramic audio, etc.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P1641/D3, Sept 2009" target="https://ieeexplore.ieee.org/document/5276064">
+  <front>
+    <title>Draft Standard for Signal and Test Definition</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>ATE</keyword>
+    <keyword>ATLAS</keyword>
+    <keyword>automatic test equipment</keyword>
+    <keyword>signal definitions</keyword>
+    <keyword>test definitions</keyword>
+    <keyword>test requirements</keyword>
+    <keyword>test signals</keyword>
+    <keyword>unit under test</keyword>
+    <keyword>UUT</keyword>
+    <abstract>This standard provides the means to define and describe signals used in testing. It also provides a set of common basic signals, mathematically underpinned so that signals can be combined to form complex signals usable across all test platforms.</abstract>
+  </front>
+</reference>

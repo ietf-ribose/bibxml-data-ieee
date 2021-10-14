@@ -1,0 +1,39 @@
+<reference anchor="IEEE.P1800.2/D8, Mar 2020" target="https://ieeexplore.ieee.org/document/9047184">
+  <front>
+    <title>IEEE Approved Draft Standard for Universal Verification Methodology Language Reference Manual</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="March" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Verification</keyword>
+    <keyword>Sequential analysis</keyword>
+    <keyword>Registers</keyword>
+    <keyword>agent</keyword>
+    <keyword>blocking</keyword>
+    <keyword>callback</keyword>
+    <keyword>class</keyword>
+    <keyword>component</keyword>
+    <keyword>consumer</keyword>
+    <keyword>driver</keyword>
+    <keyword>event</keyword>
+    <keyword>export</keyword>
+    <keyword>factory</keyword>
+    <keyword>function</keyword>
+    <keyword>generator</keyword>
+    <keyword>IEEE 1800.2</keyword>
+    <keyword>member</keyword>
+    <keyword>method</keyword>
+    <keyword>monitor</keyword>
+    <keyword>non-blocking</keyword>
+    <keyword>phase</keyword>
+    <keyword>port</keyword>
+    <keyword>register</keyword>
+    <keyword>resource</keyword>
+    <keyword>sequence</keyword>
+    <keyword>sequencer</keyword>
+    <keyword>transaction-level modeling</keyword>
+    <keyword>verification methodology</keyword>
+    <abstract>The Universal Verification Methodology (UVM) that can improve interoperability, reduce the cost of using intellectual property (IP) for new projects or electronic design automation (EDA) tools, and make it easier to reuse verification components is provided. Overall, using this standard will lower verification costs and improve design quality throughout the industry. The primary audiences for this standard are the implementors of the UVM base class library, the implementors of tools supporting the UVM base class library, and the users of the UVM base class library.</abstract>
+  </front>
+</reference>

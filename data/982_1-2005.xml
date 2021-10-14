@@ -1,0 +1,28 @@
+<reference anchor="IEEE.982.1-2005" target="https://ieeexplore.ieee.org/document/1634994">
+  <front>
+    <title>IEEE Standard Dictionary of Measures of the Software Aspects of Dependability</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215280"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="20"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Software measurement</keyword>
+    <keyword>Dictionaries</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>availability</keyword>
+    <keyword>dependability</keyword>
+    <keyword>maintainability</keyword>
+    <keyword>and reliability</keyword>
+    <abstract>A Standard Dictionary of Measures of the Software Aspects of Dependability for assessing and predicting the reliability, maintainability, and availability of any software system; in particular, it applies to mission critical software systems.</abstract>
+  </front>
+</reference>

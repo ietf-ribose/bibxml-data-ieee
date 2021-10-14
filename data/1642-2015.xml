@@ -1,0 +1,26 @@
+<reference anchor="IEEE.1642-2015" target="https://ieeexplore.ieee.org/document/7031355">
+  <front>
+    <title>IEEE Recommended Practice for Protecting Publicly Accessible Computer Systems from Intentional Electromagnetic Interference (IEMI)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7031355"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>Computer systems</keyword>
+    <keyword>Electromagnetic measurements</keyword>
+    <keyword>electromagnetic protection</keyword>
+    <keyword>IEEE 1624(TM)</keyword>
+    <keyword>intentional electromagnetic interference</keyword>
+    <keyword>IEMI</keyword>
+    <keyword>high-power electromagnetics</keyword>
+    <keyword>HPEM</keyword>
+    <abstract>Appropriate electromagnetic threat levels, protection methods, monitoring techniques, and test techniques for specific classes of computer equipment are established. This equipment is expected to be accessible to the public at ranges less than 100 m, and the loss of operation of the equipment due to intentional electromagnetic interference is expected to cause losses (both financial and of confidence) to businesses operating computer equipment, which are providing services to the public or to private companies. The principle class of equipment to be considered in this recommended practice includes fixed (non-mobile) computer equipment. Examples include automated teller machines; electronic cash registers at stores; computer equipment in banks and at airports; computer equipment controlling traffic flow; computer equipment controlling communications or allowing Internet access; computer equipment providing police, fire, and security services; computer equipment controlling the operation of the power grid (including smart meters); computer equipment operating in hospitals; etc.</abstract>
+  </front>
+</reference>

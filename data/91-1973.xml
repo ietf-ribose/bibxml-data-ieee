@@ -1,0 +1,21 @@
+<reference anchor="IEEE.91-1973" target="https://ieeexplore.ieee.org/document/7440753">
+  <front>
+    <title>IEEE Graphic Symbols for Logic Diagrams (Two State Devices)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7440753"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="24"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Symbols</keyword>
+    <keyword>Graphics</keyword>
+    <keyword>Logic diagrams</keyword>
+    <keyword>Terminology</keyword>
+    <abstract>This standard establishes the graphic symbols for use in the preparation of logic diagrams representing logic functions implemented with two-state devices. The primary purpose of this standard is to enable a user to readily read and understand the function of the logic without requiring a specific knowledge of the constructional details of the device represented. This standard sets forth principles governing the formation of graphic symbols for logic diagrams in which the connections between symbols are generally shown with lines. Descriptions of logic functions, the graphic representation of these functions, and examples of their applications are given.</abstract>
+  </front>
+</reference>

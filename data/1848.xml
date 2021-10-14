@@ -1,0 +1,29 @@
+<reference anchor="IEEE.1848" target="https://ieeexplore.ieee.org/document/9014629">
+  <front>
+    <title>IEEE Draft Techniques &amp;amp; Measures to Manage Functional Safety and Other Risks With Regard to Electromagnetic Disturbances</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>RIsk management</keyword>
+    <keyword>Electromagnetics</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Risk management</keyword>
+    <keyword>Risk reduction</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Functional Safety</keyword>
+    <keyword>Electromagnetic Interference</keyword>
+    <keyword>EMI</keyword>
+    <keyword>Electromagnetic Compatibility</keyword>
+    <keyword>EMC</keyword>
+    <keyword>Electromagnetic Disturbances</keyword>
+    <abstract>IEEE 1848 provides a set of practical methods for helping to manage the levels of risks due to electromagnetic (EM) disturbances throughout the lifecycles of electronic equipment. These risks include the consequences of all types of errors, malfunctions or failures in products, equipment and systems that employ modern electronic technologies (i.e. in hardware and/or software). It supplements the work done in creating IEC 61000-1-2:2016 (Electromagnetic compatibility (EMC) - Part 1-2: General - Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena) by providing requirements for detailed practical techniques and measures for helping to manage risks (not just functional safety) that could be caused by EM disturbances. These techniques and measures would be used in the management, specification, design, implementation, verification and validation, and through-life operation, maintenance, repair, refurbishment, upgrading, and eventual dismantling for disposal of equipment and systems employing digital electronic systems, for both hardware and software (firmware).</abstract>
+  </front>
+</reference>

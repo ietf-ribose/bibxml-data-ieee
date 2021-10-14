@@ -1,0 +1,15 @@
+<reference anchor="IEEE.C57.12.90-1999" target="https://ieeexplore.ieee.org/document/815307">
+  <front>
+    <title>IEEE Standard Test Code for Liquid-Immersed Distribution, Power, and Regulating Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90608"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>tests</keyword>
+    <keyword>transformers</keyword>
+    <keyword>transformer tests</keyword>
+    <abstract>Superseded by IEEE Std C57.12.90-2006 A common format for data files and exchange medium used for the interchange of vari- ous types of fault, test, or simulation data for electrical power systems is defined. Sources of transient data are described, and the case of diskettes as an exchange medium is recommended.Issues of sampling rates, filters, and sample rate conversions for transient data being exchanged are discussed. Files for data exchange are specified, as is the organization of the data. A sample file is given.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.1214-1992" target="https://ieeexplore.ieee.org/document/239604">
+  <front>
+    <title>IEEE Standard Multichannel Analyzer (MCA) Histogram Data Interchange Format for Nuclear Spectroscopy</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115130"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="3"/>
+    <keyword>Electronic data interchange</keyword>
+    <keyword>Pulse height analyzers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>data transfer</keyword>
+    <keyword>multichannel pulse height data</keyword>
+    <keyword>histogram data interchange</keyword>
+    <keyword>interchange</keyword>
+    <keyword>multichannel analyzer</keyword>
+    <keyword>nuclear spectroscopy</keyword>
+    <abstract>A standard format for data interchange used to transfer pulse height data on magnetic media between laboratories is provided. The terms used in file records are defined. The contents consist only of ASCII characters and can be transmitted over networks and other direct links. Example programs to read data in FORTRAN, BASIC and C are provided.</abstract>
+  </front>
+</reference>

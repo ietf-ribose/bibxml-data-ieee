@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C57.19.00-2004" target="https://ieeexplore.ieee.org/document/1440990">
+  <front>
+    <title>IEEE Standard General Requirements and Test Procedure for Power Apparatus Bushings</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96100"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="July" day="1"/>
+    <keyword>apparatus bushings</keyword>
+    <keyword>bushings</keyword>
+    <keyword>oil-filled reactors</keyword>
+    <keyword>oil-filled transformers</keyword>
+    <abstract>Revision of IEEE Std C57.19.00-1991 This standard applies to power apparatus bushings that have basic impulse insulation levels of 110 kV and above for use as components of oil-filled transformers and oil-filled reactors.</abstract>
+  </front>
+</reference>

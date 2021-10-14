@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C37.23-2015" target="https://ieeexplore.ieee.org/document/7470712">
+  <front>
+    <title>IEEE Standard for Metal-Enclosed Bus</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7470712"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="May" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Metal-enclosed bus</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>cable bus</keyword>
+    <keyword>IEEE C37.23(TM)</keyword>
+    <keyword>isolated-phase bus</keyword>
+    <keyword>metal-enclosed bus</keyword>
+    <keyword>nonsegregated-phase bus</keyword>
+    <keyword>segregated-phase bus</keyword>
+    <abstract>Metal-enclosed (ME) bus assemblies for indoor and outdoor use are discussed in this standard. The types of assemblies covered are nonsegregated-phase bus, cable bus, segregated-phase bus, and isolated-phase bus. Rated maximum voltages of ac ME bus assemblies range from 1058 V through 38 kV with continuous-current ratings of 600 A through 26 000 A for self-cooled ratings and up to 50 000 A for forced-cooled ratings. Rated maximum voltage levels of dc ME bus assemblies range from 300 V through 3200 V with continuous-current ratings of 600 A through 15 000 A. Service conditions, ratings, temperature limitations and classification of insulating materials, insulation (dielectric) withstand voltage requirements, test procedures, and application are discussed. A guide for calculating losses in isolated-phase bus is included.</abstract>
+  </front>
+</reference>

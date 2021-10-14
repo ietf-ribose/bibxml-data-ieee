@@ -1,0 +1,25 @@
+<reference anchor="IEEE.11073-30400-2010" target="https://ieeexplore.ieee.org/document/5522411">
+  <front>
+    <title>IEEE Health informatics--Point-of-care medical device communication Part 30400: Interface profile--Cabled Ethernet</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5522411"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Ethernet networks</keyword>
+    <keyword>Management information systems</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>11073</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>medical device</keyword>
+    <keyword>medical device communications (MDCs)</keyword>
+    <keyword>management information base (MIB)</keyword>
+    <abstract>The application of the Ethernet family (IEEE Std 802.3™-2008) of protocols for use in medical device communication is addressed in this document. The scope is limited to referencing the appropriate Ethernet family specifications and calling out any specific special needs or requirements of the ISO/IEEE 11073 environment, with a particular focus on easing interoperability and controlling costs.</abstract>
+  </front>
+</reference>

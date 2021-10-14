@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P26511/D1, Apr 2011" target="https://ieeexplore.ieee.org/document/5762403">
+  <front>
+    <title>IEEE Draft Standard for Software and systems engineering -- Requirements for managers of user documentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5762403"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Document handling</keyword>
+    <keyword>software user documentation</keyword>
+    <keyword>information management</keyword>
+    <keyword>documentation management</keyword>
+    <keyword>documentation management plan</keyword>
+    <abstract>This standard specifies procedures for managing user documentation throughout the software life cycle. It applies to people or organizations producing suites of documentation, to those undertaking a single documentation project, and to documentation produced internally, as well as to documentation contracted to outside service organizations. It provides an overview of the software documentation and information management processes, and also presents aspects of portfolio planning and content management that user documentation managers apply. It covers management activities in starting a project, including setting up procedures and specifications, establishing infrastructure, and building a team. It includes examples of roles needed on a user documentation team. It addresses measurements and estimates needed for management control, and the use of supporting processes such as change management, schedule and cost control, resource management, and quality management and process improvement. It includes requirements for key documents produced for user documentation management, including documentation plans and documentation management plans. The standard is independent of the software tools that may be used to produce or manage documentation, and applies to both printed documentation and on-screen documentation. Much of its guidance is applicable to user documentation for systems including hardware as well as software.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,35 @@
+<reference anchor="IEEE.1688-2015" target="https://ieeexplore.ieee.org/document/7586235">
+  <front>
+    <title>IEEE Standard Requirements for the Control of Electromagnetic Interference Characteristics of Replaceable Electronic Modules</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7586235"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="October" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Emissions</keyword>
+    <keyword>Electromagnetic inteference</keyword>
+    <keyword>Interference</keyword>
+    <keyword>Electrostatic discharge</keyword>
+    <keyword>electromagnetic compatibility</keyword>
+    <keyword>electromagnetic emission</keyword>
+    <keyword>electromagnetic interference</keyword>
+    <keyword>electromagnetic susceptibility</keyword>
+    <keyword>electrostatic discharge</keyword>
+    <keyword>EMC</keyword>
+    <keyword>EMI</keyword>
+    <keyword>ESD</keyword>
+    <keyword>IEEE 1688(TM)</keyword>
+    <keyword>REM</keyword>
+    <keyword>replaceable electronic module</keyword>
+    <keyword>test limits</keyword>
+    <abstract>Electromagnetic performance requirements for replaceable electronic modules (REMs) are specified. This standard is suitable for items that have the following features: removable/replaceable electronic circuit modules that plug into an equipment rack or frame, with electrical interconnections primarily through edge connectors that interface directly with a backplane, and electrical power input derived from the backplane power sources. This standard is based on MIL-STD-461E system/equipment level electromagnetic interference (EMI) controls. The conducted and radiated requirements, limits, and test methods were adapted to provide risk reduction of REM EMI before integration in a system/equipment.</abstract>
+  </front>
+</reference>

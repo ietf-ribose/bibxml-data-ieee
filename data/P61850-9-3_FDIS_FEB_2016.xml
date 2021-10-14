@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P61850-9-3_FDIS, Feb 2016" target="https://ieeexplore.ieee.org/document/7407241">
+  <front>
+    <title>IEC/IEEE Draft Communication Networks and Systems for Power Utility Automation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Communication networks</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Timing anlaysis</keyword>
+    <keyword>Automation</keyword>
+    <abstract>This part of IEC 61850 specifies a precision time protocol (PTP) profile of IEC 61588:2009, IEEE Std 1588-2008 applicable to power utility automation which allows compliance with the highest synchronization classes of IEC 61850-5 and IEC 61869-9.This part of IEC 61850 applies Layer 2 communication according to IEC 61588:2009, IEEE Std 1588-2008, Annex F, and uses peer-to-peer delay measurement according to the default profile of IEC 61588:2009, IEEE Std 1588-2008, Annex J.4 with restricted range of values.When clocks are singly attached, this profile is a subset of IEC 61588:2009, IEEE Std 1588-2008 with above restrictions.When clocks have optionally a double attachmentare doubly attached, this profile extends theBMCA of IEC 61588:2009,IEEE Std 1588-2008 as IEC 62439-3:2016, Annex A, specifies.</abstract>
+  </front>
+</reference>

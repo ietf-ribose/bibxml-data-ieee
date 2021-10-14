@@ -1,0 +1,19 @@
+<reference anchor="IEEE.C37.37a-1992" target="https://ieeexplore.ieee.org/document/8684580">
+  <front>
+    <title>IEEE Loading Guide for AC High-Voltage Air Switches Under Emergency Conditions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8684580"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>ac high-voltage air switches</keyword>
+    <keyword>Emergency conditions</keyword>
+    <abstract>Guidance for users and manufacturers in the determination of (1) the Allowable Continuous Current Class (ACCC) designations, (2) the continuous load current-carrying capabilities of air switches under various conditions of ambient temperature, and (3) the emergency load current-carrying capabilities of air switches under various conditions of ambient temperature is provided. This guide applies to ac high-voltage air switches in excess of 1000 V</abstract>
+  </front>
+</reference>

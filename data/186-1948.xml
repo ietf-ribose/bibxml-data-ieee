@@ -1,0 +1,22 @@
+<reference anchor="IEEE.186-1948" target="https://ieeexplore.ieee.org/document/20950">
+  <front>
+    <title>IEEE Standard Methods of Testing Amplitude-Modulation Broadcast Receivers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1949.120576"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Amplitude modulation</keyword>
+    <keyword>Broadcasting</keyword>
+    <keyword>Electronic equipment testing</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Power measurement</keyword>
+    <keyword>Receivers</keyword>
+    <keyword>Voltage measurement</keyword>
+    <abstract>A definition of terms is given, and the requirements and characteristics of testing apparatus are discussed. Test procedures for input measurements, output measurements, operating conditions, radio receiver adjustment, and performance tests are described. An appendix considers the design and use of the shielded test loop, the transmission-line method of testing loop receivers, and intermodulation distortion.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

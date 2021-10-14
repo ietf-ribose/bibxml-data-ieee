@@ -1,0 +1,18 @@
+<reference anchor="IEEE.802.11b-1999/Cor 1-2001" target="https://ieeexplore.ieee.org/document/972833">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93363"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <abstract>Changes and additions are provided for IEEE Std 802.11b-1999 to support the higher rate Physical Layer for operation in the 2.4 GHz band.</abstract>
+  </front>
+</reference>

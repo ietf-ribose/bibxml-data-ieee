@@ -1,0 +1,63 @@
+<reference anchor="IEEE.802.3-2005" target="https://ieeexplore.ieee.org/document/7297898">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.7297898"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="October" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>10BASE</keyword>
+    <keyword>100BASE</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Collision avoidance</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Collision avoidance</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>10BASE</keyword>
+    <keyword>100BASE</keyword>
+    <keyword>1000BASE</keyword>
+    <keyword>10GBASE</keyword>
+    <keyword>10 Gigabit Ethernet</keyword>
+    <keyword>attachment unit interface</keyword>
+    <keyword>AUI</keyword>
+    <keyword>Auto Negotiation</keyword>
+    <keyword>data processing</keyword>
+    <keyword>DTE Power via the MDI</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Ethernet in the First Mile</keyword>
+    <keyword>Ethernet passive optical network</keyword>
+    <keyword>Fast Ethernet</keyword>
+    <keyword>Gigabit Ethernet</keyword>
+    <keyword>GMII</keyword>
+    <keyword>information exchange</keyword>
+    <keyword>local area network</keyword>
+    <keyword>management</keyword>
+    <keyword>medium dependent interface</keyword>
+    <keyword>media independent interface</keyword>
+    <keyword>MDI</keyword>
+    <keyword>MIB</keyword>
+    <keyword>MII</keyword>
+    <keyword>XGMII</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical coding sublayer</keyword>
+    <keyword>Physical Layer</keyword>
+    <keyword>physical medium attachment</keyword>
+    <keyword>PMA</keyword>
+    <keyword>Power over Ethernet</keyword>
+    <keyword>repeater</keyword>
+    <keyword>type field</keyword>
+    <keyword>VLAN TAG</keyword>
+    <abstract>Ethernet local area network operation is specified for selected speeds of operation from 1 Mb/s to 10 Gb/s using a common media access control (MAC) specification, management information base (MIB), and capability for Link Aggregation of multiple physical links into a single logical link. The Carrier Sense Multiple Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium (half duplex) operation, as well as full duplex operation. Speed specific Media Independent Interfaces (MIIs) allow use of selected physical layer (PHY) interfaces for operation over coxial, twisted pair or fiber optic cables. System considerations for multisegment shared access networks describe the use of Repeaters which are defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation is supported at all speeds. Other specified capabilities include: various PHY types for access networks, PHYs suitable for metropolitan area network applications, and the provision of power over selected twisted pair PHY types. (Supersedes 802.3-2002 + 802.3ae-2002 + 802.3af-2003 + 802.3ah-2004 + 802.3aj-2003 + 802.3ak-2004). An interpretation is available at http://standards.ieee.org/findstds/interps/802.3-2005_interp.html</abstract>
+  </front>
+</reference>

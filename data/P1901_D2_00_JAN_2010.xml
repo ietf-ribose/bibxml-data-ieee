@@ -1,0 +1,21 @@
+<reference anchor="IEEE.P1901/D2.00, Jan 2010" target="https://ieeexplore.ieee.org/document/5372871">
+  <front>
+    <title>IEEE Draft Standard for Standard for Broadband over Power Line Networks: Medium Access Control and Physical Layer Specifications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power line communications</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>BPL</keyword>
+    <keyword>MAC</keyword>
+    <keyword>PHY</keyword>
+    <keyword>PLC</keyword>
+    <abstract>Defined is a standard for high speed communication devices via electric power lines, so called Broadband over Power Line (BPL) devices. The standard uses transmission frequencies below 100 MHz. This standard is usable by all classes of BPL devices, including BPL devices used for the first-mile/last-mile connection to broadband services as well as BPL devices used in buildings for LANs, Smart Energy applications, transportation platforms (vehicle) applications, and other data distribution. This standard focuses on the balanced and efficient use of the power line communications channel by all classes of BPL devices, defining detailed mechanisms for coexistence and interoperability between different BPL devices, and ensuring that desired bandwidth and quality of service may be delivered. The standard addresses the necessary security questions to ensure the privacy of communications between users and allow the use of BPL for security sensitive services.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IEEE.P829_D10, Jan 2008" target="https://ieeexplore.ieee.org/document/4447429">
+  <front>
+    <title>IEEE Draft Standard for Software and System Test Documentation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Testing</keyword>
+    <keyword>test documentation</keyword>
+    <keyword>integrity level</keyword>
+    <keyword>and life cycle</keyword>
+    <abstract>Test processes determine whether the development products of a given activity conform to the requirements of that activity and whether the system and/or software satisfies its intended use and user needs. Testing process tasks are specified for different integrity levels. These process tasks determine the appropriate breadth and depth of test documentation. The documentation elements for each type of test documentation can then be selected. The scope of testing encompasses software-based systems, computer software, hardware and their interfaces. This standard applies to software-based systems being developed, maintained, or reused (legacy, COTS, Non-Developmental Items). The term software also includes firmware, microcode and documentation. Test processes can include inspection, analysis, demonstration, verification and validation of software products.</abstract>
+  </front>
+</reference>

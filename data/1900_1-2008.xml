@@ -1,0 +1,30 @@
+<reference anchor="IEEE.1900.1-2008" target="https://ieeexplore.ieee.org/document/4633734">
+  <front>
+    <title>IEEE Standard Definitions and Concepts for Dynamic Spectrum Access: Terminology Relating to Emerging Wireless Networks, System Functionality, and Spectrum Management</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4633734"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Radio spectrum management</keyword>
+    <keyword>Dynamic spectrum access</keyword>
+    <keyword>Cognitive radio</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>1900.1-2008</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>cognitive radio networks</keyword>
+    <keyword>dynamic spectrum access</keyword>
+    <keyword>policy-based radio</keyword>
+    <keyword>software-controlled radio</keyword>
+    <keyword>software-defined radio</keyword>
+    <keyword>spectrum management</keyword>
+    <abstract>This standard provides definitions and explanations of key concepts in the fields of spectrum management, cognitive radio, policy-defined radio, adaptive radio, software-defined radio, and related technologies. The document goes beyond simple, short definitions by providing amplifying text that explains these terms in the context of the technologies that use them. The document also describes how these technologies interrelate and create new capabilities while at the same time providing mechanisms supportive of new spectrum management paradigms such as dynamic spectrum access.</abstract>
+  </front>
+</reference>

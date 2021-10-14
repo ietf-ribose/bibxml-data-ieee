@@ -1,0 +1,19 @@
+<reference anchor="IEEE.802.6j-1995" target="https://ieeexplore.ieee.org/document/476643">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Supplement to Distributed Queue Dual Bus (DQDB) Access Method and Physical Layer Specifications. Connection-Oriented Service on a Distributed Queue Dual Bus (DQDB) Subnetwork of a Metropolitan Area Network (MAN)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79553"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Access protocols</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Communication standards</keyword>
+    <abstract>Enhanced Queued Arbitrated (QA) Functions, which can support applications requiring bandwidth guarantees and delay limits on a DQDB subnetwork,are specified. Connection-Oriented Convergence Functions (COCFs) using the enhanced QA Functions, which are necessary to support connection-oriented service, are also specified.</abstract>
+  </front>
+</reference>

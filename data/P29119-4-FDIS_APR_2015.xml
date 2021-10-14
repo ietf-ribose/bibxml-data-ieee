@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P29119-4-FDIS, Apr 2015" target="https://ieeexplore.ieee.org/document/7091844">
+  <front>
+    <title>IEEE Approved Draft International Standard for Software and Systems Engineering--Software Testing--Part 4: Test Techniques</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="April" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <keyword>software testing techniques</keyword>
+    <keyword>test case design</keyword>
+    <keyword>test case execution</keyword>
+    <abstract>This part of ISO/IEC 29119 defines software testing techniques that can be used by any organization, project or smaller testing activity. The test techniques in this International Standard are used to derive the test cases executed as part of the dynamic testing process specified in part two of this standard. This International Standard is applicable to the testing in all software development lifecycle models. This document is intended for, but not limited to, testers, test managers, developers, project managers, particularly those responsible for governing, managing and implementing software testing.</abstract>
+  </front>
+</reference>

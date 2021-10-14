@@ -1,0 +1,26 @@
+<reference anchor="IEEE.755-1985" target="https://ieeexplore.ieee.org/document/30713">
+  <front>
+    <title>IEEE Trial-Use Extending High Level Language Implementations for Microprocessors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82932"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="12"/>
+    <keyword>High-level languages</keyword>
+    <keyword>FORTRAN</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>Standards</keyword>
+    <keyword>extending</keyword>
+    <keyword>high-level</keyword>
+    <keyword>language</keyword>
+    <keyword>implementations</keyword>
+    <keyword>microprocessors</keyword>
+    <abstract>The standard specifies extensions to high-level languages for microprocessor applications. It covers computer languages for which there exist either ANSI or IEEE standards, or draft standards in preparation by existing ANSI or IEEE committees. Notwithstanding the extensions herein provided, the language extended by this standard shall conform to the existing standard for that language. This standard explicitly extends three languages: Basic, Fortran, and Pascal. Other languages may be implicitly extended by the consistent application of the naming conventions and rules for extension specified in this standard.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

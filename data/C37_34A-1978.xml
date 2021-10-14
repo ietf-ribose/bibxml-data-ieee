@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C37.34a-1978" target="https://ieeexplore.ieee.org/document/30625">
+  <front>
+    <title>IEEE Standard Test Code for High-Voltage Air Switches, Corona Tests Supplement to ANSI/IEEE C37.34-1971</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.82355"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Corona</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>C37.34a</keyword>
+    <abstract>Superseded. Procedures for corona testing of nonenclosed and enclosed switches with a rated maximum voltage of 121 kV and above are established. Test requirements and conditions are specified, and a test procedure is given. Simultaneous corona and radio-influence testing is addressed.</abstract>
+  </front>
+</reference>

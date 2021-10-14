@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1061-1998" target="https://ieeexplore.ieee.org/document/749159">
+  <front>
+    <title>IEEE Standard for a Software Quality Metrics Methodology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.243394"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>A methodology for establishing quality requirements and identifying, implementing, analyzing and validating the process and product software quality metrics is defined. The methodology spans the entire software life-cycle.</abstract>
+  </front>
+</reference>

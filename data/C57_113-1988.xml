@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C57.113-1988" target="https://ieeexplore.ieee.org/document/27771">
+  <front>
+    <title>IEEE Trial-Use Guide for Partial Discharge Measurement in Liquid-Filled Power Transformers and Shunt Reactors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81005"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Partial discharges</keyword>
+    <keyword>Partial discharge measurement</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Detectors</keyword>
+    <keyword>Insulators</keyword>
+    <keyword>Impedance measurement</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>C57.113</keyword>
+    <abstract>This test procedure applies to the detection and measurement by the wide-band apparent charge method of partial discharges occuring in liquid-filled power transformers and shunt reactors during dielectric test where applicable.</abstract>
+  </front>
+</reference>

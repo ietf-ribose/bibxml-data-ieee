@@ -1,0 +1,39 @@
+<reference anchor="IEEE.8802-15-4-2018" target="https://ieeexplore.ieee.org/document/8362834">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8362834"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="May" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>IEEE 802.15.4(TM)</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>The protocol and compatible interconnection for data communication devices using low-data-rate, low-power, and low-complexity short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN) are defined in this standard. A variety of physical layers (PHYs) have been defined that cover a wide variety of frequency bands.</abstract>
+  </front>
+</reference>

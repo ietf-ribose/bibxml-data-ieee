@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1002-1987" target="https://ieeexplore.ieee.org/document/26473">
+  <front>
+    <title>IEEE Standard Taxonomy for Software Engineering Standards</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122157"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Software engineering</keyword>
+    <keyword>Standards</keyword>
+    <abstract>Describes the form and content of a software engineering standards taxonomy. Applicability is not restricted by software application, size, complexity, criticality, or hardware environment. This taxonomy applies to standards (from the related disciplines of engineering management, systems engineering, computer hardware engineering, computer science, and information science) with which a software engineer would be reasonably acquainted. This taxonomy is application independent. The document explains the various types of software engineering standards, their functional and external relationships, and the role of various functions participating in the software life cycle.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1671.3-2007" target="https://ieeexplore.ieee.org/document/4479571">
+  <front>
+    <title>IEEE Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Information via XML (eXtensible Markup Language): Exchanging UUT (Unit Under Test) Description Information</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4479571"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="July" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Hardware</keyword>
+    <keyword>automatic test equipment (ATE)</keyword>
+    <keyword>Automatic Test Markup Language (ATML)</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test system (ATS)</keyword>
+    <keyword>unit under test (UUT)</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This document specifies an exchange format, using XML, for identifying all of the hardware, software, and documentation associated with a unit under test (UUT). This UUT may be tested and diagnosed using a test program set (TPS) on an automatic test system (ATS).</abstract>
+  </front>
+</reference>

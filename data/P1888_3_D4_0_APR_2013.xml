@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P1888.3/D4.0, Apr 2013" target="https://ieeexplore.ieee.org/document/6502638">
+  <front>
+    <title>IEEE Draft Standard for Ubiquitous Green Community Control Network: Security</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="April" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Green design</keyword>
+    <keyword>Ubiquitous computing</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Green computing</keyword>
+    <keyword>security</keyword>
+    <keyword>mutual authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>integrity</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>access control</keyword>
+    <keyword>certificate</keyword>
+    <abstract>This standard describes enhanced security management function forthe protocol defined in IEEE 1888 Ubiquitous Green Community ControlNetwork Protocol, specifies security requirements, defines system security architecture, gives a standardized description of authentication, authorization, along with security procedures and protocols. This standard can avoid unintended data disclosure to the public and unauthorized access to resources, while providing enhanced integrity and confidentiality of transmitted data in the ubiquitous green community control network.</abstract>
+  </front>
+</reference>

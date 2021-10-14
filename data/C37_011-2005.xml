@@ -1,0 +1,19 @@
+<reference anchor="IEEE.C37.011-2005" target="https://ieeexplore.ieee.org/document/1594505">
+  <front>
+    <title>IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99015"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="June" day="20"/>
+    <keyword>Transient analysis</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Circuit faults</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Capacitance</keyword>
+    <keyword>Keywords: high-voltage circuit breakers</keyword>
+    <keyword>transient recovery voltage</keyword>
+    <abstract>Revision of IEEE Std C37.011-1994 Procedures and calculations necessary to apply the standard transient recovery voltage (TRV) ratings for ac high-voltage circuit breakers rated above 1000 V and on a symmetrical current basis are covered. The capability limits of these circuit breakers are determined to a great degree by the TRV. TRV ratings are compared with typical system TRV duties.</abstract>
+  </front>
+</reference>

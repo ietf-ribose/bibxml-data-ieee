@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P802.3ct/D3.0, Oct 2020" target="https://ieeexplore.ieee.org/document/9221001">
+  <front>
+    <title>IEEE Draft Standard for Ethernet</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="October" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Forward error correction</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>Wavelength division multiplexing</keyword>
+    <keyword>100 Gb/s Ethernet</keyword>
+    <keyword>100GBASE-ZR</keyword>
+    <keyword>DP-DQPSK</keyword>
+    <keyword>dense wavelength division multiplexing (DWDM)</keyword>
+    <keyword>DWDM black link</keyword>
+    <keyword>Energy-Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>forward error correction (FEC)</keyword>
+    <keyword>IEEE 802.3</keyword>
+    <keyword>IEEE 802.3ct</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>single-mode fiber (SMF)</keyword>
+    <abstract>This amendment includes changes to IEEE Std 802.3-2018 and adds Clause 152 through Clause 154 and Annex 154A. This amendment adds 100 Gb/s Physical Layer specifications and management parameters for operation over DWDM systems using a combination of phase and amplitude modulation with coherent detection for reaches of at least 80 km.</abstract>
+  </front>
+</reference>

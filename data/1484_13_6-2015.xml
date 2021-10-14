@@ -1,0 +1,33 @@
+<reference anchor="IEEE.1484.13.6-2015" target="https://ieeexplore.ieee.org/document/7069175">
+  <front>
+    <title>IEEE Recommended Practice for Learning Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7069175"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="March" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Content aggregation</keyword>
+    <keyword>Aggregation formats</keyword>
+    <keyword>Learning systems</keyword>
+    <keyword>aggregation format</keyword>
+    <keyword>conceptual model</keyword>
+    <keyword>content aggregation</keyword>
+    <keyword>digital aggregation</keyword>
+    <keyword>digital resource</keyword>
+    <keyword>IEEE 1484.13.6</keyword>
+    <keyword>OAI&amp;#8211;ORE</keyword>
+    <keyword>Open Archives Initiative Object Reuse and Exchange Abstract Model</keyword>
+    <keyword>RAMLET</keyword>
+    <keyword>resource aggregation</keyword>
+    <keyword>resource aggregation format</keyword>
+    <abstract>Specified in this recommended practice are how the elements and attributes defined in the Open Archives Initiative Object Reuse and Exchange (OAI-ORE) Abstract Model and expressed in the OAI-ORE Resource Map Implementation in RDF/XML relate to the components of the conceptual model for resource aggregation defined in IEEE Std 1484.13.1(TM)-2012.</abstract>
+  </front>
+</reference>

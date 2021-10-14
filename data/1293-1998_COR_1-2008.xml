@@ -1,0 +1,34 @@
+<reference anchor="IEEE.1293-1998/Cor 1-2008" target="https://ieeexplore.ieee.org/document/4690904">
+  <front>
+    <title>IEEE Standard Specification Format Guide and Test Procedure for Linear,Single-Axis, Nongyroscopic Accelerometers Corrigendum 1: Changes to Annex K and Annex L</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4690904"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Accelerometers</keyword>
+    <keyword>Aerospace and electronic systems</keyword>
+    <keyword>Displacement measurement</keyword>
+    <keyword>Micromechanical devices</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>1293-1998/Cor 1-2008</keyword>
+    <keyword>accelerometers</keyword>
+    <keyword>force-rebalance mode</keyword>
+    <keyword>inertial instrument</keyword>
+    <keyword>inertial sensor</keyword>
+    <keyword>MEMS</keyword>
+    <keyword>MEMS gyro</keyword>
+    <keyword>micro-electro-mechanical system</keyword>
+    <keyword>nongyroscopic accelerometers</keyword>
+    <keyword>open loop mode</keyword>
+    <keyword>ratiometric output</keyword>
+    <keyword>VBA</keyword>
+    <abstract>Specification and test requirements for linear, single-axis, nongyroscopic accelerometers for use as a sensor in attitude control systems, linear displacement measuring systems, and linear rate measuring systems are defined. The specification format guide and test procedure standard applies to force-rebalance accelerometers (pendulous or translational proof mass), vibrating beam accelerometers (VBAs), and micromechanical accelerometers that range from lesser accuracy to high accuracy devices.</abstract>
+  </front>
+</reference>

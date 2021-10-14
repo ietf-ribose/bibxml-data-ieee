@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P802.1ak-2007/Cor 1_D3.0,May 2008" target="https://ieeexplore.ieee.org/document/4540158">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment 07: Multiple Registration Protocol-Corrigendum 1: Corrections to the Multiple Registration Protocol (Corrigendum to IEEE 802.1 ak-2007)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>The existing PDU format defined in IEEE Std 802.1ak is incorrect, and in its current form, cannot be interpreted by the protocol state machines. The changes defined in this corrigendum make corrections to the PDU format that allow the state machines to interpret the PDUs correctl</abstract>
+  </front>
+</reference>

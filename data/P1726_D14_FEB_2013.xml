@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P1726/D14, Feb 2013" target="https://ieeexplore.ieee.org/document/6489987">
+  <front>
+    <title>IEEE Draft Guide for the Functional Specification of Fixed Transmission Series Capacitor Banks for Transmission System Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="March" day="28"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Capacitors</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Power capacitors</keyword>
+    <keyword>Varistors</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Thyristors</keyword>
+    <abstract>This Guide provides general guidelines toward the preparations of a functional specification of transmission fixed series capacitor banks (FSC) using overvoltage protection based on three technologies: * metal oxide varistors * metal oxide varistors with a forced triggered bypass gaps, and thyristor protected series capacitors. * thyristor protected series capacitor.This Guide does not apply comprehensively to Thyristor Controlled Series Capacitors</abstract>
+  </front>
+</reference>

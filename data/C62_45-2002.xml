@@ -1,0 +1,20 @@
+<reference anchor="IEEE.C62.45-2002" target="https://ieeexplore.ieee.org/document/1196925">
+  <front>
+    <title>IEEE Recommended Practice on Surge Testing for Equipment Connected to Low-Voltage (1000 V and less) AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94255"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="12"/>
+    <keyword>low-voltage ac power circuit</keyword>
+    <keyword>surge testing</keyword>
+    <keyword>surge withstand level</keyword>
+    <abstract>The scope of this recommended practice is the performance of surge testing on electrical and electronic equipment connected to low-voltage ac power circuits, specifically using the recommended test waveforms defined in IEEE Std C62.41.2 -2002. Nevertheless, these recommendations are applicable to any surge testing, regardless of the specific surges that may be applied.</abstract>
+  </front>
+</reference>

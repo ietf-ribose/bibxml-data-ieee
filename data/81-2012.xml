@@ -1,0 +1,30 @@
+<reference anchor="IEEE.81-2012" target="https://ieeexplore.ieee.org/document/6654225">
+  <front>
+    <title>IEEE Guide for Measuring Earth Resistivity, Ground Impedance, and Earth Surface Potentials of a Grounding System</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="November" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Energy measurement</keyword>
+    <keyword>Impedance measurement</keyword>
+    <keyword>Power measurement</keyword>
+    <keyword>Conductivity</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Surface impedance</keyword>
+    <keyword>electrical measurements</keyword>
+    <keyword>ground impedance</keyword>
+    <keyword>ground potential rise</keyword>
+    <keyword>ground resistance</keyword>
+    <keyword>ground testing</keyword>
+    <keyword>IEEE 81TM</keyword>
+    <keyword>remote earth</keyword>
+    <keyword>soil resistivity</keyword>
+    <abstract>Practical test methods and techniques are presented for measuring the electrical characteristics of grounding systems. Topics addressed include safety considerations, measuring earth resistivity, measuring the power system frequency resistance or impedance of the ground system to remote earth, measuring the transient or surge impedance of the ground system to remote earth, measuring step and touch voltages, verifying the integrity of the grounding system, reviewing common methods for performing ground testing, reviewing instrumentation characteristics and limitations, and reviewing various factors that can distort test measurements.</abstract>
+  </front>
+</reference>

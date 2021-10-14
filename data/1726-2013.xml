@@ -1,0 +1,38 @@
+<reference anchor="IEEE.1726-2013" target="https://ieeexplore.ieee.org/document/6759723">
+  <front>
+    <title>IEEE Guide for the Functional Specification of Fixed-Series Capacitor Banks for Transmission System Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6759723"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="March" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Capacitors</keyword>
+    <keyword>Electric discharges</keyword>
+    <keyword>MONOS devices</keyword>
+    <keyword>Reactors</keyword>
+    <keyword>Reactive power</keyword>
+    <keyword>Compensation</keyword>
+    <keyword>Varistors</keyword>
+    <keyword>bypass gap</keyword>
+    <keyword>capacitor bank</keyword>
+    <keyword>capacitor segment</keyword>
+    <keyword>discharge reactor</keyword>
+    <keyword>IEEE 1726(TM)</keyword>
+    <keyword>metal-oxide varistor</keyword>
+    <keyword>protective level</keyword>
+    <keyword>reactive compensation</keyword>
+    <keyword>series capacitor</keyword>
+    <keyword>series compensation</keyword>
+    <keyword>subsynchronous resonance risk (SSR)</keyword>
+    <keyword>trigger circuit</keyword>
+    <keyword>triggered gap</keyword>
+    <keyword>varistor</keyword>
+    <abstract>General guidelines toward the preparations of a functional specification of transmission fixed-series capacitor (FSC) banks using overvoltage protection based on three technologies are provided. The three technologies are:- metal oxide varistors-metal oxide varistors with a forced-triggered bypass gaps, and thyristor protected series capacitors- thyristor protected series capacitor. This guide does not apply comprehensively to thyristor-controlled series capacitors.</abstract>
+  </front>
+</reference>

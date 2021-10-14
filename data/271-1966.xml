@@ -1,0 +1,28 @@
+<reference anchor="IEEE.271-1966" target="https://ieeexplore.ieee.org/document/19451">
+  <front>
+    <title>IEEE Technical Report on Switching Surge Testing of Extra-High-Voltage Switches</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1966.120170"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="18"/>
+    <keyword>Gas blast circuit breakers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Testing</keyword>
+    <keyword>C37.34e</keyword>
+    <keyword>extra high voltage</keyword>
+    <keyword>air switches</keyword>
+    <keyword>switching impulse</keyword>
+    <keyword>wave shape</keyword>
+    <keyword>switches</keyword>
+    <keyword>high voltage</keyword>
+    <abstract>Redesignated as IEEE C37.34e. The technical requirements for the design, fabrication, testing, and installation of a gas-insulated substation (GIS) are covered; its intent is advisory. This guide discusses parameters to be supplied by the purchaser and technical requirements for the design, fabrication, testing, and installation to be furnished by the manufacturer. Environmental conditions, general and specific equipment requirements, and a proposal data sheet form are included to aid the user.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IEEE.451-1955" target="https://ieeexplore.ieee.org/document/7420558">
+  <front>
+    <title>AIEE Proposed Recommended Guide for Specification of Signal Sources</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1955.7420558"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="26"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Signal processing</keyword>
+    <abstract>The purpose of these specifications is to give a common basis for comparison among signal sources used for test purposes. It is recommended that all manufacturers supply the information outlined where applicable. It is recognized that further information may be supplied for some special instruments in addition to the items outlined.</abstract>
+  </front>
+</reference>

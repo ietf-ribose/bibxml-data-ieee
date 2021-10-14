@@ -1,0 +1,18 @@
+<reference anchor="IEEE.1050-1989" target="https://ieeexplore.ieee.org/document/89802">
+  <front>
+    <title>IEEE Guide for Instrumentation and Control Equipment Grounding in Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94620"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Grounding</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>grounding</keyword>
+    <keyword>control</keyword>
+    <keyword>instrument</keyword>
+    <keyword>equipment</keyword>
+    <keyword>generating</keyword>
+    <abstract>Superseded by 1050-1996. Guidance for the design of grounding systems for instrumentation and control equipment specific to large central generating stations is provided. The goal is to achieve both a suitable level of protection for personnel and equipment and suitable electric noise immunity for signal ground references. Requirements for the grounding of systems associated with the interconnection of the station to adjacent substations are considered, since these are a large source of electrical noise. Both ideal theoretical methods and accepted practices in the electric utility industry are presented. Applications relating to advanced energy storage and conversion technologies (photovoltaics, fuel cells, etc.) are not considered. .</abstract>
+  </front>
+</reference>

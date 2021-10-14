@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C37.11-1957" target="https://ieeexplore.ieee.org/document/7442018">
+  <front>
+    <title>ASA American National Standard Requirements for Power Circuit Breaker Control</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1957.7442018"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="25"/>
+    <keyword>ASA Standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Switching circuits</keyword>
+    <abstract>This standard applies to all types of electrically controlled indoor and outdoor power circuit breakers, including circuit breakers in switchgear cubicles and in metal-clad switchgear, having an interrupting rating of 50 megavolt-amperes (mva) or higher and a voltage rating above 1500 volts. This standard applies for any source of circuit breaker operating energy, such as solenoid, motor, spring, compressed gas, etc, for any type of operating mechanism and for both a-c and d-c control power.</abstract>
+  </front>
+</reference>

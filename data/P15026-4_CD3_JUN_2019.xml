@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P15026-4/CD3, Jun 2019" target="https://ieeexplore.ieee.org/document/8755349">
+  <front>
+    <title>IEEE Draft Internation Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="July" day="3"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Systems analysis and design</keyword>
+    <keyword>Quality assurance</keyword>
+    <abstract>This document provides guidance and recommendations for assurance of a selected claim about the system-of-interest by achieving the claim and showing the achievement. The guidance and recommendations are given in a System Assurance process view on top of ISO/IEC/IEEE 15288 and a Software Assurance process view on top of ISO/IEC/IEEE 12207.</abstract>
+  </front>
+</reference>

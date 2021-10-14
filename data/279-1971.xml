@@ -1,0 +1,24 @@
+<reference anchor="IEEE.279-1971" target="https://ieeexplore.ieee.org/document/6125207">
+  <front>
+    <title>IEEE Standard: Criteria for Protection Systems for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6125207"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="17"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Inductors</keyword>
+    <keyword>Reliability</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Mechanical sensors</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Substation protection</keyword>
+    <abstract>Withdrawn Standard June 1984. These criteria established minimum requirements for the safety-related functional performance and reliability of protection systems for stationary land-based nuclear reactors producing steam for electric power generation. Fulfillment of these requirements does not necessarily fully establish the adequacy of protective system functional performance and reliability. On the other hand, omission of any of these requirements will, in most instances, be an indication of system inadequacy. For purposes of these criteria, the nuclear power generating station protection system encompasses all electric and mechanical devices and circuitry (from sensors to actuation device input terminals) involved in generating those signals associated with the protective function. These signals include those that actuate reactor trip and that, in the event of a serious reactor accident, actuate engineered safeguards such as containment isolation, core spray, safety injection, pressure reduction, and air cleaning.</abstract>
+  </front>
+</reference>

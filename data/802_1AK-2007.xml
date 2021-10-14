@@ -1,0 +1,33 @@
+<reference anchor="IEEE.802.1ak-2007" target="https://ieeexplore.ieee.org/document/4264386">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.380667"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="January" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MRP</keyword>
+    <keyword>MMRP</keyword>
+    <keyword>MVRP</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <abstract>This amendment specifies a set of protocols that replaces the GARP, GMRP, and GVRP protocols specified in earlier versions of IEEE Std 802.1Q.</abstract>
+  </front>
+</reference>

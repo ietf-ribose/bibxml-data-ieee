@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P802.1AXbk/D2.1, Jan 2011" target="https://ieeexplore.ieee.org/document/6143962">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and metropolitan area networks--Link Aggregation Amendment: Protocol Addressing</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Aggregators</keyword>
+    <keyword>Aggregated Link</keyword>
+    <keyword>Aggregator</keyword>
+    <keyword>Link Aggregation</keyword>
+    <keyword>Link Aggregation Group</keyword>
+    <keyword>local area network</keyword>
+    <keyword>management</keyword>
+    <abstract>Link Aggregation allows one or more links to be aggregated together to form a Link Aggregation Group, such that a Media Access Control (MAC) Client can treat the Link Aggregation Group as if it were a single link. To this end, it specifies the establishment of data terminal equipment (DTE) to DTE logical links, consisting of N parallel instances of full duplex point-to-point links operating at the same data rate. This standard defines the MAC independent Link Aggregation capability, and general information relevant to specific MAC types that support Link Aggregation.</abstract>
+  </front>
+</reference>

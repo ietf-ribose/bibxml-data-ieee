@@ -1,0 +1,35 @@
+<reference anchor="IEEE.11073-10201-2004" target="https://ieeexplore.ieee.org/document/1389297">
+  <front>
+    <title>ISO/IEEE International Standard for Health Informatics</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95742"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="August" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Portable document format</keyword>
+    <keyword>ISO</keyword>
+    <keyword>abstract syntax</keyword>
+    <keyword>alarm</keyword>
+    <keyword>alert</keyword>
+    <keyword>ASN.1</keyword>
+    <keyword>information model</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>medi-cal information bus</keyword>
+    <keyword>MIB</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>POC</keyword>
+    <keyword>object-oriented</keyword>
+    <keyword>patient</keyword>
+    <keyword>remote control</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care (POC) medical device communication (MDC), this standard provides an abstract object-oriented domain information model that specifies the structure of exchanged information, as well as the events and services that are supported by each object. All elements are specified using abstract syntax (ASN.1) and may be applied to many different implementation technologies, transfer syntaxes, and application service models. Core subjects include medical, alert, system, patient, control, archival, communication, and extended services. Model extensibility is supported, and a conformance model and statement template is provided.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="IEEE.P802.3bk/D3.0, Mar 2013 (Amendment of IE" target="https://ieeexplore.ieee.org/document/6491426">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment 1: Physical Layer Specifications and Management Parameters for Extended Ethernet Passive Optical Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="April" day="1"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Optical communication</keyword>
+    <keyword>Collision avoidance</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>PX30</keyword>
+    <keyword>PX40</keyword>
+    <keyword>PRX40</keyword>
+    <keyword>PR40</keyword>
+    <keyword>extended EPON</keyword>
+    <abstract>This draft is an amendment of IEEE Std 802.3-2012. It provides physical layer specifications andmanagement parameters for EPON operation on point-to-multipoint passive optical networks supportingextended power budget classes of PX30, PX40, PRX40, and PR40. This draft is prepared by the IEEEP802.3bk Extended EPON Task Force for the first IEEE Sponsor Ballot. This draft expires 6 months afterthe date of publication or when the next version is published, whichever comes first.</abstract>
+  </front>
+</reference>

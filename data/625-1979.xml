@@ -1,0 +1,22 @@
+<reference anchor="IEEE.625-1979" target="https://ieeexplore.ieee.org/document/21023">
+  <front>
+    <title>IEEE Recommended Practices to Improve Electrical Maintenance and Safety in the Cement Industry</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120963"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Cement industry</keyword>
+    <keyword>Generators</keyword>
+    <keyword>Maintenance</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>improved</keyword>
+    <keyword>electrical</keyword>
+    <keyword>maintenance</keyword>
+    <keyword>safety</keyword>
+    <abstract>Superseded by 625-1990. Assists in the effective application of relays and other devices for the protection of shunt capacitors used in substations. It covers the protective considerations, along with recommended and alternate methods of protection for the most commonly used capacitor bank configurations. Capacitor bank design trade-offs are also discussed. This guide covers protection of filter tanks and very large EHV capacitor banks, but does not include a discussion of pole-mounted capacitor banks on distribution circuits or application of capacitors connected to rotating apparatus.</abstract>
+  </front>
+</reference>

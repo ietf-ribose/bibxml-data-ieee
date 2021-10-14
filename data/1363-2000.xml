@@ -1,0 +1,22 @@
+<reference anchor="IEEE.1363-2000" target="https://ieeexplore.ieee.org/document/891000">
+  <front>
+    <title>IEEE Standard Specifications for Public-Key Cryptography</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.92292"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="August" day="8"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>digital signature</keyword>
+    <keyword>encryption</keyword>
+    <keyword>key agreement</keyword>
+    <keyword>public-key cryptography</keyword>
+    <abstract>This standard specifies common public-key cryptographic techniques, including mathematical primitives for secret value (key) derivation, public-key encryption, and digital signatures, and cryptographic schemes based on those primitives. It also specifies related cryptographic parameters, public keys, and private keys. The purpose of this standard is to provide a reference for specifications on a variety of techniques from which applications may select.</abstract>
+  </front>
+</reference>

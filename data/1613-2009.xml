@@ -1,0 +1,47 @@
+<reference anchor="IEEE.1613-2009" target="https://ieeexplore.ieee.org/document/5233393">
+  <front>
+    <title>IEEE Standard Environmental and Testing Requirements for Communications Networking Devices Installed in Electric Power Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5233393"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Communication systems</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Firewalls</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Dielectrics</keyword>
+    <keyword>Electrostatic discharge</keyword>
+    <keyword>auto dialers</keyword>
+    <keyword>bridges</keyword>
+    <keyword>communications networking device</keyword>
+    <keyword>communications ports</keyword>
+    <keyword>derating</keyword>
+    <keyword>dielectric test</keyword>
+    <keyword>electrostatic discharge (ESD) test</keyword>
+    <keyword>environmental requirements</keyword>
+    <keyword>Ethernet hubs</keyword>
+    <keyword>fast transient test</keyword>
+    <keyword>firewalls</keyword>
+    <keyword>humidity</keyword>
+    <keyword>impulse test</keyword>
+    <keyword>insulation test</keyword>
+    <keyword>modems</keyword>
+    <keyword>power apparatus</keyword>
+    <keyword>radio frequency (RF) test</keyword>
+    <keyword>routers</keyword>
+    <keyword>serial device</keyword>
+    <keyword>surge withstand capability (SWC) test</keyword>
+    <keyword>switches</keyword>
+    <keyword>temperature range</keyword>
+    <keyword>temperature rise</keyword>
+    <keyword>voltage ratingnetworking devices and the communications ports of protective relays for use in this harsh environment.</keyword>
+    <abstract>Service conditions, electrical ratings, thermal ratings, and environmental testing requirements are defined for communications networking devices to be installed in electric power substations. This standard establishes a common reproducible basis for designing and evaluating communications networking devices and the communications ports of protective relays for use in this harsh environment.</abstract>
+  </front>
+</reference>

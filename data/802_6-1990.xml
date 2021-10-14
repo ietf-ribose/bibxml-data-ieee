@@ -1,0 +1,25 @@
+<reference anchor="IEEE.802.6-1990" target="https://ieeexplore.ieee.org/document/182761">
+  <front>
+    <title>Local and Metropolitan Area Networks: Distributed Queue Dual Bus (DQDB) Subnetwork of a Metropolitan Area Network (MAN)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.106962"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="14"/>
+    <keyword>Computer networks</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Standards</keyword>
+    <keyword>LAN</keyword>
+    <keyword>metro</keyword>
+    <keyword>area</keyword>
+    <keyword>networks</keyword>
+    <abstract>Withdrawn Standard. Withdrawn Date: Feb 07, 2003. No longer endorsed by the IEEE. This standard is part of a family of standards for local area networks (LANs) and metropolitan area networks (MANs) that deal with the Physical and Data Link Layers as defined by the ISO Open Systems Interconnection Reference Model. It defines a high-speed shared medium access protocol for use over a dual, counterflowing, unidirectional bus subnetwork. The Physical Layer and Distributed Queue Dual Bus (DQDB) Layer are required to support a Logical Link Control (LLC) Sublayer by means of a connectionless Medium Access Control (MAC) Sublayer service in a manner consistent with other IEEE 902 networks. Additional DQDB Layer functions are specified as a framework for other services. These additional functions will support Isochronous Service Users and Connection-Oriented Data Service users, but their implementation is not required for conformance.</abstract>
+  </front>
+</reference>

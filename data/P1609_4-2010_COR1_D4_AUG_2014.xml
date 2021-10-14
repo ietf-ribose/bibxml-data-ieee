@@ -1,0 +1,21 @@
+<reference anchor="IEEE.P1609.4-2010/Cor1/D4, Aug 2014" target="https://ieeexplore.ieee.org/document/6881602">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) -- Multi-channel Operation Corrigendum 1: Miscellaneous Corrections</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="August" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Wireless access in vehicular environments </keyword>
+    <keyword>Intelligent vehicles</keyword>
+    <keyword>Channel allocation</keyword>
+    <keyword>Intelligent transportation systems</keyword>
+    <keyword>channel access</keyword>
+    <keyword>channel busy</keyword>
+    <keyword>IEEE 1609.4TM</keyword>
+    <keyword>IEEE 802.11TM</keyword>
+    <keyword>UTC</keyword>
+    <abstract>This corrigendum corrects errors in IEEE Std 1609.4 TM -2010 in the following areas: References to current documents including IEEE Std 1609.0(TM), IEEE Std 1609.2(TM), IEEE Std 609.12(TM), and IEEE P1609.6(TM). Also IEEE Std 802.11p(TM), now part of IEEE Std 802.11(TM)-2012; Clarification of channel access features in the document body and PICS; Clarification of the common time reference; Clarification of the requirement for setting channel busy during the guard interval.</abstract>
+  </front>
+</reference>

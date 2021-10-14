@@ -1,0 +1,26 @@
+<reference anchor="IEEE.PC37.103/D5, Jul 2014" target="https://ieeexplore.ieee.org/document/6879228">
+  <front>
+    <title>IEEE Draft Guide for Differential and Polarizing Relay Circuit Testing</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Circuit testing</keyword>
+    <keyword>Polarization</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Protective relays</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Generators</keyword>
+    <keyword>Fault diagnosis</keyword>
+    <keyword>differential protection</keyword>
+    <keyword>generator protection</keyword>
+    <keyword>line protection</keyword>
+    <keyword>polarized ground fault relays</keyword>
+    <keyword>polarized line protection relays</keyword>
+    <keyword>relay testing</keyword>
+    <keyword>transformer protection</keyword>
+    <abstract>The issues concerning testing and verification of the correctness of differential and polarizing circuits are described and discussed in this guide. The intention of this guide is to help the reader to detect errors in the wiring of protective relays that might cause erroneous operations of protection systems. It is essential to follow systematic testing procedures and record the observations in a proper organized manner. The records should include documentation of all measurements and a comparison with the desired results.</abstract>
+  </front>
+</reference>

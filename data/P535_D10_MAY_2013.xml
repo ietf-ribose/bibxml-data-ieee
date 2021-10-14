@@ -1,0 +1,34 @@
+<reference anchor="IEEE.P535/D10, May 2013" target="https://ieeexplore.ieee.org/document/6517442">
+  <front>
+    <title>IEEE Draft Standard for Qualification of Class 1E Vented Lead Acid Storage Batteries for Nuclear Power Generating Stations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Batteries</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Testing</keyword>
+    <keyword>acceptance test</keyword>
+    <keyword>battery capacity</keyword>
+    <keyword>battery maintenance</keyword>
+    <keyword>battery replacement criteria</keyword>
+    <keyword>electrolyte level</keyword>
+    <keyword>equalize charge</keyword>
+    <keyword>float voltage</keyword>
+    <keyword>IEEE 450</keyword>
+    <keyword>performance test</keyword>
+    <keyword>specific gravity</keyword>
+    <keyword>test-discharge rate</keyword>
+    <keyword>vented lead-acid battery</keyword>
+    <abstract>This standard describes qualification methods for Class 1E vented lead acid batteries andracks to be used in nuclear power generating stations outside primary containment. Qualificationrequired by IEEE Std 308(TM) can be demonstrated by using the procedures in this standard inaccordance with IEEE Std 323(TM). Application of batteries in Nuclear Power Generating Stations can bedivided into two sections; duty cycles equal to or less than 8 hours and duty cycles greater than 8 hours.This standard provides a process to demonstrate qualification for both applications.</abstract>
+  </front>
+</reference>

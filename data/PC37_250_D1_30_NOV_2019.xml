@@ -1,0 +1,31 @@
+<reference anchor="IEEE.PC37.250/D1.30, Nov 2019" target="https://ieeexplore.ieee.org/document/9031811">
+  <front>
+    <title>IEEE Approved Draft Guide for Engineering, Implementation, and Management of System Integrity Protection Schemes</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="March" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Product lifecycle management</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>System dynamics</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Stability analysis</keyword>
+    <keyword>contingency</keyword>
+    <keyword>IEEE C37.250&amp;#8482;</keyword>
+    <keyword>mitigation</keyword>
+    <keyword>power system protection</keyword>
+    <keyword>Remedial Action Scheme</keyword>
+    <keyword>Special Protection System</keyword>
+    <keyword>stability</keyword>
+    <keyword>System Integrity Protection Scheme</keyword>
+    <keyword>system performance</keyword>
+    <abstract>Guidance for engineering, implementation, and management of System Integrity Protection Schemes (SIPS) is provided in this guide. General concepts for architecture and communication design to achieve functionality and performance requirements are addressed.Principles for commissioning processes and strategies for life-cycle management are also discussed.</abstract>
+  </front>
+</reference>

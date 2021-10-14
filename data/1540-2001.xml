@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1540-2001" target="https://ieeexplore.ieee.org/document/914365">
+  <front>
+    <title>IEEE Standard for Software Life Cycle Processes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92418"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="June" day="12"/>
+    <keyword>Software</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Risk management</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Standards organizations</keyword>
+    <keyword>Organizations</keyword>
+    <keyword>acceptability</keyword>
+    <keyword>integrity</keyword>
+    <keyword>risk</keyword>
+    <keyword>risk analysis</keyword>
+    <keyword>risk management</keyword>
+    <keyword>risk treatment</keyword>
+    <abstract>A process for the management of risk in the life cycle of software is defined. It can be added to the existing set of software life cycle processes defined by the IEEE/EIA 12207 series of standards, or it can be used independently.</abstract>
+  </front>
+</reference>

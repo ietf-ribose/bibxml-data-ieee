@@ -1,0 +1,33 @@
+<reference anchor="IEEE.148-1959" target="https://ieeexplore.ieee.org/document/6856124">
+  <front>
+    <title>IEEE Standard for Waveguide and Waveguide Component Measurements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.6856124"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="July" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Microwave measurements</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Electromagnetic fields</keyword>
+    <keyword>Propagation</keyword>
+    <keyword>Electric fields</keyword>
+    <keyword>waveguide</keyword>
+    <keyword>measurements</keyword>
+    <keyword>component</keyword>
+    <keyword>transmission coefficient</keyword>
+    <keyword>transmission line</keyword>
+    <keyword>uniconductor waveguide</keyword>
+    <keyword>reflection coefficient</keyword>
+    <keyword>mode of propagation</keyword>
+    <keyword>electric field strength</keyword>
+    <keyword>electromagnic</keyword>
+    <abstract>This standard is concerned with measurements of the quantities which characterize a waveguide or waveguide component and the associated electromagnetic fields. The term "waveguide" as used here, is a generic term which includes transmission lines and uniconductor waveguides as special cased. The measurement are described in general terms. For the specif details of procedure and equipment, the reader is directed to numerous references which form an indispensable part of the standard.</abstract>
+  </front>
+</reference>

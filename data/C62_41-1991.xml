@@ -1,0 +1,29 @@
+<reference anchor="IEEE.C62.41-1991" target="https://ieeexplore.ieee.org/document/159123">
+  <front>
+    <title>IEEE Recommended Practice for Surge Voltages in Low-Voltage AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101029"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Standards</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Wave shape</keyword>
+    <keyword>Voltage tests</keyword>
+    <keyword>Test waveforms</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Surge voltages</keyword>
+    <keyword>Surge test waveforms</keyword>
+    <keyword>Surge monitoring</keyword>
+    <keyword>Current tests</keyword>
+    <keyword>AC power circuits</keyword>
+    <abstract>A practical basis is provided for the selection of voltage and current tests to be applied in evaluating the surge withstand capability of equipment connected to utility power circuits, primarily in residential, commercial, and light industrial applications. The recommended practice covers the origin of surge voltages, rate of occurrence and voltage levels in unprotected circuits, waveshapes of representative surge voltages, energy and source and impedance. Three locations categories are defined according to their relative position from the building service entrance. For each category, representative waveforms of surge voltages and surge currents are described, organized in two recommended standard waveforms and three suggested additional waveforms.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P802.15.8/D4, Apr 2017" target="https://ieeexplore.ieee.org/document/7898356">
+  <front>
+    <title>IEEE Draft Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Peer Aware Communications (PAC)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="April" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Distributed processing</keyword>
+    <keyword>Device-to-device communication</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Pysical layer</keyword>
+    <keyword>D2D</keyword>
+    <keyword>device-to-device communications</keyword>
+    <keyword>distributed network synchronization</keyword>
+    <keyword>group communications</keyword>
+    <keyword>IEEE 802.15.8(TM)</keyword>
+    <keyword>infrastructure-less</keyword>
+    <keyword>peer aware communications</keyword>
+    <abstract>Physical layer (PHY) and medium access control (MAC) mechanisms are defined in this standard for wireless personal area networks (WPANs) peer aware communications (PAC) optimized for peer-to-peer and infrastructure-less communications with fully distributed coordination. PAC features include discovery for peer information without association, discovery signaling rate typically greater than 100 kb/s, discovery of the number of devices in the network, scalable data transmission rates typically up to 10 Mb/s, group communications with simultaneous membership in multiple groups typically up to 10, relative positioning, security, and operation in selected globally available unlicensed/licensed bands below 11 GHz capable of supporting these requirements.</abstract>
+  </front>
+</reference>

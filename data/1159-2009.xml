@@ -1,0 +1,37 @@
+<reference anchor="IEEE.1159-2009" target="https://ieeexplore.ieee.org/document/5154067">
+  <front>
+    <title>IEEE Recommended Practice for Monitoring Electric Power Quality</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5154067"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="August" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Electromagnetics</keyword>
+    <keyword>Power quality</keyword>
+    <keyword>1159-2009</keyword>
+    <keyword>assessment</keyword>
+    <keyword>compatibility</keyword>
+    <keyword>dip</keyword>
+    <keyword>distortion</keyword>
+    <keyword>electromagnetic phenomena</keyword>
+    <keyword>harmonics</keyword>
+    <keyword>imbalance</keyword>
+    <keyword>instruments</keyword>
+    <keyword>monitoring</keyword>
+    <keyword>power quality</keyword>
+    <keyword>rms variation</keyword>
+    <keyword>sag</keyword>
+    <keyword>swell</keyword>
+    <keyword>transient</keyword>
+    <keyword>unbalance</keyword>
+    <abstract>This recommended practice encompasses the monitoring of electrical characteristics of single-phase and polyphase ac power systems. It includes consistent descriptions of conducted electromagnetic phenomena occurring on power systems. This recommended practice describes nominal conditions and deviations from these nominal conditions that may originate within the source of supply or load equipment or may originate from interactions between the source and the load. Also, this recommended practice discusses power quality monitoring devices, application techniques, and the interpretation of monitoring results.</abstract>
+  </front>
+</reference>

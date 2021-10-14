@@ -1,0 +1,19 @@
+<reference anchor="IEEE.301-1976" target="https://ieeexplore.ieee.org/document/20994">
+  <front>
+    <title>IEEE Standard Test Procedures for Amplifiers and Preamplifiers for Semi- Conductor Radiation Detectors for Ionizing Radiation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.120672"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="February" day="11"/>
+    <keyword>Semiconductor radiation detectors</keyword>
+    <keyword>Semiconductor device testing</keyword>
+    <keyword>Standards</keyword>
+    <keyword>amplifiers</keyword>
+    <keyword>preamplifiers</keyword>
+    <keyword>radiation detectors</keyword>
+    <keyword>ionizing ratiation</keyword>
+    <keyword>semiconductor</keyword>
+    <abstract>This standard provides standard test procedures for amplifiers and preamplifiers for semiconductor detectors for ionizing radiation. It supersedes the previous edition, IEEE Std 301-1969 (ANSI N42.2-1969). The standard has been modified and refined based on the experience gained in using the earlier edition over a six-year period and taking into account advances in the technology. Improvements in preamplifier noise characteristics and pulse shaping techniques as well as increased utilization of integral detector-preamplifier assemblies have occurred in recent years.</abstract>
+  </front>
+</reference>

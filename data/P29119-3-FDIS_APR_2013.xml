@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P29119-3-FDIS, Apr 2013" target="https://ieeexplore.ieee.org/document/6512508">
+  <front>
+    <title>IEEE Draft Standard for Software and Systems Engineering--Software Testing--Part 3: Test Documentation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software testing</keyword>
+    <abstract>This standard covers software test documentation templates and content for use by any organization and/or project. It defines the use and contents of software test documentation used throughout the defined multi-layer test process. Test documentation is identified for the three layers of the test process: Organizational Test Process; Test Management Processes; Dynamic Test Processes.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IEEE.896.1-1987" target="https://ieeexplore.ieee.org/document/35051">
+  <front>
+    <title>IEEE Standard Backplane Bus Specifications for Multiprocessor Architectures: Futurebus+(R)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.86186"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="April" day="8"/>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Multiprocessing</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Futurebus</keyword>
+    <keyword>backplane bus specifications</keyword>
+    <abstract>This document provides a level of specification sufficient to design modules that are functionally, operationally, electrically, and mechanically compatible. Additional documents are necessary only to promote a higher degree of system level compatibility in manufacturers’ products.</abstract>
+  </front>
+</reference>

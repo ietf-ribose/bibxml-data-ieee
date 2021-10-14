@@ -1,0 +1,28 @@
+<reference anchor="IEEE.3003.2-2014" target="https://ieeexplore.ieee.org/document/6917192">
+  <front>
+    <title>IEEE Recommended Practice for Equipment Grounding and Bonding in Industrial and Commercial PowerSystems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6917192"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="October" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Industrial power systems</keyword>
+    <keyword>Industrial plants</keyword>
+    <keyword>Electrodes</keyword>
+    <keyword>Bonding</keyword>
+    <keyword>bond</keyword>
+    <keyword>electrode</keyword>
+    <keyword>ground</keyword>
+    <keyword>grounded</keyword>
+    <keyword>grounding</keyword>
+    <keyword>IEEE 3003.2(TM)</keyword>
+    <abstract>The grounding and bonding of equipment in industrial and commercial power systems is covered in this recommended practice. The interconnection and grounding of the non-electrical metallic elements of a system is covered first. This is followed by a discussion of the objectives of equipment grounding and bonding, including minimizing electric shock hazard to personnel, providing adequate current carrying capability for ground faults, and ensuring the timely operation of overcurrent protection.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,38 @@
+<reference anchor="IEEE.8802-1BR-2016" target="https://ieeexplore.ieee.org/document/7731260">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 1BR: Virtual bridged local area networks -- Bridge port extension</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7731260"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Virtual networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Data centers</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>Data Center Bridging</keyword>
+    <keyword>DCB</keyword>
+    <keyword>Edge Virtual Bridging</keyword>
+    <keyword>EVB</keyword>
+    <keyword>IEEE 802.1BR</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <abstract>This standard specifies the operation of Bridge Port Extenders, including management, protocols, and algorithms. Bridge Port Extenders operate in support of the MAC Service by Extended Bridges.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IEEE.1181-1991" target="https://ieeexplore.ieee.org/document/159391">
+  <front>
+    <title>IEEE Recommended Practice for Latchup Test Methods for CMOS and BiCMOS Integrated-Circuit Process Characterization</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101074"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>BIMOS integrated circuits</keyword>
+    <keyword>CMOS integrated circuits</keyword>
+    <keyword>Integrated circuit testing</keyword>
+    <abstract>Recommendations are provided for the layout and test methods required to characterize properly latchup behavior in CMOS and BiCMOS integrated circuit processes or other processes that have similar lateral PNPN topographical layout characteristics. The aim is to allow the characterization of an integrated circuit process architecture so that different approaches can be scientifically compared. This allows the evaluation of the process capabilities on a 'worst-case' recommended structure and test method independent of actual integrated circuit product topographical latchup layout practices. Test structures and test philosophy are covered.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

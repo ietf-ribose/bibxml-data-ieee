@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P3006.8/D6, Jul 2018" target="https://ieeexplore.ieee.org/document/8403241">
+  <front>
+    <title>IEEE Approved Draft Recommended Practice for Analyzing Reliability Data for Equipment Used in Industrial and Commercial Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="July" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Industrial power systems</keyword>
+    <keyword>Failure analysis</keyword>
+    <keyword>Timing analysis</keyword>
+    <keyword>Reliability Data</keyword>
+    <keyword>IEEE 3006.8</keyword>
+    <keyword>Reliability Analysis</keyword>
+    <keyword>Availability</keyword>
+    <keyword>Mean Time Between Failures (MTBF)</keyword>
+    <keyword>Mean Time to Repair (MTTR)</keyword>
+    <keyword>Mean Time to Maintain (MTTM)</keyword>
+    <keyword>Mean Down Time (MDT).</keyword>
+    <abstract>This recommended practice describes data supporting the reliability evaluation of existing industrial and commercial power systems. It is likely to be of greatest value to the power-oriented engineer with limited experience in the area of reliability. It can also be an aid to all engineers responsible for the electrical design of industrial and commercial power systems.</abstract>
+  </front>
+</reference>

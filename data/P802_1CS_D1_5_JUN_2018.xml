@@ -1,0 +1,35 @@
+<reference anchor="IEEE.P802.1CS/D1.5, Jun 2018" target="https://ieeexplore.ieee.org/document/8443461">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Link-local Registration Protocol</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="August" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Timing analysis</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>Bridging</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802&amp;#174;</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.1CS&amp;#8482;</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>Link-local Registration Protocol</keyword>
+    <keyword>LRP.</keyword>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1476-2000" target="https://ieeexplore.ieee.org/document/842120">
+  <front>
+    <title>IEEE Standard for Passenger Train Auxiliary Power Systems Interfaces</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91315"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="14"/>
+    <keyword>Rail transportation</keyword>
+    <keyword>auxiliary power systems</keyword>
+    <keyword>battery charger</keyword>
+    <keyword>intermediate-voltage power supply</keyword>
+    <keyword>low-voltage power supply batteries</keyword>
+    <keyword>nickel-cadmium batteries</keyword>
+    <keyword>rail-transit vehicles</keyword>
+    <keyword>static inverters and converters</keyword>
+    <abstract>The electrical interfaces among the components comprising the auxiliary power systems and their electrical interface with other train-borne systems are described. As such, this standard treats the auxiliary power system components (e.g., static inverters and converters, low-voltage dc power supplies, back-up battery systems, and battery chargers) as black boxes and addresses only their interface requirements.</abstract>
+  </front>
+</reference>

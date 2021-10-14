@@ -1,0 +1,27 @@
+<reference anchor="IEEE.C37.97-1979" target="https://ieeexplore.ieee.org/document/30628">
+  <front>
+    <title>IEEE Guide for Protective Relay Applications to Power System Buses</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.82356"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="January" day="16"/>
+    <keyword>Busbars</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Standards</keyword>
+    <keyword>guide</keyword>
+    <keyword>relay</keyword>
+    <keyword>applications</keyword>
+    <keyword>power</keyword>
+    <keyword>system</keyword>
+    <keyword>Protective relaying</keyword>
+    <abstract>The effective application of relays for protection of power system electrical buses is addressed. Common bus arrangements and some special arrangements used in the United States are covered; not all bus protection systems or all possible bus arrangements are included. Factors that determine the need and type of bus protection, and basic principles of bus protection operation are discussed. Relay input sources are covered. Bus protection systems and common bus arrangements with relay input sources are described. Also discussed are current transformer locations, wiring and grounding, location of the bus on the system, bus construction, problems associated with switching and bypassing, auxiliary tripping relays, reclosing of breakers after a bus differential operation, testing of bus differential relaying, and bus backup protection.</abstract>
+  </front>
+</reference>

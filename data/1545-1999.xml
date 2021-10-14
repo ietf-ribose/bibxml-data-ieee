@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1545-1999" target="https://ieeexplore.ieee.org/document/808839">
+  <front>
+    <title>IEEE Standard for Parametric Data Log Format</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90580"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>A language and file format for describing parametric test data is defined. Data types, data formats and file formats are included.</abstract>
+  </front>
+</reference>

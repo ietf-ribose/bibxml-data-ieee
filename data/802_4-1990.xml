@@ -1,0 +1,25 @@
+<reference anchor="IEEE.802.4-1990" target="https://ieeexplore.ieee.org/document/7229456">
+  <front>
+    <title>IEEE Standard for Information processing systems -- Local area networks --Part 4: Standard for Token-Passing Bus Access Method and Physical Layer Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.7229456"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="August" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Token passing</keyword>
+    <keyword>Information processing</keyword>
+    <keyword>LAN</keyword>
+    <keyword>token-passing</keyword>
+    <keyword>bus</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Local area networks</keyword>
+    <abstract>This local area network (LAN) standard deals with all elements of the token-passing bus access method and its associated physical signaling and media technologies. To facilitate interconnection of stations by way of a LAN using the token-passing bus access method, this standard specifies the characteristics of the transmission medium; the signaling method used; the frame formats transmitted; the actions of a station upon receipt of a frame; the services provided at the conceptual interface between the Medium Access Control (MAC) sublayer and the Logical Link Control (LLC) sublayer; and the actions, entities and values used by management. There are four medium characteristics and signaling methods: 5 and 10 Mb/s phase-coherent FSK; 1, 5, and 10 Mb/s broadband; 10 and 20 Mb/s fiberoptic; and 1 Mb/s phase-continuous FSK.</abstract>
+  </front>
+</reference>

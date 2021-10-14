@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1390.3-1999" target="https://ieeexplore.ieee.org/document/789955">
+  <front>
+    <title>IEEE Standard for Automatic Meter Reading Via Telephone</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90069"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>The telephone network interface to a utility controller operating under the utility telemetry service architecture is described. The interface is described in terms of a utility meter reading application but any enhanced service provider communication can be transported. Telemetry calls may be initiated by either the utility/service provider (outbound) or the telemetry interface unit (TIU)/CPE (inbound) on the end user's premises.</abstract>
+  </front>
+</reference>

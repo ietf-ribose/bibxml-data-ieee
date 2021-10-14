@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P1028_Draft7.0, Feb 2008" target="https://ieeexplore.ieee.org/document/4468777">
+  <front>
+    <title>IEEE Draft Standard for Software Reviews and Audits (Revison of IEEE 1028-1997)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard defines five types of software reviews and audits, together with procedures required for the execution of each type. This standard is concerned only with the reviews and audits; it does not define procedures for determining the necessity of a review or audit, nor does it specify the disposition of the results of the review or audit. Types include management reviews, technical reviews, inspections, walk-throughs, and audits.</abstract>
+  </front>
+</reference>

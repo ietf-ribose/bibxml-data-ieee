@@ -1,0 +1,33 @@
+<reference anchor="IEEE.1003.26-2003" target="https://ieeexplore.ieee.org/document/1335284">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94610"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Portable computing</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>API</keyword>
+    <keyword>application portability</keyword>
+    <keyword>C (programming language)</keyword>
+    <keyword>data processing</keyword>
+    <keyword>information interchange</keyword>
+    <keyword>open systems</keyword>
+    <keyword>operating system</keyword>
+    <keyword>portable application</keyword>
+    <keyword>POSIX</keyword>
+    <keyword>programming language</keyword>
+    <keyword>realtime</keyword>
+    <keyword>device drivers</keyword>
+    <abstract>This standard is part of the POSIX series of standards. It defines an application program interface for controlling device drivers. Although it is based on the widely used ioctl() system call, the interface is type-safe and has a fixed number of parameters.</abstract>
+  </front>
+</reference>

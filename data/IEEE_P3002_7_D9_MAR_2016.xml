@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE P3002.7/D9, Mar 2016" target="https://ieeexplore.ieee.org/document/7431906">
+  <front>
+    <title>IEEE Recommended Practice for Conducting Motor-Starting Studies in Industrial and Commercial Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Synchronous motors</keyword>
+    <keyword>Permanent magnet motors</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Induction motors</keyword>
+    <keyword>adjustable speed drive</keyword>
+    <keyword>dynamic motor starting</keyword>
+    <keyword>IEEE 3002.7</keyword>
+    <keyword>motor acceleration</keyword>
+    <keyword>motor protection</keyword>
+    <keyword>motor reacceleration</keyword>
+    <keyword>motor starting</keyword>
+    <keyword>reduced-voltage starters</keyword>
+    <keyword>soft-starters</keyword>
+    <keyword>static motor starting</keyword>
+    <keyword>variable frequency drive</keyword>
+    <keyword>voltage flicker</keyword>
+    <abstract>Activities related to motor-starting studies, including design considerations for new systems, analytical studies for existing systems, as well as operational and model-validation considerations for industrial and commercial power systems are described. Motor-starting analysis includes evaluation of motor-starting current and voltage drop. Accuracy of calculation results primarily relies on system modeling assumptions and methods used. The use of computer-aided analysis software, with a list of desirable capabilities recommended to conduct a modern motor-starting study, is emphasized. Examples of system data requirements and result-analysis techniques are presented. Benefits obtained from motor-starting studies are discussed, and various types of computer-aided motor-starting studies are examined. Data or information required for these studies, as well as the expected results of a motor-starting study effort, are also reviewed.</abstract>
+  </front>
+</reference>

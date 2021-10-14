@@ -1,0 +1,34 @@
+<reference anchor="IEEE.802.1j-1996" target="https://ieeexplore.ieee.org/document/588341">
+  <front>
+    <title>Supplement to Information technology-Telecommunications and information exchange between systems- Local area networks-Media access control (MAC) bridges: Managed objects for MAC bridges</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82409"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>802.1D</keyword>
+    <keyword>MAC</keyword>
+    <keyword>data processing</keyword>
+    <keyword>layer managed objects</keyword>
+    <keyword>layer management</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>managed objects</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MAN</keyword>
+    <keyword>network interconnection</keyword>
+    <abstract>Managed object classes and their components that permit remote management of ISO/IEC 10038-conformant MAC bridges by means of suitable management protocols, including the services and protocols defined in ISO/IEC 15802-2: 1995, LAN/MAN Management; and those defined in ISO/IEC 9595: 1991, CMIS; and ISO/IEC 9596-1: 1991, CMIP; are defined. The managed object definitions are documented in the notation defined in ISO/IEC 10165-4: 1992, GDMO.</abstract>
+  </front>
+</reference>

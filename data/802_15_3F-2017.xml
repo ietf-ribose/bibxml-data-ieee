@@ -1,0 +1,27 @@
+<reference anchor="IEEE.802.15.3f-2017" target="https://ieeexplore.ieee.org/document/8245939">
+  <front>
+    <title>IEEE Standard for High Data Rate Wireless Multi-Media Networks Amendment 3: Extending the Physical Layer (PHY) Specification for Millimeter Wave to Operate from 57.0 GHz to 71 GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8245939"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="January" day="3"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Millimeterwave communication</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>60 GHz</keyword>
+    <keyword>IEEE P802.15.3(TM)</keyword>
+    <keyword>millimeter wave</keyword>
+    <keyword>wireless</keyword>
+    <abstract>Extend the RF channelization of the millimeter wave PHY to allow for use of the spectrum up to 71 GHz.</abstract>
+  </front>
+</reference>

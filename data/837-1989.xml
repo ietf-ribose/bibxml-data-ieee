@@ -1,0 +1,20 @@
+<reference anchor="IEEE.837-1989" target="https://ieeexplore.ieee.org/document/89617">
+  <front>
+    <title>IEEE Standard for Qualifying Permanent Connections Used in Substation Grounding</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94578"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="12"/>
+    <keyword>Grounding</keyword>
+    <keyword>Connectors</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Testing</keyword>
+    <keyword>permanent connection</keyword>
+    <keyword>substation grounding</keyword>
+    <keyword>Power distribution testing</keyword>
+    <keyword>Connectors</keyword>
+    <abstract>Directions and methods for qualifying permanent connections used for substation grounding are provided. Particular attention is given to the connectors used within the grid system, connectors used to join ground leads to the grid system, and connectors used to join the ground leads to equipment and structures. The purpose is to give assurance to the user that connectors meeting the requirements of this standard will perform in a satisfactory manner over the lifetime of the installation provided, that the proper connectors are selected for the application and that they are installed correctly. Parameters for testing grounding connections on aluminum, copper, steel, copper-clad steel, galvanized steel, stainless steel, and stainless-clad steel are addressed. Performance criteria are established, test procedures are provided, and mechanical, current--temperature cycling, freeze--thaw, corrosion, and fault-current tests are specified.</abstract>
+  </front>
+</reference>

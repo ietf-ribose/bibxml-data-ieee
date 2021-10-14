@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C63.12-1987" target="https://ieeexplore.ieee.org/document/27758">
+  <front>
+    <title>American National Standard for Electromagnetic Compatibility Limits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.80998"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Electromagnetic measurements</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <abstract>A suggested set of limits that may find general application is set forth. A rationale for developing limits is presented, and a set of limits that are representative of current practice is recommended. Environmental radio noise and the selection of measurement parameters are described. The measurement of amplitude distribution, the measurement set envelope amplitude distribution, and the amplitude probability distribution are discussed in the appendixes.</abstract>
+  </front>
+</reference>

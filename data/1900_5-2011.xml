@@ -1,0 +1,26 @@
+<reference anchor="IEEE.1900.5-2011" target="https://ieeexplore.ieee.org/document/6132379">
+  <front>
+    <title>IEEE Standard for Policy Language Requirements and System Architectures for Dynamic Spectrum Access Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6132379"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="9"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Network architecture</keyword>
+    <keyword>Radio spectrum management</keyword>
+    <keyword>DSA</keyword>
+    <keyword>DSA architecture</keyword>
+    <keyword>DySPAN</keyword>
+    <keyword>IEEE 1900.5</keyword>
+    <keyword>policy language</keyword>
+    <keyword>policy-based DSA radio systems</keyword>
+    <abstract>This standard defines a vendor-independent set of policy-based control architectures and corresponding policy language requirements for managing the functionality and behavior of dynamic spectrum access networks.</abstract>
+  </front>
+</reference>

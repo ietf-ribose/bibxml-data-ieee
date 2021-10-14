@@ -1,0 +1,21 @@
+<reference anchor="IEEE.1110-1991" target="https://ieeexplore.ieee.org/document/159388">
+  <front>
+    <title>IEEE Guide for Synchronous Generator Modeling Practices in Stability Analyses</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101073"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Power systems</keyword>
+    <keyword>Stability</keyword>
+    <keyword>Synchronous generators</keyword>
+    <keyword>models</keyword>
+    <keyword>application</keyword>
+    <keyword>analyses</keyword>
+    <keyword>Synchronous generator stability</keyword>
+    <keyword>Stability data determination</keyword>
+    <keyword>Saturation practices</keyword>
+    <keyword>Modeling practices</keyword>
+    <abstract>Superseded by 1110-2002. Three direct-axis and four quadrature-axis models are categorized, along with the basic transient reactance model. Some of the assumptions made in using various models, including the basic model, are discussed, and the fundamental equations and concepts involved in generator/system interfacing are presented. The various attributes of power system stability are covered in a general way, with two basic approaches being recognized. The first is categorized under large-disturbance nonlinear analysis. The second approach considers small disturbances, where the corresponding dynamic equations are linearized. Applications of a range of generator models are discussed and treated. The manner in which generator saturation is treated in stability studies, both in the initialization process, as well as during large or small disturbance stability analysis procedures is addressed. Saturation functions that are derived either from test data or by the methods of finite elements are developed. Different saturation algorithms for calculating values of excitation and internal power angle, depending upon generator terminal conditions, are compared. The question of parameter determination is thoroughly covered. Two approaches in accounting for generator field and excitation system base quantities are identified. Conversion factors are given for transferring field parameters from one base to another for correct generator/excitation system interface modeling. Suggestions for modeling of negative field currents and other field circuit discontinuities are included.</abstract>
+  </front>
+</reference>

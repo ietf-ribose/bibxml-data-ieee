@@ -1,0 +1,30 @@
+<reference anchor="IEEE.802.3cv-2021" target="https://ieeexplore.ieee.org/document/9444264">
+  <front>
+    <title>IEEE Standard for Ethernet Amendment 12: Maintenance #15: Power over Ethernet</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9444264"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>amendment</keyword>
+    <keyword>DTE power via MDI</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>IEEE 802.3&amp;#8482;</keyword>
+    <keyword>IEEE 802.3bt&amp;#8482;</keyword>
+    <keyword>PoE</keyword>
+    <keyword>Power over Ethernet</keyword>
+    <abstract>This amendment implements editorial and technical corrections, refinements, and clarifications to Clause 145, Power over Ethernet, and related portions of the standard. No new features are added by this amendment.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,41 @@
+<reference anchor="IEEE.8802-1AE:2013/Amd.1-2015" target="https://ieeexplore.ieee.org/document/7457584">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Part 1AE: Media access control (MAC) security</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7457584"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="April" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area netowrks</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Bridged circuits</keyword>
+    <keyword>Media access protocol</keyword>
+    <keyword>Data analysis</keyword>
+    <keyword>authenticity</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin integrity</keyword>
+    <keyword>IEEE 802.1AEbn</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.</abstract>
+  </front>
+</reference>

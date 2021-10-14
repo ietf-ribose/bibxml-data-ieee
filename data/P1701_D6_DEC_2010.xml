@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P1701/D6, Dec 2010" target="https://ieeexplore.ieee.org/document/5668472">
+  <front>
+    <title>IEEE Draft Standard for Optical Port Communication Protocol to Complement the Utility Industry End Device Data Tables</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Optical devices</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>ANSI C12.18</keyword>
+    <keyword>Optical Port</keyword>
+    <keyword>ANSI Type II</keyword>
+    <keyword>PSEM</keyword>
+    <abstract>This standard provides multi-source and "plug and play" environment for the millions of metering devices in the field now and the future using the ANSI Type optical port interface. It solves the problems associated with single source systems and with multi-source systems based upon proprietary communications protocols. Electric, Water, and Gas Utilities and corresponding vendors can realize cost savings which ultimately shall benefit the client consumers of the Utilities.</abstract>
+  </front>
+</reference>

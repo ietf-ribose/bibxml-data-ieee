@@ -1,0 +1,36 @@
+<reference anchor="IEEE.1620-2008" target="https://ieeexplore.ieee.org/document/4696034">
+  <front>
+    <title>IEEE Standard for Test Methods for the Characterization of Organic Transistors and Materials</title>
+    <seriesInfo name="DOI" value="10.1109/IEEEStd.2008.4696034"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="30"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Transistors</keyword>
+    <keyword>Printing</keyword>
+    <keyword>Measurement uncertainty</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Organic electronics</keyword>
+    <keyword>1620-2008</keyword>
+    <keyword>electrical characterization</keyword>
+    <keyword>FET</keyword>
+    <keyword>flexible electronics</keyword>
+    <keyword>high impedance</keyword>
+    <keyword>nanocomposite</keyword>
+    <keyword>nanotechnology</keyword>
+    <keyword>OFET</keyword>
+    <keyword>organic electronics</keyword>
+    <keyword>organic transistor</keyword>
+    <keyword>printed electronics</keyword>
+    <keyword>printing</keyword>
+    <keyword>transistor</keyword>
+    <abstract>Recommended methods and standardized reporting practices for electrical characterization of printed and organic transistors are covered. Due to the nature of printed and organic electronics, significant measurement errors can be introduced if the electrical characterization design-of-experiment is not properly addressed. This standard describes the most common sources of measurement error, particularly for high-impedance electrical measurements commonly required for printed and organic transistors. This standard also gives recommended practices in order to minimize and/or characterize the effect of measurement artifacts and other sources of error encountered while measuring printed and organic transistors.</abstract>
+  </front>
+</reference>

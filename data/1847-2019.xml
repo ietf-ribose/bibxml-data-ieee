@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1847-2019" target="https://ieeexplore.ieee.org/document/8995820">
+  <front>
+    <title>IEEE Recommended Practice for Common Framework of Location Services for Healthcare</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.8995820"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Location awareness</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>conceptual model</keyword>
+    <keyword>healthcare</keyword>
+    <keyword>IEEE 1847</keyword>
+    <keyword>Location Services</keyword>
+    <abstract>A common framework of Location Services for Healthcare (LS-H) is contained in this recommended practice. The framework includes LS-H conceptual information model and LS-H common terminology.</abstract>
+  </front>
+</reference>

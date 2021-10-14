@@ -1,0 +1,30 @@
+<reference anchor="IEEE.1588-2019" target="https://ieeexplore.ieee.org/document/9120376">
+  <front>
+    <title>IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9120376"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="June" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Clocks</keyword>
+    <keyword>Security</keyword>
+    <keyword>Boundary Clock</keyword>
+    <keyword>clock</keyword>
+    <keyword>Grandmaster Clock</keyword>
+    <keyword>IEEE 1588</keyword>
+    <keyword>management</keyword>
+    <keyword>Ordinary Clock</keyword>
+    <keyword>security</keyword>
+    <keyword>synchronization</keyword>
+    <keyword>Transparent Clock</keyword>
+    <abstract>In this standard, a protocol is defined that provides precise synchronization of clocks in packet-based networked systems. Synchronization of clocks can be achieved in heterogeneous systems that include clocks of different inherent precision, resolution, and stability. The protocol supports synchronization accuracy and precision in the sub-microsecond range with minimal network and local computing resources. Customization is supported by means of profiles. The protocol includes default profiles that permit simple systems to be installed and operated without the need for user management. Sub-nanosecond time transfer accuracy can be achieved in a properly designed network.</abstract>
+  </front>
+</reference>

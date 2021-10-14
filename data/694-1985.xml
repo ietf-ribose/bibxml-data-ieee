@@ -1,0 +1,18 @@
+<reference anchor="IEEE.694-1985" target="https://ieeexplore.ieee.org/document/29141">
+  <front>
+    <title>IEEE Standard for Microprocessor Assembly Language</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81632"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Computer languages</keyword>
+    <keyword>Computer instructions</keyword>
+    <keyword>Standards</keyword>
+    <abstract>The intent of this standard is to name a common set of instructions used by most general purpose microprocessors, to provide rules for the naming of new instructions and the derivation of new mnemonics, and to establish assembly language conventions and syntax. It is intended to be used as a basis for microprocessor assembler specification. This standard sets forth the functional definitions and corresponding mnemonics for microprocessor instructions. The specific set of instructions differs for each type of processor. Likewise, the number of condition codes and their setting and resetting is processor-dependent, and is not prescribed by this standard. Each use of a particular microprocessor should be thoroughly conversant with its operation and should make no a priori assumptions with regard to the detailed behavior of its instructions.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="IEEE.11073-10441-2013" target="https://ieeexplore.ieee.org/document/6491411">
+  <front>
+    <title>Health Informatic--Personal health device communication Part 10441: Device specialization--Cardiovascular fitness and activity monitor</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6491411"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="April" day="1"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Medical services</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Health information management</keyword>
+    <keyword>Cardiovascular system</keyword>
+    <keyword>activity monitor</keyword>
+    <keyword>cardiovascular fitness</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication between personal telehealth cardiovascular fitness and activity monitor devices and managers (e.g., cell phones, personal computers, personal health appliances, and set top boxes) is established in this standard in a manner that enables plug-and-play interoperability. Appropriate portions of existing standards are leveraged including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability is specified. A common core of communication functionality for personal telehealth cardiovascular fitness and activity monitor devices is defined in this standard.</abstract>
+  </front>
+</reference>

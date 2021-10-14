@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P29119-5-DIS2-1504" target="https://ieeexplore.ieee.org/document/7526262">
+  <front>
+    <title>ISO/IEC/IEEE Draft International Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="July" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Taxonomy</keyword>
+    <abstract>The requirements in ISO/IEC/IEEE 29119-5 are contained in clauses 7 to 8 and in Annex A. This standard provides requirements for the application of Keyword-Driven Testing and on frameworks supporting the application of Keyword-Driven Testing. It is recognized that particular projects or organizations may not need to use all of the practices defined by this standard. Therefore, implementation of this standard typically involves selecting a set of practices or information attributes suitable for the organization or project. There are two ways that an organization can claim to conform to the provisions of this standard.</abstract>
+  </front>
+</reference>

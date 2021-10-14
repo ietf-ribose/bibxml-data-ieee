@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1499-1998" target="https://ieeexplore.ieee.org/document/806064">
+  <front>
+    <title>IEEE Standard Interface for Hardware Description Models of Electronic Components</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90577"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>The standard interface for hardware description models of electronic components is defined. The primary audiences of this standard are model developers and implementers of software supporting this interface.</abstract>
+  </front>
+</reference>

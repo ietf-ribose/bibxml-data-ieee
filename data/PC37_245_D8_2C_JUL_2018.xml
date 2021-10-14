@@ -1,0 +1,37 @@
+<reference anchor="IEEE.PC37.245/D8.2c, Jul 2018" target="https://ieeexplore.ieee.org/document/8412377">
+  <front>
+    <title>IEEE Draft Guide for the Application of Protective Relaying for Phase Shifting Transformers</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="July" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Phase shifters</keyword>
+    <keyword>advance phase angle</keyword>
+    <keyword>application of multifunction relays for transformer protection</keyword>
+    <keyword>CT saturation</keyword>
+    <keyword>current transformers</keyword>
+    <keyword>differential protection</keyword>
+    <keyword>dual-core design</keyword>
+    <keyword>IEEE C37.245</keyword>
+    <keyword>overcurrent protection</keyword>
+    <keyword>phase-shifting transformer</keyword>
+    <keyword>power transfer</keyword>
+    <keyword>protection of transformers</keyword>
+    <keyword>retard phase angle</keyword>
+    <keyword>series transformer</keyword>
+    <keyword>single-core design</keyword>
+    <abstract>Protection methods for different types of phase shifting transformers (PST) are provided in this guide, and the interaction between protection and operating conditions of PSTs is discussed. Models representing PSTs to determine short circuit currents for relaying functions are presented. Sizing and location issues of protection current transformers employed in the protection of PSTs are included. Examples of appropriate relay applications and settings are provided.</abstract>
+  </front>
+</reference>

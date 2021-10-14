@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P1857.7/D3, Jul 2018" target="https://ieeexplore.ieee.org/document/8419801">
+  <front>
+    <title>IEEE Approved Draft Standard for Adaptive Streaming</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="July" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Media streaming</keyword>
+    <keyword>Content management</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Adaptive systems</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Video on demand</keyword>
+    <keyword>Adaptive streaming</keyword>
+    <keyword>Media presentation</keyword>
+    <keyword>Media presentation description</keyword>
+    <keyword>Segment</keyword>
+    <keyword>Content security</keyword>
+    <keyword>multi-stream</keyword>
+    <keyword>Ownership</keyword>
+    <abstract>This standard specifies the media presentation description format and media segment format for dynamic and adaptive streaming over networks such as HTTP. Particularly, the specified formats support multi-stream synchronization, content protection, and content authentication. The target applications and services include but not limited to Internet media streaming, IPTV, and video-on-demand.</abstract>
+  </front>
+</reference>

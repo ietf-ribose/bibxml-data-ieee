@@ -1,0 +1,22 @@
+<reference anchor="IEEE.C37.96-1988" target="https://ieeexplore.ieee.org/document/26496">
+  <front>
+    <title>IEEE Guide for AC Motor Protection</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.122655"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="30"/>
+    <keyword>AC motors</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>relay protection</keyword>
+    <keyword>AC</keyword>
+    <keyword>motor protection</keyword>
+    <abstract>Guidance in applying relay protection to squirrel-cage and wound-rotor induction motors and synchronous motors is provided. The generally accepted forms of motor protection are reviewed, and the use of relays and devices, singly and in combination, is summarized so that the user can select the necessary equipment to obtain adequate motor protection. This guide is concerned primarily with the protection of three-phase integral horsepower motors and variable-speed motors where specifically indicated. It does not detail the protective requirements of all motors in every situation. The recommendations are of a general nature, designed to cover the usual or typical motor installations.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.643-2004" target="https://ieeexplore.ieee.org/document/1490126">
+  <front>
+    <title>IEEE Guide for Power-Line Carrier Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96284"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="29"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Uniform resource locators</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>carrier equipment</keyword>
+    <keyword>intrabundle conductor systems</keyword>
+    <keyword>insulated shield-wire systems</keyword>
+    <keyword>power-line carrier</keyword>
+    <keyword>power transmission lines</keyword>
+    <abstract>The purpose of this guide is to provide application information to users of carrier equipment as applied on power transmission lines. Since the major applications of the power-line carrier (PLC) is for protective relaying, special consideration for these applications has been included. Information related to the expanding usage of carriers on distribution lines below 69 W is not specifically covered. Detailed equipment design information is avoided as this is primarily the concern of equipment manufacturers</abstract>
+  </front>
+</reference>

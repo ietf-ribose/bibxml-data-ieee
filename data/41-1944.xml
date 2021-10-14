@@ -1,0 +1,23 @@
+<reference anchor="IEEE.41-1944" target="https://ieeexplore.ieee.org/document/7415884">
+  <front>
+    <title>AIEE Insulator Tests</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1944.7415884"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="22"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Insulators</keyword>
+    <keyword>Discharges (electric)</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Electrodes</keyword>
+    <keyword>Testing</keyword>
+    <abstract>These standards comprise a manual of test procedures to be followed in making tests to determine the characteristics of insulators to be used on electric power systems. They are not intended to include test procedure for apparatus bushings. Since these standards are not intended to be insulator specifications, the individual tests may be made a part of an insulator specification only when specifically designated in contract specifications. In all cases where these standards include high voltage measurements, the methods, equipment, and technique shall be in accordance with American Standards for Measurement of Test Voltage in Dielectric Tests, C68.1-1942 or latest revision thereof.</abstract>
+  </front>
+</reference>

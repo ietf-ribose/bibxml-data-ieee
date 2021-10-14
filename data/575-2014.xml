@@ -1,0 +1,42 @@
+<reference anchor="IEEE.575-2014" target="https://ieeexplore.ieee.org/document/6905681">
+  <front>
+    <title>IEEE Guide for Bonding Shields and Sheaths of Single-Conductor Power Cables Rated 5 kV through 500 kV</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6905681"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="19"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Bonding processes</keyword>
+    <keyword>Voltage distribution</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Sheath bonding</keyword>
+    <keyword>Current-voltage characteristics</keyword>
+    <keyword>Power distribution lines</keyword>
+    <keyword>bonding</keyword>
+    <keyword>cross bonding</keyword>
+    <keyword>distribution cable</keyword>
+    <keyword>grounding</keyword>
+    <keyword>high-voltage cable</keyword>
+    <keyword>IEEE 575(TM)</keyword>
+    <keyword>medium-voltage cable</keyword>
+    <keyword>power cable</keyword>
+    <keyword>sheath</keyword>
+    <keyword>sheath bonding</keyword>
+    <keyword>sheath voltage limiters</keyword>
+    <keyword>shield</keyword>
+    <keyword>shield bonding</keyword>
+    <keyword>shield voltage limiters</keyword>
+    <keyword>single-point bonding</keyword>
+    <keyword>special bonding</keyword>
+    <keyword>SVL</keyword>
+    <keyword>transmission cable</keyword>
+    <abstract>The most common shield/sheath-bonding systems now in use on medium through extra high-voltage (5 kV to 500 kV) single-conductor shielded power cables and the methods of calculating the corresponding shield/sheath voltages and currents, when the cables are operated as part of a three-phase system, with the neutral grounded directly or through an impedance, are described in this guide.</abstract>
+  </front>
+</reference>

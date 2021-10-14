@@ -1,0 +1,28 @@
+<reference anchor="IEEE.1818-2017" target="https://ieeexplore.ieee.org/document/8227045">
+  <front>
+    <title>IEEE Guide for the Design of Low-Voltage Auxiliary Systems for Electric Power Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8227045"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="December" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>ac system</keyword>
+    <keyword>auxiliary systems</keyword>
+    <keyword>battery</keyword>
+    <keyword>dc system</keyword>
+    <keyword>IEEE 1818</keyword>
+    <keyword>low voltage</keyword>
+    <keyword>station power</keyword>
+    <keyword>station service</keyword>
+    <abstract>Considered in this guide are the components of both the ac and dc systems and the provided guidelines and recommendations for designing the appropriate systems for the substation under consideration. This guide includes the low-voltage auxiliary systems from the source(s) to the distribution point(s). Reliability requirements and load characteristics are discussed and distribution methods are recommended.</abstract>
+  </front>
+</reference>

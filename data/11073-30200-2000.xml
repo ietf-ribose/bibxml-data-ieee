@@ -1,0 +1,32 @@
+<reference anchor="IEEE.11073-30200-2000" target="https://ieeexplore.ieee.org/document/1377857">
+  <front>
+    <title>ISO/IEEE Standard for Health informatics</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95600"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Patents</keyword>
+    <keyword>ISO</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>bedside</keyword>
+    <keyword>Infrared Data Association</keyword>
+    <keyword>IrDA</keyword>
+    <keyword>legacy device</keyword>
+    <keyword>medical device</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>MIB</keyword>
+    <keyword>patient</keyword>
+    <keyword>SNTP</keyword>
+    <abstract>This standard replaces IEEE Std 1073.3.2-2000. A connection-oriented transport profile and physical layer suitable for medical device communications in legacy devices is established. Communications services and protocols consistent with specifications of the Infrared Data Association are defined. These communication services and protocols are optimized for use in patient-connected badside medical devices.</abstract>
+  </front>
+</reference>

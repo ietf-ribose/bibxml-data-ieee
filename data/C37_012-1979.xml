@@ -1,0 +1,24 @@
+<reference anchor="IEEE.C37.012-1979" target="https://ieeexplore.ieee.org/document/7035261">
+  <front>
+    <title>IEEE Application Guide for Capacitance Current Switching for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7035261"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="February" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Current measurement</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Capacitance</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>current</keyword>
+    <keyword>switching</keyword>
+    <keyword>high-voltage</keyword>
+    <keyword>breakers</keyword>
+    <keyword>symmetrical</keyword>
+    <keyword>Circuit breakers</keyword>
+    <abstract>AC high-voltage circuit breakers rated in accordance with ANSI/IEEE C37.04-1979, Rating Structure for AC High-Voltage Circuit Breakers, and listed in ANSI C37.06-1979, Schedules of Preferred Ratings and Related Required Capabilities for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis, are covered. Considerations for capacitance-current switching applications include maximum voltage for application, frequency, capacitance current, interrupting time, transient overvoltage, open-wire transmission lines, capacitor banks, cables, switching through transformers, unusual circuits, effect of load, effect of reclosing, resistor thermal limitations, and the current pause method. Capacitance currents and recovery voltages under fault conditions are also addressed.</abstract>
+  </front>
+</reference>

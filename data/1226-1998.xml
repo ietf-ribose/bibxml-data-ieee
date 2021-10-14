@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1226-1998" target="https://ieeexplore.ieee.org/document/789959">
+  <front>
+    <title>IEEE Trial-Use Standard for a Broad Based Environment for Test (ABBET), Overview and Architecture</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90071"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>The overall concept of A Broad-Based Environment for Test (ABBET)/sup TM/ is defined, and mandatory requirements for implementation of ABBET are specified. The elements of ABBET and their interrelationships are described. Guidelines and requirements governing the elements of the ABBET set of IEEE standards and guides are established, and common terms to be used throughout the set are defined.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IEEE.P62271-111/PC37.60_D9" target="https://ieeexplore.ieee.org/document/6155565">
+  <front>
+    <title>IEEE/IEC Draft Standard for High-voltage switchgear and controlgear</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>Circuit faults</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Interrupters</keyword>
+    <abstract>This part of IEC 62271 applies to all overhead, pad mounted, dry vault and submersible single or multi-pole alternating current automatic circuit reclosers and fault interrupters for rated maximum voltages above 1000 V and up to 38 kV. Devices that require a dependent manual operation are not covered by this standard. In order to simplify this standard where possible, the term recloser/FI (reclosers/FIs) has been substituted for automatic circuit recloser or fault interrupter or both.</abstract>
+  </front>
+</reference>

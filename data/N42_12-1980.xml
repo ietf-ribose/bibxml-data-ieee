@@ -1,0 +1,23 @@
+<reference anchor="IEEE.N42.12-1980" target="https://ieeexplore.ieee.org/document/26645">
+  <front>
+    <title>American National Standard Calibration and Usage of Sodium Iodide Detector Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.79669"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="July" day="19"/>
+    <keyword>Calibration</keyword>
+    <keyword>Gamma-ray detectors</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Biomedical nuclear imaging</keyword>
+    <keyword>Scintillation detectors</keyword>
+    <keyword>Sodium compounds</keyword>
+    <abstract>Methods are established for performance testing, calibration, and use of sodium iodide detector systems for the measurement of gamma-ray emission rates of radionuclides, assay for radioactivity, and the determination of gamma-ray energies. Both energy calibration and efficiency calibration are covered. Three techniques are considered: total spectrum counting, which employs a system that counts all events above a low-energy threshold; single-channel analyzer counting, which employs a system with a counting window that establishes upper and lower energy boundaries; and multichannel analyzer counting, which employs a system utilizing multiple counting windows.</abstract>
+  </front>
+</reference>

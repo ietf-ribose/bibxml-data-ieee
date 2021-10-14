@@ -1,0 +1,23 @@
+<reference anchor="IEEE.738-2012" target="https://ieeexplore.ieee.org/document/6692858">
+  <front>
+    <title>IEEE Standard for Calculating the Current-Temperature Relationship of Bare Overhead Conductors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6692858"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="December" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Measurement</keyword>
+    <keyword>bare overhead lines</keyword>
+    <keyword>current-temperature relationship</keyword>
+    <keyword>IEEE 738(TM)</keyword>
+    <abstract>A method of calculating the current-temperature relationship of bare overhead lines, given the weather conditions, is presented. Along with a mathematical method, sources of the values to be used in the calculation are indicated. This standard does not undertake to list actual temperature-ampacity relationships for a large number of conductors nor does it recommend appropriately conservative weather conditions for the rating of overhead power lines. It does, however, provide a standard method for doing such calculations for both constant and variable conductor current and weather conditions.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.P802.1AX-Rev/D2.1, Aug 2019" target="https://ieeexplore.ieee.org/document/8820190">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Link Aggregation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="August" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Link aggregation</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Resilience</keyword>
+    <keyword>Aggregated Link</keyword>
+    <keyword>Aggregator</keyword>
+    <keyword>Distributed Resilient Network Interconnect</keyword>
+    <keyword>DRNI</keyword>
+    <keyword>interconnect</keyword>
+    <keyword>Link Aggregation</keyword>
+    <keyword>Link Aggregation Group</keyword>
+    <keyword>local area network</keyword>
+    <keyword>management</keyword>
+    <keyword>Network-Network Interface</keyword>
+    <keyword>NNI</keyword>
+    <abstract>Link Aggregation allows parallel point-to-point links to be used as if they were a single link and also supports the use of multiple links as a resilient load-sharing interconnect between multiple nodes in two separately administered networks. This standard defines a MAC-independent Link Aggregation capability and provides general information relevant to specific MAC types.</abstract>
+  </front>
+</reference>

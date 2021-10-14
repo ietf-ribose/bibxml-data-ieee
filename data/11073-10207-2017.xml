@@ -1,0 +1,30 @@
+<reference anchor="IEEE.11073-10207-2017" target="https://ieeexplore.ieee.org/document/8299598">
+  <front>
+    <title>IEEE Health informatics--Point-of-care medical device communication Part 10207: Domain Information and Service Model for Service-Oriented Point-of-Care Medical Device Communication</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8299598"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="February" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>XML</keyword>
+    <keyword>Context modeling</keyword>
+    <keyword>Data models</keyword>
+    <keyword>Point of care</keyword>
+    <keyword>alert systems</keyword>
+    <keyword>IEEE 11073-10207(TM)</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>patient</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>remote control</keyword>
+    <keyword>service-oriented architecture</keyword>
+    <keyword>XML Schema</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073(TM) family of standards for point-of-care medical device communication, a Participant Model derived from the ISO/IEEE11073-10201 Domain Information Model is provided in this standard. The Participant Model specifies the structure of medical information objects. This standard also defines an abstract Communication Model to support the exchange of medical information objects. All elements of the Participant Model and Communication Model are specified using XML Schema. Core subjects of the Participant Model comprise modelling of medical device-related data, e.g., measurements and settings, alert systems, contextual information (e.g., patient demographics and location information), remote control, and archival information. Model extensibility is provided inherently through the use of XML Schema (Additional files are available for this standard at http://standards.ieee.org/downloads/11073/).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.P802.21d/D8, Feb 2015" target="https://ieeexplore.ieee.org/document/7038115">
+  <front>
+    <title>IEEE Approved Draft Standard for Media Independent Handover Services Amendment 4: Multicast Group Management</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Security</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Multicast communication</keyword>
+    <keyword>group</keyword>
+    <keyword>multicast</keyword>
+    <keyword>group management</keyword>
+    <keyword>group security</keyword>
+    <abstract>This amendment standard specifies mechanisms to enable multicast group management for MIH services. The specification defines management primitives and messages that enable a user to join, leave or update group membership and security mechanisms to protect multicast communication.</abstract>
+  </front>
+</reference>

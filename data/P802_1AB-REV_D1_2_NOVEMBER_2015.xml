@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P802.1AB-REV/D1.2, November 2015" target="https://ieeexplore.ieee.org/document/7331223">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="November" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Network topology</keyword>
+    <keyword>Management information base</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>link layer discovery protocol</keyword>
+    <keyword>management information base</keyword>
+    <keyword>topology discovery</keyword>
+    <keyword>topology information</keyword>
+    <abstract>This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 802 LANs.</abstract>
+  </front>
+</reference>

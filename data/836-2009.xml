@@ -1,0 +1,25 @@
+<reference anchor="IEEE.836-2009" target="https://ieeexplore.ieee.org/document/5981345">
+  <front>
+    <title>IEEE Recommended Practice for Precision Centrifuge Testing of Linear Accelerometers</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Accelerometers</keyword>
+    <keyword>Linear systems</keyword>
+    <keyword>Precision engineering</keyword>
+    <keyword>836-2009</keyword>
+    <keyword>accelerometer</keyword>
+    <keyword>accelerometer test</keyword>
+    <keyword>centrifuge</keyword>
+    <keyword>linear accelerometer</keyword>
+    <abstract>This recommended practice describes the conduct and analysis of precision tests that are to be performed on linear accelerometers using centrifuge techniques. The term “precision,” in this context, refers to tests that are conducted to evaluate accelerometer parameters, as opposed to those conducted to establish environmental survivability only. Evaluation may take the form of determining the coefficients of the accelerometer’s model equation, except for bias and scale factor, which are most accurately determined by static multi-position tests. Alternatively, evaluation may only establish that the accelerometer output complies with specific error limit criteria.</abstract>
+  </front>
+</reference>

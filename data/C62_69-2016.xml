@@ -1,0 +1,31 @@
+<reference anchor="IEEE.C62.69-2016" target="https://ieeexplore.ieee.org/document/7539507">
+  <front>
+    <title>IEEE Standard for the Surge Parameters of Isolating Transformers Used in Networking Devices and Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7539507"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="August" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Breakdown voltage</keyword>
+    <keyword>1.2/50</keyword>
+    <keyword>breakdown</keyword>
+    <keyword>IEEE C62.69(TM)</keyword>
+    <keyword>impulse voltage</keyword>
+    <keyword>insulation</keyword>
+    <keyword>insulation resistance</keyword>
+    <keyword>lightning overvoltage</keyword>
+    <keyword>surge</keyword>
+    <keyword>transformer</keyword>
+    <abstract>Terms, test methods, test circuits, measurement procedures, and preferred result values for the surge mitigation parameters of isolating transformers used in networking devices and equipment are set in this standard. Three types of isolating transformer are considered: mains low frequency power, high frequency power (switching mode power supplies) and signal (e.g., Ethernet data).</abstract>
+  </front>
+</reference>

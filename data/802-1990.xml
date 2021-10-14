@@ -1,0 +1,19 @@
+<reference anchor="IEEE.802-1990" target="https://ieeexplore.ieee.org/document/467387">
+  <front>
+    <title>Local and Metropolitan Area Networks: IEEE Standard: Overview and Architecture</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.122158"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Computer networks</keyword>
+    <keyword>LAN</keyword>
+    <keyword>overview</keyword>
+    <keyword>architecture</keyword>
+    <keyword>interconnection</keyword>
+    <keyword>component</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <abstract>Superseded by IEEE Std 802-2001 This IEEE Standards product is part of the 802 family on LAN/MAN. This document provides an overview to the family of IEEE 802 Standards, defines compliance with the family of IEEE 802 Standards, describes the relationship of the IEEE 802 Standards to the Open Systems Interconnections Basic Reference Model [ISO 7498:1984] and explains the relationship of these standards to the higher layer protocols, and provides a standard for identification of public, private, and standard protocols.</abstract>
+  </front>
+</reference>

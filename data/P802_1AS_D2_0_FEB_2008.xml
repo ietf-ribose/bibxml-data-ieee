@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P802.1AS/D2.0 Feb 2008" target="https://ieeexplore.ieee.org/document/4489700">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard specifies the protocol and procedures used to ensure that the synchronization requirements are met for time sensitive applications, such as audio and video, across Bridged and Virtual Bridged Local Area Networks consisting of LAN media where the transmission delays are fixed and symmetrical; for example, IEEE 802.3 full duplex links. This includes the maintenance of synchronized time during normal operation and following addition, removal, or failure of network components and network reconfiguration. It specifies the use of IEEE 1588 specifications where applicable in the context of IEEE Stds 802.1D and 802.1Q. Synchronization to an externally provided timing signal (e.g., a recognized timing standard such as UTC or TAI) is not part of this standard but is not precluded</abstract>
+  </front>
+</reference>

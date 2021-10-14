@@ -1,0 +1,28 @@
+<reference anchor="IEEE.434-2006" target="https://ieeexplore.ieee.org/document/4135884">
+  <front>
+    <title>IEEE Guide for Functional Evaluation of Insulation Systems for AC Electric Machines Rated 2300 V and Above</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.335900"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="March" day="27"/>
+    <keyword>ac</keyword>
+    <keyword>accelerated aging</keyword>
+    <keyword>armature winding</keyword>
+    <keyword>electric machine</keyword>
+    <keyword>electrical insulation</keyword>
+    <keyword>electromechanical</keyword>
+    <keyword>functional evaluation</keyword>
+    <keyword>stator winding</keyword>
+    <keyword>thermal endurance</keyword>
+    <keyword>thermal expansion</keyword>
+    <keyword>thermomechanical</keyword>
+    <keyword>voltage endurance</keyword>
+    <abstract>A procedure that may be used to evaluate and compare insulation systems used, or proposed for use, in large ac electric machines is described in this guide.</abstract>
+  </front>
+</reference>

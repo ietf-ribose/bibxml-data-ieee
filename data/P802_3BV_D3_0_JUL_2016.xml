@@ -1,0 +1,25 @@
+<reference anchor="IEEE.P802.3bv/D3.0, Jul 2016" target="https://ieeexplore.ieee.org/document/7536095">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment 9: Physical Layer Specifications and Management Parameters for 1000 Mb/s Operation Over Plastic Optical Fiber</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="August" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>plastic optical fiber</keyword>
+    <keyword>POF</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2015 specifies a family of three point-to-point physical layers (PHYs) for 1000 Mb/s operation over duplex plastic optical fiber (POF) and related management parameters.</abstract>
+  </front>
+</reference>

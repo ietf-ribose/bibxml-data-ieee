@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1289-1998" target="https://ieeexplore.ieee.org/document/9129650">
+  <front>
+    <title>IEEE Guide for the Application of Human Factors Engineering in the Design of Computer-Based Monitoring and Control Displays for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.9129650"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="June" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Human factors</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>Safety</keyword>
+    <keyword>displays</keyword>
+    <keyword>human factors engineering</keyword>
+    <keyword>nuclear power generating stations</keyword>
+    <abstract>System design considerations, information display and control techniques for use with computer-based displays, and human factors engineering guidance for the use of these tech-niques in nuclear power generating stations are provided.</abstract>
+  </front>
+</reference>

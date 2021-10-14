@@ -1,0 +1,44 @@
+<reference anchor="IEEE.1685-2014" target="https://ieeexplore.ieee.org/document/6898803">
+  <front>
+    <title>IEEE Standard for IP-XACT, Standard Structure for Packaging, Integrating, and Reusing IP within Tool Flows</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6898803"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>Semantics</keyword>
+    <keyword>XML</keyword>
+    <keyword>Design automation</keyword>
+    <keyword>Metadata</keyword>
+    <keyword>CADCAM</keyword>
+    <keyword>abstraction definitions</keyword>
+    <keyword>address space specification</keyword>
+    <keyword>bus definitions</keyword>
+    <keyword>design environment</keyword>
+    <keyword>EDA</keyword>
+    <keyword>electronic design automation</keyword>
+    <keyword>electronic system level</keyword>
+    <keyword>ESL</keyword>
+    <keyword>IEEE 1685(TM)</keyword>
+    <keyword>implementation constraints</keyword>
+    <keyword>IP-XACT</keyword>
+    <keyword>register transfer level</keyword>
+    <keyword>RTL</keyword>
+    <keyword>SCRs</keyword>
+    <keyword>semantic consistency rules</keyword>
+    <keyword>TGI</keyword>
+    <keyword>tight generator interface</keyword>
+    <keyword>tool and data interoperability</keyword>
+    <keyword>use models</keyword>
+    <keyword>XML design metadata</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>Conformance checks for eXtensible Markup Language (XML) data designed to describe electronic systems are formulated by this standard. The meta-data forms that are standardized include components, systems, bus interfaces and connections, abstractions of those buses, and details of the components including address maps, register and field descriptions, and file set descriptions for use in automating design, verification, documentation, and use flows for electronic systems. A set of XML schemas of the form described by the World Wide Web Consortium (W3C(R)) and a set of semantic consistency rules (SCRs) are included. A generator interface that is portable across tool environments is provided. The specified combination of methodology-independent meta-data and the tool-independent mechanism for accessing that data provides for portability of design data, design methodologies, and environment implementations.</abstract>
+  </front>
+</reference>

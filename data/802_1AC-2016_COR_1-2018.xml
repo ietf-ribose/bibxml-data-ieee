@@ -1,0 +1,31 @@
+<reference anchor="IEEE.802.1AC-2016/Cor 1-2018" target="https://ieeexplore.ieee.org/document/8532373">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks--Media Access Control (MAC) Service Definition</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8532373"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="November" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Media Access Protocols</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>IEEE 802&amp;#174;</keyword>
+    <keyword>IEEE 802.1AC&amp;#8482;</keyword>
+    <keyword>Internal Sublayer Service</keyword>
+    <keyword>ISS</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MAN</keyword>
+    <keyword>metropolitan area network</keyword>
+    <abstract>This corrigendum to IEEE Std 802.1AC™-2016 corrects the value of the LLC Encapsulation EtherType.(The PDF of this standard is available at no cost to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)</abstract>
+  </front>
+</reference>

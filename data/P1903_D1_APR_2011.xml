@@ -1,0 +1,31 @@
+<reference anchor="IEEE.P1903/D1, Apr 2011" target="https://ieeexplore.ieee.org/document/6512526">
+  <front>
+    <title>IEEE Draft Standard for a Next Generation Service Overlay Network</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Context awareness</keyword>
+    <keyword>Content delivery</keyword>
+    <keyword>Next generation networking</keyword>
+    <keyword>Overlay networks</keyword>
+    <keyword>Telecommunication services</keyword>
+    <keyword>Self-organizing networks</keyword>
+    <keyword>service overlay network</keyword>
+    <keyword>service routing</keyword>
+    <keyword>service composition</keyword>
+    <keyword>context awareness</keyword>
+    <keyword>dynamic adaptation</keyword>
+    <keyword>self organization</keyword>
+    <keyword>content delivery</keyword>
+    <keyword>service discovery and negotiation</keyword>
+    <abstract>This Next Generation Service Overlay Network (NGSON) standard describes a framework of Internet Protocol(IP)-based service overlay networks and specifies context-aware (e.g., such as required Quality of Service (QoS) level, type of service such as real-time vs. data, nature of data stream such as Iframe vs. B-frame, and type of terminal such as TV monitor vs. personal digital assistant), dynamically adaptive (e.g., using locally derived information to discover, organize, and maintain traffic flows in the network within a local area network), and self-organizing networking capabilities (e.g., developing network structures based on the needs of the customers and the capabilities of existing network structures), including advanced routing and forwarding schemes, and that are independent of underlying networks. The NGSON architecture provides advanced service- and transport-related functions to support contextaware, dynamically adaptive, and self-organizing networks. This standard specifies a functional architecture for NGSON. The functional architecture consists of a set of functional entities (FEs), their functions, reference points and information flows to illustrate service interaction and media delivery among FEs and external components. NGSON may operate with different underlying networks such as IMS, NGN, P2P overlay or Web to transmit NGSON signaling messages and/or media among its users and services. Specifications of underlying networks are outside scope of this standard.</abstract>
+  </front>
+</reference>

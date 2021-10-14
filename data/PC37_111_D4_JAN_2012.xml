@@ -1,0 +1,15 @@
+<reference anchor="IEEE.PC37.111/D4, Jan 2012" target="https://ieeexplore.ieee.org/document/6246644">
+  <front>
+    <title>IEEE Draft Standard for Common Format for Transient Data Exchange (COMTRADE) for Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="July" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>Power system interconnection</keyword>
+    <keyword>Data systems</keyword>
+    <keyword>Information management</keyword>
+    <abstract>Also known as draft IEC 60255-24 Ed.2, this standard defines a format for files containing transient waveform and event data collected from power systems or power system models. The format is intended to provide an easily interpretable form for use in exchanging data. The standard is for files stored on currently used physical media such as portable external hard drives, USB drives, flash drives, CD, DVD. It is not a standard for transferring data files over communication networks.</abstract>
+  </front>
+</reference>

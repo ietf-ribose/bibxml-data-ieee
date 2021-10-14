@@ -1,0 +1,29 @@
+<reference anchor="IEEE.C37.1-2007" target="https://ieeexplore.ieee.org/document/6581844">
+  <front>
+    <title>IEEE Standard for SCADA and Automation Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Automtatic control</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Supervisory control</keyword>
+    <keyword>SCADA systems</keyword>
+    <keyword>C37.1-2007</keyword>
+    <keyword>automatic control</keyword>
+    <keyword>data acquisition</keyword>
+    <keyword>IED</keyword>
+    <keyword>Intelligent Electronic Device</keyword>
+    <keyword>SCADA</keyword>
+    <keyword>substation integration</keyword>
+    <keyword>substation automation</keyword>
+    <keyword>supervisory control</keyword>
+    <abstract>The requirements for SCADA and automation systems in substations are defined. This standard defines the process of substation integration as the design process that is the foundation for substation automation. Functional and environmental requirements are provided for all IEDs located in the system. Tutorial material is included in the annexes to address common issues with systems without introducing requirements. Information is also presented in the annexes regarding SCADA masters.</abstract>
+  </front>
+</reference>

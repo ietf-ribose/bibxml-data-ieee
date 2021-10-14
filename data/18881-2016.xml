@@ -1,0 +1,33 @@
+<reference anchor="IEEE.18881-2016" target="https://ieeexplore.ieee.org/document/7442027">
+  <front>
+    <title>ISO/IEC/IEEE International Standard -- Information technology -- Ubiquitous green community control network -- Control and management</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7442027"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Stndards</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Configuration management</keyword>
+    <keyword>Event management</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Green design</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>Ubiquitous computing</keyword>
+    <keyword>access</keyword>
+    <keyword>configuration</keyword>
+    <keyword>control</keyword>
+    <keyword>event handling</keyword>
+    <keyword>IEEE 1888.1(TM)</keyword>
+    <keyword>management</keyword>
+    <keyword>running status</keyword>
+    <abstract>This standard describes network gateway access, control, and management; specifies control and management requirements; defines the system architecture, communication sequences, and enhanced functions for the protocols defined in IEEE 1888(TM), Ubiquitous Green Community Control Network Protocol; and extends the protocols and interfaces based on the requirements. This standard shall provide enhanced protocols, workflows, and message formats for the network gateway under control and management, such as registration, access, control, event handling, configuration, status querying, etc.</abstract>
+  </front>
+</reference>

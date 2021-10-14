@@ -1,0 +1,24 @@
+<reference anchor="IEEE.15026-4-2021" target="https://ieeexplore.ieee.org/document/9444258">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9444258"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>System analysis and design</keyword>
+    <keyword>Product life cycle management</keyword>
+    <abstract>This document provides guidance and recommendations for assurance of a selected claim about the system-of-interest by achieving the claim and showing the achievement. The guidance and recommendations are given in a System Assurance process view on top of ISO/IEC/IEEE 15288 and a Software Assurance process view on top of ISO/IEC/IEEE 12207.</abstract>
+  </front>
+</reference>

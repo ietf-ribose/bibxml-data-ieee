@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1003.1-2001" target="https://ieeexplore.ieee.org/document/974398">
+  <front>
+    <title>IEEE Standard for IEEE Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93364"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="October" day="13"/>
+    <keyword>application program interface (API)</keyword>
+    <keyword>argument</keyword>
+    <keyword>asynchronous</keyword>
+    <keyword>basic regular expression (BRE)</keyword>
+    <keyword>batch job</keyword>
+    <keyword>batch system</keyword>
+    <keyword>built-in utility</keyword>
+    <keyword>byte</keyword>
+    <keyword>child</keyword>
+    <keyword>command language interpreter</keyword>
+    <keyword>CPU</keyword>
+    <keyword>extended regular expression (ERE)</keyword>
+    <keyword>FIFO</keyword>
+    <keyword>file access control mechanism</keyword>
+    <abstract>This standard defines a standard operating system interface and environment, including a command interpreter (or "shell"), and common utility programs to support applications portability at the source code level. It is the single common revision to IEEE Std 1003.1-1996, IEEE Std 1003.2-1992, and the Base Specifications of The Open Group Single UNIX(TM)† Specification, Version 2. This standard is intended to be used by both applications developers and system implementors and comprises four major components (each in an associated volume)</abstract>
+  </front>
+</reference>

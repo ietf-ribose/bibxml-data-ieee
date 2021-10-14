@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P1636.99/D3, Jun 2012" target="https://ieeexplore.ieee.org/document/6212327">
+  <front>
+    <title>IEEE Draft Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Common Information Elements</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="June" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Computer software</keyword>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Automated Test System (ATS)</keyword>
+    <keyword>eXtensible markup language (XML)</keyword>
+    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+    <keyword>test results</keyword>
+    <keyword>session information</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This standard is intended to promote and facilitate interoperability between components of SIMICA. The standard defines EXPRESS information models and XML schemas that together define the common information elements supporting these interfaces</abstract>
+  </front>
+</reference>

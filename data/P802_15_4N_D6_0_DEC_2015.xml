@@ -1,0 +1,17 @@
+<reference anchor="IEEE.P802.15.4n/D6.0, Dec 2015" target="https://ieeexplore.ieee.org/document/7357819">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment: Physical Layer Utilizing China Medical Bands</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="December" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Low data rates</keyword>
+    <keyword>Physical layer</keyword>
+    <abstract>The Ministry of Industry and Information Technology of the People's Republic of China has approved the 174-216 MHz, 407-425 MHz and 608-630 MHz bands for medical information transmission. China Medical Band (CMB) devices operating within these bands conform to a set of rules specified in China, Ministry of Industry and Information Technology Doc: 423-2005, which restricts use of the band to only medical, non-voice use under direction of a healthcare practitioner, among other requirements. This standard defines a PHY for devices operating on Chinese approved bands for medical signals.</abstract>
+  </front>
+</reference>

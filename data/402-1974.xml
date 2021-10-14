@@ -1,0 +1,30 @@
+<reference anchor="IEEE.402-1974" target="https://ieeexplore.ieee.org/document/7409861">
+  <front>
+    <title>IEEE Guide for Measuring Resistivity of Cable-Insulation Materials at High Direct Voltages</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7409861"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Resistivity</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Cable insulation</keyword>
+    <keyword>Current measurement</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Electrodes</keyword>
+    <keyword>resistivity</keyword>
+    <keyword>cable</keyword>
+    <keyword>insulation</keyword>
+    <keyword>direct</keyword>
+    <keyword>voltages</keyword>
+    <abstract>This guide describes the apparatus and procedures for the determination of resistivity and polarization characteristics of solid and laminar insulation specimens (considered for use in high direct-voltage power cables) at uniform temperatures from room temperature up to the temperature at which the materials will operate.</abstract>
+  </front>
+</reference>

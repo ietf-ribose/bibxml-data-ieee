@@ -1,0 +1,68 @@
+<reference anchor="IEEE.C37.236-2013" target="https://ieeexplore.ieee.org/document/6504869">
+  <front>
+    <title>IEEE Guide for Power System Protective Relay Applications Over Digital Communication Channels</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6504869"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="April" day="18"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Digital communication</keyword>
+    <keyword>Asynchronous transfer mode</keyword>
+    <keyword>Data communication</keyword>
+    <keyword>AC machines</keyword>
+    <keyword>Radio frequency interference</keyword>
+    <keyword>Optical fiber communication</keyword>
+    <keyword>Current differential</keyword>
+    <keyword>ac pilot wire</keyword>
+    <keyword>alarm</keyword>
+    <keyword>asynchronous</keyword>
+    <keyword>audio Tone</keyword>
+    <keyword>channel</keyword>
+    <keyword>current differential</keyword>
+    <keyword>data communication equipment</keyword>
+    <keyword>data terminal equipment</keyword>
+    <keyword>DCE</keyword>
+    <keyword>DDS</keyword>
+    <keyword>digital data service</keyword>
+    <keyword>direct under-reaching transfer trip</keyword>
+    <keyword>DTE</keyword>
+    <keyword>DUTT</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>FC connector</keyword>
+    <keyword>fiber optic</keyword>
+    <keyword>GOOSE</keyword>
+    <keyword>Ground Potential Rise</keyword>
+    <keyword>IEEE C37.94</keyword>
+    <keyword>IEEE C37.236</keyword>
+    <keyword>jitter</keyword>
+    <keyword>LC connector</keyword>
+    <keyword>loopback</keyword>
+    <keyword>microwave</keyword>
+    <keyword>MTRJ connector</keyword>
+    <keyword>multiplexer</keyword>
+    <keyword>phase comparison</keyword>
+    <keyword>radio frequency interference</keyword>
+    <keyword>RFI</keyword>
+    <keyword>RS-232</keyword>
+    <keyword>RS-422</keyword>
+    <keyword>RS-449</keyword>
+    <keyword>RS-530</keyword>
+    <keyword>signal attenuation</keyword>
+    <keyword>SONET</keyword>
+    <keyword>TDM</keyword>
+    <keyword>telecommunication</keyword>
+    <keyword>teleprotection</keyword>
+    <keyword>time division multiplex</keyword>
+    <keyword>transfer trip</keyword>
+    <keyword>tunneling</keyword>
+    <keyword>V.35</keyword>
+    <keyword>zone</keyword>
+    <abstract>Guidance for the power system user in applying, installing and operating digital communication channels for the purpose of protective relaying is provided in this guide.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,38 @@
+<reference anchor="IEEE.446-1995" target="https://ieeexplore.ieee.org/document/653237">
+  <front>
+    <title>IEEE Recommended Practice for Emergency and Standby Power Systems for Industrial and Commercial Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.85950"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="January" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Industrial power systems</keyword>
+    <keyword>Reliability</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Patents</keyword>
+    <keyword>batteries</keyword>
+    <keyword>emergency generators</keyword>
+    <keyword>emergency power</keyword>
+    <keyword>emergency systems</keyword>
+    <keyword>system design</keyword>
+    <keyword>engine generators</keyword>
+    <keyword>standby power</keyword>
+    <keyword>standby system</keyword>
+    <keyword>stored energy</keyword>
+    <keyword>transfer switch</keyword>
+    <keyword>uninterruptible</keyword>
+    <keyword>power supplies</keyword>
+    <keyword>UPS</keyword>
+    <keyword>UPS batteries</keyword>
+    <abstract>This Recommended Practice addresses the uses, power sources, design, and maintenance of emergency and standby power systems. Chapter 3 is a general discussion of needs for and the configuration of emergency and standby systems. Chapter 9 lists the power needs for specific industries. Chapters 4 and 5 deal with the selection of power sources. Chapter 6 provides recommendations for protecting both power sources and switching equipment during fault conditions. Chapter 7 provides recommendations for design of system grounding, and Chapter 10 provides recommendations for designing to reliability objectives. Chapter 8 provides recommended maintenance practices.</abstract>
+  </front>
+</reference>

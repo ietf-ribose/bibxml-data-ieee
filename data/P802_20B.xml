@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P802.20b" target="https://ieeexplore.ieee.org/document/5542308">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <abstract>This amendment specifies the mechanism for the support of bridging of IEEE 802.20 networks.</abstract>
+  </front>
+</reference>

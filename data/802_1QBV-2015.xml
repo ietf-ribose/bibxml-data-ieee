@@ -1,0 +1,28 @@
+<reference anchor="IEEE.802.1Qbv-2015" target="https://ieeexplore.ieee.org/document/8613095">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks -- Bridges and Bridged Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.8613095"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="January" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Telecommunication traffic</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.1Q(TM)</keyword>
+    <keyword>IEEE 802.1Qca(TM)</keyword>
+    <keyword>IEEE 802.1Qcd(TM)</keyword>
+    <keyword>IEEE 802.1Qbv(TM)</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>scheduled traffic</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>Enhancements to the forwarding process that supports scheduled traffic is provided in this amendment to IEEE Std 802.1Q-2014. Additional downloads are attached or can be downloaded at http://standards.ieee.org/downloads/802.1/index.html)</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.1003.5/INT-1994" target="https://ieeexplore.ieee.org/document/4140786">
+  <front>
+    <title>IEEE Standards Interpretations for IEEE Std 1003.5-1992</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.339570"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="July" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Circuit testing</keyword>
+    <keyword>ada</keyword>
+    <keyword>computer environments</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>interfaces</keyword>
+    <keyword>interpretations</keyword>
+    <keyword>portable operating system interface</keyword>
+    <keyword>POSIX</keyword>
+    <abstract>The Portable Applications Standards Committee of the IEEE Computer Society carried out a series of analyses of various problems encountered by users of IEEE Std 1003.5-1992, IEEE Standard for Information Technology-POSIX Ada Language Interfaces-Part 1: Binding for System Application Program Interface (API). The results of its deliberations are presented in this document. The intent is to give the POSIX Ada community reasonable ways of interpreting unclear portions of the standard.</abstract>
+  </front>
+</reference>

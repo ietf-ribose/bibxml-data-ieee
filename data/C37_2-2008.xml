@@ -1,0 +1,30 @@
+<reference anchor="IEEE.C37.2-2008" target="https://ieeexplore.ieee.org/document/6581798">
+  <front>
+    <title>IEEE Standard Electrical Power System Device Function Numbers, Acronyms, and Contact Designations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Power system testing</keyword>
+    <keyword>C37.2-2008</keyword>
+    <keyword>control</keyword>
+    <keyword>designations</keyword>
+    <keyword>device functions</keyword>
+    <keyword>device function acronyms</keyword>
+    <keyword>device function numbers</keyword>
+    <keyword>function numbers</keyword>
+    <keyword>IEC 61850</keyword>
+    <keyword>relay</keyword>
+    <keyword>switchgear</keyword>
+    <abstract>The definition and application of function numbers and acronyms for devices and functions used in electrical substations and generating plants and in installations of power utilization and conversion apparatus are covered. The purpose and use of the numbers and acronyms is discussed, and 95 numbers and 17 acronyms are assigned. Function numbers or function acronyms for arc fault detection, high impedance fault detection, human machine interface, communications devices, digital fault and sequence of event recorders, power quality recorders, substation time sources and synchrophasor devices are among those that have been added. The use of prefixes and suffixes to provide a more specific definition of a function is defined. Device contact designations are also covered.</abstract>
+  </front>
+</reference>

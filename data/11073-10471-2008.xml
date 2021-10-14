@@ -1,0 +1,27 @@
+<reference anchor="IEEE.11073-10471-2008" target="https://ieeexplore.ieee.org/document/4726156">
+  <front>
+    <title>IEEE Health informatics--Personal health device communication Part 10471: Device specialization--Independent living activity hub</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4726156"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="September" day="22"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>11073-10471-2008</keyword>
+    <keyword>independent living activity hub</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth independent living activity hub devices and compute engines (e.g. cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and- play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth independent living activity hubs.</abstract>
+  </front>
+</reference>

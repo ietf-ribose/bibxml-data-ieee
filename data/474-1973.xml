@@ -1,0 +1,26 @@
+<reference anchor="IEEE.474-1973" target="https://ieeexplore.ieee.org/document/7422624">
+  <front>
+    <title>IEEE Standard Specifications and Test Methods for Fixed and Variable Attenuators, DC-40 GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7422624"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Attenuators</keyword>
+    <keyword>Variable attenuators</keyword>
+    <keyword>Attenuation measurement</keyword>
+    <keyword>test</keyword>
+    <keyword>methods</keyword>
+    <keyword>fixed</keyword>
+    <keyword>variable</keyword>
+    <keyword>attenuators</keyword>
+    <abstract>This performance standard covers absorptive and reflective attenuators, both fixed as well as continuously variable or variable in fixed steps, both manual and programmable types. It does not cover electronic or solid state-type attenuators. This standard permits the user to select for a specification those minimum performance parameters which characterize an attenuator. A list of preferred test methods is included permitting verification of the attenuation characteristics. Practical minimum performance limits are furnished for various applications. These are for guidance only and will improve with time.</abstract>
+  </front>
+</reference>

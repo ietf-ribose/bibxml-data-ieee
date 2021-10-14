@@ -1,0 +1,28 @@
+<reference anchor="IEEE.N42.20-2003" target="https://ieeexplore.ieee.org/document/1264832">
+  <front>
+    <title>American Standard Performance Criteria for Active Personnel Radiation Monitors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94420"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Radiation measurements</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>design criteria</keyword>
+    <keyword>ionizing radiation</keyword>
+    <keyword>monitors</keyword>
+    <keyword>performance criteria</keyword>
+    <keyword>personnel radiation monitors</keyword>
+    <keyword>radiation</keyword>
+    <keyword>radiation instrumentation</keyword>
+    <keyword>radiation monitors</keyword>
+    <abstract>Performance and design criteria are provided in this standard for monitors that are worn on the trunk of the body to measure the personal dose equivalent, or the dose equivalent rate from external sources, of ionizing radiation. This is a revision of ANSI N42.20-1995</abstract>
+  </front>
+</reference>

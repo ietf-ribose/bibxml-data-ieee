@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C62.69a-2017" target="https://ieeexplore.ieee.org/document/7979707">
+  <front>
+    <title>IEEE Standard for the Surge Parameters of Isolating Transformers used in Networking Devices and Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7979707"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="July" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Core loss</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Windings</keyword>
+    <keyword>Parameter estimation</keyword>
+    <keyword>core-saturation</keyword>
+    <keyword>IEEE C62.69(TM)</keyword>
+    <abstract>Added in this amendment is a new sub-clause, 4.5 Saturated core secondary winding parameters, to IEEE C62.69™-2016. Test methods, test circuits, measurement procedures, and result treatment to determine the secondary winding resistance and saturated core inductance are given.</abstract>
+  </front>
+</reference>

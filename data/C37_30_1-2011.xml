@@ -1,0 +1,24 @@
+<reference anchor="IEEE.C37.30.1-2011" target="https://ieeexplore.ieee.org/document/6175995">
+  <front>
+    <title>IEEE Standard Requirements for AC High-Voltage Air Switches Rated Above 1000 V</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6175995"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="1"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Switching circuits</keyword>
+    <keyword>AC machines</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>high-voltage switches</keyword>
+    <keyword>IEEE C37.30.1</keyword>
+    <keyword>indoor switches</keyword>
+    <keyword>outdoor switches</keyword>
+    <abstract>Required ratings, construction requirements, design test requirements, applications, and suggested practices for all high-voltage enclosed indoor and outdoor and nonenclosed indoor and outdoor switches rated above 1000 V are specified. This includes ratings and requirements for such switches as disconnecting, selector, horn-gap, and grounding for manual and power operation, except for interrupter switches, distribution-enclosed single-pole air switches, and distribution cutouts fitted with disconnecting blades.</abstract>
+  </front>
+</reference>

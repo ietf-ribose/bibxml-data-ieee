@@ -1,0 +1,24 @@
+<reference anchor="IEEE.351-1972" target="https://ieeexplore.ieee.org/document/7409885">
+  <front>
+    <title>IEEE Trial Use Standard Guide on Solid State Devices: Varactor Measurements Part II</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7409885"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Solid-state devices</keyword>
+    <keyword>Varactors</keyword>
+    <keyword>Electrical resistance measurement</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Frequency measurement</keyword>
+    <keyword>Capacitance</keyword>
+    <keyword>Impedance</keyword>
+    <abstract>This standard describes parameters and methods of measurement suitable for the characterization of varactors intended for large-signal application. This will be done by reference to the parameters and methods prescribed in IEEE Std 318-1971, Trial-Use Guide on Solid-State Devices: Varactor Measurements, Part I - Small Signal Measurements, where they are applicable, and by modification and supplementation of them where necessary for use with large-signal devices.</abstract>
+  </front>
+</reference>

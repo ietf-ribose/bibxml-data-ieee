@@ -1,0 +1,23 @@
+<reference anchor="IEEE.C57.12.25-1990" target="https://ieeexplore.ieee.org/document/6910350">
+  <front>
+    <title>American National Standard for Transformers--Pad-Mounted, Compartmental-Type, Self-Cooled, Single-Phase Distribution Transformers with Separable Insulated High-Voltage Connectors: High Voltage (34 500 GrdY/19 920 Volts and Below) and Low-Voltage (240/120 Volts; 167 kVA and Smaller)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.6910350"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="25"/>
+    <keyword>ANSI standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Connectors</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Voltage transformers</keyword>
+    <abstract>This standard covers certain electrical, dimensional, and mechanical characteristics, and takes into consideration certain safety features of single-phase, 60-Hz, mineral-oil-immersed, self-cooled, pad-mounted, compartmental-type distribution transformers with separable insulated high-voltage connectors. These transformers are rated 167 kVA and smaller, with high voltages of 34500 GrdY/19 920 volts and below for operation between one phase and grounded neutral, and low voltages of 240/120 volts. These transformers are generally used for step-down purposes from an underground primary cable supply.</abstract>
+  </front>
+</reference>

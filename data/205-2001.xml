@@ -1,0 +1,25 @@
+<reference anchor="IEEE.205-2001" target="https://ieeexplore.ieee.org/document/948501">
+  <front>
+    <title>IEEE Standard on Television: Measurement of Luminance Signal Levels</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93288"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="October" day="20"/>
+    <keyword>chrominance</keyword>
+    <keyword>filter</keyword>
+    <keyword>luminance</keyword>
+    <keyword>luminance measurement filter</keyword>
+    <keyword>NTSC</keyword>
+    <keyword>SMPTE 170M</keyword>
+    <keyword>video</keyword>
+    <keyword>waveform monitor</keyword>
+    <abstract>A method of measuring the amplitude levels of an SMPTE 170M-1994; NTSC color or monochrome television video signal is described. It is concerned with luminance measurements at various points in transmission systems where the signals are at video frequencies. The methods described are limited to the use of waveform monitors, software video processing for amplitude assessment, or suitable oscilloscopes, and are primarily directed to specifying means of measuring television signal levels for operating purposes.</abstract>
+  </front>
+</reference>

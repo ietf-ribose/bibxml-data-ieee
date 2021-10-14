@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P802.15.10a/D03, Nov 2018" target="https://ieeexplore.ieee.org/document/8559958">
+  <front>
+    <title>IEEE Draft Recommended Practice for Routing Packets in IEEE 802.15.4 Dynamically Changing Wireless Networks Amendment to fully define use of addressing and route information currently in the standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="December" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Packet switching</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>amendment</keyword>
+    <keyword>discovery and addition of new nodes</keyword>
+    <keyword>IEEE 802.15.4</keyword>
+    <keyword>IEEE 802.15.10</keyword>
+    <keyword>IEEE 802.15.10a</keyword>
+    <keyword>dynamic route reconfiguration</keyword>
+    <keyword>frame forwarding</keyword>
+    <keyword>purging of inactive routes</keyword>
+    <keyword>real time link status information exchange</keyword>
+    <keyword>re-establishment of broken/lost routes</keyword>
+    <keyword>route establishment</keyword>
+    <keyword>single hop appearance at the networking layer (not breaking standard Layer 3 mechanisms)</keyword>
+    <keyword>support for broadcast</keyword>
+    <keyword>support for multicast</keyword>
+    <abstract>This amendment to IEEE Std 802.15.10 fully defines how the addressing and route information (already defined in the recommended practice) are to be used by the routing modes (also currently defined in the recommended practice), including at least the following: end-to-end (E2E) acknowledgment from mesh route in non-storing mode; peer-to-peer (P2P) routing using a combination of up/down routing in non-storing mode; on-demand P2P routing for E2E acknowledgment in non-storing mode; on-demand path storing when sending unicast in non-storing mode.</abstract>
+  </front>
+</reference>

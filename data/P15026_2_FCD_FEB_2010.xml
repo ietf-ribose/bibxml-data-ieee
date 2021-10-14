@@ -1,0 +1,17 @@
+<reference anchor="IEEE.P15026.2/FCD, Feb 2010" target="https://ieeexplore.ieee.org/document/5434880">
+  <front>
+    <title>ISO/IEC/IEEE Draft Standard Systems and Software engineering-Systems and Software assurance-Part 2: Assurance Case</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software maintenance</keyword>
+    <abstract>This International Standard specifies minimum requirements for the structure and contents of an assurance case. An assurance case includes a top-level claim for a property of a system or product (or set of claims), systematic argumentation regarding this claim, and the evidence and explicit assumptions that underlie this argumentation. Arguing through multiple levels of subordinate claims, this structured argumentation connects the top-level claim to the evidence and assumptions.</abstract>
+  </front>
+</reference>

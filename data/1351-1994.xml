@@ -1,0 +1,30 @@
+<reference anchor="IEEE.1351-1994" target="https://ieeexplore.ieee.org/document/469125">
+  <front>
+    <title>IEEE Standard for Information Technology--ACSE and Presentation Layer Services--Application Program Interface (API) [C Language Independent]</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122652"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="26"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>ISO</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Software portability</keyword>
+    <keyword>ACSE</keyword>
+    <keyword>API</keyword>
+    <keyword>application layer</keyword>
+    <keyword>application portability</keyword>
+    <keyword>language independent</keyword>
+    <keyword>open systems</keyword>
+    <keyword>open system interconnection</keyword>
+    <keyword>OSI</keyword>
+    <keyword>presentation layer</keyword>
+    <abstract>A language-independent Application Program Interface (API) to the ACSE application service element of the OSI application layer and the connection-oriented services of the presentation layer are defined. The purpose of this API is to support portable implementations of application-specific OSI service elements and non-OSI applications.</abstract>
+  </front>
+</reference>

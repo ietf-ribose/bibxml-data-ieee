@@ -1,0 +1,20 @@
+<reference anchor="IEEE.C37.92-1969" target="https://ieeexplore.ieee.org/document/7444084">
+  <front>
+    <title>ANSI American National Standard Guide for Induction Motor protection</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.7444084"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Induction motors</keyword>
+    <keyword>Power system protection</keyword>
+    <abstract>The application guide for relay protection of squirrel-cage and wound-rotor induction motors presents a review of the generally accepted forms of motor protection and summarizes the use of relays and devices, singly and in combination, to enable the reader to properly select the necessary equipment to obtain adequate motor protection. The Guide is prepared primarily for the protection of three-phase integral-horsepower motors and refers to single- or two-phase motors only in special instances and only where specifically indicated. It is especially useful where the motor installation is sufficiently important, due to either its size or the consequences of motor malfunction, to justify specific design of the protective system. It also provides the information necessary to judge whether there are safety or economic reasons for such a specific design.</abstract>
+  </front>
+</reference>

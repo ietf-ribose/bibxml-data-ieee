@@ -1,0 +1,34 @@
+<reference anchor="IEEE.C95.3.1-2010" target="https://ieeexplore.ieee.org/document/5473175">
+  <front>
+    <title>IEEE Recommended Practice for Measurements and Computations of Electric, Magnetic, and Electromagnetic Fields with Respect to Human Exposure to Such Fields, 0 Hz to 100 kHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5473175"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="June" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Magnetic field measurement</keyword>
+    <keyword>Current measurement</keyword>
+    <keyword>Instruments</keyword>
+    <keyword>Hazards</keyword>
+    <keyword>Electromagnetic fields</keyword>
+    <keyword>contact current measurement</keyword>
+    <keyword>electric field computation</keyword>
+    <keyword>electric field measurement</keyword>
+    <keyword>electromagnetic field computation</keyword>
+    <keyword>electromagnetic field measurement</keyword>
+    <keyword>ELF/VLF/RF survey instruments</keyword>
+    <keyword>exposure assessment</keyword>
+    <keyword>induced current measurement</keyword>
+    <keyword>magnetic field computation</keyword>
+    <keyword>magnetic field measurement</keyword>
+    <keyword>nonionizing radiation</keyword>
+    <keyword>RF/ELF/VLF hazard assessment</keyword>
+    <abstract>Techniques and instrumentation for the measurement and computation of electric, magnetic, and electromagnetic (EM) fields in the near field of an EM field source are presented in this recommended practice. Descriptions of the concepts, techniques, and instruments that can be applied to the measurement of the electric and magnetic fields and the currents induced in the human body by these fields are provided. Techniques for determining the current density and the electric field strength within the human body are discussed. This recommended practice is intended primarily for use by engineers, biophysicists, and other specialists who are familiar with basic EM field theory and practice, and the potential hazards associated with EM fields. It will be most useful to bioeffects researchers, instrumentation developers and manufacturers, those developing calibration systems and standards, and persons involved in critical hazard assessments or hazard surveys.</abstract>
+  </front>
+</reference>

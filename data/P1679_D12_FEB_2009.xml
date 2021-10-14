@@ -1,0 +1,21 @@
+<reference anchor="IEEE.P1679/D12, Feb 2009" target="https://ieeexplore.ieee.org/document/5234353">
+  <front>
+    <title>Draft Recommended Practice for the Characterization and Evaluation of Emerging Energy Storage Technologies in Stationary Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>battery</keyword>
+    <keyword>cycling service</keyword>
+    <keyword>electric double-layer capacitor</keyword>
+    <keyword>flywheel</keyword>
+    <keyword>energy storage</keyword>
+    <keyword>standby service</keyword>
+    <keyword>stationary application</keyword>
+    <abstract>This document covers recommended information for an objective evaluation of an emerging energy storage technology device or system by a potential user for any stationary application. Energy storage technologies are those that provide a means for the reversible storage of electrical energy, i.e. the device receives electrical energy and is able to discharge electrical energy at a later time. The storage medium may be electrochemical (e.g. batteries), kinetic (e.g. flywheels), electrostatic (e.g. electric double-layer capacitors), thermal, or some other medium. Devices recharged by non-electrical means, such as fuel cells, are beyond the scope of this document.</abstract>
+  </front>
+</reference>

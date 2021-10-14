@@ -1,0 +1,32 @@
+<reference anchor="IEEE.802.3bg-2011" target="https://ieeexplore.ieee.org/document/5743079">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: CSMA/CD Access Method and Physical Layer Specifications Amendment 6: Physical Layer and Management Parameters for Serial 40 Gb/s Ethernet Operation Over Single Mode Fiber</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5743079"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="July" day="10"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Optical fiber LAN</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Ethernet networks</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>40 Gb/s Ethernet</keyword>
+    <keyword>40GBASE-FR</keyword>
+    <keyword>IEEE 802.3bg</keyword>
+    <keyword>Optical Transport Network</keyword>
+    <keyword>OTN</keyword>
+    <keyword>Physical Medium Dependent sublayer</keyword>
+    <keyword>PMD sublayer</keyword>
+    <keyword>single-mode fiber</keyword>
+    <keyword>SMF</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2008 specifies a new Physical Medium Dependent (PMD) sublayer, 40GBASE-FR, for serial 40 Gb/s operation over up to 2 km of single-mode fiber. Keywords: 40 Gb/s Ethernet, 40GBASE-FR, IEEE 802.3bg, Optical Transport Network, OTN, Physical Medium Dependent sublayer, PMD sublayer, single-mode fiber, SMF.</abstract>
+  </front>
+</reference>

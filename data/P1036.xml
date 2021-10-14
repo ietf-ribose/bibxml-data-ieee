@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P1036" target="https://ieeexplore.ieee.org/document/5547900">
+  <front>
+    <title>IEEE Draft Guide for Application of Shunt Power Capacitors</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power capacitors</keyword>
+    <keyword>Shunt (electrical)</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>capacitor</keyword>
+    <keyword>shunt power capacitors</keyword>
+    <keyword>capacitor banks</keyword>
+    <keyword>power factor correction</keyword>
+    <keyword>externally fused</keyword>
+    <keyword>internally fused</keyword>
+    <keyword>fuseless</keyword>
+    <abstract>This guide applies to the use of 50 Hz and 60 Hz shunt power capacitor units rated 2400 Vac and above, and assemblies of such capacitors. Included are guidelines for the application, protection, and ratings of equipment for the safe and reliable utilization of shunt power capacitors. The guide is general and intended to be basic and supplemental to specific recommendations of the manufacturer. The guide covers applications that range from simple capacitor unit utilization to complex capacitor bank situations.</abstract>
+  </front>
+</reference>

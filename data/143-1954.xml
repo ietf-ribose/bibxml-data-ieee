@@ -1,0 +1,23 @@
+<reference anchor="IEEE.143-1954" target="https://ieeexplore.ieee.org/document/8684347">
+  <front>
+    <title>IEEE Guide for Ground Fault Neutralizers, Grounding of Synchronous Generation Systems, Application and Neutral Grounding of Transmission Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1953.8684347"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Grounding</keyword>
+    <keyword>Synchronous generators</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Limiting</keyword>
+    <keyword>Bibliographies</keyword>
+    <keyword>Generators</keyword>
+    <abstract>Improvement in service reliability is a factor in power transmission and distribution which has received considerable emphasis in recent years. Several means for obtaining improvement in service reliability are in general use. These include ground-fault neutralizers, immediate reclosing of circuit breakers, overhead and buried ground wires, arresters and expulsion protector tubes. All have demonstrated an ability to limit outages on transmission and distribution systems. None of these means considered, however, has shown a perfect record in all cases of application.</abstract>
+  </front>
+</reference>

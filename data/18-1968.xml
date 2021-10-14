@@ -1,0 +1,21 @@
+<reference anchor="IEEE.18-1968" target="https://ieeexplore.ieee.org/document/7369908">
+  <front>
+    <title>IEEE Shunt Power Capacitors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.7369908"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Capacitors</keyword>
+    <keyword>Shunt capacitors</keyword>
+    <keyword>Service conditions</keyword>
+    <keyword>ANSI Standards</keyword>
+    <abstract>This standard applies to capacitors designed for shunt connection to alternating current power transmission and distribution systems operating at a nominal frequency of 60 cycles or less.</abstract>
+  </front>
+</reference>

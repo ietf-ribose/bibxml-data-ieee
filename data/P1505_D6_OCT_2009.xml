@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P1505/D6, Oct 2009" target="https://ieeexplore.ieee.org/document/5286957">
+  <front>
+    <title>Draft Standard for Standard for Receiver Fixture Interface</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>connector</keyword>
+    <keyword>fixture</keyword>
+    <keyword>framework</keyword>
+    <keyword>interface</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>mass-interconnect</keyword>
+    <keyword>quick disconnect</keyword>
+    <keyword>receiver</keyword>
+    <keyword>specification</keyword>
+    <abstract>This standard provides a mechanical and electrical specification for implementing a common interoperable mechanical quick disconnect interconnect system for use by industry for interfacing large numbers of electrical signals (digital, analog, RF, power, etc.). These large interface panels (receiver and fixture panels) are employed primarily in test systems between stimulus/measurement assets and a related unit under test (UUT), although any application involving high density contacts requiring a quick disconnect interface could benefit. The Receiver is a receptacle that is mounted to test system mates with multiple Fixtures, which serve as the ¿buffer¿ between the UUT and ATE. Fixtures translate standard I/O signal routing offered at the Receiver to a wiring interface that directly connects to the UUT. These UUT interfaces can represent cable connectors, direct plug-in (printed circuit board edge connectors), sensor monitoring, or manual feedback from the test technician.</abstract>
+  </front>
+</reference>

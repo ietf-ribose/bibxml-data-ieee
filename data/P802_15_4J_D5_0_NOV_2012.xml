@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P802.15.4j/D5.0, Nov 2012" target="https://ieeexplore.ieee.org/document/6461021">
+  <front>
+    <title>IEEE Approved Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="February" day="12"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Medical services</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Body area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>MBAN</keyword>
+    <keyword>medical body area network</keyword>
+    <abstract>This amendment defines a physical layer for IEEE 802.15.4 in the 2360 to 2400 MHz band which complies with Federal Communications Commission (FCC) MBAN rules. This amendment defines modifications to the MAC needed to support this new physical layer.</abstract>
+  </front>
+</reference>

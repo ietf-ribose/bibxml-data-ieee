@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P1076/D13, Jul 2019" target="https://ieeexplore.ieee.org/document/8782175">
+  <front>
+    <title>IEEE Draft Standard for VHDL Language Reference Manual</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="July" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>Hardware</keyword>
+    <keyword>Computer languages</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>electronic systems</keyword>
+    <keyword>hardware</keyword>
+    <keyword>hardware design</keyword>
+    <keyword>IEEE 1076(TM)</keyword>
+    <keyword>VHDL</keyword>
+    <abstract>VHSIC Hardware Description Language (VHDL) is defined. VHDL is a formal notation intended for use in all phases of the creation of electronic systems. Because it is both machine readable and human readable, it supports the development, verification, synthesis, and testing of hardware designs; the communication of hardware design data; and the maintenance, modification, and procurement of hardware. Its primary audiences are the implementors of tools supporting the language and the advanced users of the language. (This standard incorporates open source. See https://opensource.ieee.org/vasg/Packages)</abstract>
+  </front>
+</reference>

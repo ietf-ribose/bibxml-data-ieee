@@ -1,0 +1,16 @@
+<reference anchor="IEEE.993-1997" target="https://ieeexplore.ieee.org/document/588556">
+  <front>
+    <title>IEEE Standard for Test Equipment Description Language (TEDL)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82353"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>A language useful for describing automatic test equipment (ATE) instrumentation and configurations, as well as interface test adapters (ITA), is defined. Principally intended for testing environments using the ATLAS test language, TEDL can also be used to describe instrumentation in non-ATLAS environments.</abstract>
+  </front>
+</reference>

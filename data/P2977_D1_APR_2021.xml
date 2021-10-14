@@ -1,0 +1,99 @@
+<reference anchor="IEEE.P2977/D1, Apr 2021" target="https://ieeexplore.ieee.org/document/9406493">
+  <front>
+    <title>IEEE Approved Draft Standard for Adoption of MIPI Alliance Specification for A-PHY Interface (A-PHY) Version 1.0</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Coaxial cable</keyword>
+    <keyword>Transportation</keyword>
+    <keyword>Vehicle safety</keyword>
+    <keyword>Autonomous automobiles</keyword>
+    <keyword>Camera</keyword>
+    <keyword>8B/10B PCS</keyword>
+    <keyword>ACMD</keyword>
+    <keyword>ACMP</keyword>
+    <keyword>adoption</keyword>
+    <keyword>advanced driver assistance systems</keyword>
+    <keyword>AHeader</keyword>
+    <keyword>A-Packet</keyword>
+    <keyword>A-Payload</keyword>
+    <keyword>APDLL</keyword>
+    <keyword>A-PHY</keyword>
+    <keyword>APPI</keyword>
+    <keyword>asymmetric</keyword>
+    <keyword>automotive</keyword>
+    <keyword>autonomous driving systems</keyword>
+    <keyword>camera</keyword>
+    <keyword>car noise</keyword>
+    <keyword>Clock Forwarding Service</keyword>
+    <keyword>coaxial cable</keyword>
+    <keyword>Control and Management System Architecture</keyword>
+    <keyword>CSE</keyword>
+    <keyword>CSI</keyword>
+    <keyword>CSI-2</keyword>
+    <keyword>descrambler</keyword>
+    <keyword>Display</keyword>
+    <keyword>DSE</keyword>
+    <keyword>DSI</keyword>
+    <keyword>DSI-2</keyword>
+    <keyword>Duplication Table</keyword>
+    <keyword>Eye Diagram</keyword>
+    <keyword>functional safety</keyword>
+    <keyword>gear</keyword>
+    <keyword>high-speed uni-directional data stream</keyword>
+    <keyword>I2C</keyword>
+    <keyword>I3C</keyword>
+    <keyword>infotainment</keyword>
+    <keyword>inline connectors</keyword>
+    <keyword>IEEE 2977</keyword>
+    <keyword>ISO 26262</keyword>
+    <keyword>jitter</keyword>
+    <keyword>Lidar</keyword>
+    <keyword>Local Functions</keyword>
+    <keyword>long reach</keyword>
+    <keyword>low-speed bi-directional command and control data</keyword>
+    <keyword>MIPI Alliance</keyword>
+    <keyword>Multi-Port</keyword>
+    <keyword>NRZ</keyword>
+    <keyword>optimal wiring cost and weight</keyword>
+    <keyword>Packet Duplication</keyword>
+    <keyword>Packet Forwarding</keyword>
+    <keyword>PAL/CSI-2</keyword>
+    <keyword>PAL/DSI-2</keyword>
+    <keyword>PAL/eDP-DP</keyword>
+    <keyword>PAL/GPIO</keyword>
+    <keyword>PAL/I2C</keyword>
+    <keyword>PAM</keyword>
+    <keyword>PAM16</keyword>
+    <keyword>PAM-X PCS</keyword>
+    <keyword>Phy</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>PMD</keyword>
+    <keyword>power distribution</keyword>
+    <keyword>power over coax</keyword>
+    <keyword>Power over Differential Line</keyword>
+    <keyword>Profile</keyword>
+    <keyword>protocol adaptation layer</keyword>
+    <keyword>Radar</keyword>
+    <keyword>Routing Table</keyword>
+    <keyword>scrambler</keyword>
+    <keyword>sensor</keyword>
+    <keyword>SerDes</keyword>
+    <keyword>Serial interface</keyword>
+    <keyword>serializer-deserializer</keyword>
+    <keyword>Shielded Differential Pair (SDP)</keyword>
+    <keyword>Shielded Parallel Pair (SPP)</keyword>
+    <keyword>Shielded Twisted Pair (STP)</keyword>
+    <keyword>test modes</keyword>
+    <abstract>This standard adopts MIPI Alliance--MIPI A-PHY Specification Version 1.0 as an IEEE Standard. The adopted standard provides an asymmetric data link in a point-to-point or daisy-chain topology, with high-speed unidirectional data, embedded bidirectional control data and optional power delivery over a single cable. In this way, it reduces wiring, cost and weight, as high-speed data, control data and optional power share the same physical wiring. For integration with existing network backbones, it complements Ethernet, Controller Area Network (CAN), FlexRay, and other interfaces.</abstract>
+  </front>
+</reference>

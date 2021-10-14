@@ -1,0 +1,30 @@
+<reference anchor="IEEE.C37.246-2017" target="https://ieeexplore.ieee.org/document/8358851">
+  <front>
+    <title>IEEE Guide for Protection Systems of Transmission-to-Generation Interconnections</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8358851"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="May" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power system relaying</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>generation facility</keyword>
+    <keyword>generator owner</keyword>
+    <keyword>IEEE C37.246(TM)</keyword>
+    <keyword>interconnection</keyword>
+    <keyword>interconnection protection</keyword>
+    <keyword>point of interconnection</keyword>
+    <keyword>power system</keyword>
+    <keyword>transmission owner</keyword>
+    <keyword>transmission system</keyword>
+    <abstract>This guide documents accepted protection practices for transmission-to-generation interconnections. It is intended to cover the protection system applications at the interconnections between transmission systems and generation facilities greater than 10 MVA. This guide does not cover distributed energy resources.</abstract>
+  </front>
+</reference>

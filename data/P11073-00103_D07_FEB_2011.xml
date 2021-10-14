@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P11073-00103/D07, Feb 2011" target="https://ieeexplore.ieee.org/document/5724247">
+  <front>
+    <title>IEEE Draft Guide for Health Informatics</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5724247"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Medical services</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this guide describes the landscape of transport-independent applications and information profiles for personal telehealth devices. These profiles define data exchange, data representation, and terminology for communication between personal telehealth devices and compute engines (e.g. health appliances, set top boxes, cell phones, personal computers). The guide provides a definition of personal telehealth devices as devices used for life activity, wellness monitoring, and/or health monitoring in domestic home, communal home, and/or mobile applications. Use cases relevant to these scenarios and environments are also presented.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,76 @@
+<reference anchor="IEEE.1012-2016" target="https://ieeexplore.ieee.org/document/8055462">
+  <front>
+    <title>IEEE Standard for System, Software, and Hardware Verification and Validation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8055462"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="September" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Product life cycle management</keyword>
+    <keyword>Environmental factors</keyword>
+    <keyword>Hazards</keyword>
+    <keyword>acceptance testing</keyword>
+    <keyword>architecture evaluation</keyword>
+    <keyword>component testing</keyword>
+    <keyword>concept documentation evaluation</keyword>
+    <keyword>criticality</keyword>
+    <keyword>criticality analysis</keyword>
+    <keyword>design evaluation</keyword>
+    <keyword>disposal plan evaluation</keyword>
+    <keyword>environmental verification and validation (V&amp;amp;V) factors</keyword>
+    <keyword>hardware life cycle</keyword>
+    <keyword>hardware V&amp;amp;V</keyword>
+    <keyword>hardware verification and validation</keyword>
+    <keyword>hazard analysis</keyword>
+    <keyword>IEEE 1012</keyword>
+    <keyword>implementation evaluation</keyword>
+    <keyword>independent verification and validation (IV&amp;amp;V)</keyword>
+    <keyword>integration testing</keyword>
+    <keyword>integrity level</keyword>
+    <keyword>interface analysis</keyword>
+    <keyword>IV&amp;amp;V</keyword>
+    <keyword>minimum V&amp;amp;V tasks</keyword>
+    <keyword>nth of a kind</keyword>
+    <keyword>objective evidence</keyword>
+    <keyword>operating procedure evaluation</keyword>
+    <keyword>qualification testing</keyword>
+    <keyword>quality assurance</keyword>
+    <keyword>regression analysis</keyword>
+    <keyword>regression testing</keyword>
+    <keyword>requirements allocation analysis</keyword>
+    <keyword>requirements evaluation</keyword>
+    <keyword>reuse software</keyword>
+    <keyword>risk analysis</keyword>
+    <keyword>security analysis</keyword>
+    <keyword>software life cycle</keyword>
+    <keyword>software quality assurance (SQA)</keyword>
+    <keyword>software V&amp;amp;V</keyword>
+    <keyword>software verification and validation</keyword>
+    <keyword>source code documentation evaluation</keyword>
+    <keyword>source code evaluation</keyword>
+    <keyword>SQA</keyword>
+    <keyword>stakeholder needs and requirements evaluation</keyword>
+    <keyword>system element interaction analysis</keyword>
+    <keyword>system life cycle</keyword>
+    <keyword>system maintenance strategy assessment</keyword>
+    <keyword>system of interest</keyword>
+    <keyword>system requirements evaluation</keyword>
+    <keyword>system V&amp;amp;V</keyword>
+    <keyword>system verification and validation</keyword>
+    <keyword>testing</keyword>
+    <keyword>traceability analysis</keyword>
+    <keyword>V&amp;amp;V</keyword>
+    <keyword>V&amp;amp;V measures</keyword>
+    <keyword>validation</keyword>
+    <keyword>verification</keyword>
+    <abstract>Verification and validation (V&amp;V) processes are used to determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;V processes encompasses systems, software, and hardware, and it includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused (legacy, commercial off-the-shelf [COTS], non-developmental items). The term software also includes firmware and microcode, and each of the terms system, software, and hardware includes documentation. V&amp;V processes include the analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  </front>
+</reference>

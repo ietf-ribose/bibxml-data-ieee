@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C57.116-1989" target="https://ieeexplore.ieee.org/document/89905">
+  <front>
+    <title>IEEE Guide for Transformers Directly Connected to Generators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.95387"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="14"/>
+    <keyword>Generators</keyword>
+    <keyword>Hydroelectric power generation</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Thermal power generation</keyword>
+    <keyword>Generators</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Hydroelectric power generation</keyword>
+    <abstract>The selection, application, and specification considerations for the unit transformer and unit auxiliaries transformers are described, taking into account their connections, voltage and kilovoltampere ratings, and excitation and through-fault capabilities during possible operating conditions, both normal and abnormal. Consideration is given to direct connections and connections through generator breakers and load-break switches. Both hydroelectric and thermal electric generating stations are covered. Phasing procedures, basic impulse insulation-level selection, and loading practices are not covered.</abstract>
+  </front>
+</reference>

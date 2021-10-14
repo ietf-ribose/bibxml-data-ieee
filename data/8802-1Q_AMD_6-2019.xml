@@ -1,0 +1,43 @@
+<reference anchor="IEEE.8802-1Q/Amd 6-2019" target="https://ieeexplore.ieee.org/document/8664696">
+  <front>
+    <title>IEEE/ISO/IEC International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8664696"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="March" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Streaming media</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802&amp;#174;</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE Std 802.1Qbu&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qbv&amp;#8482;</keyword>
+    <keyword>IEEE Std 802.1Qbz&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qca&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qcd&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qci&amp;#8482;</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>per-stream filtering and policing</keyword>
+    <keyword>PSFP</keyword>
+    <keyword>scheduled traffic</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>Enhancements to the forwarding process that support per-stream filtering and policing are provided in this amendment to IEEE Std 802.1Q-2014.</abstract>
+  </front>
+</reference>

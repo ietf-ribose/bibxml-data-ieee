@@ -1,0 +1,16 @@
+<reference anchor="IEEE.PC37.118.1a/D2, Dec 2013" target="https://ieeexplore.ieee.org/document/6755430">
+  <front>
+    <title>IEEE Draft Standard for Synchrophasor Measurements for Power Systems Amendment to modify selected performance requirements</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="March" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power systems measurements</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Harmonic analysis</keyword>
+    <keyword>DIstortion</keyword>
+    <keyword>Noise measurement</keyword>
+    <abstract>This standard is for synchronized phasor measurement systems in power systems. It defines a synchronized phasor (synchrophasor), frequency, and rate of change of frequency (ROCOF) measurements. It describes time tag and synchronization requirements for measurement of all three of these quantities. It specifies methods for evaluating these measurements and requirements for compliance with the standard under both static and dynamic conditions. It defines a phasor measurement unit (PMU), which can be a stand-alone physical unit or a functional unit within another physical unit. This standard does not specify hardware, software, or a method for computing phasors, frequency, or ROCOF.</abstract>
+  </front>
+</reference>

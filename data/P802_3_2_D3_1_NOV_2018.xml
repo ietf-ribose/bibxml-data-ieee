@@ -1,0 +1,21 @@
+<reference anchor="IEEE.P802.3.2/D3.1, Nov 2018" target="https://ieeexplore.ieee.org/document/8559967">
+  <front>
+    <title>IEEE Draft Standard for Ethernet YANG Data Model Definitions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>802.3 Ethernet</keyword>
+    <keyword>YANG.</keyword>
+    <abstract>This standard defines YANG modules for various Ethernet devices specified in IEEE Std 802.3. This includes half-duplex and full-duplex data terminal equipment (DTE) using eithere Carrier Sense Multiple Access / Collision Detection (CSMA/CD) or Multipoint Control Protocol (MPCP), and Power Sourcing Equipment (PSE).</abstract>
+  </front>
+</reference>

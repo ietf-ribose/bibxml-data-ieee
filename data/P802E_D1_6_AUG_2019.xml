@@ -1,0 +1,37 @@
+<reference anchor="IEEE.P802E/D1.6, Aug 2019" target="https://ieeexplore.ieee.org/document/8926598">
+  <front>
+    <title>IEEE Draft Recommended Practice for Privacy Considerations for IEEE 802 Technologies</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="December" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Telecommunication network management</keyword>
+    <keyword>Privacy</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>Identification</keyword>
+    <keyword>bridging</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>fair use</keyword>
+    <keyword>information model</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>network management</keyword>
+    <keyword>personally identifiable information</keyword>
+    <keyword>personally correlated information</keyword>
+    <keyword>privacy</keyword>
+    <keyword>routing</keyword>
+    <keyword>security</keyword>
+    <abstract>This Recommended Practice specifies a privacy threat model for IEEE 802(TM) technologies and provides recommendations on how to protect against privacy threats. It promotes a consistent approach to the mitigation of privacy threats by IEEE 802 protocol developers.</abstract>
+  </front>
+</reference>

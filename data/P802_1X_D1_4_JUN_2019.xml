@@ -1,0 +1,38 @@
+<reference anchor="IEEE.P802.1X/D1.4 Jun 2019" target="https://ieeexplore.ieee.org/document/8793250">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks--Port-Based Network Access Control</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="August" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Network security</keyword>
+    <keyword>access control</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>controlled port</keyword>
+    <keyword>EAP</keyword>
+    <keyword>EAPOL</keyword>
+    <keyword>IEEE 802.1X</keyword>
+    <keyword>key agreement</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MACsec</keyword>
+    <keyword>MACsec Key Agreeement</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MKA</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>service access point</keyword>
+    <keyword>uncontrolled port</keyword>
+    <abstract>Port-based network access control allows a network administrator to restrict the use of IEEE 802(R) LAN service access points (ports) to secure communication between authenticated and authorized devices. This standard specifies a common architecture, functional elements, and protocols that support mutual authentication between the clients of ports attached to the same LAN and that secure communication between the ports, including the media access method independent protocols that are used to discover and establish the security associations used by IEEE 802.1AE(TM) MAC Security.</abstract>
+  </front>
+</reference>

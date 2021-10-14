@@ -1,0 +1,34 @@
+<reference anchor="IEEE.1651-2010" target="https://ieeexplore.ieee.org/document/5724322">
+  <front>
+    <title>IEEE Guide for Reducing Bird-Related Outages</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5724322"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Birds</keyword>
+    <keyword>Power distribution lines</keyword>
+    <keyword>Power outages</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>alternate platforms</keyword>
+    <keyword>bird guard</keyword>
+    <keyword>bird spikes</keyword>
+    <keyword>collision</keyword>
+    <keyword>contaminations</keyword>
+    <keyword>electrocution</keyword>
+    <keyword>flashover</keyword>
+    <keyword>IEEE 1651</keyword>
+    <keyword>mitigation</keyword>
+    <keyword>nesting</keyword>
+    <keyword>perch guard</keyword>
+    <keyword>phase to ground fault</keyword>
+    <keyword>phase to phase fault</keyword>
+    <keyword>streamer outages</keyword>
+    <abstract>Methods, techniques, and designs to mitigate bird-related power interruptions and equipment damage resulting from avian interactions with electric facilities are covered in this document. This document addresses electrocutions, collisions, nesting problems, and outages caused by fecal contamination and fecal streamers. The topics include bird impacts to transmission lines, distribution lines, and substations. Woodpecker issues are also addressed. It is believed that resolving these issues will improve system reliability and minimize revenue losses.</abstract>
+  </front>
+</reference>

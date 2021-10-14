@@ -1,0 +1,27 @@
+<reference anchor="IEEE.530-1978" target="https://ieeexplore.ieee.org/document/27755">
+  <front>
+    <title>IEEE Standard Specification Format Guide and Test Procedure for Linear, Single-Axis, Digital, Torque-Balance Accelerometer</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80985"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Acceleration measurement</keyword>
+    <keyword>Digital measurements</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>linear</keyword>
+    <keyword>single axis</keyword>
+    <keyword>digital</keyword>
+    <keyword>torque</keyword>
+    <keyword>accelerometer</keyword>
+    <keyword>Torque measurement</keyword>
+    <keyword>Acceleration measurement</keyword>
+    <abstract>Superseded by IEEE 1293-1998. A guide for the preparation of a digital accelerometer specification and test procedure is provided. It is intended to provide common terminology and practice for manufacturers and users. The accelerometer considered utilizes a linear, single-axis, nongyroscopic accelerometer sensor with a permanent magnet torquer. The torquing electronics are considered part of the accelerometer. General design, performance, environmental, and reliability requirements are covered. Information on classification of tests, acceptance tests, qualification tests, reliability tests, standard test conditions, test equipment, test methods, and data submittal is given.</abstract>
+  </front>
+</reference>

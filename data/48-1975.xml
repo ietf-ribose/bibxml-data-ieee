@@ -1,0 +1,14 @@
+<reference anchor="IEEE.48-1975" target="https://ieeexplore.ieee.org/document/27712">
+  <front>
+    <title>IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current Cable Terminations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.80222"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Connectors</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Testing</keyword>
+    <abstract>This standard covers all indoor and outdoor cable terminations used on alternating current cables having laminated or extruded insulation rated 2.5 kV through 500 kV, except seperable insulated connectors which are covered by [1]. Cable terminations and component parts shall be capable of withstanding the test specified in this standard.</abstract>
+  </front>
+</reference>

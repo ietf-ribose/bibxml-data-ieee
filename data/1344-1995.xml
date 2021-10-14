@@ -1,0 +1,11 @@
+<reference anchor="IEEE.1344-1995" target="https://ieeexplore.ieee.org/document/943067">
+  <front>
+    <title>IEEE Standard for Synchrophasers for Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.93278"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <keyword>Power system measurements</keyword>
+    <abstract>The synchronizing input and the data output for phasor measurements made by substation computer systems is discussed. Processes involved in computing phasors from sampled data, data-to-phasor conversions, and formats for timing imputs and phasor data output from a phasor measurement unit (PMU) are also addressed.</abstract>
+  </front>
+</reference>

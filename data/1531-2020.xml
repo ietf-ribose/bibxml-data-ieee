@@ -1,0 +1,32 @@
+<reference anchor="IEEE.1531-2020" target="https://ieeexplore.ieee.org/document/9456765">
+  <front>
+    <title>IEEE Guide for the Application and Specification of Harmonic Filters</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Harmonic filters</keyword>
+    <keyword>Capacitors</keyword>
+    <keyword>Passive filters</keyword>
+    <keyword>Reactors</keyword>
+    <keyword>Switched capacitor networks</keyword>
+    <keyword>capacitors</keyword>
+    <keyword>harmonic filters</keyword>
+    <keyword>IEEE 1531</keyword>
+    <keyword>inductors</keyword>
+    <keyword>notch filters</keyword>
+    <keyword>passive filters</keyword>
+    <keyword>power filters</keyword>
+    <keyword>power system harmonics</keyword>
+    <keyword>reactors</keyword>
+    <keyword>switched capacitor filters</keyword>
+    <abstract>Guidelines for the specification of components, protection, and control of harmonic filters are provided in this guide. The guide applies to the use of 50 Hz and 60 Hz passive shunt power harmonic filters on low-voltage, medium-voltage, and high-voltage electric power systems. This document is specifically created for harmonic filters, although standards do exist for most of the components that are used in a filter. Applications including industrial low-voltage facilities, utility medium-voltage systems, and arc furnace installations are covered.</abstract>
+  </front>
+</reference>

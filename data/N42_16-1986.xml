@@ -1,0 +1,24 @@
+<reference anchor="IEEE.N42.16-1986" target="https://ieeexplore.ieee.org/document/29094">
+  <front>
+    <title>American National Standard Specifications for Sealed Radioactive Check Sources Used in Liquid-Scintillation Counters</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81594"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Gamma-ray detectors</keyword>
+    <keyword>Radioactive materials</keyword>
+    <keyword>Scintillation detectors</keyword>
+    <keyword>Tritium</keyword>
+    <keyword>Scintillation counters</keyword>
+    <keyword>Radiation materials</keyword>
+    <keyword>Carbon materials</keyword>
+    <abstract>Specifications are given for carbon 14, tritium, and background check sources in toluene-based scintillators. Use of these materials is sufficient to verify the stability of counting efficiency and background of liquid- scintillation counting systems as outlined in ANSI N42.15-1980. This standard specifies the solvent, the organic scintillator solutes, the purging gas, the radioactive material, and the container appropriate for preparation of check sources.</abstract>
+  </front>
+</reference>

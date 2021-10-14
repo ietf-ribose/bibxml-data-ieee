@@ -1,0 +1,23 @@
+<reference anchor="IEEE.50-1953" target="https://ieeexplore.ieee.org/document/7426310">
+  <front>
+    <title>AIEE Standard for Automatic Circuit Reclosers for A-C Distribution Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1953.7426310"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="4"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>AC machines</keyword>
+    <keyword>Reclosers</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Automatic test equipment</keyword>
+    <keyword>Power distribution planning</keyword>
+    <keyword>Dielectric breakdown</keyword>
+    <abstract>This standard applies to all single or multipole alternating-current automatic circuit reclosers for the nominal voltages from 1,500 to 23,000 volts.</abstract>
+  </front>
+</reference>

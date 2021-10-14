@@ -1,0 +1,44 @@
+<reference anchor="IEEE.C62.35-2010/Cor 1-2018" target="https://ieeexplore.ieee.org/document/8577048">
+  <front>
+    <title>IEEE Standard Test Methods for Avalanche Junction Semiconductor Surge-Protective Device Components--Corrigendum 1</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8577048"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Avalanche breakdown</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Semiconductor devices</keyword>
+    <keyword>avalanche breakdown diode</keyword>
+    <keyword>ABD</keyword>
+    <keyword>avalanche junction semiconductor</keyword>
+    <keyword>breakdown voltage</keyword>
+    <keyword>C62.35</keyword>
+    <keyword>clamping</keyword>
+    <keyword>communication circuits</keyword>
+    <keyword>corrigendum</keyword>
+    <keyword>impulse</keyword>
+    <keyword>limiting</keyword>
+    <keyword>power circuits</keyword>
+    <keyword>silicon avalanche diode</keyword>
+    <keyword>SAD</keyword>
+    <keyword>surge protective component</keyword>
+    <keyword>SPC</keyword>
+    <keyword>stand-by current</keyword>
+    <keyword>surge</keyword>
+    <keyword>surge-protective device</keyword>
+    <keyword>surge protector</keyword>
+    <keyword>SPD</keyword>
+    <keyword>transient voltage suppressor</keyword>
+    <keyword>TVS</keyword>
+    <keyword>zener</keyword>
+    <abstract>Avalanche breakdown diodes used for surge protection on systems with voltages equal to or less than 1000 V rms or 1200 V dc are discussed in this standard. The avalanche breakdown diode surge suppressor is a semiconductor diode that can operate in either the forward or reverse direction of its V-I characteristic. This component is a single package, which may be assembled from any combination of series and/or parallel diode chips. This standard contains definitions, service conditions, and a series of test criteria for determining the electrical characteristics and verifying ratings of these avalanche breakdown diodes. If the characteristics differ with the direction of conduction, then each direction of conduction shall be separately specified.</abstract>
+  </front>
+</reference>

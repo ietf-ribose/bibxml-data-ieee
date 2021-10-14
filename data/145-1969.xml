@@ -1,0 +1,22 @@
+<reference anchor="IEEE.145-1969" target="https://ieeexplore.ieee.org/document/7366531">
+  <front>
+    <title>IEEE Standard Definitions of Terms for Antennas</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.7366531"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December" day="25"/>
+    <keyword>Antenna radiation patterns</keyword>
+    <keyword>Directive antennas</keyword>
+    <keyword>Radar antennas</keyword>
+    <keyword>Dictionaries</keyword>
+    <keyword>Antennas</keyword>
+    <keyword>Phased arrays</keyword>
+    <abstract>The following "Standard Definitions of Terms for Antennas" is a cemprehensive revision of the 1948 "Definitions of Terms." It also supersedes the definitions contained in the 1965 "Test Procedure," although the changes in those definitions are few and relatively minor. As this work reached completion, the Antennas and Waveguides Committee divided into two separate committees, one on antennas and one on waveguides. These are now incorporated into the structures of the IEEE Group on Antennas and Propagation and the IEEE Group on Microwave Theory and Techniques, respectively. In general, the definitions assume that the antenna is not located in a medium such as a plasma, salt water, or the earth. In such cases, careful evaluation may be necessary to determine whether the term is applicable and how it can be properly employed. For terms that are quantitative it is understood that frequency must be specified. Those terms in which phase or polarization is a significant part of the definition imply a coherent source of power. Whenever a term is commonly used in other fields but has specialized significance in the field of antennas, this is noted in the title.</abstract>
+  </front>
+</reference>

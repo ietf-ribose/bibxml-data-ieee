@@ -1,0 +1,33 @@
+<reference anchor="IEEE.P2302/D1, Jun 2021" target="https://ieeexplore.ieee.org/document/9498993">
+  <front>
+    <title>IEEE Draft Standard for Intercloud Interoperability and Federation (SIIF)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="July" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Distributed computing</keyword>
+    <keyword>Cloud computing</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Peer-to-peer computing</keyword>
+    <keyword>Representation learning</keyword>
+    <keyword>Cloud</keyword>
+    <keyword>Federation</keyword>
+    <keyword>Distributed Computing</keyword>
+    <keyword>Cloud Security</keyword>
+    <keyword>Peer to Peer</keyword>
+    <keyword>Identity</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Network Topology</keyword>
+    <keyword>Cloud Architecture</keyword>
+    <keyword>Information Sharing</keyword>
+    <abstract>This standard defines a functional model for federation based on the NIST Cloud Federation Reference Architecture. This model allows a range of deployment topologies and governance. As a general federation model, it can be applied to many application domains using different implementation approaches. As such, it includes cloud-to-cloud federation and interoperability.</abstract>
+  </front>
+</reference>

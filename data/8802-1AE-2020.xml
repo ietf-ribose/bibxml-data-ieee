@@ -1,0 +1,45 @@
+<reference anchor="IEEE.8802-1AE-2020" target="https://ieeexplore.ieee.org/document/9179118">
+  <front>
+    <title>IEEE/ISO/IEC International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9179118"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="August" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Security</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>IEEE 802.1AE</keyword>
+    <keyword>IEEE 802.1AEbn</keyword>
+    <keyword>IEEE 802.1AEbw</keyword>
+    <keyword>IEEE 802.1AEcg</keyword>
+    <keyword>integrity</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>How all or part of a network can be secured transparently to peer protocol entities that use the MAC Service provided by IEEE 802® LANs to communicate is specified in this standard. MAC security (MACsec) provides connectionless user data confidentiality, frame data integrity, and data origin authenticity.</abstract>
+  </front>
+</reference>

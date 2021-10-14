@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P1451.5/D10.8, Dec 2006" target="https://ieeexplore.ieee.org/document/4152734">
+  <front>
+    <title>IEEE Approved Draft Standard for a Smart Transducer Interface for Sensors and Actuator -- Wireless Communication Protocols and Transducer Electronic Data Sheet (TEDS) Formats</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="3"/>
+    <keyword>Wireless communication</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Wireless sensor networks</keyword>
+    <keyword>Transducers</keyword>
+    <keyword>Sensors</keyword>
+    <keyword>Patents</keyword>
+    <keyword>network-capable applications processor</keyword>
+    <keyword>sensor</keyword>
+    <keyword>Transducer Electronic Data Sheet</keyword>
+    <keyword>wireless communication protocol</keyword>
+    <keyword>wireless sensor</keyword>
+    <keyword>wireless transducer interface module</keyword>
+    <abstract>This standard defines a wireless interface for sensors. It specifies radio-specific protocols for this wireless interface. It defines communication modules that connect the wireless transducer interface module (WTIM) and the network capable applications processor (NCAP) using the radio-specific protocols. It also defines the transducer electronic data sheets (TEDS) for the radio-specific protocols.</abstract>
+  </front>
+</reference>

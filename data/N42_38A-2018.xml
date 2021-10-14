@@ -1,0 +1,27 @@
+<reference anchor="IEEE.N42.38a-2018" target="https://ieeexplore.ieee.org/document/8635624">
+  <front>
+    <title>American National Standard for Performance Criteria for Spectroscopy-Based Portal Monitors Used for Homeland Security</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8635624"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Radiation monitoring</keyword>
+    <keyword>Radiation detectors</keyword>
+    <keyword>Spectroscopy</keyword>
+    <keyword>ANSI N42.38</keyword>
+    <keyword>portal monitor</keyword>
+    <keyword>spectrometric</keyword>
+    <keyword>spectroscopy</keyword>
+    <abstract>Amendment 1 addresses an observation made by a user of the standard. The observation raised a concern that misunderstandings may occur due to the common use of “tn” for otherre calculations. To address the concern, “tn” was changed to “p”. The value for the number of trials used in the standard remains the same.</abstract>
+  </front>
+</reference>

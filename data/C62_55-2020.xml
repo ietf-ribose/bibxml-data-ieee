@@ -1,0 +1,33 @@
+<reference anchor="IEEE.C62.55-2020" target="https://ieeexplore.ieee.org/document/9190117">
+  <front>
+    <title>IEEE Guide for Surge Protection of DC Power Feeds to Remote Radio Heads</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9190117"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="September" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Lightning</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>Electrical safety</keyword>
+    <keyword>Radio communication</keyword>
+    <keyword>IEEE C62.55</keyword>
+    <keyword>lightning</keyword>
+    <keyword>powering feed</keyword>
+    <keyword>protection</keyword>
+    <keyword>remote radio head</keyword>
+    <keyword>RRH</keyword>
+    <keyword>SPD</keyword>
+    <keyword>surge protective device</keyword>
+    <keyword>surge waveform</keyword>
+    <keyword>towers</keyword>
+    <abstract>The waveform of currents likely to exist on dc feeds to equipment located at the tops of towers due to a lightning strike, and the consequences of that waveform for protector design, are described in this guide.</abstract>
+  </front>
+</reference>

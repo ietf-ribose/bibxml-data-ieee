@@ -1,0 +1,30 @@
+<reference anchor="IEEE.1857a-2014" target="https://ieeexplore.ieee.org/document/6783681">
+  <front>
+    <title>IEEE Standard for Advanced Audio and Video Coding</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6783681"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Navigation</keyword>
+    <keyword>Surveillance</keyword>
+    <keyword>Video coding</keyword>
+    <keyword>Tracking</keyword>
+    <keyword>Audio coding</keyword>
+    <keyword>Cameras</keyword>
+    <keyword>Object detection</keyword>
+    <keyword>Location awareness</keyword>
+    <keyword>IEEE 1857(TM)</keyword>
+    <keyword>IEEE 1857a(TM)</keyword>
+    <keyword>navigation information</keyword>
+    <keyword>surveillance video</keyword>
+    <keyword>tracking.</keyword>
+    <abstract>Extensions to IEEE Std 1857(TM)-2013 are provided for surveillance video to support tracking across tracing in multiple cameras at surveillance based on the navigation information which mainly includes timing, location and movement information.</abstract>
+  </front>
+</reference>

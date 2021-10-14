@@ -1,0 +1,48 @@
+<reference anchor="IEEE.2600.1-2009" target="https://ieeexplore.ieee.org/document/5075726">
+  <front>
+    <title>IEEE Standard for a Protection Profile in Operational Environment A</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5075726"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="November" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Security</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Object recognition</keyword>
+    <keyword>2600.1-2009</keyword>
+    <keyword>all-in-one</keyword>
+    <keyword>Common Criteria</keyword>
+    <keyword>copier</keyword>
+    <keyword>disk overwrite</keyword>
+    <keyword>document</keyword>
+    <keyword>document server</keyword>
+    <keyword>document storage and retrieval</keyword>
+    <keyword>facsimile</keyword>
+    <keyword>fax</keyword>
+    <keyword>hardcopy</keyword>
+    <keyword>ISO/IEC 15408</keyword>
+    <keyword>multifunction device (MFD)</keyword>
+    <keyword>multifunction product (MFP)</keyword>
+    <keyword>network</keyword>
+    <keyword>network interface</keyword>
+    <keyword>nonvolatile storage</keyword>
+    <keyword>office</keyword>
+    <keyword>paper</keyword>
+    <keyword>printer</keyword>
+    <keyword>Protection Profile</keyword>
+    <keyword>residual data</keyword>
+    <keyword>scanner</keyword>
+    <keyword>security target</keyword>
+    <keyword>shared communications medium</keyword>
+    <keyword>temporary data</keyword>
+    <abstract>This standard is for a protection profile for hardcopy devices in a restrictive commercial information processing environment in which a relatively high level of document security, operational accountability, and information assurance are required. Typical information processed in this environment is trade secret, mission critical, or subject to legal and regulatory considerations such as for privacy or governance. This environment is not intended to support life-critical or national security applications. This environment will be known as "Operational Environment A".</abstract>
+  </front>
+</reference>

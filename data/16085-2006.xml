@@ -1,0 +1,29 @@
+<reference anchor="IEEE.16085-2006" target="https://ieeexplore.ieee.org/document/4042193">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.288594"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="5"/>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Risk management</keyword>
+    <keyword>Software</keyword>
+    <keyword>Portable document format</keyword>
+    <keyword>integrity</keyword>
+    <keyword>risk</keyword>
+    <keyword>risk acceptance</keyword>
+    <keyword>risk analysis</keyword>
+    <keyword>risk management</keyword>
+    <keyword>risk treatment</keyword>
+    <abstract>A process for the management of risk in the life cycle is defined. It can be added to the existing set of software life cycle processes defined by the ISO/IEC 12207 or ISO/IEC 15288 series of standards, or it can be used independently.</abstract>
+  </front>
+</reference>

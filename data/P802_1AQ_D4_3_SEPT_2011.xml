@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P802.1aq/D4.3, Sept 2011" target="https://ieeexplore.ieee.org/document/6030880">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Virtual environments</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Bridged LocalArea Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>Provider Backbone Bridge Local Area Networks (PBB)</keyword>
+    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+    <keyword>Shortest Path Bridging Protocol (SPB) (SPBV) (SPBM) Intermediate System to Intermediate System (IS-IS).</keyword>
+    <abstract>This amendment specifies shortest path bridging of unicast and multicast frames,including protocols to calculate multiple active topologies that can share learnt station information, and support of a VLAN by multiple, per topology VLAN identifiers (VIDs).</abstract>
+  </front>
+</reference>

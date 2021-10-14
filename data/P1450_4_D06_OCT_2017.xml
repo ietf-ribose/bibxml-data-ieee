@@ -1,0 +1,36 @@
+<reference anchor="IEEE.P1450.4/D06, Oct 2017" target="https://ieeexplore.ieee.org/document/8071184">
+  <front>
+    <title>IEEE Draft Standard for Extensions to Standard Test Interface Language (STIL) (IEEE Std. 1450-1999) for Test Flow Specification</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="October" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>Automatic test equipment</keyword>
+    <keyword>Computer aided engineering</keyword>
+    <keyword>Testing</keyword>
+    <keyword>ATPG</keyword>
+    <keyword>ATPRG</keyword>
+    <keyword>automatic test program generator or generation</keyword>
+    <keyword>binning</keyword>
+    <keyword>CAE</keyword>
+    <keyword>computer-aided engineering</keyword>
+    <keyword>device under test</keyword>
+    <keyword>DUT</keyword>
+    <keyword>IC test</keyword>
+    <keyword>IEEE 1450.4(TM)</keyword>
+    <keyword>integrated circuit test</keyword>
+    <keyword>test flow</keyword>
+    <keyword>test program description</keyword>
+    <keyword>test program language</keyword>
+    <keyword>TPG</keyword>
+    <abstract>IEEE Std 1450-1999, which specifies the Standard Test Interface Language (STIL), is extended by this standard to provide an interface between test generation tools and test equipment with regard to the specification of the flow of execution of test program components. It defines structures so that test flows, sub-flows, and binning may be described in a manner that facilitates automated generation, modification, and/or manual maintenance and, although not yet a complete run-time test language, execution on automated test equipment (ATE). It also defines an interface between tester configurations (described by IEEE Std 1450-1999 and IEEE Std 1450.2-2002) and test program components. It also defines a hierarchy of flows, sub-flows, and test components as well as structures for defining flow-related variables and processing expressions involving those variables. It provides structures that support automatic test program generation (ATPRG) and translation and that support running it natively as an ATE programming language. As an adjunct, IEEE Std 1450.3-2007 may be used by ATPRG for tester rules checking.</abstract>
+  </front>
+</reference>

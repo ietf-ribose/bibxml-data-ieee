@@ -1,0 +1,28 @@
+<reference anchor="IEEE.P1788/D9.7, Mar 2015" target="https://ieeexplore.ieee.org/document/7091835">
+  <front>
+    <title>IEEE Approved Draft Standard for Interval Arithmetic</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="April" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Arthimetic</keyword>
+    <keyword>Verification</keyword>
+    <keyword>Interval arithmetic</keyword>
+    <keyword>arithmetic</keyword>
+    <keyword>computing</keyword>
+    <keyword>decoration</keyword>
+    <keyword>enclosure</keyword>
+    <keyword>hull</keyword>
+    <keyword>interval</keyword>
+    <keyword>operation</keyword>
+    <keyword>verified</keyword>
+    <abstract>This standard specifies basic interval arithmetic (IA) operations selecting and following one of the commonly used mathematical interval models. This standard supports the IEEE 754 floating point formats of practical use in interval computations. Exception conditions are defined, and standard handling of these conditions is specified. Consistency with the interval model is tempered with practical considerations based on input from representatives of vendors, developers and maintainers of existing systems. The standard provides a layer between the hardware and the programming language levels. It does not mandate that any operations be implemented in hardware. It does not define any realization of the basic operations as functions in a programming language.</abstract>
+  </front>
+</reference>

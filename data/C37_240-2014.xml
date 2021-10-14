@@ -1,0 +1,32 @@
+<reference anchor="IEEE.C37.240-2014" target="https://ieeexplore.ieee.org/document/7024885">
+  <front>
+    <title>IEEE Standard Cybersecurity Requirements for Substation Automation, Protection, and Control Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7024885"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="January" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>Computer crime</keyword>
+    <keyword>Remote access</keyword>
+    <keyword>Passwords</keyword>
+    <keyword>Access controls</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Encryption</keyword>
+    <keyword>critical infrastructure protection</keyword>
+    <keyword>cybersecurity</keyword>
+    <keyword>electronic access</keyword>
+    <keyword>encryption</keyword>
+    <keyword>IEEE C37.240</keyword>
+    <keyword>remote access</keyword>
+    <keyword>password management</keyword>
+    <keyword>substations</keyword>
+    <abstract>Cybersecurity measures require that a balance be achieved between technical feasibility and economic feasibility and that this balance addresses the risks expected to be present at a substation. Further, cybersecurity measures must be designed and implemented in such a manner that access and operation to legitimate activities is not impeded, particularly during times of emergency or restoration activity. This standard presents a balance of the above factors.</abstract>
+  </front>
+</reference>

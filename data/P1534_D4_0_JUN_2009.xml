@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P1534/D4.0, Jun 2009" target="https://ieeexplore.ieee.org/document/5154148">
+  <front>
+    <title>IEEE Draft Recommended Practice for Specifying Thyristor-Controlled Series Capacitors</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>power oscillation damping</keyword>
+    <keyword>series capacitors</keyword>
+    <keyword>subsynchronous resonance</keyword>
+    <keyword>TCSC</keyword>
+    <keyword>thyristor valves</keyword>
+    <abstract>Recommended practices for specifying Thyristor-Controlled Series Capacitor (TCSC) installations used in series with transmission lines are provided. Ratings for TCSC thyristor valve assemblies, capacitors, and reactors as well as TCSC control characteristics, protective features, cooling systems, testing, commissioning, training, documentation, operation, and maintenance are addressed.</abstract>
+  </front>
+</reference>

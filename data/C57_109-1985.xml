@@ -1,0 +1,28 @@
+<reference anchor="IEEE.C57.109-1985" target="https://ieeexplore.ieee.org/document/186043">
+  <front>
+    <title>IEEE Guide for Transformer Through-Fault-Current Duration</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.106992"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Overcurrent protection</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Short circuit currents</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Protection</keyword>
+    <keyword>transformer</keyword>
+    <keyword>through</keyword>
+    <keyword>fault</keyword>
+    <keyword>current</keyword>
+    <keyword>duration</keyword>
+    <abstract>Recommendations believed essential for the application of overcurrent protective devices applied to limit the exposure time of transformers to short circuit current are set forth. Transformer coordination curves are presented for four categories of transformers. There is no intent to imply overload capability.</abstract>
+  </front>
+</reference>

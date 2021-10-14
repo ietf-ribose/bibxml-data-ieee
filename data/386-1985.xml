@@ -1,0 +1,30 @@
+<reference anchor="IEEE.386-1985" target="https://ieeexplore.ieee.org/document/29069">
+  <front>
+    <title>IEEE Standard for Separable Insulated Connector Systems for Power Distribution Systems Above 600 V</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81577"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="October" day="18"/>
+    <keyword>Connectors</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>separable</keyword>
+    <keyword>insulated</keyword>
+    <keyword>connectors</keyword>
+    <keyword>distribution</keyword>
+    <keyword>power</keyword>
+    <keyword>dead-break connector</keyword>
+    <keyword>elbow connector</keyword>
+    <keyword>load-break connector</keyword>
+    <keyword>separable conductor</keyword>
+    <keyword>connector systems</keyword>
+    <abstract>Service conditions, ratings, interchangeable construction features, and tests for load-break and dead-break separable insulated connector systems rated 601 V and above, 600 A or less, for use on power distribution systems, are established. Included are: corona voltage-level tests, dielectric tests, short-time current test, switching test, fault-closure test, current-cycling tests, accelerated sealing-life test, cable pull-out test, operating-force test, operating-eye test, test-point cap test, test-point tests, and shielding test.</abstract>
+  </front>
+</reference>

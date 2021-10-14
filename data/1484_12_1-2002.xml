@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1484.12.1-2002" target="https://ieeexplore.ieee.org/document/1032843">
+  <front>
+    <title>IEEE Standard for Learning Object Metadata</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94128"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="22"/>
+    <keyword>category</keyword>
+    <keyword>data type</keyword>
+    <keyword>extended data element</keyword>
+    <keyword>Lang String</keyword>
+    <keyword>learning object</keyword>
+    <keyword>learning object metadata (LOM)</keyword>
+    <keyword>smallest permitted maximum</keyword>
+    <keyword>value space</keyword>
+    <abstract>A conceptual data schema that defines the structure of a metadata instance for a learning object is specified in this standard.</abstract>
+  </front>
+</reference>

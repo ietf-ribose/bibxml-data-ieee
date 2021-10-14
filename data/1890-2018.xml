@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1890-2018" target="https://ieeexplore.ieee.org/document/8654228">
+  <front>
+    <title>IEEE Standard for Error Correction Coding of Flash Memory Using Low-Density Parity Check Codes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8654228"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Flash memory</keyword>
+    <keyword>Parity check codes</keyword>
+    <keyword>Encoding</keyword>
+    <keyword>Error correction</keyword>
+    <keyword>auxiliary codeword</keyword>
+    <keyword>flash memory</keyword>
+    <keyword>IEEE 1890</keyword>
+    <keyword>low-density parity-check codes</keyword>
+    <keyword>two level code construction</keyword>
+    <abstract>A two-level code construction scheme for non-volatile memories (NVM) that is based on low-density parity-check codes is specified in this standard. This scheme constructs an auxiliary codeword that encodes a subset of bits from the primary packets stored in an NVM memory unit. The auxiliary codeword is decoded only when the detection of at least one of the primary codewords fails. The encoding and decoding techniques for this scheme are presented. The two-level scheme outperforms the traditional one-level method while it requires only a small memory overhead and negligible latency. Moreover, it outperforms the one-level scheme that uses a code that is twice as long in the low raw bit error rate regime.</abstract>
+  </front>
+</reference>

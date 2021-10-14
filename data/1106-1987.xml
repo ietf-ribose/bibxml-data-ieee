@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1106-1987" target="https://ieeexplore.ieee.org/document/25329">
+  <front>
+    <title>IEEE Recommended Practice for Maintenance, Testing, and Replacement of Nickel-Cadmium Storage Batteries for Generating Stations and Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.121944"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Cadmium</keyword>
+    <keyword>Nickel</keyword>
+    <keyword>Batteries</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>1106</keyword>
+    <abstract>Superseded by IEEE Std 1106-1995. Maintenance procedures, capacity test schedules, and capacity testing procedures that can be used to optimize the life and performance of nickel-cadmium batteries designed for continuous-float applications are provided. Guidance for determining when these batteries should be replaced is also given. Sizing, installation, qualification, other battery types, and application are not considered.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,40 @@
+<reference anchor="IEEE.1722.1-2013/Cor 1-2018" target="https://ieeexplore.ieee.org/document/8666953">
+  <front>
+    <title>IEEE Standard for Device Discovery, Connection Management, and Control Protocol for IEEE 1722(TM) Based Devices</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8666953"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="March" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Streaming media</keyword>
+    <keyword>Device drivers</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>AVDECC</keyword>
+    <keyword>bridged LAN</keyword>
+    <keyword>corrigendum</keyword>
+    <keyword>IEEE 61883</keyword>
+    <keyword>IEEE 802.1 AVB protocols</keyword>
+    <keyword>IEEE 802.1AS</keyword>
+    <keyword>802.1BA</keyword>
+    <keyword>802.1Q</keyword>
+    <keyword>IEEE 1722</keyword>
+    <keyword>IEEE 1722.1</keyword>
+    <keyword>LAN</keyword>
+    <keyword>QoS</keyword>
+    <keyword>SMPTE ST 2022-6:2011</keyword>
+    <keyword>time-sensitive media streaming</keyword>
+    <keyword>time-sensitive networking</keyword>
+    <keyword>time synchronization</keyword>
+    <keyword>TSN</keyword>
+    <abstract>Technical and editorial corrections are provided by this corrigendum to IEEE Std 1722.1-2013.</abstract>
+  </front>
+</reference>

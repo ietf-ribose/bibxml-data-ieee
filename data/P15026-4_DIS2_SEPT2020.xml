@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P15026-4/DIS2, Sept2020" target="https://ieeexplore.ieee.org/document/9237220">
+  <front>
+    <title>ISO/IEC/IEEE Draft International Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="October" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Software assurance</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <abstract>This document provides guidance and recommendations for assurance of a selected claim about the system-of-interest by achieving the claim and showing the achievement. The guidance and recommendations are given in a System Assurance process view on top of ISO/IEC/IEEE 15288 and a Software Assurance process view on top of ISO/IEC/IEEE 12207.</abstract>
+  </front>
+</reference>

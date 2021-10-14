@@ -1,0 +1,39 @@
+<reference anchor="IEEE.802.15.4n-2016" target="https://ieeexplore.ieee.org/document/7466445">
+  <front>
+    <title>IEEE Standard for Low-Rate Wireless Networks -- Amendment 1: Physical Layer Utilizing China Medical Bands</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7466445"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="May" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEEE 802.15 Standard</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>China</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>amendment</keyword>
+    <keyword>China</keyword>
+    <keyword>IEEE 802.15.4(TM)</keyword>
+    <keyword>IEEE 802.15.4n(TM)</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>MAN</keyword>
+    <keyword>medical services</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>The Ministry of Industry and Information Technology (MIIT) of the Peoples Republic of China has approved the 174-216 MHz, 407-425 MHz, and 608-630 MHz bands for medical information transmission. China medical band (CMB) devices operating within these bands conform to a set of rules specified in MIIT Doc 423-2005, which restricts use of the band to only medical, non-voice use under direction of a healthcare practitioner, among other requirements. A physical layer (PHY) for devices operating on Chinese approved bands for medical signals is defined in this amendment.</abstract>
+  </front>
+</reference>

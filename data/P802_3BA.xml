@@ -1,0 +1,47 @@
+<reference anchor="IEEE.P802.3ba" target="https://ieeexplore.ieee.org/document/5491853">
+  <front>
+    <title>IEEE Approved Draft Amendment for Information technology&amp;#2014;Telecommunications and Information exchange between systems&amp;#2014;Local and metropolitan area networks&amp;#2014;Specific requirements&amp;2014; Part 3: Carrier Sense Multiple Access with Collision Detection(CSMA/CD) Access Method and Physical Layer Specifications Amendment: Media Access Control Parameters, Physical Layers and Management Parameters For 40 Gb/s And 100 Gb/s Operation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEEE 802.3 Standards</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Information systems</keyword>
+    <keyword>Ethernet networks</keyword>
+    <keyword>802.3ba</keyword>
+    <keyword>802.3</keyword>
+    <keyword>40 Gb/s Ethernet</keyword>
+    <keyword>XLGMII</keyword>
+    <keyword>XLAUI</keyword>
+    <keyword>40GBASE-R</keyword>
+    <keyword>40GBASE-KR4</keyword>
+    <keyword>40GBASECR4</keyword>
+    <keyword>40GBASE-SR4</keyword>
+    <keyword>40GBASE-LR4</keyword>
+    <keyword>100 Gb/s Ethernet</keyword>
+    <keyword>CGMII</keyword>
+    <keyword>CAUI</keyword>
+    <keyword>100GBASE-R</keyword>
+    <keyword>100GBASE-CR10</keyword>
+    <keyword>100GBASE-SR10</keyword>
+    <keyword>100GBASE-LR4</keyword>
+    <keyword>100GBASE-ER4</keyword>
+    <keyword>XLPPI</keyword>
+    <keyword>CPPI</keyword>
+    <keyword>FEC</keyword>
+    <keyword>Auto-Negotiation (AN)</keyword>
+    <keyword>Backplane (BP)</keyword>
+    <keyword>MMF</keyword>
+    <keyword>SMF</keyword>
+    <keyword>Optical Transport Network (OTN)</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2008 includes changes to IEEE Std 802.3-2008 and adds Clause 80 through Clause 88, Annex 83A through Annex 83C, Annex 85A, and Annex 86A. This amendment includes IEEE 802.3 Media Access Control (MAC) parameters, Physical Layer specifications, and management parameters for the transfer of IEEE 802.3 format frames at 40 Gb/s and 100 Gb/s.</abstract>
+  </front>
+</reference>

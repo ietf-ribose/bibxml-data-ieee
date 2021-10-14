@@ -1,0 +1,29 @@
+<reference anchor="IEEE.1074-1991" target="https://ieeexplore.ieee.org/document/159431">
+  <front>
+    <title>IEEE Standard for Developing Software Life Cycle Processes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101080"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Software engineering</keyword>
+    <keyword>Standards</keyword>
+    <keyword>project management process</keyword>
+    <keyword>project monitoring and control process</keyword>
+    <keyword>software development process</keyword>
+    <keyword>software implementation process</keyword>
+    <keyword>software installation process</keyword>
+    <keyword>software life cycle</keyword>
+    <keyword>software life cycle model process</keyword>
+    <keyword>software life cycle process</keyword>
+    <keyword>software maintenance process</keyword>
+    <keyword>software operation and support process</keyword>
+    <keyword>software post-development process</keyword>
+    <keyword>software pre-development process</keyword>
+    <keyword>software quality management process</keyword>
+    <keyword>software requirements process</keyword>
+    <keyword>software retirement process</keyword>
+    <keyword>software system allocation process</keyword>
+    <abstract>The set of activities that constitute the processes that are mandatory for the development and maintenance of software, whether stand-alone or part of a system, is set forth. The management and support processes that continue throughout the entire life cycle, as well as all aspects of the software life cycle from concept exploration through retirement, are covered. Associated input and output information is also provided. Utilization of the processes and their component activities maximizes the benefits to the user when the use of this standard is initiated early in the software life cycle. This standard requires definition of a user’s software life cycle and shows its mapping into typical software life cycles; it is not intended to define or imply a software life cycle of its own.</abstract>
+  </front>
+</reference>

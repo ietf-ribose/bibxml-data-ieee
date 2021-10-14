@@ -1,0 +1,19 @@
+<reference anchor="IEEE.1030-1987" target="https://ieeexplore.ieee.org/document/26485">
+  <front>
+    <title>IEEE Guide for Specification of High-Voltage Direct-Current Systems. Part I</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.122644"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>DC power transmission</keyword>
+    <keyword>Power conversion</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Thyristor applications</keyword>
+    <abstract>The report provides general guidance on the steady-state performance requirements of high-voltage direct-current (HVDC) systems. It concerns the steady-state performance of two-terminal HVDC systems utilizing 12 pulse converter units consisting of three-phase bridge (double way) connections. Excluded are multi-terminal HVDC transmission systems. Both converters are assumed to use thyristor valves as the main semiconductor valves and to have power flow capability in both directions. No consideration is given to diode valves.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

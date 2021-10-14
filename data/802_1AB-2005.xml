@@ -1,0 +1,26 @@
+<reference anchor="IEEE.802.1AB-2005" target="https://ieeexplore.ieee.org/document/1490127">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks -- Station and Media Access Control Connectivity Discovery</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96285"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>link layer discovery protocol</keyword>
+    <keyword>management information base</keyword>
+    <keyword>topology discovery</keyword>
+    <keyword>topology information</keyword>
+    <abstract>This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 8020 LANs</abstract>
+  </front>
+</reference>

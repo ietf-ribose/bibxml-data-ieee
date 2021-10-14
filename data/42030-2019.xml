@@ -1,0 +1,34 @@
+<reference anchor="IEEE.42030-2019" target="https://ieeexplore.ieee.org/document/8767001">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8767001"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="July" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software architecture</keyword>
+    <keyword>Software maintenance</keyword>
+    <keyword>Software systems</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>architecture evaluation</keyword>
+    <keyword>stakeholder</keyword>
+    <keyword>concern</keyword>
+    <keyword>architecture</keyword>
+    <keyword>architecture entity</keyword>
+    <keyword>system</keyword>
+    <keyword>software</keyword>
+    <keyword>tradeoff</keyword>
+    <keyword>assessment</keyword>
+    <keyword>analysis</keyword>
+    <abstract>This document complements the architecture-related processes identified in ISO/IEC/IEEE 42020, ISO/IEC/IEEE 15288, ISO/IEC/IEEE 12207 and ISO 15704 with a framework in support of architecture evaluation. It especially supports the Architecture Evaluation process in ISO/IEC/IEEE 42020. Implementing the principles and concepts in this framework will help ensure that the architecture has greater influence on business and mission success. It specifies a coherent set of elements for use in evaluation synthesis, value assessment and architectural analysis. Users of this standard can apply the framework in the context of: (1) determination of the suitability of a proposed architecture; (2) choosing among architecture alternatives; and (3) assessing the mission or business impact from the use of a new architecture or change to an established architecture.</abstract>
+  </front>
+</reference>

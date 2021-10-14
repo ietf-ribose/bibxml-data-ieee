@@ -1,0 +1,19 @@
+<reference anchor="IEEE.949-1985" target="https://ieeexplore.ieee.org/document/30685">
+  <front>
+    <title>IEEE Trial-Use Standard for Media-Independent Information Transfer</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82457"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Data communication</keyword>
+    <keyword>Data handling</keyword>
+    <keyword>File systems</keyword>
+    <keyword>Standards</keyword>
+    <abstract>The purpose of this standard is to define a format for the transmission of files and their attributes between computer systems independent of the medium of transmission. It is intended that any information medium capable of representing a consecutive sequence of 8-bit bytes should be adaptable to the format specified in this standard. The format is designed to facilitate the human interface to file selection from transmissions by foreign systems.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

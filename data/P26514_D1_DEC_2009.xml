@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P26514/D1, Dec 2009" target="https://ieeexplore.ieee.org/document/5385186">
+  <front>
+    <title>IEEE Draft Standard Adoption of ISO/IEC 26514:2008</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>software user documentation</keyword>
+    <keyword>information design</keyword>
+    <keyword>information development</keyword>
+    <keyword>procedures</keyword>
+    <keyword>user manual</keyword>
+    <abstract>This standard provides requirements for the design and development of software user documentation as part of the life cycle processes. It defines the documentation process from the viewpoint of the documentation developer. It also covers the documentation product. It specifies the structure, content, and format for user documentation, and also provides informative guidance for user documentation style. It is independent of the software tools that may be used to produce documentation, and applies to both printed documentation and on-screen documentation. Much of this standard is also applicable to user documentation for systems including hardware.</abstract>
+  </front>
+</reference>

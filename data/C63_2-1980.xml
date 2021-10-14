@@ -1,0 +1,20 @@
+<reference anchor="IEEE.C63.2-1980" target="https://ieeexplore.ieee.org/document/7453095">
+  <front>
+    <title>American National Standard Specifications for Electromagnetic Noise and Field Strength Instrumentation, 10 kHz to 1 GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7453095"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="April" day="15"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Antenna measurements</keyword>
+    <keyword>Instruments</keyword>
+    <keyword>Frequency modulation</keyword>
+    <keyword>Detectors</keyword>
+    <keyword>Voltage measurment</keyword>
+    <keyword>Current measurement</keyword>
+    <abstract>The increasing significance of electromagnetic compatibility considerations in the design and application of electrical and electronic equipment is directly related to the expanding sophistication of the functions performed by such equipment in industrial, civilian, and military activities. In order to enable the designer and user to be assured that equipment of concern to them will function in the intended application, it is necessary to control the electromagnetic environment adequately. The environment will vary from one application to another, as will the performance requirements. For this reason a variety of electromagnetic compatibility techniques and instruments are necessary. This specification describes requirements for instruments measuring quasi-peak, peak, rms and average values. To determine which of these need be included in any one instrument will depend upon the application.</abstract>
+  </front>
+</reference>

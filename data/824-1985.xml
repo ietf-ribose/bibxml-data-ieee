@@ -1,0 +1,22 @@
+<reference anchor="IEEE.824-1985" target="https://ieeexplore.ieee.org/document/29147">
+  <front>
+    <title>IEEE Standard for Series Capacitors in Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81698"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="1"/>
+    <keyword>Power capacitors</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Testing</keyword>
+    <abstract>Capacitors and assemblies of capacitors, insulation means, switching, protective equipment, and control accessories that form a complete bank for inserting in series with a transmission line are applied. Included are requirements for safety, rating, and protective device levels. Functional requirements for alarm devices, maintenance, design and production tests, and a guide for operation are included. Functional requirements for protective devices are addressed, including varistors and bypass gaps.</abstract>
+  </front>
+</reference>

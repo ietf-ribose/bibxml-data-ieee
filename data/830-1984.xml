@@ -1,0 +1,16 @@
+<reference anchor="IEEE.830-1984" target="https://ieeexplore.ieee.org/document/278253">
+  <front>
+    <title>IEEE Guide for Software Requirements Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.119205"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="January" day="12"/>
+    <keyword>Software engineering</keyword>
+    <keyword>System analysis and design</keyword>
+    <keyword>software</keyword>
+    <keyword>requirements</keyword>
+    <keyword>specifications</keyword>
+    <abstract>The content and qualities of a good software requirements specification (SRS) are described and several sample SRS outlines are presented. This recommended practice is aimed at specifying requirements of software to be developed but also can be applied to assist in the selection of in-house and commercial software products.</abstract>
+  </front>
+</reference>

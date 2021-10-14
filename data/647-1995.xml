@@ -1,0 +1,28 @@
+<reference anchor="IEEE.647-1995" target="https://ieeexplore.ieee.org/document/494457">
+  <front>
+    <title>IEEE Standard Specification Format Guide and Test Procedure for Single-Axis Laser Gyros</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.80221"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="November" day="13"/>
+    <keyword>Gyroscopes</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Position control</keyword>
+    <keyword>Displacement measurement</keyword>
+    <keyword>Optical transducers</keyword>
+    <keyword>Velocity measurement</keyword>
+    <keyword>Optical position measurement</keyword>
+    <keyword>gyro</keyword>
+    <keyword>gyroscope</keyword>
+    <keyword>inertial instrument</keyword>
+    <keyword>inertial sensor</keyword>
+    <keyword>laser gyro</keyword>
+    <keyword>optical gyro</keyword>
+    <keyword>ring laser gyro</keyword>
+    <keyword>RLG</keyword>
+    <keyword>sagnac effect</keyword>
+    <abstract>The specification and test requirements for a single-axis laser gyro for use as a sensor in attitude control systems, angular displacement measuring systems, and angular rate measuring systems is defined. A standard specification format guide for the preparation of a single-axis laser gyro is provided. A complication of recommended procedures for testing a laser gyro, derived from those presently used in the industry, is also provided.</abstract>
+  </front>
+</reference>

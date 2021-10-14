@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P1505.1/D9, May 2008" target="https://ieeexplore.ieee.org/document/4540140">
+  <front>
+    <title>IEEE Draft Trial-Use Standard for the Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This trial-use standard, IEEE 1505.1 The Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505 represents an extension to the IEEE-1505 Receiver Fixture Interface (RFI) Standard Specification. Particular emphasis is placed on defining within the IEEE-1505 RFI Standard a more specific set of performance requirements that employ a common scalable (a) pin map configuration; (b) specific connector modules; (c) respective contacts; (d) recommended switching implementation; and (e) legacy ATE transitional devices. This is intentionally done to standardize the footprint and assure mechanical and electrical interoperability between past and future Automatic Test Systems (ATS).</abstract>
+  </front>
+</reference>

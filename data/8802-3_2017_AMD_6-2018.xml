@@ -1,0 +1,41 @@
+<reference anchor="IEEE.8802-3:2017/Amd 6-2018" target="https://ieeexplore.ieee.org/document/8575216">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8575216"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>amendment</keyword>
+    <keyword>EPoC</keyword>
+    <keyword>EPON</keyword>
+    <keyword>EPON Protocol over Coax</keyword>
+    <keyword>Ethernet; Ethernet Passive Optical Networks</keyword>
+    <keyword>IEEE 802.3</keyword>
+    <keyword>IEEE 802.3bn</keyword>
+    <keyword>Multi-Point MAC Control (MPMC)</keyword>
+    <keyword>orthogonal frequency division multiplexing (OFDM)</keyword>
+    <keyword>Physical Coding Sublayer (PCS)</keyword>
+    <keyword>Physical Media Attachment (PMA)</keyword>
+    <keyword>Physical Medium Dependent (PMD)</keyword>
+    <keyword>PON</keyword>
+    <keyword>point to multipoint (P2MP)</keyword>
+    <abstract>Physical Layer specifications and management parameters for the operation of Ethernet Passive Optical Networks (EPON) Protocol over coaxial media is defined by this amendment to IEEE Std 802.3-2015.</abstract>
+  </front>
+</reference>

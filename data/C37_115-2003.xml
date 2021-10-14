@@ -1,0 +1,37 @@
+<reference anchor="IEEE.C37.115-2003" target="https://ieeexplore.ieee.org/document/1309813">
+  <front>
+    <title>IEEE Standard Test Method for Use in the Evaluation of Message Communications Between Intelligent Electronic Devices in an Integrated Substation Protection, Control and Data Acquisition System</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94574"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="25"/>
+    <keyword>Local area networks</keyword>
+    <keyword>Wide area networks</keyword>
+    <keyword>SCADA systems</keyword>
+    <keyword>Communication system operations and management</keyword>
+    <keyword>Specification languages</keyword>
+    <keyword>Conformance testing</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>automatic control</keyword>
+    <keyword>communication</keyword>
+    <keyword>communication evaluation criteria</keyword>
+    <keyword>communication performance measures</keyword>
+    <keyword>data acquisition</keyword>
+    <keyword>distributed processing</keyword>
+    <keyword>IEDs</keyword>
+    <keyword>intelligent electronic devices</keyword>
+    <keyword>SCADA</keyword>
+    <keyword>supervisory control</keyword>
+    <keyword>test scenario</keyword>
+    <keyword>UML</keyword>
+    <abstract>A standard test method, including evaluation criteria and performance measures, test scenarios for communication between intelligent electronic devices (IEDs) that implement substation integrated protection, control, and data acquisition is defined. Test scenarios are used to describe what data is exchanged between IEDs to perform a specified function that may be distributed between IEDs. All test scenarios use a standard Unified Modeling Language (UML) and a core reference model to build out an implementation.</abstract>
+  </front>
+</reference>

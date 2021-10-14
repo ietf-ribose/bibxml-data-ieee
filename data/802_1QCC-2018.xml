@@ -1,0 +1,35 @@
+<reference anchor="IEEE.802.1Qcc-2018" target="https://ieeexplore.ieee.org/document/8514112">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks -- Amendment 31: Stream Reservation Protocol (SRP) Enhancements and Performance Improvements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8514112"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="October" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Media streaming</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Timing</keyword>
+    <keyword>Sensitivity analysis</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802&amp;#169;</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qcc&amp;#8482;</keyword>
+    <keyword>SRP</keyword>
+    <keyword>Stream Reservation Protocol</keyword>
+    <keyword>MSRP</keyword>
+    <keyword>Multiple Stream Registration Protocol</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>TSN</keyword>
+    <abstract>Enhancements to the configuration of time-sensitive streams are provided by this amendment to IEEE Std 802.1Q-2018. (The PDF of this standard is available to you at no cost, compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page).</abstract>
+  </front>
+</reference>

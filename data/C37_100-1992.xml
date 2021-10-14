@@ -1,0 +1,23 @@
+<reference anchor="IEEE.C37.100-1992" target="https://ieeexplore.ieee.org/document/182886">
+  <front>
+    <title>IEEE Standard Definitions for Power Switchgear</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106978"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="13"/>
+    <keyword>Terminology</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>power switchgear</keyword>
+    <keyword>definitions; power switchgear</keyword>
+    <keyword>terminology</keyword>
+    <abstract>Terms that encompass the products within the scope of the C37 project are defined. These include power switchgear for switching, interrupting, metering, protection, and regulating purposes as used primarily in connection with generation, transmission, distribution, and conversion of electric power. The definitions do not purport to embrace other meanings that the terms may properly have when used in connection with other subjects.</abstract>
+  </front>
+</reference>

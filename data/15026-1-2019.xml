@@ -1,0 +1,23 @@
+<reference anchor="IEEE.15026-1-2019" target="https://ieeexplore.ieee.org/document/8657410">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8657410"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="March" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Terminology</keyword>
+    <abstract>This document defines assurance-related terms and establishes an organized set of concepts and their relationships, thereby establishing a basis for shared understanding of the concepts and principles central to all parts of ISO/IEC/IEEE 15026 across its user communities. It provides information to users of the subsequent parts of ISO/IEC/IEEE 15026, including the use of each part and the combined use of multiple parts. Coverage of assurance for a service being operated and managed on an ongoing basis is not covered in the ISO/IEC/IEEE 15026 series.</abstract>
+  </front>
+</reference>

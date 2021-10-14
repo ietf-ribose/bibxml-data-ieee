@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P485/D5, Jan 2020" target="https://ieeexplore.ieee.org/document/8959438">
+  <front>
+    <title>IEEE Draft Recommended Practice for Sizing Lead-Acid Batteries for Stationary Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="January" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Batteries</keyword>
+    <keyword>Lead acid batteries</keyword>
+    <keyword>Size control</keyword>
+    <keyword>Valves</keyword>
+    <keyword>battery duty cycle</keyword>
+    <keyword>cell selection</keyword>
+    <keyword>dc load</keyword>
+    <keyword>full-float operation</keyword>
+    <keyword>IEEE 485</keyword>
+    <keyword>lead-acid batteries</keyword>
+    <keyword>rated capacity</keyword>
+    <keyword>sizing</keyword>
+    <keyword>stationary applications</keyword>
+    <keyword>valve-regulated lead-acid (VRLA) cell</keyword>
+    <keyword>vented battery</keyword>
+    <keyword>vented lead-acid (VLA)</keyword>
+    <abstract>Methods for defining the dc load and for sizing a lead-acid battery to supply that load for stationary battery applications in float service are described in this recommended practice. Some factors relating to cell selection are provided for consideration. Installation, maintenance, qualification, testing procedures, and consideration of battery types other than lead-acid are beyond the scope of this recommended practice. Design of the dc system and sizing of the battery charger(s) are also beyond the scope of this recommended practice.</abstract>
+  </front>
+</reference>

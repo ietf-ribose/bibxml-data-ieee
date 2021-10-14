@@ -1,0 +1,20 @@
+<reference anchor="IEEE.352-1987" target="https://ieeexplore.ieee.org/document/159367">
+  <front>
+    <title>IEEE Guide for General Principles of Reliability Analysis of Nuclear Power Generating Station Safety Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.101069"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="April" day="13"/>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Reliability</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Standards</keyword>
+    <keyword>reliability</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>safety</keyword>
+    <keyword>analysis</keyword>
+    <keyword>generating</keyword>
+    <abstract>The basic principles that are needed to conduct a reliability analysis of safety systems are provided for designers and operators of nuclear power plant safety systems and the concerned regulatory groups. By applying the principles given, systems may be analyzed, results may be compared with reliability objectives, and the basis for decisions may be suitably documented. The quantitative principles are applicable to the analysis of the effects of component failures on safety system reliability. Although they have their greatest value during the design phase, the principles are applicable during any phase of the system s lifetime. They may also be applied during the preoperational phase or at any time during the normal lifetime of a system.</abstract>
+  </front>
+</reference>

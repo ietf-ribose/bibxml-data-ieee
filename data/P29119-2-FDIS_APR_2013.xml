@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P29119-2-FDIS, Apr 2013" target="https://ieeexplore.ieee.org/document/6512511">
+  <front>
+    <title>Approved Draft Software and systems engineering</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Software engineering</keyword>
+    <abstract>This part of ISO/IEC/IEEE 29119 specifies test processes that can be used to govern, manage and implement software testing for any organization, project or smaller testing activity. It comprises generic test process descriptions that define the software testing processes. Supporting informative diagrams describing the processes are also provided. This part of ISO/IEC/IEEE 29119 is applicable to testing in all software development lifecycle models. This part of ISO/IEC/IEEE 29119 is intended for, but not limited to, testers, test managers, developers and project managers, particularly those responsible for governing, managing and implementing software testing.</abstract>
+  </front>
+</reference>

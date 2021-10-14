@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1096-1988" target="https://ieeexplore.ieee.org/document/89819">
+  <front>
+    <title>IEEE Standard for a Multiplexed High-Performance Bus Structure: VSB</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94738"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="10"/>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Standards</keyword>
+    <keyword>multiplexed</keyword>
+    <keyword>high</keyword>
+    <keyword>bus</keyword>
+    <keyword>VSB</keyword>
+    <keyword>performance</keyword>
+    <keyword>Multimicroprocessing</keyword>
+    <keyword>Microcomputer interfaces</keyword>
+    <keyword>Data buses</keyword>
+    <abstract>Withdrawn Standard. Specifications for the subsystem bus of the IEC 821 BUS, referred to as the VSB, are set forth. VSB is a local subsystem extension bus that allows a processor board to access additional memory and I/O over a local bus, removing traffic from the global bus and improving the total throughput of the system. The objectives are: to improve the performance of multiprocessor systems by allowing the design of local subsystems; to specify the electrical characteristics required to design boards that will reliably transfer data over the VSB; to specify the mechanical requirements to be compatible with VSB systems; to specify protocols that precisely define the interaction between the VSB and devices interfaced to it; and to provide terminology and definitions that describe VSB protocols.</abstract>
+  </front>
+</reference>

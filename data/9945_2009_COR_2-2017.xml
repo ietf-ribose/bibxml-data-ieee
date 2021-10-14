@@ -1,0 +1,47 @@
+<reference anchor="IEEE.9945:2009/Cor 2-2017" target="https://ieeexplore.ieee.org/document/8393482">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8393482"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="June" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Application programming interfaces</keyword>
+    <keyword>API</keyword>
+    <keyword>application program interface</keyword>
+    <keyword>argument</keyword>
+    <keyword>asynchronous</keyword>
+    <keyword>basic regular expression</keyword>
+    <keyword>batch job</keyword>
+    <keyword>batch system</keyword>
+    <keyword>BRE</keyword>
+    <keyword>built-in utility</keyword>
+    <keyword>byte</keyword>
+    <keyword>child</keyword>
+    <keyword>command language interpreter</keyword>
+    <keyword>CPU</keyword>
+    <keyword>ERE</keyword>
+    <keyword>extended regular expression</keyword>
+    <keyword>FIFO</keyword>
+    <keyword>file access control mechanism</keyword>
+    <keyword>IEEE 1003.1&amp;#8482;</keyword>
+    <keyword>input/output</keyword>
+    <keyword>I/O</keyword>
+    <keyword>job control</keyword>
+    <keyword>network</keyword>
+    <keyword>portable operating system interface</keyword>
+    <keyword>POSIX(TM)</keyword>
+    <abstract>Problems discovered since the approval of IEEE Std 1003.1-2008 and IEEE Std 1003.1-2008/Cor 1-2013 are addressed.</abstract>
+  </front>
+</reference>

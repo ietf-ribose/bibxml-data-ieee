@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1150-1991" target="https://ieeexplore.ieee.org/document/159465">
+  <front>
+    <title>IEEE Trial-Use Recommended Practice for Integrating Power Plant Computer-Aided Engineering (CAE) Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101086"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>CADCAM</keyword>
+    <keyword>Standards</keyword>
+    <abstract>A data model, called the plant information network, that standardizes categories of generating plant data and data relationships, is presented. Guidelines are provided for using the model to integrate computer-aided engineering (CAE) applications across the spectrum of plant-work activities during the complete cycle of the plant from site selection through decommissioning. Instructions are given to aid the engineering, construction, and operating groups of the utility in specifying integrated CAE applications. The information engineering concepts that are the basis for integrated CAE development are covered.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

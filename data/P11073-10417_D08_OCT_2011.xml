@@ -1,0 +1,25 @@
+<reference anchor="IEEE.P11073-10417/D08, Oct 2011" target="https://ieeexplore.ieee.org/document/6031772">
+  <front>
+    <title>Ieee draft standard for health informatics--personal health device communication part 10417: device specialization- glucose meter</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Medical services</keyword>
+    <keyword>Biomedical measurements</keyword>
+    <keyword>Sugar</keyword>
+    <keyword>Patient monitoring</keyword>
+    <keyword>glucose meter</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth glucose meter devices and compute engines (e.g. cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth glucose meters.</abstract>
+  </front>
+</reference>

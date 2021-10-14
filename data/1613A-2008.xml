@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1613a-2008" target="https://ieeexplore.ieee.org/document/4534873">
+  <front>
+    <title>IEEE Standard Environmental and Testing Requirements for Communications Networking Devices in Electric Power Substations Amendment 1: Add Requirements for Altitude and Altitude Derating Factors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4534873"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>1613a-2008</keyword>
+    <keyword>altitude</keyword>
+    <keyword>altitude derating factors</keyword>
+    <keyword>altitude requirements</keyword>
+    <abstract>This amendment adds requirements to IEEE Std 1613-2003 relating to the altitude of installed communications networking devices, and the derating factors for dielectric power frequency tests and rated maximum ambient temperatures if the installation is above a specified altitude.</abstract>
+  </front>
+</reference>

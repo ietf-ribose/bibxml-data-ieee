@@ -1,0 +1,27 @@
+<reference anchor="IEEE.384-1981" target="https://ieeexplore.ieee.org/document/7414361">
+  <front>
+    <title>IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7414361"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Circuits</keyword>
+    <keyword>Power supplies</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>independence</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>class 1E</keyword>
+    <keyword>circuits</keyword>
+    <keyword>equipment</keyword>
+    <abstract>This standard describes the independence requirements of the circuits and equipment comprising or associated with Class 1E systems, including those required for safe shutdown. It sets forth criteria for the independence that can be achieved by physical separation and electrical isolation of circuits and equipment which are redundant but does not address the determination of what is to be considered redundant.</abstract>
+  </front>
+</reference>

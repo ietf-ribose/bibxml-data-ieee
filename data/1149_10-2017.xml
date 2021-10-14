@@ -1,0 +1,38 @@
+<reference anchor="IEEE.1149.10-2017" target="https://ieeexplore.ieee.org/document/7995164">
+  <front>
+    <title>IEEE Standard for High-Speed Test Access Port and On-Chip Distribution Architecture</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7995164"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="July" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>System-on-chip</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>Boundary conditions</keyword>
+    <keyword>3D-IC</keyword>
+    <keyword>Boundary-Scan Description Language</keyword>
+    <keyword>BSDL</keyword>
+    <keyword>debug</keyword>
+    <keyword>High Speed JTAG</keyword>
+    <keyword>I2C</keyword>
+    <keyword>IEEE 1149.1&amp;#8482;</keyword>
+    <keyword>PDL</keyword>
+    <keyword>IEEE 1149.10&amp;#8482;</keyword>
+    <keyword>integrated circuit</keyword>
+    <keyword>JTAG</keyword>
+    <keyword>wafer</keyword>
+    <keyword>Procedural Description Language</keyword>
+    <keyword>SERDES</keyword>
+    <keyword>SPI</keyword>
+    <keyword>system level test</keyword>
+    <abstract>Circuitry that may be built into an integrated circuit to assist in the test, maintenance, and support of assembled printed circuit boards, assembled multi-die packages, and the test of die internal circuits is defined in this standard. The circuitry includes a high-speed TAP (HSTAP) with a packet encoder/decoder and distribution architecture through which instructions and test data are communicated. The standard leverages the languages of IEEE Std 1149.1(TM) to describe and operate the on-chip circuits.</abstract>
+  </front>
+</reference>

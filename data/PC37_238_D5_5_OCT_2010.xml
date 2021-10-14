@@ -1,0 +1,28 @@
+<reference anchor="IEEE.PC37.238/D5.5, Oct 2010" target="https://ieeexplore.ieee.org/document/5621019">
+  <front>
+    <title>IEEE Draft Standard Profile for Use of IEEE Std. 1588 Precision Time Protocol in Power System Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Clocks</keyword>
+    <keyword>Substations</keyword>
+    <keyword>IEEE 1588</keyword>
+    <keyword>precise time synchronization</keyword>
+    <keyword>precision time protocol</keyword>
+    <keyword>grandmaster clock</keyword>
+    <keyword>transparent clock</keyword>
+    <keyword>slave-only clock</keyword>
+    <keyword>sample synchronization</keyword>
+    <keyword>synchrophasors</keyword>
+    <keyword>power substation.</keyword>
+    <abstract>This standard specifies a common profile for use of IEEE 1588-1 2008 Precision Time Protocol (PTP) in power system protection, control, automation and data communication applications utilizing an Ethernet communications architecture.</abstract>
+  </front>
+</reference>

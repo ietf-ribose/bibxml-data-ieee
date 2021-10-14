@@ -1,0 +1,27 @@
+<reference anchor="IEEE.896.9-1994" target="https://ieeexplore.ieee.org/document/476640">
+  <front>
+    <title>IEEE Standard for Fault Tolerant Extensions to the Futurebus+(R) Architecture</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79532"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="October" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Data buses</keyword>
+    <keyword>Computer fault tolerance</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>bus architecture</keyword>
+    <keyword>computers</keyword>
+    <keyword>data transmission</keyword>
+    <keyword>fault tolerance</keyword>
+    <keyword>Futurebus+</keyword>
+    <keyword>Multiprocessor systems</keyword>
+    <abstract>This standard is one in a family of Futurebus+TM standards. The Futurebus+ standards provide a set of tools with which to implement a bus architecture with performance and cost scalability over time for multiple generations of single- and multiple-bus multiprocessor systems. This standard provides fault tolerant extensions to Futurebus+ standards. As such, this standard provides the logical layer requirements for the transmission of data in a fault tolerant environment. When used in conjunction with other IEEE standards, the details to develop modular, open-architecture-based systems fulfilling user needs across a wide computing spectrum are available.</abstract>
+  </front>
+</reference>

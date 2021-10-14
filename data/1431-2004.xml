@@ -1,0 +1,36 @@
+<reference anchor="IEEE.1431-2004" target="https://ieeexplore.ieee.org/document/1394849">
+  <front>
+    <title>IEEE Standard Specification Format Guide and Test Procedure for Coriolis Vibratory Gyros</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95744"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="17"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Gyroscopes</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Vibration measurement</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Coriolis vibratory gyro</keyword>
+    <keyword>force-rebalance mode</keyword>
+    <keyword>gyro</keyword>
+    <keyword>gyroscope</keyword>
+    <keyword>inertial instrument</keyword>
+    <keyword>inertial sensor</keyword>
+    <keyword>MEMS</keyword>
+    <keyword>MEMS gyro</keyword>
+    <keyword>micro-electro-mechanical system</keyword>
+    <keyword>open loop mode</keyword>
+    <keyword>ratiometric output</keyword>
+    <keyword>whole angle mode</keyword>
+    <abstract>Specification and test requirements for a single-axis Coriolis vibratory gyro (CVG) for use as a sensor in attitude control systems, angular displacement measuring systems, and angular rate measuring systems are defined. A standard specification format guide for the preparation of a single-axis CVG is provided. A compilation of recommended procedures for testing a CVG, derived from those presently used in the industry, is also provided. Informative annexes cover CVG design features and theoretical principles of operation.</abstract>
+  </front>
+</reference>

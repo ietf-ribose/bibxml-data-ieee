@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1636.1-2013" target="https://ieeexplore.ieee.org/document/6759735">
+  <front>
+    <title>IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="March" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software maintenance</keyword>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>XML</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Automatic testing</keyword>
+    <keyword>automated test system (ATS)</keyword>
+    <keyword>eXtensible markup language (XML)</keyword>
+    <keyword>IEEE 1636.1(TM)</keyword>
+    <keyword>session information</keyword>
+    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+    <keyword>test results</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This standard is intended to promote and facilitate interoperability between components of automatic test systems where test results need to be shared. The standard thus facilitates the capture of test results data in storage devices and databases, facilitating online and offline analysis. The test results schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format utilizes the XML formats.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1521-2003" target="https://ieeexplore.ieee.org/document/8743099">
+  <front>
+    <title>IEEE Standard for Measurement of Video Jitter and Wander</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.8743099"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="June" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Jitter</keyword>
+    <keyword>Timing jitter</keyword>
+    <keyword>1521-2003</keyword>
+    <keyword>drift rate</keyword>
+    <keyword>frequency offset</keyword>
+    <keyword>jitter</keyword>
+    <keyword>timing interval error (TIE)</keyword>
+    <keyword>wander</keyword>
+    <abstract>Reaffirmed March 2010. A set of metrics and methods to enable consistent measurement of the components of timing interval error in video synchronization signals is provided. By partitioning the spectra into regions of jitter and lower frequency wander (characterized as frequency offset and drift rate), timing performance can be better quantified for consistent control over nontraditional networks.</abstract>
+  </front>
+</reference>

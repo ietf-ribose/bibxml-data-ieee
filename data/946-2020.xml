@@ -1,0 +1,38 @@
+<reference anchor="IEEE.946-2020" target="https://ieeexplore.ieee.org/document/9356506">
+  <front>
+    <title>IEEE Recommended Practice for the Design of DC Power Systems for Stationary Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2021" month="February" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>auxiliary</keyword>
+    <keyword>backup</keyword>
+    <keyword>battery</keyword>
+    <keyword>battery charger</keyword>
+    <keyword>charger sizing</keyword>
+    <keyword>control</keyword>
+    <keyword>cross-tie</keyword>
+    <keyword>dc</keyword>
+    <keyword>direct current</keyword>
+    <keyword>distribution</keyword>
+    <keyword>duty cycle</keyword>
+    <keyword>generating station</keyword>
+    <keyword>ground detection</keyword>
+    <keyword>IEEE 946</keyword>
+    <keyword>instrumentation</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>panels</keyword>
+    <keyword>protection coordination</keyword>
+    <keyword>rectifiers</keyword>
+    <keyword>reserve</keyword>
+    <keyword>selective protection</keyword>
+    <keyword>short-circuit</keyword>
+    <keyword>substation</keyword>
+    <keyword>telecommunication</keyword>
+    <abstract>Recommended practices for the design of dc power systems for stationary applications are provided in this document. The components of the dc power system addressed by this document include lead-acid and nickel-cadmium storage batteries, static battery chargers, and distribution equipment. Guidance in selecting the quantity and types of equipment, the equipment ratings, interconnections, instrumentation and protection is also provided. This recommendation is applicable for power generation, substation, and telecommunication applications.</abstract>
+  </front>
+</reference>

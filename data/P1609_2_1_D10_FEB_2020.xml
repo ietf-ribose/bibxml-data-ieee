@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P1609.2.1/D10, Feb 2020" target="https://ieeexplore.ieee.org/document/9007068">
+  <front>
+    <title>IEEE Draft Wireless Access in Vehicular Environments (WAVE) --Certificate Management Interfaces for End-entities</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Certification</keyword>
+    <keyword>Management</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>authorization</keyword>
+    <keyword>certificate</keyword>
+    <keyword>end entity</keyword>
+    <keyword>enrollment</keyword>
+    <keyword>IEEE Std 1609.2</keyword>
+    <keyword>IEEE Std 1609.2.1</keyword>
+    <keyword>interface</keyword>
+    <keyword>SCMS</keyword>
+    <abstract>This standard specifies certificate management protocols 1 to support provisioning and management of digital certificates, as specified in IEEE Std 1609.2, to end entities, i.e., an actor that uses digital certificates to authorize application activities.</abstract>
+  </front>
+</reference>

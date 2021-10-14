@@ -1,0 +1,29 @@
+<reference anchor="IEEE.1671.4-2014" target="https://ieeexplore.ieee.org/document/6808402">
+  <front>
+    <title>IEEE Standard for Automatic Test Markup Language (ATML) Test Configuration</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6808402"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="30"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Test configuration</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test equipment (ATE)</keyword>
+    <keyword>Automatic Test Markup Language (ATML)</keyword>
+    <keyword>automatic test system (ATS)</keyword>
+    <keyword>IEEE 1671.4(TM)</keyword>
+    <keyword>Master Configuration Control Document (MCCD)</keyword>
+    <keyword>Master Test Program Set Index (MTPSI)</keyword>
+    <keyword>station configuration file</keyword>
+    <keyword>test configuration</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>An exchange format is specified in this standard, using extensible markup language (XML), for identifying the test configuration used to test for and diagnose faults of a unit under test (UUT) on an automatic test system (ATS).</abstract>
+  </front>
+</reference>

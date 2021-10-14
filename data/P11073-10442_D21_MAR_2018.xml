@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P11073-10442/D21, Mar 2018" target="https://ieeexplore.ieee.org/document/8350322">
+  <front>
+    <title>IEEE Draft Health Informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="April" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Iinformatics</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>Patient rehabiliation</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Medical services</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Cellular phones</keyword>
+    <keyword>Telemedicine</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Musculoskeletal system</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <keyword>strength fitness equipment</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of the communication between personal strength fitness devices and managers (e.g., cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology and information models. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth strength fitness devices. In this context, strength fitness devices are being used broadly to cover strength fitness devices that measure musculo-skeletal strength-conditioning activities.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.8802-11:2005/AMD5-2006" target="https://ieeexplore.ieee.org/document/4014512">
+  <front>
+    <title>ISO/IEC International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.248163"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="November" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Europe</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>dynamic frequency selection (DFS)</keyword>
+    <keyword>local area network (LAN)</keyword>
+    <keyword>transmit power control (TPC)</keyword>
+    <abstract>Adoption IEEE Std 802.11h-2003. This amendment specifies the extensions to IEEE 8802.11(TM) for wireless local area networks (WLANs) providing mechanisms for dynamic frequency selection (DFS) and transmit power control (TPC) that may be used to satisfy regulatory requirements for operation in the 5 GHz band in Europe.</abstract>
+  </front>
+</reference>

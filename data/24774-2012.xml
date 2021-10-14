@@ -1,0 +1,29 @@
+<reference anchor="IEEE.24774-2012" target="https://ieeexplore.ieee.org/document/6190704">
+  <front>
+    <title>IEEE Guide--Adoption of ISO/IEC TR 24474:2010 Systems and Software Engineering-- Life Cycle Management--Guidelines for Process Description</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6190704"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="April" day="26"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Product life cycle management</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <keyword>activity</keyword>
+    <keyword>assessment</keyword>
+    <keyword>IEEE 24774</keyword>
+    <keyword>life cycle</keyword>
+    <keyword>outcome</keyword>
+    <keyword>process</keyword>
+    <keyword>task</keyword>
+    <abstract>An increasing number of international, national and industry standards describe process models. These models are developed for a range of purposes including process implementation and assessment. The terms and descriptions used in such models vary in format, content and level of prescription. ISO/IEC TR 24774:2010 presents guidelines for the elements used most frequently in describing a process: the title, purpose, outcomes, activities, task and information item. Whilst the primary purpose of ISO/IEC TR 24774:2010 is to encourage consistency in standard process reference models, the guidelines it provides can be applied to any process model developed for any purpose.</abstract>
+  </front>
+</reference>

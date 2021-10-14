@@ -1,0 +1,41 @@
+<reference anchor="IEEE.P3004.8/D12.4, Oct 2016" target="https://ieeexplore.ieee.org/document/7587335">
+  <front>
+    <title>IEEE Approved Draft Recommended Practice for Motor Protection in Industrial and Commercial Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="October" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Motors</keyword>
+    <keyword>Synchronous motors</keyword>
+    <keyword>De-excitation</keyword>
+    <keyword>Industrial power systems</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>induction motors</keyword>
+    <keyword>motor protection</keyword>
+    <keyword>motor protection relay</keyword>
+    <keyword>overcurrent protection</keyword>
+    <keyword>relay protection</keyword>
+    <keyword>rotors</keyword>
+    <keyword>stators</keyword>
+    <keyword>synchronous motors</keyword>
+    <keyword>negative sequence characteristics</keyword>
+    <keyword>coordination</keyword>
+    <keyword>rotor thermal protection</keyword>
+    <keyword>stator thermal protection</keyword>
+    <keyword>unbalanced protection</keyword>
+    <keyword>temperature sensors</keyword>
+    <keyword>inverse-time overcurrent element</keyword>
+    <keyword>resistive temperature detector</keyword>
+    <keyword>temperature detector voting</keyword>
+    <keyword>thermal model overload protection</keyword>
+    <keyword>permanent magnet motors</keyword>
+    <abstract>This recommended practice covers the protection of motors used in industrial and commercial power systems. It is likely to be of greatest value to the power-oriented engineer with limited experience in the area of protection and control. It can also be an aid to all engineers responsible for the electrical design of industrial and commercial power systems.</abstract>
+  </front>
+</reference>

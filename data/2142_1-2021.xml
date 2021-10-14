@@ -1,0 +1,26 @@
+<reference anchor="IEEE.2142.1-2021" target="https://ieeexplore.ieee.org/document/9381780">
+  <front>
+    <title>IEEE Recommended Practice for E-Invoice Business Using Blockchain Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9381780"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Blockchain</keyword>
+    <keyword>Online banking</keyword>
+    <keyword>Business</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>blockchain</keyword>
+    <keyword>e-invoice</keyword>
+    <keyword>IEEE 2142.1</keyword>
+    <abstract>Described in this standard is the blockchain-based application reference architecture of e-invoice business, including roles of participants, typical business scenarios, platform frameworks, and security requirements.</abstract>
+  </front>
+</reference>

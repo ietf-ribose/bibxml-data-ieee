@@ -1,0 +1,18 @@
+<reference anchor="IEEE.140-1950" target="https://ieeexplore.ieee.org/document/18437">
+  <front>
+    <title>IEEE Recommended Practice for Minimization of Interference from Radio-Frequency Heating Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1950.118984"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>Interference suppression</keyword>
+    <keyword>Electromagnetic heating</keyword>
+    <keyword>Shielding</keyword>
+    <keyword>Standards</keyword>
+    <keyword>radio-frequency energy leak</keyword>
+    <keyword>radio-frequency heating equipment</keyword>
+    <abstract>Superseded. IEEE Recommended Practice for Minimization of Interference from Radio-Frequency Heating Equipment, describes procedures that may be applied in the design and construction of radio-frequency heating equipment used for heating in industrial and other purposes, excluding applications in the field of telecommunication and information technology. These procedures are intended to reduce the amount of radio-frequency energy leaks, which can interfere with other equipment and broadcast services; they may also be used as remedial measures when harmful interference occurs.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,37 @@
+<reference anchor="IEEE.PC57.163/D2.4, Jun 2015" target="https://ieeexplore.ieee.org/document/7120054">
+  <front>
+    <title>IEEE Draft Guide for Establishing Power Transformer Capability while under Geomagnetic Disturbances</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="June" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Geomagnetism</keyword>
+    <keyword>Thermal analysis</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>power transformers</keyword>
+    <keyword>Geomagnetic Disturbances</keyword>
+    <keyword>GMD</keyword>
+    <keyword>Geomagnetically Induced Current</keyword>
+    <keyword>GIC</keyword>
+    <keyword>thermal</keyword>
+    <keyword>magnetic</keyword>
+    <keyword>temperature gradient</keyword>
+    <keyword>GIC signature</keyword>
+    <keyword>monitoring</keyword>
+    <keyword>core saturation</keyword>
+    <keyword>testing</keyword>
+    <keyword>design review</keyword>
+    <abstract>This guide describes the effects of Geomagnetic Disturbances (GMD) on power transformers when there is the presence of Geomagnetically Induced Current (GIC) in a power transformer. It establishes specification parameters and performance characteristics for power transformers to help minimize the risk and impact when GIC is present in the power system. The intent is to provide background that can help evaluate the effect of GIC on a power transformer design and its GIC capability. This includes the evaluation techniques to determine the 6 performance characteristics while under the influence of GIC.</abstract>
+  </front>
+</reference>

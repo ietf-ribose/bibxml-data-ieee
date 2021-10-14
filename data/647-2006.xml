@@ -1,0 +1,35 @@
+<reference anchor="IEEE.647-2006" target="https://ieeexplore.ieee.org/document/1706054">
+  <front>
+    <title>IEEE Standard Specification Format Guide and Test Procedure for Single-Axis Laser Gyros</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.246241"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Gyroscopes</keyword>
+    <keyword>Ring lasers</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Sagnac interferometers</keyword>
+    <keyword>dithered gyro</keyword>
+    <keyword>gyro</keyword>
+    <keyword>gyroscope</keyword>
+    <keyword>inertial instrument</keyword>
+    <keyword>inertial sensor</keyword>
+    <keyword>optical gyro</keyword>
+    <keyword>resonant cavity</keyword>
+    <keyword>ring laser gyro</keyword>
+    <keyword>RLG</keyword>
+    <keyword>Sagnac effect</keyword>
+    <keyword>Sagnac gyro</keyword>
+    <abstract>Specification and test requirements for a single-axis ring laser gyro (RLG) for use as a sensor in attitude control systems, angular displacement measuring systems, and angular rate measuring systems are defined. A standard specification format guide for the preparation of a single-axis RLG is provided. A compilation of recommended procedures for testing an RLG, derived from those presently used in the industry, is also provided.</abstract>
+  </front>
+</reference>

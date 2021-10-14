@@ -1,0 +1,21 @@
+<reference anchor="IEEE.60214-2-2019" target="https://ieeexplore.ieee.org/document/8736533">
+  <front>
+    <title>IEEE/IEC International Standard for TAP-changers --Part 2: Application guidelines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8736533"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="June" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>TAP changers</keyword>
+    <keyword>Load management</keyword>
+    <abstract>This part of IEC 60214 is intended to assist in the selection of tap-changers designed in accordance with IEC 60214-1 or IEEE Std C57.131 for use in conjunction with the tapped windings of transformers or reactors. Requirements, references and definitions relevant to either IEC 60214-1 or IEEE Std C57.131 are given and their use is described in Clause 4. It is also intended to assist in understanding the various types of tap-changers and their associated equipment available. These application guidelines cover on-load tap-changers (resistor and reactor types) and de-energized tap-changers.</abstract>
+  </front>
+</reference>

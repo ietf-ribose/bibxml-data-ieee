@@ -1,0 +1,26 @@
+<reference anchor="IEEE.C57.15-1986" target="https://ieeexplore.ieee.org/document/29098">
+  <front>
+    <title>IEEE Standard Requirements, Terminology, and Test Code for Step-Voltage and Induction-Voltage Regulators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81596"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Safety</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>requirements</keyword>
+    <keyword>terminology</keyword>
+    <keyword>step</keyword>
+    <keyword>induction</keyword>
+    <keyword>regulators</keyword>
+    <keyword>Voltage control</keyword>
+    <abstract>This IEEE Standards product is part of the C57 family on Power Distribution and Regulating Transformers. Electrical, mechanical, and safety requirements are set forth for step-voltage and induction-voltage regulators, single-phase and three-phase, oil-filled and dry-type, not exceeding 2500 kVA of regulation for three-phase units, or not exceeding 833 kVA of regulation for single-phase units. These provide a basis for the establishment of performance, limited electrical and mechanical interchangeability, and safety requirements of equipment described and for assistance in the proper selection of such equipment.</abstract>
+  </front>
+</reference>

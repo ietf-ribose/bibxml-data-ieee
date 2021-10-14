@@ -1,0 +1,23 @@
+<reference anchor="IEEE.C95.1-2019/Cor 2-2020" target="https://ieeexplore.ieee.org/document/9238523">
+  <front>
+    <title>IEEE Standard for Safety Levels with Respect to Human Exposure to Electric, Magnetic, and Electromagnetic Fields, 0 Hz to 300 GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9238523"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="October" day="23"/>
+    <keyword>electric field strength</keyword>
+    <keyword>exposure reference level (ERL)</keyword>
+    <keyword>IEEE C95.1&amp;#8482;</keyword>
+    <keyword>magnetic flux density</keyword>
+    <keyword>restricted environment</keyword>
+    <keyword>unrestricted environment</keyword>
+    <abstract>Technical corrections are addressed in this corrigendum. Figure 1 and Figure 2 in IEEE Std C95.1-2019 were found to be incorrect. They did not accurately portray the limits given in Table 2, Table 3, and Table 4. The figures were corrected with respect to frequency extent and breakpoints to be consistent with the tables.</abstract>
+  </front>
+</reference>

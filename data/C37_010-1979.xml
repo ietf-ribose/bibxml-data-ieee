@@ -1,0 +1,18 @@
+<reference anchor="IEEE.C37.010-1979" target="https://ieeexplore.ieee.org/document/8691861">
+  <front>
+    <title>IEEE Application Guide for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.8691861"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="15"/>
+    <keyword>Circuit breakers</keyword>
+    <abstract>AC high-voltage circuit breakers rated in accordance with the methods given in ANSI/IEEE C37.04-1979 and listed in ANSI C37.06-1979 are covered. Service conditions are discussed, and factors to be considered in the application of circuit breakers are addressed. Short-circuit considerations are included.</abstract>
+  </front>
+</reference>

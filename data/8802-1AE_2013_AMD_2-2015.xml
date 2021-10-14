@@ -1,0 +1,41 @@
+<reference anchor="IEEE.8802-1AE:2013/Amd.2-2015" target="https://ieeexplore.ieee.org/document/7457578">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Part 1AE: Media Access Control (MAC) security</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7457578"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="April" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area netowrks</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Media access protocol</keyword>
+    <keyword>Bridged circuits</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>IEEE 802.1AE</keyword>
+    <keyword>IEEE 802.1AEbw</keyword>
+    <keyword>integrity</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>The optional use of Cipher Suites that make use of a 64-bit (PN) to allow more than 2^32 MACsec protected frames to be sent with a single Secure Association Key are specified by this amendment.</abstract>
+  </front>
+</reference>

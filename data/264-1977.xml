@@ -1,0 +1,23 @@
+<reference anchor="IEEE.264-1977" target="https://ieeexplore.ieee.org/document/7384644">
+  <front>
+    <title>IEEE Standard for High-Power Wide-Band Transformers (100 Watts and Above)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7384644"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wideband</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Power system measurements</keyword>
+    <keyword>ANSI Standards</keyword>
+    <abstract>This publication pertains to wide-band transformers, transmitting power of equal to or more than 100 W. Guides to application and test procedures are included. Appendices contain certain precautions and recommended practices. Provision is made for including data for use in the design of feedback amplifiers and control networks or other circuits in which knowledge of the transformer amplitude and phase-frequency response is needed by the system designer. These transformers are required to transform voltage within specified tolerances of amplitude and phase when operating between specified impedances.</abstract>
+  </front>
+</reference>

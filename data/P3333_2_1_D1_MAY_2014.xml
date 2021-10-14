@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P3333.2.1/D1, May 2014" target="https://ieeexplore.ieee.org/document/6916982">
+  <front>
+    <title>IEEE Draft Recommended Practice for Three-Dimensional (3D) Medical Modelling</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="October" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>Three dimensional displays</keyword>
+    <keyword>Modeling</keyword>
+    <keyword>Standard for Medical 3D</keyword>
+    <keyword>Medical 3D Format</keyword>
+    <keyword>Medical 3D Segmentation</keyword>
+    <keyword>Medical 3D Reconstruction</keyword>
+    <keyword>Medical 3D Decimation</keyword>
+    <keyword>Texture Mapping</keyword>
+    <keyword>Material Properties</keyword>
+    <abstract>This standard describes the generation and practical use of medical three-dimensional (3D) modeling for diagnostics and therapeutic applications. It includes volume rendering and surface rendering techniques for 3D reconstruction from two-dimensional (2D) medical images and a texturing method of 3D medical data for realistic visualization.</abstract>
+  </front>
+</reference>

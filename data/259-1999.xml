@@ -1,0 +1,24 @@
+<reference anchor="IEEE.259-1999" target="https://ieeexplore.ieee.org/document/798777">
+  <front>
+    <title>IEEE Standard Test Procedure for Evaluation of Systems of Insulation for Dry-Type Specialty and General-Purpose Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90566"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="June" day="24"/>
+    <keyword>Power transformer insulation</keyword>
+    <keyword>aging</keyword>
+    <keyword>evaluation</keyword>
+    <keyword>dry-type</keyword>
+    <keyword>insulation system</keyword>
+    <keyword>thermal</keyword>
+    <keyword>transformers</keyword>
+    <abstract>A uniform method by which the thermal endurance of electrical insulation systems for dry-type specialty and general-purpose transformers can be compared is established. Covered are insulation systems intended for use in the types of transformers described in NEMA ST 1-1988 and NEMA ST 20-1992.</abstract>
+  </front>
+</reference>

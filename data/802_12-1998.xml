@@ -1,0 +1,10 @@
+<reference anchor="IEEE.802.12-1998" target="https://ieeexplore.ieee.org/document/1389254">
+  <front>
+    <title>IEEE Standard for Information Technology- Telecommunications and Information Exchange Between Systems- Local and Metropolitan Area Networks- Specific Requirements Part 12: Demand-Priority Access Method, Physical Layer and Repeater Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.95618"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <abstract>The media access control characteristics for the demand-priority access method are specified. The layer management, physical layers, and media that support this access method are also specified. Layer and sublayer interface specifications are aligned to the ISO Open Systems Interconnection Basic Reference Model and ISO/IEC 8802 models. Specifications for 100 Mb/s operation over 100 /spl Omaga/ balanced cable (twisted-pair) Categories 3 through 5, 150 /spl Omaga/ shielded balanced cable, and fibre-optic media are included. Optional implementation of redundant links to facilitate automatic recovery of network connectivity in case of link or repeater failure anywhere in the network path is specified. Rules for connecting redundant links within a network are defined.</abstract>
+  </front>
+</reference>

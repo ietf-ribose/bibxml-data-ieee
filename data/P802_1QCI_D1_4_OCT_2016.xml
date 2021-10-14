@@ -1,0 +1,34 @@
+<reference anchor="IEEE.P802.1Qci/D1.4, Oct 2016" target="https://ieeexplore.ieee.org/document/7585015">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks -- Bridges and Bridged Networks Amendment: Per-Stream Filtering and Policing</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="October" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Media streaming</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.1Q(TM)</keyword>
+    <keyword>IEEE Std 802.1Qbu(TM)</keyword>
+    <keyword>IEEE 802.1Qbv(TM)</keyword>
+    <keyword>IEEE Std 802.1Qbz(TM)</keyword>
+    <keyword>IEEE 802.1Qca(TM)</keyword>
+    <keyword>IEEE 802.1Qcd(TM)</keyword>
+    <keyword>IEEE 802.1Qci(TM)</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>per-stream filtering and policing</keyword>
+    <keyword>PSFP</keyword>
+    <keyword>scheduled traffic</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>Enhancements to the forwarding process that support per-stream filtering and policing are provided in this amendment to IEEE Std 802.1Q-2014.</abstract>
+  </front>
+</reference>

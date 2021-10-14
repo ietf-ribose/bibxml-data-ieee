@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1184-1994" target="https://ieeexplore.ieee.org/document/475523">
+  <front>
+    <title>IEEE Guide for the Selection and Sizing of Batteries for Uninterruptible Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79075"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Uninterruptible power systems</keyword>
+    <keyword>Batteries</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>flooded cell</keyword>
+    <keyword>hydrogen evolution</keyword>
+    <keyword>lead-acid battery</keyword>
+    <keyword>nickel-cadmium battery</keyword>
+    <keyword>Planté plate</keyword>
+    <keyword>UPS</keyword>
+    <keyword>VRLA</keyword>
+    <keyword>vented cell</keyword>
+    <keyword>valve-regulated lead-acid cell</keyword>
+    <keyword>uninterruptible power system</keyword>
+    <abstract>The characteristics of the various battery energy systems available are described so that users can select the system best suited to their requirements. This guide also describes how the rectifier and the inverter components of the uninterruptible power system (UPS) can relate to the selection of the battery system.</abstract>
+  </front>
+</reference>

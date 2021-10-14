@@ -1,0 +1,37 @@
+<reference anchor="IEEE.P11073-10102/D03, Oct 2012" target="https://ieeexplore.ieee.org/document/6376065">
+  <front>
+    <title>IEEE Draft Standard for Health informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="December" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Cardiololgy</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>Arrhythmias</keyword>
+    <keyword>Echocardiography</keyword>
+    <keyword>Pacemakers</keyword>
+    <keyword>Codes</keyword>
+    <keyword>Annotations</keyword>
+    <keyword>Annotated ECG</keyword>
+    <keyword>Cardiac Rhythm</keyword>
+    <keyword>Arrhythmias</keyword>
+    <keyword>ECG measurements</keyword>
+    <keyword>ECG Leads</keyword>
+    <keyword>ECG Lead Systems</keyword>
+    <keyword>Medical Device Communication</keyword>
+    <keyword>Nomenclature</keyword>
+    <keyword>Pacemaker</keyword>
+    <keyword>Patient Monitoring</keyword>
+    <keyword>Home Monitoring</keyword>
+    <keyword>Remote Monitoring</keyword>
+    <keyword>Terminology</keyword>
+    <abstract>This standard extends the base IEEE 11073-10101 Nomenclature to provide support for ECG annotation terminology. It may be used either in conjunction with other IEEE 1073 standards (e.g., IEEE 11073-10201 Domain information model) or independently with other standards. Major subject areas addressed by the nomenclature include ECG beat annotations, wave component annotations, rhythm annotations, and noise annotations. It also defines additional "global" and "per-lead" numeric observation identifiers, ECG lead systems and additional ECG lead identifiers.</abstract>
+  </front>
+</reference>

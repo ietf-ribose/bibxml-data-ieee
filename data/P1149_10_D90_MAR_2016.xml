@@ -1,0 +1,36 @@
+<reference anchor="IEEE.P1149.10/D90, Mar 2016" target="https://ieeexplore.ieee.org/document/7459678">
+  <front>
+    <title>IEEE Draft High Speed Test Access Port and On-chip Distribution Architecture</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="April" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>Debugging</keyword>
+    <keyword>High speed transmission</keyword>
+    <keyword>Description language </keyword>
+    <keyword>System level testing</keyword>
+    <keyword>SERDES</keyword>
+    <keyword>SPI</keyword>
+    <keyword>I2C</keyword>
+    <keyword>High Speed JTAG</keyword>
+    <keyword>Boundary-Scan Description Language (BSDL)</keyword>
+    <keyword>PDL</keyword>
+    <keyword>IEEE 1149.10</keyword>
+    <keyword>IEEE 1149.1</keyword>
+    <keyword>wafer</keyword>
+    <keyword>integrated circuit</keyword>
+    <keyword>System Level Test</keyword>
+    <keyword>3D-IC</keyword>
+    <keyword>Procedural Description Language (PDL)</keyword>
+    <keyword>debug.</keyword>
+    <abstract>Circuitry that may be built into an integrated circuit to assist in the test, maintenance and support of assembled printed circuit boards, assembled multi-die packages and the test of die internal circuits is defined. The circuitry includes a packet decoder and standard architecture through which instructions and test data are communicated. The standard leverages the languages of IEEE Std. 1149.1 in order to describe and operate the onchip circuits.</abstract>
+  </front>
+</reference>

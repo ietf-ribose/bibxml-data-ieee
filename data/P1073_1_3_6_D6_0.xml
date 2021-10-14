@@ -1,0 +1,35 @@
+<reference anchor="IEEE.P1073.1.3.6/D6.0" target="https://ieeexplore.ieee.org/document/4040062">
+  <front>
+    <title>IEEE Draft Standard for Health informatics -- Point-of-care medical device communication -- Device specialization</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Electrocardiography</keyword>
+    <keyword>Biological system modeling</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>ISO</keyword>
+    <keyword>IEC</keyword>
+    <keyword>bedside</keyword>
+    <keyword>ECG</keyword>
+    <keyword>VMD</keyword>
+    <keyword>Channel</keyword>
+    <keyword>medical device</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>MIB</keyword>
+    <keyword>patient</keyword>
+    <keyword>Heart Rate</keyword>
+    <keyword>Respiration</keyword>
+    <keyword>Arrhythmia</keyword>
+    <keyword>Ischemia</keyword>
+    <keyword>ST</keyword>
+    <abstract>This standard establishes a model for the implementation of the ECG Virtual Medical Device. It establishes a Design Model and specifies how this Model should be implemented. It also provides guidance concerning bandwidth requirements as well as how to specify conformance with this standard.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.802.3p,q-1993" target="https://ieeexplore.ieee.org/document/286119">
+  <front>
+    <title>IEEE Standards for LMANs: Supplement to IEEE 802.3</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119668"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>EPON</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>carrier sense multiple access with collision detection (CSWCD); CSWCD Management for DTEs; layer-managed objects; layer management; managed objects; medium attachment units (MAUs); MAU Management</keyword>
+    <abstract>Abstract for IEEE 802.3-1993: This supplement to ISO/IEC 8802-3 : 1993 [IEEE Std 802.3,1993 Edition] defines a set of mechanisms that enable management of ISO/IEC 8802-3 10 MWs integrated Medium Attachment Units (MAUs). The managed objects within this standard are defined as sets of attributes, actions, notifications, and behaviors in accordance with IEEE 802.1 and IS0 standards for network management. Abstract for IEEE 802.3q-1993: Changes are made to Section 5, Lower Management, of ISO/IEC 8802-3 : 1993 [IEEE Std 802.3,1 993 Edition] to bring it into alignment with ISO/IEC 10165-4, Guidelines for the development of managed objects (GDMO).</abstract>
+  </front>
+</reference>

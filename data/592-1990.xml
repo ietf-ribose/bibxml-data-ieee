@@ -1,0 +1,24 @@
+<reference anchor="IEEE.592-1990" target="https://ieeexplore.ieee.org/document/159278">
+  <front>
+    <title>IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable Joints and Separable Insulated Connectors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101051"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="September" day="11"/>
+    <keyword>Cable insulation</keyword>
+    <keyword>Connectors</keyword>
+    <keyword>Insulation testing</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Standards</keyword>
+    <keyword>shield resistance</keyword>
+    <keyword>Fault current initiation</keyword>
+    <abstract>This standard provides design tests for shield resistance and a simulated fault-current initiation for exposed semiconducting shields used on cable accessories, specifically joints and separable insulated connectors rated 15 kV through 35 kV.</abstract>
+  </front>
+</reference>

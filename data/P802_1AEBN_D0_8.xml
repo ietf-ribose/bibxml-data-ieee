@@ -1,0 +1,36 @@
+<reference anchor="IEEE.P802.1AEbn/D0.8" target="https://ieeexplore.ieee.org/document/5937020">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security Amendment 1: Galois Counter Mode-Advanced Encryption Standard-256 (GCM-AES-256) Cipher Suite</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5937020"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Security</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>integrity</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>This amendment specifies the GCM-AES-256 Cipher Suite as an option in addition to the existing mandatory to implement Default Cipher Suite, GCM-AES-128.</abstract>
+  </front>
+</reference>

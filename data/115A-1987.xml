@@ -1,0 +1,22 @@
+<reference anchor="IEEE.115A-1987" target="https://ieeexplore.ieee.org/document/26557">
+  <front>
+    <title>IEEE Standard Procedures for Obtaining Synchronous Machine Parameters by Standstill Frequency Response Testing</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.79637"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Frequency response</keyword>
+    <keyword>Stability criteria</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Synchronous machines</keyword>
+    <keyword>115A</keyword>
+    <abstract>The application of standstill frequency response testing methods for obtaining direct- and quadrature-axis stability parameters is described. Measurable parameters at standstill are discussed, and the test method is described. This standard is a supplement to ANSI/IEEE Std 115-1983, IEEE Guide: Test Procedures for Synchronous Machines.</abstract>
+  </front>
+</reference>

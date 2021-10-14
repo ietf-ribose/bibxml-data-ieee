@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1500-2005" target="https://ieeexplore.ieee.org/document/1507591">
+  <front>
+    <title>IEEE Standard Testability Method for Embedded Core-based Integrated Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96465"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="December" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Testing</keyword>
+    <keyword>System-on-chip</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>core test</keyword>
+    <keyword>embedded core test</keyword>
+    <keyword>IP test</keyword>
+    <keyword>test reuse</keyword>
+    <abstract>This standard defines a mechanism for the test of core designs within a system on chip (SoC). This mechanism constitutes a hardware architecture and leverages the core test language (CTL) to facilitate communication between core designers and core integrators.</abstract>
+  </front>
+</reference>

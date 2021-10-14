@@ -1,0 +1,28 @@
+<reference anchor="IEEE.P1800/D3, Apr 2017" target="https://ieeexplore.ieee.org/document/7921685">
+  <front>
+    <title>IEEE Draft Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="May" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>Hardware description language</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>Computer languages</keyword>
+    <keyword>Programming languages</keyword>
+    <keyword>assertions</keyword>
+    <keyword>design automation</keyword>
+    <keyword>design verification</keyword>
+    <keyword>hardware description language</keyword>
+    <keyword>HDL</keyword>
+    <keyword>HDVL</keyword>
+    <keyword>IEEE 1800(TM)</keyword>
+    <keyword>PLI</keyword>
+    <keyword>programming language interface</keyword>
+    <keyword>SystemVerilog</keyword>
+    <keyword>Verilog(R)</keyword>
+    <keyword>VPI</keyword>
+    <abstract>The definition of the language syntax and semantics for SystemVerilog, which is a unified hardware design, specification, and verification language, is provided. This standard includes support for modeling hardware at the behavioral, register transfer level (RTL), and gate-level abstraction levels, and for writing testbenches using coverage, assertions, object-oriented programming, and constrained random verification. The standard also provides application programming interfaces (APIs) to foreign programming languages. (The PDF of this standard is available at no cost at http://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=80 compliments of Accellera Systems Initiative)</abstract>
+  </front>
+</reference>

@@ -1,0 +1,47 @@
+<reference anchor="IEEE.P1666.1/D4, Oct 2015" target="https://ieeexplore.ieee.org/document/7293581">
+  <front>
+    <title>IEEE Draft SystemC Analog/Mixed-Signal (AMS) extensions Language Reference Manual</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="October" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Analog circuits</keyword>
+    <keyword>Behavioral science</keyword>
+    <keyword>Hardware design languages</keyword>
+    <keyword>System-on-chip</keyword>
+    <keyword>Design automation</keyword>
+    <keyword>Electrical systems</keyword>
+    <keyword>Computer languages</keyword>
+    <keyword>Data models</keyword>
+    <keyword>analog mixed signal</keyword>
+    <keyword>behavioral modeling</keyword>
+    <keyword>C++</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>data flow simulation</keyword>
+    <keyword>digital systems</keyword>
+    <keyword>discrete event simulation</keyword>
+    <keyword>electronic design automation</keyword>
+    <keyword>electronic system level</keyword>
+    <keyword>electronic systems</keyword>
+    <keyword>electrical networks</keyword>
+    <keyword>hardware description language</keyword>
+    <keyword>hardware design</keyword>
+    <keyword>hardware verification</keyword>
+    <keyword>IEEE 1666</keyword>
+    <keyword>IEEE 1666.1</keyword>
+    <keyword>mixed-signal modeling</keyword>
+    <keyword>SystemC</keyword>
+    <keyword>SystemC AMS</keyword>
+    <keyword>signal flow modeling</keyword>
+    <keyword>system modeling</keyword>
+    <keyword>system-on-chip</keyword>
+    <abstract>The SystemC Analog/Mixed-Signal (AMS) extensions are defined in this standard. SystemC AMS is an ANSI standard C++ class library for electronic system-level design and modeling for use by system architects and engineers who need to address complex heterogeneous systems that are a hybrid between analog, digital and software components. This standard provides a precise and complete definition of the SystemC AMS class library so that a SystemC AMS implementation can be developed with reference to this standard alone. The primary audiences for this standard are the implementors of the SystemC AMS class library, the implementors of tools supporting the class library, and the users of the class library.</abstract>
+  </front>
+</reference>

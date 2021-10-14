@@ -1,0 +1,45 @@
+<reference anchor="IEEE.2600.4-2010" target="https://ieeexplore.ieee.org/document/5426443">
+  <front>
+    <title>IEEE Standard Protection Profile for Hardcopy Devices in IEEE Std 2600(TM)-2008 Operational Environment D</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5426443"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="December" day="9"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Disk drives</keyword>
+    <keyword>Data storage systems</keyword>
+    <keyword>2600.4-2010</keyword>
+    <keyword>all-in-one</keyword>
+    <keyword>Common Criteria</keyword>
+    <keyword>copier</keyword>
+    <keyword>disk overwrite</keyword>
+    <keyword>document</keyword>
+    <keyword>document server</keyword>
+    <keyword>document storage and retrieval</keyword>
+    <keyword>facsimile</keyword>
+    <keyword>fax</keyword>
+    <keyword>hardcopy</keyword>
+    <keyword>ISO/IEC 15408</keyword>
+    <keyword>multifunction device (MFD)</keyword>
+    <keyword>multifunction product (MFP)</keyword>
+    <keyword>network</keyword>
+    <keyword>network interface</keyword>
+    <keyword>nonvolatile storage</keyword>
+    <keyword>office</keyword>
+    <keyword>paper</keyword>
+    <keyword>printer</keyword>
+    <keyword>Protection Profile</keyword>
+    <keyword>residual data</keyword>
+    <keyword>scanner</keyword>
+    <keyword>security target</keyword>
+    <keyword>shared communications medium</keyword>
+    <keyword>temporary data</keyword>
+    <abstract>A protection profile for hardcopy devices in a small, private information processing environment is discussed in this standard in which most elements of security are provided by the physical environment, but basic network security is needed to protect the device and its network from misuse from outside of the environment. Small offices and home offices are typical applications of this environment. This environment will be known as "operational environment D".</abstract>
+  </front>
+</reference>

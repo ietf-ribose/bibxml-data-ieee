@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P802.11ak/D4.0, Mar 2017" target="https://ieeexplore.ieee.org/document/7903555">
+  <front>
+    <title>IEEE Draft Standard for Telecommunications and information exchange between systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="April" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>bridged</keyword>
+    <keyword>bridging</keyword>
+    <keyword>EPD</keyword>
+    <keyword>GCR</keyword>
+    <keyword>GLK</keyword>
+    <keyword>GLK-GCR</keyword>
+    <keyword>IEEE 802.11(TM)</keyword>
+    <keyword>IEEE 802.11ak(TM)</keyword>
+    <keyword>IEEE 802.1Q(TM)</keyword>
+    <keyword>LPD</keyword>
+    <keyword>priority code point</keyword>
+    <keyword>SYNRA</keyword>
+    <keyword>transit link</keyword>
+    <abstract>Protocols, procedures, and managed objects to enhance the ability of IEEE 802.11(TM) media to provide transit links internal to IEEE 802.1Q(TM) bridged networks are specified in this amendment to IEEE Std 802.11(TM)-2016.</abstract>
+  </front>
+</reference>

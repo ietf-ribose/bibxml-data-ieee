@@ -1,0 +1,35 @@
+<reference anchor="IEEE.802.1BA-2011" target="https://ieeexplore.ieee.org/document/6032690">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--Audio Video Bridging (AVB) Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6032690"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="17"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Audio systems</keyword>
+    <keyword>Visualization</keyword>
+    <keyword>Virtual environments</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>audio video bridging</keyword>
+    <keyword>AVB</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802.1BA</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>time sensitive data streams</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <abstract>Profiles that select features, options, configurations, defaults, protocols and procedures of bridges, stations and LANs that are necessary to build networks that are capable of transporting time-sensitive audio and/or video data streams are defined in this standard.</abstract>
+  </front>
+</reference>

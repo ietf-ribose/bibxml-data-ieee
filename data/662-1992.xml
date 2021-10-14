@@ -1,0 +1,22 @@
+<reference anchor="IEEE.662-1992" target="https://ieeexplore.ieee.org/document/182893">
+  <front>
+    <title>IEEE Standard Terminology for Semiconductor Memory</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106980"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="16"/>
+    <keyword>Semiconductor memories</keyword>
+    <keyword>Standardization</keyword>
+    <keyword>Professional communication</keyword>
+    <keyword>terminology</keyword>
+    <keyword>Semiconductor memory devices</keyword>
+    <abstract>Guidelines under which data sheets for new semiconductor memories are to be generated are provided. Adherence to these guidelines is intended to produce data sheets that are concise and that consistently define the operation and characteristics of semiconductor memory devices. Terminology relevant to product description, product specification, and user information is covered.</abstract>
+  </front>
+</reference>

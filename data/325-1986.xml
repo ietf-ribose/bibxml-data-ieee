@@ -1,0 +1,26 @@
+<reference anchor="IEEE.325-1986" target="https://ieeexplore.ieee.org/document/29106">
+  <front>
+    <title>IEEE Standard Test Procedures for Germanium Gamma-Ray Detectors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81600"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="16"/>
+    <keyword>Gamma-ray detectors</keyword>
+    <keyword>Semiconductor radiation detectors</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>germanium</keyword>
+    <keyword>gamma</keyword>
+    <keyword>ray</keyword>
+    <keyword>detectors</keyword>
+    <keyword>test</keyword>
+    <abstract>Terminology and standard test procedures for germanium radiation detectors that are used for the detection and high-resolution spectrometry of gamma rays, X rays, and charged particles that produce hole-electron pairs in the crystal lattice are established so they have the same meaning to both manufacturers and users.</abstract>
+  </front>
+</reference>

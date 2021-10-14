@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P1671.2/D8, Nov 2007" target="https://ieeexplore.ieee.org/document/4410481">
+  <front>
+    <title>IEEE Draft Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information Via XML: Exchanging Instrument Descriptions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Automatic Test Markup Language (ATML)</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test equipment (ATE)</keyword>
+    <keyword>automatic test system (ATS)</keyword>
+    <keyword>instrument</keyword>
+    <keyword>instrumentation</keyword>
+    <keyword>synthetic instrument (SI)</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This document specifies an exchange format, utilizing XML, for identifying instrumentation which may be integrated in an automatic test system (ATS) that is to be used to test and diagnose a unit under test (UUT).</abstract>
+  </front>
+</reference>

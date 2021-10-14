@@ -1,0 +1,47 @@
+<reference anchor="IEEE.PC37.234/D11.0, Jul 2021" target="https://ieeexplore.ieee.org/document/9499002">
+  <front>
+    <title>IEEE Draft Guide for Protective Relay Applications to Power System Buses</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="July" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Breaker-and-a-half</keyword>
+    <keyword>breaker failure (BF) protection</keyword>
+    <keyword>breaker substitution</keyword>
+    <keyword>buses</keyword>
+    <keyword>check zone</keyword>
+    <keyword>CT saturation</keyword>
+    <keyword>current transformers</keyword>
+    <keyword>differential bus protection</keyword>
+    <keyword>double-bus double-breaker</keyword>
+    <keyword>double-bus single-breaker</keyword>
+    <keyword>dynamic bus replica</keyword>
+    <keyword>electric power substations</keyword>
+    <keyword>high-impedance differential</keyword>
+    <keyword>main bus</keyword>
+    <keyword>partial differential</keyword>
+    <keyword>percentage-restrained differential</keyword>
+    <keyword>protective relaying</keyword>
+    <keyword>ring bus</keyword>
+    <keyword>single-bus single-breaker</keyword>
+    <keyword>stub bus</keyword>
+    <keyword>transfer bus</keyword>
+    <keyword>voltage trip supervision</keyword>
+    <keyword>blocking zone-interlocked bus protection</keyword>
+    <abstract>This guide discusses principles of power bus protection. It addresses availability and location of breakers, current sensing devices, and disconnect switches as well as bus configurations and switching schemes and their impact on the selection and application of bus protection. Bus protection schemes are presented, and their characteristics, strengths, and limitations are examined. Bus protection applications are presented.</abstract>
+  </front>
+</reference>

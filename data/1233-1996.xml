@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1233-1996" target="https://ieeexplore.ieee.org/document/502838">
+  <front>
+    <title>IEEE Guide for Developing System Requirements Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81000"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="24"/>
+    <keyword>Software requirements and specifications</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software design/development</keyword>
+    <keyword>SyRS</keyword>
+    <keyword>requirement</keyword>
+    <keyword>system</keyword>
+    <abstract>This IEEE Standards product is part of the family on Software Engineering. Guidance for the development of the set of requirements, System Requirements Specification (SyRS), that will satisfy an expressed need is provided. Developing a SyRS includes the identification, organization, presentation, and modification of the requirements. Also addressed are the conditions for incorporating operational concepts, design constaints, and design confiquration requirements into the specification. This guide also covers the necessary characteristics and qualities of individual requirements and the set of all requirements.</abstract>
+  </front>
+</reference>

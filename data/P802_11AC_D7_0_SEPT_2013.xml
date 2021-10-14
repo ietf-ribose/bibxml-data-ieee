@@ -1,0 +1,26 @@
+<reference anchor="IEEE.P802.11ac/D7.0, Sept 2013" target="https://ieeexplore.ieee.org/document/6627922">
+  <front>
+    <title>IEEE Approved Draft Standard for IT</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="October" day="10"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>MIMO</keyword>
+    <keyword>Signal array processing</keyword>
+    <keyword>Radio frequency</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Quadrature amplitude modulation</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>256-QAM</keyword>
+    <keyword>beamforming</keyword>
+    <keyword>IEEE 802.11ac(tm)</keyword>
+    <keyword>multi-user MIMO</keyword>
+    <keyword>noncontiguous frequency segments</keyword>
+    <keyword>very high throughput</keyword>
+    <keyword>wider bandwidth</keyword>
+    <abstract>The purpose of this amendment is to improve the IEEE 802.11(tm) wireless local area network (WLAN) user experience by providing significantly higher basic service set (BSS)throughput for existing WLAN application areas and to enable new market segments for operation below 6 GHz including distribution of multiple multimedia/data streams.</abstract>
+  </front>
+</reference>

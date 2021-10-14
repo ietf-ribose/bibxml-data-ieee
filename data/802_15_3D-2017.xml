@@ -1,0 +1,27 @@
+<reference anchor="IEEE.802.15.3d-2017" target="https://ieeexplore.ieee.org/document/8066476">
+  <front>
+    <title>IEEE Standard for High Data Rate Wireless Multi-Media Networks--Amendment 2: 100 Gb/s Wireless Switched Point-to-Point Physical Layer</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8066476"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="October" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Multimedia communication</keyword>
+    <keyword>Submillimeter wave communication</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>300 GHz</keyword>
+    <keyword>fixed point-to-point</keyword>
+    <keyword>IEEE 802.15.3(TM)</keyword>
+    <keyword>IEEE 802.15.3d(TM)</keyword>
+    <keyword>submillimeter waves</keyword>
+    <keyword>THz</keyword>
+    <keyword>wireless</keyword>
+    <abstract>An alternative physical layer (PHY) at the lower THz frequency range between 252 GHz and 325 GHz for switched point-to-point links is defined in this amendment. Two PHY modes are defined that enable data rates of up to 100 Gb/s using eight different bandwidths between 2.16 GHz and 69.12 GHz.</abstract>
+  </front>
+</reference>

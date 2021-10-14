@@ -1,0 +1,27 @@
+<reference anchor="IEEE.802.16-2001/Conformance01-2003" target="https://ieeexplore.ieee.org/document/1237560">
+  <front>
+    <title>IEEE Standard for Conformance to IEEE 802.16 -- Part 1: Protocol Implementation Conformance Statement (PICS) Proforma for 10-66 GHz WirelessMAN-SC Air Interface</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94390"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="February" day="13"/>
+    <keyword>broadband wireless access (BWA)</keyword>
+    <keyword>compliance test</keyword>
+    <keyword>fixed broadband wireless access networks</keyword>
+    <keyword>local multipoint distribution service (LMDS)</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>microwaves</keyword>
+    <keyword>millimeter waves</keyword>
+    <keyword>point-to-multipoint</keyword>
+    <keyword>wireless access systems (WAS)</keyword>
+    <keyword>WirelessMAN standards</keyword>
+    <abstract>This standard represents the Protocol Implementation Conformance Statement Proforma, per ISO/IEC 9646-7 (1995) and ITU-T X.296, for conformance specification of base stations and subscriber stations based upon the WirelessMAN-SC air interface specified in IEEE 802.16.</abstract>
+  </front>
+</reference>

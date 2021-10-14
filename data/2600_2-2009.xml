@@ -1,0 +1,45 @@
+<reference anchor="IEEE.2600.2-2009" target="https://ieeexplore.ieee.org/document/5422058">
+  <front>
+    <title>IEEE Standard Protection Profile for Hardcopy Devices in IEEE Std 2600-2008 Operational Environment B</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5422058"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="November" day="11"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Disk drives</keyword>
+    <keyword>Data storage systems</keyword>
+    <keyword>2600.2-2009</keyword>
+    <keyword>all-in-one</keyword>
+    <keyword>Common Criteria</keyword>
+    <keyword>copier</keyword>
+    <keyword>disk overwrite</keyword>
+    <keyword>document</keyword>
+    <keyword>document server</keyword>
+    <keyword>document storage and retrieval</keyword>
+    <keyword>facsimile</keyword>
+    <keyword>fax</keyword>
+    <keyword>hardcopy</keyword>
+    <keyword>ISO/IEC 15408</keyword>
+    <keyword>multifunction device (MFD)</keyword>
+    <keyword>multifunction product (MFP)</keyword>
+    <keyword>network</keyword>
+    <keyword>network interface</keyword>
+    <keyword>nonvolatile storage</keyword>
+    <keyword>office</keyword>
+    <keyword>paper</keyword>
+    <keyword>printer</keyword>
+    <keyword>Protection Profile</keyword>
+    <keyword>residual data</keyword>
+    <keyword>scanner</keyword>
+    <keyword>security target</keyword>
+    <keyword>shared communications medium</keyword>
+    <keyword>temporary data</keyword>
+    <abstract>This standard is for a protection profile for hardcopy devices in a commercial information processing environment in which a moderate level of document security, network security, and security assurance are required. Typically, the day-to-day proprietary and nonproprietary information needed to operate an enterprise will be handled by this environment. This environment will be known as "Operational Environment B".</abstract>
+  </front>
+</reference>

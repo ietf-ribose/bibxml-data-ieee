@@ -1,0 +1,22 @@
+<reference anchor="IEEE.1156.4-1997" target="https://ieeexplore.ieee.org/document/603627">
+  <front>
+    <title>IEEE Standard for Environmental Specifications for Spaceborne Computer Modules</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82876"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="12"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>bus architecture</keyword>
+    <keyword>spaceborne computers</keyword>
+    <keyword>spaceborne modules</keyword>
+    <keyword>spaceborne systems</keyword>
+    <abstract>Fundamental information on minimum environmental withstand conditions for space electronics is provided. The intent is to achieve uniformity and reproducibility in the test conditions for all spaceborne computer modules that may make up larger systems and are purported to have a rated environmental performance level. The specifications pertain to both the natural and artificial environments to which spaceborne computer modules may be exposed. These conditions include, but are not limited to, thermal, mechanical, electrical, and radiation stresses.</abstract>
+  </front>
+</reference>

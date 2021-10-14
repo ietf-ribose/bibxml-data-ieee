@@ -1,0 +1,21 @@
+<reference anchor="IEEE.1353-1994" target="https://ieeexplore.ieee.org/document/469128">
+  <front>
+    <title>IEEE Standard for Information Technology-ACSE and Presentation Layer Services-Application Program Interface (API)(C Language Binding)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122653"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>C language</keyword>
+    <keyword>Software requirements and specifications</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>ISO</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Software portability</keyword>
+    <abstract>A C language binding to IEEE Std 1351-1994, a language-independent standard defining an application program interface (API) to the ACSE application service element from the OSI application layer and the connection-oriented services of the presentation layer is defined. The purpose of this API is to support portable implementations of application-specific OSI service elements and non-OSI applications&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

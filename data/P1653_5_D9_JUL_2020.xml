@@ -1,0 +1,36 @@
+<reference anchor="IEEE.P1653.5/D9, Jul 2020" target="https://ieeexplore.ieee.org/document/9143548">
+  <front>
+    <title>IEEE Draft Recommended Practice for Controlled Rectifiers for Traction Power Substation Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="July" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Rectifiers</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Power system control</keyword>
+    <keyword>Thyristors</keyword>
+    <keyword>Load mangagement</keyword>
+    <keyword>Traction power supplies</keyword>
+    <keyword>commutating reactance</keyword>
+    <keyword>controlled rectifier</keyword>
+    <keyword>double-way</keyword>
+    <keyword>extra heavy traction</keyword>
+    <keyword>heavy traction</keyword>
+    <keyword>IEEE 1653.5&amp;#8482;</keyword>
+    <keyword>light transition load</keyword>
+    <keyword>power rectifier</keyword>
+    <keyword>rectifier transformer unit</keyword>
+    <keyword>reversible rectifier</keyword>
+    <keyword>service rating</keyword>
+    <keyword>thyristor rectifier</keyword>
+    <keyword>traction power substation</keyword>
+    <abstract>Design, manufacturing, and testing unique to the application of thyristor controlled power rectifiers for dc supplied transportation substation applications up to 1500 V dc nominal output is covered in this recommended practice. Both forward rectifier with power flow from ac to dc, and reversible rectifiers with bidirectional power flow are included; traction power substation rectifiers that are to be provided as part of a rectifier transformer unit or are provided separately are intended to be addressed. Application information and extensive definitions of related technical terms are included.</abstract>
+  </front>
+</reference>

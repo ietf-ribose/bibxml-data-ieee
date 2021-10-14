@@ -1,0 +1,27 @@
+<reference anchor="IEEE.26514-2010" target="https://ieeexplore.ieee.org/document/5712775">
+  <front>
+    <title>IEEE Standard for Adoption of ISO/IEC 26514:2008 Systems and Software Engineering--Requirements for Designers and Developers of User Documentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5712775"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="13"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Testing</keyword>
+    <keyword>26514</keyword>
+    <keyword>information design</keyword>
+    <keyword>information development</keyword>
+    <keyword>procedures</keyword>
+    <keyword>software user documentation</keyword>
+    <keyword>user manual</keyword>
+    <abstract>This standard provides requirements for the design and development of software user documentation as part of the life cycle processes. It defines the documentation process from the viewpoint of the documentation developer. It also covers the documentation product. It specifies the structure, content, and format for user documentation, and also provides informative guidance for user documentation style. It is independent of the software tools that may be used to produce documentation, and applies to both printed documentation and on-screen documentation. Much of this standard is also applicable to user documentation for systems including hardware.</abstract>
+  </front>
+</reference>

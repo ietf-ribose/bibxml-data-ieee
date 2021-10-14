@@ -1,0 +1,21 @@
+<reference anchor="IEEE.1206-1994" target="https://ieeexplore.ieee.org/document/467416">
+  <front>
+    <title>IEEE Standard Methods for Measuring Transmission Performance of Telephone Handsets and Headsets</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122162"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>telephone handset</keyword>
+    <keyword>telephone headset</keyword>
+    <keyword>transmission perform</keyword>
+    <keyword>Transmission performance</keyword>
+    <abstract>Practical methods for measuring the transmission characteristics of telephone handset or headset by means of using a test connection to obtain objective measurements are provided. The obtained test results may be used as a means of evaluating or specifying the transmission performance of a handset or headset on a standardized basis.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,18 @@
+<reference anchor="IEEE.P1619/D18, Oct 2007" target="https://ieeexplore.ieee.org/document/4413112">
+  <front>
+    <title>IEEE Draft Standard for Cryptographic Protection of Data on Block-Oriented Storage Devices</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Security</keyword>
+    <keyword>Storage</keyword>
+    <keyword>Encryption</keyword>
+    <keyword>Key Management</keyword>
+    <abstract>This standard specifies cryptographic transform and key archival methods for protection of data in sector-level storage devices.</abstract>
+  </front>
+</reference>

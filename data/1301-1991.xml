@@ -1,0 +1,18 @@
+<reference anchor="IEEE.1301-1991" target="https://ieeexplore.ieee.org/document/159418">
+  <front>
+    <title>IEEE Standard for a Metric Equipment Practice for Microcomputers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101078"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Microcomputers</keyword>
+    <keyword>Packaging</keyword>
+    <keyword>Standards</keyword>
+    <abstract>The metric mechanical coordination of microcomputer components, including the cabinet, rack, subracks, printed boards, and common connector-dependent dimensions for connector pitches of 2.5, 2.0, 1.5, 1.0, and 0.5 mm is addressed. This generic standard may be applied in all fields of electronics where equipment and installations are required to conform to a metric modular order. This choice of coordination dimensions for the mechanical structure for heights, widths, and depths lies within a homogeneous, metric, modular, three-dimensional grid as specified in IEC 917. The intent is to provide a single metric equipment practice for worldwide use.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

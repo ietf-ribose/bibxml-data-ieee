@@ -1,0 +1,27 @@
+<reference anchor="IEEE.896.3-1993" target="https://ieeexplore.ieee.org/document/392616">
+  <front>
+    <title>IEEE Recommended Practice for Futurebus+(R)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121448"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Fault tolerance</keyword>
+    <keyword>Fault tolerant systems</keyword>
+    <keyword>backplane bus</keyword>
+    <keyword>bus architecture</keyword>
+    <keyword>futurebus+</keyword>
+    <keyword>Shared memory systems</keyword>
+    <keyword>Multiprocessor systems</keyword>
+    <abstract>The system layer issues associated with bus-based computer systems are described. It is intended to be a tool for Futurebus+ board and system designers. As such, the intent of this recommended practice is to characterize a variety of systems topics as they relate to Futurebus+. When used in conjunction with other IEEE standards, the details to develop modular, open-architecture-based systems fulfilling user needs across a wide computing spectrum are available. The specifications that may be required in conjunction with this recommended practice are: ISO/IEC 10857:1994, IEEE Std 896.2-1991, IEEE Std 896.4-1993, IEEE Std 896.5-1993, IEEE Std 1149.1-1990, IEEE Std 1156.1-1993, IEEE Std 1194.1-1991, IEEE Std 1212-1991, IEEE Std 1212.1-1993, IEEE Std 1301.1-1991, and IEEE P1394/D6.8, March 1994.</abstract>
+  </front>
+</reference>

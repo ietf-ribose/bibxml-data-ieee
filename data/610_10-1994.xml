@@ -1,0 +1,20 @@
+<reference anchor="IEEE.610.10-1994" target="https://ieeexplore.ieee.org/document/477873">
+  <front>
+    <title>IEEE Standard Glossary of Computer Hardware Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79522"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Terminology</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Computer peripherals</keyword>
+    <keyword>Computers</keyword>
+    <keyword>Memories</keyword>
+    <abstract>Terms pertaining to computer hardware are defined. Terms falling under the categories of computer architecture, computer storage, general hardware concepts, peripherals, and processors and components are included.</abstract>
+  </front>
+</reference>

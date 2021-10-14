@@ -1,0 +1,37 @@
+<reference anchor="IEEE.21451-2-2010" target="https://ieeexplore.ieee.org/document/5668463">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Information technology -- Smart transducer interface for sensors and actuators -- Part 2: Transducer to microprocessor communication protocols and Transducer Electronic Data Sheet (TEDS) formats</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5668463"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="September" day="24"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>Sensors</keyword>
+    <keyword>Transducers</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>21451-2</keyword>
+    <keyword>1451</keyword>
+    <keyword>1451.2</keyword>
+    <keyword>communication protocol</keyword>
+    <keyword>digital interface</keyword>
+    <keyword>microprocessor</keyword>
+    <keyword>NCAP</keyword>
+    <keyword>sensor interface</keyword>
+    <keyword>smart actuator</keyword>
+    <keyword>smart sensor</keyword>
+    <keyword>smart sensor interface</keyword>
+    <keyword>smart transducer</keyword>
+    <keyword>smart transducer interface</keyword>
+    <keyword>STIM</keyword>
+    <keyword>TEDS</keyword>
+    <abstract>A digital interface for connecting transducers to microprocessors is defined. A TEDS and its data formats are described. An electrical interface, read and write logic functions to access the TEDS and a wide variety of transducers are defined. This standard does not specify signal conditioning, signal conversion, or how the TEDS data is used in applications.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IEEE.1084-1986" target="https://ieeexplore.ieee.org/document/26589">
+  <front>
+    <title>IEEE Standard Glossary of Mathematics of Computing Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.79649"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Boolean algebra</keyword>
+    <keyword>Digital arithmetic</keyword>
+    <keyword>Error correction</keyword>
+    <keyword>Error analysis</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Mathematics</keyword>
+    <abstract>This dictionary defines terms in the field of Mathematics of Computing. Topics covered include Boolean algebra, number systems, computer arithmetic, complementation, shifts, arithmetic errors, error detection and correction, number conversions, numeric codes, mathematical notation, and basic mathematics. Every effort has been made to include all terms in general usage in this field.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

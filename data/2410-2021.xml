@@ -1,0 +1,39 @@
+<reference anchor="IEEE.2410-2021" target="https://ieeexplore.ieee.org/document/9440873">
+  <front>
+    <title>IEEE Standard for Biometric Privacy</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9440873"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Privacy</keyword>
+    <keyword>Biometrics (access control)</keyword>
+    <keyword>Access control</keyword>
+    <keyword>admin console</keyword>
+    <keyword>application</keyword>
+    <keyword>biometric-driven device</keyword>
+    <keyword>biometrics</keyword>
+    <keyword>privacy</keyword>
+    <keyword>client device IDS</keyword>
+    <keyword>IDS cluster</keyword>
+    <keyword>IEEE Std 2410(TM)</keyword>
+    <keyword>Jena Rules</keyword>
+    <keyword>liveness</keyword>
+    <keyword>original site admin</keyword>
+    <keyword>SBP admin</keyword>
+    <keyword>SBP cluster</keyword>
+    <keyword>SBP IDS</keyword>
+    <keyword>SBP server</keyword>
+    <keyword>site admin</keyword>
+    <keyword>trusted adjudicated data</keyword>
+    <keyword>user</keyword>
+    <abstract>The Standard for Biometric Privacy (SBP) provides private identity assertion. SBP supersedes the prior IEEE Std 2410(TM)-2019 by including a formal specification for privacy and biometrics such that a conforming SBP system does not incur GDPR, CCPA, BIPA or HIPAA privacy obligations. Homomorphic encryption ensures the biometric payload is always one-way encrypted with no need for key management and provides full privacy by ensuring plaintext biometrics are never received by the SBP server. The SBP implementation includes software running on a client device and on the SPB server. Pluggable components are used to replace legacy functionality to allow rapid integration into existing operating environments. The SBP implementation allows the systems to meet security needs by using the application programming interface, whether the underlying system is a relational database management system or a search engine. The SBP implementation functionality offers a “point-and-cut” mechanism to add the appropriate security to the production systems as well as to the systems in development. The architecture is language neutral, allowing Representational State Transfer (REST ), JavaScript Object Notation (JSON), and Transport Layer Security (TLS) to provide the communication interface. This document describes the essential methodology to SBP.</abstract>
+  </front>
+</reference>

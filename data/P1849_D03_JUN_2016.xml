@@ -1,0 +1,26 @@
+<reference anchor="IEEE.P1849/D03, Jun 2016" target="https://ieeexplore.ieee.org/document/7508563">
+  <front>
+    <title>IEEE Approved Draft Standard for XES</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="July" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>XML</keyword>
+    <keyword>event log</keyword>
+    <keyword>event stream</keyword>
+    <keyword>system behavior</keyword>
+    <keyword>extensions</keyword>
+    <keyword>XML.</keyword>
+    <abstract>The XES standard defines a grammar for a tag-based language whose aim is to provide designers of information systems with a unified and extensible methodology for capturing systems behaviors by means of event logs and event streams. This standard includes a XML Schema describing the structure of an XES event log/stream and a XML Schema describing the structure of an extension of such a log/stream. Moreover, the standard includes a basic collection of so-called XES extension prototypes that provide semantics to certain attributes as recorded in the event log/stream.</abstract>
+  </front>
+</reference>

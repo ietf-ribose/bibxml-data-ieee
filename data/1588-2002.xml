@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1588-2002" target="https://ieeexplore.ieee.org/document/1048550">
+  <front>
+    <title>IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94144"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Clocks</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>clocks</keyword>
+    <keyword>distributed system</keyword>
+    <keyword>master clock</keyword>
+    <keyword>measurement and control systems</keyword>
+    <keyword>real-time clock</keyword>
+    <keyword>synchronized clocks</keyword>
+    <abstract>Replaced by IEC 61588-2004 (SH95292 or SS95292) Dual-logo document Abstract: A protocol to synchronize independent clocks running on separate nodes of a distributed measurement and control system to a high degree of accuracy and precision is specified. The protocol is independent of the networking technology, and the system topology is self-configuring.</abstract>
+  </front>
+</reference>

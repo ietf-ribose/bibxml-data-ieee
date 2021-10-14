@@ -1,0 +1,24 @@
+<reference anchor="IEEE.P1076.1/D1.2, May 2017" target="https://ieeexplore.ieee.org/document/7921679">
+  <front>
+    <title>IEEE Draft Standard VHDL Analog and Mixed-Signal Extensions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="May" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>AC machines</keyword>
+    <keyword>Hardware design language</keyword>
+    <keyword>Computer languages</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>analog design</keyword>
+    <keyword>computer</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>hardware design</keyword>
+    <keyword>IEEE 1076&amp;#8482;</keyword>
+    <keyword>IEEE 1076.1&amp;#8482;</keyword>
+    <keyword>mixed-signal design</keyword>
+    <keyword>VHD</keyword>
+    <abstract>The IEEE 1076.1 language, a hardware description language for the description and the simulation of analog, digital, and mixed-signal systems, is defined in this standard. The language, also informally known as VHDL-AMS, is built on IEEE Std 1076-2008 (VHDL) and extends it with additions and changes to provide capabilities of writing and simulating analog and mixed-signal models. (Additional downloadable files are available for this standard at http://standards.ieee.org/downloads/1076/1076.1-2017/)</abstract>
+  </front>
+</reference>

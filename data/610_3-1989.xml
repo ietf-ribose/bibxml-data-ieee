@@ -1,0 +1,28 @@
+<reference anchor="IEEE.610.3-1989" target="https://ieeexplore.ieee.org/document/89695">
+  <front>
+    <title>IEEE Standard Glossary of Modeling and Simulation Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94599"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="July" day="17"/>
+    <keyword>Game theory</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Modeling</keyword>
+    <keyword>Queuing analysis</keyword>
+    <keyword>Simulation</keyword>
+    <keyword>Standards</keyword>
+    <keyword>glossary</keyword>
+    <keyword>modeling</keyword>
+    <keyword>simulation</keyword>
+    <keyword>terminology</keyword>
+    <keyword>dictionary</keyword>
+    <abstract>Terms currently in use in the computer field are identified, and standard definitions are established for them. Terms were excluded if they were considered to be parochial to one group or organization, company-proprietary or trademarked, multiword terms whose meaning could be inferred from the definitions of the component words, or terms whose meaning in the computer field could be directly inferred from their standard English meaning.</abstract>
+  </front>
+</reference>

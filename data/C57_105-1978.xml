@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C57.105-1978" target="https://ieeexplore.ieee.org/document/27739">
+  <front>
+    <title>IEEE Guide for Application of Transformer Connections in Three-Phase Distribution Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80814"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="April" day="3"/>
+    <keyword>Connectors</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>application</keyword>
+    <keyword>transformer</keyword>
+    <keyword>connections</keyword>
+    <keyword>three-phase</keyword>
+    <keyword>distribution</keyword>
+    <abstract>The characteristics of the various transformer connections and possible operating problems under normal or abnormal conditions are treated for three-phase distribution systems. These systems are characterized by primary voltages up to and including 34.5 kV, usually have a preponderance of connected transformers with low-voltage windings below 1000 V, and furnish electric service to consumers. All combinations of Delta and Y, grounded and ungrounded, T connected, zigzag, and certain special connections are considered. Only two-winding transformers are included. Phasing procedures and loading practices are not covered.</abstract>
+  </front>
+</reference>

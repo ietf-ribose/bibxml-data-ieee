@@ -1,0 +1,33 @@
+<reference anchor="IEEE.P1857.3/D3, Jul 2013" target="https://ieeexplore.ieee.org/document/6687177">
+  <front>
+    <title>IEEE Approved Draft Standard for System of Advanced Audio and Video Coding</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="December" day="18"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Video communication</keyword>
+    <keyword>Acoustic devices</keyword>
+    <keyword>Payloads</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>System</keyword>
+    <keyword>Video</keyword>
+    <keyword>Audio</keyword>
+    <keyword>Storage</keyword>
+    <keyword>File format</keyword>
+    <keyword>Track</keyword>
+    <keyword>Box</keyword>
+    <keyword>Transmission</keyword>
+    <keyword>RTP payload format</keyword>
+    <keyword>NAL unit</keyword>
+    <keyword>Packetization</keyword>
+    <abstract>This Standard defines the storage file formats and RTP pay load formats for P1857 Video and P1857.2 Audio. The storage of video and audio not only uses the existing capabilities of the ISO Base Media File Format, but also defines extensions to support specific features of the P1857 Video codec and P1857.2 Audio codec. The target applications and services include but not limited to Internet media streaming, IPTV, video conference, video telephony, and video-on-demand.</abstract>
+  </front>
+</reference>

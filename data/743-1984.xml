@@ -1,0 +1,23 @@
+<reference anchor="IEEE.743-1984" target="https://ieeexplore.ieee.org/document/30672">
+  <front>
+    <title>IEEE Standard Methods and Equipment for Measuring the Transmission Characteristics of Analog Voice Frequency Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.82419"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="June" day="12"/>
+    <keyword>Data communication</keyword>
+    <keyword>Electronic equipment testing</keyword>
+    <keyword>Electronic switching systems</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Telephone exchanges</keyword>
+    <keyword>Subscriber loops</keyword>
+    <keyword>Speech communication</keyword>
+    <keyword>characteristics</keyword>
+    <keyword>analog</keyword>
+    <keyword>voice</keyword>
+    <keyword>frequency</keyword>
+    <keyword>circuits</keyword>
+    <abstract>Prescribes criteria that establish protection requirements for Class 1E power systems and equipment. It describes the purpose of and the means for obtaining protection from electrical and mechanical damage, or failures that can occur within a time period that is shorter than that required for operator action. It includes both design and documentation requirements. It does not include physical plant design requirements to protect against certain events. .</abstract>
+  </front>
+</reference>

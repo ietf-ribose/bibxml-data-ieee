@@ -1,0 +1,29 @@
+<reference anchor="IEEE.802.15.3-2003" target="https://ieeexplore.ieee.org/document/1245785">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 15.3: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for High Rate Wireless Personal Area Networks (WPAN)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94395"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="November" day="10"/>
+    <keyword>IEEE 802.15 Standard</keyword>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Ad hoc networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>Personal Area Network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>Wireless</keyword>
+    <keyword>WPAN</keyword>
+    <keyword>UWB</keyword>
+    <keyword>ultra-wideband</keyword>
+    <keyword>signals</keyword>
+    <keyword>low-rate</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>Orthogonal Frequency Division Multiplexing</keyword>
+    <abstract>The protocol and compatible interconnection of data and multimedia communication equipment via 2.4 GHz radio transmissions in a Wireless Personal Area Network (WPAN) using low power and multiple modulation formats to support scalable data rates is defined in this standard. The Medium Access Control (MAC) sublayer protocol supports both isochronous and asynchronous data types</abstract>
+  </front>
+</reference>

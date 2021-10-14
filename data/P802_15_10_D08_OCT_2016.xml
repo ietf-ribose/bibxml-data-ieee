@@ -1,0 +1,24 @@
+<reference anchor="IEEE.P802.15.10/D08, Oct. 2016" target="https://ieeexplore.ieee.org/document/7577715">
+  <front>
+    <title>IEEE Draft Recommended Practice for Routing Packets in 802.15.4 Dynamically Changing Wireless Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="September" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>Mesh generation</keyword>
+    <keyword>802.15.4</keyword>
+    <keyword>layer 2 routing</keyword>
+    <keyword>mesh-under routing</keyword>
+    <keyword>mesh</keyword>
+    <abstract>This recommended practice will facilitate the routing of packets in dynamically changing wireless networks. The result is an extension of the area of coverage as the number of nodes increase.</abstract>
+  </front>
+</reference>

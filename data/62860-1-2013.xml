@@ -1,0 +1,29 @@
+<reference anchor="IEEE.62860-1-2013" target="https://ieeexplore.ieee.org/document/6617654">
+  <front>
+    <title>IEC/IEEE Test methods for the characterization of organic transistor-based ring oscillators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6617654"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="2"/>
+    <keyword>IEC standards</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Transistors</keyword>
+    <keyword>Oscillators</keyword>
+    <keyword>Ring oscillators</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Organic semiconductors</keyword>
+    <keyword>electrical characterization</keyword>
+    <keyword>high-impedance printing</keyword>
+    <keyword>organic transistor</keyword>
+    <keyword>printed electronics</keyword>
+    <keyword>ring oscillator</keyword>
+    <abstract>Recommended methods and standardized reporting practices for electricalcharacterization of printed and organic ring oscillators are covered. Due to the nature of printedand organic circuits, significant measurement errors can be introduced if the electricalcharacterization design-of-experiment is not properly addressed. This standard describes themost common sources of measurement error, particularly for high-impedance electricalmeasurements commonly required for printed and organic ring oscillators. This standard alsogives recommended practices in order to minimize and/or characterize the effect of measurementartifacts and other sources of error encountered while measuring printed and organic ringoscillators.</abstract>
+  </front>
+</reference>

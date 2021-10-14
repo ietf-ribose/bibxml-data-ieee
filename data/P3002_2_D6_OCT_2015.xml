@@ -1,0 +1,48 @@
+<reference anchor="IEEE.P3002.2/D6, Oct 2015" target="https://ieeexplore.ieee.org/document/7299241">
+  <front>
+    <title>IEEE Draft Recommended Practice for Conducting Load-Flow Studies of Industrial and Commercial Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="October" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Load management</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Flow control</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Ampacity</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Loss measurement</keyword>
+    <keyword>cable ampacity</keyword>
+    <keyword>compensation</keyword>
+    <keyword>convergence</keyword>
+    <keyword>demand factor</keyword>
+    <keyword>electrical losses</keyword>
+    <keyword>Gauss-Seidel</keyword>
+    <keyword>generation</keyword>
+    <keyword>IEEE 3002.2</keyword>
+    <keyword>impedance</keyword>
+    <keyword>industrial loads</keyword>
+    <keyword>industrial power system</keyword>
+    <keyword>load flow analysis</keyword>
+    <keyword>load-flow studies</keyword>
+    <keyword>Newton-Raphson</keyword>
+    <keyword>overload</keyword>
+    <keyword>over voltage</keyword>
+    <keyword>power demand</keyword>
+    <keyword>power factor correction</keyword>
+    <keyword>power flow</keyword>
+    <keyword>system validation</keyword>
+    <keyword>under voltage</keyword>
+    <keyword>voltage drop</keyword>
+    <keyword>voltage profile</keyword>
+    <keyword>voltage rise</keyword>
+    <abstract>Activities related to load flow analysis, including design considerations for new systems, analytical studies for existing systems, as well as operational and model validation considerations for industrial and commercial power systems are addressed. Load flow analysis includes steadystate power flow and voltage analysis along with considerations for optimal power flow calculations. The use of computer-aided analysis software, with a list of desirable capabilities recommended to conduct a modern load-flow study, is emphasized. Examples of system data requirements and result analysis techniques are presented.</abstract>
+  </front>
+</reference>

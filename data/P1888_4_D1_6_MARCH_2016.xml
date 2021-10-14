@@ -1,0 +1,40 @@
+<reference anchor="IEEE.P1888.4/D1.6, March 2016" target="https://ieeexplore.ieee.org/document/7551088">
+  <front>
+    <title>IEEE Draft Standard for Green Smart Home and Residential Quarter Control Network Protocol</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="August" day="24"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Sensors</keyword>
+    <keyword>Actuators</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Data communication</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Smart home</keyword>
+    <keyword>Green products</keyword>
+    <keyword>scene</keyword>
+    <keyword>timer</keyword>
+    <keyword>linkage</keyword>
+    <keyword>sensors</keyword>
+    <keyword>actuators</keyword>
+    <keyword>gateway (GW)</keyword>
+    <keyword>application (APP)</keyword>
+    <keyword>storage</keyword>
+    <keyword>component</keyword>
+    <keyword>registry</keyword>
+    <keyword>data</keyword>
+    <keyword>communication protocol</keyword>
+    <keyword>smart home</keyword>
+    <keyword>management of energy</keyword>
+    <keyword>energy saving</keyword>
+    <keyword>remote control</keyword>
+    <abstract>This standard provides protocols for measurement and control networks for home and residential quarters so that they can achieve green, smarter functions. It specifies the interactive data format between devices and systems; and it gives standardized definitions of the sensor, actuator, and equipment, together with the data communication processes. This standard also includes: The data format definition for configuration and management-oriented functions; The data format definition for deployment and control-oriented functions; The method definition for conformance tests and interoperability tests.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1010-1987" target="https://ieeexplore.ieee.org/document/25323">
+  <front>
+    <title>IEEE Guide for Control of Hydroelectric Power Plants</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.121941"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Hydroelectric power generation</keyword>
+    <keyword>Pumped storage power generation</keyword>
+    <keyword>plants</keyword>
+    <keyword>Power generation control</keyword>
+    <keyword>Hydroelectric power generation</keyword>
+    <abstract>Superseded by IEEE Std 1010-2006 Abstract: The control and monitoring requirements for equipment and systems associated with conventional and pumped-storage hydroelectric plants are described. Typical methods of local and remote control, details of the control interfaces for plant equipment, requirements for centralized and off-site control, and trends in control systems are included. The various categories that affect the levels of control for a plant, namely, location, mode, and supervision, are described. Block diagrams and descriptions of the control and monitoring requirements for major plant systems and equipment are given. Control sequencing of generating and pumped storage units, centralized control, and off-site control are covered. The information is directed toward practicing engineers in the field of power plant design who have a basic knowledge of hydroelectric facilities.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.1159-1995" target="https://ieeexplore.ieee.org/document/475495">
+  <front>
+    <title>IEEE Recommended Practice for Monitoring Electric Power Quality</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79050"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="August" day="29"/>
+    <keyword>Power system monitoring</keyword>
+    <keyword>Power quality</keyword>
+    <keyword>Power measurement</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>data interpretation</keyword>
+    <keyword>electric power quality</keyword>
+    <keyword>electromagnetic phenomena</keyword>
+    <keyword>monitoring</keyword>
+    <keyword>power quality definitions</keyword>
+    <abstract>This Recommended Practice encompasses the monitoring of electrical characteristics of single-phase and polyphase ac power systems</abstract>
+  </front>
+</reference>

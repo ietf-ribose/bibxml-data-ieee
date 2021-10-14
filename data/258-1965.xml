@@ -1,0 +1,20 @@
+<reference anchor="IEEE.258-1965" target="https://ieeexplore.ieee.org/document/7384635">
+  <front>
+    <title>IEEE Test Procedure for Close-Talking Pressure-Type Microphones</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1965.7384635"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Microphones</keyword>
+    <keyword>Pressure measurement</keyword>
+    <keyword>Audio systems</keyword>
+    <abstract>A close-talking pressure-type microphone is anacoustic transducer which is intended for use in close proximity to the lips of the talker and is either hand-held or boom-mounted. Various types of microphonesare currently used for close-talking applications. These include carbon, dynamic, magnetic, piezoelectric, electrostrictive and condenser types. Each of these microphones has only one side of its diaphragm exposed to sound waves, and its electricoutput substantially corresponds to the instantaneoussound pressure of the impressed sound wave. Since a close-talking microphone is used in the near sound field produced by a person's mouth, it is necessary when measuring the performance of such microphones to utilize a sound source which approximates the characteristics of the human sound generator.</abstract>
+  </front>
+</reference>

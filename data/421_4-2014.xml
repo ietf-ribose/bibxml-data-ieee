@@ -1,0 +1,33 @@
+<reference anchor="IEEE.421.4-2014" target="https://ieeexplore.ieee.org/document/6803835">
+  <front>
+    <title>IEEE Guide for the Preparation of Excitation System Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6803835"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="22"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Communication services</keyword>
+    <keyword>Exciters</keyword>
+    <keyword>Redundant controllers</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>communications</keyword>
+    <keyword>compound exciters</keyword>
+    <keyword>digital</keyword>
+    <keyword>excitation guide</keyword>
+    <keyword>exciter types</keyword>
+    <keyword>IEEE 421.4</keyword>
+    <keyword>potential integral derivative (PID)</keyword>
+    <keyword>potential source exciters</keyword>
+    <keyword>power system stabilizers</keyword>
+    <keyword>redundant controllers</keyword>
+    <keyword>rotating exciters</keyword>
+    <abstract>This guide is intended to provide to the specification writer the information to prepare a specification for the purchase of an excitation system. This guide is presented in narrative form with descriptions of functions typical of excitation systems. Narrative is provided describing types of excitation systems and information required for sizing the excitation system.</abstract>
+  </front>
+</reference>

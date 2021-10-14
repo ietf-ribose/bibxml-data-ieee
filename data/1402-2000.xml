@@ -1,0 +1,19 @@
+<reference anchor="IEEE.1402-2000" target="https://ieeexplore.ieee.org/document/836296">
+  <front>
+    <title>IEEE Guide for Electric Power Substation Physical and Electronic Security</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91305"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="July" day="30"/>
+    <keyword>Substations</keyword>
+    <keyword>IEEE Std 1402-2000.pdf</keyword>
+    <abstract>Security issues related to human intrusion upon electric power supply substations are identified and discussed. Various methods and techniques presently being used to mitigate human intrusions are also presented in this guide.</abstract>
+  </front>
+</reference>

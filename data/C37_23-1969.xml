@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C37.23-1969" target="https://ieeexplore.ieee.org/document/7442030">
+  <front>
+    <title>ANSI/IEEE Guide for Calculating Losses in Isolated Phase Bus</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.7442030"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standard</keyword>
+    <keyword>Loss management</keyword>
+    <keyword>Phase bus</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Skin effect</keyword>
+    <keyword>Heating</keyword>
+    <keyword>Magnetic hysteresis</keyword>
+    <keyword>Eddy currents</keyword>
+    <abstract>Over the years, the isolated-phase bus has received widespread application in connecting the output of generators to step-up transformers. The trend toward generating units of larger capacity has dictated the need for higher rated isolated-phase bus designs. The increased losses associated with the higher capacity bus may be significant in the economic evaluation of alternate schemes or selection of equipment. The bus designer must know the magnitude and distribution of losses in order to keep temperature rises of bus components within the limits specified in USA Standard C37.20. In addition, the losses must be known to permit proper sizing of forced-cooling equipment whenever it is used.Various papers have been presented that deal with the determination of losses in isolated-phase bus enclosures. The difference in the results obtained for the same bus using various methods is of sufficient magnitude to cause concern. The industry has indicated the need for a guide for calculating losses to establish a common yardstick for establishing, evaluating, and applying different designs.</abstract>
+  </front>
+</reference>

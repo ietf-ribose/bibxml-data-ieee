@@ -1,0 +1,17 @@
+<reference anchor="IEEE.610.2-1987" target="https://ieeexplore.ieee.org/document/27819">
+  <front>
+    <title>IEEE Standard Glossary of Computer Applications Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81025"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Computer applications</keyword>
+    <keyword>Terminology</keyword>
+    <abstract>This glossary defines terms in the field of computer applications. Topics covered include automated language processing, automatic indexing, business data processing, character recognition, computer-aided design and manufacturing, computer-assisted instruction, control systems, critical path method, library automation, medical applications, micrographics, office automation, operations research, personal computing, scientific and engineering applications, telecommunication applications, and word processing.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

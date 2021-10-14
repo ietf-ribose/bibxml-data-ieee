@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P1786" target="https://ieeexplore.ieee.org/document/5601932">
+  <front>
+    <title>IEEE Draft Human Factors Guide for Applications of Computerized Operating Procedure Systems at Nuclear Power Generating Stations and Other Nuclear Facilities.</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Human factors</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Computerized monitoring</keyword>
+    <keyword>Human Factors</keyword>
+    <keyword>Computerized Procedures</keyword>
+    <keyword>Nuclear Facilities</keyword>
+    <abstract>This document provides guidance for the application of Computerized Operating Procedure Systems (COPS). This guidance concerns the design (i.e., form and function) and use of COPS. In general, this guide does not concern itself with the technical content of the operating procedures being presented except as needed to address unique aspects of procedure implementation on COPS. Software tools that can be described as computerized procedures but are implemented outside the control room (such as might be used for maintenance or testing) are also beyond the scope of this document.</abstract>
+  </front>
+</reference>

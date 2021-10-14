@@ -1,0 +1,21 @@
+<reference anchor="IEEE.367-1987" target="https://ieeexplore.ieee.org/document/19522">
+  <front>
+    <title>IEEE Recommended Practice for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.120314"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="February" day="17"/>
+    <keyword>Grounding</keyword>
+    <keyword>Standards</keyword>
+    <keyword>ground</keyword>
+    <keyword>potential</keyword>
+    <keyword>induced</keyword>
+    <keyword>fault</keyword>
+    <keyword>rise</keyword>
+    <keyword>Wire communication</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Power system faults</keyword>
+    <abstract>Guidance is provided for the calculation of interfering voltages and their appropriate reduction from worst-case values for use in wire-line telecommunication protection design. Information is also included for the determination of the fault current and earth-return current levels; their probability, waveform, and duration; and the impedance to remote earthing points used in these ground potential rise (GPR) and longitudinally induced voltage calculations. The zone of influence of the power station GPR; the calculation of the inducing currents; the mutual impedance between power and wire-line telecommunication facilities and shield factors; and the channel time requirements for wire-line telecommunication facilities where noninterruptible channels are required for protective relaying and other purposes are covered.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.950-1952" target="https://ieeexplore.ieee.org/document/7430216">
+  <front>
+    <title>AIEE Recommended Practice for the Measurement of Radio Frequency Emission from Industrial, Scientific, and Medical (ISM) Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1952.7430216"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="10"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Radio frequency</keyword>
+    <keyword>Emissions</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>Scientific equipment</keyword>
+    <keyword>Industrial plants</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <abstract>This paper discusses the need for standard measuring method; FCC requirements, committee action symbols, units and abbreviations; measurement methods; antenna design; antenna gain measurement;s associated measuring equipment; measurements on production equipment; and measurement precautions and factors affecting accuracy of measurement.</abstract>
+  </front>
+</reference>

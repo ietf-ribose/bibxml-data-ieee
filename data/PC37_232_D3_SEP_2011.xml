@@ -1,0 +1,39 @@
+<reference anchor="IEEE.PC37.232/D3, Sep 2011" target="https://ieeexplore.ieee.org/document/6022725">
+  <front>
+    <title>IEEE Draft Standard for Common Format for Naming Time Sequence Data Files (COMNAME)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Fault tolerance</keyword>
+    <keyword>Timing</keyword>
+    <keyword>Encoding</keyword>
+    <keyword>Sequential analysis</keyword>
+    <keyword>File sytems</keyword>
+    <keyword>comma separated values</keyword>
+    <keyword>CSV</keyword>
+    <keyword>company name</keyword>
+    <keyword>device identifier</keyword>
+    <keyword>fault data</keyword>
+    <keyword>fault time</keyword>
+    <keyword>file extension</keyword>
+    <keyword>filename</keyword>
+    <keyword>file name</keyword>
+    <keyword>file naming convention</keyword>
+    <keyword>required fields</keyword>
+    <keyword>start date</keyword>
+    <keyword>start time</keyword>
+    <keyword>station identifier</keyword>
+    <keyword>time code</keyword>
+    <keyword>time sequence data</keyword>
+    <keyword>TSD</keyword>
+    <keyword>user fields</keyword>
+    <abstract>A standard procedure for 1 naming time sequence data (TSD) files, such as files produced by digital fault recorders, power swing recorders, power quality monitors, and so on is specified. The sources of TSD files are described, and a survey of current naming techniques is provided. The advantages of using a common naming procedure are highlighted, and the limitations and applications are identified. Issues of compatibility across operating systems and various vintages, and adaptability to other types of files are also discussed. The required and optional portions of the naming procedure are described in detail, and many examples areprovided.</abstract>
+  </front>
+</reference>

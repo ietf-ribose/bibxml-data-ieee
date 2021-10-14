@@ -1,0 +1,25 @@
+<reference anchor="IEEE.726-1982" target="https://ieeexplore.ieee.org/document/29061">
+  <front>
+    <title>IEEE Standard Real-Time BASIC for CAMAC</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81545"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="17"/>
+    <keyword>High-level languages</keyword>
+    <keyword>CAMAC</keyword>
+    <keyword>Standards</keyword>
+    <keyword>real</keyword>
+    <keyword>time</keyword>
+    <keyword>BASIC</keyword>
+    <keyword>CAMAC</keyword>
+    <keyword>Computer languages</keyword>
+    <abstract>This standard defines ANSI Standard Real-Time BASIC, in which the declarations and real-time statements are defined for use with CAMAC hardware. It covers real-time capabilities, declarations, parallel activities, CAMAC input and output, the CAMAC Q and X signals, CAMAC LAM handling, message passing, shared data, and bit manipulation. The aim is to achieve maximum compatibility between different implementations of ANSI BASIC for use with CAMAC.</abstract>
+  </front>
+</reference>

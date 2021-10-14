@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P2413/D0.4.6, Mar 2019" target="https://ieeexplore.ieee.org/document/8672168">
+  <front>
+    <title>IEEE Draft Standard for an Architectural Framework for the Internet of Things (IoT)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="March" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>architectural framework</keyword>
+    <keyword>IEEE 2413</keyword>
+    <keyword>Internet of Things (IoT)</keyword>
+    <abstract>An architecture framework description for the Internet of Things (IoT) which conforms to the international standard ISO/IEC/IEEE 42010:2011 is defined. The architecture framework description is motivated by concerns commonly shared by IoT system stakeholders across multiple domains (transportation, healthcare, Smart Grid, etc.). A conceptual basis for the notion of things in the IoT is provided and the shared concerns as a collection of architecture viewpoints is elaborated to form the body of the framework description.</abstract>
+  </front>
+</reference>

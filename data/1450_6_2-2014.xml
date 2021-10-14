@@ -1,0 +1,31 @@
+<reference anchor="IEEE.1450.6.2-2014" target="https://ieeexplore.ieee.org/document/6832422">
+  <front>
+    <title>IEEE Standard for Memory Modeling in Core Test Language</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6832422"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="June" day="12"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>System-on-chip</keyword>
+    <keyword>Memory management</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Computer programs</keyword>
+    <keyword>Programming</keyword>
+    <keyword>Interference</keyword>
+    <keyword>core test language (CTL)</keyword>
+    <keyword>IEEE 1450.6.2(TM)</keyword>
+    <keyword>memory built-in self-test (memory BIST)</keyword>
+    <keyword>memory modeling</keyword>
+    <keyword>memory repair</keyword>
+    <keyword>standard test interface language (STIL)</keyword>
+    <keyword>system-on-chip (SoC)</keyword>
+    <abstract>Reuse of test data and test structures developed for individual cores (designs) when integrated into larger integrated circuits is required for system-on-chip (SoC) tests. This standard defines language constructs sufficient to represent the context of a memory core and of the integration of that memory core into an SoC. This facilitates the development and reuse of test and repair mechanisms for memories. This standard also defines constructs that represent the test structures internal to the memory core for reuse in the creation of the tests for the logic outside the memory core. Semantic rules are defined for the language to facilitate interoperability between different entities (the memory core provider, the system integrator, and the automation tool developer) involved in the creation of an SoC. The capabilities are an extension of IEEE Std 1450.6<sup>TM</sup>-2005. As a result of this extension, CTLs limitations of handling memories are addressed.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IEEE.P21839_DIS, July 2018" target="https://ieeexplore.ieee.org/document/8466082">
+  <front>
+    <title>ISO/IEC/IEEE Draft International Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="September" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>System of systems</keyword>
+    <abstract>This document provides a set of critical considerations to be addressed at key points in the life cycle of systems created by humans. This document refers to a constituent system that will interact in a system of systems as the system of interest (SOI). These considerations are aligned with ISO/IEC/IEEE 15288 and the ISO/IEC/IEEE 24748 framework for system life cycle stages and associated terminology. Selected subsets of these considerations may be applied throughout the life of systems. This is accomplished through the involvement of all stakeholders with the ultimate goal of achieving customer satisfaction by ensuring that when delivered, the system will operate effectively in the operational or business environment which will typically be characterized as one or more systems of systems. This document concerns those systems that are man-made and are configured with one or more of the following: hardware, software, humans, procedures and facilities.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.N42.12-1994" target="https://ieeexplore.ieee.org/document/467464">
+  <front>
+    <title>American National Standard Calibration and Usage of Thallium-Activated Sodium Iodide Detector Systems for Assay of Radionuclides</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122618"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="22"/>
+    <keyword>Calibration</keyword>
+    <keyword>Gamma-ray detectors</keyword>
+    <keyword>Scintillation detectors</keyword>
+    <keyword>efficiency calibration</keyword>
+    <keyword>energy calibration</keyword>
+    <keyword>gamma-ray energy</keyword>
+    <keyword>radioactivity</keyword>
+    <keyword>radionuclides</keyword>
+    <abstract>This standard establishes methods for performance testing, calibration, and usage of NaI(Tl) detector systems for the measurement of gamma ray emission rates of radionuclides; the assay for radioactivity; and the determination of gamma ray energies and intensities. It covers both energy calibration and efficiency calibration.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P802.21a/D06, Nov 2011" target="https://ieeexplore.ieee.org/document/6178222">
+  <front>
+    <title>Ieee approved draft standard for local and metropolitan area networks: media independent handover services</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Service access authentication</keyword>
+    <keyword>security protection</keyword>
+    <keyword>proactive authentication</keyword>
+    <abstract>This amendment specifies the extensions to IEEE Std 802.21-2008 for security mechanisms to protect media independent handover services and mechanisms to use MIH to assist proactive authentications to reduce the latency due to media access authentication and key establishment with the target network.</abstract>
+  </front>
+</reference>

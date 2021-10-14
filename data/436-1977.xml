@@ -1,0 +1,25 @@
+<reference anchor="IEEE.436-1977" target="https://ieeexplore.ieee.org/document/27726">
+  <front>
+    <title>IEEE Guide for Making Corona (Partial Discharge) Measurements on Electronics Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.80569"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Calibration</keyword>
+    <keyword>Corona</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>corona measurements</keyword>
+    <keyword>electronics transformers</keyword>
+    <keyword>corona</keyword>
+    <keyword>terminology</keyword>
+    <keyword>partial discharge</keyword>
+    <abstract>Superseded. This guide covers the detection of corona and the measurement of corona magnitude in electronics tranformers. Test conditions, terminology, test apparatus, calibration, and test requirements are included.</abstract>
+  </front>
+</reference>

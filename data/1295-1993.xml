@@ -1,0 +1,30 @@
+<reference anchor="IEEE.1295-1993" target="https://ieeexplore.ieee.org/document/7362077">
+  <front>
+    <title>IEEE Standard for Information Technology--X Window System--Modular Toolkit Environment (MTE)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.7362077"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>Graphical user interfaces</keyword>
+    <keyword>Application programming interfaces</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>API</keyword>
+    <keyword>application portability</keyword>
+    <keyword>data processing</keyword>
+    <keyword>graphical user interface</keyword>
+    <keyword>open systems</keyword>
+    <keyword>operating system</keyword>
+    <keyword>portable application</keyword>
+    <keyword>X Window System</keyword>
+    <abstract>Graphical user interface (GUI) applications and user interfaces to open systems are covered. This standard defines the application interface to a group of widgets built upon the X Window System X Toolkit Intrinsics.</abstract>
+  </front>
+</reference>

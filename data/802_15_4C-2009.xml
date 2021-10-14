@@ -1,0 +1,36 @@
+<reference anchor="IEEE.802.15.4c-2009" target="https://ieeexplore.ieee.org/document/4839293">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 15.4: Amendment 2: Alternative Physical Layer Extension to support one or more of the Chinese 314-316 MHz, 430-434 MHz, and 779-787 MHz bands</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4839293"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>IEEE 802.15 Standard</keyword>
+    <keyword>Ad hoc networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>802.15.4c-2009</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>This amendment defines alternate PHY and modifications to the MAC needed to support the PHY that complies with the applicable Chinese regulations, Radio Management of P. R. of China doc. # 6326360786867187500 or current document, for one or more of the 314-316 MHz, 430-434 MHz, and 779-787 MHz frequency bands.</abstract>
+  </front>
+</reference>

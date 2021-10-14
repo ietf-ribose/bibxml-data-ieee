@@ -1,0 +1,33 @@
+<reference anchor="IEEE.2030.5-2018" target="https://ieeexplore.ieee.org/document/8608044">
+  <front>
+    <title>IEEE Standard for Smart Energy Profile Application Protocol</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8608044"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="January" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Electric vehicles</keyword>
+    <keyword>Smart grids</keyword>
+    <keyword>adoption</keyword>
+    <keyword>application</keyword>
+    <keyword>application protocol</keyword>
+    <keyword>demand response</keyword>
+    <keyword>distributed energy resources</keyword>
+    <keyword>energy usage information</keyword>
+    <keyword>IEEE 2030.5</keyword>
+    <keyword>load control</keyword>
+    <keyword>metering</keyword>
+    <keyword>plugin electric vehicles</keyword>
+    <keyword>prepayment</keyword>
+    <keyword>pricing communication</keyword>
+    <keyword>RESTful</keyword>
+    <keyword>SEP 2</keyword>
+    <keyword>smart energy</keyword>
+    <keyword>smart energy profile</keyword>
+    <keyword>Smart Energy Profile 2</keyword>
+    <abstract>The application layer with TCP/IP providing functions in the transport and Internet layers to enable utility management of the end user energy environment, including demand response, load control, time of day pricing, management of distributed generation, electric vehicles, etc. is defined in this standard. Depending on the physical layer in use (e.g., IEEE 802.15.4™, IEEE 802.11™, IEEE 1901™, IEEE 1901.2™), a variety of lower layer protocols may be involved in providing a complete solution. Generally, lower layer protocols are not discussed in this standard except where theree is direct interaction with the application protocol. The mechanisms for exchanging application messages, the exact messages exchanged including error messages, and the security features used to protect the application messages are defined in this standard. With respect to the Open Systems Interconnection (OSI) network model, this standard is built using the four layer Internet stack model. The defined application profile sources elements from many existing standards, including IEC 61968 and IEC 61850, and follows a RESTful architecture (Fielding [B3]) using IETF protocols such as HTTP. (Additional files for downloads can be found at https://standards.ieee.org/content/dam/ieee-standards/standards/web/download/2030.5-2018_downloads.zip).</abstract>
+  </front>
+</reference>

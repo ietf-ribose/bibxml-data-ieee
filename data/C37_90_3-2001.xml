@@ -1,0 +1,10 @@
+<reference anchor="IEEE.C37.90.3-2001" target="https://ieeexplore.ieee.org/document/961713">
+  <front>
+    <title>IEEE Standard Electrostatic Discharge Tests for Protective Relays</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93357"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <abstract>This standard describes test procedure, test point selection, test level, and acceptance criteria for repeatable electrostatic discharge immunity evaluations for tabletop and floor-standing protective relay equipment. Simulator characteristics for hand/metal ESD testing are specified for both the air and contact discharge methods. This standard has been harmonized with other ESD standards where consensus could be reached.</abstract>
+  </front>
+</reference>

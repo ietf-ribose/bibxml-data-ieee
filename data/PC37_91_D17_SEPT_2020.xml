@@ -1,0 +1,30 @@
+<reference anchor="IEEE.PC37.91/D17, Sept 2020" target="https://ieeexplore.ieee.org/document/9390489">
+  <front>
+    <title>IEEE Approved Draft Guide for Protecting Power Transformers</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2021" month="March" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Current transformers</keyword>
+    <keyword>Pressure measurement</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>current transformer</keyword>
+    <keyword>differential protection</keyword>
+    <keyword>gas accumulator relay</keyword>
+    <keyword>grounding transformer</keyword>
+    <keyword>IEEE C37.91</keyword>
+    <keyword>magnetizing inrush</keyword>
+    <keyword>overcurrent protection</keyword>
+    <keyword>power transformer</keyword>
+    <keyword>regulating transformer</keyword>
+    <keyword>sudden pressure relay</keyword>
+    <keyword>transformer overexcitation</keyword>
+    <keyword>transformer protection</keyword>
+    <keyword>volts-per-hertz protection</keyword>
+    <abstract>Guidelines for protecting three-phase power transformers of more than 5 MVA rated capacity and operating at voltages exceeding 10 kV is provided to protection engineers and other readers in this guide. In some cases, a user may apply the techniques described in this guide for protecting transformers of less than 5 MVA ratings or operating at voltages less than 10 kV. Information to assist protection engineers in properly applying relays and other devices to protect transformers used in transmission and distribution systems is also provided. General philosophy, practical applications, and economic considerations involved in power transformer protection are discussed, with an emphasis on practical applications. Types of faults in transformers are described. Technical problems with the protection systems, including the behavior of current transformers during system faults, are discussed, as well as associated problems, such as fault clearing and post trip reenergization.</abstract>
+  </front>
+</reference>

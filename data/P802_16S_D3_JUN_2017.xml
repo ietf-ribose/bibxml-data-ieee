@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P802.16s/D3, Jun 2017" target="https://ieeexplore.ieee.org/document/7954064">
+  <front>
+    <title>IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="June" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>Smart girds</keyword>
+    <keyword>Network architecture</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>band AMC</keyword>
+    <keyword>critical infrastructure</keyword>
+    <keyword>IEEE 802.16(TM)</keyword>
+    <keyword>IEEE 802.16s(TM)</keyword>
+    <keyword>MAC</keyword>
+    <keyword>narrowband</keyword>
+    <keyword>OFDMA</keyword>
+    <keyword>PHY</keyword>
+    <keyword>smart grid</keyword>
+    <keyword>sub-1.25 MHz channels</keyword>
+    <keyword>utilities</keyword>
+    <keyword>VHF/UHF bands</keyword>
+    <keyword>WirelessMAN(R)</keyword>
+    <abstract>WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel bandwidth from 100 kHz up to 1.25 MHz, including 1 MHz explicitly, is specified. This amendment targets operation in the 700 MHz band but also supports operation in other VHF/UHF bands. The project amends Clause 12 of IEEE Std 802.16-2012, adding a new system profile and amending other clauses as required to support the narrower channel widths. The range and data rate supported by the added profile are commensurate with those of the base standard, as scaled by the reduced channel bandwidth.</abstract>
+  </front>
+</reference>

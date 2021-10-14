@@ -1,0 +1,32 @@
+<reference anchor="IEEE.P1871.1/D4, Apr 2014" target="https://ieeexplore.ieee.org/document/6818970">
+  <front>
+    <title>IEEE Draft Recommended Practice for Using IEEE 1671.2 Instrument Description Templates for Describing Synthetic Instrumentation for Classes of Instruments Such as Waveform Generators, Digitizers, External Oscillators, and Up &amp;amp; Down Converters</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="May" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Waveform generators</keyword>
+    <keyword>Generators</keyword>
+    <keyword>Instruments</keyword>
+    <keyword>Automatic test equipment</keyword>
+    <keyword>XML</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>ATS</keyword>
+    <keyword>automatic test equipment (ATE)</keyword>
+    <keyword>Automatic Test Markup Language (ATML)</keyword>
+    <keyword>automatic test system</keyword>
+    <keyword>IEEE 1671.2</keyword>
+    <keyword>instrument</keyword>
+    <keyword>instrumentation</keyword>
+    <keyword>synthetic instrument</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This recommended practice provides Instrument Description templates which are compliant with IEEE Std 1671.2-2012, that providers of synthetic instruments should use to describe waveform generators, digitizers, external local oscillators, and up and down converters. These synthetic instruments may be integrated in an automatic test system (ATS) that is to be used to test and diagnose a unit under test (UUT).</abstract>
+  </front>
+</reference>

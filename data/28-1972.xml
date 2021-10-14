@@ -1,0 +1,22 @@
+<reference anchor="IEEE.28-1972" target="https://ieeexplore.ieee.org/document/7403786">
+  <front>
+    <title>IEEE Standard for Surge Arresters (Lightning Arresters) for Alternating Current Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7403786"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>AC generators</keyword>
+    <keyword>Arresters</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Surge protection</keyword>
+    <abstract>The issuance of this document to supersede IEEE Std 28-1967 (ANSI C62.1-1967) revises many portions of the standard and adds two significant design tests, namely, switching-surge sparkover characteristic tests for station and intermediate arresters rated 60 kV and above, and radio influence voltage (RIV) and internal-ionization-voltage tests.</abstract>
+  </front>
+</reference>

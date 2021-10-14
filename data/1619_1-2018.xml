@@ -1,0 +1,35 @@
+<reference anchor="IEEE.1619.1-2018" target="https://ieeexplore.ieee.org/document/8637991">
+  <front>
+    <title>IEEE Standard for Authenticated Encryption with Length Expansion for Storage Devices</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8637991"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Security</keyword>
+    <keyword>Encryption</keyword>
+    <keyword>Data storage systems</keyword>
+    <keyword>authentication</keyword>
+    <keyword>CBC</keyword>
+    <keyword>CCM</keyword>
+    <keyword>cryptography</keyword>
+    <keyword>data storage</keyword>
+    <keyword>encryption</keyword>
+    <keyword>GCM</keyword>
+    <keyword>HMAC</keyword>
+    <keyword>IEEE 1619.1(TM)</keyword>
+    <keyword>security</keyword>
+    <keyword>tape drive</keyword>
+    <keyword>variable-length block</keyword>
+    <keyword>XTS</keyword>
+    <abstract>Cryptographic and data authentication procedures for storage devices that support length expansion, such as tape drives, are specified. Such procedures include the following cryptographic modes of operation for the AES block cipher: CCM, GCM, CBC-HMAC, and XTS-HMAC.</abstract>
+  </front>
+</reference>

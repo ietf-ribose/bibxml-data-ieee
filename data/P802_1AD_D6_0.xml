@@ -1,0 +1,17 @@
+<reference anchor="IEEE.P802.1ad/D6.0" target="https://ieeexplore.ieee.org/document/4039954">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks---Amendment 4: Provider Bridges</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="July" day="1"/>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+    <keyword>Rapid Spanning Tree Protocol (RSTP)</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>This amendment enables a service provider to use the architecture and protocols of IEEE Std 802.1Q to offer the equivalent of separate LANs, Bridged Local Area Networks, or Virtual Bridged Local Area Networks to a number of customers, while requiring no cooperation between the customers, and minimal cooperation between each customer and the service provider.</abstract>
+  </front>
+</reference>

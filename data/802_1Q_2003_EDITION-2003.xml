@@ -1,0 +1,30 @@
+<reference anchor="IEEE.802.1Q, 2003 Edition-2003" target="https://ieeexplore.ieee.org/document/1203093">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94280"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="December" day="14"/>
+    <keyword>Local area networks</keyword>
+    <keyword>Access protocols</keyword>
+    <keyword>Communication standards</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridge management</keyword>
+    <keyword>media access control bridges</keyword>
+    <keyword>virtual LANs</keyword>
+    <keyword>IEEE 802.1</keyword>
+    <keyword>IEEE 802.1u</keyword>
+    <keyword>IEEE 802.1v</keyword>
+    <keyword>IEEE 802.1s</keyword>
+    <keyword>IEEE 802.1Q</keyword>
+    <abstract>This standard defines an architecture for Virtual Bridged LANs, the services provided in Virtual Bridged LANs, and the protocols and algorithms involved in the provision of those services. (Incorporates IEEE Std 802.1Q-1998, IEEE Std 802.1u™-2001, IEEE Std 802.1v™-2001, and IEEE Std 802.1s™-2002)</abstract>
+  </front>
+</reference>

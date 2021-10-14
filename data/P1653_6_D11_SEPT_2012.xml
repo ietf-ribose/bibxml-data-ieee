@@ -1,0 +1,68 @@
+<reference anchor="IEEE.P1653.6/D11, Sept 2012" target="https://ieeexplore.ieee.org/document/6401130">
+  <front>
+    <title>IEEE Draft Recommended Practice for Grounding of Direct Current Equipment Enclosures in Traction Power Distribution Facilities</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="January" day="3"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Traction power supplies</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Direct current</keyword>
+    <keyword>dc</keyword>
+    <keyword>ground</keyword>
+    <keyword>grounding</keyword>
+    <keyword>equipment ground</keyword>
+    <keyword>enclosure ground</keyword>
+    <keyword>grounding</keyword>
+    <keyword>bonding</keyword>
+    <keyword>dc</keyword>
+    <keyword>distribution facilities</keyword>
+    <keyword>traction power</keyword>
+    <keyword>switchgear</keyword>
+    <keyword>building enclosure</keyword>
+    <keyword>equipment enclosure</keyword>
+    <keyword>floor insulation</keyword>
+    <keyword>wall insulation</keyword>
+    <keyword>insulation testing</keyword>
+    <keyword>insulation dielectric test</keyword>
+    <keyword>low resistance grounding</keyword>
+    <keyword>low resistance</keyword>
+    <keyword>single point grounding</keyword>
+    <keyword>high resistance grounding</keyword>
+    <keyword>high resistance</keyword>
+    <keyword>diode ground</keyword>
+    <keyword>rail transit</keyword>
+    <keyword>electric trolley bus</keyword>
+    <keyword>ETB</keyword>
+    <keyword>light rail</keyword>
+    <keyword>heavy rail</keyword>
+    <keyword>low voltage equipment</keyword>
+    <keyword>rectifier</keyword>
+    <keyword>dc circuit breakers</keyword>
+    <keyword>negative return</keyword>
+    <keyword>system grounding</keyword>
+    <keyword>transfer trip</keyword>
+    <keyword>ground relay</keyword>
+    <keyword>ground protection</keyword>
+    <keyword>device 64</keyword>
+    <keyword>hot structure</keyword>
+    <keyword>HS</keyword>
+    <keyword>64HS</keyword>
+    <keyword>grounded structure</keyword>
+    <keyword>GS</keyword>
+    <keyword>64GS</keyword>
+    <keyword>64</keyword>
+    <keyword>64M</keyword>
+    <keyword>64MR</keyword>
+    <abstract>This document covers the grounding of dc equipment enclosures installed in dc traction power distribution facilities as well as related insulation treatments required for solid and resistance grounding methods. Guidelines are also given for material, installation, and testing of insulation used in dc traction facilities and further provides recommended criteria for acceptability. System grounding, though related, is not covered in this document.</abstract>
+  </front>
+</reference>

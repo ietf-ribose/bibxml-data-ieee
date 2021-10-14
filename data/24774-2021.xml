@@ -1,0 +1,23 @@
+<reference anchor="IEEE.24774-2021" target="https://ieeexplore.ieee.org/document/9442426">
+  <front>
+    <title>ISO/IEC/IEEE International Standard -Systems and software engineering</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9442426"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="26"/>
+    <keyword>IEEE Standard</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>System analysis and design</keyword>
+    <keyword>Product life cycle management</keyword>
+    <abstract>A number of international, national and industry standards describe processes and process models. Process models are developed for a range of purposes including process implementation and assessment. In order for users of standards to select the appropriate forms of process description and apply them in a consistent fashion, it is desirable to develop a common characterization of all of these forms of process description. This document presents requirements for the description of processes in terms of their format, content and level of prescription. Because of the wide usage of process descriptions, process elements are categorized as “Required” or “Optional”. Although developed within ISO/IEC/JTC1/SC7 – Systems and software engineering, the requirements of this document can be applied to any process model or description developed for any purpose.</abstract>
+  </front>
+</reference>

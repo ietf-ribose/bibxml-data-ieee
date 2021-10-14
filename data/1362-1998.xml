@@ -1,0 +1,32 @@
+<reference anchor="IEEE.1362-1998" target="https://ieeexplore.ieee.org/document/761853">
+  <front>
+    <title>IEEE Guide for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89424"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="21"/>
+    <keyword>Documentation</keyword>
+    <keyword>buyer</keyword>
+    <keyword>characteristics</keyword>
+    <keyword>concept of operation</keyword>
+    <keyword>concepts of operations document</keyword>
+    <keyword>ConOps</keyword>
+    <keyword>developer</keyword>
+    <keyword>operational requirements</keyword>
+    <keyword>scenario</keyword>
+    <keyword>software-intensive system</keyword>
+    <keyword>software system</keyword>
+    <keyword>system</keyword>
+    <keyword>user</keyword>
+    <keyword>user requirements</keyword>
+    <keyword>viewpoint</keyword>
+    <abstract>Replaced by ISO/IEC/IEEE 29148:2011. The format and contents of a concept of operations (ConOps) document are described. AConOps is a user-oriented document that describes system characteristics for a proposed system from theusersO viewpoint. The ConOps document is used to communicate overall quantitative and qualitativesystem characteristics to the user, buyer, developer, and other organizational elements (for example,training, facilities, staffing, and maintenance). It is used to describe the user organization(s), mission(s), andorganizational objectives from an integrated systems point of view.</abstract>
+  </front>
+</reference>

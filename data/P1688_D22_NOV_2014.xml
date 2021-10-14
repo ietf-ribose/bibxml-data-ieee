@@ -1,0 +1,32 @@
+<reference anchor="IEEE.P1688/D22, Nov 2014" target="https://ieeexplore.ieee.org/document/7096849">
+  <front>
+    <title>IEEE Approved Draft Standard for Requirements for the Control of Electromagnetic Interference Characteristics of Replaceable Electronic Modules</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="April" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Electromagnetic emissions</keyword>
+    <keyword>Emissions</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>Electrostatic discharges</keyword>
+    <keyword>EMC. EMI</keyword>
+    <keyword>ESD</keyword>
+    <keyword>REM</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Electromagnetic emission</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>electromagnetic susceptibility</keyword>
+    <keyword>Electrostatic Discharge</keyword>
+    <keyword>Replaceable Electronic Module</keyword>
+    <keyword>Test Limits</keyword>
+    <keyword>EMI</keyword>
+    <abstract>This standard is for use in the specification of electromagnetic performance requirements for Replaceable Electronic Modules (REMs). This standard is suitable for items that have the following features: removable/replaceable electronic circuit modules that plug into an equipment rack or frame, with electrical interconnections primarily through edge connectors that interfaces directly with a backplane, and electrical power input derived from the backplane power sources. This standard is based on MIL-STD-461 System/Equipment level EMI controls. The conducted and radiated requirements, limits and test methods were adapted to provide risk reduction of REM EMI before integration in a system/equipment.</abstract>
+  </front>
+</reference>

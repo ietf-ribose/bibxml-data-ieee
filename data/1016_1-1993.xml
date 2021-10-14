@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1016.1-1993" target="https://ieeexplore.ieee.org/document/278258">
+  <front>
+    <title>IEEE Guide to Software Design Descriptions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119206"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="26"/>
+    <keyword>Software engineering</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Software design process</keyword>
+    <keyword>Design view</keyword>
+    <keyword>Design method</keyword>
+    <keyword>Design entity</keyword>
+    <abstract>Withdrawn Standard. Withdrawn Date: Mar 06, 2000. No longer endorsed by the IEEE. The application of design methods and design documentation recommended in IEEE Std 1016-1987 is described. Several common design methods are used to illustrate the application of IEEE Std 1016-1987, thus making the concepts of that standard more concrete. The information in this guide may be applied to commercial, scientific, or military software that runs on any computer. Applicability is not restricted by the size, complexity, or criticality of the software.</abstract>
+  </front>
+</reference>

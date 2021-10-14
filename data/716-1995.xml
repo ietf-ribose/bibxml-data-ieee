@@ -1,0 +1,23 @@
+<reference anchor="IEEE.716-1995" target="https://ieeexplore.ieee.org/document/1582053">
+  <front>
+    <title>IEEE Standard Test Language for All Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.98752"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="March" day="14"/>
+    <keyword>abbreviated</keyword>
+    <keyword>C/ATLAS</keyword>
+    <keyword>common</keyword>
+    <keyword>test language</keyword>
+    <keyword>unit under test</keyword>
+    <keyword>UUT</keyword>
+    <abstract>A high order language for testing is defined. This language is designed to describe tests in terms that are independent of any specific test system, and has been constrained to ensure that it can be implemented on automatic test equipement.</abstract>
+  </front>
+</reference>

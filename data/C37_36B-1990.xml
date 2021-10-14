@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C37.36b-1990" target="https://ieeexplore.ieee.org/document/89881">
+  <front>
+    <title>IEEE Guide to Current Interruption with Horn-Gap Air Switches</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94808"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="1"/>
+    <keyword>Standards</keyword>
+    <keyword>Switches</keyword>
+    <keyword>Resistive current</keyword>
+    <keyword>Horn-gap air switches</keyword>
+    <keyword>Excitation current</keyword>
+    <keyword>Current interruption</keyword>
+    <keyword>Capacitive current</keyword>
+    <keyword>Air switch</keyword>
+    <abstract>This standard is intended to aid air switch users in establishing suggested maximum values of excitation, resisted and capacitive currents that may be successfully interrupted while using outdoor air switches. This guide pertains to air switches mounted in the normal horizontal-upright position and not equipped with interrupting aids. (Superseded by IEEE Std C37.30.1-2011)</abstract>
+  </front>
+</reference>

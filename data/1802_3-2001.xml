@@ -1,0 +1,30 @@
+<reference anchor="IEEE.1802.3-2001" target="https://ieeexplore.ieee.org/document/959252">
+  <front>
+    <title>IEEE Conformance Test Methodology for IEEE Standards for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93355"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="July" day="24"/>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>EPON</keyword>
+    <keyword>AUI</keyword>
+    <keyword>compliance</keyword>
+    <keyword>conformance testing</keyword>
+    <keyword>MAC</keyword>
+    <keyword>MAU</keyword>
+    <keyword>PICS</keyword>
+    <keyword>PIXIT</keyword>
+    <keyword>PLS</keyword>
+    <abstract>Administratively withdrawn December 2007. Abstract methods for the conformance testing of 802.3 Clause 14 (10BASE-T MAU) implementations in order to satisfy conformance requirements arising from the ISO/IEC 8802-3 (IEEE Std 802.3) specification are provided.</abstract>
+  </front>
+</reference>

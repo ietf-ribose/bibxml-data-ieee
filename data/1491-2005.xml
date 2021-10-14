@@ -1,0 +1,43 @@
+<reference anchor="IEEE.1491-2005" target="https://ieeexplore.ieee.org/document/1542610">
+  <front>
+    <title>IEEE Guide for Selection and Use of Battery Monitoring Equipment in Stationary Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97891"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="July" day="25"/>
+    <keyword>Batteries</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>airflow</keyword>
+    <keyword>ambient temperature</keyword>
+    <keyword>automated battery monitoring</keyword>
+    <keyword>battery applications</keyword>
+    <keyword>battery current</keyword>
+    <keyword>battery environment</keyword>
+    <keyword>battery monitoring equipment</keyword>
+    <keyword>battery monitoring techniques</keyword>
+    <keyword>battery temperature</keyword>
+    <keyword>battery types</keyword>
+    <keyword>battery voltage</keyword>
+    <keyword>communications interfaces</keyword>
+    <keyword>connection resistance</keyword>
+    <keyword>cycles</keyword>
+    <keyword>grounding</keyword>
+    <keyword>ground fault detection</keyword>
+    <keyword>humidity</keyword>
+    <keyword>ripple current</keyword>
+    <keyword>safety</keyword>
+    <keyword>software</keyword>
+    <keyword>specific gravity</keyword>
+    <abstract>Monitoring and measurement of battery parameters is an important element of maintaining a fully operational battery system. This guide presents and discusses measurable parameters of batteries used in stationary battery systems and the utilization of such observations. This guide does not give a listing of commercially available systems, but it does provide a means of establishing specifications for the desired parameters monitored</abstract>
+  </front>
+</reference>

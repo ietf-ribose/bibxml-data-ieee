@@ -1,0 +1,25 @@
+<reference anchor="IEEE.P1149.6/D7.3, Jul 2015" target="https://ieeexplore.ieee.org/document/7163475">
+  <front>
+    <title>IEEE Draft Standard for Boundary-Scan Testing of Advanced Digital Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="July" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>AC machines</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>Circuit layout</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>Boundary conditions</keyword>
+    <keyword>Differential signaling</keyword>
+    <keyword>AC-coupled signaling</keyword>
+    <keyword>Boundary-Scan</keyword>
+    <keyword>circuit boards</keyword>
+    <keyword>differential signaling</keyword>
+    <keyword>integrated circuits</keyword>
+    <keyword>interconnect test</keyword>
+    <keyword>printed circuit boards</keyword>
+    <keyword>test.</keyword>
+    <abstract>This standard augments IEEE Std 1149.1 to improve the ability for testing differential and/or ac-coupled interconnections between integrated circuits on circuit boards and systems.</abstract>
+  </front>
+</reference>

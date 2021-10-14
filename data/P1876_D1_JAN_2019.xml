@@ -1,0 +1,43 @@
+<reference anchor="IEEE.P1876/D1, Jan 2019" target="https://ieeexplore.ieee.org/document/8640865">
+  <front>
+    <title>IEEE Approved Draft Standard for Networked Smart Learning for Online Laboratories</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Learning systems</keyword>
+    <keyword>Smart devices</keyword>
+    <keyword>Remote laboratories</keyword>
+    <keyword>Laboratories</keyword>
+    <keyword>Interactive learning control</keyword>
+    <keyword>IEEE 1876</keyword>
+    <keyword>Lab as a Service (LaaS)</keyword>
+    <keyword>learning environment</keyword>
+    <keyword>learning object repository</keyword>
+    <keyword>metadata for learning resources</keyword>
+    <keyword>mobile laboratory</keyword>
+    <keyword>mobile learning</keyword>
+    <keyword>networked learning environments</keyword>
+    <keyword>online distributed simulations</keyword>
+    <keyword>Open Educational Resources (OER)</keyword>
+    <keyword>online laboratory</keyword>
+    <keyword>online laboratory architecture</keyword>
+    <keyword>online laboratory brokerage</keyword>
+    <keyword>open laboratory</keyword>
+    <keyword>remote laboratory</keyword>
+    <keyword>Science</keyword>
+    <keyword>Technology</keyword>
+    <keyword>Engineering</keyword>
+    <keyword>and Mathematics (STEM) Education</keyword>
+    <keyword>smart device</keyword>
+    <keyword>virtual laboratory</keyword>
+    <abstract>Methods for storing, retrieving, and accessing online laboratories as smart and interactive learning objects are defined in this standard. For this purpose, the first level of the standard offers any online laboratory (lab) as a service (Lab as a Service or LaaS). The standard also defines methods for integrating online laboratories as smart learning objects in learning environments and learning object repositories.</abstract>
+  </front>
+</reference>

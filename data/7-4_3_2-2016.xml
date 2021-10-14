@@ -1,0 +1,29 @@
+<reference anchor="IEEE.7-4.3.2-2016" target="https://ieeexplore.ieee.org/document/7552419">
+  <front>
+    <title>IEEE Standard Criteria for Programmable Digital Devices in Safety Systems of Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7552419"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="August" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Software verification</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>commercial grade item</keyword>
+    <keyword>diversity</keyword>
+    <keyword>IEEE 7-4.3.2(TM)</keyword>
+    <keyword>programmable digital devices</keyword>
+    <keyword>safety systems</keyword>
+    <keyword>software</keyword>
+    <keyword>software tools</keyword>
+    <keyword>software verifi cation and validation</keyword>
+    <abstract>Additional specific requirements to supplement the criteria and requirements of IEEE Std 603(TM) are specified for programmable digital devices. Within the context of this standard, the term programmable digital device is any device that relies on software instructions or programmable logic to accomplish a function. Examples include a computer, a programmable hardware device, or a device with firmware. Systems using these devices will also be referred to as digital safety systems in this standard. The criteria contained herein, in conjunction with criteria in IEEE Std 603, establish minimum functional and design requirements for programmable digital devices used as components of a safety system.</abstract>
+  </front>
+</reference>

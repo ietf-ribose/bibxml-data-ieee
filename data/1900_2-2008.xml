@@ -1,0 +1,33 @@
+<reference anchor="IEEE.1900.2-2008" target="https://ieeexplore.ieee.org/document/4584236">
+  <front>
+    <title>IEEE Recommended Practice for the Analysis of In-Band and Adjacent Band Interference and Coexistence Between Radio Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4584236"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Interference</keyword>
+    <keyword>Dynamic spectrum access</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>1900.2-2008</keyword>
+    <keyword>adaptive radio</keyword>
+    <keyword>coexistence</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>dynamic spectrum access</keyword>
+    <keyword>interference</keyword>
+    <keyword>policy-defined radio</keyword>
+    <keyword>software-defined radio</keyword>
+    <keyword>spectrum</keyword>
+    <keyword>spectrum access</keyword>
+    <abstract>This recommended practice will provide technical guidelines for analyzing the potential for coexistence or in contrast interference between radio systems operating in the same frequency band or between different frequency bands.</abstract>
+  </front>
+</reference>

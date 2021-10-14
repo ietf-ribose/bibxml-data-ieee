@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1903.2-2017" target="https://ieeexplore.ieee.org/document/8365908">
+  <front>
+    <title>IEEE Standard for Service Composition Protocols of Next Generation Service Overlay Network</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8365908"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="May" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Iron</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Next generation networking</keyword>
+    <keyword>Overlay networks</keyword>
+    <keyword>Software defined networking</keyword>
+    <keyword>NGSON</keyword>
+    <keyword>Service Composition</keyword>
+    <keyword>Context Awareness</keyword>
+    <keyword>Dynamic Adaptation</keyword>
+    <keyword>Self Organization</keyword>
+    <abstract>This standard specifies protocols among Service Composition (SC) Functional Entity (FE), Service Discovery and Negotiation (SDN) FE, Context Information Management (CIM) FE, Service Routing (SR) FE and Service Policy Decision (SPD) FE to support service composition capabilities in next generation service overlay network. The capabilities of service composition aim to support service chaining and instantiation, specification interpretation, service brokering and execution, and context-aware and dynamically adaptive service composition.</abstract>
+  </front>
+</reference>

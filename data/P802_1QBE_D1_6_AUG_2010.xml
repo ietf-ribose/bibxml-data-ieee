@@ -1,0 +1,31 @@
+<reference anchor="IEEE.P802.1Qbe/D1.6_Aug 2010" target="https://ieeexplore.ieee.org/document/5641541">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Virtual Bridged Local Area Networks Amendment: Multiple I-SID Registration Protocol</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MRP</keyword>
+    <keyword>MIRP</keyword>
+    <keyword>MMRP</keyword>
+    <keyword>MVRP</keyword>
+    <keyword>Provider Backbone Bridges</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs.</keyword>
+    <abstract>This standard specifies protocols, procedures, and managed objects to support topology change signaling to alter the binding (held in an I-Component) of Customer addresses to Backbone addresses on a per-I-SID basis. This is accomplished by extending the use of the Multiple Registration Protocol (MRP).</abstract>
+  </front>
+</reference>

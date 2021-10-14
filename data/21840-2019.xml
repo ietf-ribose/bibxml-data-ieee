@@ -1,0 +1,22 @@
+<reference anchor="IEEE.21840-2019" target="https://ieeexplore.ieee.org/document/8929110">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8929110"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="December" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>System of systems</keyword>
+    <abstract>This document provides guidance on the application of processes in ISO/IEC/IEEE 15288 to systems of systems (SoS). The scope of this document is the same as ISO/IEC/IEEE 15288, which addresses more than systems engineering activities.</abstract>
+  </front>
+</reference>

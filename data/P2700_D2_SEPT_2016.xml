@@ -1,0 +1,43 @@
+<reference anchor="IEEE.P2700/D2, Sept 2016" target="https://ieeexplore.ieee.org/document/7755715">
+  <front>
+    <title>IEEE Approved Draft Standard for Sensor Performance Parameter Definitions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Accelerometers</keyword>
+    <keyword>Sensors</keyword>
+    <keyword>Barometers</keyword>
+    <keyword>Gyroscopes</keyword>
+    <keyword>Humidity</keyword>
+    <keyword>Pressure measurement</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Dictionaries</keyword>
+    <keyword>Magnetometers</keyword>
+    <keyword>Micromechanical devices</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>accelerometer</keyword>
+    <keyword>ambient light</keyword>
+    <keyword>barometer</keyword>
+    <keyword>combination sensor</keyword>
+    <keyword>gyroscope</keyword>
+    <keyword>humidity</keyword>
+    <keyword>IEEE 2700(TM)</keyword>
+    <keyword>magnetometer</keyword>
+    <keyword>MEMS</keyword>
+    <keyword>microelectromechanical</keyword>
+    <keyword>pressure</keyword>
+    <keyword>proximity</keyword>
+    <keyword>sensors systems</keyword>
+    <keyword>temperature</keyword>
+    <keyword>terminology</keyword>
+    <abstract>A common framework for sensor performance specification terminology, units, conditions, and limits is provided. Specifically, the accelerometer, magnetometer, gyrometer/gyroscope, accelerometer/magnetometer/gyroscope combination sensors, barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors, light sensors (ambient and RGB), and proximity sensors are discussed.</abstract>
+  </front>
+</reference>

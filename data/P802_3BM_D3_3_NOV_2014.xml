@@ -1,0 +1,40 @@
+<reference anchor="IEEE.P802.3bm/D3.3, Nov 2014" target="https://ieeexplore.ieee.org/document/6964780">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 40 Gb/s and 100 Gb/s Operation Over Fiber Optic Cables</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="November" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>100 Gb/s Ethernet</keyword>
+    <keyword>100GBASE-ER4</keyword>
+    <keyword>100GBASE-LR4</keyword>
+    <keyword>100GBASE-SR10</keyword>
+    <keyword>100GBASE-SR4</keyword>
+    <keyword>40 Gb/s Ethernet</keyword>
+    <keyword>40GBASE-ER4</keyword>
+    <keyword>40GBASE-FR</keyword>
+    <keyword>40GBASE-LR4</keyword>
+    <keyword>40GBASE-SR4</keyword>
+    <keyword>CAUI-4</keyword>
+    <keyword>Energy Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>forward error correction (FEC)</keyword>
+    <keyword>IEEE Std 802.3bm</keyword>
+    <keyword>MMF</keyword>
+    <keyword>physical medium dependent Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>SMF.</keyword>
+    <abstract>This draft is an amendment of IEEE Std 802.3-2012. This amendment adds Physical Layer (PHY)specifications and management parameters for 40 Gb/s operation over single-mode fiber (40GBASE-ER4)and for 100 Gb/s operation over multimode fiber (100GBASE-SR4). This amendment also specifies a four lane variant of the 100 Gigabit Attachment Unit Interface (CAUI-4) and optional Energy Efficient Ethernet (EEE) for 40 Gb/s and 100 Gb/s operation over fiber optic cables. Draft D3.3 is prepared for Sponsor ballot recirculation. This draft expires 6 months after the date of publication or when the next version is published, whichever comes first.</abstract>
+  </front>
+</reference>

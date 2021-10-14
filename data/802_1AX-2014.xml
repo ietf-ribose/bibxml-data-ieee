@@ -1,0 +1,37 @@
+<reference anchor="IEEE.802.1AX-2014" target="https://ieeexplore.ieee.org/document/7055197">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks -- Link Aggregation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.7055197"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="March" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Aggregators</keyword>
+    <keyword>Aggregated links</keyword>
+    <keyword>Network interfaces</keyword>
+    <keyword>Distributed processing</keyword>
+    <keyword>Resilience</keyword>
+    <keyword>Aggregated Link</keyword>
+    <keyword>Aggregator</keyword>
+    <keyword>Distributed Resilient Network Interconnect</keyword>
+    <keyword>DRNI</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.1AX(TM)</keyword>
+    <keyword>interconnect</keyword>
+    <keyword>Link Aggregation</keyword>
+    <keyword>Link Aggregation Group</keyword>
+    <keyword>local area network</keyword>
+    <keyword>management</keyword>
+    <keyword>Network-Network Interface</keyword>
+    <keyword>NNI</keyword>
+    <abstract>MAC-independent Link Aggregation capability and general information relevant to specific MAC types are defined in this standard. Link Aggregation allows parallel full-duplex point-to-point links to be used as if they were a single link and also supports the use of multiple links as a resilient load sharing interconnect between multiple nodes in two separately administered networks.</abstract>
+  </front>
+</reference>

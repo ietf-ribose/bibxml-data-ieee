@@ -1,0 +1,29 @@
+<reference anchor="IEEE.1834-2019" target="https://ieeexplore.ieee.org/document/9007071">
+  <front>
+    <title>IEEE Standard for Technology Supervision Code for Wind Turbine Rotor Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9007071"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Turbines</keyword>
+    <keyword>Rotors</keyword>
+    <keyword>Wind power generation</keyword>
+    <keyword>Supervisory control</keyword>
+    <keyword>hub</keyword>
+    <keyword>IEEE 1834</keyword>
+    <keyword>pitch system</keyword>
+    <keyword>technical supervision</keyword>
+    <keyword>wind turbine blade</keyword>
+    <keyword>wind turbine rotor</keyword>
+    <keyword>yaw system</keyword>
+    <abstract>As a significant part of wind turbine, the rotor system of wind turbine has the functions of transforming wind energy, and balancing power, load and noise, it is critical to the wind turbine safety and economical operation. A rotor system consists of blade, hub, pitch system and yaw system. A technical supervision code for each part of the rotor system to improve the safety and normal operation is specified in this standard.</abstract>
+  </front>
+</reference>

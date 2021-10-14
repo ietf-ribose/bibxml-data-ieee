@@ -1,0 +1,21 @@
+<reference anchor="IEEE.N42.30-2002" target="https://ieeexplore.ieee.org/document/1077795">
+  <front>
+    <title>American National Standard for Performance Specification for Tritium Monitors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94149"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Tritium</keyword>
+    <keyword>Air pollution</keyword>
+    <keyword>Radioactive pollution</keyword>
+    <keyword>Radiation monitoring</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Calibration</keyword>
+    <abstract>The performance requirements for tritium monitors used for monitoring airborne tritium radioactivity are provided in this standard. It also provides test methods for establishing a monitor's performance characteristics.</abstract>
+  </front>
+</reference>

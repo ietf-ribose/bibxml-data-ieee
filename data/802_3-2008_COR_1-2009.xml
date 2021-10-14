@@ -1,0 +1,29 @@
+<reference anchor="IEEE.802.3-2008/Cor 1-2009" target="https://ieeexplore.ieee.org/document/5752990">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Corrigendum 1: Timing Considerations for PAUSE Operation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5752990"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="April" day="8"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Collision detection</keyword>
+    <keyword>Timing</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>802.3(TM)-2008/Cor 1-2009</keyword>
+    <keyword>802.3</keyword>
+    <keyword>802.3bb</keyword>
+    <keyword>802.3-2008/Cor-1</keyword>
+    <keyword>PAUSE</keyword>
+    <abstract>The correction to the PAUSE reaction timing delay for the 10GBASE-T port type is addressed in this corrigendum to IEEE Std 802.3-2008.</abstract>
+  </front>
+</reference>

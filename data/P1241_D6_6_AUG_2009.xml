@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P1241/D6.6, Aug 2009" target="https://ieeexplore.ieee.org/document/5281208">
+  <front>
+    <title>Draft IEEE Standard for Terminology and Test Methods for Analog-to-Digital Converters</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>The material presented in this standard is intended to provide common terminology and test methods for the testing and evaluation of analog-to-digital converters (ADCs). This standard considers only those ADCs whose output values have discrete values at discrete times, i.e. they are quantized and sampled. In general, this quantization is assumed to be nominally uniform (the input-output transfer curve is approximately a straight line) as discussed further in clause 1.3, and the sampling is assumed to be at a nominally uniform rate. Some but not all of the test methods in this standard can be used for ADCs that are designed for non-uniform quantization.</abstract>
+  </front>
+</reference>

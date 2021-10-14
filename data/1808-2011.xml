@@ -1,0 +1,35 @@
+<reference anchor="IEEE.1808-2011" target="https://ieeexplore.ieee.org/document/5714997">
+  <front>
+    <title>IEEE Guide for Collecting and Managing Transmission Line Inspection and Maintenance Data</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5714997"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="November" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Inspection</keyword>
+    <keyword>Transmission lines</keyword>
+    <keyword>Power system management</keyword>
+    <keyword>1808</keyword>
+    <keyword>asset management</keyword>
+    <keyword>automated</keyword>
+    <keyword>compliance</keyword>
+    <keyword>data</keyword>
+    <keyword>database</keyword>
+    <keyword>electric</keyword>
+    <keyword>electronic</keyword>
+    <keyword>GIS</keyword>
+    <keyword>inspection</keyword>
+    <keyword>lines</keyword>
+    <keyword>maintenance</keyword>
+    <keyword>regulations</keyword>
+    <keyword>transmission</keyword>
+    <abstract>Reference information to assist electric utilities and their contractors with the development of computer-based means for collecting and managing transmission line inspection and maintenance data and associated asset information is provided. The guide provides a high level overview of key principles and considerations learned through experience that will help ensure common pitfalls are avoided and enhance the usability of systems. It is not intended to provide an exhaustive discussion of the many details and specifics that must be accounted for when designing and developing a system for an individual utility's application and needs.</abstract>
+  </front>
+</reference>

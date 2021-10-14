@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P1609.2a/D7, Jun 2017" target="https://ieeexplore.ieee.org/document/7968280">
+  <front>
+    <title>IEEE Draft Standard for Wireless Access in Vehicular Environments--Security Services for Applications and Management Messages</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="July" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Cryptography</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Vehicular ad hoc networks</keyword>
+    <keyword>Security</keyword>
+    <keyword>Message systems</keyword>
+    <keyword>cryptography</keyword>
+    <keyword>IEEE 1609.2(TM)</keyword>
+    <keyword>security</keyword>
+    <keyword>wireless access in vehicular environments (WAVE)</keyword>
+    <abstract>Secure message formats and processing for use by Wireless Access in Vehicular Environments (WAVE) devices, including methods to secure WAVE management messages and methods to secure application messages are defined. Administrative functions necessary to support the core security functions are described.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IEEE.802.4h-1997" target="https://ieeexplore.ieee.org/document/641226">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Supplement to Token-Passing Bus Access Method and Physical Layer Specifications. Alternative Use of BNC Connectors and Manchester-Encoded Signaling Methods for Single-Channel Bus Physical Layer Entities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.84746"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>This supplement to ISO/IEC 8802-4:1990 [ANSI/IEEE Std 802.4-1990] provides the functional, electrical, and mechanical characteristics of single-channel differential and Manchester-data-encoded bus Physical Layer Entities (PLEs).</abstract>
+  </front>
+</reference>

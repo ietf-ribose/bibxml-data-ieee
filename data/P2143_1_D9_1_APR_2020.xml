@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P2143.1/D9.1, Apr 2020" target="https://ieeexplore.ieee.org/document/9079691">
+  <front>
+    <title>IEEE Draft Standard for General Process of Cryptocurrency Payment</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="April" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Cryptocurrency</keyword>
+    <keyword>Cryptography</keyword>
+    <keyword>Online banking</keyword>
+    <keyword>Finance</keyword>
+    <keyword>cashier</keyword>
+    <keyword>clearing</keyword>
+    <keyword>cryptocurrency payment</keyword>
+    <keyword>exchange</keyword>
+    <keyword>IEEE 2143.1</keyword>
+    <keyword>payment currency</keyword>
+    <keyword>quotation currency</keyword>
+    <keyword>settlement</keyword>
+    <abstract>Defined in this standard is the general process of cryptocurrency payment between consumers and merchants. This process describes how a consumer purchases goods or services with cryptocurrency and how the merchant receives fiat money in return. It involves multiple aspects such as cryptocurrency payment operators playing an agent role, consumers owning cryptocurrency, merchant accessing to a cryptocurrency payment platform, banks, and cryptocurrency exchanges.</abstract>
+  </front>
+</reference>

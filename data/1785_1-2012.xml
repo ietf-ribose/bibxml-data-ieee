@@ -1,0 +1,28 @@
+<reference anchor="IEEE.1785.1-2012" target="https://ieeexplore.ieee.org/document/6471987">
+  <front>
+    <title>IEEE Standard for Rectangular Metallic Waveguides and Their Interfaces for Frequencies of 110 GHz and Above--Part 1: Frequency Bands and Waveguide Dimensions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6471987"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="28"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Metals</keyword>
+    <keyword>Wavelength conversion</keyword>
+    <keyword>Millimeter wave communication</keyword>
+    <keyword>Submillimeter wave propagation</keyword>
+    <keyword>IEEE 1785.1(TM)</keyword>
+    <keyword>millimeter-wave</keyword>
+    <keyword>rectangular waveguides</keyword>
+    <keyword>submillimeter-wave</keyword>
+    <keyword>terahertz</keyword>
+    <keyword>waveguide apertures</keyword>
+    <keyword>waveguide tolerances</keyword>
+    <abstract>Specifications for the waveguide (including aperture dimensions, frequency range, cutoff frequency, etc.) are given in this standard. This standard considers the tolerances of the waveguide aperture dimensions and the effect these have on the electrical properties (in terms of return loss, transmission loss, etc.) of the waveguide.</abstract>
+  </front>
+</reference>

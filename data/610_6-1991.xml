@@ -1,0 +1,17 @@
+<reference anchor="IEEE.610.6-1991" target="https://ieeexplore.ieee.org/document/159476">
+  <front>
+    <title>IEEE Standard Glossary of Computer Graphics Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101088"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Computer graphics</keyword>
+    <keyword>Terminology</keyword>
+    <abstract>Terms in the field of computer graphics are defined. Topics covered include general computer graphics concepts, computer graphics hardware and hardware concepts, primitives and attributes, input devices, image concepts and techniques, display techniques, visual effects, windows and viewports, CRT terminology, and three-dimensional technology. Terms considered to be parochial to one group or organisation, company proprietary or trademarked, multiword terms whose meaning could be inferred from the definitions of the component words, and terms whose meaning in the computer field could be directly inferred from their standard English meaning are excluded.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

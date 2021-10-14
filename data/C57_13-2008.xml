@@ -1,0 +1,29 @@
+<reference anchor="IEEE.C57.13-2008" target="https://ieeexplore.ieee.org/document/6069510">
+  <front>
+    <title>IEEE Standard Requirements for Instrument Transformers</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Current transformers</keyword>
+    <keyword>Windings</keyword>
+    <keyword>C57.13-2008</keyword>
+    <keyword>accuracy</keyword>
+    <keyword>current transformer</keyword>
+    <keyword>instrument transformer</keyword>
+    <keyword>primary winding</keyword>
+    <keyword>rated secondary voltage</keyword>
+    <keyword>routine tests</keyword>
+    <keyword>secondary winding</keyword>
+    <keyword>type tests</keyword>
+    <keyword>voltage transformer</keyword>
+    <abstract>Electrical, dimensional, and mechanical characteristics are covered, taking into consideration certain safety features, for current and inductively coupled voltage transformers of types generally used in the measurement of electricity and the control of equipment associated with the generation, transmission, and distribution of alternating current. The aim is to provide a basis for performance and interchangeability of equipment covered and to assist in the proper selection of such equipment. Safety precautions are also addressed. Accuracy classes for metering service are provided. The test code covers measurement and calculation of ratio and phase angle, demagnetization, impedance and excitation measurements, polarity determination, resistance measurements, short-time characteristics, temperature rise tests, dielectric tests, and measurement of open-circuit voltage of current transformers.</abstract>
+  </front>
+</reference>

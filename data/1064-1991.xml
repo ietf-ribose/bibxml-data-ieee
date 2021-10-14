@@ -1,0 +1,18 @@
+<reference anchor="IEEE.1064-1991" target="https://ieeexplore.ieee.org/document/159112">
+  <front>
+    <title>IEEE Guide for Multifactor Stress Functional Testing of Electrical Insulation Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101027"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Aging</keyword>
+    <keyword>Insulation testing</keyword>
+    <keyword>Standards</keyword>
+    <abstract>A guide for developing test procedures for the functional testing of insulation systems used in long-life electrical equipment exposed to more than one factor of influence in service is presented. Included are descriptions of technical problems and practical possibilities that may be helpful either for guidance or as a check list. A sequence of action is recommended, and details of the procedures required for the specification of such tests are provided. The emphasis is on realistically modeling service aging in functional tests and making the tests as simple and practical as possible. Mechanisms of interaction between the factors influencing aging are reviewed.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

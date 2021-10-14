@@ -1,0 +1,24 @@
+<reference anchor="IEEE.750.11-1960" target="https://ieeexplore.ieee.org/document/7436715">
+  <front>
+    <title>AIEE Report on Aircraft and Missiles Electric Systems Guide Appendices I, II, and III</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.7436715"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="18"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Aircraft</keyword>
+    <keyword>Aerospace electronics</keyword>
+    <keyword>System guide</keyword>
+    <keyword>Missiles</keyword>
+    <keyword>US Department of Defense</keyword>
+    <keyword>Military equipment</keyword>
+    <keyword>Weapons</keyword>
+    <abstract>In conclusion, the application of alternating-current machines requires a working knowledge of the performance characteristics of the generator-regulator combination. Special emphasis should be placed on machine ratings, short-circuit, overvoltage, underspeed and fault power characteristics. Aid in understanding these characteristics is received by a study of synchronous machine analysis, but the detailed investigations performed by the cooperstive effort of the machine and regulator designers relieve the system designer of much of this work by providing characteristics in an immediately usable form.</abstract>
+  </front>
+</reference>

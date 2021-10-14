@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C37.09e-1985" target="https://ieeexplore.ieee.org/document/590898">
+  <front>
+    <title>IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82383"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Transient analysis</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Short-circuit currents</keyword>
+    <keyword>Current measurement</keyword>
+    <keyword>Circuit-breaker testing</keyword>
+    <abstract>This supplement to IEEE C37.09-1979 replaces 4.6.5.3 (2).</abstract>
+  </front>
+</reference>

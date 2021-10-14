@@ -1,0 +1,23 @@
+<reference anchor="IEEE.N42.13-1986" target="https://ieeexplore.ieee.org/document/29092">
+  <front>
+    <title>American National Standard Calibration and Usage of "Dose Calibrator" Ionization Chambers for the Assay of Radionuclides</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81593"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="20"/>
+    <keyword>Calibration</keyword>
+    <keyword>Dosimetry</keyword>
+    <keyword>Ionization chambers</keyword>
+    <keyword>Radiation monitoring</keyword>
+    <keyword>Radioactive materials</keyword>
+    <keyword>Ionization chambers</keyword>
+    <abstract>A technique for the quantification of the activity of identified radionuclides, using any of a variety of ionization chambers currently available for this purpose, is presented. Application of the standard is limited to instruments that incorporate well-type ionization chambers as detectors. The method provides measurements that are accurate to within plus or minus 10% and reproducible to within plus or minus 5%. The standard is also intended to ensure continuing performance of the apparatus within these specifications.</abstract>
+  </front>
+</reference>

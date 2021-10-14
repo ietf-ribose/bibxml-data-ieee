@@ -1,0 +1,36 @@
+<reference anchor="IEEE.C63.4-1992" target="https://ieeexplore.ieee.org/document/574685">
+  <front>
+    <title>IEEE Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.81716"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>conducting ground plane</keyword>
+    <keyword>conducted emission testing</keyword>
+    <keyword>digital equipment</keyword>
+    <keyword>electric field measurement</keyword>
+    <keyword>information technology equipment</keyword>
+    <keyword>intentional radiators</keyword>
+    <keyword>line impedance stabilization network</keyword>
+    <keyword>low-voltage electrical equipment</keyword>
+    <keyword>low-voltage electronic equipment</keyword>
+    <keyword>magnetic field measurement</keyword>
+    <keyword>normalized site attenuation</keyword>
+    <keyword>periodic intentional radiators</keyword>
+    <keyword>powerline conducted radio noise</keyword>
+    <keyword>radiated emission testing</keyword>
+    <keyword>radio-noise emissions</keyword>
+    <keyword>radio-noise power</keyword>
+    <keyword>site attenuation</keyword>
+    <keyword>unintentional radiators.</keyword>
+    <abstract>Uniform methods of measurement of radio noise emitted from low-voltage electrical and electronic equipment, including digital and other information technology equipment, in the frequency range of 9 kHz to 40 GHz are set forth. Both unintentional and certain intentional radiators are included. Methods for the measurement of radiated and powerline conducted radio noise are covered and may be applied to any such equipment unless otherwise specified by individual equipment requirements.</abstract>
+  </front>
+</reference>

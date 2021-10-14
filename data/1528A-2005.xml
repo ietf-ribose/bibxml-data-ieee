@@ -1,0 +1,32 @@
+<reference anchor="IEEE.1528a-2005" target="https://ieeexplore.ieee.org/document/1603350">
+  <front>
+    <title>IEEE Recommended Practice for Determining the Peak Spatial-Average Specific Absorption Rate (SAR) in the Human Head from Wireless Communications Devices: Measurement Techniques</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99106"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Specific absorption rate</keyword>
+    <keyword>Handheld devices</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Microwave measurement</keyword>
+    <keyword>Measurements</keyword>
+    <keyword>Electric fields</keyword>
+    <keyword>dosimetry</keyword>
+    <keyword>handheld cellular and mobile telephones</keyword>
+    <keyword>measurement uncertainty</keyword>
+    <keyword>miniature electric field (E-field) probes</keyword>
+    <keyword>specific absorption rate (SAR)</keyword>
+    <keyword>specific anthropomorphic mannequin (SAM)</keyword>
+    <keyword>SAR measurements</keyword>
+    <keyword>SAR measurement systems</keyword>
+    <abstract>Amendment to IEEE Std 1528-2003. This amendment to IEEE Std 1528 addresses certain text ambiguities in IEEE Std 1528-2003 and provides a CAD data file for the human head model from the original project but which was not included with the original standard.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,49 @@
+<reference anchor="IEEE.P1936.1, 2020" target="https://ieeexplore.ieee.org/document/9366657">
+  <front>
+    <title>IEEE Draft Standard for Drone Applications Framework</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Drones</keyword>
+    <keyword>Process management</keyword>
+    <keyword>Aerospace safety</keyword>
+    <keyword>Payloads</keyword>
+    <keyword>Insurance</keyword>
+    <keyword>Aerospace control</keyword>
+    <keyword>drone</keyword>
+    <keyword>unmanned aerial vehicle (UAV)</keyword>
+    <keyword>unmanned aerial system (UAS)</keyword>
+    <keyword>drone application</keyword>
+    <keyword>operator</keyword>
+    <keyword>drone pilot</keyword>
+    <keyword>drone observer</keyword>
+    <keyword>drone application services</keyword>
+    <keyword>information collection</keyword>
+    <keyword>transmission and processing</keyword>
+    <keyword>goods loading</keyword>
+    <keyword>releasing</keyword>
+    <keyword>transportation and processing</keyword>
+    <keyword>flight platform</keyword>
+    <keyword>flight control system</keyword>
+    <keyword>ground control station</keyword>
+    <keyword>control link and data link</keyword>
+    <keyword>takeoff and landing system</keyword>
+    <keyword>airworthiness</keyword>
+    <keyword>airspace</keyword>
+    <keyword>qualification of operator</keyword>
+    <keyword>qualification of personnel</keyword>
+    <keyword>insurance</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>emergency response procedure</keyword>
+    <keyword>data reference format</keyword>
+    <abstract>A framework for support of drone applications is established in this standard. It specifies typical drone application classes and application scenarios and the required application execution environments. The general facility requirements of drone application are listed, including flight platform, flight control system, ground control station, payload, control link and data link, takeoff and landing system, etc. The drone safety and management requirements include airworthiness, airspace, and air traffic requirements, qualification of operators, qualification of personnel, insurance, confidentiality and others. The general operation process is detailed. The operation results stipulate the operation record and operation report, including data classification, data collection and processing, data record and analysis and data reference format.</abstract>
+  </front>
+</reference>

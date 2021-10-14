@@ -1,0 +1,33 @@
+<reference anchor="IEEE.C62.42.4-2020" target="https://ieeexplore.ieee.org/document/9165997">
+  <front>
+    <title>IEEE Guide for the Application of Surge-Protective Components in Surge Protective Devices and Equipment Ports--Part 4: Thermally Activated Current Limiters</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9165997"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="August" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Thermistors</keyword>
+    <keyword>Polymers</keyword>
+    <keyword>Ceramics</keyword>
+    <keyword>Current limiters</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>ceramic</keyword>
+    <keyword>current-limiter</keyword>
+    <keyword>holding</keyword>
+    <keyword>IEEE C62.42.4(TM)</keyword>
+    <keyword>operate time</keyword>
+    <keyword>polymer</keyword>
+    <keyword>positive temperature coefficient (PTC)</keyword>
+    <keyword>thermally activated</keyword>
+    <keyword>trip</keyword>
+    <abstract>Surge protective components (SPCs) used in power and telecom surge protective devices (SPDs) and equipment ports are covered in the IEEE C62.42 guide series. Positive temperature coefficient (PTC) thermistor components are covered in this part. These SPCs are operated by self-heating and is automatically reset after the end of the overcurrent condition without the need for manual intervention. The two types of body material, polymer and ceramic, are covered in this guide. These components are referred to as follows: a) polymer positive temperature coefficient (PPTC) thermistors and b) ceramic positive temperature coefficient (CPTC) thermistors. Overview, construction, operation, production, ratings, characteristics, and application examples are topics covered in this guide.</abstract>
+  </front>
+</reference>

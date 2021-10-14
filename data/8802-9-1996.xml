@@ -1,0 +1,46 @@
+<reference anchor="IEEE.8802-9-1996" target="https://ieeexplore.ieee.org/document/6804712">
+  <front>
+    <title>ISO/IEC/IEEE International Standard Information technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.6804712"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>access unit (AU)</keyword>
+    <keyword>data link layer</keyword>
+    <keyword>hybrid multiplexer (HMUX)</keyword>
+    <keyword>integrated services digital network</keyword>
+    <keyword>ISDN</keyword>
+    <keyword>intergrated services terminal equipment</keyword>
+    <keyword>ISTE</keyword>
+    <keyword>layer management entity</keyword>
+    <keyword>LAN</keyword>
+    <keyword>logical link control</keyword>
+    <keyword>managed object</keyword>
+    <keyword>management information base (MIB)</keyword>
+    <keyword>MAC</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>MAN</keyword>
+    <keyword>physical medium dependent</keyword>
+    <keyword>physical signalling</keyword>
+    <keyword>private switching network</keyword>
+    <keyword>protocol data unit (PDU)</keyword>
+    <keyword>service access point</keyword>
+    <keyword>time division multiplexer (TDM)</keyword>
+    <abstract>A unified access method that offers integrated services (IS) to the desktop for a variety of publicly and privately administered backbone networks (e.g., ANSI FDDI, IEEE 802.x and ISDN) is defined. In addition, the interface at the MAC sublayer and the PHY Layer is specified.</abstract>
+  </front>
+</reference>

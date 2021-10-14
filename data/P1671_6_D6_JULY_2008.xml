@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P1671.6/D6, July 2008" target="https://ieeexplore.ieee.org/document/4567208">
+  <front>
+    <title>IEEE Draft Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Information Via XML, Exchanging Test Station Information</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This document specifies an exchange format, utilizing XML, for identifying all of the hardware, software, and documentation associated with a test station. This test station may be used as a component of a test program set (TPS) to test and diagnose a unit under test (UUT).</abstract>
+  </front>
+</reference>

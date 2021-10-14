@@ -1,0 +1,10 @@
+<reference anchor="IEEE.1255-2000" target="https://ieeexplore.ieee.org/document/873589">
+  <front>
+    <title>IEEE Guide for Evaluation of Torque Pulsations During Starting of Synchronous Motors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91941"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <abstract>A uniform method for calculating and measuring torque pulsations that occur during starting of synchronous motors is provided. Synchronous motors, as discussed in this guide, applies to all types of excited synchronous motors, including laminated or solid, salient or nonsalient machines, as well as nonexcited synchronous-reluctance motors.</abstract>
+  </front>
+</reference>

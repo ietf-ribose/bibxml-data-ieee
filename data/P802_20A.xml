@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P802.20a" target="https://ieeexplore.ieee.org/document/5606226">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks Part 20: Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Base stations</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Mobile communication</keyword>
+    <keyword>FCC</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <abstract>This amendment enhances the 802.20 Management Information Base (MIB) chapter to include additional information and MIB documentation (i.e, a discussion of Security impacts, and cross references to the text for appropriate parameters within the MIB, itself) to conform with the applicable parts of the IETFs 2008 guidelines for MIBs. The amendment also corrects any errors, inconsistencies and ambiguities associated with the MIB chapter of IEEE 802.20-2008.</abstract>
+  </front>
+</reference>

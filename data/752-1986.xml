@@ -1,0 +1,18 @@
+<reference anchor="IEEE.752-1986" target="https://ieeexplore.ieee.org/document/27854">
+  <front>
+    <title>IEEE Standard for Functional Requirements for Methods and Equipment for Measuring the Performance of Tone Address Signaling Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81045"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Measurement standards</keyword>
+    <keyword>Communication system signaling</keyword>
+    <keyword>Test equipment</keyword>
+    <abstract>This standard provides brief descriptions of applicable tone address signaling techniques and definitions of the related signaling parameters that affect performance. The classes of instruments intended to measure the parameters presented are described. Details are provided on the techniques necessary to perform these measurements, and performance and operating requirements for the test equipment that will satisfy this standard.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

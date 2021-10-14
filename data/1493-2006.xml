@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1493-2006" target="https://ieeexplore.ieee.org/document/9419813">
+  <front>
+    <title>IEEE Guide for the Evaluation of Solvents Used for Cleaning Electrical Cables and Accessories</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.9419813"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Cleaning</keyword>
+    <keyword>Solvents</keyword>
+    <keyword>Dielectric measurements</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>cable accessories</keyword>
+    <keyword>cleaning effectiveness</keyword>
+    <keyword>compatibility</keyword>
+    <keyword>extruded dielectric cable</keyword>
+    <abstract>This guide provides test procedures for evaluating the physical characteristics of cable cleaning solvents and their compatibility with extruded dielectric cable components and cable accessories (joints and terminations). Compatibility is established by placing component samples in contact with the cleaning solvent for a short period and then measuring the physical or electrical properties of the component. The measured values are compared with values for samples that have not been in contact with the cleaner. Suggested performance values are provided. The guide also provides suggested procedures for evaluating the cleaning effectiveness of cable cleaning solvents. These comparative test procedures do not provide absolute performance values.</abstract>
+  </front>
+</reference>

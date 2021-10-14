@@ -1,0 +1,34 @@
+<reference anchor="IEEE.P1722.1/D21 Aug 2012" target="https://ieeexplore.ieee.org/document/6295631">
+  <front>
+    <title>IEEE Draft Standard for Standard Device Discovery, Connection Management and Control Protocol for IEEE 1722 Based Devices</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="September" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Streaming media</keyword>
+    <keyword>IEEE 802.11 Standards</keyword>
+    <keyword>AVDECC</keyword>
+    <keyword>IEEE 802.1 AVB protocols</keyword>
+    <keyword>IEEE Std 802.1AS-2011</keyword>
+    <keyword>IEEE Std 802.1Q-2011</keyword>
+    <keyword>IEEE 802.1BA</keyword>
+    <keyword>IEEE Std 1722-2011</keyword>
+    <keyword>IEC 61883</keyword>
+    <keyword>time sensitive media streaming</keyword>
+    <keyword>QoS</keyword>
+    <keyword>LAN</keyword>
+    <keyword>bridged LAN</keyword>
+    <keyword>time synchronization</keyword>
+    <abstract>This standard specifies the protocol, device discovery, connection management and device control procedures used to facilitate interoperability between audio and video based end stations that use IEEE 1722 based streams on IEEE 802 based networks</abstract>
+  </front>
+</reference>

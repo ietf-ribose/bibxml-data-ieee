@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P1599/D4.0, Dec 2007" target="https://ieeexplore.ieee.org/document/4410475">
+  <front>
+    <title>IEEE Draft Trial-Use Recommended Practice for Definition of a Commonly Acceptable Musical Application Using the XML Language</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>music</keyword>
+    <keyword>XML</keyword>
+    <keyword>multimedia</keyword>
+    <keyword>description</keyword>
+    <keyword>synchronization</keyword>
+    <abstract>This recommended practice is aimed at developing an XML-based application which defines a standardlanguage for symbolic music representation. The language is a metarepresentation of music information to describe, link and synchronize music information within a multi-layered environment. The purpose is achieving integration among symbolic, structural, notational, computer performance, and digital sound levels of representation. Furthermore, the proposed standard should integrate music representation with already defined and accepted common standards. This standard should be supported by any kind of software dealing with music information, e.g. applications for score editing, Optical Music Recognition (OMR), music performance, multimedia databases, computer-aided composition and musicological research.</abstract>
+  </front>
+</reference>

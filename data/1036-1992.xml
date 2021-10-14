@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1036-1992" target="https://ieeexplore.ieee.org/document/211735">
+  <front>
+    <title>IEEE Guide for Application of Shunt Power Capacitors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.114399"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="November" day="19"/>
+    <keyword>Power capacitors</keyword>
+    <keyword>Standards</keyword>
+    <keyword>capacitor</keyword>
+    <keyword>power factor correction</keyword>
+    <keyword>shunt power capacitor</keyword>
+    <keyword>voltage control</keyword>
+    <abstract>Guidelines for the application protection, and ratings of equipment for the safe and reliable utilization of shunt power capacitors are provided. This guide applies to the use of 50 and 60 Hz shunt power capacitors rated 2400 Vac and above, and assemblies of capacitors. Applications that range from simple unit utilization to complex bank situations are covered.</abstract>
+  </front>
+</reference>

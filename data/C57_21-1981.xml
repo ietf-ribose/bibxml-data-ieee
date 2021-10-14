@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C57.21-1981" target="https://ieeexplore.ieee.org/document/8684501">
+  <front>
+    <title>IEEE Standard Requirements, Terminology, and Test Code for Shunt Reactors Rated Over 500 kVA</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.8684501"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>shunt</keyword>
+    <keyword>reactors</keyword>
+    <keyword>over</keyword>
+    <keyword>500kVA</keyword>
+    <abstract>Superseded by C57.21-1990. All oil-immersed or dry-type, single-phase or three-phase, outdoor or indoor shunt reactors rated over 500 kVA are covered. Terminology and general requirements are stated, and the basis for rating shunt reactors is set forth. Routine, design, and other tests are described, and methods for performing them are given. Losses and impedance, temperature rise, dielectric tests, and insulation levels are covered. Construction requirements for oil-immersed reactors and construction and installation requirements for drytype reactors are presented.</abstract>
+  </front>
+</reference>

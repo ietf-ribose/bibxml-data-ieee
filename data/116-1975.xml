@@ -1,0 +1,21 @@
+<reference anchor="IEEE.116-1975" target="https://ieeexplore.ieee.org/document/20985">
+  <front>
+    <title>IEEE Standard Test Procedure for Carbon Brushes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.120630"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>AC motors</keyword>
+    <keyword>Brushes</keyword>
+    <keyword>Carbon</keyword>
+    <keyword>DC motors</keyword>
+    <keyword>Graphite</keyword>
+    <keyword>Standards</keyword>
+    <abstract>It is the purpose of this standard to provide a procedure for determining certain operating characteristics of carbon, carbon-graphite, electrographite, graphite, and metal-graphite brushes under prescribed test conditions for all types of rotating AC and DC motors and similar apparatus. The operating characteristics covered in this standard are: voltage drop, coefficient of friction, wear ratio as affected by low humidity, and commutating ability.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

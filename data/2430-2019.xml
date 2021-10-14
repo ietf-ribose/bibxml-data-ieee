@@ -1,0 +1,25 @@
+<reference anchor="IEEE.2430-2019" target="https://ieeexplore.ieee.org/document/8870263">
+  <front>
+    <title>IEEE Trial-Use Standard for Software Non-Functional Sizing Measurements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8870263"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Size measurement</keyword>
+    <keyword>IEEE 2430</keyword>
+    <keyword>IFPUG</keyword>
+    <keyword>non-functional size measurements</keyword>
+    <keyword>non-functional requirements</keyword>
+    <keyword>SNAP</keyword>
+    <abstract>A method for the sizing of nonfunctional software requirements is defined in this standard. It complements ISO/IEC 20926:2009, which defines a method for the sizing of functional user requirements. Non-functional categories for data operations, interface design, technical environment, and architecture software are included in this standard.Steps to determine and calculate the non-functional size are also included. Handling requirements involving both functional and non-functional requirements are explained in this standard, which also covers how to apply non-functional sizing estimates in terms of cost, project duration and quality, and considerations of software performance in terms of productivity and quality. The combination of functional and nonfunctional size should correspond to the total size necessary to produce the software. The functional size and non-functional size are orthogonal, and both are needed when sizing the software. The complementarity of the functional and the non-functional sizes, to avoid overlaps or gaps between the two size methods, are described in this standard. Calculating the implementation work effort and duration of the non-functional requirements is outside the scope of this standard.</abstract>
+  </front>
+</reference>

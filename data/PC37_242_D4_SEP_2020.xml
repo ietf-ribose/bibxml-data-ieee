@@ -1,0 +1,28 @@
+<reference anchor="IEEE.PC37.242/D4, Sep 2020" target="https://ieeexplore.ieee.org/document/9316200">
+  <front>
+    <title>IEEE Approved Draft Guide for Synchronization, Calibration, Testing, and Installation of Phasor Measurement Units (PMUs) for Power System Protection and Control</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="January" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Phasor measurement units</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>calibration</keyword>
+    <keyword>GNSS</keyword>
+    <keyword>IEEE C37.242&amp;#8482;</keyword>
+    <keyword>PMU</keyword>
+    <keyword>synchrophasor</keyword>
+    <keyword>testing</keyword>
+    <abstract>Guidance for synchronization, calibration, testing, and installation of phasor measurement units (PMUs) applied in power systems is provided. The following are addressed in this guide: (a) Considerations for the installation of PMU devices based on application requirements and typical substation electrical bus configurations; (b) Techniques focusing on the overall accuracy and availability of the time synchronization system; (c) Test and calibration procedures for PMUs for laboratory and field applications; (d) Communications testing for connecting PMUs to other devices including Phasor Data Concentrators (PDCs).</abstract>
+  </front>
+</reference>

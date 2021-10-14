@@ -1,0 +1,18 @@
+<reference anchor="IEEE.1502-2007" target="https://ieeexplore.ieee.org/document/4301372">
+  <front>
+    <title>IEEE Recommended Practice for Radar Cross-Section Test Procedures</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4301372"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="January" day="31"/>
+    <keyword>radar cross section (RCS)</keyword>
+    <keyword>radar test range</keyword>
+    <abstract>This recommended practice describes the process of the measurement of the radar cross section of objects using a test range. The term "radar cross section" is defined, and the characteristics of different types of test ranges are given. The responsibilities of the test range operators are shown to involve test and calibration of the measurement range systems as well as accurately carrying out the measurements. Techniques are described for each stage of this process.</abstract>
+  </front>
+</reference>

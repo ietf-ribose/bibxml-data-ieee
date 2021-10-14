@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P1609.4/D3, Sep 2015" target="https://ieeexplore.ieee.org/document/7270973">
+  <front>
+    <title>IEEE Draft Standard for Wireless Access in Vehicular Environments</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="September" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless Access in Vehicular Environments </keyword>
+    <keyword>Intelligent vehicles</keyword>
+    <keyword>Channel coordination</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>1609.4</keyword>
+    <keyword>channel coordination</keyword>
+    <keyword>multi-channel operation</keyword>
+    <keyword>user priority</keyword>
+    <keyword>Wireless Access in Vehicular Environments (WAVE)</keyword>
+    <abstract>Multi-channel wireless radio operations, Wireless Access in Vehicular Environments (WAVE) mode, medium access control (MAC), and physical layers (PHYs), including the operation of control channel (CCH) and service channel (SCH) interval timers, parameters for priority access, channel switching and routing, management services, and primitives designed for multi-channel operations are described in this standard.</abstract>
+  </front>
+</reference>

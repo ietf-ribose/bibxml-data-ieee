@@ -1,0 +1,22 @@
+<reference anchor="IEEE.824-1994" target="https://ieeexplore.ieee.org/document/392631">
+  <front>
+    <title>IEEE Standard for Series Capacitors in Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121452"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Capacitors</keyword>
+    <keyword>Varistors</keyword>
+    <keyword>Insulators</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>bypass gap</keyword>
+    <keyword>series capacitor</keyword>
+    <keyword>trigger circuit</keyword>
+    <keyword>capacitors</keyword>
+    <keyword>Self-triggered gap</keyword>
+    <keyword>Force-triggered gap</keyword>
+    <abstract>Capacitors and assemblies of capacitors, insulation means, switching, protective equipment, and control accessories that form a complete bank for inserting in series with a transmission line are applied. Included are requirements for safety rating, and protective device levels. Functional requirements for alarm devices, maintenance, design and production tests, and a guide for operation are included. Functional requirements for protective devices are addressed, including varistors and bypass gaps.</abstract>
+  </front>
+</reference>

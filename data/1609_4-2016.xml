@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1609.4-2016" target="https://ieeexplore.ieee.org/document/7553418">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) -- Multi-Channel Operation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="August" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Vehicular and wireless technologies</keyword>
+    <keyword>Business</keyword>
+    <keyword>channel coordination</keyword>
+    <keyword>IEEE 1609.4(TM)</keyword>
+    <keyword>multi-channel operation</keyword>
+    <keyword>user priority</keyword>
+    <keyword>WAVE</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <abstract>Multi-channel wireless radio operations, Wireless Access in Vehicular Environments (WAVE) mode, medium access control (MAC), and physical layers (PHYs), including parameters for priority access, channel switching and routing, management services, and primitives designed for multi-channel operations are described in this standard.</abstract>
+  </front>
+</reference>

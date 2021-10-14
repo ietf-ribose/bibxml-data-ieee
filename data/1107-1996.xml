@@ -1,0 +1,37 @@
+<reference anchor="IEEE.1107-1996" target="https://ieeexplore.ieee.org/document/531505">
+  <front>
+    <title>IEEE Recommended Practice for Thermal Evaluation of Sealed Insulation Systems for AC Electric Machinery Employing Random-Wound Stator Coils</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81080"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="12"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>stator coils</keyword>
+    <keyword>aging temperature</keyword>
+    <keyword>condensation chamber</keyword>
+    <keyword>environmental conditions</keyword>
+    <keyword>exposure time</keyword>
+    <keyword>humidity exposure</keyword>
+    <keyword>insulation system</keyword>
+    <keyword>mechanical stress</keyword>
+    <keyword>moisture exposure</keyword>
+    <keyword>motorette</keyword>
+    <keyword>prooftesting</keyword>
+    <keyword>random wound machine</keyword>
+    <keyword>machine insulation</keyword>
+    <keyword>screening tests</keyword>
+    <keyword>sealed insulation</keyword>
+    <keyword>service life expectancy</keyword>
+    <keyword>thermal exposure</keyword>
+    <keyword>voltage exposure</keyword>
+    <keyword>water immersion</keyword>
+    <abstract>A test procedure for comparing expected life, at rated temperature, of two or more sealed insulation systems is outlined. The procedure is limited to insulation systems for ac electric machines using random-wound stator coils. It is the intent of this procedure to evaluate insulation systems for use with air cooling under severe environmental conditions where the insulation is exposed to conducting contaminants. It does not cover special requirements such as those for machines enclosed in gas atmospheres, subjected to strong chemicals, or to submersion in liquids.</abstract>
+  </front>
+</reference>

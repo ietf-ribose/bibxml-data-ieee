@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1101.11-1998" target="https://ieeexplore.ieee.org/document/711303">
+  <front>
+    <title>IEEE Standard for Mechanical Rear Plug-in Units Specifications for Microcomputers Using IEEE 1101.1 and IEEE 1101.10 Equipment Practice</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88262"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="14"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>backplane</keyword>
+    <keyword>compatibility</keyword>
+    <keyword>connector</keyword>
+    <keyword>inline configuration</keyword>
+    <keyword>inspection dimension</keyword>
+    <keyword>plug-in unit</keyword>
+    <keyword>printed board</keyword>
+    <keyword>shroud</keyword>
+    <keyword>subrack</keyword>
+    <abstract>Additional dimensions that will ensure mechanical interchangeability of subracks and plug-in units based on IEEE P1101.1 (D1.0, 1997), IEEE Std 1101.10-1996, and the environmental requirements of IEC 61587-1 (May 1998-Draft) and IEC 61587-3 (May 1998-Draft) are specified.</abstract>
+  </front>
+</reference>

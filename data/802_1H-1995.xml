@@ -1,0 +1,41 @@
+<reference anchor="IEEE.802.1H-1995" target="https://ieeexplore.ieee.org/document/8685836">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Recommended Practice for Media Access Control (MAC) Bridging of Ethernet V2.0 in IEEE 802 Local Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.8685836"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>carrier sense</keyword>
+    <keyword>multiple access</keyword>
+    <keyword>CSMA/CD</keyword>
+    <keyword>data processing</keyword>
+    <keyword>ethernet</keyword>
+    <keyword>fibre distributed data interface</keyword>
+    <keyword>FDDI</keyword>
+    <keyword>information exchange</keyword>
+    <keyword>LAN protocol</keyword>
+    <keyword>LAN</keyword>
+    <keyword>MAN</keyword>
+    <keyword>MAC bridges</keyword>
+    <keyword>interconnection</keyword>
+    <keyword>network interconnect</keyword>
+    <keyword>translation table</keyword>
+    <keyword>selective translation table</keyword>
+    <abstract>Administratively withdrawn January 2011. Extensions to the behavior of ISO/IEC 10038 (IEEE 802.1D) media access control (MAC) Bridges, in order to facilitate interoperability in bridged local area networks (LANs) comprising CSMA/CD networks interconnected with other types of LAN using MAC Bridges, where the CSMA/CD networks contain a mixture of ISO/IEC 8802-3 and Ethernet V2.0 end stations, are specified. Additionally, guidelines are provided for the development of nonstandard 802 protocols, with particular emphasis on conversion of existing Ethernet protocols and the behavior to be expected from a Bridge, for the purpose of avoiding future incompatibilities.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,43 @@
+<reference anchor="IEEE.8802-1AR-2020" target="https://ieeexplore.ieee.org/document/9052099">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 1AR:Secure device identity</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9052099"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="March" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Certification</keyword>
+    <keyword>Cryptography</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>access control</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>certificate</keyword>
+    <keyword>IEEE 802.1AR</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>PKI</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>Secure Device Identifier</keyword>
+    <keyword>security</keyword>
+    <keyword>X.509</keyword>
+    <abstract>A Secure Device Identifier (DevID) is cryptographically bound to a device and supports authentication of the device's identity. An Initial Device Identifier (IDevID) provided by the supplier of a device can be supplemented by Local Device Identifiers (LDevIDs) facilitating enrollment (provisioning of authentication and authorization credentials) by local network administrators.</abstract>
+  </front>
+</reference>

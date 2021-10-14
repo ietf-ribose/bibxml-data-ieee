@@ -1,0 +1,28 @@
+<reference anchor="IEEE.457-1982" target="https://ieeexplore.ieee.org/document/574836">
+  <front>
+    <title>IEEE Standard Definitions of Terms for Nonlinear, Active, and Nonreciprocal Waveguide Components</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81723"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Waveguide components</keyword>
+    <keyword>P-i-n diodes</keyword>
+    <keyword>Capacitance</keyword>
+    <keyword>Waveguide junctions</keyword>
+    <keyword>Circulators</keyword>
+    <keyword>terms</keyword>
+    <keyword>non-linear</keyword>
+    <keyword>active</keyword>
+    <keyword>waveguide</keyword>
+    <keyword>measurements</keyword>
+    <abstract>This standard presents definitions of terms for non-linear, active, and non-reciprocal waveguide components. It is a companion to two other published standards, Definitions of Fundamental Waveguide Terms, IEEE Std 146-1980 and Definitions of Terms for Waveguide Components, IEEE Std 147-1979. The latter covers linear and passive waveguide components.</abstract>
+  </front>
+</reference>

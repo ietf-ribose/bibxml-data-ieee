@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1511.1-2010" target="https://ieeexplore.ieee.org/document/5741057">
+  <front>
+    <title>IEEE Guide for Investigating and Analyzing Shielded Power Cable Failures on Systems Rated 5 kV Through 46 kV</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5741057"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Failure analysis</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>cable failure</keyword>
+    <keyword>chemical failure mode</keyword>
+    <keyword>distribution material failure report</keyword>
+    <keyword>electrical failure mode</keyword>
+    <keyword>general aging failure mode</keyword>
+    <keyword>IEEE 1511.1</keyword>
+    <keyword>thermal failure mode</keyword>
+    <abstract>This guide covers specific methods of failure mode classifications and analysis for shielded power cables rated 5 kV through 46 kV.</abstract>
+  </front>
+</reference>

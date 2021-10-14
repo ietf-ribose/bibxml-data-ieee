@@ -1,0 +1,38 @@
+<reference anchor="IEEE.P1722-2016-Cor1/D0, June 2016" target="https://ieeexplore.ieee.org/document/7790794">
+  <front>
+    <title>IEEE Standard for a Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network- Corrigendum 1</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7790794"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="December" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Bridged circuits</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Streaming media</keyword>
+    <keyword>Synchronizatoin</keyword>
+    <keyword>Encryption</keyword>
+    <keyword>Time-Sensitive Networking (TSN)</keyword>
+    <keyword>IEEE 802.1 AVB protocols</keyword>
+    <keyword>IEEE Std 802.1AS</keyword>
+    <keyword>IEEE Std 802.1Q-2014</keyword>
+    <keyword>IEEE Std. 802.1BA-2011</keyword>
+    <keyword>IEEE Std. 1722-2011</keyword>
+    <keyword>IEC 61883</keyword>
+    <keyword>SMPTE ST 2022-6</keyword>
+    <keyword>timesensitive media streaming</keyword>
+    <keyword>QoS</keyword>
+    <keyword>LAN</keyword>
+    <keyword>bridged LAN</keyword>
+    <keyword>time synchronization</keyword>
+    <keyword>NIST</keyword>
+    <keyword>AES</keyword>
+    <keyword>encryption</keyword>
+    <keyword>ECC</keyword>
+    <keyword>SDI</keyword>
+    <keyword>clock recovery</keyword>
+    <abstract>Correct additional fields text in AES3 Stream Format section of Annex I. (NOTE: This corrigendum was not published as a separate document, but was incorporated in IEEE Std 1722-2016)</abstract>
+  </front>
+</reference>

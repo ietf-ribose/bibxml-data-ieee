@@ -1,0 +1,26 @@
+<reference anchor="IEEE.C62.41.2-2002" target="https://ieeexplore.ieee.org/document/1196924">
+  <front>
+    <title>IEEE Recommended Practice on Characterization of Surges in Low-Voltage (1000 V and less) AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94254"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="24"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>low-voltage ac power circuit</keyword>
+    <keyword>surge testing</keyword>
+    <keyword>surge withstand level</keyword>
+    <abstract>This IEEE standards product is part C62 Family on Surge Protection and supersedes C62.41 The scope of this recommended practice is to characterize the surge environment at locations on ac power circuits described in IEEE Std C62.41.1-2002 by means of standardized waveforms and other stress parameters. The surges considered in this recommended practice do not exceed one half-cycle of the normal mains waveform (fundamental frequency) in duration. They can be periodic or random events and can appear in any combination of line, neutral, or grounding conductors. They include surges with amplitudes, durations, or rates of change sufficient to cause equipment damage or operational upset. While surge protective devices (SPDs) acting primarily on the amplitude of the voltage or current are often applied to divert the damaging surges, the upsetting surges might require other remedies.</abstract>
+  </front>
+</reference>

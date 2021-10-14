@@ -1,0 +1,20 @@
+<reference anchor="IEEE.805-1984" target="https://ieeexplore.ieee.org/document/574230">
+  <front>
+    <title>IEEE Recommended Practice for System Identification in Nuclear Power Plants and Related Facilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81712"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="January" day="12"/>
+    <keyword>power plants</keyword>
+    <keyword>Power system identification</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <abstract>This recommended practice provides a single source of nuclear power plant system descriptions that, along with related recommended practices concerning unique identification principles and definitions, component function identifiers, and implementation instructions, provide a basis for uniquely identifying systems, structures, and components of light water nuclear power plant projects (electric power generating stations) and related facilities. The system descriptions concentrate on system function and include such internal details as are necessary to clearly support the system function description. They are not intended to serve as design input. Fossil, hydro, and other types of power plants are not included. This standard is part of a series of recommended practices, entitled the Energy Industry Identification System (EIIS), the purpose of which is to present a common language of communication that will permit a user to correlate a system, structure, or component with that of another organization for the purposes of reporting, comparison, or general communication. A significant feature of this concept is that the unique identification code identifies the function at the component level and not the hardware itself.</abstract>
+  </front>
+</reference>

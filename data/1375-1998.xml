@@ -1,0 +1,38 @@
+<reference anchor="IEEE.1375-1998" target="https://ieeexplore.ieee.org/document/9129652">
+  <front>
+    <title>IEEE Guide for the Protection of Stationary Battery Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.9129652"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="June" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Nickel cadmium batteries</keyword>
+    <keyword>Batteries</keyword>
+    <keyword>Lead acid batteries</keyword>
+    <keyword>Temperature control</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>circuit breaker</keyword>
+    <keyword>current limiting</keyword>
+    <keyword>equipment grounding</keyword>
+    <keyword>fuse</keyword>
+    <keyword>grounding</keyword>
+    <keyword>lead-acid batteries</keyword>
+    <keyword>nickel-cadmium batteries</keyword>
+    <keyword>overvoltage protection</keyword>
+    <keyword>short-circuit current</keyword>
+    <keyword>stationary battery</keyword>
+    <keyword>system grounding</keyword>
+    <keyword>temperature compensation</keyword>
+    <keyword>undervoltage protection</keyword>
+    <abstract>Guidance in the protection of stationary battery systems is provided. For the purposes of this guide, stationary battery systems include the battery and dc components to and including the first protective device downstream of the battery terminals. This guide does not set requirements; rather it presents a number of options to the dc system designer of the different types of stationary battery system protection available.</abstract>
+  </front>
+</reference>

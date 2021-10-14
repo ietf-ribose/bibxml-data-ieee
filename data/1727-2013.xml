@@ -1,0 +1,32 @@
+<reference anchor="IEEE.1727-2013" target="https://ieeexplore.ieee.org/document/6516870">
+  <front>
+    <title>IEEE Guide for Working Procedures on Underground Transmission Circuits with Induced Voltage</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6516870"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Underground power cables</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Induction</keyword>
+    <keyword>cable</keyword>
+    <keyword>duct bank</keyword>
+    <keyword>equipment</keyword>
+    <keyword>grounding</keyword>
+    <keyword>IEEE 1727</keyword>
+    <keyword>induced voltage</keyword>
+    <keyword>jointing</keyword>
+    <keyword>underground transmission</keyword>
+    <abstract>Induced voltage working procedures for underground transmission circuits are established in this guide. A transmission circuit when de-energized will have an induced voltage when in a common duct bank with an energized circuit. The induced voltage may be a possible safety hazard. The induced voltage may be determined by modeling the circuits and by measurement. This guide addresses the working procedures to follow when performing work where induced voltage is present.</abstract>
+  </front>
+</reference>

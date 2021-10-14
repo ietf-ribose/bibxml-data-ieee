@@ -1,0 +1,22 @@
+<reference anchor="IEEE.290-1980" target="https://ieeexplore.ieee.org/document/27868">
+  <front>
+    <title>IEEE Standard for Electric Couplings; Part I</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.81053"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="6"/>
+    <keyword>Electric machines</keyword>
+    <keyword>Standards</keyword>
+    <keyword>test</keyword>
+    <keyword>electric</keyword>
+    <keyword>couplings</keyword>
+    <abstract>Electric couplings are widely used to transmit mechanical torque from one rotating member to another. They are distinguished from mechanical couplings in that their torque transmitting capability is initiated, and is frequently controlled, by the action of an electromagnetic field. This IEEE standard covers the more generally applicable performance characteristics and conducting and reporting of the tests for determining the performance characteristics of electric couplings.</abstract>
+  </front>
+</reference>

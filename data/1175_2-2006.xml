@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1175.2-2006" target="https://ieeexplore.ieee.org/document/4068343">
+  <front>
+    <title>IEEE Recommended Practice for CASE Tool Interconnection</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.288641"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Context</keyword>
+    <keyword>Computer aided software engineering</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Standards Board</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Computer-Aided Software Engineering (CASE) tools</keyword>
+    <keyword>tool communications</keyword>
+    <keyword>tool interconnections</keyword>
+    <abstract>This recommended practice describes interconnections that need to be understood and evaluated when buying, building, testing, or using computer-aided software engineering (CASE) tools. CASE tools are developed for use in creating computing systems. By assisting users to reach a clear understanding of the context of operation for a computing system tool, this recommended practice contributes to the effective implementation and application of computing system tools. This recommended practice does not describe the processes of evaluating, acquiring, or adopting CASE tools. This recommended practice is limited to the technical aspects of CASE tools. It does not include issues in the management, marketing, or training domains.</abstract>
+  </front>
+</reference>

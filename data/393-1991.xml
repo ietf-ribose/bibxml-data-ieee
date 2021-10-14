@@ -1,0 +1,24 @@
+<reference anchor="IEEE.393-1991" target="https://ieeexplore.ieee.org/document/213699">
+  <front>
+    <title>IEEE Standard for Test Procedures for Magnetic Cores</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114460"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="June" day="27"/>
+    <keyword>Electromagnetic induction</keyword>
+    <keyword>Magnetic cores</keyword>
+    <keyword>Magnetic hysteresis</keyword>
+    <keyword>Magnetic losses</keyword>
+    <keyword>Permeability measurement</keyword>
+    <keyword>electromagnetic measurements</keyword>
+    <keyword>magnetic cores</keyword>
+    <abstract>Test methods useful in the design, analysis, and operation of magnetic cores in many types of applications are presented. Tests for specifying and/or measuring permeability, core loss, apparent core loss, induction, hysteresis, thermal characteristics, and other properties are given. Most of the test methods described include specific parameter ranges, instrument accuracies, core sizes, etc., and may be used in the specification of magnetic cores for industrial and military applications. More generalized test procedures are included for the benefit of the R&amp;D engineer and university student. Although the primary concern is with cores of the type used in electronics transformers, magnetic amplifiers, inductors, and related devices, many of the tests are adaptable to cores used in many other applications.</abstract>
+  </front>
+</reference>

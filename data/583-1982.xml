@@ -1,0 +1,21 @@
+<reference anchor="IEEE.583-1982" target="https://ieeexplore.ieee.org/document/30633">
+  <front>
+    <title>IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC) (Computer Automated Measurement and Control)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.82363"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="11"/>
+    <keyword>CAMAC</keyword>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>CAMAC</keyword>
+    <abstract>This standard is intended to serve as a basis for a range of modular instrumentation capable of interfacing transducers and other devices to digital controllers for data and control. It consists of mechanical standards and signal standards that are sufficient to ensure physical and operational compatibility between units regardless of source. The standard fully specifies a data bus (Dataway) by means of which instruments and other functional modules can communicate with each other, with peripherals, with computers, and with other external controllers.</abstract>
+  </front>
+</reference>

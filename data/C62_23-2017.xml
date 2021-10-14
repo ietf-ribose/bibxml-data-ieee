@@ -1,0 +1,28 @@
+<reference anchor="IEEE.C62.23-2017" target="https://ieeexplore.ieee.org/document/8334841">
+  <front>
+    <title>IEEE Application Guide for Surge Protection of Electric Generating Plants</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8334841"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="April" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>electric utilities</keyword>
+    <keyword>electric power</keyword>
+    <keyword>electric generating plants</keyword>
+    <keyword>generating plants</keyword>
+    <keyword>IEEE C62.23(TM)</keyword>
+    <keyword>power plants</keyword>
+    <keyword>surge protection</keyword>
+    <abstract>This guide consolidates most electric utility power industry practices, accepted theories, existing standards/guides, definitions, and technical references as they specifically pertain to surge protection of electric power generating plants. Where technical information is not readily available, guidance is provided to aid toward proper surge protection and to reduce interference to communication, control, and protection circuits due to surges and other overvoltages. It has to be recognized that this application guide approaches the subject of surge protection from a common or generalized application viewpoint. Complex applications of surge protection practices may require specialized study by experienced engineers.</abstract>
+  </front>
+</reference>

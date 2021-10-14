@@ -1,0 +1,33 @@
+<reference anchor="IEEE.C37.99-2012" target="https://ieeexplore.ieee.org/document/6657672">
+  <front>
+    <title>IEEE Guide for the Protection of Shunt Capacitor Banks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="November" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>FIlter banks</keyword>
+    <keyword>Shunt capacitors</keyword>
+    <keyword>Capacitors</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Current measurement</keyword>
+    <keyword>Shunt capacitor bank</keyword>
+    <keyword>Filter bank</keyword>
+    <keyword>unbalance protection</keyword>
+    <keyword>externally fused</keyword>
+    <keyword>internally fused</keyword>
+    <keyword>fuseless</keyword>
+    <keyword>relay</keyword>
+    <keyword>bank configuration</keyword>
+    <keyword>overvoltage</keyword>
+    <keyword>overcurrent.</keyword>
+    <abstract>This guide applies to the protection of shunt power capacitor banks and filter capacitor banks. Included are guidelines for reliable applications of protection methods intended for use in many shunt capacitor applications and designs. The guide does not include the protection of pole mounted capacitor banks on distribution circuits or capacitors connected to rotating machines.</abstract>
+  </front>
+</reference>

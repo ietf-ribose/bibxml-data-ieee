@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P2600.2/D41b, Jan09" target="https://ieeexplore.ieee.org/document/4783123">
+  <front>
+    <title>IEEE Draft Standard for a Protection Profile in Operational Environment B</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Standard for a Protection Profile for Hardcopy Devices in a commercial information processing environment in which a moderate level of document security, network security, and security assurance, are required. Typically, the day-to-day proprietary and nonproprietary information needed to operate an enterprise will be handled by this environment. This environment will be known as "Operational Environment B."</abstract>
+  </front>
+</reference>

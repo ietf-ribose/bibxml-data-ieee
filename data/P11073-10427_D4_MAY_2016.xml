@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P11073-10427/D4, May 2016" target="https://ieeexplore.ieee.org/document/7491175">
+  <front>
+    <title>IEEE Approved Draft Health Informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="June" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>Cellular phones</keyword>
+    <keyword>Microcomputers</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>IEEE 11073-10427(TM)</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <keyword>power status monitor (PSM)</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of power status communication between personal health devices and managers (e.g., cell phones, personal computers, personal health appliances, and set top boxes) is established by this standard in a manner that enables plug-and play interoperability. Appropriate portions of existing standards are leveraged, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability are specified. A common core of communication functionality for monitoring the power status of personal health devices is defined in this standard.</abstract>
+  </front>
+</reference>

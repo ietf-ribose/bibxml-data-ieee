@@ -1,0 +1,18 @@
+<reference anchor="IEEE.470-1972" target="https://ieeexplore.ieee.org/document/18434">
+  <front>
+    <title>IEEE Standard Application Guide for Bolometric Power Meters</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.118971"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Bolometers</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Power measurement</keyword>
+    <abstract>The purpose of this standard is to document the minimum information that users of bolometric power meters may need. It also provides potential purchasers and others with a common means for making comparisons between instruments and provides a uniformity of information among manufacturers. This standard applies to bolometric power meters as complete instruments and to their constituent parts: bolometric detectors, bolometer units, and bolometer elements. Bolometer power measurement instrumentation is generally used to measure, below 100 mW and above 10 MHz, the average power of electromagnetic waves propagating in a single mode in waveguide or coaxial transmission lines. The power range can be extended by the use of attenuators or directional couplers, or both.&lt;<etx>&gt;</etx></abstract>
+  </front>
+</reference>

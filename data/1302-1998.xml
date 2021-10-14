@@ -1,0 +1,19 @@
+<reference anchor="IEEE.1302-1998" target="https://ieeexplore.ieee.org/document/749113">
+  <front>
+    <title>IEEE Guide for the Electromagnetic Characterization of Conductive Gaskets in the Frequency Range DC to 18GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89197"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>aperture transmission</keyword>
+    <keyword>electromagnetic interference (EMI) gaskets</keyword>
+    <keyword>electromagnetic shielding</keyword>
+    <keyword>measurement techniques</keyword>
+    <keyword>reverberation chamber</keyword>
+    <keyword>stirred mode</keyword>
+    <keyword>transfer impedance</keyword>
+    <abstract>Information to assist users of gaskets in evaluating gasket measurement techniques to determine which reveal the properties critical to the intended application, to highlight limitations and sources of error of the competing measurement techniques, and to provide a basis for comparing the techniques is provided. Emphasis is placed on those measurement techniques that have been adopted through incorporation into standards, both commercial and military, or that have been used extensively.</abstract>
+  </front>
+</reference>

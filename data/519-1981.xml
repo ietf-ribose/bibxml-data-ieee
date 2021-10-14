@@ -1,0 +1,16 @@
+<reference anchor="IEEE.519-1981" target="https://ieeexplore.ieee.org/document/27808">
+  <front>
+    <title>IEEE Guide for Harmonic Control and Reactive Compensation of Static Power Convertors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81020"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="November" day="12"/>
+    <keyword>Harmonic analysis</keyword>
+    <keyword>Power conversion</keyword>
+    <keyword>Reactive power control</keyword>
+    <keyword>Reactive power</keyword>
+    <keyword>Standards</keyword>
+    <abstract>This guide applies to all types of static power converters used in industrial and commercial power systems. The problems involved in the harmonic control and reactive compensation of such converters are addressed, and an application guide is provided. Limits of disturbances to the AC power distribution system that affect other equipment and communications are recommended. This guide is not intended to cover the effect of radio frequency interference.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="IEEE.295-1969" target="https://ieeexplore.ieee.org/document/19468">
+  <front>
+    <title>IEEE Standard for Electronics Power Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.120235"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="31"/>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>electronics</keyword>
+    <keyword>power</keyword>
+    <keyword>transformers</keyword>
+    <abstract>Application guidance and test procedures are given for power transformers and inductors that are used in electronic equipment and supplied by power lines or generators of essentially sine-wave or polyphase voltage. Provision is made for relating the characteristics of transformers to the associated rectifiers and circuits. This standard includes, but is not limited to, the following transformers and inductors: rectifier supply transformers for either high- or low-voltage supplies, filament and cathode heater transformers, transformers for alternating-current resonant charging circuits, inductors used in rectifier filters, and autotransformers with fixed taps.</abstract>
+  </front>
+</reference>

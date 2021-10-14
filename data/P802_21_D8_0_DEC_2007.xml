@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P802.21/D8.0, Dec 2007" target="https://ieeexplore.ieee.org/document/4432347">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks: Media Independent Handover Services</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard defines extensible 802 media access independent mechanisms that enable the optimization of handover between heterogeneous 802 systems and may facilitate handover between 802 systems and cellular systems.</abstract>
+  </front>
+</reference>

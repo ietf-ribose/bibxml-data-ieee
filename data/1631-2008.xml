@@ -1,0 +1,38 @@
+<reference anchor="IEEE.1631-2008" target="https://ieeexplore.ieee.org/document/4599188">
+  <front>
+    <title>IEEE Recommended Practice for Measurement of 8-VSB Digital Television Transmission Mask Compliance for the USA</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4599188"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="13"/>
+    <keyword>1631-2008</keyword>
+    <keyword>8-VSB</keyword>
+    <keyword>8-VSB emissions</keyword>
+    <keyword>500 kHz sub-band</keyword>
+    <keyword>adjacent channel</keyword>
+    <keyword>ATSC digital TV standard</keyword>
+    <keyword>average filter attenuation modeling</keyword>
+    <keyword>band-stop filter</keyword>
+    <keyword>DTV</keyword>
+    <keyword>DTV emissions</keyword>
+    <keyword>FCC emissions compliance</keyword>
+    <keyword>DTV emissions measurement procedure</keyword>
+    <keyword>DTV emissions measurement theory</keyword>
+    <keyword>digital signal intermodulation</keyword>
+    <keyword>emission mask</keyword>
+    <keyword>LPTV DTV transmitter</keyword>
+    <keyword>noise-floor correction</keyword>
+    <keyword>noise bandwidth</keyword>
+    <keyword>pilot frequency offset</keyword>
+    <keyword>simple emission mask</keyword>
+    <keyword>spectrum analyzer</keyword>
+    <keyword>stringent emission mask</keyword>
+    <abstract>This recommended practice provides a standardized body of theory, techniques, and procedures for measuring the spectral characteristics of 8-VSB transmitters used for terrestrial transmission of digital television (DTV) in the frequency range near their assigned channels. Essential characteristics are specified and measurement procedures are given that ensure that all parties will obtain comparable results.</abstract>
+  </front>
+</reference>

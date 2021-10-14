@@ -1,0 +1,22 @@
+<reference anchor="IEEE.1308-1994" target="https://ieeexplore.ieee.org/document/477879">
+  <front>
+    <title>IEEE Recommended Practice for Instrumentation: Specifications for Magnetic Flux Density and Electric Field Strength Meters</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79525"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Magnetic measurements</keyword>
+    <keyword>Magnetic forces</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>Displays</keyword>
+    <keyword>Electrostatic measurements</keyword>
+    <abstract>Specifications that should be provided to characterize instrumentation used to measure the steady state RMS value of magnetic and electric fields with sinusoidal frequency content in the range 10 Hz to 3 kHz in residential and occupational settings as well as in transportation systems are identified. The instrumentation, recommended calibration methods, and sources of measurement uncertainty are also described.</abstract>
+  </front>
+</reference>

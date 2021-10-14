@@ -1,0 +1,36 @@
+<reference anchor="IEEE.1450.2-2002" target="https://ieeexplore.ieee.org/document/1188779">
+  <front>
+    <title>IEEE Standard for Extensions to Standard Test Interface Language (STIL) (IEEE Std 1450-1999) for DC Level Specification</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94239"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="March" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Test equipment</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Handheld computers</keyword>
+    <keyword>Periodic structures</keyword>
+    <keyword>Power supplies</keyword>
+    <keyword>automated test equipment (ATE)</keyword>
+    <keyword>comparator</keyword>
+    <keyword>DC levels</keyword>
+    <keyword>device power supply (DPS)</keyword>
+    <keyword>device under test (DUT)</keyword>
+    <keyword>driver</keyword>
+    <keyword>driver termination</keyword>
+    <keyword>dynamic load</keyword>
+    <keyword>functional test</keyword>
+    <keyword>parametric measurement unit (PMU)</keyword>
+    <keyword>power sequence</keyword>
+    <keyword>slew rate</keyword>
+    <keyword>voltage clamp</keyword>
+    <abstract>Define structures in STIL for specifying the DC conditions for a device under test. Examples of the DC conditions for device power supplies are: device power supply setup, power sequencing to the device, power supply limit</abstract>
+  </front>
+</reference>

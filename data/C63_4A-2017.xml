@@ -1,0 +1,29 @@
+<reference anchor="IEEE.C63.4a-2017" target="https://ieeexplore.ieee.org/document/8116775">
+  <front>
+    <title>(Second Printing) American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz Amendment 1: Test Site Validation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8116775"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="November" day="21"/>
+    <keyword>ANSI Standard</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Emissions</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Electrical equipment</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Annex D</keyword>
+    <keyword>ANSI C63.4</keyword>
+    <keyword>normalized site attenuation</keyword>
+    <keyword>NSA</keyword>
+    <keyword>site attenuation</keyword>
+    <keyword>site validation</keyword>
+    <abstract>U.S. consensus standard methods are specified in Annex D of this amendment for validating standard test sites and alternative test sites used for measurement of radiated radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range of 30 MHz to 1 GHz. In addition, various updates are made to equations in 4.5, Annex F, Annex G, and Annex N.</abstract>
+  </front>
+</reference>

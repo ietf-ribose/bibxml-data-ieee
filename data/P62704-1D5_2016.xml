@@ -1,0 +1,25 @@
+<reference anchor="IEEE.P62704-1D5, 2016" target="https://ieeexplore.ieee.org/document/7747728">
+  <front>
+    <title>IEC/IEEE Draft International Standard for Determining the Peak Spatial Average Specific Absorption Rate (SAR) in the Human Body from Wireless Communications Devices, 30 MHz</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Finite difference methods</keyword>
+    <keyword>Time-domain analysis</keyword>
+    <keyword>Numerical models</keyword>
+    <keyword>Specific absorption rate</keyword>
+    <keyword>Biological system modeling</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>PSNR</keyword>
+    <abstract>This part of IEC/IEEE 62704 defines the methodology for the application of the finite difference time domain (FDTD) technique when used for determining the peak spatial-average specific absorption rate (SAR) in the human body exposed to wireless communication devices with known uncertainty. It defines methods to validate the numerical model of the device under test (DUT) and to assess its uncertainty when used in SAR simulations. Moreover, it defines procedures to determine the peak spatial-average SAR in a cubical volume and to validate the correct implementation of the FDTD simulation software. The applicable frequency range is 30 MHz to 6 GHz. This part of IEC/IEEE 62704 does not recommend specific SAR limits since these are found elsewhere, for example, in the guidelines published by the International Commission on Non-Ionizing Radiation Protection (ICNIRP) [1] or in IEEE C95.1 [3]</abstract>
+  </front>
+</reference>

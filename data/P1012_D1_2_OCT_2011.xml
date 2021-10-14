@@ -1,0 +1,27 @@
+<reference anchor="IEEE.P1012/D1.2, Oct 2011" target="https://ieeexplore.ieee.org/document/6042248">
+  <front>
+    <title>IEEE Draft Standard for System and Software Verification and Validation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Validation</keyword>
+    <keyword>Verification</keyword>
+    <keyword>Software maintenance</keyword>
+    <keyword>Product life cycle management</keyword>
+    <keyword>IV&amp;amp;V</keyword>
+    <keyword>integrity level</keyword>
+    <keyword>software life cycle</keyword>
+    <keyword>system life cycle</keyword>
+    <keyword>V&amp;amp;V</keyword>
+    <keyword>validation</keyword>
+    <keyword>verification</keyword>
+    <abstract>Verification and validation (V&amp;V) processes determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;V processes encompasses systems, software, and hardware, and includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused [legacy, commercial off-the-shelf (COTS), non developmental items]. The term software also includes firmware and microcode, and each of the terms system, software and hardware includes documentation. V&amp;V processes include analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  </front>
+</reference>

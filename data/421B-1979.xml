@@ -1,0 +1,13 @@
+<reference anchor="IEEE.421B-1979" target="https://ieeexplore.ieee.org/document/21019">
+  <front>
+    <title>IEEE Standard for High-Potential-Test Requirements for Excitation Systems for Synchronous Machines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120961"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="February" day="24"/>
+    <keyword>Synchronous machines</keyword>
+    <keyword>421B</keyword>
+    <abstract>This standard applies to high-potential testing of complete excitation systems and their components of synchronous machines. The components of the excitation system are described in IEEE Std 421-1972, Criteria and Definitions for Excitation Systems for Synchronous Machines. Also included are auxiliary devices that are exposed to excitation system stresses. Examples of such auxiliary devices are temperature indicators, transducers, meters, etc.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,20 @@
+<reference anchor="IEEE.998-1996" target="https://ieeexplore.ieee.org/document/552978">
+  <front>
+    <title>IEEE Guide for Direct Lightning Stroke Shielding of Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81546"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="16"/>
+    <keyword>direct stroke shielding</keyword>
+    <keyword>lightning stroke protection</keyword>
+    <keyword>substations</keyword>
+    <abstract>Design information for the methods historically and typically applied by substation designers to minimize direct lightning strokes to equipment and buswork within substations is provided. Two approaches, the classical empirical method and the electrogeometric model, are presented in detail. A third approach involving the use of active lightning terminals is also briefly reviewed.</abstract>
+  </front>
+</reference>

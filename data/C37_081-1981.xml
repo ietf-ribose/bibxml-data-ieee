@@ -1,0 +1,22 @@
+<reference anchor="IEEE.C37.081-1981" target="https://ieeexplore.ieee.org/document/30636">
+  <front>
+    <title>IEEE Guide for Synthetic Fault Testing of AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.82367"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="13"/>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Short circuit currents</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Switchgear testing</keyword>
+    <keyword>Circuit-breaker testing</keyword>
+    <abstract>This IEEE Standards product is part of the C37 family on Switchgear, Substations and Protective Relays. Guidelines are established for synthetic testing of circuit breakers, as well as test criteria for demonstrating the short-circuit current rating of circuit breakers on a single-phase basis. Criteria for evaluating results are also provided. The standard covers short-circuit current interruption process; basic principles of synthetic testing; synthetic test circuits; requirements for synthetic test methods; parameters, test procedures, and tolerances; short-line fault; multiple loops; circuit breakers equipped with parallel impedance; duty cycle; and test records.</abstract>
+  </front>
+</reference>

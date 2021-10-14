@@ -1,0 +1,16 @@
+<reference anchor="IEEE.389-1996" target="https://ieeexplore.ieee.org/document/587466">
+  <front>
+    <title>IEEE Recommended Practice for Testing Electronics Transformers and Inductors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82364"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <abstract>A number of tests are presented for use in determining the significant parameters and performance characteristics of electronics transformers and inductors. These tests are designed primarily for transformers and inductors used in all types of electronics applications, but they may apply to the other types of transformers of large apparent-power rating used in the electric power utility industry.</abstract>
+  </front>
+</reference>

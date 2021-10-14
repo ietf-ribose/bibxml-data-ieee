@@ -1,0 +1,29 @@
+<reference anchor="IEEE.C63.13-1991" target="https://ieeexplore.ieee.org/document/590566">
+  <front>
+    <title>American National Standard Guide on the Application and Evaluation of EMI Power-Line Filters for Commercial Use</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.82362"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="31"/>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>capacitors</keyword>
+    <keyword>common mode</keyword>
+    <keyword>noise currents</keyword>
+    <keyword>differential mode</keyword>
+    <keyword>electromagnetic</keyword>
+    <keyword>interference</keyword>
+    <keyword>power line filters</keyword>
+    <keyword>inductors</keyword>
+    <keyword>no load insertion</keyword>
+    <keyword>insertion loss</keyword>
+    <keyword>Power filters</keyword>
+    <abstract>A basic understanding of the application, evaluation, and safety considerations of electromagnetic interference (EMI) power-line filters used in both AC and DC applications is provided. The construction of an EMI power-line filter and its functions in providing suppression of conducted noise are described. The functions and performance of the filter components, particularly the capacitors and inductors, are discussed. It is explained why seemingly identical filters may not give the same performance in a particular application. No-load insertion-loss test methods are presented. Proper installation of the filters in equipment is discussed. Safety regulations are briefly addressed.</abstract>
+  </front>
+</reference>

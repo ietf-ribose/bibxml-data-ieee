@@ -1,0 +1,38 @@
+<reference anchor="IEEE.1293-2018" target="https://ieeexplore.ieee.org/document/8653544">
+  <front>
+    <title>IEEE Standard Specification Format Guide and Test Procedure for Linear Single-Axis, Nongyroscopic Accelerometers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8653544"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Gyroscopes</keyword>
+    <keyword>Accelerometers</keyword>
+    <keyword>Inertial navigation</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>Torque control</keyword>
+    <keyword>Instrumentation</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Geophysical measurements</keyword>
+    <keyword>accelerometer</keyword>
+    <keyword>geophysical effects</keyword>
+    <keyword>IEEE 1293TM</keyword>
+    <keyword>inertial instrument</keyword>
+    <keyword>inertial sensor</keyword>
+    <keyword>micromechanical accelerometer</keyword>
+    <keyword>pendulous accelerometer</keyword>
+    <keyword>power spectral density</keyword>
+    <keyword>specification</keyword>
+    <keyword>testing</keyword>
+    <keyword>vibrating beam accelerometer</keyword>
+    <keyword>vibration and shock</keyword>
+    <abstract>The specification and test requirements for a linear, single-axis, nongyroscopic accelerometer for use in inertial navigation, guidance, and leveling systems are defined. A standard specification guide and a compilation of recommended test procedures for such accelerometers are provided. Informative annexes are given on the various types of such accelerometers (force or pendulous torque rebalance with analog or digital output, vibrating beam, and micromechanical) and error effects, on filtering, noise, and transient analysis techniques, and on calibration and modeling techniques (multipoint tumble analysis, vibration and shock test analyses, and geophysical effects in inertial instrument testing).</abstract>
+  </front>
+</reference>

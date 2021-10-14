@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1377-1997" target="https://ieeexplore.ieee.org/document/661544">
+  <front>
+    <title>IEEE Standard for Utility Industry End Device Data Tables</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.86184"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Power industry</keyword>
+    <abstract>Functionally related utility application data elements, grouped into a single data structure for transport are described. Data may be utilized peer-to-peer or upstream to readers or billing systems by being carried by one lower layered protocol to another stack of lower layered protocol. The data structure does not change from end device to the user of the data.</abstract>
+  </front>
+</reference>

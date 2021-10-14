@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1484.4-2007" target="https://ieeexplore.ieee.org/document/4303011">
+  <front>
+    <title>IEEE Recommended Practice for Digital Rights Expression Languages (DRELs) Suitable for eLearning Technologies</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4303011"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="28"/>
+    <keyword>Digital Rights Expression Language</keyword>
+    <keyword>DREL</keyword>
+    <keyword>IEEE 1484.4TM</keyword>
+    <keyword>MPEG-21</keyword>
+    <keyword>Open Digital Rights Access</keyword>
+    <keyword>Open eBook Forum</keyword>
+    <keyword>ODRL</keyword>
+    <keyword>Rights Expression Language</keyword>
+    <keyword>REL</keyword>
+    <abstract>This recommended practice facilitates the creation, management and delivery of digital content for eLearning by technology that implements Digital Rights Expression Languages (DRELs). This recommended practice determines what, if any, extensions are needed so that these DRELs can meet the identified requirements.</abstract>
+  </front>
+</reference>

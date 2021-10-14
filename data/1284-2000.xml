@@ -1,0 +1,10 @@
+<reference anchor="IEEE.1284-2000" target="https://ieeexplore.ieee.org/document/879340">
+  <front>
+    <title>IEEE Standard Signaling Method for a Bidirectional Parallel Peripheral Interface for Personal Computers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91947"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <abstract>A signaling method for asynchronous, fully interlocked, bidirectional parallel communi-cations between hosts and printers or other peripherals is defined. A functional subset of the signaling method may be implemented on personal computers (PCs) or equivalent parallel port hardware with new software. New electrical interfaces, cabling, and interface hardware that provides improved performance while retaining backward compatibility with this subset is detailed.</abstract>
+  </front>
+</reference>

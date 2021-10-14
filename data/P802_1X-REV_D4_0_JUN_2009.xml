@@ -1,0 +1,14 @@
+<reference anchor="IEEE.P802.1X-REV/D4.0, Jun, 2009" target="https://ieeexplore.ieee.org/document/5200232">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Port-based Network Access Control</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>For the purpose of providing compatible authentication, authorization, and cryptographic key agreement mechanisms to support secure communication between devices connected by 802 LANs, this standard: a) Specifies a general method for provision of port-based network access control. b) Specifies protocols that establish secure associations for IEEE Std 802.1AE MAC Security. c) Facilitates the use of industry standard authentication and authorization protocols.</abstract>
+  </front>
+</reference>

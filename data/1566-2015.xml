@@ -1,0 +1,23 @@
+<reference anchor="IEEE.1566-2015" target="https://ieeexplore.ieee.org/document/7118098">
+  <front>
+    <title>IEEE Standard for Performance of Adjustable-Speed AC Drives Rated 375 kW and Larger</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="June" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Variable speed drives</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Power system testing</keyword>
+    <keyword>adjustable speed</keyword>
+    <keyword>IEEE 1566(TM)</keyword>
+    <keyword>large drives</keyword>
+    <abstract>AC adjustable speed drive (ASD) systems rated above 375 kW and above 750 V output voltage as used in petrochemical and similar applications are applicable to this standard. Performance requirements for an ASD system including, but not limited to, input transformer or reactor as required, power electronics, control interfaces, cooling system, switchgear, and motor are covered. Requirements for power quality, engineering analysis, start-up assistance, training, and spare parts are also included. Certain items such as the motor, switchgear, or transformer may be excluded from the scope of vendor supply if specified in the data sheets; any special requirements for the excluded equipment shall be given by the system vendor.</abstract>
+  </front>
+</reference>

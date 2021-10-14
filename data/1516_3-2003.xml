@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1516.3-2003" target="https://ieeexplore.ieee.org/document/1196921">
+  <front>
+    <title>IEEE Recommended Practice for High Level Architecture (HLA) Federation Development and Execution Process (FEDEP)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94251"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Modeling</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Organizations</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>federate</keyword>
+    <keyword>federation</keyword>
+    <keyword>Federation Development and Execution Process (FEDEP)</keyword>
+    <keyword>HighLevel Architecture (HLA)</keyword>
+    <keyword>Object Model (OM)</keyword>
+    <keyword>runtime infrastructure (RTI)</keyword>
+    <keyword>1730</keyword>
+    <abstract>The processes and procedures that should be followed by users of the High Level Architecture (HLA)to develop and execute federations are de .ned in this recommended practice.This recommended practice is not intended to replace low-level management and systems engineering practices native to HLA user organizations,but is rather intended as a higher-level framework into which such practices can be integrated and tailored for specific uses.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="IEEE.485-1997" target="https://ieeexplore.ieee.org/document/621111">
+  <front>
+    <title>IEEE Recommended Practice for Sizing Lead-Acid Batteries for Stationary Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83812"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Lead</keyword>
+    <abstract>Methods for defining the DC load and for sizing a lead-acid battery to supply that load for stationary battery applications in full float operations are described. Some factors relating to cell selection are provided for consideration. Installation, maintenance, qualification, testing procedures and consideration of battery types other than lead-acid are beyond the scope of this recommended practice. Design of the DC system and sizing of the battery charger(s) are also beyond the scope of this recommended practice.</abstract>
+  </front>
+</reference>

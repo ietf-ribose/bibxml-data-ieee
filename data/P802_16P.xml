@@ -1,0 +1,20 @@
+<reference anchor="IEEE.P802.16p" target="https://ieeexplore.ieee.org/document/6179953">
+  <front>
+    <title>IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems Amendment: Enhancements to Support Machine-to-Machine Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Machine control</keyword>
+    <keyword>Interface states</keyword>
+    <abstract>This amendment specifies IEEE Std 802.16 medium access control (MAC) enhancements and minimal orthogonal frequency division multiple access (OFDMA) physical layer (PHY) modifications in licensed bands to support lower power consumption at the device, support by the base station of significantly larger numbers of devices, efficient support for small burst transmissions, and improved device authentication.</abstract>
+  </front>
+</reference>

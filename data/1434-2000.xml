@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1434-2000" target="https://ieeexplore.ieee.org/document/863904">
+  <front>
+    <title>IEEE Guide to the Measurement of Partial Discharges in Rotating Machinery</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91905"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="December" day="3"/>
+    <keyword>Electric machines</keyword>
+    <keyword>electrical insulation</keyword>
+    <keyword>form-wound bars</keyword>
+    <keyword>form-wound coils</keyword>
+    <keyword>partial discharge</keyword>
+    <keyword>rotating machine windings</keyword>
+    <abstract>A review of the nature of partial discharge in machine windings, how it can be measuredunder both off-line and on-line conditions, how it can be measured for individual form-wound coilsor bars, and the significance and limitations of the measured values are covered.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,37 @@
+<reference anchor="IEEE.62525-2007" target="https://ieeexplore.ieee.org/document/4432411">
+  <front>
+    <title>(IEEE Std 1450-1999) International Standard Test Interface Language (STIL) for Digital Test Vector Data</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4432411"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="3"/>
+    <keyword>IEC Standards</keyword>
+    <keyword>Syntactics</keyword>
+    <keyword>IEC</keyword>
+    <keyword>Timing</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>automatic test pattern generator (ATPG)</keyword>
+    <keyword>built-in self-test (BIST)</keyword>
+    <keyword>computer-aided engineering (CAE)</keyword>
+    <keyword>cyclize</keyword>
+    <keyword>device under test (DUT)</keyword>
+    <keyword>digital test vectors</keyword>
+    <keyword>event</keyword>
+    <keyword>functional vectors</keyword>
+    <keyword>pattern</keyword>
+    <keyword>scan vectors</keyword>
+    <keyword>signal</keyword>
+    <keyword>structural vectors</keyword>
+    <keyword>timed event</keyword>
+    <keyword>waveform</keyword>
+    <keyword>waveshape</keyword>
+    <abstract>Standard test interface language (STIL) provides an interface between digital test generation tools and test equipment. A test description language is defined that: (a) facilitates the transfer of digital test vector data from CAE to ATE environments; (b) specifies pattern, format, and timing information sufficient to define the application of digital test vectors to a DUT; and (c) supports the volume of test vector data generated from structured tests.</abstract>
+  </front>
+</reference>

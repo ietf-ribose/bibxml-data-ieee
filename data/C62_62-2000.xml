@@ -1,0 +1,18 @@
+<reference anchor="IEEE.C62.62-2000" target="https://ieeexplore.ieee.org/document/890180">
+  <front>
+    <title>IEEE Standard Test Specifications for Surge Protective Devices for Low Voltage AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.92290"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Power system protection</keyword>
+    <keyword>discharge voltage</keyword>
+    <keyword>electromagnetic compatibility (EMI)</keyword>
+    <keyword>flashover</keyword>
+    <keyword>impulse</keyword>
+    <keyword>lightning</keyword>
+    <keyword>surge-protective devices</keyword>
+    <abstract>" This standard establishes methods for testing and measuring the performance charac-teristics for surge-protective devices used in low-voltage ac power circuits. Definitions are statedthat apply specifically to surge-protective devices. The testing requirements are categorized intotwo groups, in which a minimum set of basic tests (BTs) are prescribed for all surge-protectivedevices within the scope of its documents, supplemented by additional tests (ATs) that might beneeded to establish particular application requirements. "</abstract>
+  </front>
+</reference>

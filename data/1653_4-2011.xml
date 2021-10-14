@@ -1,0 +1,27 @@
+<reference anchor="IEEE.1653.4-2011" target="https://ieeexplore.ieee.org/document/6104082">
+  <front>
+    <title>IEEE Standard for DC Traction Power System Field Testing and Acceptance Criteria for System Applications up to 1500 V DC Nominal</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6104082"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power system management</keyword>
+    <keyword>heavy rail</keyword>
+    <keyword>IEEE 1653.4</keyword>
+    <keyword>light rail</keyword>
+    <keyword>short circuit test</keyword>
+    <keyword>traction power substation</keyword>
+    <keyword>traction power system field testing</keyword>
+    <keyword>train starting test</keyword>
+    <abstract>This standard defines field testing and acceptance criteria for transportation system applications powered by a dc traction power system up to 1500 volts nominal.</abstract>
+  </front>
+</reference>

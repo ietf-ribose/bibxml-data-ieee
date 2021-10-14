@@ -1,0 +1,36 @@
+<reference anchor="IEEE.P1865.1/D5, May 2019" target="https://ieeexplore.ieee.org/document/8767113">
+  <front>
+    <title>IEEE Draft Specifications for Maintenance and Test of Distributed Control Systems in Thermal Power Stations: Maintenance and Testing</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="July" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power control</keyword>
+    <keyword>Distributed management</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Scheudling</keyword>
+    <keyword>Indiustrial plants</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>DCS</keyword>
+    <keyword>distributed control system</keyword>
+    <keyword>fault handling</keyword>
+    <keyword>I&amp;amp;C</keyword>
+    <keyword>IEEE 1865.1(TM)</keyword>
+    <keyword>instrument and control</keyword>
+    <keyword>maintenance</keyword>
+    <keyword>operation service</keyword>
+    <keyword>repair</keyword>
+    <keyword>scheduled maintenance</keyword>
+    <keyword>technical management</keyword>
+    <keyword>test</keyword>
+    <keyword>thermal power plant</keyword>
+    <abstract>The basic principles, items, methods, performance indicators, and acceptance requirements for the maintenance and testing of distributed control systems (DCSs) of thermal power plants are specified. This standard is mainly applicable to the maintenance and testing of DCSs of conventional thermal power plants in commercial operation.</abstract>
+  </front>
+</reference>

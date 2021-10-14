@@ -1,0 +1,24 @@
+<reference anchor="IEEE.N42.13-2004" target="https://ieeexplore.ieee.org/document/7949161">
+  <front>
+    <title>American National Standard Calibration and Usage of "Dose Calibrator" Ionization Chambers for the Assay of Radionuclides</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.7949161"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="June" day="15"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Ionization chambers</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>Instruments</keyword>
+    <keyword>Nuclear medicine</keyword>
+    <keyword>Nuclear measurements</keyword>
+    <keyword>Current measurment</keyword>
+    <keyword>Interconnected systems</keyword>
+    <abstract>The wide range of calibrator-type instruments currently being used primarily for radionuclide assay in nuclear medicine indicates the need for a standard for uniformity in measurement and test techniques. Such devices are composite systems consisting of an ionization chamber integrally coupled to appropriate electronic circuitry that converts the ionization current to a readout in units of activity. The principles of operation of the ionization chamber are well summarized in the NCRP Report No 58 [1] 1 and will not be repeated here. Wide activity range and stability are useful characteristics of ionization chambers in this application. The advantages of this type of system for radionuclide assay include ease of use and interpretation.</abstract>
+  </front>
+</reference>

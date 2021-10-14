@@ -1,0 +1,34 @@
+<reference anchor="IEEE.P802.3bq/D3.0, Dec 2015" target="https://ieeexplore.ieee.org/document/7357822">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer and Management Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T and 40GBASE-T</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>802.3bq</keyword>
+    <keyword>25GBASE-T</keyword>
+    <keyword>25 Gigabit Ethernet</keyword>
+    <keyword>40GBASE-T</keyword>
+    <keyword>40 Gigabit Ethernet</keyword>
+    <keyword>Auto-Negotiation</keyword>
+    <keyword>Physical Coding Sublayer (PCS)</keyword>
+    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
+    <keyword>structured cabling</keyword>
+    <keyword>25GMII</keyword>
+    <keyword>XLGMII</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2015 specifies new Physical Coding Sublayer interfaces and new Physical Medium Attachment sublayer interfaces for 25 Gb/s Ethernet and 40 Gb/s Ethernet. 25GBASE-T and 40GBASE-T specify LAN interconnects for up to 30 m of balanced twisted-pair structured cabling, for 25 Gb/s and 40 Gb/s respectively.</abstract>
+  </front>
+</reference>

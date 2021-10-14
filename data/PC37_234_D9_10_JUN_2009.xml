@@ -1,0 +1,15 @@
+<reference anchor="IEEE.PC37.234/D9.10, Jun 2009" target="https://ieeexplore.ieee.org/document/5154145">
+  <front>
+    <title>IEEE Guide for Protective Relay Applications to Power System Buses</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Protective Relaying</keyword>
+    <abstract>Concepts of power bus protection are discussed in this guide. Consideration is given to availability and location of breakers, current transformers and disconnectors as well as bus switching scenarios, and their impact on selection and application of bus protection. A number of bus protection schemes are presented; their adequacy, complexity, strengths and limitations with respect to variety of bus arrangements are discussed; specific application guidelines are provided. Breaker failure protection is discussed as pertaining to bus protection. Means of securing bus protection schemes against corrupted relay input signals are also included.</abstract>
+  </front>
+</reference>

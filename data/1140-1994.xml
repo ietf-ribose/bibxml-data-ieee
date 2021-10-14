@@ -1,0 +1,25 @@
+<reference anchor="IEEE.1140-1994" target="https://ieeexplore.ieee.org/document/392607">
+  <front>
+    <title>IEEE Standard Procedures for the Measurement of Electric and Magnetic Fields from Video Display Terminals (VDTs) from 5 Hz to 400 kHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121446"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Magnetic field measurement</keyword>
+    <keyword>Electric variables measurement</keyword>
+    <keyword>Magnetic fields</keyword>
+    <keyword>Video displays</keyword>
+    <keyword>magnetic field</keyword>
+    <keyword>electric field</keyword>
+    <keyword>video display terminal (VDT)</keyword>
+    <abstract>Procedures for the measurement of electric and magnetic fields in close proximity to video display terminals (VDTs) in the frequency range of 5 Hz to 400 kHz are provided. Existing international measurement technologies and practices are adapted to achieve a consistent and harmonious VDT measurement standard for testing in a laboratory controlled environment.</abstract>
+  </front>
+</reference>

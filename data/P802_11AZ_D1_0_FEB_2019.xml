@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P802.11az/D1.0, Feb 2019" target="https://ieeexplore.ieee.org/document/8672652">
+  <front>
+    <title>IEEE Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="March" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Fine Timing Measurement (FTM)</keyword>
+    <abstract>This amendment defines modifications to both the IEEE 802.11 physical layer (PHY) and medium access control (MAC) sublayer that enable determination of absolute and relative position with better accuracy with respect to the Fine Timing Measurement (FTM) protocol executing on the same PHY-type, while reducing existing wireless medium use and power consumption and is scalable to dense deployments. This amendment requires backward compatibility and coexistence with legacy devices. Backward compatibility with legacy 802.11 devices implies that devices implementing this amendment shall (a) maintain data communication compatibility and (b) support the Fine Timing Measurement (FTM) protocol.</abstract>
+  </front>
+</reference>

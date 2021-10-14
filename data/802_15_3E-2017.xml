@@ -1,0 +1,30 @@
+<reference anchor="IEEE.802.15.3e-2017" target="https://ieeexplore.ieee.org/document/7942281">
+  <front>
+    <title>IEEE Standard for High Data Rate Wireless Multi-Media Networks--Amendment 1: High-Rate Close Proximity Point-to-Point Communications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7942281"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="June" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Millimeter wave communication</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Point-to-point communication</keyword>
+    <keyword>Multimedia communication</keyword>
+    <keyword>60 GHz</keyword>
+    <keyword>close proximity</keyword>
+    <keyword>fast setup</keyword>
+    <keyword>IEEE 802.15.3(TM)</keyword>
+    <keyword>IEEE 802.15.3e(TM)</keyword>
+    <keyword>millimeter wave</keyword>
+    <keyword>point-to-point</keyword>
+    <keyword>P2P</keyword>
+    <keyword>wireless</keyword>
+    <abstract>An alternative physical layer (PHY) and a modified medium access control (MAC) layeris defined in this amendment.Two PHY modes have been defined that enable data rates up to 100 Gb/s using the 60 GHz band. MIMO and aggregation methods have been defined to increase the maximum achievable communication speeds. Stack acknowledgment has been defined to improve the medium access control (MAC) efficiency when used in a point-to-point (P2P) topology between two devices.</abstract>
+  </front>
+</reference>

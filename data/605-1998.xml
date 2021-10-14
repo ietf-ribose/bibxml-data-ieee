@@ -1,0 +1,17 @@
+<reference anchor="IEEE.605-1998" target="https://ieeexplore.ieee.org/document/769685">
+  <front>
+    <title>IEEE Guide for the Design of Substation Rigid-Bus Structures</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89433"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="February" day="6"/>
+    <keyword>Substations</keyword>
+    <keyword>ampacity</keyword>
+    <keyword>bus support</keyword>
+    <keyword>mounting structure</keyword>
+    <keyword>rigid-bus structures</keyword>
+    <keyword>strain-bus structure</keyword>
+    <abstract>Rigid-bus structures for outdoor and indoor, air insulated, and alternating current substations are covered. Portions of this guide are also applicable to strain bus structures or direct current substations, or both. Ampacity, radio influence, vibration, and forces due to gravity, wind, fault cur-rent, and thermal expansion are considered. Design criteria for conductor and insulator strength calculations are included.</abstract>
+  </front>
+</reference>

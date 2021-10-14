@@ -1,0 +1,40 @@
+<reference anchor="IEEE.11073-20702-2018" target="https://ieeexplore.ieee.org/document/8472336">
+  <front>
+    <title>ISO/IEEE International Standard for Health informatics -- Point-of-care medical device communication -- Part 20702: Medical devices communication profile for web services</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8472336"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="September" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Media streaming</keyword>
+    <keyword>Point of care</keyword>
+    <keyword>Knowledge discovery</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Keywords: Devices Profle for Web Services</keyword>
+    <keyword>DPWS</keyword>
+    <keyword>Eicient XML Interchange</keyword>
+    <keyword>EXI</keyword>
+    <keyword>IEEE 11073-20702&amp;#8482;</keyword>
+    <keyword>ISO/IEEE 11073</keyword>
+    <keyword>MDC</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>PoC</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>safety</keyword>
+    <keyword>Simple Object Access Protocol</keyword>
+    <keyword>SOAP</keyword>
+    <keyword>Streaming Web Services</keyword>
+    <keyword>WS-Discovery</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC)medical device communication, a communication protocol specification for a distributed system of PoC medical devices and medical IT systems that need to exchange data, or safely control networked PoC medical devices by profiling Web Service specifications, is defined by this standard. Additional Web Service specifications are part of this standard.</abstract>
+  </front>
+</reference>

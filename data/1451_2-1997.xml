@@ -1,0 +1,31 @@
+<reference anchor="IEEE.1451.2-1997" target="https://ieeexplore.ieee.org/document/720565">
+  <front>
+    <title>IEEE Standard for a Smart Transducer Interface for Sensors and Actuators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88285"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="10"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>communication protocol</keyword>
+    <keyword>digital interface</keyword>
+    <keyword>microprocessor</keyword>
+    <keyword>NCAP</keyword>
+    <keyword>sensor interface</keyword>
+    <keyword>smart actuator</keyword>
+    <keyword>smart sensor</keyword>
+    <keyword>smart sensor interface</keyword>
+    <keyword>smart transducer</keyword>
+    <keyword>smart transducer interface</keyword>
+    <keyword>STIM</keyword>
+    <keyword>TEDS</keyword>
+    <keyword>1451</keyword>
+    <abstract>A digital interface for connecting transducers to microprocessors is defined. A TEDS and its data formats are described. An electrical interface, read and write logic functions to access the TEDS and a wide variety of transducers are defined. This standard does not specify signal conditioning, signal conversion, or how the TEDS data is used in applications.</abstract>
+  </front>
+</reference>

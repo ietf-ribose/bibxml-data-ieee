@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P1633/D14, Dec 2007" target="https://ieeexplore.ieee.org/document/4432356">
+  <front>
+    <title>Unapproved Draft IEEE Recommended Practice on Software Reliability</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>software reliability</keyword>
+    <abstract>This recommended practice prescribes the methods for assessing and predicting the reliability of software, based on a life cycle approach to software reliability engineering. It provides information necessary for the application of software reliability measurement to a project, lays a foundation for building consistent methods, and establishes the basic principle for collecting the data needed to assess and predict the reliability of software. The document prescribes how any user can participate in software reliability assessments and predictions.</abstract>
+  </front>
+</reference>

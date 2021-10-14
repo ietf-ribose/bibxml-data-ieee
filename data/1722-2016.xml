@@ -1,0 +1,41 @@
+<reference anchor="IEEE.1722-2016" target="https://ieeexplore.ieee.org/document/7782716">
+  <front>
+    <title>IEEE Standard for a Transport Protocol for Time-Sensitive Applications in Bridged Local Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7782716"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="December" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Encryption</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Elliptic curve cryptography</keyword>
+    <keyword>Media streaming</keyword>
+    <keyword>Timing analysis</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>advanced encryption standard (AES)</keyword>
+    <keyword>bridged local area network (LAN)</keyword>
+    <keyword>clock recovery</keyword>
+    <keyword>elliptic curve cryptography (ECC)</keyword>
+    <keyword>encryption</keyword>
+    <keyword>IEC 61883</keyword>
+    <keyword>IEEE 802.1(TM) AVB protocols</keyword>
+    <keyword>IEEE 802.1AS(TM)</keyword>
+    <keyword>IEEE 802.1BA(TM)-2011</keyword>
+    <keyword>IEEE 802.1Q(TM)-2014</keyword>
+    <keyword>IEEE 1722(TM)-2011</keyword>
+    <keyword>National Institute of Standards and Technology (NIST)</keyword>
+    <keyword>QoS</keyword>
+    <keyword>serial digital interface (SDI)</keyword>
+    <keyword>SMPTE ST 2022-6</keyword>
+    <keyword>time-sensitive media streaming</keyword>
+    <keyword>Time-Sensitive Networking (TSN)</keyword>
+    <keyword>time synchronization</keyword>
+    <abstract>The protocol, device discovery, connection management, and device-control procedures used to facilitate interoperability between audio- and video-based end stations that use IEEE 1722-based streams on IEEE 802-based networks are specified.</abstract>
+  </front>
+</reference>

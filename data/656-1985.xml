@@ -1,0 +1,24 @@
+<reference anchor="IEEE.656-1985" target="https://ieeexplore.ieee.org/document/29079">
+  <front>
+    <title>IEEE Standard for the Measurement of Audible Noise from Overhead Transmission Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81585"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Acoustic noise measurement</keyword>
+    <keyword>Standards</keyword>
+    <keyword>audible</keyword>
+    <keyword>noise</keyword>
+    <keyword>overhead</keyword>
+    <keyword>transmission</keyword>
+    <keyword>lines</keyword>
+    <abstract>Uniform procedures are established for manual and automatic measurement of audible noise from overhead transmission lines. Their purpose is to allow valid evaluation and comparison of the audible noise performance of various overhead lines. Definitions are provided, and instruments are specified. Measurement procedures are set forth, and precautions are given. Supporting data that should accompany the measurement data are specified, and methods for presenting the latter are described.</abstract>
+  </front>
+</reference>

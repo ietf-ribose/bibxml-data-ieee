@@ -1,0 +1,38 @@
+<reference anchor="IEEE.802.19.3-2021" target="https://ieeexplore.ieee.org/document/9416944">
+  <front>
+    <title>IEEE Recommended Practice for Local and Metropolitan Area Networks--Part 19: Coexistence Methods for IEEE 802.11 and IEEE 802.15.4 Based Systems Operating in the Sub?1 GHz Frequency Bands</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9416944"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Urban areas</keyword>
+    <keyword>IEEE 802.15 Standards</keyword>
+    <keyword>Best practices</keyword>
+    <keyword>IEEE 802.11 Standards</keyword>
+    <keyword>Frequency bands</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>Sub-1 GHz frequency bands</keyword>
+    <keyword>IEEE Std 802.15.4g</keyword>
+    <keyword>IEEE Std 802.11ah</keyword>
+    <keyword>Wi-SUN</keyword>
+    <keyword>Wi-Fi HaLow&amp;#8482;</keyword>
+    <keyword>coexistence</keyword>
+    <keyword>interference</keyword>
+    <keyword>CSMA/CA</keyword>
+    <keyword>FSK</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>energy detection</keyword>
+    <keyword>receiver sensitivity</keyword>
+    <abstract>Millions of IEEE Std 802.15.4g(TM)-2012 based devices are currently operating in Sub-1 GHz frequency bands to provide the low to moderate data rate capabilities. IEEE Std 802.11ah(TM)-2016 may operate in the same Sub-1 GHz frequency bands and provides higher data rate capabilities. This recommended practice enables IEEE Std 802.15.4g and IEEE Std 802.11ah to effectively operate in license exempt Sub-1 GHz frequency bands, by providing best practices and coexistence methods.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,43 @@
+<reference anchor="IEEE.8802-1X:2013/Amd. 1" target="https://ieeexplore.ieee.org/document/7409891">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7409891"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Access control</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>IEEE 802.1X(TM)</keyword>
+    <keyword>IEEE 802.1Xbx(TM)</keyword>
+    <keyword>integrity</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>Media Access Control security (MACsec) Key Agreement protocol (MKA) data elements and procedures that provide additional security and manageability capabilities, including the ability to maintain secure communication while the operation of MKA is suspended, when used in conjunction with MACsec Cipher Suites that support Extended Packet Numbering are added in this amendment.</abstract>
+  </front>
+</reference>

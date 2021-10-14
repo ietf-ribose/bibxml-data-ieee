@@ -1,0 +1,28 @@
+<reference anchor="IEEE.802.11k-2008" target="https://ieeexplore.ieee.org/document/4544755">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC)and Physical Layer (PHY) Specifications Amendment 1: Radio Resource Measurement of Wireless LANs</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4544755"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Telecommunications</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>802.11k-2008</keyword>
+    <keyword>local area network (LAN)</keyword>
+    <keyword>measurement</keyword>
+    <keyword>network management</keyword>
+    <keyword>radio</keyword>
+    <keyword>radio resource</keyword>
+    <abstract>This amendment specifies the extensions to IEEE Std 802.11 for Wireless LANs providing mechanisms for Radio Resource Measurement.</abstract>
+  </front>
+</reference>

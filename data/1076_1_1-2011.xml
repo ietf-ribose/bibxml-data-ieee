@@ -1,0 +1,35 @@
+<reference anchor="IEEE.1076.1.1-2011" target="https://ieeexplore.ieee.org/document/5953447">
+  <front>
+    <title>IEEE Standard for VHDL Analog and Mixed-Signal Extensions -- Packages for Multiple Energy Domain Support</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5953447"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="9"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Hardware design languages</keyword>
+    <keyword>Domain specific languages</keyword>
+    <keyword>Mixed analog digital integrated circuits</keyword>
+    <keyword>Modeling</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>IEEE 1076.1.1</keyword>
+    <keyword>interchange</keyword>
+    <keyword>modeling</keyword>
+    <keyword>model interchange</keyword>
+    <keyword>model portability</keyword>
+    <keyword>multidisciplinary</keyword>
+    <keyword>multidisciplinary modeling</keyword>
+    <keyword>packages</keyword>
+    <keyword>portability</keyword>
+    <keyword>standard packages</keyword>
+    <keyword>standard VHDL packages</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>VHDL-AMS</keyword>
+    <abstract>This standard defines a collection of VHDL 1076.1 packages, compatible with IEEE Std 1076.1™, along with recommendations for conforming use, in order to facilitate the interchange of simulation models of physical components and subsystems. The packages include the definition of standard types, subtypes, natures, and constants for modeling in multiple energy domains (electrical, fluidic, mechanical, etc.).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,37 @@
+<reference anchor="IEEE.802.16n-2013" target="https://ieeexplore.ieee.org/document/6530596">
+  <front>
+    <title>IEEE Standard for Air Interface for Broadband Wireless Access Systems--Amendment 2: Higher Reliability Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6530596"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="June" day="12"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Broadbanc</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>Radio communication</keyword>
+    <keyword>Air interfaces</keyword>
+    <keyword>amendment</keyword>
+    <keyword>broadband wireless access</keyword>
+    <keyword>BWA</keyword>
+    <keyword>GRIDMAN</keyword>
+    <keyword>higher reliability networks</keyword>
+    <keyword>IEEE 802.16TM</keyword>
+    <keyword>IEEE 802.16nTM</keyword>
+    <keyword>IMT-2000 radio interface</keyword>
+    <keyword>mobile broadband</keyword>
+    <keyword>OFDMA</keyword>
+    <keyword>orthogonal frequency-division multiple access</keyword>
+    <keyword>WirelessMAN-OFDMA Air Interface</keyword>
+    <keyword>wireless metropolitan area networks</keyword>
+    <abstract>Enhancements to the Wireless MAN-OFDMA air interface to support higher reliability networks are specified in this amendment to IEEE Std 802.16-2012.</abstract>
+  </front>
+</reference>

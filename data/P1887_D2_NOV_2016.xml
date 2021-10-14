@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P1887/D2, Nov 2016" target="https://ieeexplore.ieee.org/document/7762021">
+  <front>
+    <title>IEEE Approved Draft Guide for Wayside Energy Storage System Guide for DC Traction Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Power system traction</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Energy storage</keyword>
+    <keyword>Power smoothing</keyword>
+    <abstract>Traction power systems experience some of the most extreme variations in local power loads as compared to most other large scale electric power supply networks. These variations create challenges in the construction of reliable electric power delivery systems and in the performance of the rolling stock dependent on power supplied by the system. Energy storage offers a solution by smoothing out these power variations, absorbing energy as system voltage rises and delivering energy as voltage drops. This guide will help engineers in identifying where these solutions can provide the greatest benefits, designing solutions with the greatest impact,and quantifying the costs/benefits of deploying new solutions.</abstract>
+  </front>
+</reference>

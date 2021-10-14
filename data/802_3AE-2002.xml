@@ -1,0 +1,29 @@
+<reference anchor="IEEE.802.3ae-2002" target="https://ieeexplore.ieee.org/document/1040118">
+  <front>
+    <title>IEEE Standard for Information technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94131"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Physical layer</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>EPON</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>10 Gigabit Ethernet</keyword>
+    <keyword>fiber</keyword>
+    <keyword>LAN PHY</keyword>
+    <keyword>WAN PHY</keyword>
+    <keyword>XAUI</keyword>
+    <keyword>XGMII</keyword>
+    <keyword>XSBI</keyword>
+    <abstract>Support to extend the IEEE 802.3 protocol and MAC specification to an operating speedof 10 Gb/s. Several Physical Coding Sublayers known as 10GBASE-X, 10GBASE-R, and10GBASE-W are specified, as well as significant additional supporting material for a 10 GigabitMedia Independent Interface (XGMII), a 10 Gigabit Attachment Unit Interface (XAUI), a 10 GigabitSixteen-Bit Interface (XSBI) and management. (An Interpretation for this standard is available at http://standards.ieee.org/findstds/interps/802.3ae-2002_interp.pdf)</abstract>
+  </front>
+</reference>
