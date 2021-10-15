@@ -1,0 +1,32 @@
+<reference anchor="IEEE.P1484.11.1/D1, Sept 2021" target="https://ieeexplore.ieee.org/document/9567730">
+  <front>
+    <title>IEEE Draft Standard for Learning Technology--Data Model for Content Object Communication</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="October" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Learning systems</keyword>
+    <keyword>Data systems</keyword>
+    <keyword>Content management</keyword>
+    <keyword>Computer aided instruction</keyword>
+    <keyword>content object</keyword>
+    <keyword>computer managed instruction</keyword>
+    <keyword>CMI</keyword>
+    <keyword>data model</keyword>
+    <keyword>IEEE 1484.11.1&amp;#8482;</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>learning content</keyword>
+    <keyword>learning management system</keyword>
+    <keyword>LMS</keyword>
+    <keyword>runtime service</keyword>
+    <keyword>RTS</keyword>
+    <abstract>This Standard describes a data model to support the interchange of data elements and their values between a content object and a runtime service (RTS). It is based on a current industry practice called “CMI—Computer Managed Instruction.” The work upon which this Standard is based was developed to support a client/server environment in which a learning technology system, generically called a learning management system (LMS), de-livers digital content, called content objects, to learners. The data model supports learner data and preferences, interactions, objectives, content-object entry, exit, and status information, time parameters, and scores.</abstract>
+  </front>
+</reference>
