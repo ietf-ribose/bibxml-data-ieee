@@ -1,0 +1,30 @@
+<reference anchor="IEEE.2830-2021" target="https://ieeexplore.ieee.org/document/9586768">
+  <front>
+    <title>IEEE Standard for Technical Framework and Requirements of Trusted Execution Environment based Shared Machine Learning</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9586768"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="October" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Machine learning</keyword>
+    <keyword>Trust management</keyword>
+    <keyword>Data fusion</keyword>
+    <keyword>Technical requirements</keyword>
+    <keyword>Data models</keyword>
+    <keyword>Cryptography</keyword>
+    <keyword>data fusion</keyword>
+    <keyword>IEEE 2830</keyword>
+    <keyword>shared machine learning</keyword>
+    <keyword>SML</keyword>
+    <keyword>trusted execution environment</keyword>
+    <keyword>TEE</keyword>
+    <abstract>The framework and architecture for machine learning in which a model is trained using encrypted data that has been aggregated from multiple sources and is processed by a trusted third party are defined in this standard. Functional components, workflows, security requirements, technical requirements, and protocols are specified in this standard.</abstract>
+  </front>
+</reference>

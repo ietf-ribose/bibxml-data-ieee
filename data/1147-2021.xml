@@ -1,6 +1,7 @@
-<reference anchor="IEEE.P1147/D5.6, July 2021" target="https://ieeexplore.ieee.org/document/9479901">
+<reference anchor="IEEE.1147-2021" target="https://ieeexplore.ieee.org/document/9586774">
   <front>
-    <title>IEEE Approved Draft Guide for the Rehabilitation of Hydroelectric Power Plants</title>
+    <title>IEEE Guide for the Rehabilitation of Hydroelectric Power Plants</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9586774"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,17 +11,20 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="July" day="9"/>
+    <date year="2021" month="October" day="26"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Hydroelectric power generation</keyword>
-    <keyword>Ventilation</keyword>
-    <keyword>Lighting</keyword>
-    <keyword>Lubrication</keyword>
     <keyword>Power transformers</keyword>
+    <keyword>Power system economics</keyword>
     <keyword>Turbines</keyword>
-    <keyword>Industrial plants</keyword>
     <keyword>Security</keyword>
+    <keyword>Industrial plants</keyword>
+    <keyword>Safety</keyword>
     <keyword>Power system reliability</keyword>
+    <keyword>Lubrication</keyword>
+    <keyword>Lighting</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Ventilation</keyword>
     <keyword>arc-flash</keyword>
     <keyword>cable and raceway</keyword>
     <keyword>compressed air</keyword>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.P1765/D2, Jun 2021" target="https://ieeexplore.ieee.org/document/9586771">
+  <front>
+    <title>IEEE Draft Recommended Practice for Estimating the Uncertainty in Error Vector Magnitude of Measured Digitally Modulated Signals for Wireless Communications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="October" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Estimation</keyword>
+    <keyword>Uncertainty</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Receivers</keyword>
+    <keyword>Digital modulation</keyword>
+    <keyword>Vectors</keyword>
+    <keyword>digitally modulated communication signal</keyword>
+    <keyword>error vector magnitude (EVM)</keyword>
+    <keyword>IEEE 1765&amp;#8482;</keyword>
+    <keyword>measurement uncertainty</keyword>
+    <keyword>wireless telecommunications</keyword>
+    <abstract>This document provides recommended practices for the evaluation of receiver measurements of error vector magnitude of a digitally modulated wireless communication signal and the evaluation of the associated uncertainty.</abstract>
+  </front>
+</reference>

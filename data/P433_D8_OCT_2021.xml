@@ -1,23 +1,25 @@
-<reference anchor="IEEE.433-2009" target="https://ieeexplore.ieee.org/document/9586443">
+<reference anchor="IEEE.P433/D8, Oct 2021" target="https://ieeexplore.ieee.org/document/9586442">
   <front>
-    <title>IEEE Recommended Practice for Insulation Testing of AC Electric Machinery with High Voltage at Very Low Frequency</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.9586443"/>
+    <title>IEEE Draft Recommended Practice for Insulation Testing of AC Electric Machinery with High Voltage Rating up to 30 kV at Very Low Frequency</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
     <date year="2021" month="October" day="25"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Electric machines</keyword>
-    <keyword>AC machines</keyword>
+    <keyword>Stator windings</keyword>
+    <keyword>Insulation testing</keyword>
     <keyword>High-voltage techniques</keyword>
+    <keyword>Electric machines</keyword>
+    <keyword>Machine learning</keyword>
     <keyword>Safety</keyword>
-    <keyword>433-2009</keyword>
+    <keyword>AC machines</keyword>
+    <keyword>Testing</keyword>
     <keyword>ac electric machines</keyword>
     <keyword>ac electric machine testing</keyword>
     <keyword>diagnostic test</keyword>
