@@ -1,6 +1,7 @@
-<reference anchor="IEEE.P4003/D1.2, May 2021" target="https://ieeexplore.ieee.org/document/9444763">
+<reference anchor="IEEE.4003-2021" target="https://ieeexplore.ieee.org/document/9594781">
   <front>
-    <title>IEEE Approved Draft Standard for Global Navigation Satellite System-Reflectometry (GNSS-R) Data and Metadata Content</title>
+    <title>IEEE Standard for Spaceborne Global Navigation Satellite System-Reflectometry (GNSS-R) Data and Metadata Content</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9594781"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,14 +11,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="May" day="31"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Satellites</keyword>
-    <keyword>Metadata</keyword>
-    <keyword>Global navigation satellite system</keyword>
-    <keyword>Reflectometry</keyword>
-    <keyword>Data models</keyword>
-    <keyword>Content management</keyword>
+    <date year="2021" month="October" day="29"/>
     <keyword>Earth observation</keyword>
     <keyword>GNSS-Reflectometry</keyword>
     <keyword>IEEE 4003</keyword>
