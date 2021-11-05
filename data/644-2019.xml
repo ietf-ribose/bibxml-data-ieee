@@ -1,6 +1,7 @@
-<reference anchor="IEEE.644-2019" target="https://ieeexplore.ieee.org/document/9079698">
+<reference anchor="IEEE.644-2019" target="https://ieeexplore.ieee.org/document/9068517">
   <front>
     <title>IEEE Standard Procedures for Measurement of Power Frequency Electric and Magnetic Fields from AC Power Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9068517"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,11 +11,13 @@
         </postal>
       </address>
     </author>
-    <date year="2020" month="April" day="27"/>
+    <date year="2020" month="April" day="15"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Electric fields</keyword>
+    <keyword>Power measurement</keyword>
+    <keyword>AC motors</keyword>
     <keyword>Magnetic field measurement</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Frequency measurement</keyword>
     <keyword>ac power lines</keyword>
     <keyword>electric field</keyword>
     <keyword>IEEE 644</keyword>

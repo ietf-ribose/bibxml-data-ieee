@@ -1,6 +1,7 @@
-<reference anchor="IEEE.382-2019" target="https://ieeexplore.ieee.org/document/8926592">
+<reference anchor="IEEE.382-2019" target="https://ieeexplore.ieee.org/document/8906273">
   <front>
     <title>IEEE Standard for Qualification of Safety-Related Actuators for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8906273"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,12 +11,12 @@
         </postal>
       </address>
     </author>
-    <date year="2019" month="December" day="6"/>
+    <date year="2019" month="November" day="19"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Safety</keyword>
     <keyword>Actuators</keyword>
-    <keyword>Power system reliability</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Power generatoin</keyword>
+    <keyword>Safety</keyword>
     <keyword>actuator components</keyword>
     <keyword>AOV</keyword>
     <keyword>EMC</keyword>

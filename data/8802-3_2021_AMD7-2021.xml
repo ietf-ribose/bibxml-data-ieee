@@ -1,0 +1,43 @@
+<reference anchor="IEEE.8802-3:2021/Amd7-2021" target="https://ieeexplore.ieee.org/document/9599628">
+  <front>
+    <title>IEEE/ISO/IEC International Standard -Telecommunications and exchange between information technology systems -- Requirements for local and metropolitan area networks -- Part 3: Standard for Ethernet AMENDMENT 7: Physical layer and management parameters for 400 Gb/s over multimode fiber</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9599628"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="November" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Local area nettworks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Optical fiber networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>400 Gb/s Ethernet</keyword>
+    <keyword>400 Gigabit Ethernet</keyword>
+    <keyword>400GBASE-SR8</keyword>
+    <keyword>400GBASE-SR4.2</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Energy Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Forward Error Correction (FEC)</keyword>
+    <keyword>IEEE 802.3&amp;#8482;</keyword>
+    <keyword>IEEE 802.3cd</keyword>
+    <keyword>IEEE 802.3cm</keyword>
+    <keyword>Physical Coding Sublayer (PCS)</keyword>
+    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>Reconciliation Sublayer (RS)</keyword>
+    <keyword>multimode fiber (MMF)This</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2018 adds Clause 150. This amendment adds Physical L yer (PHY) specifications and management parameters for 400 Gb/s operation on four pairs (400GBASE-SR4.2) and eight pairs (400GBASE-SR8) of multimode fiber, over reaches of at least 100 m.</abstract>
+  </front>
+</reference>

@@ -1,6 +1,7 @@
-<reference anchor="IEEE.389-2020" target="https://ieeexplore.ieee.org/document/9175066">
+<reference anchor="IEEE.389-2020" target="https://ieeexplore.ieee.org/document/9084213">
   <front>
     <title>IEEE Recommended Practice for Testing Transformers and Inductors for Electronics Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9084213"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,14 +11,14 @@
         </postal>
       </address>
     </author>
-    <date year="2020" month="August" day="24"/>
+    <date year="2020" month="May" day="1"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Power transformers</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>Pulse transformers</keyword>
-    <keyword>Performance evaluation</keyword>
     <keyword>Power system reliability</keyword>
-    <keyword>Power system measurements</keyword>
+    <keyword>Inductors</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Rectifiers</keyword>
     <keyword>common-mode rejection tests</keyword>
     <keyword>corona tests</keyword>
     <keyword>current transformer tests</keyword>
