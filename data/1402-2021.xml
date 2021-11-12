@@ -1,6 +1,7 @@
-<reference anchor="IEEE.P1402/D11, Jun 2021" target="https://ieeexplore.ieee.org/document/9469021">
+<reference anchor="IEEE.1402-2021" target="https://ieeexplore.ieee.org/document/9611203">
   <front>
-    <title>IEEE Approved Draft Guide for Physical Security of Electric Power Substations</title>
+    <title>IEEE Guide for Physical Security of Electric Power Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9611203"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,14 +11,15 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="June" day="30"/>
+    <date year="2021" month="November" day="10"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Substations</keyword>
     <keyword>Access control</keyword>
     <keyword>Lighting</keyword>
     <keyword>Security</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Alarm systems</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Surveillance</keyword>
+    <keyword>Power system protection</keyword>
     <keyword>access</keyword>
     <keyword>access control</keyword>
     <keyword>alarms</keyword>

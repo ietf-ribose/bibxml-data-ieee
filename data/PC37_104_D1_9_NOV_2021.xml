@@ -1,0 +1,31 @@
+<reference anchor="IEEE.PC37.104/D1.9, Nov 2021" target="https://ieeexplore.ieee.org/document/9611197">
+  <front>
+    <title>IEEE Draft Guide for Automatic Reclosing on AC Distribution and Transmission Lines</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="November" day="10"/>
+    <keyword>automatic reclosing</keyword>
+    <keyword>reclosing</keyword>
+    <keyword>autoreclosing</keyword>
+    <keyword>autoreclose supervision</keyword>
+    <keyword>autoreclose blocking</keyword>
+    <keyword>dead time</keyword>
+    <keyword>sync check</keyword>
+    <keyword>high speed autoreclosing</keyword>
+    <keyword>time delayed autoreclosing</keyword>
+    <keyword>fuse saving scheme</keyword>
+    <keyword>fuse blowing scheme</keyword>
+    <keyword>automatic line sectionalizer</keyword>
+    <keyword>leader-follower autoreclosing</keyword>
+    <keyword>voltage supervision</keyword>
+    <keyword>sync check supervision</keyword>
+    <abstract>This guide documents accepted industry practices for application of automatic reclosing on transmission and distribution lines. The guide discusses fundamentals of automatic reclosing, application considerations, and coordination practices. Application of emerging technologies for automatic reclosing is also discussed.</abstract>
+  </front>
+</reference>

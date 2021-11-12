@@ -1,6 +1,7 @@
-<reference anchor="IEEE.1222-2019" target="https://ieeexplore.ieee.org/document/9080603">
+<reference anchor="IEEE.1222-2019" target="https://ieeexplore.ieee.org/document/9052820">
   <front>
     <title>IEEE Standard for Testing and Performance for All-Dielectric Self-Supporting (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9052820"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,11 +11,12 @@
         </postal>
       </address>
     </author>
-    <date year="2020" month="April" day="28"/>
+    <date year="2020" month="April" day="1"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Dielectrics</keyword>
-    <keyword>Power transmission lines</keyword>
     <keyword>Optical fiber communication</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Performance evaluation</keyword>
     <keyword>ADSS</keyword>
     <keyword>all-dielectric self-supporting fiber optic cable</keyword>
     <keyword>IEEE 1222</keyword>

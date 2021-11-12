@@ -1,6 +1,7 @@
-<reference anchor="IEEE.952-2020" target="https://ieeexplore.ieee.org/document/9456814">
+<reference anchor="IEEE.952-2020" target="https://ieeexplore.ieee.org/document/9353434">
   <front>
     <title>IEEE Standard for Specifying and Testing Single-Axis Interferometric Fiber Optic Gyros</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9353434"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,14 +11,12 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="June" day="15"/>
+    <date year="2021" month="February" day="11"/>
     <keyword>IEEE Standards</keyword>
+    <keyword>Interferometers</keyword>
+    <keyword>Optical fiber</keyword>
+    <keyword>Testing</keyword>
     <keyword>Gyroscopes</keyword>
-    <keyword>Interferometry</keyword>
-    <keyword>Optical variables measurement</keyword>
-    <keyword>Optical interferometry</keyword>
-    <keyword>Displacement measurements</keyword>
-    <keyword>Attitide control</keyword>
     <keyword>fiber gyro</keyword>
     <keyword>fiber optic gyro</keyword>
     <keyword>FOG</keyword>

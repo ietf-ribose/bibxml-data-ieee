@@ -1,6 +1,7 @@
-<reference anchor="IEEE.1615-2019" target="https://ieeexplore.ieee.org/document/8939571">
+<reference anchor="IEEE.1615-2019" target="https://ieeexplore.ieee.org/document/8894229">
   <front>
     <title>IEEE Recommended Practice for Network Communication in Electric Power Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8894229"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,17 +11,16 @@
         </postal>
       </address>
     </author>
-    <date year="2019" month="December" day="23"/>
+    <date year="2019" month="November" day="7"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Networked control systems</keyword>
     <keyword>Power distribution</keyword>
-    <keyword>IP protocols</keyword>
-    <keyword>Security</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Optical fiber communcation</keyword>
-    <keyword>Synchronization</keyword>
     <keyword>Ethernet</keyword>
+    <keyword>Internet</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>IP networks</keyword>
+    <keyword>Optical fiber networks</keyword>
+    <keyword>Data communication</keyword>
+    <keyword>Network security</keyword>
     <keyword>Distributed Network Protocol 3 (DNP3)</keyword>
     <keyword>Ethernet</keyword>
     <keyword>fiber-optic</keyword>

@@ -1,6 +1,7 @@
-<reference anchor="IEEE.1110-2019" target="https://ieeexplore.ieee.org/document/9082951">
+<reference anchor="IEEE.1110-2019" target="https://ieeexplore.ieee.org/document/9020274">
   <front>
     <title>IEEE Guide for Synchronous Generator Modeling Practices and Parameter Verification with Applications in Power System Stability Analyses</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9020274"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,9 +11,11 @@
         </postal>
       </address>
     </author>
-    <date year="2020" month="April" day="30"/>
+    <date year="2020" month="March" day="2"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Synchronous generators</keyword>
+    <keyword>Power system staility</keyword>
+    <keyword>Power system control</keyword>
     <keyword>Stability analysis</keyword>
     <keyword>IEEE 1110</keyword>
     <keyword>modeling practices</keyword>

@@ -1,6 +1,7 @@
-<reference anchor="IEEE.1248-2020" target="https://ieeexplore.ieee.org/document/9199159">
+<reference anchor="IEEE.1248-2020" target="https://ieeexplore.ieee.org/document/9086954">
   <front>
     <title>IEEE Guide for the Commissioning of Electrical Systems in Hydroelectric Power Plants</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9086954"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,11 +11,12 @@
         </postal>
       </address>
     </author>
-    <date year="2020" month="September" day="16"/>
+    <date year="2020" month="May" day="5"/>
     <keyword>IEEE Standards</keyword>
+    <keyword>Power generation</keyword>
     <keyword>Hydroelectric power generation</keyword>
+    <keyword>Inspection</keyword>
     <keyword>Industrial plants</keyword>
-    <keyword>Electrical equipment</keyword>
     <keyword>commissioning</keyword>
     <keyword>electrical systems</keyword>
     <keyword>hydroelectric power plant</keyword>

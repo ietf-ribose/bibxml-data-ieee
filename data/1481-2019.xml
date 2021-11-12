@@ -1,15 +1,15 @@
-<reference anchor="IEEE.1481-2019" target="https://ieeexplore.ieee.org/document/9080678">
+<reference anchor="IEEE.1481-2019" target="https://ieeexplore.ieee.org/document/9034549">
   <front>
     <title>IEEE Standard for Integrated Circuit (IC) Open Library Architecture (OLA)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9034549"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
     </author>
-    <date year="2020" month="April" day="28"/>
+    <date year="2020" month="March" day="12"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Integrated circuits</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>Timing anlaysis</keyword>
-    <keyword>Performance evaluation</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>Integrated circuit synthesis</keyword>
     <keyword>chip delay</keyword>
     <keyword>electronic design automation (EDA)</keyword>
     <keyword>IEEE 1481</keyword>
