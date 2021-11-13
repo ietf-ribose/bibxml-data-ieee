@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE P789/D-7.2013-03" target="https://ieeexplore.ieee.org/document/6544536">
+  <front>
+    <title>IEEE Standard Performance Requirements for Communications and Control Cables for Application in High-Voltage Environments</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="June" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Wiring</keyword>
+    <keyword>communication cables</keyword>
+    <keyword>design requirements</keyword>
+    <keyword>electrical parameters</keyword>
+    <keyword>ground potential rise</keyword>
+    <keyword>high-voltage engineering</keyword>
+    <keyword>IEEE 789</keyword>
+    <keyword>testing requirements</keyword>
+    <keyword>wires</keyword>
+    <abstract>Information to assist in determining the electrical parameters of communication and control cables necessary to improve the overall reliability of these cables when used in high-voltage environments is the objective of this standard. There should be a very high probability (greater than 99%) that these cables will perform their intended function for specified periods of time in high-voltage interference conditions. The end result being more reliable communications over said cables. The information presented in this standard will apply equally to either new or existing [already installed] cables.</abstract>
+  </front>
+</reference>

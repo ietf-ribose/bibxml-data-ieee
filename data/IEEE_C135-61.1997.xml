@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE C135-61.1997" target="https://ieeexplore.ieee.org/document/8818735">
+  <front>
+    <title>IEEE Standard for the Testing of Overhead Transmission and Distribution Line Hardware</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.8818735"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="August" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Hardware</keyword>
+    <keyword>Power transmission </keyword>
+    <keyword>Requirements engineering</keyword>
+    <keyword>acceptance testing</keyword>
+    <keyword>load-rated line hardware</keyword>
+    <abstract>Requirements for mechanically testing load-rated line hardware for use on transmission and distribution facilities are described. Items specifically addressed in this standard include clevis and eye fittings, Y-clevis fittings, socket fittings, ball fittings, chain links, shackles, triangular and rectangular yoke plates, suspension clamps, and strain clamps. This standard is intended to cover routine acceptance testing. It is not intended for initial design tests.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P384/D-3.2008" target="https://ieeexplore.ieee.org/document/4601610">
+  <front>
+    <title>IEEE Draft Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>The independence requirements of the circuits and equipment comprising or associated with Class 1E systems are described. Criteria for the independence that can be achieved by physical separation and electrical isolation of circuits and equipment that are redundant are set forth. The determination of what is to be considered redundant is not addressed.</abstract>
+  </front>
+</reference>

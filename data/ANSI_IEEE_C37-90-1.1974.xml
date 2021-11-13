@@ -1,0 +1,21 @@
+<reference anchor="IEEE.ANSI/IEEE C37-90-1.1974" target="https://ieeexplore.ieee.org/document/27704">
+  <front>
+    <title>IEEE Standard Surge Withstand Capability Test For Protective Relays and Relay Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.80218"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Relays</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Surges</keyword>
+    <keyword>C37.90.1</keyword>
+    <abstract>Two types of design tests for relays and relay systems that relate to the immunity of this equipment to repetitive electrical transients are specified. Test generator characteristics, test waveforms, selection of equipment terminals on which tests are to be conducted, test procedures, criteria for acceptance, and documentation of test results are described. This standard has been harmonized with IEC standards where consensus could be reached.</abstract>
+  </front>
+</reference>

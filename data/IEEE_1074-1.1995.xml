@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1074-1.1995" target="https://ieeexplore.ieee.org/document/511093">
+  <front>
+    <title>IEEE Guide for Developing Software Life Cycle Processes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81030"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="8"/>
+    <keyword>Software standards</keyword>
+    <keyword>software life cycle</keyword>
+    <keyword>processes</keyword>
+    <keyword>cycle model</keyword>
+    <keyword>activities</keyword>
+    <keyword>mapping</keyword>
+    <keyword>developing software</keyword>
+    <abstract>Withdrawn Standard. Withdrawn Date: Jan 15, 2001. Selected topics covered in IEEE Std 1074-1995, IEEE Standard for Developing Software Life Cycle Processes, are addressed in this guide. The guide provides assistance with Software Life Cycle Model (SLCM) selection, Activity mapping, and management of a software Life Cycle (SLC).</abstract>
+  </front>
+</reference>

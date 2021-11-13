@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE Unapproved P754/D-1.6.0.2008" target="https://ieeexplore.ieee.org/document/4447401">
+  <front>
+    <title>IEEE Draft Standard for Floating-Point Arithmetic</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>computer</keyword>
+    <keyword>floating-point</keyword>
+    <keyword>arithmetic</keyword>
+    <keyword>rounding</keyword>
+    <keyword>format</keyword>
+    <keyword>interchange</keyword>
+    <keyword>number</keyword>
+    <keyword>binary</keyword>
+    <keyword>decimal</keyword>
+    <keyword>subnormal</keyword>
+    <keyword>NaN</keyword>
+    <keyword>significand</keyword>
+    <keyword>exponent.</keyword>
+    <abstract>This standard specifies interchange and arithmetic formats and methods for binary and decimal floating-point arithmetic in computer programming environments. Exception conditions are defined and default handling of these conditions is specified. It is intended that an implementation of a floating-point system conforming to this standard can be realized entirely in software, entirely in hardware, or in any combination of software and hardware. For operations specified in the normative part of this standard, numerical results and exceptions are uniquely determined by the values of the input data, sequence of operations, and destination formats, all under user control.</abstract>
+  </front>
+</reference>

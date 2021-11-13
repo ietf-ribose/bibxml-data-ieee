@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1451-1.1999" target="https://ieeexplore.ieee.org/document/841361">
+  <front>
+    <title>IEEE Standard for a Smart Transducer Interface for Sensors and Actuators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91313"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>actuators</keyword>
+    <keyword>communication network</keyword>
+    <keyword>object model</keyword>
+    <keyword>sensors</keyword>
+    <abstract>This standard defines an object model with a network-neutral interface for connecting processors to communication networks, sensors, and actuators. The object model containing blocks, services, and components specifies interactions with sensors and actuators and forms the basis for implementing application code executing in the processor.</abstract>
+  </front>
+</reference>

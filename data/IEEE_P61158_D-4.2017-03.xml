@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P61158/D-4.2017-03" target="https://ieeexplore.ieee.org/document/7888893">
+  <front>
+    <title>IEEE Approved Draft Standard for Industrial Hard Real-Time Communication</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>Industrial plants</keyword>
+    <keyword>Communications technology</keyword>
+    <keyword>Real time systems</keyword>
+    <keyword>Real-time Ethernet</keyword>
+    <keyword>Industrial Ethernet</keyword>
+    <keyword>Industrial Automation</keyword>
+    <keyword>Ethernet POWERLINK</keyword>
+    <abstract>The Standard for Industrial Hard Real-Time Communication is an adoption of the EPSG DS 301--Ethernet POWERLINK--Communication Profile Specification. Ethernet POWERLINK is a communication profile for Real-Time Ethernet (RTE). It extends Ethernet according to the IEEE Std 802.3 with mechanisms to transfer data with predictable timing and precise synchronisation. The communication profile meets timing demands typical for high performance automation and motion applications. It does not change basic principles of the Fast Ethernet Standard IEEE 802.3 but extends it towards RTE. Thus it is possible to leverage and continue to use any standard Ethernet silicon, infrastructure component or test and measurement equipment like a network analyzer.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1609-12.2019" target="https://ieeexplore.ieee.org/document/8877516">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE)--Identifiers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8877516"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Intelligent transportation systems</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Identification</keyword>
+    <keyword>IEEE 1609.12</keyword>
+    <keyword>Provider Service Identifier</keyword>
+    <keyword>PSID</keyword>
+    <keyword>WAVE</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <abstract>Wireless Access in Vehicular Environments (WAVE) is specified in the IEEE 1609 family of standards, within which certain identifiers are used. The use of these identifiers is described, and identifier values that have been allocated for use by WAVE systems are indicated.</abstract>
+  </front>
+</reference>

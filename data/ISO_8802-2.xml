@@ -1,0 +1,29 @@
+<reference anchor="IEEE.ISO 8802-2" target="https://ieeexplore.ieee.org/document/5776621">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.5776621"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information processing</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Interconnected systems</keyword>
+    <keyword>Logic design</keyword>
+    <keyword>logical</keyword>
+    <keyword>link</keyword>
+    <keyword>control</keyword>
+    <keyword>local</keyword>
+    <keyword>area</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Local area networks</keyword>
+    <abstract>This standard is part of a family of local area network (LAN) standards dealing with the physical and data link layers as defined by the ISO Open Systems Interconnection Reference Model. It describes the functions, features, protocol, and services of the logical link control (LLC) sublayer, which constitutes the top sublayer in the data link layer of the ISO 8802 Local Area Network Protocol. The services required of, or by, the LLC sublayer at the logical interfaces with the network layer, the MAC sublayer, and the LLC sublayer management function are specified. The protocol data unit (PDU) structure for data communication systems is defined using bit-oriented procedures, as are two types of operation for data communication between service access points. In one type of operation, PDUs are exchanged between LLCs without the need for the establishment of a data link connection. In the other, a data link connection is established between two LLCs prior to any exchange of information-bearing PDUs.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE C62-92-3.2012" target="https://ieeexplore.ieee.org/document/6469134">
+  <front>
+    <title>IEEE Guide for the Application of Neutral Grounding in Electrical Utility Systems, Part III -Generator Auxiliary Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6469134"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="22"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Industrial plants</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Fault detection</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>electrical generating plants</keyword>
+    <keyword>electrical utility systems</keyword>
+    <keyword>generator auxiliary systems</keyword>
+    <keyword>ground-fault protection</keyword>
+    <keyword>grounding</keyword>
+    <keyword>IEEE C62.92.3TM</keyword>
+    <keyword>neutral grounding</keyword>
+    <abstract>Basic factors and general considerations in selecting the class and means of neutral grounding for electrical generating plant auxiliary power systems are given in this guide. Apparatus to be used to achieve the desired grounding are suggested, and methods to specify the grounding devices are given. Sensitivity and selectivity of equipment ground-fault protection as affected by selection of the neutral grounding device are discussed, with examples.</abstract>
+  </front>
+</reference>

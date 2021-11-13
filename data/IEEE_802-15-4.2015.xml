@@ -1,0 +1,37 @@
+<reference anchor="IEEE.IEEE 802-15-4.2015" target="https://ieeexplore.ieee.org/document/7460875">
+  <front>
+    <title>IEEE Standard for Low-Rate Wireless Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7460875"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="April" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Data transmission</keyword>
+    <keyword>Mobile communication</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>Short range communications</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>IEEE 802.15.4(TM)</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>The protocol and compatible interconnection for data communication devices using low-data-rate, low-power, and low-complexity short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN) are defined in this standard. A variety of physical layers (PHYs) have been defined that cover a wide variety of frequency bands.</abstract>
+  </front>
+</reference>

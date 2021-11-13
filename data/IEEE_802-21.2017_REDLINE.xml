@@ -1,0 +1,41 @@
+<reference anchor="IEEE.IEEE 802-21.2017 Redline" target="https://ieeexplore.ieee.org/document/8082798">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--Part 21: Media Independent Services Framework</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="October" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Multicast communication</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Media</keyword>
+    <keyword>broadcast</keyword>
+    <keyword>downlink only</keyword>
+    <keyword>group</keyword>
+    <keyword>group management</keyword>
+    <keyword>group security</keyword>
+    <keyword>IEEE 802.21(TM)</keyword>
+    <keyword>management</keyword>
+    <keyword>media independent handover</keyword>
+    <keyword>media independent service</keyword>
+    <keyword>mobile node</keyword>
+    <keyword>mobility</keyword>
+    <keyword>multicast</keyword>
+    <keyword>point of attachment</keyword>
+    <keyword>point of service</keyword>
+    <keyword>proactive authentication</keyword>
+    <keyword>seamless</keyword>
+    <keyword>security protection</keyword>
+    <keyword>service access authentication</keyword>
+    <abstract>An extensible IEEE 802(R) media access independent services framework (i.e., function and protocol) is defined that enables the optimization of services including handover and other services when performed between heterogeneous IEEE 802 networks. These services are facilitated by this standard when networking between IEEE 802 networks and cellular networks. (The PDF of this standard is available at no cost compliments of the IEEE GET program http://ieeexplore.ieee.org/browse/standards/get-program/page/)</abstract>
+  </front>
+</reference>

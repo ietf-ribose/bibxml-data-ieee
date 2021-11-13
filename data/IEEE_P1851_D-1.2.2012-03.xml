@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE P1851/D-1.2.2012-03" target="https://ieeexplore.ieee.org/document/6178198">
+  <front>
+    <title>Ieee draft standard for design criteria of integrated sensor-based test applications for household appliances</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Web and internet services</keyword>
+    <keyword>XML</keyword>
+    <keyword>Wireless sensor networks</keyword>
+    <keyword>household appliances test</keyword>
+    <keyword>sensor data</keyword>
+    <keyword>web service</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>This standard defines an integrated framework of the test software for household appliances. It specifies the test environment, the test information as well as the means to acquire the information (either web services or a data-exchange file).</abstract>
+  </front>
+</reference>

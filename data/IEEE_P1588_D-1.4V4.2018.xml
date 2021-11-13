@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE P1588/D-1.4V4.2018" target="https://ieeexplore.ieee.org/document/8741320">
+  <front>
+    <title>IEEE Draft Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="June" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Networked control systems</keyword>
+    <keyword>Clocks</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Boundary Clock</keyword>
+    <keyword>clock</keyword>
+    <keyword>Grandmaster Clock</keyword>
+    <keyword>IEEE 1588</keyword>
+    <keyword>management</keyword>
+    <keyword>Ordinary Clock</keyword>
+    <keyword>security</keyword>
+    <keyword>synchronization</keyword>
+    <keyword>Transparent Clock</keyword>
+    <abstract>In this standard, a protocol is defined that provides precise synchronization of clocks in packet-based networked systems. Synchronization of clocks can be achieved in heterogeneous systems that include clocks of different inherent precision, resolution, and stability. The protocol supports synchronization accuracy and precision in the sub-microsecond range with minimal network and local computing resources. Customization is supported by means of profiles. The protocol includes default profiles that permit simple systems to be installed and operated without the need for user management. Sub-nanosecond time transfer accuracy can be achieved in a properly designed network.</abstract>
+  </front>
+</reference>

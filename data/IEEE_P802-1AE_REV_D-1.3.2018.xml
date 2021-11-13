@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE P802-1AE_Rev/D-1.3.2018" target="https://ieeexplore.ieee.org/document/8371754">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="June" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Network security</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>IEEE 802.1AE(TM)</keyword>
+    <keyword>IEEE 802.1AEbn(TM)</keyword>
+    <keyword>IEEE 802.1AEbw(TM)</keyword>
+    <keyword>IEEE 802.1AEcg(TM)</keyword>
+    <keyword>integrity</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>How all or part of a network can be secured transparently to peer protocol entities that use the MAC Service provided by IEEE 802® LANs to communicate is specified in this standard. MAC security (MACsec) provides connectionless user data confidentiality, frame data integrity, and data origin authenticity.</abstract>
+  </front>
+</reference>

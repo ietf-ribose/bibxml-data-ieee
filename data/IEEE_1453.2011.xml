@@ -1,0 +1,18 @@
+<reference anchor="IEEE.IEEE 1453.2011" target="https://ieeexplore.ieee.org/document/6053977">
+  <front>
+    <title>IEEE Recommended Practice--Adoption of IEC 61000-4-15:2010, Electromagnetic compatibility (EMC)--Testing and measurement techniques--Flickermeter--Functional and design specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6053977"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Voltage fluctuations</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>adoption</keyword>
+    <keyword>flicker</keyword>
+    <keyword>IEEE 1453</keyword>
+    <keyword>voltage fluctuation</keyword>
+    <abstract>IEC 61000-4-15:2010 is adopted by this standard. IEC 61000-4-15:2010 gives a functional and design specification for flicker measuring apparatus intended to indicate the correct flicker perception level for all practical voltage fluctuation waveforms. Information is presented to enable such an instrument to be constructed. A method is given for the evaluation of flicker severity on the basis of the output of flickermeters complying with this standard. The object of IEC 61000-4-15:2010 is to provide basic information for the design and the instrumentation of an analogue or digital flicker measuring apparatus. It does not give tolerance limit values of flicker severity.</abstract>
+  </front>
+</reference>

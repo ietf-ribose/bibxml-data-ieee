@@ -1,0 +1,17 @@
+<reference anchor="IEEE.IEEE Unapproved 11073-10471/D-02.2008-02" target="https://ieeexplore.ieee.org/document/4459197">
+  <front>
+    <title>IEEE Draft Standard for Health Informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Personal Health Devices</keyword>
+    <keyword>Medical Device Communication</keyword>
+    <keyword>Independent Living Activity Hub</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth independent living activity hub agents and managers (e.g. cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth independent living activity hub agents.</abstract>
+  </front>
+</reference>

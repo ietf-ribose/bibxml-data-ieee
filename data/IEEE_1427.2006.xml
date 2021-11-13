@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 1427.2006" target="https://ieeexplore.ieee.org/document/4201973">
+  <front>
+    <title>IEEE Guide for Recommended Electrical Clearances and Insulation Levels in Air Insulated Electrical Power Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.359971"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="July" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>basic lightning impulse insulation level (BIL)</keyword>
+    <keyword>basic switching impulse insulation level (BSL)</keyword>
+    <keyword>clearances</keyword>
+    <keyword>insulation coordination</keyword>
+    <keyword>insulation levels</keyword>
+    <keyword>substation</keyword>
+    <abstract>This guide, covering three-phase ac systems from 1 kV to 800 kV, provides recommended electrical operating and safety clearances and insulation levels in air-insulated electric supply substations; addresses insulation coordination procedures; provides design procedures for the selection and coordination of the insulation levels within the station as they relate to substation clearances; and addresses how reduced clearances in high-voltage ac substations will allow for compact bus arrangements and substation voltage uprating applications.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 802-1Qaz.2011" target="https://ieeexplore.ieee.org/document/6034507">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks--Amendment 18: Enhanced Transmission Selection for Bandwidth Sharing Between Traffic Classes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6034507"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Virtual environments</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>Data Center Bridging</keyword>
+    <keyword>Enhanced Transmission Selection</keyword>
+    <keyword>IEEE 802.1Qaz</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <abstract>This amendment to IEEE Std 802.1 Q-2011 defines enhancements to transmission selection to support allocation of bandwidth amongst traffic classes, plus a protocol for controlling the application of Data Center Bridging features.</abstract>
+  </front>
+</reference>

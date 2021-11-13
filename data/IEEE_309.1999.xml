@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE 309.1999" target="https://ieeexplore.ieee.org/document/768235">
+  <front>
+    <title>IEEE Standard Test Procedures and Bases for Geiger-Mueller Counters</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89428"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="31"/>
+    <keyword>Geiger counters</keyword>
+    <keyword>gas counter</keyword>
+    <keyword>Geiger-Mueller</keyword>
+    <keyword>radiation detectors</keyword>
+    <abstract>Test procedures for Geiger-Mueller counters that are used for the detection of ionizing radiation are presented so that they have the same meaning to both manufacturers and users. Also included is information on bases (i.e., connections) for the counters.</abstract>
+  </front>
+</reference>

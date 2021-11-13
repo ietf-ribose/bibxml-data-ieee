@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE C37-90-2.2004" target="https://ieeexplore.ieee.org/document/1378611">
+  <front>
+    <title>IEEE Standard for Withstand Capability of Relay Systems to Radiated Electromagnetic Interference from Transceivers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95602"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>Transceivers</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>field strength</keyword>
+    <keyword>keying test</keyword>
+    <keyword>Radiated Electromagnetic Interference</keyword>
+    <keyword>relay</keyword>
+    <keyword>relay systems</keyword>
+    <keyword>step test</keyword>
+    <keyword>sweep test</keyword>
+    <keyword>transceivers</keyword>
+    <abstract>Revision of IEEE Std C37.90.2-1995. Design tests for relay and relay systems that relate to the immunity of this equipment to Radiated Electromagnetic Interference from Transceivers are specified. Field strength, test frequencies, modulation, sweep rates, equipment setup and connection, test procedures, criteria for acceptance, and documentation for test results are described. This standards has been harmonized with IEC standards where consensus could be reached.</abstract>
+  </front>
+</reference>

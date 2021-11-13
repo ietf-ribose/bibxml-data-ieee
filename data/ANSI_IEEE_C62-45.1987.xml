@@ -1,0 +1,16 @@
+<reference anchor="IEEE.ANSI/IEEE C62-45.1987" target="https://ieeexplore.ieee.org/document/27824">
+  <front>
+    <title>IEEE Guide on Surge Testing for Equipment Connected to Low-Voltage AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81027"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="May" day="1"/>
+    <keyword>Safety</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Testing</keyword>
+    <keyword>C62.45</keyword>
+    <abstract>Guidance is provided for applying surge testing to AC power interfaces of equipment connected to low-voltage ac power circuits that are subject to transient overvoltages. Signal and data lines are not addressed in this document, nor are any specifications stated on the withstand levels that might be assigned to specific equipments. An important objective of the document is to call attention to the safety aspects of surge testing.</abstract>
+  </front>
+</reference>

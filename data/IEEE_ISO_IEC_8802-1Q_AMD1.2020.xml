@@ -1,0 +1,37 @@
+<reference anchor="IEEE.IEEE/ISO/IEC 8802-1Q/Amd1.2020" target="https://ieeexplore.ieee.org/document/9599625">
+  <front>
+    <title>IEEE/ISO/IEC International Standard-Telecommunications and exchange between information technology systems -- Requirements for local and metropolitan area networks -- Part 1Q: Bridges and bridged networks AMENDMENT 31: Stream Reservation Protocol (SRP) enhancements and performance improvements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9599625"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="November" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Local area nettworks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Streaming media</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802&amp;#169;</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qcc&amp;#8482;</keyword>
+    <keyword>SRP</keyword>
+    <keyword>Stream Reservation Protocol</keyword>
+    <keyword>MSRP</keyword>
+    <keyword>Multiple Stream Registration Protocol</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>TSN</keyword>
+    <abstract>Enhancements to the configuration of time-sensitive streams are provided by this amendment to IEEE Std 8802.1Q-2018.</abstract>
+  </front>
+</reference>

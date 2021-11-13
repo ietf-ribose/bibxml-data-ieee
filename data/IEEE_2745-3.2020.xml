@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 2745-3.2020" target="https://ieeexplore.ieee.org/document/9234155">
+  <front>
+    <title>IEEE Guide for Technology of Unified Power Flow Controller Using Modular Multilevel Converter--Part 3: Thyristor Bypass Switch</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9234155"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="October" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Load flow</keyword>
+    <keyword>Thryistors</keyword>
+    <keyword>Multilevel converters</keyword>
+    <keyword>fast bypass system</keyword>
+    <keyword>function requirements</keyword>
+    <keyword>IEEE 2745.3</keyword>
+    <keyword>performance requirements</keyword>
+    <keyword>system composition</keyword>
+    <keyword>test</keyword>
+    <keyword>thyristor bypass switch</keyword>
+    <abstract>An approach to preparing a specification for the thyristor bypass switch (TBS) of a unified power flow controller (UPFC) using modular multilevel converter (MMC) technology is documented by this guide. The intention of this guide is to serve as a base specification to allow users to modify or develop specific clauses to meet a particular application.</abstract>
+  </front>
+</reference>

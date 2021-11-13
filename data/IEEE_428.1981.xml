@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE 428.1981" target="https://ieeexplore.ieee.org/document/29026">
+  <front>
+    <title>IEEE Standard Definitions and Requirements for Thyristor AC Power Controllers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81455"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="20"/>
+    <keyword>Power control</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Switches</keyword>
+    <keyword>Thyristor applications</keyword>
+    <abstract>These recommendations apply to thyristor ac power controllers that are low voltage, power elctronic, industrial class equipment for the control or switching of ac power. Switching, multicycle control and phase control are included. Cycloconverters are excluded. Examples of application include, but are not limited to, industrial oven controls, static motor starters, static relays, etc. This standard is intended to be used in conjunction with IEC Pub 146 (1973) [2] .l Reference is made to the appropriate section of IEC Pub 146 (1973) [2] where required.</abstract>
+  </front>
+</reference>

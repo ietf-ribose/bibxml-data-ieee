@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P802-3bu/D-3.0.2016-06" target="https://ieeexplore.ieee.org/document/7492155">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer and Management Parameters for Power over Data Lines (PoDL) of Single Balanced Twisted Pair Ethernet</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="June" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Power over Data Lines</keyword>
+    <keyword>100BASE-T1</keyword>
+    <keyword>1000BASE-T1.</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2015 adds specifications and management parameters for the provision of power via a single twisted pair to connected Data Terminal Equipment (DTE) with IEEE 802.3 single balanced twisted-pair interfaces.</abstract>
+  </front>
+</reference>

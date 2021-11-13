@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1453.2015 Redline" target="https://ieeexplore.ieee.org/document/7374638">
+  <front>
+    <title>IEEE Recommended Practice for the Analysis of Fluctuating Installations on Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Flicker</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Fluctuations</keyword>
+    <keyword>flicker</keyword>
+    <keyword>fluctuating loads</keyword>
+    <keyword>IEEE 1453</keyword>
+    <keyword>power systems</keyword>
+    <abstract>Background on light flicker caused by fluctuations in power demands of variable loads is presented in this recommended practice. A flicker measurement method is presented using a meter that is completely described in IEC 61000-4-15. The short-term (Pst) and long-term (Plt) flicker indices used for the analysis of flicker data are defined. Flicker limits for various voltage levels are presented. An assessment procedure for evaluating flicker compliance against emission limits is described. Methodologies to analyze background flicker to identify the flicker contribution of single loads are also presented.</abstract>
+  </front>
+</reference>

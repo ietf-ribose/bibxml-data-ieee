@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 1801.2013" target="https://ieeexplore.ieee.org/document/6521327">
+  <front>
+    <title>IEEE Standard for Design and Verification of Low-Power Integrated Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6521327"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="May" day="29"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Semantics</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>Retention strategies</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>Integrated  circuits</keyword>
+    <keyword>Formal verification</keyword>
+    <keyword>Power system restoration</keyword>
+    <keyword>corruption semantics</keyword>
+    <keyword>IEEE 1801&amp;#8482;</keyword>
+    <keyword>interface specification</keyword>
+    <keyword>IP reuse</keyword>
+    <keyword>isolation</keyword>
+    <keyword>level-shifting</keyword>
+    <keyword>power-aware design</keyword>
+    <keyword>power domains</keyword>
+    <keyword>power intent</keyword>
+    <keyword>power modes</keyword>
+    <keyword>power states</keyword>
+    <keyword>progressive design refinement</keyword>
+    <keyword>retention</keyword>
+    <keyword>retention strategies</keyword>
+    <abstract>A method is provided for specifying power intent for an electronic design, for use in verification of the structure and behavior of the design in the context of a given power management architecture, and for driving implementation of that power management architecture. The method supports incremental refinement of power intent specifications required for IP-based design flows.</abstract>
+  </front>
+</reference>

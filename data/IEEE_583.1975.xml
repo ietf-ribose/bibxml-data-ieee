@@ -1,0 +1,17 @@
+<reference anchor="IEEE.IEEE 583.1975" target="https://ieeexplore.ieee.org/document/7431915">
+  <front>
+    <title>IEEE Standard Modular Instrumentation and Digital Interface System (CAMAC)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.7431915"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="March" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Instrumentation</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Digital interfaces</keyword>
+    <keyword>Modular structures</keyword>
+    <keyword>Serial Highway Interface System</keyword>
+    <abstract>This standard is intended to serve as a basis for a range of modular instrumentation capable of interfacing transducers and other devices to digital controllers for data and control. It consists of mechanical standards and signal standards that are sufficient to ensure physical and operational compatibility between units regardless of source.</abstract>
+  </front>
+</reference>

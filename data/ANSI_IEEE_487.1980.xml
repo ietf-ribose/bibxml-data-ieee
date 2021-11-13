@@ -1,0 +1,19 @@
+<reference anchor="IEEE.ANSI/IEEE 487.1980" target="https://ieeexplore.ieee.org/document/18472">
+  <front>
+    <title>IEEE Guide for the Protection of Wire-Line Communication Facilities Serving Electric Power Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.119212"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Grounding</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Wire communication cables</keyword>
+    <keyword>protection</keyword>
+    <keyword>wire</keyword>
+    <keyword>line</keyword>
+    <keyword>communications</keyword>
+    <abstract>Superseded by 487-1992. Workable methods for protecting wire-line communication circuits entering power stations are presented. This document covers: the electric power station environment; protection apparatus; services types, reliability, service performance objective classifications, and transmission considerations; protection theory and philosophy; protection configurations; installation and inspection; and safety.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1332.1998" target="https://ieeexplore.ieee.org/document/8684723">
+  <front>
+    <title>IEEE Standard Reliability Program for the Development and Production of Electronic Systems and Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8684723"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>electronics</keyword>
+    <keyword>electronic equipment</keyword>
+    <keyword>electronic systems</keyword>
+    <keyword>MIL-STD 785</keyword>
+    <keyword>reliability</keyword>
+    <keyword>reliability program</keyword>
+    <keyword>reliability program standard</keyword>
+    <abstract>" Guidance for providing products that satisfy the customer is given. This standard guidessuppliers in planning a program that suits their design philosophy, the product concept, and the resourcesat their disposal, so that every activity adds value. This standard encourages suppliers and customers tocooperatively integrate their reliability processes. Requirements are written to properly establish thecontractual or obligatory relationship between the supplier and customer in a product program. "</abstract>
+  </front>
+</reference>

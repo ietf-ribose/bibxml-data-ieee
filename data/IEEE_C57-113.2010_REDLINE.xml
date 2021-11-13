@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE C57-113.2010 Redline" target="https://ieeexplore.ieee.org/document/5954108">
+  <front>
+    <title>IEEE Recommended Practice for Partial Discharge Measurement in Liquid-Filled Power Transformers and Shunt Reactors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5954108"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Partial discharges</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Shunt (electrical)</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Liquids</keyword>
+    <keyword>Wideband</keyword>
+    <keyword>apparent charge</keyword>
+    <keyword>IEEE C57.113</keyword>
+    <keyword>partial discharge (PD)</keyword>
+    <keyword>power transformer</keyword>
+    <keyword>shunt reactor</keyword>
+    <keyword>wideband PD measurement</keyword>
+    <abstract>Wideband measurement of the apparent charge of partial discharges (PDs) that may occur in liquid-filled power transformers and shunt reactors excited by ac test voltages between 40 Hz and 400 Hz are discussed. The major components of the PD measuring circuit including the calibrator are specified in compliance with IEC 60270. The PD test procedure is described and recommendations for the evaluation of PD test results are presented.</abstract>
+  </front>
+</reference>

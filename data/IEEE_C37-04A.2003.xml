@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE C37-04a.2003" target="https://ieeexplore.ieee.org/document/1237539">
+  <front>
+    <title>IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis: Amendment 1 Capacitance Current Switching</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94385"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Capacitance</keyword>
+    <keyword>Switching circuits</keyword>
+    <keyword>Switches</keyword>
+    <keyword>capacitance current</keyword>
+    <keyword>capacitance current switching</keyword>
+    <keyword>capacitor bank switching</keyword>
+    <keyword>restrike</keyword>
+    <abstract>This amendment specifies the capacitance current switching portion of the rating structure for all ac circuit breakers rated above 1000 V, including both outdoor and indoor types having preferred ratings listed in ANSI C37.06-2000. The rating structure establishes the basis for all assigned capacitance current ratings including overhead line switching, cable switching, capacitor bank switching, and back-to-back capacitor bank switching.</abstract>
+  </front>
+</reference>

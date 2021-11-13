@@ -1,0 +1,19 @@
+<reference anchor="IEEE.IEEE Unapproved P11073-30400/D-09.2009-11" target="https://ieeexplore.ieee.org/document/5353093">
+  <front>
+    <title>Draft Standard for Health informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Ethernet</keyword>
+    <keyword>medical device</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>MDC</keyword>
+    <keyword>MIB</keyword>
+    <abstract>This document focuses on the application of the Ethernet family (IEEE 802.3TM) of protocols for use in medical device communication. The scope is limited to referencing the appropriate Ethernet family specifications and calling out any specific special needs or requirements of the ISO/IEEE 11073TM environment, with a particular focus on easing 4 interoperability and controlling costs.</abstract>
+  </front>
+</reference>

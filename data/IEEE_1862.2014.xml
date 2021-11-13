@@ -1,0 +1,44 @@
+<reference anchor="IEEE.IEEE 1862.2014" target="https://ieeexplore.ieee.org/document/6861416">
+  <front>
+    <title>IEEE Recommended Practice for Overvoltage and Insulation Coordination of Transmission Systems at 1000 kV AC and Above</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6861416"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="July" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Protective shielding</keyword>
+    <keyword>Fault diagnosis</keyword>
+    <keyword>Failure analysis</keyword>
+    <keyword>Lightning</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Ultra high voltage</keyword>
+    <keyword>Ultra-high voltage(UHV)</keyword>
+    <keyword>atmospheric correction factor</keyword>
+    <keyword>basic lightning impulse insulation level (BIL)</keyword>
+    <keyword>basic switching impulse insulation level (BSL)</keyword>
+    <keyword>clearance</keyword>
+    <keyword>crest value</keyword>
+    <keyword>ground fault factor</keyword>
+    <keyword>insulation coordination</keyword>
+    <keyword>insulation design</keyword>
+    <keyword>overvoltage</keyword>
+    <keyword>phase-to-ground insulation configuration</keyword>
+    <keyword>phase-to phase insulation configuration</keyword>
+    <keyword>protective margin</keyword>
+    <keyword>protective ratio</keyword>
+    <keyword>shielding failures</keyword>
+    <keyword>standard withstand voltages</keyword>
+    <keyword>voltage stresses</keyword>
+    <keyword>IEEE P1862</keyword>
+    <abstract>This recommended practice specifies the procedure for selection of insulation levels of UHV AC transmission lines and substations. It also specifies reliability criterion under switching overvoltage and lightning overvoltage. It also suggests the calculation methods of insulation coordination design. According to the characteristics of UHV AC systems, overvoltages mitigation measures are recommended. Some examples of insulation coordination are presented.</abstract>
+  </front>
+</reference>

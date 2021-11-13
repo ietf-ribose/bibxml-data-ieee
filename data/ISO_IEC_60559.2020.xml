@@ -1,0 +1,35 @@
+<reference anchor="IEEE.ISO/IEC 60559.2020" target="https://ieeexplore.ieee.org/document/9091348">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9091348"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Floating point arithmetic</keyword>
+    <keyword>arithmetic</keyword>
+    <keyword>binary</keyword>
+    <keyword>computer</keyword>
+    <keyword>decimal</keyword>
+    <keyword>exponent</keyword>
+    <keyword>floating-point</keyword>
+    <keyword>format</keyword>
+    <keyword>IEEE 754</keyword>
+    <keyword>interchange</keyword>
+    <keyword>NaN</keyword>
+    <keyword>number</keyword>
+    <keyword>rounding</keyword>
+    <keyword>significand</keyword>
+    <keyword>subnormal.</keyword>
+    <abstract>This international standard specifies interchange and arithmetic formats and methods for binary and decimal floating-point arithmetic in computer programming environments. This standard specifies exception conditions and their default handling. An implementation of a floating-point system conforming to this standard may be realized entirely in software, entirely in hardware, or in any combination of software and hardware. For operations specified in the normative part of this standard, numerical results and exceptions are uniquely determined by the values of the input data, sequence of operations, and destination formats, all under user control.</abstract>
+  </front>
+</reference>

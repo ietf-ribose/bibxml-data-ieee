@@ -1,0 +1,35 @@
+<reference anchor="IEEE.EEE 1671-1.2017" target="https://ieeexplore.ieee.org/document/9444769">
+  <front>
+    <title>IEEE Standard for Automatic Test Markup Language (ATML) Test Descriptions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.9444769"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Automatic test equipment</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Markup languages</keyword>
+    <keyword>ATE</keyword>
+    <keyword>ATML</keyword>
+    <keyword>ATS</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test equipment</keyword>
+    <keyword>Automatic Test Markup Language</keyword>
+    <keyword>automatic test system</keyword>
+    <keyword>IEEE 1671.1&amp;#8482;</keyword>
+    <keyword>test program documentation</keyword>
+    <keyword>test requirements</keyword>
+    <keyword>unit under test</keyword>
+    <keyword>UUT</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>An exchange format, utilizing Extensible Markup Language (XML), for both the static description of unit under test (UUT), and the specific description of UUT instance information is defined in this standard.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1268.2016" target="https://ieeexplore.ieee.org/document/7485978">
+  <front>
+    <title>IEEE Guide for Safety in the Installation of Mobile Substation Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7485978"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="June" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Lightning</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Arc discharges</keyword>
+    <keyword>update:5230</keyword>
+    <abstract>Information pertaining to the installation of mobile substation equipment up to 245 kV is provided in this guide.</abstract>
+  </front>
+</reference>

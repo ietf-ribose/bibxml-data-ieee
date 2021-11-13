@@ -1,0 +1,33 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-1AC.2018" target="https://ieeexplore.ieee.org/document/8353812">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8353812"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="May" day="3"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>IEEE 802</keyword>
+    <keyword>IEEE 802.1AC</keyword>
+    <keyword>Internal Sublayer Service</keyword>
+    <keyword>ISS</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MAN</keyword>
+    <keyword>metropolitan area network</keyword>
+    <abstract>The MAC Service and the Internal Sublayer Service (ISS) are defined in this standard. This standard specifies media-dependent convergence functions that map IEEE 802(R) MAC interfaces to the ISS. The MAC Service is derived from the ISS.</abstract>
+  </front>
+</reference>

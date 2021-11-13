@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE P802-15-7/D-3.2018-08" target="https://ieeexplore.ieee.org/document/8467490">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="September" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Cameras</keyword>
+    <keyword>Optical fiber communication</keyword>
+    <keyword>Visible light communication</keyword>
+    <keyword>Light emitting diodes</keyword>
+    <keyword>IEEE 802.15.7</keyword>
+    <keyword>laser diode</keyword>
+    <keyword>LD</keyword>
+    <keyword>LED</keyword>
+    <keyword>light-emitting diode</keyword>
+    <keyword>OCC</keyword>
+    <keyword>optical camera communications</keyword>
+    <keyword>OWC</keyword>
+    <keyword>short-range optical wireless communications</keyword>
+    <keyword>visible light</keyword>
+    <keyword>visible-light communication</keyword>
+    <keyword>VLC</keyword>
+    <abstract>A physical layer (PHY) and medium access control (MAC) sublayer for short-range optical wireless communications (OWC) in optically transparent media using light wavelengths from 10 000 nm to 190 nm are defined. The standard is capable of delivering data rates sufficient to support audio and video multimedia services and also considers mobility of the optical link, compatibility with various light infrastructures, impairments due to noise and interference from sources like ambient light, and a MAC sublayer that accommodates the unique needs of visible links as well as the other targeted light wavelengths. It also accommodates optical communications for cameras where transmitting devices incorporate light-emitting sources and receivers are digital cameras with a lens and image sensor. The standard adheres to applicable eye safety regulations.</abstract>
+  </front>
+</reference>

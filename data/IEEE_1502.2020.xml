@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE 1502.2020" target="https://ieeexplore.ieee.org/document/9310748">
+  <front>
+    <title>IEEE Recommended Practice for Radar Cross-Section Test Procedures</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9310748"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="December" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Radar cross-sections</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>Radar measurements</keyword>
+    <keyword>compact range</keyword>
+    <keyword>dynamic test range</keyword>
+    <keyword>elevated range</keyword>
+    <keyword>error</keyword>
+    <keyword>ground-plane range. IEEE 1502&amp;#8482;</keyword>
+    <keyword>inverted-V range</keyword>
+    <keyword>near-field non-anechoic range</keyword>
+    <keyword>radar cross section (RCS)</keyword>
+    <keyword>radar test range</keyword>
+    <keyword>RCS measurement</keyword>
+    <keyword>spherical-wave anechoic chamber</keyword>
+    <keyword>tapered chamber</keyword>
+    <keyword>uncertainty</keyword>
+    <abstract>The process of the measurement of the radar cross section of objects using a test range is described in this recommended practice. The term radar cross section (RCS) is defined, and the characteristics of different types of test ranges are given. The responsibilities of the test range operators are shown to involve test and calibration of the measurement range systems and to take the measurements accurately. Techniques are described for each stage of this process.</abstract>
+  </front>
+</reference>

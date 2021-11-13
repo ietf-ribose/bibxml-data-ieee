@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE 802-15.4.2020 Redline" target="https://ieeexplore.ieee.org/document/9175063">
+  <front>
+    <title>IEEE Standard for Low-Rate Wireless Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="August" day="24"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Precision engineering</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>Ad hoc networks</keyword>
+    <keyword>Radio frequency</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>IEEE 802.15.4</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless network</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>The physical layer (PHY) and medium access control (MAC) sublayer specifications for low-data-rate wireless connectivity with fixed, portable, and moving devices with no battery or very limited battery consumption requirements are defined in this standard. In addition, the standard provides modes that allow for precision ranging. PHYs are defined for devices operating in a variety of geographic regions.</abstract>
+  </front>
+</reference>

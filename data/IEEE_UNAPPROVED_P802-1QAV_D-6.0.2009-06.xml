@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE Unapproved P802-1Qav/D-6.0.2009-06" target="https://ieeexplore.ieee.org/document/5174165">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks -Amendment XX: Forwarding and Queuing Enhancements for Time-Sensitive Streams</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>time sensitive data streams</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q defines enhancements to the forwarding and queueing functions of a VLAN Bridge to support the transmission of time sensitive data streams.</abstract>
+  </front>
+</reference>

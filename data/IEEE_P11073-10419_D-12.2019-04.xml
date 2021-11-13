@@ -1,0 +1,19 @@
+<reference anchor="IEEE.IEEE P11073-10419/D-12.2019-04" target="https://ieeexplore.ieee.org/document/8707149">
+  <front>
+    <title>IEEE Draft Standard for Health Informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="May" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Insulin pumps</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Diabetes</keyword>
+    <keyword>IEEE 11073-10419(TM)</keyword>
+    <keyword>insulin pump</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication between personal telehealth insulin pump devices and compute engines (e.g., cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability, is established in this standard. Appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards are leveraged. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability are specified. A common core of communication functionality for personal telehealth insulin pump devices is defined.</abstract>
+  </front>
+</reference>

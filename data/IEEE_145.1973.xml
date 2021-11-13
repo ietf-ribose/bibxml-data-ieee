@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 145.1973" target="https://ieeexplore.ieee.org/document/7366738">
+  <front>
+    <title>IEEE Standard Definitions of Terms for Antennas</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7366738"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="December" day="28"/>
+    <keyword>Dictionaries</keyword>
+    <keyword>Antennas</keyword>
+    <keyword>Terminology</keyword>
+    <abstract>In 1969, IEEE Standard 145 was published as a list of basic terms of antenna theory and practice. That document treated antenna gain as a fundamental property, with impedance and polarization as independent properties. The definitions of gain, directivity, impedance, and polarization were worded to emphasize this independence. Various other significant groups of terms were also defined, such as the regions of the electromagnetic field of an antenna, the terms relating to cross section, the tracking antenna techniques, and the idealized radiators.</abstract>
+  </front>
+</reference>

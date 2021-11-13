@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1129.1992" target="https://ieeexplore.ieee.org/document/210912">
+  <front>
+    <title>IEEE Recommended Practice for Monitoring and Instrumentation of Turbine Generators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114375"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="30"/>
+    <keyword>Monitoring</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Synchronous generators</keyword>
+    <keyword>Turbogenerators</keyword>
+    <keyword>cylindrical-rotor</keyword>
+    <keyword>Synchronous turbine generators</keyword>
+    <abstract>A basic philosophy and guidelines are established for the design and implementation of monitoring systems for cylindrical-rotor, synchronous turbine generators. Monitoring systems are used to display the status of the generator and auxiliary systems while these systems are operating on line. The basic information needed to choose monitoring schemes best suited for each application is provided. This standard does not specify actual equipment or instrumentation, but it does indicate some critical areas where it is important to provide monitoring capability</abstract>
+  </front>
+</reference>

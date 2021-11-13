@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE C37-2.2008" target="https://ieeexplore.ieee.org/document/4639522">
+  <front>
+    <title>IEEE Standard Electrical Power System Device Function Numbers, Acronyms, and Contact Designations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4639522"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Contacts</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>C37.2-2008</keyword>
+    <keyword>control</keyword>
+    <keyword>designations</keyword>
+    <keyword>device functions</keyword>
+    <keyword>device function acronyms</keyword>
+    <keyword>device function numbers</keyword>
+    <keyword>function numbers</keyword>
+    <keyword>IEC 61850</keyword>
+    <keyword>relay</keyword>
+    <keyword>switchgear</keyword>
+    <abstract>The definition and application of function numbers and acronyms for devices and functions used in electrical substations and generating plants and in installations of power utilization and conversion apparatus are covered. The purpose and use of the numbers and acronyms is discussed, and 95 numbers and 17 acronyms are assigned. Function numbers or function acronyms for arc fault detection, high impedance fault detection, human machine interface, communications devices, digital fault and sequence of event recorders, power quality recorders, substation time sources and synchrophasor devices are among those that have been added. The use of prefixes and suffixes to provide a more specific definition of a function is defined. Device contact designations are also covered.</abstract>
+  </front>
+</reference>

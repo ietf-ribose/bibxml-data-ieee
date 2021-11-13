@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE PC57-16/D-9" target="https://ieeexplore.ieee.org/document/5764893">
+  <front>
+    <title>IEEE Draft Standard Requirements, Terminology, and Test Code for Dry-Type Air-Core Series-Connected Reactors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764893"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Codes</keyword>
+    <keyword>Reactors</keyword>
+    <keyword>Power system management</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>air-core reactors</keyword>
+    <keyword>discharge current-limiting reactors</keyword>
+    <keyword>dry-type air-core reactors</keyword>
+    <keyword>dry-type reactors</keyword>
+    <keyword>filter reactors</keyword>
+    <keyword>harmonic filters</keyword>
+    <keyword>reactors</keyword>
+    <keyword>series capacitor bank applications</keyword>
+    <keyword>series-connected reactors</keyword>
+    <keyword>series reactor applications</keyword>
+    <keyword>shunt capacitor bank applications</keyword>
+    <keyword>shunt capacitor reactors</keyword>
+    <abstract>Series-Connected dry-type air-core single-phase and three-phase outdoor or indoor reactors of distribution and transmission voltage class that are connected in the power system to control power flow under steady-state conditions and/or limit fault current under short-circuit conditions are covered. Dry-Type air-core reactors covered by this standard are self-cooled by natural air convection. With some restrictions, other reactors, including filter reactors, shunt capacitor reactors (used with shunt capacitor banks), and discharge current limiting reactors (used with series capacitor banks), are also covered.</abstract>
+  </front>
+</reference>

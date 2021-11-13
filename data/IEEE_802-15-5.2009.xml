@@ -1,0 +1,48 @@
+<reference anchor="IEEE.IEEE 802-15-5.2009" target="https://ieeexplore.ieee.org/document/4922106">
+  <front>
+    <title>IEEE Recommended Practice for Information technology-- Telecommunications and information exchange between systems-- Local and metropolitan area networks-- Specific requirements Part 15.5: Mesh Topology Capability in Wireless Personal Area Networks (WPANs)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4922106"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="November" day="10"/>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>IEEE 802.15 Standard</keyword>
+    <keyword>Network topology</keyword>
+    <keyword>Topology</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>802.15.5-2009</keyword>
+    <keyword>address assignment</keyword>
+    <keyword>block addressing</keyword>
+    <keyword>broadcast</keyword>
+    <keyword>carrier sense multiple access/collision avoidance</keyword>
+    <keyword>high-rate WPAN mesh</keyword>
+    <keyword>HR-WPAN mesh</keyword>
+    <keyword>multicast</keyword>
+    <keyword>low-rate WPAN mesh</keyword>
+    <keyword>LR-WPAN mesh</keyword>
+    <keyword>mesh</keyword>
+    <keyword>mesh coordinator</keyword>
+    <keyword>server routing</keyword>
+    <keyword>wakeup interval</keyword>
+    <keyword>multiple hop</keyword>
+    <keyword>multi-hop</keyword>
+    <keyword>local link state</keyword>
+    <keyword>logical tree</keyword>
+    <keyword>portable</keyword>
+    <keyword>portability</keyword>
+    <keyword>power saving</keyword>
+    <keyword>reliable broadcast</keyword>
+    <keyword>sensor network</keyword>
+    <keyword>traceroute</keyword>
+    <keyword>unicast</keyword>
+    <keyword>wireless PAN</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>This IEEE recommended practice defines the architectural framework that enables WPAN devices to promote interoperable, stable, and scaleable wireless mesh topologies and, if needed, to provide the amendment text to the current WPAN standards that is required to implement this recommended practice.</abstract>
+  </front>
+</reference>

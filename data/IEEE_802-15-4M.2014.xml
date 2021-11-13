@@ -1,0 +1,40 @@
+<reference anchor="IEEE.IEEE 802-15-4m.2014" target="https://ieeexplore.ieee.org/document/6808387">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6808387"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="30"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>White space</keyword>
+    <keyword>TV</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>IEEE 802.15.4(TM)</keyword>
+    <keyword>IEEE 802.15.4m(TM)</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>TV white space</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>In this amendment to IEEE Std 802.15.4(TM)-2011, outdoor low-data-rate, wireless, television white space (TVWS) network requirements are addressed. Alternate physical layers (PHYs) are defined as well as only the medium access control (MAC) modifications needed to support their implementation.</abstract>
+  </front>
+</reference>

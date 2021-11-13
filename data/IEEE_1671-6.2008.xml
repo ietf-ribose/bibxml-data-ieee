@@ -1,0 +1,18 @@
+<reference anchor="IEEE.IEEE 1671-6.2008" target="https://ieeexplore.ieee.org/document/4723927">
+  <front>
+    <title>IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Information via XML: Exchanging Test Station Information</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4723927"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="April" day="1"/>
+    <keyword>1671.6-2008</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test equipment (ATE)</keyword>
+    <keyword>Automatic Test MarkupLanguage (ATML)</keyword>
+    <keyword>automatic test system (ATS)</keyword>
+    <keyword>test station</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>An exchange format, utilizing XML, for identifying all of the hardware, software, and documentation associated with a test station is specified in this document. This test station may be used as a component of a test program set to test and diagnose a unit under test.</abstract>
+  </front>
+</reference>

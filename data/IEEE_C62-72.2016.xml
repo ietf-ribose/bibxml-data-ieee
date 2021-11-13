@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE C62-72.2016" target="https://ieeexplore.ieee.org/document/7486935">
+  <front>
+    <title>IEEE Guide for the Application of Surge-Protective Devices for Use on the Load Side of Service Equipment in Low-Voltage (1000 V or Less, 50 Hz or 60 Hz) AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7486935"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="June" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Arresters</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Lightning</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>arrester</keyword>
+    <keyword>bonding</keyword>
+    <keyword>grounding</keyword>
+    <keyword>IEEE C62.72(TM)</keyword>
+    <keyword>internally generated surges</keyword>
+    <keyword>lightning</keyword>
+    <keyword>SPD</keyword>
+    <keyword>surge-protective device coordination</keyword>
+    <keyword>surge-protective device</keyword>
+    <keyword>switching</keyword>
+    <keyword>transient</keyword>
+    <keyword>transient voltage surge suppressor</keyword>
+    <abstract>Guidance is provided to specifiers, users and manufacturers of surge-protective devices (SPDs) about the application considerations of SPDs to power distribution systems and associated equipment. This guide applies to SPDs to be connected to the load side of the service equipment (and main over current protective device) of 50 Hz or 60 Hz ac power circuits rated 1000 V ac or less. Information on surge origins, effects of surges, number and magnitude of surge events, location categories, power distribution system (PDS) configurations, grounding and bonding, SPD specifications, SPD ratings, SPD characteristics, SPD lifetime, interactions of SPDs with a PDS, and SPD coordination considerations are provided in the guide.</abstract>
+  </front>
+</reference>

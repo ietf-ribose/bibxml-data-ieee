@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1AC-REV/D-3.0.2015-09" target="https://ieeexplore.ieee.org/document/7264955">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="September" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>IEEE 802</keyword>
+    <keyword>IEEE 802.1AC</keyword>
+    <keyword>Internal Sublayer Service</keyword>
+    <keyword>ISS</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <abstract>This standard defines the MAC Service and the Internal Sublayer Service (ISS). It specifies media-dependent convergence functions which map IEEE 802 MAC interfaces to the ISS. The MAC Service is derived from the ISS.</abstract>
+  </front>
+</reference>

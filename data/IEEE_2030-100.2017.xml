@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 2030-100.2017" target="https://ieeexplore.ieee.org/document/7953513">
+  <front>
+    <title>IEEE Recommended Practice for Implementing an IEC 61850-Based Substation Communications, Protection, Monitoring, and Control System</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7953513"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="June" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>Procurement</keyword>
+    <keyword>GOOSE</keyword>
+    <keyword>IEC 61850</keyword>
+    <keyword>IEEE 2030.100(TM)</keyword>
+    <keyword>MMS</keyword>
+    <keyword>sample values</keyword>
+    <keyword>substation automation</keyword>
+    <keyword>SV</keyword>
+    <abstract>The steps and procedures a user should undertake to implement an IEC 61850 substation in both a single and multi-vendor equipment environment are outlined in this recommended practice. Intelligent electronic device (IED) specification, procurement, configuration, and documentation to develop a general design philosophy that transforms the IEC 61850 standard are addressed in this recommended practice, using this as a practical working implementation guide. A general overview of an IEC 61850 implementation is given in this recommended practice. Future work may develop more detail behind the topics presented herein.</abstract>
+  </front>
+</reference>

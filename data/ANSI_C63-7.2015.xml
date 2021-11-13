@@ -1,0 +1,28 @@
+<reference anchor="IEEE.ANSI C63-7.2015" target="https://ieeexplore.ieee.org/document/7061382">
+  <front>
+    <title>American National Standard Guide for Construction of Test Sites for Performing Radiated Emission Measurements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7061382"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="March" day="16"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Construction</keyword>
+    <keyword>Test sites</keyword>
+    <keyword>Emissions</keyword>
+    <keyword>Radiation measurements</keyword>
+    <keyword>Anechoic chambers</keyword>
+    <keyword>ANSI C63.7</keyword>
+    <keyword>emission measurement</keyword>
+    <keyword>fully anechoic room</keyword>
+    <keyword>open-area test site</keyword>
+    <keyword>radiated emission measurement</keyword>
+    <keyword>semi-anechoic chamber</keyword>
+    <abstract>Information that is useful in constructing test sites used to perform radiated emission measurements in the frequency range of 30 MHz to 18 GHz is provided. Final validity of a test site can only be determined by performing normalized site attenuation and/or site voltage standing-wave ratio measurements as described in ANSI C63.4.</abstract>
+  </front>
+</reference>

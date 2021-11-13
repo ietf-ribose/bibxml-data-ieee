@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P1609-3v4/D-13.2020-09" target="https://ieeexplore.ieee.org/document/9286976">
+  <front>
+    <title>IEEE Approved Approved Draft Standard for Wireless Access in Vehicular Environments (WAVE) -- Networking Services</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="December" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless Access in Vehicle Environments</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Intelligent vehicles</keyword>
+    <keyword>Message service</keyword>
+    <keyword>IEEE 1609.3&amp;#8482;</keyword>
+    <keyword>Provider Service Identifier (PSID)</keyword>
+    <keyword>WAVE Service Advertisement (WSA)</keyword>
+    <keyword>WAVE Short Message (WSM)</keyword>
+    <keyword>Wireless Access in Vehicular Environments (WAVE)</keyword>
+    <abstract>Services to WAVE devices and systems are provided. Layer 3 and layer 4 of the open system interconnect (OSI) model and the Internet Protocol (IP), User Datagram Protocol (UDP), and Transmission Control Protocol (TCP) elements of the Internet model are represented. Management and data services within WAVE devices are provided.</abstract>
+  </front>
+</reference>

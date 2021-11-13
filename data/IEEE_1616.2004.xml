@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1616.2004" target="https://ieeexplore.ieee.org/document/1408446">
+  <front>
+    <title>IEEE Standard for Motor Vehicle Event Data Recorder (MVEDR)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95756"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="23"/>
+    <keyword>Accidents</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Injuries</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Crash data</keyword>
+    <keyword>event data recorder</keyword>
+    <keyword>motor vehicle</keyword>
+    <abstract>Motor Vehicle Event Data Recorders (MVEDRs) collect, record, store and export data related to motor vehicle pre-defined events. This standard defines a protocol for MVEDR output data compatibility and export protocols of MVEDR data elements. This standard does not prescribe which specific data elements shall be recorded, or how the data are to be collected, recorded and stored. It is applicable to event data recorders for all types of motor vehicles licensed to operate on public roadways, whether offered as original or aftermarket equipment, whether stand-alone or integrated within the vehicle.</abstract>
+  </front>
+</reference>

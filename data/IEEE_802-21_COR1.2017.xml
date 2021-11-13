@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 802-21/Cor1.2017" target="https://ieeexplore.ieee.org/document/8275476">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--Part 21: Media Independent Services Framework--Corrigendum 1: Clarification of Parameter Definition in Group Session Key Derivation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8275476"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="January" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Media</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>group</keyword>
+    <keyword>group session key</keyword>
+    <keyword>IEEE 802.21(TM)</keyword>
+    <keyword>master group key</keyword>
+    <keyword>media independent session key</keyword>
+    <abstract>This corrigendum provides technical and editorial corrections to IEEE Std 802.21-2017.</abstract>
+  </front>
+</reference>

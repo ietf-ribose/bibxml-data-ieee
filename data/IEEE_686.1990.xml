@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE 686.1990" target="https://ieeexplore.ieee.org/document/89707">
+  <front>
+    <title>IEEE Standard Radar Definitions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94604"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="30"/>
+    <keyword>Radar</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Radar</keyword>
+    <abstract>Definitions for the purpose of promoting clarity and consistency in the use of radar terminology are provided. The definitions represent the consensus of a panel of radar experts.</abstract>
+  </front>
+</reference>

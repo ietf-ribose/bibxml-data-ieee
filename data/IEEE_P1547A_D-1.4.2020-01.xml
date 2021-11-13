@@ -1,0 +1,47 @@
+<reference anchor="IEEE.IEEE P1547a/D-1.4.2020-01" target="https://ieeexplore.ieee.org/document/8959441">
+  <front>
+    <title>IEEE Approved Draft Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="January" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Certification</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Energy storage</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>Synchronous machines</keyword>
+    <keyword>Photovoltaics</keyword>
+    <keyword>Energy conversion</keyword>
+    <keyword>amendment</keyword>
+    <keyword>certification</keyword>
+    <keyword>clearing time</keyword>
+    <keyword>distributed energy resources</keyword>
+    <keyword>electric distribution systems</keyword>
+    <keyword>electric power systems</keyword>
+    <keyword>energy storage</keyword>
+    <keyword>grid support</keyword>
+    <keyword>IEEE 1547</keyword>
+    <keyword>IEEE 1547a</keyword>
+    <keyword>interconnection requirements and specifications</keyword>
+    <keyword>inverters</keyword>
+    <keyword>microturbines</keyword>
+    <keyword>performance</keyword>
+    <keyword>photovoltaic power systems</keyword>
+    <keyword>power converters</keyword>
+    <keyword>protection functions</keyword>
+    <keyword>public utility commissions</keyword>
+    <keyword>ranges of allowable settings</keyword>
+    <keyword>reclosing coordination</keyword>
+    <keyword>ride through</keyword>
+    <keyword>rule-making</keyword>
+    <keyword>standards</keyword>
+    <keyword>storage</keyword>
+    <keyword>synchronous machines</keyword>
+    <keyword>trip setting</keyword>
+    <keyword>utilities</keyword>
+    <keyword>wind energy systems</keyword>
+    <abstract>The performance and functional capability requirements for DER connected with the Area Electric Power Systems (Area EPS) are defined in IEEE Std 1547(TM). This amendment revises the ranges of allowable trip clearing time settings in Table 13 for DERs in abnormal operating performance category III to allow wider ranges that can broaden and simplify the adoption of the standard. In addition, the related informative Figure H.9 is revised accordingly.</abstract>
+  </front>
+</reference>

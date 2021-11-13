@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE P802-16m/D-9.2010-10" target="https://ieeexplore.ieee.org/document/5601941">
+  <front>
+    <title>IEEE Draft Amendment Standard for Local and Metropolitan Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Wireless communication</keyword>
+    <abstract>This standard amends the IEEE 802.16 WirelessMAN-OFDMA specification to provide an advanced air interface for operation in licensed bands. It meets the cellular layer requirements of IMT-Advanced next generation mobile networks. This amendment provides continuing support for legacy WirelessMAN-OFDMA equipment.</abstract>
+  </front>
+</reference>

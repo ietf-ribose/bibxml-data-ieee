@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 1450-3.2007" target="https://ieeexplore.ieee.org/document/4301375">
+  <front>
+    <title>IEEE Standard for Extensions to Standard Test Interface Language (STIL) (IEEE Std. 1450-1999) for Tester Target Specification</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4301375"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="February" day="3"/>
+    <keyword>Tester rules checking (TRC)</keyword>
+    <keyword>tester resource reporting</keyword>
+    <keyword>tester resource targeting</keyword>
+    <keyword>tester resource loading</keyword>
+    <abstract>The STIL environment supports transferring tester-independent test programs to a specific automated testing equipment (ATE) system. Although native STIL data are tester independent, the actual process of mapping the test program onto tester resources may be critical, and it is necessary to be able to completely and unambiguously specify how the STIL programs and patterns are mapped onto the tester resources. TRC (which stands for either tester resource constraints or tester rules checking, depending on the usage) is an extension to the STIL language to facilitate this operation.</abstract>
+  </front>
+</reference>

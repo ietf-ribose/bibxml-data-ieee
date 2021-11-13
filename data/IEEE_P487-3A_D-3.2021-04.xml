@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P487-3a/D-3.2021-04" target="https://ieeexplore.ieee.org/document/9535443">
+  <front>
+    <title>IEEE Draft Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locations Through the Use of Hybrid Facilities Amendment 1: Inclusion of a New Copper to Fiber Junction (CFJ) Powering Option</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="10"/>
+    <keyword>CFJ</keyword>
+    <keyword>copper-fiber junction</keyword>
+    <keyword>electric power stations</keyword>
+    <keyword>electric supply locations</keyword>
+    <keyword>electrical protection</keyword>
+    <keyword>fiber-optic systems</keyword>
+    <keyword>ground potential rise</keyword>
+    <keyword>high-voltage environment</keyword>
+    <keyword>IEEE 487.3</keyword>
+    <keyword>optical fiber systems.</keyword>
+    <abstract>Safe and reliable methods for the electrical protection of telecommunication facilities serving electric supply locations through the use of metallic wire-line components in part of the telecommunication circuit, and optical fiber systems in the remainder of the telecommunication circuit are presented in this standard. Hybrid applications have an equipment junction between the metallic wire-line and the optical fiber cable, i.e., a wire-line--fiber cable junction (CFJ).</abstract>
+  </front>
+</reference>

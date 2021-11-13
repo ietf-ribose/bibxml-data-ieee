@@ -1,0 +1,48 @@
+<reference anchor="IEEE.IEEE 1244-3.2000" target="https://ieeexplore.ieee.org/document/890179">
+  <front>
+    <title>IEEE Standard for Media Management System (MMS) Media Management Protocol (MMP)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.92291"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March" day="7"/>
+    <keyword>application independent</keyword>
+    <keyword>architecture</keyword>
+    <keyword>automated tape library</keyword>
+    <keyword>content neutral</keyword>
+    <keyword>data model</keyword>
+    <keyword>device manager</keyword>
+    <keyword>distributed</keyword>
+    <keyword>drive manager</keyword>
+    <keyword>fully scalable</keyword>
+    <keyword>heterogeneous environment</keyword>
+    <keyword>information access</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>interoperable</keyword>
+    <keyword>language neutral</keyword>
+    <keyword>library management</keyword>
+    <keyword>library manager</keyword>
+    <keyword>media management</keyword>
+    <keyword>media neutral</keyword>
+    <keyword>middleware</keyword>
+    <keyword>opensource</keyword>
+    <keyword>operating system independent</keyword>
+    <keyword>platform-independent</keyword>
+    <keyword>protocol based</keyword>
+    <keyword>removable media</keyword>
+    <keyword>robotic tape library</keyword>
+    <keyword>secure</keyword>
+    <keyword>software</keyword>
+    <keyword>storage</keyword>
+    <keyword>storage management</keyword>
+    <keyword>storage system</keyword>
+    <keyword>system architecture</keyword>
+    <abstract>All relevant behavior and states of the Media Management System (MMS) and the Media Manager (MM) from the time the MMS application successfully establishes a session with the MM, until the session is severed is described. This standard specifies the behavior of the MM itself in response to certain MMP commands and events that occur during the existence of the MM, including but not limited to booting the MM and the un-commanded exit of a MMS client.</abstract>
+  </front>
+</reference>

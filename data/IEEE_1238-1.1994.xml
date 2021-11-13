@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 1238-1.1994" target="https://ieeexplore.ieee.org/document/467445">
+  <front>
+    <title>IEEE Standard for Information Technology, OSI Application Program Interfaces--File Transfer, Access, and Management [C Language]</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122613"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="9"/>
+    <keyword>Access protocols</keyword>
+    <keyword>C language</keyword>
+    <keyword>Electronic data interchange</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>API</keyword>
+    <keyword>application layer</keyword>
+    <keyword>application portabil</keyword>
+    <keyword>C language</keyword>
+    <keyword>file transfer</keyword>
+    <keyword>FTAM</keyword>
+    <keyword>OM</keyword>
+    <keyword>open systems interconnection</keyword>
+    <keyword>OSI</keyword>
+    <keyword>OSI Abstract Data</keyword>
+    <abstract>Withdrawn Standard. Withdrawn Date: Mar 06, 2000. A C language Application Program Interface (API) to the OSI File Transfer, Access, and Management (FTAM) protocol is defined. The functions of the API implement high-level file transfer and file management operations using the service of an FTAM initiator and service provider that underlie the API. The API uses the services of the OSI Abstract Data Manipulation API (IEEE Std 122-1993) to facilitate passing of data between the API and the user.</abstract>
+  </front>
+</reference>

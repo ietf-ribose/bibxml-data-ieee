@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE P1184/D-21.2006" target="https://ieeexplore.ieee.org/document/4152618">
+  <front>
+    <title>IEEE Draft Guide for Batteries for Uninterruptible Power Supply Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="July" day="24"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Uninterruptible power systems</keyword>
+    <keyword>Lead acid batteries</keyword>
+    <keyword>Lead</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>battery system</keyword>
+    <keyword>Ni-Cd batteries (Ni-Cd)</keyword>
+    <keyword>uninterruptible power supply</keyword>
+    <keyword>UPS</keyword>
+    <keyword>valve-regulated leadacid (VRLA)</keyword>
+    <keyword>vented lead-acid batteries (VLA)</keyword>
+    <abstract>Various battery systems are discussed so that the user can make informed decisions on selection, installation design, installation, maintenance, and testing of stationary standby batteries used in uninterruptible power supply (UPS) systems. This guide describes how the UPS battery charging and converter components can relate to the selection of the battery systems. Design requirements of the UPS components are beyond the scope of this document. Battery back-up systems for dc-output rectifiers are also beyond the scope of this document.</abstract>
+  </front>
+</reference>

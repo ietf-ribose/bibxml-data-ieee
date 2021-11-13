@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE C37-100-1.2018" target="https://ieeexplore.ieee.org/document/8649794">
+  <front>
+    <title>IEEE Standard for Common Requirements for High-Voltage Power Switchgear Rated Above 1000 V</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8649794"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="February" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Testing</keyword>
+    <keyword>common</keyword>
+    <keyword>IEEE C37.100.1</keyword>
+    <keyword>rated</keyword>
+    <keyword>rating</keyword>
+    <keyword>requirement</keyword>
+    <keyword>specification</keyword>
+    <keyword>switch</keyword>
+    <keyword>switchgear</keyword>
+    <keyword>test</keyword>
+    <abstract>This standard applies to alternating current (ac) switchgear, designed for both indoor and outdoor installation and for operation at service frequencies up to and including 60 Hz on systems having voltages above 1000 V. This standard is applied in relevant equipment standards by a normative reference to this standard, IEEE Std C37.100.1, on a section or clause-by-clause basis. Annex A of this standard provides recommendations for its application. The inclusion of this standard as a normative reference shall not imply that all of the requirements contained herein apply as a default. In the absence of a normative reference, this standard shall be considered informative only. In case of a conflict in requirements, the requirements of the relevant equipment standard shall prevail.</abstract>
+  </front>
+</reference>

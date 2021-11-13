@@ -1,0 +1,37 @@
+<reference anchor="IEEE.IEEE P2030-5/D-1.2013-06" target="https://ieeexplore.ieee.org/document/6552205">
+  <front>
+    <title>IEEE Adoption of Smart Energy Profile 2.0 Application Protocol Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="July" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Smart grids</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>adoption</keyword>
+    <keyword>application</keyword>
+    <keyword>application protocol</keyword>
+    <keyword>demand response</keyword>
+    <keyword>distributed energyresources</keyword>
+    <keyword>energy usage information</keyword>
+    <keyword>IEEE 2030.5</keyword>
+    <keyword>load control</keyword>
+    <keyword>metering</keyword>
+    <keyword>plugin electricvehicles</keyword>
+    <keyword>prepayment</keyword>
+    <keyword>pricing communication</keyword>
+    <keyword>RESTful</keyword>
+    <keyword>SEP 2</keyword>
+    <keyword>smart energy</keyword>
+    <keyword>smart energy profile</keyword>
+    <keyword>Smart Energy Profile 2</keyword>
+    <abstract>The 'APPLICATION' layer with TCP/IP providing functions in the 'TRANSPORT' and 'INTERNET' layers is defined in this standard. Depending on the physical layer in use (e.g., IEEE 802.15.4(TM), IEEE 802.11(TM), IEEE 1901(TM)), a variety of lower layer protocols may be involved in providing a complete solution. Generally, lower layer protocols are not discussed in this standard except where there is a direct interaction with the application protocol. This standard defines the mechanisms for exchanging application messages, the exact messages exchanged including error messages, and the security features used to protect the application messages. With respect to the OSI network model, this standard is built using the four-layer Internet stack model. The defined application protocol is an IEC 61968 common information model [61968] profile, mapping directly where possible, and using subsets and extensions where needed, and follows an IETF RESTful architecture [REST].</abstract>
+  </front>
+</reference>

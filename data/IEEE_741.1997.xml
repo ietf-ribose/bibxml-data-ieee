@@ -1,0 +1,15 @@
+<reference anchor="IEEE.IEEE 741.1997" target="https://ieeexplore.ieee.org/document/8684611">
+  <front>
+    <title>IEEE Standard Criteria for the Protection of Class 1E Power Systems and Equipment in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684611"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>design requirements</keyword>
+    <keyword>nuclear power generating stations</keyword>
+    <keyword>surveillance</keyword>
+    <keyword>valve actuator motor</keyword>
+    <abstract>Superseded by IEEE Std 741-2007. This standard prescribes criteria that establish protection requirements for Class 1E power systems and equipment. It describes the purpose of and the means for obtaining protection from electrical and mechanical damage, or failures that can occur within a time period that is shorter than that required for operator action. It includes testing and surveillance requirements. It does not include plant physical design requirements to protect against events such as pipe whip, fire, dropped load, etc.</abstract>
+  </front>
+</reference>

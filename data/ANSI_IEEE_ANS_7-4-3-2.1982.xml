@@ -1,0 +1,18 @@
+<reference anchor="IEEE.ANSI/IEEE/ANS 7-4-3-2.1982" target="https://ieeexplore.ieee.org/document/591767">
+  <front>
+    <title>American National Standard Application Criteria for Programmable Digital Computer Systems in Safety Systems of Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.82416"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="February" day="8"/>
+    <keyword>7432</keyword>
+    <abstract>This standard establishes application criteria for programmable digital computer systems in safety systems of nuclear power generating stations. These criteria are established to provide a means for promoting safe practices for design and evaluation of safety system performance and reliability. However, adhering to these will not necessarily fully establish the adequacy of any safety system s functional performance and reliability; nonetheless, omission of any of these criteria will, in most instances, be an indication of safety system inadequacy. This standard does not provide specific requirements for preparation or content of software quality assurance plans.</abstract>
+  </front>
+</reference>

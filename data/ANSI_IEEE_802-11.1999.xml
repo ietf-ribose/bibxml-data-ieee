@@ -1,0 +1,17 @@
+<reference anchor="IEEE.ANSI/IEEE 802-11.1999" target="https://ieeexplore.ieee.org/document/8684613">
+  <front>
+    <title>Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.8684613"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <abstract>This standard is a revision of IEEE Std 802.11-1997. The Management Information Base according to OSI rules has been removed, many redundant management items have been removed, and Annex D has been completed with the Management Information Base according to SNMP. Minor changes have been made throughout the document.</abstract>
+  </front>
+</reference>

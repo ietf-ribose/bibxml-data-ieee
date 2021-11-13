@@ -1,0 +1,41 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-21-1.2018" target="https://ieeexplore.ieee.org/document/8374106">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8374106"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="June" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Home automation</keyword>
+    <keyword>Handover</keyword>
+    <keyword>Radio access networks</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>home energy management system</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.21(TM)</keyword>
+    <keyword>IEEE 802.21.1(TM)</keyword>
+    <keyword>media independent handover</keyword>
+    <keyword>media independent service</keyword>
+    <keyword>mobile node</keyword>
+    <keyword>mobility</keyword>
+    <keyword>network-assisted device-to-device communication</keyword>
+    <keyword>point of attachment</keyword>
+    <keyword>point of services</keyword>
+    <keyword>radio resource management</keyword>
+    <keyword>seamless</keyword>
+    <keyword>software-defined radio access network</keyword>
+    <keyword>use case</keyword>
+    <abstract>Several use cases and services are defined, namely, handover between heterogeneous networks, home energy management system, software-defined radio access networks (SDRANs), radio resource management (RRM), and device-to-device (D2D) communication service that need to be implemented in conjunction with the media independent services (MIS) framework as specified in IEEE Std 802.21(TM)-2017</abstract>
+  </front>
+</reference>

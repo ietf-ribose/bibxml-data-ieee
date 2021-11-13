@@ -1,0 +1,34 @@
+<reference anchor="IEEE.ISO/IEC 15068-2" target="https://ieeexplore.ieee.org/document/6334499">
+  <front>
+    <title>ISO/IEC 15068-2 : 1999 (IEEE 1387.2-1995), International Standard Information technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.6334499"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="October" day="18"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>Software development</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>data processing</keyword>
+    <keyword>open systems</keyword>
+    <keyword>operating system</keyword>
+    <keyword>packaging</keyword>
+    <keyword>portable application</keyword>
+    <keyword>POSIX</keyword>
+    <keyword>software</keyword>
+    <keyword>system administration</keyword>
+    <keyword>utilities</keyword>
+    <keyword>ISO/IEC 15068</keyword>
+    <keyword>ISO/IEC 15068-2</keyword>
+    <abstract>This standard is part of the POSIX series of standards for applications and user interfaces to open systems. It defines a software packaging layout, a set of information maintained about software, and a set of utility programs to manipulate that software and information.</abstract>
+  </front>
+</reference>

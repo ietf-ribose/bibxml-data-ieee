@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE PC63-16/D-4.0.2015-11" target="https://ieeexplore.ieee.org/document/7378265">
+  <front>
+    <title>Draft American National Standard Guide for Electrostatic Discharge Test Methodologies and Acceptance Criteria for Electronic Equipment</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="11"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Discharges (electric)</keyword>
+    <keyword>Electrostatic processes</keyword>
+    <keyword>Electrostatic devices</keyword>
+    <keyword>air discharge</keyword>
+    <keyword>contact discharge</keyword>
+    <keyword>coupling plane</keyword>
+    <keyword>direct discharge</keyword>
+    <keyword>electrostatic discharge (ESD)</keyword>
+    <keyword>ESD event</keyword>
+    <keyword>ESD immunity</keyword>
+    <keyword>ESD simulator</keyword>
+    <keyword>ESD test criteria</keyword>
+    <keyword>indirect discharge</keyword>
+    <abstract>This ANSI ESD guide provides expanded explanations, best practices, and guidance for avoiding the pitfalls associated with ESD testing to IEC and other international ESD standards and should be considered a supplement to these standards, rather than a replacement. It also includes unique ESD test procedures related to connecting charged peripherals to equipment in use.</abstract>
+  </front>
+</reference>

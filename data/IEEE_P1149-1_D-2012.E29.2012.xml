@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE P1149-1/D-2012.e29.2012" target="https://ieeexplore.ieee.org/document/6512524">
+  <front>
+    <title>IEEE Approved Draft Standard Test Access Port and Boundary Scan Architecture</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="May" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Boundary conditions</keyword>
+    <keyword>Hardware design languages</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Registers</keyword>
+    <keyword>boundary scan</keyword>
+    <keyword>boundary-scan architecture</keyword>
+    <keyword>Boundary-Scan Description Language</keyword>
+    <keyword>boundary-scan register</keyword>
+    <keyword>BSDL</keyword>
+    <keyword>circuit boards</keyword>
+    <keyword>circuitry</keyword>
+    <keyword>integrated circuit</keyword>
+    <keyword>printed circuit boards</keyword>
+    <keyword>TAP</keyword>
+    <keyword>test</keyword>
+    <keyword>test access port</keyword>
+    <keyword>Procedural Description Language</keyword>
+    <keyword>PDL</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>VHSIC Hardware Description Language</keyword>
+    <abstract>Circuitry that may be built into an integrated circuit to assist in the test, maintenance and support of assembled printed circuit boards and the test of internal circuits is defined. The circuitry includes a standard interface through which instructions and test data are communicated. A set of test features is defined, including a boundary-scan register, such that the component is able to respond to a minimum set of instructions designed to assist with testing of assembled printed circuit boards. Also, a language is defined that allows rigorous structural description of the component-specific aspects of such testability features, and a second language is defined that allows rigorous procedural description of how the testability features may be used.</abstract>
+  </front>
+</reference>

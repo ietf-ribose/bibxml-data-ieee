@@ -1,0 +1,30 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-1Q/Amd3.2020" target="https://ieeexplore.ieee.org/document/9546720">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9546720"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>amendment</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qcy&amp;#8482;</keyword>
+    <keyword>NVO3</keyword>
+    <keyword>VDP extension</keyword>
+    <keyword>VDP IP address extension</keyword>
+    <abstract>Extensions to the Virtual Station Interface (VSI) Discovery and Configuration Protocol (VDP) to support using the protocol between an end station and a device doing encapsulation/decapsulation for Network Virtualization Overlays Over Layer 3 (NVO3) are specified in this amendment to IEEE Std 802.1Q-2018. The extensions include adding format types [e.g., Internet Protocol (IP) addresses] and enhancing indication of migration events.</abstract>
+  </front>
+</reference>

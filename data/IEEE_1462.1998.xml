@@ -1,0 +1,17 @@
+<reference anchor="IEEE.IEEE 1462.1998" target="https://ieeexplore.ieee.org/document/809559">
+  <front>
+    <title>1462-1998 IEEE Adoption of ISO/IEC 14102:1995 Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.90587"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>CASE tools</keyword>
+    <keyword>computer-aided software engineering</keyword>
+    <keyword>computer applications</keyword>
+    <keyword>computersoftware</keyword>
+    <keyword>software engineering</keyword>
+    <abstract>This standard defines a process for evaluating and selecting a Computer Aided Software Engineering (CASE) tool for a software development or maintenance activity. The standard addresses the evaluation and selection of tools supporting software engineering processes including: project management processes, development processes, and integral processes. Project purpose: The primary users of ISO/IEC 14402 are organizations that intend to adopt CASE tools to support their software life cycle processes. CASE tool suppliers may also use 14402 to describe the characteristics of their CASE tools.</abstract>
+  </front>
+</reference>

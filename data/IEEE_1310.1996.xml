@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 1310.1996" target="https://ieeexplore.ieee.org/document/8684687">
+  <front>
+    <title>IEEE Recommended Practice for Thermal Cycle Testing of Form-Wound Stator Bars and Coils for Large Generators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684687"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>delamination</keyword>
+    <keyword>form wound stator bars</keyword>
+    <keyword>form wound stator coils</keyword>
+    <keyword>similiar design bar</keyword>
+    <keyword>slot section</keyword>
+    <keyword>virgin bar</keyword>
+    <keyword>virgin coil</keyword>
+    <keyword>thermal cycle testing</keyword>
+    <keyword>similiar design coil</keyword>
+    <abstract>A test method to determine the relative ablility of high-voltage, form-wound stator bars and coils of large rotating machines to resist deterioration due to rapid heating and cooling resulting from machine load cycling is described.</abstract>
+  </front>
+</reference>

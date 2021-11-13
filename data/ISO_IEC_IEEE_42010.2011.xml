@@ -1,0 +1,33 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 42010.2011" target="https://ieeexplore.ieee.org/document/6129467">
+  <front>
+    <title>ISO/IEC/IEEE Systems and software engineering -- Architecture description</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6129467"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September" day="19"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>architecting</keyword>
+    <keyword>architecture decision</keyword>
+    <keyword>architecture description</keyword>
+    <keyword>architecture description language</keyword>
+    <keyword>architecture framework</keyword>
+    <keyword>architecture model</keyword>
+    <keyword>architecture rationale</keyword>
+    <keyword>architecture view</keyword>
+    <keyword>architecture viewpoint</keyword>
+    <keyword>correspondence</keyword>
+    <keyword>correspondence rule</keyword>
+    <keyword>IEEE 42010</keyword>
+    <keyword>system concern</keyword>
+    <abstract>ISO/IEC/IEEE 42010:2011 addresses the creation, analysis and sustainment of architectures of systems through the use of architecture descriptions. A conceptual model of architecture description is established. The required contents of an architecture description are specified. Architecture viewpoints, architecture frameworks and architecture description languages are introduced for codifying conventions and common practices of architecture description. The required content of architecture viewpoints, architecture frameworks and architecture description languages is specified. Annexes provide the motivation and background for key concepts and terminology and examples of applying ISO/IEC/IEEE 42010:2011.</abstract>
+  </front>
+</reference>

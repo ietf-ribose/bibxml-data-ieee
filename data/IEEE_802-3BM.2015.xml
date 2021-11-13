@@ -1,0 +1,43 @@
+<reference anchor="IEEE.IEEE 802-3bm.2015" target="https://ieeexplore.ieee.org/document/7435210">
+  <front>
+    <title>IEEE Standard for Ethernet</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7435210"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>100 Gb/s Ethernet</keyword>
+    <keyword>100GBASE-ER4</keyword>
+    <keyword>100GBASE-LR4</keyword>
+    <keyword>100GBASE-SR10</keyword>
+    <keyword>100GBASE-SR4</keyword>
+    <keyword>40 Gb/s Ethernet</keyword>
+    <keyword>40GBASE-ER4</keyword>
+    <keyword>40GBASE-FR</keyword>
+    <keyword>40GBASE-LR4</keyword>
+    <keyword>40GBASE-SR4</keyword>
+    <keyword>amendment</keyword>
+    <keyword>CAUI-4</keyword>
+    <keyword>Energy Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>forward error correction (FEC)</keyword>
+    <keyword>IEEE 802.3(TM)</keyword>
+    <keyword>IEEE 802.3bm(TM)</keyword>
+    <keyword>MMF</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>SMF</keyword>
+    <abstract>Physical Layer specifications and management parameters for 40 Gb/s operation over single-mode fiber (40GBASE-ER4) and for 100 Gb/s operation over multimode fiber (100GBASE-SR4) are added by this amendment. This amendment also specifies a four-lane variant of the 100 Gigabit Attachment Unit Interface (CAUI-4) and optional Energy Efficient Ethernet (EEE) for 40 Gb/s and 100 Gb/s operation over fiber optic cables.</abstract>
+  </front>
+</reference>

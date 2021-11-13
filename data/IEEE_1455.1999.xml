@@ -1,0 +1,41 @@
+<reference anchor="IEEE.IEEE 1455.1999" target="https://ieeexplore.ieee.org/document/798779">
+  <front>
+    <title>IEEE Standard for Message Sets for Vehicle/Roadside Communications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90564"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="December" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Dedicated short range communication</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Transponders</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>access control</keyword>
+    <keyword>application layer</keyword>
+    <keyword>automatic vehicle identification</keyword>
+    <keyword>AVI</keyword>
+    <keyword>beacon</keyword>
+    <keyword>Commercial Vehicle Operations</keyword>
+    <keyword>CVO</keyword>
+    <keyword>data authentication</keyword>
+    <keyword>data privacy</keyword>
+    <keyword>data security</keyword>
+    <keyword>dedicated short-range communications</keyword>
+    <keyword>DSRC</keyword>
+    <keyword>electronic toll collection</keyword>
+    <keyword>ETC</keyword>
+    <keyword>Layer 7</keyword>
+    <keyword>Mailbox</keyword>
+    <keyword>reader</keyword>
+    <keyword>r</keyword>
+    <abstract>" Those characteristics of a dedicated short-range communications (DSRC) system thatare independent of the Physical and Data Link Layers (ISO model Layers 1 and 2) are specified.The required and optional features of the roadside equipment (RSE) and the onboard equipment(OBE) are specified. In addition, the Applications Layer (ISO model Layer 7) services and protocols,the RSE resource manager, the corresponding OBE command interpreter, and the application-spe-cific messages are all specified. Standard supports and guidelines are provided for implementingsecure DSRC systems. "</abstract>
+  </front>
+</reference>

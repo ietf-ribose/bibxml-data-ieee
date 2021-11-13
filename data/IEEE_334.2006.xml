@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE 334.2006" target="https://ieeexplore.ieee.org/document/4085386">
+  <front>
+    <title>IEEE Standard for Qualifying Continuous Duty Class 1E Motors for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.301348"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="22"/>
+    <keyword>age conditioning</keyword>
+    <keyword>age sensitive</keyword>
+    <keyword>aging</keyword>
+    <keyword>condition monitoring</keyword>
+    <keyword>design basis event</keyword>
+    <keyword>formette</keyword>
+    <keyword>harsh environment</keyword>
+    <keyword>insulation</keyword>
+    <keyword>insulation system</keyword>
+    <keyword>interfaces</keyword>
+    <keyword>margin</keyword>
+    <keyword>mild environment</keyword>
+    <keyword>motor</keyword>
+    <keyword>motor qualification</keyword>
+    <keyword>motorette</keyword>
+    <keyword>qualification</keyword>
+    <keyword>qualified life</keyword>
+    <keyword>radiation</keyword>
+    <keyword>safety-related function</keyword>
+    <keyword>significant aging mechanism</keyword>
+    <keyword>test plan</keyword>
+    <keyword>test sequence</keyword>
+    <keyword>type testing</keyword>
+    <abstract>It is required that Class 1E motors, with their interfaces, meet or exceed the specified performance requirements throughout their service life. This is accomplished through a program that includes, but is not limited to, design, qualification, production quality control, shipping, storage, installation, operation, maintenance, periodic testing, and surveillance. This standard addresses the qualification portion of the program. It discusses the requirement for maintenance, repair, and surveillance of motors to maintain qualification of motors throughout their installed life but does not provide detailed guidance about how these programmatic items must be implemented and maintained. The qualification requirements of this standard, when met, demonstrate and document the ability of the motor and/or insulation system to perform its safety function(s) under specified service conditions.</abstract>
+  </front>
+</reference>

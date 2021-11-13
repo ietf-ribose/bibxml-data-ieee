@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE P1310/D-4.2011" target="https://ieeexplore.ieee.org/document/6056523">
+  <front>
+    <title>IEEE Draft Recommended Practice for Thermal Cycle Testing of Form-Wound Stator Bars and Coils for Large Rotating Machines</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Stator windings</keyword>
+    <keyword>Delamination</keyword>
+    <keyword>Thermal management</keyword>
+    <keyword>Collants</keyword>
+    <keyword>thermal cycling</keyword>
+    <keyword>delamination</keyword>
+    <keyword>cyclic duty</keyword>
+    <keyword>peaking duty</keyword>
+    <keyword>groundwall degradation</keyword>
+    <keyword>indirectly cooled machines</keyword>
+    <keyword>stator winding</keyword>
+    <abstract>This procedure is intended for form-wound bars/coils for rotating machines rated 10 kV or more at 50 Hz or 60 Hz that are subjected to many transitions from no-load to full-load current during normal operations, and where rapid load variations are typical. Only the thermal cyclic degradation within the groundwall insulation and/or the conductor package and delamination of the groundwall insulation from the conductor are addressed by this test. The procedure is applicable to indirectly-cooled machine types such as: combustion turbine generators, pumped storage or peaking duty hydrogenerators, synchronous condensers, cyclic duty water pump motors. Various pass fail criteria are presented and the ones that apply in a specific circumstance must be agreed between user and manufacturer prior to commencement of testing.</abstract>
+  </front>
+</reference>

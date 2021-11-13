@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEC 62142.2005" target="https://ieeexplore.ieee.org/document/8894283">
+  <front>
+    <title>IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.8894283"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="November" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Verilog</keyword>
+    <keyword>Hardware description language</keyword>
+    <keyword>hardware description language</keyword>
+    <keyword>HDL</keyword>
+    <keyword>RTL</keyword>
+    <keyword>synthesis</keyword>
+    <keyword>Verilog&amp;#174;</keyword>
+    <abstract>Replaces IEEE Std 1364.1-2002. To develop a standard syntax and semantics for Verilog RTL synthesis. This standard shall define the subset of IEEE 1364 (Verilog HDL) which is suitable for RTL synthesis and shall define the semantics of that subset for the synthesis domain. This standard shall be based on the current existing standard IEEE 1364.</abstract>
+  </front>
+</reference>

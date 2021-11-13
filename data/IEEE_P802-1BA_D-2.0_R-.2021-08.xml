@@ -1,0 +1,38 @@
+<reference anchor="IEEE.IEEE P802-1BA/D-2.0/R-.2021-08" target="https://ieeexplore.ieee.org/document/9526573">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Audio Video Bridging (AVB) Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="August" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Sensitivity analysis</keyword>
+    <keyword>Timing</keyword>
+    <keyword>Audio systems</keyword>
+    <keyword>Video coding</keyword>
+    <keyword>audio video bridging</keyword>
+    <keyword>AVB</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802.1BA</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>time-sensitive data streams</keyword>
+    <keyword>time-sensitive networking</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <abstract>Profiles that select features, options, configurations, defaults, protocols and procedures of bridges, stations and LANs that are necessary to build networks that are capable of transporting time-sensitive audio and/or video data streams are defined in this standard.</abstract>
+  </front>
+</reference>

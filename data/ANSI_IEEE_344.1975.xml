@@ -1,0 +1,27 @@
+<reference anchor="IEEE.ANSI/IEEE 344.1975" target="https://ieeexplore.ieee.org/document/6634497">
+  <front>
+    <title>IEEE Recommended Practices for Seismic Qualification of Class 1E Equipment for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.6634497"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Electric equipment</keyword>
+    <keyword>Seismic measurements</keyword>
+    <keyword>Earthquakes</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>safe shutdown earthquake</keyword>
+    <keyword>operating basis earthquakes</keyword>
+    <keyword>OBE</keyword>
+    <keyword>SSE</keyword>
+    <keyword>performance requirements</keyword>
+    <abstract>These recommended practices provide direction for establishing procedures that will yield data which verify that the class 1E equipment can meet its performance requirements during and following on SSE (safe shutdown earthquake) preceded by a number of OBEs (operating basis earthquakes). This document maybe used by equipment manufactures to establish procedures that will yield data to substantiate performance claims or by equipment users to evaluate and verify performance of representative devices and assemblies as part of an overall qualification effort.</abstract>
+  </front>
+</reference>

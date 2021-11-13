@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 1609-3/Cor1.2012" target="https://ieeexplore.ieee.org/document/6239546">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE)--Networking Services Corrigendum 1: Miscellaneous Corrections</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6239546"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="July" day="13"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Three dimensional displays</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Intelligent vehicles</keyword>
+    <keyword>Vehicles</keyword>
+    <keyword>Mobile radio mobility management</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>3D location</keyword>
+    <keyword>EDCA</keyword>
+    <keyword>Gateway MAC Address</keyword>
+    <keyword>IEEE 1609.3</keyword>
+    <keyword>WAVE Routing Advertisement</keyword>
+    <keyword>WAVE Service Advertisement</keyword>
+    <abstract>Several errors in IEEE Std 1609.3-2010 related to Gateway MAC Address, EDCA Parameter Set, and 3DLocationAndConfidence fields are addressed in this corrigendum.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P278/D-1.2021" target="https://ieeexplore.ieee.org/document/9586464">
+  <front>
+    <title>IEEE Draft Guide for Load Modeling and Simulations for Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="October" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Microgrids</keyword>
+    <keyword>Load modeling</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power system simulation</keyword>
+    <keyword>load modeling</keyword>
+    <keyword>power system simulations</keyword>
+    <keyword>static load model</keyword>
+    <keyword>dynamic load model</keyword>
+    <keyword>component based approach</keyword>
+    <keyword>measurement-based approach</keyword>
+    <keyword>Active Distribution Network</keyword>
+    <keyword>Micro Grids</keyword>
+    <keyword>simulation</keyword>
+    <abstract>Load modeling plays a very important role in power system modeling, and the load model is an indispensable component in power system simulation. To get accurate load models and formulate a unified document, this standard is developed to provide comprehensive policies and procedures of load modeling and simulations. A review and comparison of two existing most widely used methodologies for load modeling is presented in this document, that is, the measurement-based and component-based approach. A critical and updated overview of opportunities and challenges of load modelling with emerging networks and components is also provided. The guidelines for power system simulation with a variety of load models are proposed. A case study adhering to the proposed guidelines clearly indicates the need for a hybrid approach in the future that will combine strengths of measurement-based and component-based approaches with data acquisition capabilities offered by modern measurement equipment.</abstract>
+  </front>
+</reference>

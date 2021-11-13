@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 844.2000" target="https://ieeexplore.ieee.org/document/880572">
+  <front>
+    <title>IEEE Recommended Practice for Electrical Impedance, Induction, and Skin Effect Heating of Pipelines and Vessels</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91950"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="April" day="27"/>
+    <keyword>heating systems</keyword>
+    <keyword>impedance heating</keyword>
+    <keyword>induction heating</keyword>
+    <keyword>process heating</keyword>
+    <keyword>skin-effect heating</keyword>
+    <keyword>thermal insulation</keyword>
+    <abstract>Recommended practices are provided for the design, installation, testing, operation, and maintenance of impedance, induction, and skin-effect heating systems. Thermal insulation and control and monitoring are addressed. General considerations for heating systems are discussed, covering selection criteria, design guidelines and considerations, power systems, receiving and storage, installation, testing, operations, and maintenance. These aspects are then discussed for each of the above types of systems, along with special considerations particular to each. These recommended practices are intended to apply to the use of these heating systems in general industry.</abstract>
+  </front>
+</reference>

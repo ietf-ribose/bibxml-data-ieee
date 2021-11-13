@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 1609-2.2016 Redline" target="https://ieeexplore.ieee.org/document/7544433">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments--Security Services for Applications and Management Messages</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="August" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Cryptography</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <keyword>Intelligent vehicles</keyword>
+    <keyword>cryptography</keyword>
+    <keyword>IEEE 1609.2(TM)</keyword>
+    <keyword>security</keyword>
+    <keyword>wireless access in vehicular environments (WAVE)</keyword>
+    <abstract>This standard defines secure message formats and processing for use by Wireless Access in Vehicular Environments (WAVE) devices, including methods to secure WAVE management messages and methods to secure application messages. It also describes administrative functions necessary to support the core security functions.</abstract>
+  </front>
+</reference>

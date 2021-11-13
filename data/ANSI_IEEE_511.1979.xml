@@ -1,0 +1,23 @@
+<reference anchor="IEEE.ANSI/IEEE 511.1979" target="https://ieeexplore.ieee.org/document/19501">
+  <front>
+    <title>IEEE Standard on Video Signal Transmission Measurement of Linear Waveform Distortion</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120303"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="4"/>
+    <keyword>Measurement standards</keyword>
+    <keyword>video</keyword>
+    <keyword>signal</keyword>
+    <keyword>transmission</keyword>
+    <keyword>waveform</keyword>
+    <keyword>distortion</keyword>
+    <abstract>This standard describes methods for measuring the linear waveform distortions of TV video signals, that is, distortions which are caused by amplitude-independent (linear) transmission characteristics of television equipment and facilities. The primary application of this standard is for routine operational and maintenance tests, where rapid interpretation of test results is desirable. The techniques described here may also be applicable to laboratory measurements, and detailed mainteance procedures.</abstract>
+  </front>
+</reference>

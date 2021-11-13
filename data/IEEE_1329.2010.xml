@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1329.2010" target="https://ieeexplore.ieee.org/document/5604606">
+  <front>
+    <title>IEEE Standard Method for Measuring Transmission Performance of Speakerphones</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5604606"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="13"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Speaker recognition</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Telephone equipment</keyword>
+    <keyword>Transmission lines</keyword>
+    <keyword>full duplex</keyword>
+    <keyword>half duplex</keyword>
+    <keyword>handsfree</keyword>
+    <keyword>speakerphone</keyword>
+    <keyword>voice switching</keyword>
+    <abstract>This standard provides techniques for objective measurement of electroacoustic and voice-switching characteristics of speakerphones that connect directly or indirectly to an analog or digital telephone network. Due to the various characteristics of speakerphones and the environments in which they operate, not all of the test procedures in this standard are applicable to all speakerphones. Application of the test procedures to atypical speakerphones should be determined on an individual basis.</abstract>
+  </front>
+</reference>

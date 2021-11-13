@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE C37-95.2002" target="https://ieeexplore.ieee.org/document/1195710">
+  <front>
+    <title>IEEE Guide for Protective Relaying of Utility-Consumer Interconnections</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94248"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="30"/>
+    <keyword>Protective relaying</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>backup protection</keyword>
+    <keyword>breaker-failure relaying</keyword>
+    <keyword>bus protection</keyword>
+    <keyword>electric service</keyword>
+    <keyword>non-utility generation</keyword>
+    <keyword>protective relays</keyword>
+    <keyword>transformer protection</keyword>
+    <keyword>utility-consumer interconnection</keyword>
+    <abstract>Protective relay applications involving electric service to consumers that requires a transformation between the utilitys supply voltage and the consumers utilization voltage are covered in this guide. This guide describes the factors that need to be considered in the design of adequate protection facilities, outlines modern relay practices, and provides several examples of the protection of typical utility-consumer interconnections.</abstract>
+  </front>
+</reference>

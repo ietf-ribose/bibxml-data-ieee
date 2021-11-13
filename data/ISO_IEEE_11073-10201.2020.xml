@@ -1,0 +1,39 @@
+<reference anchor="IEEE.ISO/IEEE 11073-10201.2020" target="https://ieeexplore.ieee.org/document/9102466">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9102466"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Point of care</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>abstract syntax</keyword>
+    <keyword>alarm</keyword>
+    <keyword>alert</keyword>
+    <keyword>ASN.1</keyword>
+    <keyword>DIM</keyword>
+    <keyword>domain information model</keyword>
+    <keyword>IEEE 11073-10201</keyword>
+    <keyword>information model</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>medical information bus</keyword>
+    <keyword>MIB</keyword>
+    <keyword>object-oriented</keyword>
+    <keyword>patient</keyword>
+    <keyword>POC</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>remote control</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care medical device communication, an abstract, object-oriented domain information model that specifies the structure of exchanged information, as well as the vents and services that are supported by each type of object, is provided in this standard. All data structure elements are specified using abstract syntax (ASN.1) and may be applied to many different implementation technologies, transfer syntaxes, and application service models. Core subjects include medical, alert, system, patient, control, archival, communication, and extended services. Model extensibility is supported, and a conformance model and statement template is provided.</abstract>
+  </front>
+</reference>

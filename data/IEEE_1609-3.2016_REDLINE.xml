@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1609-3.2016 Redline" target="https://ieeexplore.ieee.org/document/7873213">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) -- Networking Services</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <keyword>Provide Service Identifiers</keyword>
+    <keyword>Short message services</keyword>
+    <keyword>Vehicular ad hoc networks</keyword>
+    <keyword>IEEE 1609.3(TM)</keyword>
+    <keyword>Provider Service Identifier (PSID)</keyword>
+    <keyword>WAVE Service Advertisement (WSA)</keyword>
+    <keyword>WAVE Short Message (WSM)</keyword>
+    <keyword>Wireless Access in Vehicular Environments (WAVE)</keyword>
+    <abstract>Services to WAVE devices and systems are provided in IEEE Std 1609.3(TM), IEEE Standard for Wireless Access in Vehicular Environments (WAVE)—Networking Services. Layer 3 and layer 4 of the open system interconnect (OSI) model and the Internet Protocol (IP), User Datagram Protocol (UDP), and Transmission Control Protocol (TCP) elements of the Internet model are represented. Management and data services within WAVE devices are provided.</abstract>
+  </front>
+</reference>

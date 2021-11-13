@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 1031.2000" target="https://ieeexplore.ieee.org/document/1277892">
+  <front>
+    <title>IEEE Guide for the Functional Specification of Transmission Static Var Compensators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.94439"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Static VAr compensators</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Thyristors</keyword>
+    <keyword>Valves</keyword>
+    <keyword>filters</keyword>
+    <keyword>harmonics</keyword>
+    <keyword>static var compensators</keyword>
+    <keyword>static var system</keyword>
+    <keyword>TCR</keyword>
+    <keyword>thyristor valves</keyword>
+    <keyword>TSC</keyword>
+    <keyword>TSR</keyword>
+    <abstract>This guide documents an approach to preparing a specification for a transmission static var compensator. The document is intended to serve as a base specification with an informative annex provided to allow users to modify or develop specific clauses to meet a particular application.</abstract>
+  </front>
+</reference>

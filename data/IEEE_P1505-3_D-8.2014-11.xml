@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE P1505-3/D-8.2014-11" target="https://ieeexplore.ieee.org/document/6974964">
+  <front>
+    <title>IEEE Draft Standard for the Universal Test Interface Framework and Pin Configuration for Portable/Bench Top Test Requirements Utilizing IEEE 1505 Receiver Fixture Interface Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Receiverfs</keyword>
+    <keyword>Bench top testing</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Scalability</keyword>
+    <keyword>ATE</keyword>
+    <keyword>ATS</keyword>
+    <keyword>TPS</keyword>
+    <keyword>UUT</keyword>
+    <keyword>Interface</keyword>
+    <keyword>Scalable</keyword>
+    <keyword>Receiver</keyword>
+    <keyword>Fixture</keyword>
+    <keyword>ITA</keyword>
+    <keyword>ICD</keyword>
+    <keyword>Mass Termination.</keyword>
+    <abstract>This document, the Standard for the Universal Test Interface Pin Map Configuration for portable and bench top test requirements utilizing IEEE Std 1505 represents an extension to the IEEE-1505 Receiver Fixture Interface (RFI) Standard Specifications1.Particular emphasis is placed on defining within the IEEE-P1505 RFI Standard a more specific set of performance requirements that employ a universal test interface: (a) pin map configuration;(b) specific connector modules; (c) respective contacts; and (d) recommended switching implementation. This is intentionally done to standardize the footprint and validate mechanical and electrical interoperability between Automatic Test Systems (ATS).</abstract>
+  </front>
+</reference>

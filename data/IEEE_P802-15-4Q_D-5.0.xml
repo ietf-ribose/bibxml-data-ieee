@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE P802-15-4q/D-5.0" target="https://ieeexplore.ieee.org/document/7138555">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment for an Ultra Low Power Physical Layer</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="June" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolita area networks</keyword>
+    <keyword>Wireless personal area networks</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>Radio frequency</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>PAN</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>ultra-low power</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>PHY</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <abstract>This amendment specifies two alternate PHYs, TASK and RS-GFSK, in addition to those of IEEE Std 802.15.4-2011. The amendment also defines those MAC modifications needed to support their implementation. The alternate PHYs enable low cost, ultra-low power consumption, and extended battery life, in various frequency bands and geographical regions under multiple regulatory domains.</abstract>
+  </front>
+</reference>

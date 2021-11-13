@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE C62-35" target="https://ieeexplore.ieee.org/document/5567080">
+  <front>
+    <title>IEEE Standard Test Methods for Avalanche Junction Semiconductor Surge-Protective Device Components</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5567080"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Semiconductor diodes</keyword>
+    <keyword>Junctions</keyword>
+    <keyword>Avalanche breakdown</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>avalanche breakdown diode</keyword>
+    <keyword>avalanche junction semiconductor</keyword>
+    <keyword>breakdown voltage</keyword>
+    <keyword>clamping communication circuits</keyword>
+    <keyword>impulse</keyword>
+    <keyword>limiting</keyword>
+    <keyword>power circuits</keyword>
+    <keyword>silicon avalanche diode (SAD)</keyword>
+    <keyword>surge</keyword>
+    <keyword>surge-protective device (SPD)</keyword>
+    <keyword>surge protector</keyword>
+    <keyword>stand-by current</keyword>
+    <keyword>transient voltage suppressor (TVS)</keyword>
+    <keyword>zener</keyword>
+    <abstract>Avalanche breakdown diodes used for surge protection in systems with voltages equal to or less than 1000 V rms or 1200 V dc are discussed in this standard. The avalanche breakdown diode surge suppressor is a semiconductor diode which can operate in either the forward or reverse direction of its V-l characteristic. This component is a single package, which may be assembled from any combination of series and/or parallel diode chips. This standard contains definitions, service conditions, and a series of test criteria for determining the electrical characteristics and verifying ratings of these avalanche breakdown diodes. If the characteristics differ with the direction of conduction, then each direction of conduction shall be separately specified.</abstract>
+  </front>
+</reference>

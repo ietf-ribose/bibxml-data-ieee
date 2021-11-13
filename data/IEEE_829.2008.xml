@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 829.2008" target="https://ieeexplore.ieee.org/document/4578383">
+  <front>
+    <title>IEEE Standard for Software and System Test Documentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4578383"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software</keyword>
+    <keyword>Documentation</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Task analysis</keyword>
+    <keyword>829-2008</keyword>
+    <keyword>integrity level</keyword>
+    <keyword>life cycle</keyword>
+    <keyword>test documentation</keyword>
+    <keyword>testing</keyword>
+    <abstract>Test processes determine whether the development products of a given activity conform to the requirements of that activity and whether the system and/or software satisfies its intended use and user needs. Testing process tasks are specified for different integrity levels. These process tasks determine the appropriate breadth and depth of test documentation. The documentation elements for each type of test documentation can then be selected. The scope of testing encompasses software-based systems, computer software, hardware, and their interfaces. This standard applies to software-based systems being developed, maintained, or reused (legacy, commercial off-the-shelf, Non-Developmental Items). The term "software" also includes firmware, microcode, and documentation. Test processes can include inspection, analysis, demonstration, verification, and validation of software and software-based system products.</abstract>
+  </front>
+</reference>

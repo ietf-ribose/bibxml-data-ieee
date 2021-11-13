@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE P2861/D-1.2021-04" target="https://ieeexplore.ieee.org/document/9520862">
+  <front>
+    <title>IEEE Draft Standard for Mobile Gaming Performance Evaluation and Optimization</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="August" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Mobile communications</keyword>
+    <keyword>Games</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Optimization</keyword>
+    <keyword>mobile gaming</keyword>
+    <keyword>performance</keyword>
+    <keyword>optimize</keyword>
+    <abstract>This standard is to improve the user experience of mobile gaming by solving the issues between the high demands from game applications and the resource limitation of mobile device. Message exchange is critical to coordinate the resource allocation and to optimize the performance of gaming, that ensure fluent user experiences in games. Additionally, this standard specifies evaluation methods and criteria that enables the control and optimization.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IEEE.AIEE 51.1949" target="https://ieeexplore.ieee.org/document/7426301">
+  <front>
+    <title>AIEE Report on Guiding Principles for Dielectric Tests</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1949.7426301"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="4"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Dielectrics</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Electrical equipment</keyword>
+    <abstract>This report deals with dielectric tests on completed apparatus. Tests on materials and on components during the course of fabrication usually are left to the discretion of the manufacturer and are not a subject foe standardization except as to method and technique. Impulse test values where specified in standards are based on the Basic Impulse Levels and thus are consistent for different equipment. Impulse test conditions and technique are outside the scope. Hence, this report deals mostly with conditions and test values associated with low-frequency dielectric tests.</abstract>
+  </front>
+</reference>

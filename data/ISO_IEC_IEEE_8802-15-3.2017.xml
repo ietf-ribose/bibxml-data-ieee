@@ -1,0 +1,30 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-15-3.2017" target="https://ieeexplore.ieee.org/document/8323445">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8323445"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="March" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Ad hoc networks</keyword>
+    <keyword>Radio frequency</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Millimeter wave technology</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>IEEE 802.15.3(TM)</keyword>
+    <keyword>mobility</keyword>
+    <keyword>mm-wave</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>wireless</keyword>
+    <abstract>The protocol and compatible interconnection of data and multimedia communication equipment via 2.4 GHz and 60 GHz radio transmissions in a Wireless Personal Area Network (WPAN) using low power and multiple modulation formats to support scalable data rates is defined in this standard. The Medium Access Control (MAC) sublayer protocol supports both isochronous and asynchronous data types.</abstract>
+  </front>
+</reference>

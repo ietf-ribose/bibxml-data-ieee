@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE Approved P802-16-1b/D-5.2012-07" target="https://ieeexplore.ieee.org/document/6293832">
+  <front>
+    <title>IEEE Approved Draft Standard for WirelessMAN-Advanced Air Interface for Broadband Wireless Access Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="August" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Metrpolitan area networks</keyword>
+    <keyword>Interface states</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Machine intelligence</keyword>
+    <abstract>This amendment specifies medium access control (MAC) enhancements and minimal WirelessMAN-Advanced physical layer (PHY) modifications in licensed bands to support lower power consumption at the device, support by the base station of significantly larger numbers of devices, efficient support for small burst transmissions, and improved device authentication.</abstract>
+  </front>
+</reference>

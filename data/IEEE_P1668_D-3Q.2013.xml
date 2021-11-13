@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE P1668/D-3Q.2013" target="https://ieeexplore.ieee.org/document/6519253">
+  <front>
+    <title>IEEE Draft Recommended Practice for Voltage Sag and Interruption Ride-Through Testing for End Use Electrical Equipment Less than 1,000 Volts</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Power system quality</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Power system restoration</keyword>
+    <keyword>IEEE 1668TM</keyword>
+    <keyword>Power quality</keyword>
+    <keyword>voltage sag</keyword>
+    <keyword>voltage dip</keyword>
+    <keyword>equipment testing</keyword>
+    <keyword>ride through</keyword>
+    <keyword>immunity</keyword>
+    <keyword>voltage-sag characteristics</keyword>
+    <abstract>IEEE P1668 is a non-industry-specific trial use recommended practice for voltage sag and short interruption ride-through performance and compliance testing for all electrical and electronic equipment connected to low-voltage power systems that can experience malfunction or shutdown as a result of reductions in supply voltage lasting less than one minute. Testing procedures and requirements for test equipment are clearly defined within this document to reflect this electrical environment, including single-phase, two-phase, and three-phase balanced and unbalanced voltage sags. The recommended practice also defines requirements for certification and test reporting, including characterization of voltage-sag ride-through equipment.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,49 @@
+<reference anchor="IEEE.IEEE 389.1990" target="https://ieeexplore.ieee.org/document/89676">
+  <front>
+    <title>IEEE Recommended Practice for Testing Electronic Transformers and Inductors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94593"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Inductors</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>common mode</keyword>
+    <keyword>rejection tests</keyword>
+    <keyword>corona tests</keyword>
+    <keyword>current transformer</keyword>
+    <keyword>electronic inductors</keyword>
+    <keyword>power transformers</keyword>
+    <keyword>inductance</keyword>
+    <keyword>inrush current</keyword>
+    <keyword>insulation tests</keyword>
+    <keyword>large rectifiers</keyword>
+    <keyword>noise tests</keyword>
+    <keyword>product rating</keyword>
+    <keyword>pulse transformers</keyword>
+    <keyword>quality factors</keyword>
+    <keyword>resistance tests</keyword>
+    <keyword>self resonance</keyword>
+    <keyword>temperature rise</keyword>
+    <keyword>terminated rise test</keyword>
+    <keyword>voltage time</keyword>
+    <keyword>time shielding</keyword>
+    <keyword>Voltage-time shielding</keyword>
+    <keyword>Transformer capacitance</keyword>
+    <keyword>Temperature rise tests</keyword>
+    <keyword>Self-resonance</keyword>
+    <keyword>Quality factor</keyword>
+    <keyword>Inductance measurements</keyword>
+    <keyword>Electronic power transformers</keyword>
+    <keyword>Current transformer tests</keyword>
+    <keyword>Common-mode rejection tests</keyword>
+    <abstract>A number of tests are presented for use in determining the significant parameters and performance characteristics of electronics transformers and inductors. These tests are designed primarily for transformers and inductors used in all types of electronics applications, but they may apply to the other types of transformers of large apparent-power rating used in the electric power utility industry. Some of the tests are intended for qualifying a product for a specific application, while others are test practices used widely for manufacturing and customer acceptance testing. A guide for particular application categories is included.</abstract>
+  </front>
+</reference>

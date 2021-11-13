@@ -1,0 +1,38 @@
+<reference anchor="IEEE.IEEE 605.2008" target="https://ieeexplore.ieee.org/document/6581801">
+  <front>
+    <title>IEEE Guide for Bus Design in Air Insulated Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.6581801"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Finite element methods</keyword>
+    <keyword>Corona</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Short circuits</keyword>
+    <keyword>Ampacity</keyword>
+    <keyword>Ice</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>ampacity</keyword>
+    <keyword>bus support</keyword>
+    <keyword>corona</keyword>
+    <keyword>electromagnetic</keyword>
+    <keyword>finite-element</keyword>
+    <keyword>forces</keyword>
+    <keyword>ice</keyword>
+    <keyword>mounting structure</keyword>
+    <keyword>rigid bus structures</keyword>
+    <keyword>short circuit</keyword>
+    <keyword>strain-bus structures</keyword>
+    <keyword>substation design</keyword>
+    <keyword>wind</keyword>
+    <abstract>A proper design of the substation bus ensures a safe and reliable operation of the substation and the power system. Two different types of buses are used in substations, the rigid bus and the strain (cable). This guide provides information on the different bus arrangements used in substations stating the advantages and disadvantages of each. Also it provides information as related to each bus type and construction. Once the bus type is selected, this guide provides the calculation tools for each bus type. Based on these calculations, the engineer can specify the bus size, forces acting on the bus structure, number of mounting structures required, and hardware requirements.</abstract>
+  </front>
+</reference>

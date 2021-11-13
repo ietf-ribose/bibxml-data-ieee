@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEC 62539" target="https://ieeexplore.ieee.org/document/4288250">
+  <front>
+    <title>IEC/IEEE Guide for the Statistical Analysis of Electrical Insulation Breakdown Data  (Adoption of IEEE Std 930-2004)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4288250"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Electric breakdown</keyword>
+    <keyword>Breakdown voltage</keyword>
+    <keyword>Statistical analysis</keyword>
+    <keyword>Insulators</keyword>
+    <keyword>Solids</keyword>
+    <abstract>This guide describes, with examples, statistical methods to analyze times to break down and breakdown voltage data obtained from electrical testing of solid insulating materials, for purposes including characterization of the system, comparison with another insulator system, and prediction of the probability of breakdown at given times or voltages.</abstract>
+  </front>
+</reference>

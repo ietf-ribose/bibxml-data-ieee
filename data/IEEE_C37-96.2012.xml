@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE C37-96.2012" target="https://ieeexplore.ieee.org/document/6468048">
+  <front>
+    <title>IEEE Guide for AC Motor Protection</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6468048"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>AC motors</keyword>
+    <keyword>Rotors</keyword>
+    <keyword>Variable speed drives</keyword>
+    <keyword>Synchronous motors</keyword>
+    <keyword>Protection</keyword>
+    <keyword>ac motor protection</keyword>
+    <keyword>adjustable-speed drive motor protection</keyword>
+    <keyword>IEEE C37.96</keyword>
+    <keyword>induction motor protection</keyword>
+    <keyword>microprocessor-based motor protection</keyword>
+    <keyword>motor</keyword>
+    <keyword>motor bus transfer</keyword>
+    <keyword>rotating machinery protection</keyword>
+    <keyword>synchronous motor protection</keyword>
+    <keyword>wound rotor motor protection</keyword>
+    <abstract>Generally accepted methods of protection for ac motors are provided. The functions necessary for adequate protection of motors based on type, size, and application are identified and summarized. The protective requirements of all motors in every situation is not purported to be detailed in this guide.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IEEE.IEEE 1003-1d.1999" target="https://ieeexplore.ieee.org/document/846694">
+  <front>
+    <title>IEEE Standard for Information Technology-Portable Operating System Interface (POSIX)-Part 1: System Application Program Interface (API)- Amendment D: Additional Real time Extensions [C Language]</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.91515"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard is part of the POSIX series of standards for applications and user inter-faces to open systems. It defines the applications interface to system services for spawning a process, timeouts for blocking services, sporadic server scheduling, execution time clocks and timers, and advisory information for file management. This standard is stated in terms of its C binding.</abstract>
+  </front>
+</reference>

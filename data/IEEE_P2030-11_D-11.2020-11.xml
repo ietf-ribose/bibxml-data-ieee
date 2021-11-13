@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE P2030-11/D-11.2020-11" target="https://ieeexplore.ieee.org/document/9261256">
+  <front>
+    <title>IEEE Draft Guide for Distributed Energy Resources Management Systems (DERMS) Functional Specification</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="November" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Distributed power generation</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Power grids</keyword>
+    <keyword>Information and communication technology</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>advanced distribution management system</keyword>
+    <keyword>aggregation</keyword>
+    <keyword>ancillary services</keyword>
+    <keyword>demand response</keyword>
+    <keyword>DERMS</keyword>
+    <keyword>distributed energy resources</keyword>
+    <keyword>distributed energy storage system</keyword>
+    <keyword>distributed generation</keyword>
+    <keyword>distribution system</keyword>
+    <keyword>energy management system</keyword>
+    <keyword>grid and system services</keyword>
+    <keyword>IEEE 2030.11</keyword>
+    <keyword>microgrid</keyword>
+    <keyword>transmission system</keyword>
+    <keyword>virtual power plant</keyword>
+    <abstract>A key concept and requirement for an operational and effective deployment of a large number of distributed energy resources (DER), which include sources of power and demand response, to enable the provision of flexibility and grid services, is the aggregation of DER. This aggregation function, as well as the functions required to enable grid services, are provided by DER management systems (DERMS). A functional specification for a DERMS and a description of the grid services that aggregated DER can provide the distribution and transmission systems is provided by this guide. Implementation issues and the interoperability requirements of a DERMS with its environment, including the transmission and distribution systems, and the communication and information infrastructure of modern grids are addressed by this guide.</abstract>
+  </front>
+</reference>

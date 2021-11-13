@@ -1,0 +1,34 @@
+<reference anchor="IEEE.ISO/IEEE 11073-20101.2004" target="https://ieeexplore.ieee.org/document/1377856">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95599"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>ISO</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>abstract syntax</keyword>
+    <keyword>alarm</keyword>
+    <keyword>alert</keyword>
+    <keyword>communication</keyword>
+    <keyword>control</keyword>
+    <keyword>information model</keyword>
+    <keyword>medical device</keyword>
+    <keyword>object-oriented</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>POC</keyword>
+    <keyword>services</keyword>
+    <abstract>The scope of this standard is upper layer [i.e., the International Organization for Standardization (ISO's) open systems interconnection (OSI) application, presentation layer, and session layer] services and protocols for information exchange under the ISO/IEEE 11073 standards for medical device communications (MDC). This standard is the base standard of the ISO/IEEE 11073-20000 medical device application profiles (MDAP), as harmonized through the Committee for European Normalization (CEN) and the ISO.</abstract>
+  </front>
+</reference>

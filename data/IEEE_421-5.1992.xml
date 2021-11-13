@@ -1,0 +1,17 @@
+<reference anchor="IEEE.IEEE 421-5.1992" target="https://ieeexplore.ieee.org/document/182869">
+  <front>
+    <title>IEEE Recommended Practice for Excitation System Models for Power System Stability Studies</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106975"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Power system control</keyword>
+    <keyword>Power system stability</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Synchronous machines</keyword>
+    <keyword>excitation systems</keyword>
+    <keyword>power system stability</keyword>
+    <abstract>Superseded by IEEE Std 421.5-2005. Excitation system models suitable for use in large scale system stability studies are presented. With these models, most of the excitation systems currently in widespread use on large, system-connected synchronous machines in North America can be represented. They include updates of models published in the IEEE Transactions on Power Apparatus and Systems in 1981 as well as models for additional control features such as discontinuous excitation controls.</abstract>
+  </front>
+</reference>

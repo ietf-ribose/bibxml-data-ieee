@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1558.2004" target="https://ieeexplore.ieee.org/document/1412647">
+  <front>
+    <title>IEEE Standard for Software Documentation for Rail Equipment and Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95927"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="14"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Documentation</keyword>
+    <keyword>deliverables</keyword>
+    <keyword>outlines</keyword>
+    <keyword>rail equipment</keyword>
+    <keyword>rail systems</keyword>
+    <keyword>software documentation</keyword>
+    <abstract>This standard provides an outline for the software documentation that shall be developed and delivered for rail equipment and systems.</abstract>
+  </front>
+</reference>

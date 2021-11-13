@@ -1,0 +1,25 @@
+<reference anchor="IEEE.ANSI/IEEE 165.1977" target="https://ieeexplore.ieee.org/document/21005">
+  <front>
+    <title>IEEE Standard Definitions of Terms for Analog Computers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.120850"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="6"/>
+    <keyword>Programming</keyword>
+    <keyword>Analog computers</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>computer</keyword>
+    <keyword>analog</keyword>
+    <keyword>terms</keyword>
+    <keyword>glossary</keyword>
+    <keyword>definitions</keyword>
+    <abstract>The standard defines analog computing terms from absolute value circuit to zero error reference. Each term is accompanied by a paragraph of definitive text. Significant cross referencing is given.</abstract>
+  </front>
+</reference>

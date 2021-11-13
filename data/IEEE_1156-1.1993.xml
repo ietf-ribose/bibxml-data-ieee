@@ -1,0 +1,19 @@
+<reference anchor="IEEE.IEEE 1156-1.1993" target="https://ieeexplore.ieee.org/document/8960256">
+  <front>
+    <title>IEEE Standard Microcomputer Environmental Specifications for Computer Modules</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8960256"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="14"/>
+    <keyword>Performance level qualification</keyword>
+    <keyword>Environmental withstand conditions</keyword>
+    <abstract>Fundamental information on minimum environmental withstand conditions is provided. The information is intended to be used in those cases in which a generic or detail specification for a certain module has been prepared. The intent is to achieve uniformity and reproducibility in the test conditions for all modules that may make up larger systems and are purported to have a rated environmental performance level. The specifications pertain to both the natural and artificial environments to which modules may be exposed. These conditions include, but are not limited to, thermal, mechanical, electrical, and atmospheric stresses.</abstract>
+  </front>
+</reference>

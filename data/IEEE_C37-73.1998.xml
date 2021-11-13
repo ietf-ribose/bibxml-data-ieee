@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE C37-73.1998" target="https://ieeexplore.ieee.org/document/720563">
+  <front>
+    <title>IEEE Standard Requirements for Pad-Mounted Fused Switchgear</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88277"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>fused-loadbreak way</keyword>
+    <keyword>fused-switched way</keyword>
+    <keyword>fused way</keyword>
+    <keyword>pad-mounted fused switchgear</keyword>
+    <keyword>switched way</keyword>
+    <abstract>Requirements for assemblies of single-phase and three-phase, dead-front and live-front,pad-mounted, load-interrupter switches with expulsion, current-limiting, and other types of fuses in enclosures up to 38 kV rated maximum voltage are given. Definitions are given, and service conditions and ratings are discussed. Design tests, production tests, and construction requirements are included.</abstract>
+  </front>
+</reference>

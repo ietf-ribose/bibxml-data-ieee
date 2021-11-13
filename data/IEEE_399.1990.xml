@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 399.1990" target="https://ieeexplore.ieee.org/document/257619">
+  <front>
+    <title>IEEE Recommended Practice for Industrial and Commercial Power System Analysis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.115569"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="January" day="16"/>
+    <keyword>Standards</keyword>
+    <keyword>brown book</keyword>
+    <keyword>industrial power</keyword>
+    <keyword>commercial power</keyword>
+    <keyword>power systems</keyword>
+    <keyword>analysis theory</keyword>
+    <keyword>Power system studies</keyword>
+    <keyword>Power system stability</keyword>
+    <keyword>Power system analysis theory</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Load flow analysis</keyword>
+    <keyword>harmonics</keyword>
+    <keyword>Grounding</keyword>
+    <abstract>Superseded by 399-1997. This recommended practice is a reference source for engineers involved in industrial and commercial power systems analysis. It contains a thorough analysis of the power system data required, and the techniques most commonly used in computer-aided analysis, in order to perform specific power system studies of the following: short-circuit, load flow, motorstarting, cable ampacity, stability, harmonic analysis, switching transient, reliability, ground mat, protective coordination, DC auxiliary power system, and power system modeling.</abstract>
+  </front>
+</reference>

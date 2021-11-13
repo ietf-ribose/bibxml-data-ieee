@@ -1,0 +1,25 @@
+<reference anchor="IEEE.ANSI N42-17B.1989" target="https://ieeexplore.ieee.org/document/89929">
+  <front>
+    <title>American National Standard Performance Specifications for Health Physics Instrumentation. Occupational Airborne Radioactivity Monitoring Instrumentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.95428"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="April" day="10"/>
+    <keyword>Air pollution</keyword>
+    <keyword>Environmental testing</keyword>
+    <keyword>Occupational health and safety</keyword>
+    <keyword>Radiation monitoring</keyword>
+    <keyword>Radioactive pollution</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Radiation detectors</keyword>
+    <keyword>Air Pollution</keyword>
+    <abstract>ANSI N42.17B-1989, American National Standard Performance Specifications for Health Physics Instrumentation-Occupational Airborne Radioactivity Monitoring Instrumentation, describes the minimum acceptable performance criteria for instrumentation used to monitor occupational exposure to airborne radioactive materials. Included in the standard are testing methods to establish the acceptability of each air monitor. Tests involve air sampling capability; power, electronic, and alarm capabilities; radiation and interfering responses; and environmental factors including temperature, humidity, and ambient pressure.</abstract>
+  </front>
+</reference>

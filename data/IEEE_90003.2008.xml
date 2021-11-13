@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 90003.2008" target="https://ieeexplore.ieee.org/document/4690902">
+  <front>
+    <title>IEEE Guide--Adoption of ISO/IEC 90003:2004 Software Engineering--Guidelines for the Application of ISO 9001:2000 to Computer Software</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4690902"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="September" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>90003-2008</keyword>
+    <keyword>adoption</keyword>
+    <keyword>ISO/IEC</keyword>
+    <keyword>quality management</keyword>
+    <keyword>software development</keyword>
+    <abstract>This standard provides guidance to users of IEEE standards as to how to meet the quality management expectations of ISO 9001:2000 clauses and subclauses in a software development context by adopting ISO/IEC 90003 (the software development guidance document for ISO 9001) and adding an informative annex to cross-reference IEEE S2ESC standards to relevant ISO 9001 material. This standard is identical to ISO/IEC 90003 but contains an additional informative annex, Annex C, cross-referencing material in ISO 9001 with material in S2ESC standards that could be helpful in meeting the intent of ISO 9001, as well as a second additional annex, Annex D, which is a bibliography of the specific IEEE standards referenced.</abstract>
+  </front>
+</reference>

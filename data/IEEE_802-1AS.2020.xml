@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 802-1AS.2020" target="https://ieeexplore.ieee.org/document/9121845">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks--Timing and Synchronization for Time-Sensitive Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9121845"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="June" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Clocks</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Frequency</keyword>
+    <keyword>best master</keyword>
+    <keyword>frequency offset</keyword>
+    <keyword>Grandmaster Clock</keyword>
+    <keyword>Grandmaster PTP Instance</keyword>
+    <keyword>PTP End Instance</keyword>
+    <keyword>PTP Relay Instance</keyword>
+    <keyword>IEEE 802.1AS</keyword>
+    <keyword>phase offset</keyword>
+    <keyword>synchronization</keyword>
+    <keyword>syntonization</keyword>
+    <keyword>time-aware system</keyword>
+    <abstract>Protocols, procedures, and managed objects for the transport of timing over local area networks are defined in this standard. It includes the transport of synchronized time, the selection of the timing source (i.e., best master), and the indication of the occurrence and magnitude of timing impairments (i.e., phase and frequency discontinuities).</abstract>
+  </front>
+</reference>

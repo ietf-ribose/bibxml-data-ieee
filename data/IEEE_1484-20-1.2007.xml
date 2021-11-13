@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1484-20-1.2007" target="https://ieeexplore.ieee.org/document/4445693">
+  <front>
+    <title>IEEE Standard for Learning Technology-Data Model for Reusable Competency Definitions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4445693"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="22"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Computational modeling</keyword>
+    <keyword>Seminars</keyword>
+    <keyword>1484.2.1-2007</keyword>
+    <keyword>competency</keyword>
+    <keyword>competency definition</keyword>
+    <keyword>reusable competency definition</keyword>
+    <abstract>This Standard defines a data model for describing, referencing, and sharing competency definitions, primarily in the context of online and distributed learning. This Standard provides a way to represent formally the key characteristics of a competency, independently of its use in any particular context. It enables interoperability among learning systems that deal with competency information by providing a means for them to refer to common definitions with common meanings.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 1904-2.2021" target="https://ieeexplore.ieee.org/document/9483874">
+  <front>
+    <title>IEEE Standard for Control and Management of Virtual Links in Ethernet-based Subscriber Access Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9483874"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="July" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Remote control</keyword>
+    <keyword>Telecommunication network management</keyword>
+    <keyword>Virtual links</keyword>
+    <keyword>Networked control systems</keyword>
+    <keyword>Virtual link control</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>IEEE 1904.2</keyword>
+    <keyword>organization specific extensions</keyword>
+    <keyword>remote station management</keyword>
+    <keyword>Virtual Link Control (VLC) protocol</keyword>
+    <keyword>VLC Protocol Data Unit (VLCPDU)</keyword>
+    <abstract>Control mechanisms and management methods necessary to enable creation and operation of virtual links in Ethernet-based subscriber access networks are described. The key characteristics of the Virtual Link Control (VLC) mechanisms are: - The ability to transit Layer 2 bridges in a single IEEE 802 Media Access Control (MAC) domain to allow remote device management - Extensibility to accommodate new protocols and new types of devices - The ability to simultaneously send messages to multiple VLC-aware stations using broadcast or multicast addressing The message format, as well as processing operations at the stations participating in the VLC protocol, are described.</abstract>
+  </front>
+</reference>

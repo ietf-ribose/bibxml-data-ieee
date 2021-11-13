@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 352.2016" target="https://ieeexplore.ieee.org/document/7891100">
+  <front>
+    <title>IEEE Guide for General Principles of Reliability Analysis of Nuclear Power Generating Station Systems and Other Nuclear Facilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7891100"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="March" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Failure analysis</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Safety</keyword>
+    <keyword>availability</keyword>
+    <keyword>Class 1E</keyword>
+    <keyword>failure rate</keyword>
+    <keyword>IEEE 352&amp;#8482;</keyword>
+    <keyword>MTBF</keyword>
+    <keyword>MTTF</keyword>
+    <keyword>MTTR</keyword>
+    <keyword>nuclear power generating station</keyword>
+    <keyword>reliability</keyword>
+    <abstract>General reliability and availability analysis methods that can be applied to structures, systems, and components (SSCs) in nuclear power generating stations and other nuclear facilities are contained in this guide.</abstract>
+  </front>
+</reference>

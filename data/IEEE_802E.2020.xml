@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE 802E.2020" target="https://ieeexplore.ieee.org/document/9257130">
+  <front>
+    <title>IEEE Recommended Practice for Privacy Considerations for IEEE 802(R) Technologies</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9257130"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="November" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Security</keyword>
+    <keyword>Privacy</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>bridging</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>fair use</keyword>
+    <keyword>IEEE 802.1&amp;#8482;</keyword>
+    <keyword>IEEE 802E&amp;#8482;</keyword>
+    <keyword>information model</keyword>
+    <keyword>LANs</keyword>
+    <keyword>Local Area Networks</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>network management</keyword>
+    <keyword>personally identifiable information</keyword>
+    <keyword>personally correlated information</keyword>
+    <keyword>privacy</keyword>
+    <keyword>routing</keyword>
+    <keyword>security</keyword>
+    <abstract>A privacy threat model for IEEE 802® technologies is specified by this recommended practice. The document also provides recommendations on how to protect against privacy threats and promotes a consistent approach to the mitigation of privacy threats by IEEE 802 protocol developers.</abstract>
+  </front>
+</reference>

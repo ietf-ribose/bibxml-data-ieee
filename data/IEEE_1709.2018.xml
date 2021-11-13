@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 1709.2018" target="https://ieeexplore.ieee.org/document/8569023">
+  <front>
+    <title>IEEE Recommended Practice for 1 kV to 35 kV Medium-Voltage DC Power Systems on Ships</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8569023"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Marine vehicles</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Power electronics</keyword>
+    <keyword>DC motors</keyword>
+    <keyword>IEEE 1709</keyword>
+    <keyword>integrated power systems</keyword>
+    <keyword>marine electrical-power systems</keyword>
+    <keyword>medium-voltage direct current</keyword>
+    <keyword>MVDC</keyword>
+    <keyword>PEBB</keyword>
+    <keyword>power electronic building blocks</keyword>
+    <keyword>power electronics</keyword>
+    <abstract>Guidelines to specify, procure, design, manufacture and develop manuals, safety procedures, practices and procedures for effective maintenance of medium-voltage direct current (MVDC) electrical power systems are discussed in this recommended practice. Recommendations are made for analytical methods, preferred interconnection interfaces and performance characteristics for reliable integration of MVDC electrical components into the ship MVDC electrical power systems.</abstract>
+  </front>
+</reference>

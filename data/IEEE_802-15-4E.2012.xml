@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE 802-15-4e.2012" target="https://ieeexplore.ieee.org/document/6185525">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment 1: MAC sublayer</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6185525"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="April" day="17"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>AC motors</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Radiofrequency identification</keyword>
+    <keyword>asynchronous multi-channel adaptation (AMCA)</keyword>
+    <keyword>deterministic and asynchronous multi-channel adaptation (AMCA)</keyword>
+    <keyword>deterministic and synchronous multichannel extension (DSME)</keyword>
+    <keyword>enhanced beacon request (EBR)</keyword>
+    <keyword>enhancements for security</keyword>
+    <keyword>fast association (FastA)</keyword>
+    <keyword>IEEE 802.15.4</keyword>
+    <keyword>lEEE 802.15.4e</keyword>
+    <keyword>low energy</keyword>
+    <keyword>low latency deterministic networks (LLDN)</keyword>
+    <keyword>MAC performance metrics (metrics)</keyword>
+    <keyword>RFID Blink</keyword>
+    <keyword>timeslotted channel hopping (TSCH)</keyword>
+    <abstract>IEEE Std 802.15.4-2011 is amended by this standard. The intention of this amendment is to enhance and add functionality to the IEEE 802.15.4 MAC to (a) better support the industrial markets and (b) permit compatibility with modifications being proposed within the Chinese WPAN.</abstract>
+  </front>
+</reference>

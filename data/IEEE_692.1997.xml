@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 692.1997" target="https://ieeexplore.ieee.org/document/624350">
+  <front>
+    <title>IEEE Standard Criteria for Security Systems for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83835"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>access control</keyword>
+    <keyword>alert</keyword>
+    <keyword>central alarm station</keyword>
+    <keyword>duress alarms</keyword>
+    <keyword>integrated security system</keyword>
+    <keyword>intrusion detection</keyword>
+    <keyword>line supervision</keyword>
+    <keyword>perimeter intrusion alarm</keyword>
+    <keyword>portal security lighting</keyword>
+    <keyword>remote video surveillance</keyword>
+    <keyword>secondary alarm station</keyword>
+    <keyword>security lighting</keyword>
+    <keyword>security systems</keyword>
+    <keyword>uninterruptible power supply system</keyword>
+    <keyword>UPS</keyword>
+    <keyword>voice communications</keyword>
+    <abstract>Reaffirmed September 22, 2005 Criteria are provided for the design of an integrated security system for nuclear power generating stations. Requirements are included for the overall system, interfaces, subsystems, and individual electrical and electronic equipment. This standard addresses equipment for security-related detection, surveillance, access control, communication, and data acquisition.</abstract>
+  </front>
+</reference>

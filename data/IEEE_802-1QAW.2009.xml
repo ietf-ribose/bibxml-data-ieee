@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 802-1Qaw.2009" target="https://ieeexplore.ieee.org/document/5175742">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks-- Virtual Bridged Local Area Networks Amendment 9: Management of Data Driven and Data Dependent Connectivity Faults</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5175742"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="February" day="8"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Data mining</keyword>
+    <keyword>Standards Board</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Materials</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>802.1Qaw-2009</keyword>
+    <keyword>fault management</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>OAM</keyword>
+    <keyword>transparent bridging</keyword>
+    <keyword>VLANS</keyword>
+    <abstract>This amendment extends the connectivity fault management capabilities introduced in IEEE Std 802.1ag-2007 to include tools to facilitate diagnosis and isolation of faults sensitive to, or caused by, particular data patterns in frames transmitted by a service user.</abstract>
+  </front>
+</reference>

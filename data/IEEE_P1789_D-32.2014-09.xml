@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE P1789/D-32.2014-09" target="https://ieeexplore.ieee.org/document/6999909">
+  <front>
+    <title>IEEE Draft Recommended Practices of Modulating Current in High Brightness LEDs for Mitigating Health Risks to Viewers</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="30"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Light emitting diodes</keyword>
+    <keyword>Lighting</keyword>
+    <keyword>Modulation</keyword>
+    <keyword>Power electronics</keyword>
+    <keyword>Seizures</keyword>
+    <keyword>Risk management</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>flicker</keyword>
+    <keyword>LED lighting</keyword>
+    <keyword>modulation</keyword>
+    <keyword>power electronic drivers</keyword>
+    <keyword>headaches</keyword>
+    <keyword>migraines</keyword>
+    <keyword>seizure</keyword>
+    <keyword>stroboscopic</keyword>
+    <keyword>health</keyword>
+    <abstract>Definition of the concept of modulation frequencies for LEDs; a discussion on their applications to LED lighting; a describe LED lighting applications in which modulation frequencies pose possible health risks to users are addressed in this recommended practice. A discussion on the concept of dimming of LEDs by modulating the frequency of driving currents/voltage and present recommendations for modulation frequencies (flicker) for LED lighting and dimming applications to help protect against known potential adverse health effects is also addressed.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 1313.1993" target="https://ieeexplore.ieee.org/document/8684578">
+  <front>
+    <title>IEEE Standard for Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8684578"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>atmospheric correction</keyword>
+    <keyword>correction factor</keyword>
+    <keyword>basic lightning impulse</keyword>
+    <keyword>BIL</keyword>
+    <keyword>impulse insulation level</keyword>
+    <keyword>basic switching</keyword>
+    <keyword>BSL</keyword>
+    <keyword>crest valve</keyword>
+    <keyword>ground fault factor</keyword>
+    <keyword>insulation coordination</keyword>
+    <keyword>overvoltage</keyword>
+    <keyword>phase to ground</keyword>
+    <keyword>insulation configuration</keyword>
+    <keyword>phase to phase</keyword>
+    <abstract>Equipment for three-phase alternating-current (ac) systems having a system voltage above 1 kV nominal is discussed. Except for some definitions, this standard includes only phase-to-ground insulation. The object of this standard is to guide the preparation of specifications for insulation of the various items of equipment in a given installation.</abstract>
+  </front>
+</reference>

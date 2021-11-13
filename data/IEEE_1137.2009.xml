@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 1137.2009" target="https://ieeexplore.ieee.org/document/5290504">
+  <front>
+    <title>IEEE Guide for the Implementation of Inductive Coordination Mitigation Techniques and Applications--Corrigendum 1</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5290504"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="July" day="24"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Harmonic analysis</keyword>
+    <keyword>1137-1991 Cor1-2009</keyword>
+    <keyword>coordination</keyword>
+    <keyword>coupling</keyword>
+    <keyword>harmonic</keyword>
+    <keyword>ICEP</keyword>
+    <keyword>impedance</keyword>
+    <keyword>inductive</keyword>
+    <keyword>influence</keyword>
+    <keyword>mitigation</keyword>
+    <keyword>mutual</keyword>
+    <keyword>noise</keyword>
+    <keyword>power</keyword>
+    <keyword>susceptibility</keyword>
+    <abstract>IEEE Std 1137trade-1991 provides guidance for controlling or modifying the inductive environment and the susceptibility of affected wire line telecommunications facilities in order to operate within the acceptable levels of steady-state or surge induced voltages of the environmental interface (probe wire) defined by IEEE Std 776trade-1987. Procedures for determining the source of the problem are given. Mitigation theory and philosophy are discussed, and mitigation devices are described. The application of typical mitigation apparatus is addressed. Advice for determining the best engineering solution is offered, and general safety considerations are discussed.</abstract>
+  </front>
+</reference>

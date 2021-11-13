@@ -1,0 +1,39 @@
+<reference anchor="IEEE.ISO/IEC 14575.2000" target="https://ieeexplore.ieee.org/document/6887400">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.6887400"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="August" day="28"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Routing protocols</keyword>
+    <keyword>Switches</keyword>
+    <keyword>Routers</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>low control</keyword>
+    <keyword>encoding schemes</keyword>
+    <keyword>OMI/HIC</keyword>
+    <keyword>packet routing</keyword>
+    <keyword>parallelism</keyword>
+    <keyword>point-to-point serial scalable interconnect</keyword>
+    <keyword>protocols</keyword>
+    <keyword>routing fabric</keyword>
+    <keyword>serial links</keyword>
+    <keyword>serialization</keyword>
+    <keyword>silicon integration</keyword>
+    <keyword>switch chip</keyword>
+    <keyword>transaction layer</keyword>
+    <keyword>wormhole routing</keyword>
+    <abstract>Enabling the construction of high-performance, scalable, modular, parallel systems with low system integration cost is discussed. Complementary use of physical connectors and cables, electrical properties, and logical protocols for point-to-point serial scalable interconnect, operating at speeds of 10–200 Mb/s and at 1 Gb/s in copper and optic technologies, is described.</abstract>
+  </front>
+</reference>

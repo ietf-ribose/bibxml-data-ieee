@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1228.1994" target="https://ieeexplore.ieee.org/document/9097571">
+  <front>
+    <title>IEEE Standard for Software Safety Plans</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.9097571"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software safety</keyword>
+    <keyword>Safety management</keyword>
+    <keyword>Software safety program</keyword>
+    <keyword>Software safety plan</keyword>
+    <keyword>Safety-critical software</keyword>
+    <keyword>Safety requirements</keyword>
+    <abstract>The minimum acceptable requirements for the content of a software safety plan are established. This standard applies to the software safety plan used for the development, procurement, maintenance, and retirement of safety-critical software. This standard requires that the plan be prepared within the context of the system safety program. Only the safety aspects of the software are included. This standard does not contain special provisions required for software used in distributed systems or in parallel processors.</abstract>
+  </front>
+</reference>

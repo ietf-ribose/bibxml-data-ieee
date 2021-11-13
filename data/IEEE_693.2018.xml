@@ -1,0 +1,37 @@
+<reference anchor="IEEE.IEEE 693.2018" target="https://ieeexplore.ieee.org/document/8686442">
+  <front>
+    <title>IEEE Recommended Practice for Seismic Design of Substations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8686442"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Seismic measurements</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>anchorage</keyword>
+    <keyword>conductor</keyword>
+    <keyword>electrical equipment</keyword>
+    <keyword>damping</keyword>
+    <keyword>dynamic analysis</keyword>
+    <keyword>IEEE 693(TM)</keyword>
+    <keyword>loads</keyword>
+    <keyword>projected performance</keyword>
+    <keyword>required response spectrum</keyword>
+    <keyword>seismic protective devices</keyword>
+    <keyword>seismic qualification</keyword>
+    <keyword>shake table</keyword>
+    <keyword>static coefficient analysis</keyword>
+    <keyword>support structure</keyword>
+    <keyword>suspended equipment</keyword>
+    <keyword>time history</keyword>
+    <abstract>Seismic design recommendations for substations, including qualification of different equipment types are discussed. Design recommendations consist of seismic criteria, qualification methods and levels, structural capacities, performance requirements for equipment operation, installation methods, and documentation.</abstract>
+  </front>
+</reference>

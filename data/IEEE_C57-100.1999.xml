@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE C57-100.1999" target="https://ieeexplore.ieee.org/document/808838">
+  <front>
+    <title>IEEE Standard Test Procedure for Thermal Evaluation of Liquid-Immersed Distribution and Power Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90579"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>aging</keyword>
+    <keyword>distribution transformers</keyword>
+    <keyword>life tests</keyword>
+    <keyword>liquid immersed</keyword>
+    <keyword>power transformers</keyword>
+    <keyword>test procedures</keyword>
+    <keyword>thermal evaluation</keyword>
+    <abstract>A test procedure is established to provide a uniform method for investigating the effect of operating temperature on the life expectancy of liquid-immersed transformers. The test proce-dures are intended to provide data for the selection of a limiting hottest-spot temperature for rating purposes, provide data which may serve as the basis for a guide for loading, and permit the com-parative evaluation of a proposed insulation system with reference to a system that has proven to be acceptable in service.</abstract>
+  </front>
+</reference>

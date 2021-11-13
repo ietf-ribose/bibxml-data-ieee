@@ -1,0 +1,40 @@
+<reference anchor="IEEE.IEEE P2821/D-6.2020-07" target="https://ieeexplore.ieee.org/document/9145930">
+  <front>
+    <title>IEEE Approved Draft Guide for Unmanned Aerial Vehicle-based Patrol Inspection System for Transmission Lines</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="July" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Unmanned aerial vehicles</keyword>
+    <keyword>Infrared imaging</keyword>
+    <keyword>Drones</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>Lasar radar</keyword>
+    <keyword>Rotors</keyword>
+    <keyword>Surveillance</keyword>
+    <keyword>3D LiDAR scanner</keyword>
+    <keyword>AC</keyword>
+    <keyword>DC</keyword>
+    <keyword>IEEE 2821TM</keyword>
+    <keyword>infrared thermal imager</keyword>
+    <keyword>inspection</keyword>
+    <keyword>multicopter</keyword>
+    <keyword>overhead line</keyword>
+    <keyword>patrol</keyword>
+    <keyword>powered fixed-wing plane</keyword>
+    <keyword>right-of-way</keyword>
+    <keyword>rotorcraft</keyword>
+    <keyword>single rotor helicopter</keyword>
+    <keyword>tower</keyword>
+    <keyword>unmanned aerial vehicle</keyword>
+    <keyword>visual camera</keyword>
+    <abstract>The UAV-based patrol inspection systems applied in operation and maintenance of transmission lines are demonstrated in this document. The system compositions, application scenarios, functions and performance, test methods, and guidance for field applications are provided. This guide applies to the UAV systems used for patrol inspection on AC and DC overhead transmission lines.</abstract>
+  </front>
+</reference>

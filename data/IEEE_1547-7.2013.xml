@@ -1,0 +1,50 @@
+<reference anchor="IEEE.IEEE 1547-7.2013" target="https://ieeexplore.ieee.org/document/6748837">
+  <front>
+    <title>IEEE Guide for Conducting Distribution Impact Studies for Distributed Resource Interconnection</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6748837"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="February" day="26"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power distribution planning</keyword>
+    <keyword>Energy storage</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>Power grids</keyword>
+    <keyword>Government policies</keyword>
+    <keyword>Fuel cells</keyword>
+    <keyword>Energy storage</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>distributed energy resources</keyword>
+    <keyword>distributed generation</keyword>
+    <keyword>distributed power</keyword>
+    <keyword>distributed resources</keyword>
+    <keyword>distribution grid</keyword>
+    <keyword>distribution system</keyword>
+    <keyword>electric power systems</keyword>
+    <keyword>energy storage</keyword>
+    <keyword>federal utility grid</keyword>
+    <keyword>fuel cells</keyword>
+    <keyword>grid interconnection requirements and specifications</keyword>
+    <keyword>IEEE 1547.7(TM)</keyword>
+    <keyword>interconnection</keyword>
+    <keyword>microturbines</keyword>
+    <keyword>national</keyword>
+    <keyword>photovoltaic power systems</keyword>
+    <keyword>public utility commission</keyword>
+    <keyword>regulations</keyword>
+    <keyword>renewable energy</keyword>
+    <keyword>rulemaking</keyword>
+    <keyword>regional</keyword>
+    <keyword>utility grid</keyword>
+    <keyword>utility grid dispersed generation</keyword>
+    <abstract>IEEE Std 1547.7(TM) is part of the IEEE 1547(TM) series of standards. Whereas IEEE Std 1547(TM)-2003 provides mandatory requirements for the interconnection of distributed resources (DR) with electric power systems (EPS), this guide does not presume the interconnection is IEEE 1547(TM) compliant. Further, this guide does not interpret IEEE Std 1547(TM) or other standards in the IEEE 1547(TM) series, and this guide does not provide additional requirements or recommended practices related to the other IEEE 1547(TM) documents. However, DR interconnection may contribute to resultant conditions that could exceed what was normally planned for and built into the distribution system. This guide provides alternative approaches and good practices for engineering studies of the potential impacts of a DR or aggregate DR interconnected to the electric power distribution system. This guide describes criteria, scope, and extent for those engineering studies. Study scope and extent are described as functions of identifiable characteristics of the DR, the EPS, and the interconnection. The intent includes promoting impact study consistency while helping identify only those studies that should be performed based on technically transparent criteria for the DR interconnection.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="IEEE.ANSI C63-23.2012" target="https://ieeexplore.ieee.org/document/6482151">
+  <front>
+    <title>American National Standard Guide for Electromagnetic Compatibility&amp;#8212;Computations and Treatment of Measurement Uncertainty</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6482151"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="March" day="19"/>
+    <keyword>ANSI standards</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Emissions</keyword>
+    <keyword>Metrology</keyword>
+    <keyword>Uncertainty</keyword>
+    <keyword>ANSI C63.23</keyword>
+    <keyword>electromagnetic compatibility (EMC)</keyword>
+    <keyword>emissions</keyword>
+    <keyword>immunity</keyword>
+    <keyword>measurement uncertainty</keyword>
+    <keyword>metrology</keyword>
+    <keyword>Type A evaluation</keyword>
+    <keyword>Type B evaluation</keyword>
+    <abstract>Methods for estimating measurement uncertainty of emissions measurement results are provided, for use in conjunction with the basic methods of ANSI C63.4. Included in this document are both Type A and Type B uncertainty evaluation methods.</abstract>
+  </front>
+</reference>

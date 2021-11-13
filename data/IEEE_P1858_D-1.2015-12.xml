@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE P1858/D-1.2015-12" target="https://ieeexplore.ieee.org/document/7489058">
+  <front>
+    <title>IEEE Draft Standard for Camera Phone Image Quality (CPIQ)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="June" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Cameras</keyword>
+    <keyword>Cell phones</keyword>
+    <keyword>Photography</keyword>
+    <keyword>Cellular networks</keyword>
+    <keyword>Mobile communication</keyword>
+    <keyword>Image quality</keyword>
+    <keyword>Camera</keyword>
+    <keyword>cell phone</keyword>
+    <keyword>image quality</keyword>
+    <keyword>photography</keyword>
+    <keyword>visual quality</keyword>
+    <keyword>mobile</keyword>
+    <abstract>This standard is intended for quantifying the performance of camera-equipped mobile devices. There is an emphasis on metrics and procedures appropriate to the types of sensors, lenses, and signal processing routines present on such devices. It is not intended as a general image quality standard for photographs produced by high-end dedicated cameras, e.g. DSLRs. Metrics include spatial frequency response, color uniformity, chroma level, lateral chromatic displacement, local geometric distortion, texture blur, and visual noise.</abstract>
+  </front>
+</reference>

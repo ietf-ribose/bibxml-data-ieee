@@ -1,0 +1,42 @@
+<reference anchor="IEEE.IEEE C37-98.2013" target="https://ieeexplore.ieee.org/document/6803840">
+  <front>
+    <title>IEEE Standard for Seismic Qualification Testing of Protective Relays and Auxiliaries for Nuclear Facilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6803840"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="April" day="22"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Seismic measurments</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Auxiliary facilities</keyword>
+    <keyword>auxiliaries</keyword>
+    <keyword>chatter</keyword>
+    <keyword>fragility</keyword>
+    <keyword>generic testing</keyword>
+    <keyword>IEEE C37.98&amp;#8482;</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>operating basis earthquake</keyword>
+    <keyword>proof testing</keyword>
+    <keyword>protective</keyword>
+    <keyword>qualification</keyword>
+    <keyword>relay</keyword>
+    <keyword>required response spectrum</keyword>
+    <keyword>response spectra</keyword>
+    <keyword>safe shutdown earthquake</keyword>
+    <keyword>safety function</keyword>
+    <keyword>seismic</keyword>
+    <keyword>seismic test</keyword>
+    <keyword>test</keyword>
+    <keyword>test response spectrum</keyword>
+    <abstract>The methods and conditions for seismic qualification of protective relays and auxiliaries such as test and control switches, terminal blocks, and indicating lamps for use in nuclear facilities are described in this standard. The primary intent of this standard is to focus on fragility testing and seismic qualification, also known as proof testing (either to generic levels or specific levels). This standard covers relays used in nuclear facilities, but may also be applied to any area in which the seismic response of relays is a design consideration. The prerequisites for the seismic test are defined in IEEE Std C37.105™.</abstract>
+  </front>
+</reference>

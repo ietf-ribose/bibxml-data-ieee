@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE C37-09g.1991" target="https://ieeexplore.ieee.org/document/587570">
+  <front>
+    <title>IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.82379"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Transient analysis</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Circuit faults</keyword>
+    <keyword>Delay effects</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Circuit-breaker testing</keyword>
+    <abstract>Superseded by C37.09-1999. Supplement to IEEE C37.09-1979 Available at no charge Abstract: This supplement to C37.09-1979 adds a paragraph at the end of 4.6.5.4, contains a new section for the initial transient recovery voltage, and makes a change to 4.6.6, Methods of Demonstrating the Short-Circuit Current Rating of a Circuit Breaker.</abstract>
+  </front>
+</reference>

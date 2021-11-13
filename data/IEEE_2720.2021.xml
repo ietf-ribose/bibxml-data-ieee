@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 2720.2021" target="https://ieeexplore.ieee.org/document/9450066">
+  <front>
+    <title>IEEE Guide for Rail Potential Management for DC Electrification Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9450066"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Rail transportation</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Switching systems</keyword>
+    <keyword>Railway electrification</keyword>
+    <keyword>accessible voltage</keyword>
+    <keyword>automatic grounding switch</keyword>
+    <keyword>IEEE 2720</keyword>
+    <keyword>negative grounding device</keyword>
+    <keyword>negative return system</keyword>
+    <keyword>permissible touch voltage</keyword>
+    <keyword>rail potential</keyword>
+    <keyword>rail voltage rise</keyword>
+    <keyword>touch voltage</keyword>
+    <keyword>voltage limiting device</keyword>
+    <abstract>This guide will provide a description of the concepts, applicable standards, and methods used for the calculation and management of rail potential on dc-electrified rail transit systems.</abstract>
+  </front>
+</reference>

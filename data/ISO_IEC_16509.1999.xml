@@ -1,0 +1,22 @@
+<reference anchor="IEEE.ISO/IEC 16509.1999" target="https://ieeexplore.ieee.org/document/8572680">
+  <front>
+    <title>ISO/IEC 16509: 1999 (IEEE Std 2000.1-1998) Year 2000 Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.8572680"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="10"/>
+    <keyword>IEEE</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Information technology</keyword>
+    <abstract>This standard provides concepts, definitions, remediation techniques, and other support- ing terms fundamental to a lexicon for Year 2000 terminology. It addresses key topics pertinent to the development of resolutions to the Year 2000 problem. The core of this standard is the definitions Clause which contains the definition for Year 2000 compliance. Two critical aspects of this definition are: first, the acknowledgment of the significance of documentation associated with technology, and, second, the recognition that compliance is a two-way street, i.e., the proper exchange of date data is paramount for technology to remain compliant.</abstract>
+  </front>
+</reference>

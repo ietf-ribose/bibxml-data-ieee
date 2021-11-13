@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE 11073-10201.2018 Redline" target="https://ieeexplore.ieee.org/document/8759053">
+  <front>
+    <title>IEEE Standard for Health Informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="July" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Point of care</keyword>
+    <keyword>Remote control</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Patient monitoring</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>abstract syntax</keyword>
+    <keyword>alarm</keyword>
+    <keyword>alert</keyword>
+    <keyword>ASN.1</keyword>
+    <keyword>DIM</keyword>
+    <keyword>domain information model</keyword>
+    <keyword>IEEE 11073-10201(TM)</keyword>
+    <keyword>information model</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>medical information bus</keyword>
+    <keyword>MIB</keyword>
+    <keyword>object-oriented</keyword>
+    <keyword>patient</keyword>
+    <keyword>POC</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>remote control</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care medical device communication, an abstract, object-oriented domain information model that specifies the structure of exchanged information, as well as the events and services that are supported by each type of object, is provided in this standard. All data structure elements are specified using abstract syntax (ASN.1) and may be applied to many different implementation technologies, transfer syntaxes, and application service models. Core subjects include medical, alert, system, patient, control, archival, communication, and extended services. Model extensibility is supported, and a conformance model and statement template is provided.</abstract>
+  </front>
+</reference>

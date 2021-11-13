@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1128.1998" target="https://ieeexplore.ieee.org/document/705513">
+  <front>
+    <title>IEEE Recommended Practice for Radio-Frequency (RF) Absorber Evaluation in the Range of 30 MHz to 5 GHz</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87821"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="January" day="3"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>anechoic chamber</keyword>
+    <keyword>radiated emissions</keyword>
+    <keyword>RF absorber</keyword>
+    <keyword>semianechoic chamber</keyword>
+    <abstract>" Realistic and repeatable criteria, as well as recommended test methods, for characteriz-ing the absorption properties of typical anechoic chamber linings applied to a metallic surface aredescribed. Parameters and test procedures are described for the evaluation of RF absorbers to beused for radiated emissions and radiated susceptibility testing of electronic products, in the ab-sorber manufacturer and/or absorber user environment, over the frequency range of 30 MHz to5 GHz."</abstract>
+  </front>
+</reference>

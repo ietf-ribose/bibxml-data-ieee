@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE Unapproved P802-1Qay/D-5.1.2009-03" target="https://ieeexplore.ieee.org/document/4811164">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks--Amendment: Provider Backbone Bridge Traffic Engineering</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>Provider Bridged Local Area Networks</keyword>
+    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+    <keyword>Multiple Registration Protocol (MRP)</keyword>
+    <keyword>Multiple VLAN Registration Protocol (MVRP)</keyword>
+    <keyword>Provider Backbone Bridge</keyword>
+    <keyword>Connectivity Fault Management.</keyword>
+    <abstract>(DRAFT Amendment to IEEE Std 802.1Q-2005). This amendment supports provisioning systems that explicitly select traffic engineered paths within Provider Backbone Bridged Networks.</abstract>
+  </front>
+</reference>

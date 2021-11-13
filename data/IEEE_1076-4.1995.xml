@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1076-4.1995" target="https://ieeexplore.ieee.org/document/499105">
+  <front>
+    <title>IEEE Standard VITAL Application-Specific Integrated Circuit (ASIC) Modeling Specification</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.80811"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Application specific integrated circuits</keyword>
+    <keyword>Hardware design languages</keyword>
+    <keyword>Integrated circuit modeling</keyword>
+    <keyword>Circuit simulation</keyword>
+    <keyword>Simulation software</keyword>
+    <keyword>ASIC</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>constraints</keyword>
+    <keyword>delay calculation</keyword>
+    <keyword>HDL</keyword>
+    <keyword>modeling</keyword>
+    <keyword>SDF</keyword>
+    <keyword>timing</keyword>
+    <keyword>verilog</keyword>
+    <keyword>VHDL</keyword>
+    <abstract>Superseded by 1076.4-2000. The VITAL (VHDL Initiative Towards ASIC Libraries) ASIC Modeling Specification is defined. It creates a methodology that promotes the development of highly accurate, efficient simulation models for ASIC (Application-Specific Integrated Circuit) components in VHDL.</abstract>
+  </front>
+</reference>

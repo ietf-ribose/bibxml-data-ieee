@@ -1,0 +1,26 @@
+<reference anchor="IEEE.ANSI/IEEE 113.1985" target="https://ieeexplore.ieee.org/document/574827">
+  <front>
+    <title>IEEE Guide: Test Procedures for Direct-Current Machines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81710"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Machinery</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Micromechanical devices</keyword>
+    <keyword>Power measurement</keyword>
+    <keyword>test</keyword>
+    <keyword>dc</keyword>
+    <keyword>machines</keyword>
+    <abstract>Recommendations are made for conducting and reporting generally acceptable tests to determine the performance characteristics of conventional DC machines. Two categories of tests are provided: tests of dc motors and generators designed for essentially ripple-free operation, and tests of DC motors designed for use with rectifier power supplies. Electrical measurements and power sources for all test procedures are described. Preliminary tests, performance tests, temperature tests, and miscellaneous tests are covered.</abstract>
+  </front>
+</reference>

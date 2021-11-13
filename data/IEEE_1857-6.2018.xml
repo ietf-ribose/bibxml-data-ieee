@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 1857-6.2018" target="https://ieeexplore.ieee.org/document/8667841">
+  <front>
+    <title>IEEE Standard for Digital Media Content Description</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8667841"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="March" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Visualization</keyword>
+    <keyword>Content management</keyword>
+    <keyword>Surveillance</keyword>
+    <keyword>Labeling</keyword>
+    <keyword>Video surveillance</keyword>
+    <keyword>Image capture</keyword>
+    <keyword>Content-based retrieval</keyword>
+    <keyword>Visual analytics</keyword>
+    <keyword>description</keyword>
+    <keyword>feature</keyword>
+    <keyword>IEEE 1857.6</keyword>
+    <keyword>image</keyword>
+    <keyword>label</keyword>
+    <keyword>video</keyword>
+    <abstract>Tools for description of visual content, including still images and videos, are specified in this standard. Visual content description consists of visual features, text labels, and device information. This standard is divided into two profiles: basic profile and surveillance profile. The basic profile specifies basic visual descriptors that apply to general purpose. The surveillance profile is a superset of the basic profile and includes all the descriptions specified in the basic profile as well as special descriptors for surveillance purpose.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.ANSI/IEEE 683.1976" target="https://ieeexplore.ieee.org/document/21002">
+  <front>
+    <title>IEEE Recommended Practice for Block Transfers in CAMAC Systems (Computer Automated Measurement and Control)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.120779"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="3"/>
+    <keyword>CAMAC</keyword>
+    <keyword>Standards</keyword>
+    <keyword>block</keyword>
+    <keyword>transfers</keyword>
+    <keyword>CAMAC</keyword>
+    <keyword>systems</keyword>
+    <abstract>The recommended block-transfer algorithms are discussed, and those given in the basic CAMAC specification are described. These algorithms are well established and are supported by existing hardware. Some new algorithms are then discussed. Compatibility, hardware design, and software considerations are addressed.</abstract>
+  </front>
+</reference>

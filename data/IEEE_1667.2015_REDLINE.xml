@@ -1,0 +1,42 @@
+<reference anchor="IEEE.IEEE 1667.2015 Redline" target="https://ieeexplore.ieee.org/document/7544436">
+  <front>
+    <title>IEEE Standard for Discovery, Authentication, and Authorization in Host Attachments of Storage Devices</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="August" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Information storage</keyword>
+    <keyword>Smart cards</keyword>
+    <keyword>Trust management</keyword>
+    <keyword>Authorization</keyword>
+    <keyword>Knowledge discovery</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>CF</keyword>
+    <keyword>compactflash</keyword>
+    <keyword>discovery</keyword>
+    <keyword>EMMC</keyword>
+    <keyword>IEEE 1667(TM)</keyword>
+    <keyword>password silo</keyword>
+    <keyword>probe silo</keyword>
+    <keyword>SAS</keyword>
+    <keyword>SATA</keyword>
+    <keyword>SCSI</keyword>
+    <keyword>SCTS</keyword>
+    <keyword>security</keyword>
+    <keyword>SILO</keyword>
+    <keyword>smart card transport silo</keyword>
+    <keyword>STID</keyword>
+    <keyword>storage</keyword>
+    <keyword>TCG storage transport silo</keyword>
+    <keyword>transport independent</keyword>
+    <keyword>trusted computing group</keyword>
+    <keyword>UAS</keyword>
+    <keyword>UFS</keyword>
+    <keyword>USB BOT</keyword>
+    <keyword>USB</keyword>
+    <abstract>Discovery, authentication, and authorization protocols between hosts and storage devices over multiple transports are defined in this standard. It specifies a new Silo Type Identifier (STID) allocation process that uses the IEEE Registration Authority.</abstract>
+  </front>
+</reference>

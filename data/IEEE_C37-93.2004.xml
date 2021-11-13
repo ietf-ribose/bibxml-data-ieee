@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE C37-93.2004" target="https://ieeexplore.ieee.org/document/1324411">
+  <front>
+    <title>IEEE Guide for Power System Protective Relay Applications of Audio Tones Over Voice Grade Channels</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94595"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Power systems</keyword>
+    <keyword>Power system relaying</keyword>
+    <keyword>Telephone sets</keyword>
+    <keyword>audio tone</keyword>
+    <keyword>dependability</keyword>
+    <keyword>frequency shift keying</keyword>
+    <keyword>power system</keyword>
+    <keyword>protective relaying</keyword>
+    <keyword>security</keyword>
+    <keyword>telephone circuits</keyword>
+    <keyword>teleprotection</keyword>
+    <keyword>voice grade channels</keyword>
+    <abstract>This document provides guidelines for applying audio tones over voice grade channels for power system relaying. Included are sections on transmitting and receiving equipment, leased voice grade channels, application principles, installation, and testing. The primary purpose of this document is to guide the power system user in applying, installing, and operating audio-tone protective relaying systems over voice grade channels. Secondly, it is to provide a reference for equipment manufacturers engaged in the design and application of relaying equipment and for telephone personnel engaged in providing telecommunications channels for audio-tone protective relay schemes.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE C37-04i.1991" target="https://ieeexplore.ieee.org/document/1388754">
+  <front>
+    <title>Supplement to IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.95612"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Circuit faults</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Circuit breakers</keyword>
+    <abstract>This supplement replaces the last paragraph of 5.11.4.2 in C37.04- 1979 and adds a new section, 5.11.4.3, Initial Transient Recovery Voltage.</abstract>
+  </front>
+</reference>

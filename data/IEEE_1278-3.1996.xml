@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 1278-3.1996" target="https://ieeexplore.ieee.org/document/9405547">
+  <front>
+    <title>IEEE Recommended Practice for Distributed Interactive Simulation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.9405547"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="15"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Computational modeling</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Guidelines</keyword>
+    <keyword>automated simulation</keyword>
+    <keyword>computer-generated force (CGF)</keyword>
+    <keyword>dead-reckoning algorithms</keyword>
+    <keyword>simulation management</keyword>
+    <keyword>simulator networking</keyword>
+    <keyword>validation</keyword>
+    <keyword>verification</keyword>
+    <keyword>warfare simulation</keyword>
+    <keyword>wargames</keyword>
+    <abstract>Guidelines are established for exercise management and feedback in Distributed Interactive Simulation (DIS) exercises. Guidance is provided to sponsors, providers, and supporters of DIS compliant systems and exercises as well as to developers of DIS exercise management and feedback stations. The activities of the organizations involved in a DIS exercise and the top-level processes used to accomplish those activities are addressed. The functional requirements of the exercise management and feedback process are also addressed. This standard is one of a series of standards developed for DIS to assure interoperability between dissimilar simulations for currently installed and future simulations developed by different organizations.</abstract>
+  </front>
+</reference>

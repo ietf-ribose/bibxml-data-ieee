@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE C57-18" target="https://ieeexplore.ieee.org/document/9061674">
+  <front>
+    <title>IEEE Standard Practices and Requirements for Semiconductor Power Rectifier Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.9061674"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="April" day="8"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Loss measurement</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Windings</keyword>
+    <keyword>Harmonic analysis</keyword>
+    <keyword>Patents</keyword>
+    <keyword>semiconductor</keyword>
+    <keyword>rectifier</keyword>
+    <keyword>transformer</keyword>
+    <abstract>Practices and requirements for semiconductor power rectifier transformers for dedicated loads rated single-phase 300 kW and above and three-phase 500 kW and above are included. Static precipitators, high-voltage converters for dc power transmission, and other nonlinear loads are excluded. Service conditions, both usual and unusual, are specified, or other standards are referenced as appropriate. Routine tests are specified. An informative annex provides several examples of load loss calculations for transformers when subjected to nonsinusoidal currents, based on calculations provided in the standard.</abstract>
+  </front>
+</reference>

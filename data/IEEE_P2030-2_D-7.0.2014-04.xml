@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE P2030-2/D-7.0.2014-04" target="https://ieeexplore.ieee.org/document/6823617">
+  <front>
+    <title>IEEE Draft Guide for the Interoperability of Energy Storage Systems Integrated with the Electric Power Infrastructure</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="May" day="30"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Energy storage</keyword>
+    <keyword>Electric power systems</keyword>
+    <keyword>Power systems planning</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Smart Grid</keyword>
+    <keyword>Energy Storage Systems</keyword>
+    <keyword>Communications Technology</keyword>
+    <keyword>Power Systems</keyword>
+    <keyword>IEEE Standard 2030</keyword>
+    <keyword>Information Technology</keyword>
+    <keyword>Electric Power System</keyword>
+    <keyword>Battery</keyword>
+    <abstract>This guide applies the IEEE Standard 2030-2011 Smart Grid Interoperability Reference Model (SGIRM)3 process to energy storage, highlighting the information relevant to energy storage system interoperability4 with the EPS. The process can be applied to energy storage system applications located on customer5 premises, at the distribution level, and bulk storage on the transmission level.6 This guide provides useful industry derived definitions for ESS characteristics, applications and7 terminology. This simplifies the task of defining the systems communication and IT requirements. It also8 results in these system requirements being communicated more clearly and consistently in the project9 specifications.This guide also presents a methodology that can be used for most common ESS projects to describe the power system, communications, and IT perspectives in a simplified and standardized format based on the IEEE Std. 2030-2011 definitions. This provides a clear framework in which emerging cyber security requirements can be incorporated as appropriate. Once the power system, communications, and IT perspectives are defined, a clearer picture and understanding is developed of this seemingly complex system and provides a common base for all project stakeholders to understand. Additionally, this guide provides the templates that can be used to develop requirements for an ESS project and goes through several real world ESS project examples step-by-step.</abstract>
+  </front>
+</reference>

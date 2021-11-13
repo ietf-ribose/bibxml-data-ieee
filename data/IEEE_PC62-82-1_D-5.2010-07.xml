@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE PC62-82-1/D-5.2010-07" target="https://ieeexplore.ieee.org/document/5553446">
+  <front>
+    <title>IEEE Draft Standard for Insulation Coordination</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Insulation technology</keyword>
+    <keyword>Fault location</keyword>
+    <keyword>atmospheric correction factor</keyword>
+    <keyword>basic lightning impulse insulation level (BIL)</keyword>
+    <keyword>basic switching impulse insulation level (BSL)</keyword>
+    <keyword>crest value</keyword>
+    <keyword>ground fault factor</keyword>
+    <keyword>insulation coordination</keyword>
+    <keyword>overvoltage</keyword>
+    <keyword>phase-to-ground insulation configuration</keyword>
+    <keyword>phase-to-phase insulation configuration</keyword>
+    <keyword>protective margin</keyword>
+    <keyword>protective ratio</keyword>
+    <keyword>standard withstand voltages</keyword>
+    <keyword>and voltage stress</keyword>
+    <abstract>The procedure for selection of the withstand voltages for equipment phase-to-ground and phase-to-phase insulation systems is specified. A list of standard insulation levels, based on the voltage stress to which the equipment is being exposed, is also identified. This standard applies to three-phase ac systems above 15 kV.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE C57-12-31/Cor1.2014" target="https://ieeexplore.ieee.org/document/6820724">
+  <front>
+    <title>IEEE Standard for Pole-Mounted Equipment--Enclosure Integrity</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6820724"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="May" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Corrosion</keyword>
+    <keyword>Atmospheric measurements</keyword>
+    <keyword>Breakdown voltage</keyword>
+    <keyword>Coatings</keyword>
+    <keyword>Pole mounted equipment</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>coating integrity</keyword>
+    <keyword>enclosure integrity</keyword>
+    <keyword>IEEE C57.12.31(TM)</keyword>
+    <keyword>pole-mounted equipment</keyword>
+    <keyword>simulated corrosion atmospheric breakdown (SCAB) test</keyword>
+    <abstract>An error has been identified in the 2010 published version of IEEE Std C57.12.31(TM)-2010. The number of cycles included in one of the corrosion tests is not correct. This error needs to be corrected which is a critical requirement of the standard.</abstract>
+  </front>
+</reference>

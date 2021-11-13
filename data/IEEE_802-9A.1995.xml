@@ -1,0 +1,42 @@
+<reference anchor="IEEE.IEEE 802-9a.1995" target="https://ieeexplore.ieee.org/document/499658">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Supplement to Integrated Services (IS) LAN Interface at the Medium Access Control (MAC) and Physical (PHY) Layers: Specification of IsLAN16-T</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.80837"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Communication standards</keyword>
+    <keyword>Integrated voice/data communication</keyword>
+    <keyword>Computer network management</keyword>
+    <keyword>Communication system signaling</keyword>
+    <keyword>Communication system interfaces</keyword>
+    <keyword>10BASE-T</keyword>
+    <keyword>carrier sense multiple access with collision detection (CSMA/CD)</keyword>
+    <keyword>Data Link Layer</keyword>
+    <keyword>GDMO</keyword>
+    <keyword>hybrid multiplexer (HMUX)</keyword>
+    <keyword>integrated services (IS)</keyword>
+    <keyword>integrated services local area network (ISLAN)</keyword>
+    <keyword>integrated services digital network (ISDN)</keyword>
+    <keyword>isochronous services</keyword>
+    <keyword>local area network</keyword>
+    <keyword>managed object</keyword>
+    <keyword>medium access control (MAC)</keyword>
+    <keyword>Physical (PHY) Layer</keyword>
+    <keyword>signaling</keyword>
+    <keyword>premise-based network</keyword>
+    <keyword>terminal adapter (TA)</keyword>
+    <keyword>unshielded twisted-pair (UTP) wiring</keyword>
+    <keyword>wide area network (WAN)</keyword>
+    <abstract>The architecture, frame structure, service specifications, Physical (PHY) Layer, management, and signalling of the ISLAN16-T interface are defined. The relationship of the ISLAN16-T network to the ISO/IEC 8802-3 network is also defined.</abstract>
+  </front>
+</reference>

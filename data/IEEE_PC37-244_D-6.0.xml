@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE PC37-244/D-6.0" target="https://ieeexplore.ieee.org/document/6422309">
+  <front>
+    <title>IEEE Guide for Phasor Data Concentrator Requirements for Power System Protection, Control, andMonitoring</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="January" day="28"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Phasor measurements</keyword>
+    <keyword>Phasors</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Power system planning</keyword>
+    <keyword>pdata concentrator (DC)</keyword>
+    <keyword>GPS synchronization</keyword>
+    <keyword>IEEE C37.244TM</keyword>
+    <keyword>phasor</keyword>
+    <keyword>phasor data concentrator (PDC)</keyword>
+    <keyword>phasor measurement</keyword>
+    <keyword>phasor measurement unit (PMU)</keyword>
+    <keyword>synchrophasor</keyword>
+    <abstract>The functional, performance, and testing guidelines for a phasor data concentrator are described in this guide. Supporting information is also provided.</abstract>
+  </front>
+</reference>

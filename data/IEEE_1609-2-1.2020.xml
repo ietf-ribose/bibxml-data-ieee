@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 1609-2-1.2020" target="https://ieeexplore.ieee.org/document/9311462">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE)--Certificate Management Interfaces for End Entities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9311462"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="December" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless ad hoc networks</keyword>
+    <keyword>Certification</keyword>
+    <keyword>Management</keyword>
+    <keyword>Security</keyword>
+    <keyword>authorization</keyword>
+    <keyword>certificate</keyword>
+    <keyword>end entity</keyword>
+    <keyword>enrollment</keyword>
+    <keyword>IEEE Std 1609&amp;#8482;</keyword>
+    <keyword>IEEE Std 1609.2.1&amp;#8482;</keyword>
+    <keyword>interface</keyword>
+    <keyword>Security Credential Management System (SCMS)</keyword>
+    <abstract>Certificate management protocols are specified in this document to support provisioning and management of digital certificates, as specified in IEEE Std 1609.2<sup>TM</sup>, to end entities, that is, an actor that uses digital certificates to authorize application activities.</abstract>
+  </front>
+</reference>

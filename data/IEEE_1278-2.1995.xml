@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1278-2.1995" target="https://ieeexplore.ieee.org/document/8684426">
+  <front>
+    <title>IEEE Standard for Distributed Interactive Simulation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684426"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>communication</keyword>
+    <keyword>DIS</keyword>
+    <keyword>simulation network</keyword>
+    <keyword>protocol data units</keyword>
+    <keyword>PDU</keyword>
+    <keyword>multicast</keyword>
+    <abstract>Communication services to support information exchange between simulation applications participating in the Distributed Interactive Simulation (DIS) environment are defined. These communication services describe a connectionless information transfer that supports real-time, as well as non-real-time, exchange. Several communication profiles specifying communication services are provided.</abstract>
+  </front>
+</reference>

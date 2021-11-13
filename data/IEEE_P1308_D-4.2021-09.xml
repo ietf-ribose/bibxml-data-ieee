@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE P1308/D-4.2021-09" target="https://ieeexplore.ieee.org/document/9540635">
+  <front>
+    <title>IEEE Draft Recommended Practice for Instrumentation: Specifications for Magnetic Flux Density and Electric Field Strength Meters</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Meters</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Magnetic flux density</keyword>
+    <keyword>Electric fields</keyword>
+    <keyword>calibration</keyword>
+    <keyword>electric field strength meters</keyword>
+    <keyword>IEEE 1308TM</keyword>
+    <keyword>magnetic flux density meters</keyword>
+    <keyword>measurements</keyword>
+    <keyword>measurement uncertainty</keyword>
+    <keyword>quasi-static fields</keyword>
+    <keyword>specifications</keyword>
+    <abstract>Specifications that should be provided to characterize instrumentation used to measure the steady state root mean square (rms) value of magnetic and electric fields with sinusoidal frequency content in the range 10 Hz to 3 kHz are identified. The instrumentation, recommended calibration methods, and sources of measurement uncertainty are also described.</abstract>
+  </front>
+</reference>

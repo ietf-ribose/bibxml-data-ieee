@@ -1,0 +1,23 @@
+<reference anchor="IEEE.ANSI/IEEE 300.1982" target="https://ieeexplore.ieee.org/document/7405228">
+  <front>
+    <title>IEEE Standard Test Procedures for Semiconductor Charged-Particle Detectors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.7405228"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Semiconductor devices</keyword>
+    <keyword>Particle measurements</keyword>
+    <keyword>Radiation detectors</keyword>
+    <keyword>ANSI Standards</keyword>
+    <abstract>The object of this standard is to establish standard test procedures for semiconductor charged-particle detectors. These detectors are in wide-spread use for the detection and high resolution spectroscopy of charged particles. It is desirable to maintain standard test procedures so that measurements may have the same meaning to all manufacturers and users. Not all tests described in this standard are mandatory, but tests which are used to specify performance shall be performed in accordance with the procedures described herein.</abstract>
+  </front>
+</reference>

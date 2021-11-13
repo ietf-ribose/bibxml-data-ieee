@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P802-17/D-1.2.2011-02" target="https://ieeexplore.ieee.org/document/5714985">
+  <front>
+    <title>IEEE Approved Draft Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5714985"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Topology</keyword>
+    <keyword>Data conversion</keyword>
+    <keyword>fairness</keyword>
+    <keyword>layer management</keyword>
+    <keyword>metropolitan area network (MAN)</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>protection switching</keyword>
+    <keyword>resilient packet ring (RPR)</keyword>
+    <keyword>ring topology</keyword>
+    <keyword>topology detection</keyword>
+    <abstract>This draft standard defines the medium access control characteristics, physical layer interface methods and layer management parameters for the resilient packet ring (RPR) access method for ring topologies. A set of protocols for detecting and initializing the shared ring configuration, recovering from failures, and regulating fair access to the shared medium are also described. Specifications are provided for interface to a number of physical layers, supporting data rates up to 10 Gb/s. System considerations and management information base (MIB) specifications are also provided in this standard.</abstract>
+  </front>
+</reference>

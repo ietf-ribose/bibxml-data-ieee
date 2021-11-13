@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE P1003-1/D-5.1.2008" target="https://ieeexplore.ieee.org/document/4540155">
+  <front>
+    <title>IEEE Draft Standard for Information Technology-Portable Operating System Interface (POSIX&amp;#174;)--IEEE Draft Technical Standard: Base Specifications, Issue 7</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>POSIX.1-200x defines a standard operating system interface and environment, including a command interpreter (or "shell"), and common utility programs to support applications portability at the source code level. POSIX.1-200x is intended to be used by both application developers and system implementors and comprises four major components (each in an associated volume)</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 738.1993" target="https://ieeexplore.ieee.org/document/347648">
+  <front>
+    <title>IEEE Standard for Calculating the Current-Temperature of Bare Overhead Conductors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.120365"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Steady-state</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>bare overhead lines</keyword>
+    <keyword>current temperature</keyword>
+    <keyword>relationship</keyword>
+    <abstract>A simplified method of calculating the current-temperature relationship of bare overhead lines, given the weather conditions, is presented. Along with a mathematical method, sources of the values to be used in the calculation are indicated. This standard does not undertake to list actual temperature-ampacity relationships for a large number of conductors in a large number of conditions.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 1Q-REV/D-1.4.2011-02" target="https://ieeexplore.ieee.org/document/5724250">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks---Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5724250"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocols</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>P802.1Q</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
+    <keyword>Rapid</keyword>
+    <abstract>This standard specifies how the MAC Service is supported by Virtual Bridged Local Area Networks, the principles of operation of those networks, and the operation of VLAN-aware Bridges, including management, protocols, and algorithms. The amendments that were specified in IEEE Std 802.1AD enable a service provider to use the architecture and protocols defined in this standard to offer the equivalent of separate LANs, Bridged Local Area Networks, or Virtual Bridged Local Area Networks to a number of customers, while requiring no cooperation between the customers, and minimal cooperation between each customer and the service provider.</abstract>
+  </front>
+</reference>

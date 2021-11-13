@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE P802-15.4/D-09/R-i.2011-04" target="https://ieeexplore.ieee.org/document/5764905">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764905"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>IEEE Std 802.15.4-2003 defined the protocol and compatible interconnection for data communication devices using low-data-rate, low-power, and low-complexity short-range radio frequency (RF) transmissions in a wireless personal area network (WPAN). This revision extends the market applicability of IEEE Std 802.15.4, removes ambiguities in the standard, and makes improvements revealed by implementations of IEEE Std 802.15.4-2003.</abstract>
+  </front>
+</reference>

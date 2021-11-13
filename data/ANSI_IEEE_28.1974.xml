@@ -1,0 +1,22 @@
+<reference anchor="IEEE.ANSI/IEEE 28.1974" target="https://ieeexplore.ieee.org/document/7403780">
+  <front>
+    <title>ANSI/IEEE Standard for Surge Arresters for Alternating Current Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7403780"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Arresters</keyword>
+    <keyword>AC generators</keyword>
+    <keyword>Electrical safety</keyword>
+    <abstract>This document supersedes IEEE Std 28-1972 (ANSI C62.1-1971) and revises many portions ofthe previous edition. Three new significant design tests have been added to determine:(1) The highest 1.2 x 50 standard impulse which the surge arrester will allow without sparkover(2) The effect of external contamination on sparkover(3) Surge arrester disconnector characteristics. Additional substantive changes include:(1) New definition of prorated section(2) Revision of Table 1 to include a 25 kV distribution surge arrester and special ratings for rotatingmachine protection(3) Increase in maximum rate-of-rise for front-of-wave sparkover test(4) Expanded range of currents in the discharge voltage test(5) Reduced high current test for station surge arresters to 65 kA(6) Expanded Table 4 to include test values for 550 kV and 800 kV system surge arresters(7) General revision of pressure-relief test.</abstract>
+  </front>
+</reference>

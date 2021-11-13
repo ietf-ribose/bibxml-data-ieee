@@ -1,0 +1,21 @@
+<reference anchor="IEEE.AIEE 93.1962" target="https://ieeexplore.ieee.org/document/7439713">
+  <front>
+    <title>AIEE Proposed Guide for Transformer Impulse Tests</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.7439713"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="23"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>impulse testing</keyword>
+    <abstract>The Standards of AIEE, NEMA, and ASA plus the purchaser's specifications determine the specific requirements for impulse tests. This Guide will not change the Standards in any way, but adds background information which will aid in the interpretation and application of these Standards. These Standards now provide for some alternate ways of conducting some tests or parts of tests. These alternates have been developed by different testing laboratories with consideration for their individual problems of transformer design, test facilities, etc. It is the object of this Guide to discuss these differences and to show how effective failure detection can be achieved with the testing techniques employed. Although the Guide is written primarily for power transformers, it is applicable generally to distribution and instrument transformers.</abstract>
+  </front>
+</reference>

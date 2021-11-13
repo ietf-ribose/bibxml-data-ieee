@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE P62-42-1/D-2.2013-09" target="https://ieeexplore.ieee.org/document/6924706">
+  <front>
+    <title>IEEE Draft Guide for the Application of Surge-Protective Components in Surge Protective Devices and Equipment Ports</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="October" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Electrical safety</keyword>
+    <keyword>Electrodes</keyword>
+    <keyword>Electric breakdown</keyword>
+    <keyword>Discharges (electric)</keyword>
+    <keyword>Partial discharge measurement</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Gas insulation</keyword>
+    <keyword>arc region</keyword>
+    <keyword>backup air-gap device</keyword>
+    <keyword>breakdown</keyword>
+    <keyword>capacitance</keyword>
+    <keyword>discharge</keyword>
+    <keyword>follow current</keyword>
+    <keyword>gas discharge tube</keyword>
+    <keyword>GDT</keyword>
+    <keyword>glow region</keyword>
+    <keyword>holdover voltage</keyword>
+    <keyword>insulation resistance</keyword>
+    <keyword>sparkover</keyword>
+    <keyword>three13electrode</keyword>
+    <keyword>two-electrode</keyword>
+    <abstract>The C62.42 guide series covers surge protective components (SPCs) used in power and telecom surge protective devices (SPDs) and equipment ports. This part on Gas Discharge Tube (GDT) technology SPCs covers: Component construction Characteristics Ratings Application examples The application examples are given in two informative Annexes covering: basic circuits and protection circuits specific to communications, local area networks, high frequency feeds and industrial services.</abstract>
+  </front>
+</reference>

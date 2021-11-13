@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1076-3.1997" target="https://ieeexplore.ieee.org/document/592543">
+  <front>
+    <title>IEEE Standard VHDL Synthesis Packages</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82399"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="October" day="17"/>
+    <keyword>Hardware design languages</keyword>
+    <keyword>interpretations</keyword>
+    <keyword>metalogical values</keyword>
+    <keyword>numeric VHDL vector types</keyword>
+    <keyword>signed</keyword>
+    <keyword>synthesis</keyword>
+    <keyword>unsigned</keyword>
+    <abstract>The current interpretation of common logic values and the association of numeric values to specific VHDL array types is described. This standard provides semantic for the VHDL synthesis domain, and enables formal verification and simulation acceleration in the VHDL based design. The standard interpretations are provided for values of standard logic types defined by IEEE Std 1164-1993, and of the BIT and BOOLEAN types defined in IEEE Std 1076-1993. The numeric types SIGNED and UNSIGNED and their associated operators define integer and natural number arithmetic for arrays of common logic values. Twos complement and binary encoding techniques are used. The numeric semantic is conveyed by two VHDL packages. This standard also contains any allowable modifications.</abstract>
+  </front>
+</reference>

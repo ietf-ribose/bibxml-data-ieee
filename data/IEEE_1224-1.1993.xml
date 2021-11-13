@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 1224-1.1993" target="https://ieeexplore.ieee.org/document/286076">
+  <front>
+    <title>IEEE Standard for Information Technology--X.400-Based Electronic Messaging--Application Program Interface (API) [Language Independent]</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119658"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="3"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Computer languages</keyword>
+    <keyword>Logic gates</keyword>
+    <keyword>Electronic messaging</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>X.400</keyword>
+    <keyword>Open systems interconnection</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Object management</keyword>
+    <keyword>OSI</keyword>
+    <keyword>Language independent</keyword>
+    <keyword>Electronic messaging</keyword>
+    <keyword>Application portability</keyword>
+    <keyword>API</keyword>
+    <abstract>Application program interfaces (APIs) to X.400-based electronic messaging services are defined in terms that are independent of any particular programming language. A general-purpose API that makes the functionality of a message transfer system (MTS) accessible to a message store (MS) or user agent (UA), or the functionality of a simple MS accessible to a UA, is provided. An X.400 gateway API divides a message transfer agent (MTA) into two software components, a messaging system gateway and an X.400 gateway service. This standard, and the language bindings derived from it, are intended to be used in conjunction with IEEE Std 1224-1993, which provides a general-purpose API for the creation, examination, modification, and deletion of OSI information objects.</abstract>
+  </front>
+</reference>

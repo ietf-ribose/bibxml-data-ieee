@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE Approved P802-1BR/D-3.3.2012-02" target="https://ieeexplore.ieee.org/document/6200811">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks--Bridge Port Extension</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Virtual environments</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>Data Center Bridging</keyword>
+    <keyword>DCB</keyword>
+    <keyword>Edge Virtual Bridging</keyword>
+    <keyword>EVB</keyword>
+    <keyword>IEEE 802.1BR</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <abstract>This standard specifies the operation of Bridge Port Extenders, including management, protocols, and algorithms. Bridge Port Extenders operate in support of the MAC Service by Extended Bridges. The PDF of this standard is available at no cost compliments of the GETIEEE802 program located at http://standards.ieee.org/about/get/802/</abstract>
+  </front>
+</reference>

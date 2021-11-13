@@ -1,0 +1,17 @@
+<reference anchor="IEEE.IEEE 841.2001" target="https://ieeexplore.ieee.org/document/929431">
+  <front>
+    <title>IEEE Standard for Petroleum and Chemical Industry</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92766"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>NEMA frame motors</keyword>
+    <keyword>polyphase induction motors</keyword>
+    <keyword>severe duty motors</keyword>
+    <keyword>squirrel cage motors</keyword>
+    <keyword>totally enclosed fan-cooled (TEFC) motors</keyword>
+    <abstract>This standard applies to high-efficiency TEFC, horizontal and vertical, single-speed, squirrel cage polyphase induction motors up to and including 500 hp, in NEMA frame sizes 143T and larger, for petroleum, chemical, and other severe duty applications (commonly referred to as severe duty motors). Excluded from the scope of this standard are motors with sleeve bearings and additional specific features required for explosion-proof motors.</abstract>
+  </front>
+</reference>

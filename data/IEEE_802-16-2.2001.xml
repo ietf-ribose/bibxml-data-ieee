@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 802-16-2.2001" target="https://ieeexplore.ieee.org/document/950355">
+  <front>
+    <title>Recommended Practice for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93348"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE 802.16 Standard</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>coexistence</keyword>
+    <keyword>fixed broadband wireless access (BWA)</keyword>
+    <keyword>interference</keyword>
+    <keyword>local multipoint distribution service (LMDS)</keyword>
+    <keyword>millimeter wave</keyword>
+    <keyword>multipoint</keyword>
+    <keyword>point-to-multipoint</keyword>
+    <keyword>radio</keyword>
+    <keyword>wireless metropolitan area network (WirelessMAN) standard</keyword>
+    <abstract>Superseded by IEEE Std 802.16.2-2004 Abstract:This IEEE recommended practice provides guidelines for minimizing interference in fixed broadband wireless access (BWA)systems operating in the frequency range 10 to 66 GHz, with particular focus on the range 23.5 to 43.5 GHz. It analyzes coexistence scenarios and provides guidance for system design,deployment,coordination,and frequency usage.</abstract>
+  </front>
+</reference>

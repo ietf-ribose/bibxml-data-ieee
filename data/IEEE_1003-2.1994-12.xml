@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE 1003-2.1994-12" target="https://ieeexplore.ieee.org/document/6880751">
+  <front>
+    <title>IEEE Standard for Information Technology--Portable Operating System Interfaces (POSIX(R))--Part 2: Shell and Utilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.6880751"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="August" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Portable computers</keyword>
+    <keyword>Computer applications</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>User interfaces</keyword>
+    <keyword>computer</keyword>
+    <keyword>computer environments</keyword>
+    <keyword>interfaces</keyword>
+    <keyword>interpretations</keyword>
+    <keyword>shell</keyword>
+    <keyword>utility</keyword>
+    <keyword>API</keyword>
+    <keyword>portability</keyword>
+    <keyword>data</keyword>
+    <keyword>processing</keyword>
+    <keyword>open systems</keyword>
+    <keyword>operating system</keyword>
+    <keyword>portable application</keyword>
+    <keyword>POSIX</keyword>
+    <keyword>user</keyword>
+    <abstract>The Portable Applications Standards Committee of the IEEE Computer Society carried out a series of analyses of various problems encountered by users of IEEE Std 1003.2-1992, IEEE Standard for Information Technology-Portable Operating System Interface (POSIX)-Part 2: Shell and Utilities. The results of its deliberations are presented in this document. The intent is to give the POSIX community reasonable ways of interpreting unclear portions of the standard.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 1301-3.1992" target="https://ieeexplore.ieee.org/document/8960946">
+  <front>
+    <title>IEEE Standard for a Metric Equipment Practice for Microcomputers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8960946"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Microcomputers</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>backplane</keyword>
+    <keyword>cabinets</keyword>
+    <keyword>interchangeability</keyword>
+    <keyword>metric microcomputer</keyword>
+    <keyword>Subrack</keyword>
+    <keyword>Rack</keyword>
+    <keyword>Printed board</keyword>
+    <keyword>Plug-in unit</keyword>
+    <keyword>Microcomputer component dimensions</keyword>
+    <keyword>Metric</keyword>
+    <keyword>Connector</keyword>
+    <abstract>Recommendations provide guidance in the implementation of the generic standard, IEEE Std 1301-1991, and the connector-related standards, such as IEEE Std 1301.1-1991 and IEEE Std 1301.3-1992. This recommended practice may be applied in all fields of electronics where equipment and installations are required to conform to a metric modular order. The IEEE 1301 metric equipment practices are in accordance with IEC 917 (1988) and IEC 917-0 (1989), including cabinet, rack, subracks, printed boards, and common connector-dependent dimensions for connector pitches of 2.5, 2.0, 1.5, 1.0, and 0.5 mm.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE Unapproved P1451-7/D-1.01.2009-01" target="https://ieeexplore.ieee.org/document/4799075">
+  <front>
+    <title>IEEE Standard for a Smart Transducer Interface for Sensors and Actuators</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>NCAP</keyword>
+    <keyword>RFID tag</keyword>
+    <keyword>sensor command</keyword>
+    <keyword>sensor integration</keyword>
+    <keyword>sensor interface</keyword>
+    <keyword>sensor standard</keyword>
+    <keyword>smart RFID tags</keyword>
+    <keyword>TEDS</keyword>
+    <keyword>TIM</keyword>
+    <abstract>This standard introduces data formats designed to facilitate communications between Radio Frequency IDentification (RFID) systems and smart RFID tags with integral transducers (sensors and actuators). The standard defines new Transducer Electronic Data Sheet (TEDS) formats for smart RFID tags, based on the IEEE 1451 family of standards. This standard also defines a comprehensive command set for smart RFID tags.</abstract>
+  </front>
+</reference>

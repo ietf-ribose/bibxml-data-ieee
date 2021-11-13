@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 802-3i.1990" target="https://ieeexplore.ieee.org/document/7508548">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.7508548"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="July" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Twisted pair wiring</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Baseband</keyword>
+    <keyword>LAN</keyword>
+    <keyword>medium</keyword>
+    <keyword>twisted pair</keyword>
+    <keyword>baseband</keyword>
+    <keyword>10baset</keyword>
+    <abstract>This Local Area Network (LAN)standard specifies the Type 10BASE-T Medium Attachment Unit (MAU) and one specific unshielded twisted-pair medium for use with the MAU. This MAU is specified for use in a 10 Mb/s baseband CSMA/CD LAN. Guidelines for its application in a repeatered multisegment heterogeneous CSMA/CD network are included.</abstract>
+  </front>
+</reference>

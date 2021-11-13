@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P1597-2/D-7.1.09-Oct20" target="https://ieeexplore.ieee.org/document/5286924">
+  <front>
+    <title>IEEE Draft Recommended Practice for Validation of Computational Electromagnetics Computer Modeling and Simulations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This recommended practice is a companion document for IEEE Std. 1597.1™-2008.1 It provides examples and problem sets to be used in the validation of computational electromagnetics (CEM) computer modeling and simulation techniques, codes, and models. It is applicable to a wide variety of electromagnetic (EM) applications including but not limited to the fields of antennas, signal integrity (SI), radar cross section (RCS), and electromagnetic compatibility (EMC). This document shows how to validate a particular solution data set by comparing it to the data set obtained by measurements, alternate codes, canonical, or analytic methods.</abstract>
+  </front>
+</reference>

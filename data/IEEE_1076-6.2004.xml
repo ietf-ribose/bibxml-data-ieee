@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE 1076-6.2004" target="https://ieeexplore.ieee.org/document/1342563">
+  <front>
+    <title>IEEE Standard for VHDL Register Transfer Level (RTL) Synthesis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94802"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="October" day="20"/>
+    <keyword>hardware description language</keyword>
+    <keyword>logic synthesis</keyword>
+    <keyword>register transfer level (RTL)</keyword>
+    <keyword>very highspeedintegrated circuit hardware description language (VHDL)</keyword>
+    <abstract>This document specifies a standard for use of very high-speed integrated circuit hardwaredescription language (VHDL) to model synthesizable register-transfer level digital logic. Astandard syntax and semantics for VHDL register-transfer level synthesis is defined. The subset ofthe VHDL language, which is synthesizable, is described, and nonsynthesizable VHDL constructsare identified that should be ignored or flagged as errors.</abstract>
+  </front>
+</reference>

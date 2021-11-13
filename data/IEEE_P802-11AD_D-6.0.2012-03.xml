@@ -1,0 +1,50 @@
+<reference anchor="IEEE.IEEE P802-11ad/D-6.0.2012-03" target="https://ieeexplore.ieee.org/document/6171799">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Patents</keyword>
+    <keyword>IEEE 802.11 Standards</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Throughput</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>60 GHz</keyword>
+    <keyword>millimeter-wave</keyword>
+    <keyword>DBand</keyword>
+    <keyword>beamforming</keyword>
+    <keyword>very high throughput</keyword>
+    <keyword>VHT</keyword>
+    <keyword>personal basic service set</keyword>
+    <keyword>PBSS</keyword>
+    <keyword>GCMP</keyword>
+    <keyword>service period</keyword>
+    <keyword>SP</keyword>
+    <keyword>contention-based access period</keyword>
+    <keyword>CBAP</keyword>
+    <keyword>beacon transmission interval</keyword>
+    <keyword>BTI</keyword>
+    <keyword>announcement time</keyword>
+    <keyword>AT</keyword>
+    <keyword>association beamforming training time</keyword>
+    <keyword>A-BFT</keyword>
+    <keyword>multi-band operation</keyword>
+    <keyword>fast session transfer</keyword>
+    <keyword>FST</keyword>
+    <keyword>PBSS control point</keyword>
+    <keyword>PCP</keyword>
+    <keyword>clustering</keyword>
+    <keyword>spatial sharing</keyword>
+    <keyword>dynamic allocation of service period</keyword>
+    <keyword>dynamic truncation of service period</keyword>
+    <keyword>dynamic extension of service period</keyword>
+    <keyword>relay operation.</keyword>
+    <abstract>This amendment defines modifications to both the 802.11 physical layers (PHY) and the 802.11 Medium Access Control Layer (MAC) to enable operation in the 60 GHz frequency band capable of very high throughput.</abstract>
+  </front>
+</reference>

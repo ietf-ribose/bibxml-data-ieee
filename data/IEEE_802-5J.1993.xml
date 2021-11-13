@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 802-5j.1993" target="https://ieeexplore.ieee.org/document/467403">
+  <front>
+    <title>IEEE Trial Use Standard for Information Processing Systems-Local Area Networks-Part 5: Token Ring Access Method and Physical Layer Spec.-Fiber Optic Media Station Attachment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122161"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="November" day="30"/>
+    <keyword>IEC Standards</keyword>
+    <keyword>Fiber optics</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Writing</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Trunk coupling unit</keyword>
+    <keyword>Token ring</keyword>
+    <keyword>Optical transmitter (OTX)</keyword>
+    <keyword>Optical receiver (ORX)</keyword>
+    <keyword>Local area network (LAN)</keyword>
+    <keyword>Fibre optic station attachment</keyword>
+    <keyword>Fibre optic medium interface (FOMI)</keyword>
+    <keyword>Fibre optic interface (FOI)</keyword>
+    <abstract>The functional, electrical, optical, and mechanical characteristics of a fibre optic interface for connecting a 4- or 16-Mbit/s token ring station to the trunk coupling unit of a token ring are specified. This technical report is based upon a fibre optic transmitter, a channel of multimode graded-index fibres, and a direct-detection photodiode receiver; and includes signaling provisions for bypass of the station from the ring and self-test capabilities.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.ANSI/IEEE 460.1988" target="https://ieeexplore.ieee.org/document/26506">
+  <front>
+    <title>IEEE Standard for Electrical Measuring Transducer for Converting AC Electrical Quantities into DC Electrical Quantities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122820"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="1"/>
+    <keyword>Electric variables measurement</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Transducers</keyword>
+    <keyword>electrical</keyword>
+    <keyword>transducers</keyword>
+    <keyword>converting</keyword>
+    <keyword>ac</keyword>
+    <keyword>dc</keyword>
+    <abstract>This standard applies to measuring transducers used for converting AC electrical quantities such as current, voltage, power (active or reactive), power factor, phase angle or frequency to direct current or voltage. Within the effective range, a change of output is a function of the corresponding change of input that produces it. An auxiliary supply may be needed to power active circuitry.</abstract>
+  </front>
+</reference>

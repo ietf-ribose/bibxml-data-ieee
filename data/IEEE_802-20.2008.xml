@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 802-20.2008" target="https://ieeexplore.ieee.org/document/4618042">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4618042"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="July" day="12"/>
+    <keyword>802.20-2008</keyword>
+    <keyword>access node</keyword>
+    <keyword>access terminal</keyword>
+    <keyword>base station</keyword>
+    <keyword>broadband</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAN</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>user terminal</keyword>
+    <keyword>vehicular mobility</keyword>
+    <keyword>wireless access</keyword>
+    <abstract>The technical requirements of this standard form a compatibility standard for mobile broadband wireless access systems. The standard ensures that a compliant access terminal (AT) or user terminal (UT) can obtain service through any access node (AN) or base station (BS) conforming to properly selected modes of this standard, consistent with equipment and operator requirements, thus providing a framework for the rapid development of cost-effective, multivendor mobile broadband wireless access systems. This compatibility standard is targeted for use in a wide variety of licensed frequency bands and regulatory environments.This standard provides for future standardized extension capabilities. The architecture defined by this standard permits such expansion without the loss of backward compatibility.</abstract>
+  </front>
+</reference>

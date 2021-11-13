@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE PC62-43-1/D-29.2019-05" target="https://ieeexplore.ieee.org/document/8746839">
+  <front>
+    <title>IEEE Draft Guide for Surge Protectors and Surge Protective Circuits Used in Information and Communication Technology Circuits (ICT), Including Smart Grid</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="June" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Smart grids</keyword>
+    <keyword>Information and communication technology</keyword>
+    <keyword>Circuits and systems</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>coax protection</keyword>
+    <keyword>ICT</keyword>
+    <keyword>IEEE C62.43.1</keyword>
+    <keyword>information and communication technology circuit protection</keyword>
+    <keyword>PoE</keyword>
+    <keyword>power over ethernet surge protection</keyword>
+    <keyword>smart grid communications protection</keyword>
+    <keyword>SPD</keyword>
+    <keyword>surge protective circuits</keyword>
+    <keyword>surge protective devices</keyword>
+    <keyword>surge protectors</keyword>
+    <abstract>Covered in this guide is the application of surge protective devices (SPD) and surge protective circuits (collectively called surge protectors) used to protect information and communication technology (ICT) circuits, including smart grid. This guide is not intended to cover individual surge protective components. Specifically excluded from this guide are stand-alone ac power protectors.</abstract>
+  </front>
+</reference>

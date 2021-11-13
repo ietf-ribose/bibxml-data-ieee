@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE C37-106.2003" target="https://ieeexplore.ieee.org/document/1270518">
+  <front>
+    <title>IEEE Guide for Abnormal Frequency Protection for Power Generating Plants</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94434"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Power generation control</keyword>
+    <keyword>Industrial plants</keyword>
+    <keyword>load shedding</keyword>
+    <keyword>overexcitation</keyword>
+    <keyword>overfrequency</keyword>
+    <keyword>underfrequency</keyword>
+    <abstract>Supersedes C37.106-1987 (R1992). This guide has been prepared to assist the protection engineer in applying relays for the protection of generating plant equipment from damage caused by operation at abnormal frequencies including overexcitation.</abstract>
+  </front>
+</reference>

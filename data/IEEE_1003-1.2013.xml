@@ -1,0 +1,49 @@
+<reference anchor="IEEE.IEEE 1003-1.2013" target="https://ieeexplore.ieee.org/document/6506091">
+  <front>
+    <title>Standard for Information Technology&amp;#8212;Portable Operating System Interface (POSIX(TM)) Base Specifications, Issue 7</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6506091"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="April" day="19"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Operating systems</keyword>
+    <keyword>Application programming interfaces</keyword>
+    <keyword>File systems</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>application program interface (API)</keyword>
+    <keyword>argument</keyword>
+    <keyword>asynchronous</keyword>
+    <keyword>basic regular expression (BRE)</keyword>
+    <keyword>batch job</keyword>
+    <keyword>batch system</keyword>
+    <keyword>built-in utility</keyword>
+    <keyword>byte</keyword>
+    <keyword>child</keyword>
+    <keyword>command language interpreter</keyword>
+    <keyword>CPU</keyword>
+    <keyword>extended regular expression (ERE)</keyword>
+    <keyword>FIFO</keyword>
+    <keyword>file access control mechanism</keyword>
+    <keyword>IEEE 1003.1(TM)</keyword>
+    <keyword>input/output (I/O)</keyword>
+    <keyword>job control</keyword>
+    <keyword>network</keyword>
+    <keyword>parent</keyword>
+    <keyword>portable operating system interface (POSIX(TM))</keyword>
+    <keyword>shell</keyword>
+    <keyword>stream</keyword>
+    <keyword>string</keyword>
+    <keyword>synchronous</keyword>
+    <keyword>system</keyword>
+    <keyword>thread</keyword>
+    <keyword>X/Open System Interface (XSI)</keyword>
+    <abstract>POSIX.1-2008 is simultaneously IEEE Std 1003.1™-2008 and The Open Group Technical Standard Base Specifications, Issue 7. This 2013 Edition includes IEEE Std 1003.1-2008/Cor 1-2013 incorporated into IEEE Std 1003.1-2008 (the base document). The Technical Corrigendum addresses problems discovered since the approval of IEEE Std 1003.1-2008. POSIX.1-2008 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level. POSIX.1-2008 is intended to be used by both application developers and system implementors and comprises four major components (each in an associated volume).</abstract>
+  </front>
+</reference>

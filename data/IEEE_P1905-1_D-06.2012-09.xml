@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE P1905-1/D-06.2012-09" target="https://ieeexplore.ieee.org/document/6298901">
+  <front>
+    <title>IEEE Draft Standard for a Convergent Digital Home Network for Heterogeneous Technologies</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="September" day="11"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Security</keyword>
+    <keyword>Digital communication</keyword>
+    <keyword>Home automation</keyword>
+    <keyword>Network topology</keyword>
+    <keyword>IEEE 1905.1</keyword>
+    <keyword>IEEE 1901</keyword>
+    <keyword>abstraction layer</keyword>
+    <keyword>MoCA</keyword>
+    <keyword>Wi-Fi</keyword>
+    <keyword>IEEE 802.11</keyword>
+    <keyword>Fragmentation and Reassembly</keyword>
+    <keyword>Topology Discovery Protocol</keyword>
+    <keyword>Legacy Bridge Discovery</keyword>
+    <keyword>Security</keyword>
+    <keyword>Push Button</keyword>
+    <keyword>Pairwise Master Key</keyword>
+    <keyword>AP Autoconfiguration</keyword>
+    <keyword>Registration</keyword>
+    <keyword>Data Models</keyword>
+    <abstract>1905.1 defines an abstraction layer for multiple home networking technologies that provides a common interface to widely deployed home networking technologies: IEEE 1901 over power lines, IEEE 802.11 for wireless, Ethernet over twisted pair cable and MoCA 1.1 over coax. The 1905.1 abstraction layer supports connectivity selection for transmission of packets arriving from any interface or application. The 1905.1 layer does not require modification to the underlying home networking technologies and hence does not change the behavior or implementation of existing home networking technologies. 1905.1 specification introduces a layer between layers 2 and 3 that abstracts the individual details of each interface, aggregates available bandwidth, and facilitates seamless integration. This layer simplifies setup, for example, by eliminating the need for a user to enter different passwords to access each of the links. The 1905.1 also facilitates end-to-end quality of service (QoS) while simplifying the introduction of new devices to the network, establishing secure connections, extending network coverage, and facilitates advanced network management features including discovery, path selection, auto configuration and Quality of Service (QoS) negotiation.</abstract>
+  </front>
+</reference>

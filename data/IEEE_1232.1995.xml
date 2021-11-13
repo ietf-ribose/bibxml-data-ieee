@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1232.1995" target="https://ieeexplore.ieee.org/document/499685">
+  <front>
+    <title>IEEE Standard for Artificial Intelligence and Expert System Tie to Automatic Test Equipment (AI-ESTATE): Overview and Architecture</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.80816"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="January" day="12"/>
+    <keyword>Automatic testing</keyword>
+    <keyword>Expert systems</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software standards</keyword>
+    <keyword>Knowledge representation</keyword>
+    <keyword>AI-ESTATE</keyword>
+    <keyword>artificial</keyword>
+    <keyword>intelligence</keyword>
+    <keyword>diagnosis</keyword>
+    <keyword>system test</keyword>
+    <keyword>unit under test</keyword>
+    <keyword>UUT</keyword>
+    <abstract>SUPERSEDED BY IEEE STD 1232-2002 This document is the base standard for the AI-ESTATE set of standards. The overall concept of AIESTATE, which is a set of specifications for data interchange and for standard services for the test and diagnostic environment, is defined; mandatory requirements for implementing AI-ESTATE are specified; the elements of AI-ESTATE and their interrelationships are described; guidelines and requirements to govern the documents in the AI-ESTATE set of standards are established; and the terminology used throughout the set is defined. The purpose of the AI-ESTATE set of standards is to standardize interfaces between functional elements of an intelligent test environment and representations of knowledge and data for the functional elements of the intelligent test environment.</abstract>
+  </front>
+</reference>

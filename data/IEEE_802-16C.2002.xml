@@ -1,0 +1,16 @@
+<reference anchor="IEEE.IEEE 802-16c.2002" target="https://ieeexplore.ieee.org/document/1167375">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94227"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This amendment updates and expands Clause 12 of IEEE Std 802.16-2001, which concerns system profiles that list sets of features and functions to be used in typical implementation cases. Errors and inconsistencies in IEEE Std 802.16-2001 are also corrected. The scope is limited to 10-66 GHz.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,41 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-1AE.2013" target="https://ieeexplore.ieee.org/document/6679207">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Part 1AE: Media access control (MAC) security</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6679207"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="December" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>integrity/confidentiality</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security and tack</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MSAP</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>service access point</keyword>
+    <keyword>transparent bridging</keyword>
+    <abstract>This standard specifies how all or part of a network can be secured transparently to peer protocol entities that use the MAC Service provided by IEEE 802(R) LANs to communicate. MAC security (MACsec) provides connectionless user data confidentiality, frame data integrity, and data origin authenticity.</abstract>
+  </front>
+</reference>

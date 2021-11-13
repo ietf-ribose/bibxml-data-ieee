@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 802-3aq.2006" target="https://ieeexplore.ieee.org/document/4014412">
+  <front>
+    <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.248145"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Optical fiber networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>802.3aq</keyword>
+    <keyword>10GBASE-LRM</keyword>
+    <keyword>10 Gigabit Ethernet</keyword>
+    <keyword>multimode fiber</keyword>
+    <keyword>physical medium dependent (PMD) sublayer</keyword>
+    <abstract>Amendment to IEEE Std 802.3-2005 This amendment to IEEE Std 802.3-2005 specifies a new PMD, 10GBASE-LRM, for serial, 10 Gb/s operation over up to 220 m of 62.5 µm and 50 µm multimode fiber, including installed, FDDI grade multimode fiber</abstract>
+  </front>
+</reference>

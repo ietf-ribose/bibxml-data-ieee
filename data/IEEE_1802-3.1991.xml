@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1802-3.1991" target="https://ieeexplore.ieee.org/document/159142">
+  <front>
+    <title>Conformance Test Methodology for IEEE Standards for Local and Metropolitan Area Networks:</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101033"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Carrier sense multiaccess</keyword>
+    <keyword>Computer networks</keyword>
+    <keyword>Conformance testing</keyword>
+    <keyword>Standards</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local</keyword>
+    <keyword>networks</keyword>
+    <keyword>AUI</keyword>
+    <keyword>compliance</keyword>
+    <keyword>MAC</keyword>
+    <keyword>MAU</keyword>
+    <keyword>PICS</keyword>
+    <keyword>PIXIT</keyword>
+    <keyword>PLS</keyword>
+    <keyword>Conformance testing</keyword>
+    <abstract>Methods for conformance testing to satisfy requirements arising from the ISO/IEC 8802-3 [ANSI/IEEE Std 802.3] standard are defined. The conformance test suite is intended to detect incorrect implementations of the ISO/IEC 8802-3 [ANSI/IEEE Std 802.3] standard. It is comprised of two categories of test groups. The first category relates to basic interconnection testing and the second to capability and behavior testing. The test setups, adapters, and instruments used are described.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P1597-1/D-4.3.2008-06" target="https://ieeexplore.ieee.org/document/4588277">
+  <front>
+    <title>IEEE Draft Standard for Validation of Computational Electromagnetics Computer Modeling and Simulations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard defines a method to validate computational electromagnetics (CEM) computer modeling and simulation (M&amp;S) techniques, codes, and models. It is applicable to a wide variety of electromagnetic (EM) applications including but not limited to the fields of electromagnetic compatibility (EMC), radar cross section (RCS), signal integrity (SI), and antennas. Validation of a particular solution data set can be achieved by comparison to the data set obtained by measurements, alternate codes, canonical, or analytic methods.</abstract>
+  </front>
+</reference>

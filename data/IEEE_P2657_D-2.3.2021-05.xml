@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE P2657/D-2.3.2021-05" target="https://ieeexplore.ieee.org/document/9444270">
+  <front>
+    <title>IEEE Approved Draft Guide on Energy Feedback Systems for DC Traction Power Supply System</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>Feedback</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>Power system economics</keyword>
+    <keyword>DC traction</keyword>
+    <keyword>energy saving</keyword>
+    <keyword>energy feedback system</keyword>
+    <keyword>voltage stabilization</keyword>
+    <keyword>modeling and simulation</keyword>
+    <keyword>economic consideration.</keyword>
+    <abstract>In the DC electric railways, when a train regenerates power, usually the power has to be consumed within the DC network, because the DC Traction Power Systems are usually not reversible. There are several technologies to improve receptivity: energy consumption, energy feedback and energy storage. Solution selection depends on the application. The Energy Feedback Systems (EFSs) convert energy to AC power system as system DC voltage rises. Engineers are helped by this guide to decide where these EFSs can provide the greatest benefits, design solutions with the maximum effectiveness, and evaluate the costs and benefits of developing new EFS projects.</abstract>
+  </front>
+</reference>

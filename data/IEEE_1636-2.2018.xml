@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 1636-2.2018" target="https://ieeexplore.ieee.org/document/8664699">
+  <front>
+    <title>IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible Markup Language (XML)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8664699"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="March" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Software maintenance</keyword>
+    <keyword>Information processing</keyword>
+    <keyword>Ontologies</keyword>
+    <keyword>Automatic testing</keyword>
+    <keyword>automated test system (ATS)</keyword>
+    <keyword>extensible markup language (XML)</keyword>
+    <keyword>IEEE 1636.2</keyword>
+    <keyword>maintenance action information (MAI)</keyword>
+    <keyword>OWL ontology</keyword>
+    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>Promoting and facilitating interoperability components of automatic test systems where actions taken during maintenance need to be shared is addressed in this standard. The standard thus facilitates the capture of maintenance action information data in storage devices and databases, facilitating online and offline analysis. The maintenance action information schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format is expressed in both the OWL and XML formats.</abstract>
+  </front>
+</reference>

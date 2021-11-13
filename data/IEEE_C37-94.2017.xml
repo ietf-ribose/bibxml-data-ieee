@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE C37-94.2017" target="https://ieeexplore.ieee.org/document/7984803">
+  <front>
+    <title>IEEE Standard for N times 64 kbps Optical Fiber Interfaces between Teleprotection and Multiplexer Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7984803"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="July" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Optical fiber communication</keyword>
+    <keyword>Alarm systems</keyword>
+    <keyword>Bit error rate</keyword>
+    <keyword>Signal processing</keyword>
+    <keyword>Loss measurement</keyword>
+    <keyword>Redundancy</keyword>
+    <keyword>alarm indication signal</keyword>
+    <keyword>bit error rate</keyword>
+    <keyword>cyclic redundancy check</keyword>
+    <keyword>IEEE C37.94(TM)</keyword>
+    <keyword>loss of frame</keyword>
+    <keyword>loss of signal</keyword>
+    <keyword>multimode optical fiber</keyword>
+    <keyword>multiplexer</keyword>
+    <keyword>remote defect indication</keyword>
+    <keyword>single-mode optical fiber</keyword>
+    <keyword>teleprotection</keyword>
+    <keyword>unit intervals</keyword>
+    <abstract>An optical interface for use between teleprotection and digital multiplexer equipment that can operate at a data rate of N×64 kbps where N = 1, 2...12 is described in this standard. Requirements for both physical connection and the communications timing are also included.</abstract>
+  </front>
+</reference>

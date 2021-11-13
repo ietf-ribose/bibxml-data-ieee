@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P802-16Rev2/D-8.2008-12" target="https://ieeexplore.ieee.org/document/4711523">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks Part 16: Air Interface for Broadband Wireless Access Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard specifies the air interface, including the medium access control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint broadband wireless access (BWA) systems providing multiple services. The MAC is structured to support multiple PHY specifications, each suited to a particular operational environment.</abstract>
+  </front>
+</reference>

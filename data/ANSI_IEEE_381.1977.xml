@@ -1,0 +1,25 @@
+<reference anchor="IEEE.ANSI/IEEE 381.1977" target="https://ieeexplore.ieee.org/document/29019">
+  <front>
+    <title>IEEE Standard Criteria for Type Tests of Class 1E Modules Used in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.81210"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="20"/>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>type</keyword>
+    <keyword>tests</keyword>
+    <keyword>clas 1E</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>modules</keyword>
+    <abstract>Minimum requirements for, and guidance regarding, the methods and procedures for qualification of power-driven valve actuators with safety-related functions are established. The qualification of all types of power-driven valve actuators, including damper actuators, is covered. The standard qualification cases and their environmental parameters for the usual locations of safety-related equipment in a nuclear generating station are described. Test procedures are presented.</abstract>
+  </front>
+</reference>

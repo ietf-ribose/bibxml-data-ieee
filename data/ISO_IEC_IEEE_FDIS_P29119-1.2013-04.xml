@@ -1,0 +1,19 @@
+<reference anchor="IEEE.ISO/IEC/IEEE FDIS P29119-1.2013-04" target="https://ieeexplore.ieee.org/document/6512514">
+  <front>
+    <title>IEEE Approved Draft Standard for Software and Systems Engineering--Software Testing--Part 1: Concepts and Definitions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software testing</keyword>
+    <abstract>The scope of this standard is the testing of software-intensive systems.Software is present in many of the products we use today and these products are getting more and more complex; for example a calendar on your PC, an electronic game, a mobile telephone, a car, or an aircraft. Software-intensive systems may describe a pure software system or may consist of a number of subsystems, such as hardware, network, documentation, data, data repository systems, license agreements, descriptions of manual processes, and of course, software.This standard supports testing across the entire software development lifecycle, from static testing of requirements, specifications and other documentation, unit or component testing that is typically carried out by developers, integration testing of program modules, system testing of integrated systems, and user acceptance testing that is usually carried out by end-users. It also supports testing during maintenance cycles that typically occur after release.</abstract>
+  </front>
+</reference>

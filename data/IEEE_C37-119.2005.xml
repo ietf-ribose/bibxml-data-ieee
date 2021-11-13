@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE C37-119.2005" target="https://ieeexplore.ieee.org/document/1605067">
+  <front>
+    <title>IEEE Guide for Breaker Failure Protection of Power Circuit Breakers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99232"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="July" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Circuit breakers</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Power system relaying</keyword>
+    <keyword>breaker failure</keyword>
+    <keyword>local backup</keyword>
+    <keyword>protection</keyword>
+    <keyword>relay application</keyword>
+    <keyword>relaying</keyword>
+    <abstract>This guide compiles information on the application considerations for breaker failure protection. The reasons for local backup protection are described. Breaker failure schemes are discussed. Issues relating to the settings of current detectors and timers are discussed for various applications.</abstract>
+  </front>
+</reference>

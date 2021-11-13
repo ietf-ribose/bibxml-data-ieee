@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 802-22.2019" target="https://ieeexplore.ieee.org/document/9086951">
+  <front>
+    <title>IEEE Standard for Information Technology--Telecommunications and information exchange between systems--Wireless Regional Area Networks (WRAN)--Specific requirements--Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Policies and Procedures for Operation in the Bands that Allow Spectrum Sharing where the Communications Devices May Opportunistically Operate in the Spectrum of Primary Service</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9086951"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Regional area networks</keyword>
+    <keyword>Wireless communcation</keyword>
+    <keyword>Radio access networks</keyword>
+    <keyword>Meda Access Protocol</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>broadband wireless access network</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>fixed user terminals</keyword>
+    <keyword>IEEE 802.22(TM)</keyword>
+    <keyword>portable user terminals</keyword>
+    <keyword>radio spectrum sensing</keyword>
+    <keyword>regional area network</keyword>
+    <keyword>WRAN standards</keyword>
+    <abstract>This standard specifies the air interface, including the cognitive medium access control layer (MAC) and physical layer (PHY), of point-to-multipoint wireless regional area networks (WRANs) comprised of a professional fixed base station (BS) with fixed and portable user terminals operating in the VHF/UHF TV broadcast bands between 54 MHz to 862 MHz, and potentially in the 1300 MHz to 1750 MHz, and 2700 MHz to 3700 MHz bands provided the regulatory regime allows it.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,23 @@
+<reference anchor="IEEE.AIEE 430.1958" target="https://ieeexplore.ieee.org/document/7450125">
+  <front>
+    <title>AIEE Proposed Recommended Practice for Toroial Magnetic tape Wound Cores</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1958.7450125"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="April" day="8"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Magnetic tape</keyword>
+    <keyword>Magnetic cores</keyword>
+    <keyword>Magnetic materials</keyword>
+    <keyword>Shape analysis</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>Bobbin would cores</keyword>
+    <abstract>The scope of this recommended practice is restricted to the recommendation of nominal dimensions for toroidal strip-wound cores made from magnetic tape between approximately 0.014 and 0.005 inch in thickness and without regard to the type of magnetic material used. Bobbin-wound cores of ultra-thin magnetic tapes are not included. Also excluded from consideration are recommendations on dimensional tolerances, space factors, number of wraps of tape, core case shape or size, and particular values of strip thickness.</abstract>
+  </front>
+</reference>

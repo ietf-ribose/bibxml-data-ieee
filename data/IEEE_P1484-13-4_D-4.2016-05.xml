@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE P1484-13-4/D-4.2016-05" target="https://ieeexplore.ieee.org/document/7469290">
+  <front>
+    <title>IEEE Approved Draft Recommended Practice for Learning Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="May" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Content management</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>Data aggregation</keyword>
+    <keyword>Content packaging</keyword>
+    <keyword>aggregation format</keyword>
+    <keyword>conceptual model</keyword>
+    <keyword>content aggregation</keyword>
+    <keyword>digital aggregation</keyword>
+    <keyword>digital resource</keyword>
+    <keyword>IEEE 1484.13.6</keyword>
+    <keyword>IMS Content Packaging Information Model</keyword>
+    <keyword>IMS CP</keyword>
+    <keyword>RAMLET</keyword>
+    <keyword>resource aggregation</keyword>
+    <keyword>resource aggregation format</keyword>
+    <abstract>This recommended practice specifies how the elements and attributes defined in the IMS Content Packaging Information Model (CP) Version 1.2 relate to the components of the conceptual model for resource aggregation defined in IEEE Std 1484.13.1(TM)-2012.</abstract>
+  </front>
+</reference>

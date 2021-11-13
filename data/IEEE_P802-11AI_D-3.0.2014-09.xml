@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE P802-11ai/D-3.0.2014-09" target="https://ieeexplore.ieee.org/document/6953279">
+  <front>
+    <title>IEEE Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="November" day="11"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Fast Initial Link setup</keyword>
+    <keyword>FILS</keyword>
+    <abstract>This amendment defines mechanisms that provide IEEE Std 802.11 networks with fastinitial link setup methods that do not degrade the security offered by Robust Security NetworkAssociation (RSNA) already defined in IEEE Std 802.11.</abstract>
+  </front>
+</reference>

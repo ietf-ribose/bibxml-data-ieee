@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE 1857-3.2013" target="https://ieeexplore.ieee.org/document/6716945">
+  <front>
+    <title>IEEE Standard for System of Advanced Audio and Video Coding</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6716945"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="January" day="20"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Video coding</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Audio coding</keyword>
+    <keyword>File formats</keyword>
+    <keyword>Packetization</keyword>
+    <keyword>audio</keyword>
+    <keyword>box</keyword>
+    <keyword>file format</keyword>
+    <keyword>IEEE 1857.3(tm)</keyword>
+    <keyword>NAL unit</keyword>
+    <keyword>packetization</keyword>
+    <keyword>RTP payload format</keyword>
+    <keyword>storage</keyword>
+    <keyword>system</keyword>
+    <keyword>track</keyword>
+    <keyword>transmission</keyword>
+    <keyword>video</keyword>
+    <abstract>Storage file formats and real-time transport protocol (RTP) payload formats for IEEE 1857™ video and IEEE 1857.2™ audio are defined. The storage of video and audio not only uses the existing capabilities of the ISO base media file format, but also defines extensions to support specific features of the IEEE 1857 video codec and IEEE 1857.2 audio codec. The target applications and services include but are not limited to Internet media streaming, IPTV, video conference, video telephony, and video-on-demand.</abstract>
+  </front>
+</reference>

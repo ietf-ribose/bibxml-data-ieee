@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 802-5" target="https://ieeexplore.ieee.org/document/4140840">
+  <front>
+    <title>IEEE Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks --Specific requirements -- Part 5: Token ring access method and physical layer specifications -- Amendment 1: Dedicated token ring operation and fibre optic media</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.339588"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="February" day="9"/>
+    <keyword>data processing interconnection</keyword>
+    <keyword>dedicated token ring</keyword>
+    <keyword>fibre optic media</keyword>
+    <keyword>full duplex operation</keyword>
+    <keyword>insertion key</keyword>
+    <keyword>local area network (LAN)</keyword>
+    <keyword>medium access control (MAC)</keyword>
+    <keyword>token ring</keyword>
+    <abstract>This amendment to Local and Metropolitan Area Network standard, ISO/IEC 8802-5 : 1998, is part of a family of local area network (LAN) standards dealing with the physical and data link layers as defined by the ISO/IEC Open Systems Interconnection Basic Reference Model. The requirements for dedicated token ring (DTR) operation are specified, including the changes and additions to the Medium Access Control (MAC) layer to provide for an additional full-duplex mode of operation (switching), and for interconnection of shared LAN segments to switch ports. Also specified are the characteristics of a fibre optic interface for connecting a 4 Mbit/s or 16 Mbit/s token ring station to the trunk coupling unit (TCU) of a token ring, including station, port, and channel requirements. Fibre optic trunk signaling recommendations are also made.</abstract>
+  </front>
+</reference>

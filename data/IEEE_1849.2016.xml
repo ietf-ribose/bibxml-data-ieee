@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 1849.2016" target="https://ieeexplore.ieee.org/document/7740858">
+  <front>
+    <title>IEEE Standard for eXtensible Event Stream (XES) for Achieving Interoperability in Event Logs and Event Streams</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7740858"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="November" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Event recognition</keyword>
+    <keyword>Behavioral sciences</keyword>
+    <keyword>XML</keyword>
+    <keyword>Information systems</keyword>
+    <keyword>Semantics</keyword>
+    <keyword>Grammar</keyword>
+    <keyword>event log</keyword>
+    <keyword>event stream</keyword>
+    <keyword>extensions</keyword>
+    <keyword>IEEE 1849(TM)</keyword>
+    <keyword>system behavior</keyword>
+    <keyword>XML</keyword>
+    <abstract>A grammar for a tag-based language whose aim is to provide designers of information systems with a unified and extensible methodology for capturing systems behaviors by means of event logs and event streams is defined in the XES standard. An XML Schema describing the structure of an XES event log/stream and a XML Schema describing the structure of an extension of such a log/stream are included in this standard. Moreover, a basic collection of so-called XES extension prototypes that provide semantics to certain attributes as recorded in the event log/stream is included in this standard.</abstract>
+  </front>
+</reference>

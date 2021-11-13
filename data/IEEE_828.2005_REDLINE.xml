@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 828.2005 Redline" target="https://ieeexplore.ieee.org/document/6044675">
+  <front>
+    <title>IEEE Standard for Software Configuration Management Plans</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="August" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software development management</keyword>
+    <keyword>Software architecture</keyword>
+    <keyword>Software maintenance</keyword>
+    <keyword>configuration control</keyword>
+    <keyword>configuration control board</keyword>
+    <keyword>configuration identification</keyword>
+    <keyword>configuration item</keyword>
+    <keyword>configuration review</keyword>
+    <keyword>configuration status accounting</keyword>
+    <keyword>release management</keyword>
+    <keyword>software configuration management</keyword>
+    <keyword>software configuration management plan</keyword>
+    <abstract>The minimum required contents of a Software Configuration Management (SCM) Plan are established via this standard. This standard applies to the entire life cycle of critical software (e.g., where failure would impact safety or cause large financial or social losses). It also applies to noncritical software and to software already developed. The application of this standard is not restricted to any form, class, or type of software.</abstract>
+  </front>
+</reference>

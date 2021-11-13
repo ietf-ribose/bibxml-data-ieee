@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE P1666/D-3.2011-05" target="https://ieeexplore.ieee.org/document/5776618">
+  <front>
+    <title>IEEE Draft Standard for Standard SystemC(R) Language Reference Manual</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Manuals</keyword>
+    <keyword>Software standards</keyword>
+    <keyword>Software systems</keyword>
+    <keyword>C++</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>digital systems</keyword>
+    <keyword>discrete event simulation</keyword>
+    <keyword>electronic design automation</keyword>
+    <keyword>electronic systems</keyword>
+    <keyword>electronic system level</keyword>
+    <keyword>embedded software</keyword>
+    <keyword>fixed-point</keyword>
+    <keyword>hardware description language</keyword>
+    <keyword>hardware design</keyword>
+    <keyword>hardware verification</keyword>
+    <keyword>SystemC</keyword>
+    <keyword>system modeling</keyword>
+    <keyword>system-on-chip</keyword>
+    <keyword>transaction level</keyword>
+    <abstract>SystemC(R) is defined in this standard. SystemC is an ANSI standard C++ class library for system and hardware design for use by designers and architects who need to address complex systems that are a hybrid between hardware and software. This standard provides a precise and complete definition of the SystemC class library so that a SystemC implementation can be developed with reference to this standard alone. The primary audiences for this standard are the implementors of the SystemC class library, the implementors of tools supporting the class library, and users of the class library.</abstract>
+  </front>
+</reference>

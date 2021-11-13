@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE Unapproved P1698/D-1.4" target="https://ieeexplore.ieee.org/document/5089359">
+  <front>
+    <title>IEEE Draft Guide for the Calculation of Braking Distances for Rail Transit Vehicles</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Rail transit</keyword>
+    <keyword>fixed guideway transit</keyword>
+    <keyword>braking</keyword>
+    <keyword>braking distance</keyword>
+    <keyword>signal systems</keyword>
+    <keyword>train control</keyword>
+    <keyword>TO/ATC/ATP</keyword>
+    <abstract>The design of automatic train protection and signal systems for fixed guideway (e.g. rail) transit systems requires knowledge of the braking distance of the vehicles utilized on the systems. This guide provides methods and assumptions used in calculating the braking distances of rail transit vehicles. The methods encompass automatic train protection and signal system operation, propulsion and brake system operation, environmental conditions, operator interfaces, tolerances, and failure modes.</abstract>
+  </front>
+</reference>

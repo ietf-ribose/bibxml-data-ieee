@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1076-2.1996" target="https://ieeexplore.ieee.org/document/8684469">
+  <front>
+    <title>IEEE Standard VHDL Mathematical Packages</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684469"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE</keyword>
+    <keyword>math_complex</keyword>
+    <keyword>math_real</keyword>
+    <keyword>vhdl</keyword>
+    <keyword>vhdl model interoperability</keyword>
+    <abstract>The MATH_REAL package declaration, the MATH_COMPLEX package declaration, and the semantics of the standard mathematical definition and conventional meaning of the functions that are part of this standard are provided. Ways for users to implement this standard are given in an informative annex. Samples of the MATH_REAL and MATH_COMPLEX package bodies are provided in an informative annex on diskette as guidelines for implementors to verify their implementation of this standard. Implementors may choose to implement the package bodies in the most efficient manner available to them. The standard package bodies (subclauses B.1 and B.2) are available for free download at: http://standards.ieee.org/downloads/1076/1076.2-1996/</abstract>
+  </front>
+</reference>

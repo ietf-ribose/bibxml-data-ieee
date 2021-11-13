@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE C62-33.1982" target="https://ieeexplore.ieee.org/document/8684489">
+  <front>
+    <title>IEEE Standard Test Specifications for Varistor Surge-Protective Devices</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.8684489"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>varistor</keyword>
+    <keyword>surge protective</keyword>
+    <keyword>devices</keyword>
+    <keyword>R88</keyword>
+    <abstract>Varistors for surge-protective applications on systems with dc to 420 Hz frequency and voltages equal to or less than 1000 V rms, or 1200 V dc, are covered. Definitions, service conditions, and a series of test criteria for determining the electrical characteristics of the varistors are provided. The tests are intended as design tests and provide a means of comparing various surge-protective devices.</abstract>
+  </front>
+</reference>

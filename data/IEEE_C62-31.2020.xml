@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE C62-31.2020" target="https://ieeexplore.ieee.org/document/9336360">
+  <front>
+    <title>IEEE Standard for Test Methods and Preferred Values for Low-Voltage Gas Discharge Tube Surge-Protective Components</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9336360"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="January" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Low voltage</keyword>
+    <keyword>Electron tubes</keyword>
+    <keyword>Discharges (electric)</keyword>
+    <keyword>arc current</keyword>
+    <keyword>arc voltage</keyword>
+    <keyword>breakdown voltage</keyword>
+    <keyword>discharge current</keyword>
+    <keyword>follow current</keyword>
+    <keyword>gas discharge tube</keyword>
+    <keyword>GDT</keyword>
+    <keyword>glow to arc transition current</keyword>
+    <keyword>glow voltage</keyword>
+    <keyword>holdover voltage</keyword>
+    <keyword>IEEE C62.31&amp;#8482;</keyword>
+    <keyword>sparkover voltage</keyword>
+    <abstract>This standard applies to low-voltage gas discharge tube (GDT ) surge-protective components for application on systems with voltages less than or equal to 1000 V rms or 1500 V dc. These protective components are designed to limit voltage surges on balanced or unbalanced communication circuits and on power circuits operating from dc to 420 Hz. This standard contains a series of standard test criteria for determining the electrical characteristics and ratings of gas discharge tube surge-protective components.</abstract>
+  </front>
+</reference>

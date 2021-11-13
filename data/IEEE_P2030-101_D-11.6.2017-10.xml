@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE P2030-101/D-11.6.2017-10" target="https://ieeexplore.ieee.org/document/8275470">
+  <front>
+    <title>IEEE Draft Guide for Designing a Time Synchronization System for Power Substations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="January" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>IEEE 2030.101™</keyword>
+    <keyword>time synchronization</keyword>
+    <abstract>The design, installation, and monitoring of time synchronization systems in power utility substations is covered. This includes time sources such as Global Positioning Satellite (GPS) and time distribution systems such as Inter-Range Instrumentation Group Format B (IRIG-B), Network Time Protocol (NTP) or Simple Network Time Protocol (SNTP), and IEEE Std C37.238™. The time source and the intelligent electronic device (IED) are assumed to have accurate clocks.</abstract>
+  </front>
+</reference>

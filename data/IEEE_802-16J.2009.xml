@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE 802-16j.2009" target="https://ieeexplore.ieee.org/document/5167148">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems Amendment 1: Multihop Relay Specification</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5167148"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="August" day="17"/>
+    <keyword>IEEE 802.16 Standard</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Spread spectrum communication</keyword>
+    <keyword>802.16j-2009</keyword>
+    <keyword>broadband wireless access (BWA)</keyword>
+    <keyword>MAN</keyword>
+    <keyword>microwave</keyword>
+    <keyword>mobile</keyword>
+    <keyword>multihop relay</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>OFDMA</keyword>
+    <keyword>radio</keyword>
+    <keyword>standard</keyword>
+    <keyword>wireless access systems (WAS)</keyword>
+    <keyword>WirelessMAN&amp;#174;</keyword>
+    <keyword>wireless metropolitan area network</keyword>
+    <abstract>This amendment specifies OFDMA physical layer and medium access control layer enhancements to IEEE Std 802.16 for licensed bands to enable the operation of relay stations.</abstract>
+  </front>
+</reference>

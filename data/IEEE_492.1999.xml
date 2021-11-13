@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 492.1999" target="https://ieeexplore.ieee.org/document/749037">
+  <front>
+    <title>IEEE Guide for Operation and Maintenance of Hydro-Generators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89194"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="22"/>
+    <keyword>Hydroelectric generators</keyword>
+    <keyword>generator generator/motor</keyword>
+    <keyword>horizontal hydro-generator</keyword>
+    <keyword>hydro-generator loading</keyword>
+    <keyword>maintenance</keyword>
+    <keyword>operation</keyword>
+    <keyword>pumped-storage system</keyword>
+    <keyword>synchronous hydro-generator</keyword>
+    <keyword>vertical hydro-generator</keyword>
+    <abstract>General recommendations for the operation, loading, and maintenance of synchronoushydro-generators and generator/motors are covered. This guide does not apply to synchronousmachines having cylindrical rotors. In this guide, the term hydro-generator is used to describe asynchronous machine coupled to a hydraulic turbine or pump-turbine. This guide is not intended toapply in any way to the prime mover.</abstract>
+  </front>
+</reference>

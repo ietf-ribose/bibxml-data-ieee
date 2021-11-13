@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 692.1986" target="https://ieeexplore.ieee.org/document/27851">
+  <front>
+    <title>IEEE Standard Criteria for Security Systems for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81044"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Alarm systems</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Standards</keyword>
+    <keyword>criteria</keyword>
+    <keyword>security</keyword>
+    <keyword>systems</keyword>
+    <keyword>NPGS</keyword>
+    <keyword>Nuclear power generation protection</keyword>
+    <abstract>Superseded by IEEE 692-1997 Criteria are provided for the design of an integrated security system for nuclear power generating stations. Requirements are included for the overall system, interfaces, subsystems, and individual electrical and electronic equipment. This standard addresses equipment for securityrelated detection, surveillance, access control, communication, and data acquisition.</abstract>
+  </front>
+</reference>

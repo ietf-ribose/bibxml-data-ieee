@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 2804.2019" target="https://ieeexplore.ieee.org/document/8985663">
+  <front>
+    <title>IEEE Standard for Software-Hardware Interface for Multi-Many-Core</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.8985663"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Multicore processing</keyword>
+    <keyword>Software tools</keyword>
+    <keyword>Hardware</keyword>
+    <keyword>Software</keyword>
+    <keyword>Interface management</keyword>
+    <keyword>IEEE 2804</keyword>
+    <keyword>many-core</keyword>
+    <keyword>multicore</keyword>
+    <keyword>SHIM</keyword>
+    <keyword>software hardware interface</keyword>
+    <keyword>software tools</keyword>
+    <abstract>This standard is intended primarily for tool developers and hardware developers who would use Software Hardware Interface for Multi-Many-core (SHIM) to exchange hardware description for software tools. It also attempts to provide software developers with insights into what hardware information is described in SHIM to foster understanding of the intention and the extent of SHIM.</abstract>
+  </front>
+</reference>

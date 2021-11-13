@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1729.2014" target="https://ieeexplore.ieee.org/document/6974967">
+  <front>
+    <title>IEEE Recommended Practice for Electric Power Distribution System Analysis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6974967"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Power system planning</keyword>
+    <keyword>Power electronics</keyword>
+    <keyword>IEEE 1729</keyword>
+    <keyword>power distribution</keyword>
+    <keyword>power system analysis</keyword>
+    <abstract>The aim of this recommended practice is to expand the use of IEEE power distribution test feeders into a broader space of software developers, software users, and researchers. The need for new distribution software functionality evolves quickly in areas such as distributed resource modeling, load response to voltage and frequency, reliability improvement, neutral-earth voltage, harmonics, active controls, interoperability, etc. By leveraging and expanding the set of test feeders, more attention can focus on providing the new functionality. The scope of the recommended practice includes steady-state, event-based, probabilistic, stochastic, and dynamic analysis of medium-voltage (up to 35 kV) electric utility power distribution systems. Industrial and commercial power distribution systems, harmonic analysis, and electromagnetic transient analysis are all excluded.</abstract>
+  </front>
+</reference>

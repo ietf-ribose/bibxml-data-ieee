@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEC/IEEE P62704-1/D-2.2013-10" target="https://ieeexplore.ieee.org/document/6646187">
+  <front>
+    <title>IEC/IEEE Draft Standard for Determining the Peak Spatial Average Specific Absorption Rate (SAR) in the Human Body from Wireless Communications Devices, 30 MHz</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="24"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Specific absorption rate</keyword>
+    <keyword>Human factors</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Handheld devices</keyword>
+    <keyword>Peak to average power ratio</keyword>
+    <abstract>The scope of this standard is to define the methodology for the application of the finite difference time domain (FDTD) technique when used for determining the peak spatial-average specific absorption rate (SAR) in the human body exposed to wireless communication devices with known uncertainty. It defines methods to validate the numerical model of the device under test (DUT) and to assess its uncertainty when used in SAR simulations. Moreover, it defines procedures to determine the peak spatial average SAR in a cubical volume and to validate the correct implementation of the FDTD simulation software. This document will not recommend specific SAR limits since these are found elsewhere, e.g., in the guidelines published by the International Commission on Non-Ionizing Radiation Protection (ICNIRP) or in IEEE C95.1.</abstract>
+  </front>
+</reference>

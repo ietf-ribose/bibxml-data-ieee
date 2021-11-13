@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1057.2007 Redline" target="https://ieeexplore.ieee.org/document/5981351">
+  <front>
+    <title>IEEE Standard for Digitizing Waveform Recorders</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Recording</keyword>
+    <keyword>Signal analysis</keyword>
+    <keyword>Harmonic distortion</keyword>
+    <keyword>Pulse modulation</keyword>
+    <keyword>Frequency response</keyword>
+    <keyword>1057-2007</keyword>
+    <keyword>effective number of bits</keyword>
+    <keyword>frequency response</keyword>
+    <keyword>noise</keyword>
+    <keyword>sine fitting</keyword>
+    <keyword>step pulse response</keyword>
+    <keyword>total harmonic distortion</keyword>
+    <keyword>transitions levels</keyword>
+    <keyword>waveform recorders</keyword>
+    <abstract>Revision of IEEE Std 1057-1994. This standard defines specifications and describes test methods for measuring the performance of electronic digitizing waveform recorders, waveform analyzers, and digitizing oscilloscopes with digital outputs. The standard is directed toward, but not restricted to, general-purpose waveform recorders and analyzers. Special applications can require additional manufacturer information and verification tests not covered in this standard. IEEE 1057 has many similarities to IEEE 1241 Standard for Terminology and Test Methods for Analog to Digital Converters (ADCs) . However, IEEE Std. 1057 shall be used for waveform recorders and IEEE Std. 1241 shall be used for ADCs.</abstract>
+  </front>
+</reference>

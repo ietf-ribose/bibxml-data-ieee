@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 802-1Qca.2015" target="https://ieeexplore.ieee.org/document/7434544">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--- Bridges and Bridged Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7434544"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="March" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Bridged circuits</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Bridge</keyword>
+    <keyword>Bridged Local Area Network</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.1Q(TM)</keyword>
+    <keyword>IEEE 802.1Qac(TM)</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>Shortest Path Bridging</keyword>
+    <keyword>SPB</keyword>
+    <keyword>Virtual Bridged Local Area Network</keyword>
+    <keyword>virtual LAN</keyword>
+    <abstract>Explicit path control, bandwidth reservation, and redundancy (protection, restoration) for data flows are specified in this amendment to IEEE Std 802.1Q-2014.</abstract>
+  </front>
+</reference>

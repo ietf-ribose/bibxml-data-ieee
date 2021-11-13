@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 1031.2011 Redline" target="https://ieeexplore.ieee.org/document/6042281">
+  <front>
+    <title>IEEE Guide for the Functional Specification of Transmission Static Var Compensators</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Harmonic analysis</keyword>
+    <keyword>Static VAr compensators</keyword>
+    <keyword>Thyristors</keyword>
+    <keyword>Filters</keyword>
+    <keyword>Valves</keyword>
+    <keyword>filters</keyword>
+    <keyword>harmonics</keyword>
+    <keyword>IEEE 1031</keyword>
+    <keyword>static var compensators</keyword>
+    <keyword>static var system</keyword>
+    <keyword>thyristor-controlled reactor (TCR)</keyword>
+    <keyword>thyristor valves</keyword>
+    <keyword>thyristor-switched capacitor (TSC)</keyword>
+    <keyword>thyristor-switched reactor (TSR)</keyword>
+    <abstract>An approach to preparing a specification for a transmission static var compensator is documented by this guide. The intention of this document is to serve as a base specification with an informative annex provided to allow users to modify or develop specific clauses to meet a particular application.</abstract>
+  </front>
+</reference>

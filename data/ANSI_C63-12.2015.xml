@@ -1,0 +1,31 @@
+<reference anchor="IEEE.ANSI C63-12.2015" target="https://ieeexplore.ieee.org/document/7394934">
+  <front>
+    <title>American National Standard Recommended Practice for Electromagnetic Compatibility Limits and Test Levels</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7394934"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="29"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Atmospheric measurements</keyword>
+    <keyword>ambient noise levels</keyword>
+    <keyword>ANSI C63.12</keyword>
+    <keyword>atmospheric noise</keyword>
+    <keyword>electromagnetic compatibility (EMC)</keyword>
+    <keyword>emissions</keyword>
+    <keyword>galactic noise</keyword>
+    <keyword>immunity</keyword>
+    <keyword>limits</keyword>
+    <keyword>man-made noise</keyword>
+    <keyword>test levels</keyword>
+    <abstract>A rationale and recommendations for developing emission limits and immunity test levels are presented in this recommended practice. These limits and levels are representative of current practice and user needs. Emission limits are specified by national and international standards bodies. Emission limits for the most part are regulated and hence controlled, which is the case in the U.S. and Canada. Such regulatory limits take precedence, even if the limits are different from those considered in this document. For product immunity, while in some parts of the world this is regulated, for the U.S. and Canada, it is not regulated except for some types of safety equipment. In this way, adequate immunity is more a quality aspect of the product because it does not operate in its intended RF environment, the user would deem it of poor design and quality. The immunity test levels described in this document are representative of common levels applied internationally. However, severe environments (in which levels of electromagnetic disturbance are high) require the consideration of applying higher test levels. This consideration is described in this recommended practice. Finally, it should be noted that the entire recommended practice does not contain normative requirements, as such practices remain optional.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE P1623/D-5.2020-05" target="https://ieeexplore.ieee.org/document/9102463">
+  <front>
+    <title>IEEE Draft Guide for the Functional Specification of Medium Voltage (1 kV</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="May" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Medium voltage</keyword>
+    <keyword>Electronic equipment</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>coupling transformer</keyword>
+    <keyword>energy storage</keyword>
+    <keyword>inverter</keyword>
+    <keyword>parallel compensation</keyword>
+    <keyword>power electronics</keyword>
+    <keyword>power quality</keyword>
+    <keyword>sensitive loads</keyword>
+    <keyword>voltage control</keyword>
+    <abstract>This document provides general guidelines 1 on the preparation of a functional specification for a solid-state electronic shunt device used to compensate voltage fluctuation. The guide covers devices rated to Medium Voltage (1kV–35kV). The device contains in general: an inverter, rectifier or DC converter, energy storage device, and coupling transformer. The device typically is connected in parallel with the network using a coupling transformer.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,15 @@
+<reference anchor="IEEE.IEEE 1650.2005" target="https://ieeexplore.ieee.org/document/1576640">
+  <front>
+    <title>IEEE Standard Test Methods for Measurement of Electrical Properties of Carbon Nanotubes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.98648"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Recommended methods and standardized reporting practices for electrical characterization of carbon nanotubes (CNTs) are covered. Due to the nature of CNTs, significant measurement errors can be introduced if the electrical characterization design-of-experiment is not properly addressed. The most common sources of measurement error, particularly for high impedance electrical measurements commonly required for CNTs, are described. Recommended practices in order to minimize and/or characterize the effect of measurement artifacts and other sources of error encountered while measuring CNTs are given.</abstract>
+  </front>
+</reference>

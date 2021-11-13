@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE 599.1985" target="https://ieeexplore.ieee.org/document/574219">
+  <front>
+    <title>IEEE Standard Definitions of Power Systems Data Transmission and Related Channel Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81722"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="26"/>
+    <keyword>power</keyword>
+    <keyword>system</keyword>
+    <keyword>data</keyword>
+    <keyword>transmission</keyword>
+    <abstract>This standard includes definitions of those terms deemed necessary of performing or understanding measurements on channels used for data communications. terms that are applicable to audio interfaces of wireline, leased lines, and multi-channel equipments and baseband interfaces of multichannel equipment.</abstract>
+  </front>
+</reference>

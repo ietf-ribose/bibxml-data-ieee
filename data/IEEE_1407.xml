@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 1407" target="https://ieeexplore.ieee.org/document/5981366">
+  <front>
+    <title>IEEE Guide for Accelerated Aging Tests for Medium-Voltage (5 kV-35 kV) Extruded Electric Power Cables Using Water-Filled Tanks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Aging</keyword>
+    <keyword>Water storage</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Product life cycle management</keyword>
+    <keyword>1407-2007</keyword>
+    <keyword>accelerated-aging tests</keyword>
+    <keyword>cable core test</keyword>
+    <keyword>conductor resistance</keyword>
+    <keyword>cross-linked polyethylene (XLPE)</keyword>
+    <keyword>ethylene propylene rubber (EPR)</keyword>
+    <keyword>total harmonic distortion</keyword>
+    <keyword>tree- retardant XLPE (TRXLPE)</keyword>
+    <keyword>water-filled tanks</keyword>
+    <abstract>This guide provides information on the equipment, cable specimens, test conditions, and measurements to perform accelerated aging tests on medium-voltage cables using water-filled tanks, whether the test be a time to failure test or a test in which samples are aged for fixed times followed by a diagnostic test such as a step ac breakdown test. The guide identifies the critical test parameters and describes techniques for their measurement and control. The implementation of the techniques will facilitate a comparison of data obtained by different laboratories.</abstract>
+  </front>
+</reference>

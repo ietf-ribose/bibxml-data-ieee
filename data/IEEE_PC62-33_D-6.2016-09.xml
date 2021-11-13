@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE PC62-33/D-6.2016-09" target="https://ieeexplore.ieee.org/document/7563999">
+  <front>
+    <title>IEEE Approved Draft Standard for Test Methods and Performance Values of Metal-Oxide Varistor Surge Protective Components</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="September" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Varistors</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Varistors</keyword>
+    <keyword>Current estimation</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Clamping voltage</keyword>
+    <keyword>clamping voltage</keyword>
+    <keyword>ESD</keyword>
+    <keyword>IEEE C62.33(TM)</keyword>
+    <keyword>leaded</keyword>
+    <keyword>MCOV</keyword>
+    <keyword>metal-oxide varistor</keyword>
+    <keyword>MOV</keyword>
+    <keyword>nominal voltage</keyword>
+    <keyword>surface mount</keyword>
+    <keyword>surge current rating</keyword>
+    <keyword>TOV</keyword>
+    <keyword>varistor</keyword>
+    <abstract>Test methods and preferred values for metal-oxide varistor (MOV) surge protective components are covered in this standard and have the following main parameter ranges: packaging (leaded disc-type or surface mount), nominal varistor voltage (5 V to 1200 V), 8/20 surge current rating (10 A to 70 kA), and 8/20 clamping voltage (10 V to 3 kV). With appropriate component selection, these components could be used for the overvoltage protection of power and signal systems having continuous ac voltages (2.5 V rms to 750 V rms), steady-state dc voltages (3.3 V to 1000 V), and peak signal feed voltages (3.5 V to 850 V). Information is given on manufacturer type testing used to determine environmental performance and rated values.</abstract>
+  </front>
+</reference>

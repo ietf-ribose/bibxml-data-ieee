@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE C37-233.2009" target="https://ieeexplore.ieee.org/document/5352213">
+  <front>
+    <title>IEEE Guide for Power System Protection Testing</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5352213"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Power system relaying</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>C37.232-2009</keyword>
+    <keyword>application testing</keyword>
+    <keyword>commissioning testing</keyword>
+    <keyword>design testing</keyword>
+    <keyword>maintenance testing</keyword>
+    <keyword>performance assessment</keyword>
+    <abstract>Test approaches and procedures for the components and the overall protection and control system functions are presented. Test of equipment in the system protection scheme, associated communications equipment, auxiliary power supplies, and the control of power apparatus are addressed. Much of the testing emphasizes a bottom-up approach, in which the basic behavior of scheme components are verified first, followed by testing of interconnected components in a function-oriented assembly.</abstract>
+  </front>
+</reference>

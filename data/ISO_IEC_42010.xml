@@ -1,0 +1,29 @@
+<reference anchor="IEEE.ISO/IEC 42010" target="https://ieeexplore.ieee.org/document/4278472">
+  <front>
+    <title>ISO/IEC Standard for Systems and Software Engineering</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.386501"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO</keyword>
+    <keyword>IEC</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>architectural description</keyword>
+    <keyword>architecture</keyword>
+    <keyword>software-intensive system</keyword>
+    <keyword>stakeholder concerns</keyword>
+    <keyword>system stakeholder</keyword>
+    <keyword>view</keyword>
+    <keyword>viewpoint</keyword>
+    <abstract>This recommended practice addresses the activities of the creation, analysis, and sustainment of architectures of software-intensive systems, and the recording of such architectures in terms of architectural descriptions. A conceptual framework for architectural description is established. The content of an architectural description is defined. Annexes provide the rationale for key concepts and terminology, the relationships to other standards, and examples of usage.</abstract>
+  </front>
+</reference>

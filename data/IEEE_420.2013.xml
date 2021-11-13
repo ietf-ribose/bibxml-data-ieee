@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE 420.2013" target="https://ieeexplore.ieee.org/document/6522447">
+  <front>
+    <title>IEEE Standard for the Design and Qualification of Class 1E Control Boards, Panels, and Racks Used in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6522447"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Optical fiber cables</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Control systems</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Electrical safety</keyword>
+    <keyword>Wiring</keyword>
+    <keyword>control boards</keyword>
+    <keyword>fiber optic cables</keyword>
+    <keyword>independence</keyword>
+    <keyword>isolation</keyword>
+    <keyword>nuclear</keyword>
+    <keyword>panels</keyword>
+    <keyword>qualification</keyword>
+    <keyword>racks</keyword>
+    <keyword>safety</keyword>
+    <keyword>separation</keyword>
+    <keyword>wiring</keyword>
+    <abstract>This standard specifies the design requirements for new and/or modified Class 1E control boards, panels, and racks and establishes the methods to verify that these requirements have been satisfied. Methods for meeting the separation criteria contained in IEEE Std 384 are addressed. Qualification is also included to address the overall requirements of IEEE Std 323 and recommendations of IEEE Std 344.</abstract>
+  </front>
+</reference>

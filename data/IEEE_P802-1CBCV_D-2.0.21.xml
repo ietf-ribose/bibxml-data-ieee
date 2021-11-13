@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE P802-1CBcv/D-2.0.21" target="https://ieeexplore.ieee.org/document/9500167">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks -- Frame Replication and Elimination for Reliability</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="July" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Data models</keyword>
+    <keyword>Management information base</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>Redundancy</keyword>
+    <keyword>Bridging</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>Frame Replication</keyword>
+    <keyword>Frame Elimination</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>IEEE 802&amp;#174;</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.1CB&amp;#8482;</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs).</keyword>
+    <abstract>This amendment specifies YANG data models and MIB modules that allow configuration and status reporting for bridges and end systems with the capabilities for Frame Replication and Elimination for Reliability (FRER) and stream identification.</abstract>
+  </front>
+</reference>

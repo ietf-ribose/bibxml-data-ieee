@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P2600-1/D-37a.2008-08" target="https://ieeexplore.ieee.org/document/4588296">
+  <front>
+    <title>IEEE Draft Standard for a Protection Profile in Operational Environment A</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Standard for a Protection Profile for Hardcopy Devices in a restrictive commercial information processing environment in which a relatively high level of document security, operational accountability, and information assurance, are required. Typical information processed in this environment is trade secret, mission-critical, or subject to legal and regulatory considerations such as for privacy or governance. This environment is not intended to support life-critical or national security applications. This environment will be known as "Operational Environment A."</abstract>
+  </front>
+</reference>

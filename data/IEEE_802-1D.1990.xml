@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 802-1D.1990" target="https://ieeexplore.ieee.org/document/159274">
+  <front>
+    <title>Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Bridges</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101050"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Computer networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Standards</keyword>
+    <keyword>LAN</keyword>
+    <keyword>MAC</keyword>
+    <keyword>sublayer</keyword>
+    <keyword>interconnection</keyword>
+    <keyword>bridging</keyword>
+    <abstract>Superseded by IEEE Std 802.1D-1998 An architecture for the interconnection of IEEE 802® Local Area Networks (LANs) below the MAC Service boundary is defined. MAC Bridges, as specified by this standard, allow communications between end stations attached to separate LANs, each with its own separate MAC, to be transparent to logical link control (LLC) and network layer protocols, just as if the stations were attached to the same LAN.</abstract>
+  </front>
+</reference>

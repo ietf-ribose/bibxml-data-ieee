@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE P1780/D-29.2020" target="https://ieeexplore.ieee.org/document/9369230">
+  <front>
+    <title>IEEE Draft Standard for the Specification of Inertial Measurement Units (IMU)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="March" day="3"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Inertial navigation</keyword>
+    <keyword>Measurement units</keyword>
+    <keyword>IMU</keyword>
+    <keyword>inertial measurement unit</keyword>
+    <keyword>inertial system</keyword>
+    <keyword>specification.</keyword>
+    <abstract>Standard for the preparation of an inertial measurement unit (IMU) specification document. An outline is provided along with guidance for tailoring.</abstract>
+  </front>
+</reference>

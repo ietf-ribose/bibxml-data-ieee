@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE C62-42-6.2018" target="https://ieeexplore.ieee.org/document/8686436">
+  <front>
+    <title>IEEE Guide for the Application of Surge-Protective Components in Surge Protective Devices and Equipment Ports--Part 6 High Frequency Signal Isolation Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8686436"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>characteristics</keyword>
+    <keyword>common-mode surge</keyword>
+    <keyword>differential-mode surge</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>high frequency</keyword>
+    <keyword>IEEE C62.42.6</keyword>
+    <keyword>isolation transformer</keyword>
+    <keyword>PoE</keyword>
+    <keyword>ratings</keyword>
+    <abstract>Surge protective components (SPCs) used in power and telecom surge protective devices (SPDs) and equipment ports are covered in the IEEE C62.42 guide series. The following are covered in this part of the series on high-frequency signal isolation-transformer technology SPCs: component construction, characteristics, and ratings.</abstract>
+  </front>
+</reference>

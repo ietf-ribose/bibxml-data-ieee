@@ -1,0 +1,88 @@
+<reference anchor="IEEE.IEEE PC37-236/D-5.1.2012-12" target="https://ieeexplore.ieee.org/document/6475952">
+  <front>
+    <title>IEEE Approved Draft Guide for Power System Protective Relay Applications over Digital Communication Channels</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="March" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Data communication</keyword>
+    <keyword>Equipment</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Optical fiber communication</keyword>
+    <keyword>Power system planning</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Audio systems</keyword>
+    <keyword>Jitter</keyword>
+    <keyword>61850</keyword>
+    <keyword>AC pilot wire</keyword>
+    <keyword>alarm</keyword>
+    <keyword>asynchronous</keyword>
+    <keyword>audio Tone</keyword>
+    <keyword>BER</keyword>
+    <keyword>bit error</keyword>
+    <keyword>C37.94</keyword>
+    <keyword>channel</keyword>
+    <keyword>current differential</keyword>
+    <keyword>DCE data communication equipment</keyword>
+    <keyword>DDS digital data service</keyword>
+    <keyword>dependability</keyword>
+    <keyword>directional comparison</keyword>
+    <keyword>directional comparison</keyword>
+    <keyword>dispersion</keyword>
+    <keyword>diversity</keyword>
+    <keyword>DTE data terminal equipment</keyword>
+    <keyword>DUTT direct under-reaching transfer trip</keyword>
+    <keyword>ethernet</keyword>
+    <keyword>FC connector</keyword>
+    <keyword>fiber optic</keyword>
+    <keyword>FSK</keyword>
+    <keyword>G.703</keyword>
+    <keyword>GOOSE</keyword>
+    <keyword>Ground Potential Rise</keyword>
+    <keyword>jitter</keyword>
+    <keyword>LC connector</keyword>
+    <keyword>loopback</keyword>
+    <keyword>microwave</keyword>
+    <keyword>MT-RJ connector</keyword>
+    <keyword>multiplexer</keyword>
+    <keyword>network</keyword>
+    <keyword>noise</keyword>
+    <keyword>phase comparison</keyword>
+    <keyword>POTT permissive over-reaching transfer trip</keyword>
+    <keyword>protective relaying</keyword>
+    <keyword>PUTT permissive under-reaching</keyword>
+    <keyword>transfer trip</keyword>
+    <keyword>redundancy</keyword>
+    <keyword>RFI radio frequency interference</keyword>
+    <keyword>RJ45</keyword>
+    <keyword>RS-232</keyword>
+    <keyword>RS-422</keyword>
+    <keyword>RS-449</keyword>
+    <keyword>RS-530</keyword>
+    <keyword>SC connector</keyword>
+    <keyword>security</keyword>
+    <keyword>signal attenuation</keyword>
+    <keyword>SMA connector</keyword>
+    <keyword>SONET</keyword>
+    <keyword>speed</keyword>
+    <keyword>Spread Spectrum</keyword>
+    <keyword>ST connector</keyword>
+    <keyword>synchronous</keyword>
+    <keyword>T1</keyword>
+    <keyword>TDM- time division multiplex</keyword>
+    <keyword>telecommunication</keyword>
+    <keyword>teleprotection</keyword>
+    <keyword>transfer trip</keyword>
+    <keyword>tunneling</keyword>
+    <keyword>V.35</keyword>
+    <keyword>zone</keyword>
+    <abstract>The purpose of this document is to guide the power system user in applying, installing and operating digital communication channels for the purpose of protective relaying.</abstract>
+  </front>
+</reference>

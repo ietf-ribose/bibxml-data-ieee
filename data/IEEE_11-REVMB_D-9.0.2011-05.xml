@@ -1,0 +1,71 @@
+<reference anchor="IEEE.IEEE 11-REVmb/D-9.0.2011-05" target="https://ieeexplore.ieee.org/document/5871257">
+  <front>
+    <title>IEEE Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>2.4 GHz</keyword>
+    <keyword>3650 MHz</keyword>
+    <keyword>4.9 GHz</keyword>
+    <keyword>5 GHz</keyword>
+    <keyword>5.9 GHz</keyword>
+    <keyword>advanced encryption standard</keyword>
+    <keyword>AES</keyword>
+    <keyword>carrier sense multiple access/collision avoidance</keyword>
+    <keyword>CCMP</keyword>
+    <keyword>channel switching</keyword>
+    <keyword>Counter mode with Cipher-block chaining MAC</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>CSMA/CA</keyword>
+    <keyword>DFS</keyword>
+    <keyword>direct link</keyword>
+    <keyword>dynamic frequency selection</keyword>
+    <keyword>high throughput</keyword>
+    <keyword>international roaming</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>MAC</keyword>
+    <keyword>measurement</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>medium access controller</keyword>
+    <keyword>Message authentication code Protocol</keyword>
+    <keyword>MIMO</keyword>
+    <keyword>MIMO-OFDM</keyword>
+    <keyword>multiple input multiple output</keyword>
+    <keyword>network management</keyword>
+    <keyword>off-channel direct link</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>power saving</keyword>
+    <keyword>QoS</keyword>
+    <keyword>quality of service</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>radio</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>radio resource</keyword>
+    <keyword>temporal key integrity protocol</keyword>
+    <keyword>TKIP</keyword>
+    <keyword>TPC</keyword>
+    <keyword>transmit power control</keyword>
+    <keyword>tunneled direct link setup</keyword>
+    <keyword>wireless access in vehicular environments</keyword>
+    <keyword>wireless LAN</keyword>
+    <keyword>wireless local area network</keyword>
+    <keyword>WLAN</keyword>
+    <abstract>This revision specifies technical corrections and clarifications to IEEE Std 802.11 for wireless local area networks (WLANS) as well as enhancements to the existing medium access control (MAC) and physical layer (PHY) functions. It also incorporates Amendments 1, 2, 3, 4, 5, 6 and 7</abstract>
+  </front>
+</reference>

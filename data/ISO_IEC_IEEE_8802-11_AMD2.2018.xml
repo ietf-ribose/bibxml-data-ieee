@@ -1,0 +1,37 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-11/Amd2.2018" target="https://ieeexplore.ieee.org/document/8694176">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8694176"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>OFDM modulation</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>IEEE 802.11ah</keyword>
+    <keyword>long transmission range</keyword>
+    <keyword>low power consumption</keyword>
+    <keyword>MAC</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>narrower bandwidth</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>orthogonal frequency division multiplexing</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>sub 1 GHz</keyword>
+    <keyword>wireless local area network</keyword>
+    <keyword>WLAN</keyword>
+    <abstract>Modifications to both the IEEE 802.11(TM) physical layer (PHY) and the medium access control (MAC) sublayer to enable operation of license-exempt IEEE 802.11 wireless networks in frequency bands below 1 GHz, excluding the television (TV) White Space bands, with a transmission range up to 1 km and a minimum data rate of at least 100 Kb/s are defined in this amendment.</abstract>
+  </front>
+</reference>

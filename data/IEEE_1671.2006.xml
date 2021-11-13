@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1671.2006" target="https://ieeexplore.ieee.org/document/4035725">
+  <front>
+    <title>IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information Via XML</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.261413"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="June" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Automatic test equipment</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>1671-2006</keyword>
+    <keyword>Automatic Test Equipment (ATE)</keyword>
+    <keyword>Automatic Test Markup Language (ATML)</keyword>
+    <keyword>ATML instance document</keyword>
+    <keyword>automatic test system (ATS)</keyword>
+    <keyword>XML Schema</keyword>
+    <abstract>This document specifies the framework for the family of ATML standards. ATML defines a standard exchange medium for sharing information between components of an Automatic Test System (ATS), utilizing the eXtensible Markup Language (XML).</abstract>
+  </front>
+</reference>

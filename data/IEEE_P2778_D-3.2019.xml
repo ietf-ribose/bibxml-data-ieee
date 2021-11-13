@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE P2778/D-3.2019" target="https://ieeexplore.ieee.org/document/8851430">
+  <front>
+    <title>IEEE Draft Guide for Solar Power Plant Grounding for Personnel Protection</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="September" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Grounding</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>Solar energy</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Occupational safety</keyword>
+    <keyword>grounding</keyword>
+    <keyword>IEEE 2778</keyword>
+    <keyword>personnel</keyword>
+    <keyword>photovoltaic</keyword>
+    <keyword>protection</keyword>
+    <keyword>solar power plant</keyword>
+    <abstract>This guide is primarily concerned with the grounding system design for photovoltaic solar power plants that are utility owned and/or utility scale (5 MW or greater). The focus of the guide is on differences in practices from substation grounding as provided in IEEE Std 80. This guide is not intended for the substations to interconnect the plant; however, if the substation is included within the plant, portions of this guide may be applicable. Similarly, this guide does not directly cover small scale solar power plants (such as rooftop type systems), substation grounding, or lightning protection.</abstract>
+  </front>
+</reference>

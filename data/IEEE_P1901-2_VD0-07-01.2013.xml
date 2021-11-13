@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE P1901-2_vD0-07-01.2013" target="https://ieeexplore.ieee.org/document/6491414">
+  <front>
+    <title>IEEE Standard for Low Frequency (less than 500 kHz) Narrow BandPower Line Communications for Smart Grid Application</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="April" day="1"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Narrowband</keyword>
+    <keyword>Smart grids</keyword>
+    <keyword>coesistence</keyword>
+    <keyword>IEEE 1901.2 TM</keyword>
+    <keyword>power line communication</keyword>
+    <keyword>PLC</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>MAC</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>PHY</keyword>
+    <keyword>IFFT OFDM</keyword>
+    <keyword>narrow band</keyword>
+    <keyword>PRIME</keyword>
+    <keyword>G3</keyword>
+    <abstract>This contribution represents the coexistence-related text from IEEE P1901.2 working draft version D0.07.01. It includes clause 10 and convenient front matter. Developed by IEEE P1901.2, this is a worldwide standard for coexistence mechnisms that can be used for narrowband power line communications via ac, dc, and non-energized electric power lines using frequencies below 500 kHz. The field-of-use includes Smart Grid applications. Coexistence mechanisms that can be used by other PLC technologies operating below 500 kHz are also included. These coexistence mechanisms may be used separately from the rest of the IEEE P1901.2TM.</abstract>
+  </front>
+</reference>

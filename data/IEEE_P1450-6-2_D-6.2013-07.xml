@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P1450-6-2/D-6.2013-07" target="https://ieeexplore.ieee.org/document/6583941">
+  <front>
+    <title>IEEE Draft Standard for Memory Modeling in Core Test Language (CTL)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Memory management</keyword>
+    <keyword>Computer languages</keyword>
+    <keyword>System-on-chip</keyword>
+    <keyword>Core Test Language (CTL)</keyword>
+    <keyword>Standard Test Interface Language (STIL)</keyword>
+    <keyword>System-on-Chip (SoC)</keyword>
+    <keyword>Memory Built-In-Self-Test (Memory BIST)</keyword>
+    <keyword>memory modeling</keyword>
+    <keyword>memory repair</keyword>
+    <abstract>System on Chip (SoC) test requires reuse of test data and test structures developed for individual cores (designs) when integrated into larger integrated circuits. This activity defines language constructs sufficient to represent the context of a memory-core and of the integration of that memory-core into an SoC, to facilitate development and reuse of test and repair mechanisms for memories. This activity also defines constructs that represent the test structures internal to the memory-core for reuse in the creation of the tests for the logic outside the memory-core. Semantic rules are defined for the language to facilitate interoperability between different entities (the memory-core provider, the system integrator, and the automation tool developer) involved in the creation of an SoC. The capabilities are an extension of IEEE 1450.6-2005. As a result of this extension, CTL's limitations of handling memories are addressed.</abstract>
+  </front>
+</reference>

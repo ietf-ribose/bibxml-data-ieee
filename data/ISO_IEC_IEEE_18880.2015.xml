@@ -1,0 +1,44 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 18880.2015" target="https://ieeexplore.ieee.org/document/7098298">
+  <front>
+    <title>ISO/IEC/IEEE Information technology- Ubiquitous green community control network protocol</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7098298"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="April" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Actuators</keyword>
+    <keyword>Communication protocols</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Green design</keyword>
+    <keyword>Energy management</keyword>
+    <keyword>Gateways</keyword>
+    <keyword>Access interface</keyword>
+    <keyword>access interface</keyword>
+    <keyword>actuator</keyword>
+    <keyword>APP</keyword>
+    <keyword>application</keyword>
+    <keyword>communication protocol</keyword>
+    <keyword>component</keyword>
+    <keyword>data structure</keyword>
+    <keyword>energy management</keyword>
+    <keyword>energy saving</keyword>
+    <keyword>facility networking</keyword>
+    <keyword>gateway</keyword>
+    <keyword>GW</keyword>
+    <keyword>IEEE 1888(TM)</keyword>
+    <keyword>point</keyword>
+    <keyword>registry</keyword>
+    <keyword>sensor</keyword>
+    <keyword>SOAP</keyword>
+    <keyword>storage</keyword>
+    <abstract>The standard identifies gateways for field-bus networks, data storage for archiving and developing data sharing platforms, and application units as important system components for developing digital communities, i.e., building-scale and city-wide ubiquitous facility networking infrastructure. The standard defines a data exchange protocol that generalizes and interconnects these components (gateways, storage, application units) over the IPv4/v6-based networks. This enables integration of multiple facilities, data storage, application services such as central management, energy saving, environmental monitoring, and alarm notification systems.</abstract>
+  </front>
+</reference>

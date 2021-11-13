@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE 1101-10.1996" target="https://ieeexplore.ieee.org/document/8960254">
+  <front>
+    <title>IEEE Standard for Additional Mechanical Specifications for Microcomputers Using the IEEE 1101.1-1998 Equipment Practice</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8960254"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="14"/>
+    <keyword>dimensions</keyword>
+    <keyword>mechanical interchangeability</keyword>
+    <keyword>plug-in units</keyword>
+    <keyword>subracks</keyword>
+    <abstract>A generic standard that may be applied in all fields of electronics where equipment and installations are required to conform to the 482.6 mm (19 in) equipment practice based on IEEE Std 1101.1-1991, IEC 297-3 (1984), and IEC 297-4 (1995). Dimensions are provided that will ensure mechanical interchangeability of subracks and plug-in units.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1735.2014" target="https://ieeexplore.ieee.org/document/7274481">
+  <front>
+    <title>IEEE Recommended Practice for Encryption and Management of Electronic Design Intellectual Property (IP)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7274481"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="September" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Digital systems</keyword>
+    <keyword>Trust management</keyword>
+    <keyword>Encryption</keyword>
+    <keyword>Digital rights management</keyword>
+    <keyword>digital envelope</keyword>
+    <keyword>encrypted IP</keyword>
+    <keyword>IEEE 1735(TM)</keyword>
+    <keyword>keys</keyword>
+    <keyword>rights management</keyword>
+    <keyword>trust model</keyword>
+    <abstract>Guidance on technical protection measures to those who produce, use, process, or standardize the specifications of electronic design intellectual property (IP) are provided in this recommended practice. Distribution of IP creates a risk of unsanctioned use and dilution of the investment in its creation. The measures presented here include protection through encryption, specification, and management of use rights that have been granted by the producers of electronic designs, and methods for integrating license verification for granted rights.</abstract>
+  </front>
+</reference>

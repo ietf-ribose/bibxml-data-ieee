@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 998.2012 Redline" target="https://ieeexplore.ieee.org/document/6656813">
+  <front>
+    <title>IEEE Guide for Direct Lightning Stroke Shielding of Substations</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="November" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Lightning</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Electrical safety</keyword>
+    <keyword>Electromagnetic shielding</keyword>
+    <keyword>collection volume method (CVM)</keyword>
+    <keyword>direct stroke shielding</keyword>
+    <keyword>electro-geometric model (EGM)</keyword>
+    <keyword>field intensification factor method (FIFM)</keyword>
+    <keyword>fixed angle</keyword>
+    <keyword>IEEE 998</keyword>
+    <keyword>leader inception theory (LIT)</keyword>
+    <keyword>leader progression model (LPM)</keyword>
+    <keyword>lightning stroke protection</keyword>
+    <keyword>self-consistent leader inception and propagation model (SLIM)</keyword>
+    <keyword>substations empirical curves</keyword>
+    <abstract>Design information for the methods historically and typically applied by substation designers to reduce direct lightning strokes to equipment and buswork within substations is provided. Two approaches, the classical empirical method and the electrogeometric model, are presented in detail. A third approach, which involves the use of non-conventional lightning terminals and related design methods, is also reviewed.</abstract>
+  </front>
+</reference>

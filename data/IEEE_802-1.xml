@@ -1,0 +1,37 @@
+<reference anchor="IEEE.IEEE 802-1" target="https://ieeexplore.ieee.org/document/9416320">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks--Link-local Registration Protocol</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9416320"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Timing</keyword>
+    <keyword>Urban areas</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>bridges</keyword>
+    <keyword>bridging</keyword>
+    <keyword>IEEE 802</keyword>
+    <keyword>IEEE 802.1CS</keyword>
+    <keyword>IEEE 802.1Q</keyword>
+    <keyword>Link-local Registration Protocol</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>LRP</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>Protocols, procedures, and managed objects for a Link-local Registration Protocol (LRP) to replicate a registration database from one end to the other of a point-to-point link and to replicate changes to parts of that database are specified in this standard. A facility is provided to purge the replicated database if the source becomes unresponsive. LRP is optimized for databases on the order of 1 Mbyte.</abstract>
+  </front>
+</reference>

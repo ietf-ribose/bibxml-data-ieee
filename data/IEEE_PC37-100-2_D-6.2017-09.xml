@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE PC37-100-2/D-6.2017-09" target="https://ieeexplore.ieee.org/document/8237236">
+  <front>
+    <title>IEEE Draft Standard for Common Requirements for Testing of AC Capacitance Current Switching Devices over 1000V</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="December" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Short-circuit currents</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Capacitance</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Fault diagnosis</keyword>
+    <keyword>back-to-back switching</keyword>
+    <keyword>bank charging</keyword>
+    <keyword>C0</keyword>
+    <keyword>C1</keyword>
+    <keyword>C2</keyword>
+    <keyword>cable charging</keyword>
+    <keyword>capacitive current switching</keyword>
+    <keyword>capacitor switching</keyword>
+    <keyword>design test</keyword>
+    <keyword>IEEE C37.100.2(TM)</keyword>
+    <keyword>line charging</keyword>
+    <keyword>preconditioning</keyword>
+    <keyword>restrike</keyword>
+    <keyword>single-phase testing</keyword>
+    <keyword>synthetic test</keyword>
+    <keyword>three-phase testing</keyword>
+    <keyword>unit test</keyword>
+    <abstract>Common requirements for testing of AC capacitive current switching devices with nominal system voltage above 1000 V are provided in this standard</abstract>
+  </front>
+</reference>

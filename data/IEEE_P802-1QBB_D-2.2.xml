@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE P802-1Qbb/D-2.2" target="https://ieeexplore.ieee.org/document/5510214">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Flow control</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>802.1</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>LANs</keyword>
+    <keyword>transparent bridging</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>VLANs</keyword>
+    <keyword>priority</keyword>
+    <keyword>flow control.</keyword>
+    <abstract>This amendment specifies protocols, procedures and managed objects that enable flowcontrol per traffic class on IEEE 802 point-to-point full duplex links. This is achieved by amechanism similar to the IEEE 802.3 Annex 31B PAUSE, but operating on individual priorities.</abstract>
+  </front>
+</reference>

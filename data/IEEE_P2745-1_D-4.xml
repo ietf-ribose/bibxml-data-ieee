@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE P2745-1/D-4" target="https://ieeexplore.ieee.org/document/8700689">
+  <front>
+    <title>IEEE Draft Guide for Technology of Unified Power Flow Controller Using Modular Multilevel Converter: Part 1 Functions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Load flow</keyword>
+    <keyword>Converters</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>control and protection system</keyword>
+    <keyword>function requirements</keyword>
+    <keyword>IEEE P2745.1(TM)</keyword>
+    <keyword>modular multilevel converter</keyword>
+    <keyword>performance requirements</keyword>
+    <keyword>primary equipment</keyword>
+    <keyword>system composition</keyword>
+    <keyword>test</keyword>
+    <keyword>unified power flow controller</keyword>
+    <abstract>An approach to preparing a functional specification for a unified power flow controller (UPFC) using modular multilevel converter (MMC) is documented by this guide. This guide provides the functional requirements for UPFC project application, including UPFC system composition, function and performance requirements, primary equipment requirements, control and protection requirements, characteristic description, spares, engineering studies, testing, documentation, as well as training of UPFC projects. The intention of this document is to serve as a base specification with an informative annex provided to guide utilities, manufacturers, integrators, and other interested entities to apply a particular UPFC project.</abstract>
+  </front>
+</reference>

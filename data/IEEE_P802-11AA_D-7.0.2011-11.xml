@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P802-11aa/D-7.0.2011-11" target="https://ieeexplore.ieee.org/document/6083226">
+  <front>
+    <title>IEEE Draft Standard for Information Technology</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Video streaming</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Audio</keyword>
+    <keyword>Video</keyword>
+    <keyword>Medium Access Control</keyword>
+    <abstract>This amendment specifies enhancements to the 802.11 MAC (Medium Access Control) for robust audio video streaming, while maintaining co-existence with other types of traffic.</abstract>
+  </front>
+</reference>

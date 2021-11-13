@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE C57-16.2011 Redline" target="https://ieeexplore.ieee.org/document/6581852">
+  <front>
+    <title>IEEE Standard for Requirements, Terminology, and Test Code for Dry-Type Air-Core Series-Connected Reactors</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Discharges (electric)</keyword>
+    <keyword>Harmonic filters</keyword>
+    <keyword>Reactors</keyword>
+    <keyword>Shunt capacitors</keyword>
+    <keyword>Filters</keyword>
+    <keyword>Current limiters</keyword>
+    <keyword>air-core reactors</keyword>
+    <keyword>discharge current-limiting reactors</keyword>
+    <keyword>dry-type air-core reactors</keyword>
+    <keyword>drytype reactors</keyword>
+    <keyword>filter reactors</keyword>
+    <keyword>harmonic filters</keyword>
+    <keyword>IEEE C57.16</keyword>
+    <keyword>reactors</keyword>
+    <keyword>series capacitor bank applications</keyword>
+    <keyword>series-connected reactors</keyword>
+    <keyword>series reactor applications</keyword>
+    <keyword>shunt capacitor bank applications</keyword>
+    <keyword>shunt capacitor reactors</keyword>
+    <abstract>Recommendations are given for reactors intended for series connection, in both transmission and distribution systems, to control power flow under steady-state conditions and/or limit fault current under short-circuit conditions. Dry-type air-core reactors covered by this standard are self-cooled by natural air convection. With some restrictions, other reactors, including filter reactors, shunt capacitor reactors (used with shunt capacitor banks), and discharge current-limiting reactors (used with series capacitor banks) are also covered.</abstract>
+  </front>
+</reference>

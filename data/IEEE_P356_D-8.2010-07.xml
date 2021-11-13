@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE P356/D-8.2010-07" target="https://ieeexplore.ieee.org/document/5511470">
+  <front>
+    <title>IEEE Draft Guide for Measurements of Electromagnetic Properties of Earth Media</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Earth</keyword>
+    <keyword>Conductivity</keyword>
+    <keyword>Electromagnetics</keyword>
+    <keyword>permittivity</keyword>
+    <keyword>conductivity</keyword>
+    <keyword>resistivity</keyword>
+    <keyword>earth materials</keyword>
+    <keyword>electromagnetic measurement techniques.</keyword>
+    <abstract>The scope of the project is to cover measurements of the electrical properties of naturally occurring solids. Not covered are methods which rely on mapping earth structure anomalies unless directly related to electrical properties. Limited coverage of numerical methods for forward/inverse modeling.</abstract>
+  </front>
+</reference>

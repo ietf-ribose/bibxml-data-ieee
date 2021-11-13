@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1118.1990" target="https://ieeexplore.ieee.org/document/159173">
+  <front>
+    <title>IEEE Standard for Microcontroller System Serial Control Bus</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101038"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="March" day="1"/>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Standards</keyword>
+    <keyword>88 inverse discrete cosine transform</keyword>
+    <keyword>IDCT</keyword>
+    <keyword>visual telephony</keyword>
+    <keyword>reconstruction loop</keyword>
+    <abstract>A serial control bus for interdevicehtrabuilding as well as intrasite interconnection of microcontrollers is described. The bus, which is defined for (but not limited to) microcontrollers and devices with limited reprogrammability, provides a multidrop bit-serial communication protocol that will allow the interconnection of distributed Independently manufactured devices. The protocol is optimized for instrumentation, distributed data acquisition systems, control devices, and test and measurement. Specifications for a common architecture, generic bus services, system wagement, data link, and several physical media are provided.The serial control bus expands upon BITBUS without making existing devices obsolete. System reliability has been enhanced by the addition of a system management layer, and generic bus services have been expanded.</abstract>
+  </front>
+</reference>

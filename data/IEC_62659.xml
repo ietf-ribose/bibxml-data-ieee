@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEC 62659" target="https://ieeexplore.ieee.org/document/6522802">
+  <front>
+    <title>IEEE/IEC Draft Standard for Large Scale Manufacturing of Nanoelectronics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="June" day="3"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEC standards</keyword>
+    <keyword>Manufacturing processes</keyword>
+    <keyword>Large scale systems</keyword>
+    <keyword>Nanoelectronics</keyword>
+    <abstract>This standard provides a framework for introducing nanomaterials such as graphene into large scale, high volume manufacturing in established semiconductor factories (fabs). Since semiconductor fabs must incorporate practices that maintain high yields, there are very strict requirements for how manufacturing is performed. Nanomaterials represent a potential contaminant in semiconductor fabs, and must be introduced in a structured and methodical way.</abstract>
+  </front>
+</reference>

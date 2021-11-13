@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE P802-1Qat/D-6.1.2010-06" target="https://ieeexplore.ieee.org/document/5510205">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks Amendment 9: Stream Reservation Protocol (SRP)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>Materials requirements planning</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>Audio/Video Bridging</keyword>
+    <keyword>resource reservation</keyword>
+    <keyword>Multiple Registration Protocol (MRP).</keyword>
+    <abstract>This amendment specifies protocols, procedures and managed objects, usable by existing higher layer mechanisms, that allow network resources to be reserved for specific traffic streams traversing a bridged local area network.</abstract>
+  </front>
+</reference>

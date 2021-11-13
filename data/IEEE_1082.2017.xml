@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1082.2017" target="https://ieeexplore.ieee.org/document/8332121">
+  <front>
+    <title>IEEE Guide for Incorporating Human Reliability Analysis into Probabilistic Risk Assessments for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8332121"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Risk management</keyword>
+    <keyword>Probability distribution</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>HRA</keyword>
+    <keyword>human reliability analysis</keyword>
+    <keyword>IEEE 1082&amp;#8482;</keyword>
+    <keyword>PRA</keyword>
+    <keyword>probabilistic risk assessment</keyword>
+    <abstract>A structured framework for the incorporation of human reliability analysis (HRA) into probabilistic risk assessments (PRAs) is provided in this guide. To enhance the analysis of human/system interactions in PRAs, to help ensure reproducible conclusions, and to standardize the documentation of such assessments are the purposes of this guide. To do this, a specific HRA framework is developed from standard practices. The HRA framework is neutral with respect to specific HRA methods.</abstract>
+  </front>
+</reference>

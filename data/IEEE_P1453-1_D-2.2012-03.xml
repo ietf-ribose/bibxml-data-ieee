@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE P1453-1/D-2.2012-03" target="https://ieeexplore.ieee.org/document/6186726">
+  <front>
+    <title>IEEE Draft Adoption of IEC/TR 61000-3-7:2008, Electromagnetic compatibility (EMC)-Limits-Assessment of emission limits for the connection of fluctuating installations to MV, HV and EHV power systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="April" day="18"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Emission</keyword>
+    <keyword>Power system planning</keyword>
+    <keyword>fluctuating installation</keyword>
+    <keyword>IEC/TR 61000-3-7</keyword>
+    <keyword>IEEE 1453.1</keyword>
+    <abstract>IEC/TR 61000-3-7:2008 is adopted by this standard. This part of IEC 61000 provides guidance on principles which can be used as the basis for determining the requirements for the connection of fluctuating installations to MV, HV and EHV public power systems (LV installations are covered in other IEC documents). For the purposes of this report, a fluctuating installation means an installation (which may be a load or a generator) that produces voltage flicker and/or rapid voltage changes. The primary objective is to provide guidance to system operators or owners on engineering practices which will facilitate the provision of adequate service quality for all connected customers. In addressing installations, this document is not intended to replace equipment standards for emission limits.</abstract>
+  </front>
+</reference>

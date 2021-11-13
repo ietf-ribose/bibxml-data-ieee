@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE P1718/D-5.2012-01" target="https://ieeexplore.ieee.org/document/6143959">
+  <front>
+    <title>IEEE Draft Guide for Temperature Monitoring of Cable Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Cables</keyword>
+    <keyword>Raman scattering</keyword>
+    <keyword>Real time systems</keyword>
+    <keyword>Distributed control</keyword>
+    <abstract>This guide presents an overview of the existing and emerging temperature monitoring systems related to power cable installations. It summarizes the features, benefits and limitations of both discrete and distributed temperature monitoring for cable ratings. This guide also addresses the various aspects of user-interface and data communication issues needed to make the system more effective and more user-friendly.</abstract>
+  </front>
+</reference>

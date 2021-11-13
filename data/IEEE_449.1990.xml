@@ -1,0 +1,19 @@
+<reference anchor="IEEE.IEEE 449.1990" target="https://ieeexplore.ieee.org/document/89682">
+  <front>
+    <title>IEEE Standard for Ferroresonant Voltage Regulators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94596"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="24"/>
+    <keyword>Standards</keyword>
+    <keyword>regulators</keyword>
+    <abstract>Requirements are provided for ferroresonant voltage regulators that operate at relatively constant frequencies and provide substantially constant output voltages in spite of relatively large changes of input voltage. Requirements for controlled ferroresonant regulators that maintain substantially constant output voltages regardless of variations, within limits, of input voltage, temperature, frequency, and output load are also included. The requirements cover definitions, symbols, and circuit schematics; service conditions; ratings; nameplate and otherre markings; testing; application; and maintenance. Provision is made for relating the characteristics of ferroresonant regulators to associated rectifiers and circuits.</abstract>
+  </front>
+</reference>

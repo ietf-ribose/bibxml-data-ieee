@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE PC37-108/D-2.23.2020-07" target="https://ieeexplore.ieee.org/document/9354131">
+  <front>
+    <title>IEEE Approved Draft Guide for the Protection of Secondary Network Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="February" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Network systems</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Protection swtiching</keyword>
+    <keyword>IEEE C37.108</keyword>
+    <keyword>master relay</keyword>
+    <keyword>network limiter</keyword>
+    <keyword>network protector</keyword>
+    <keyword>network relays</keyword>
+    <keyword>network transformers</keyword>
+    <keyword>spot networks</keyword>
+    <abstract>Current available devices that are being used in secondary network systems protections schemes are covered in this guide. These devices act to sense the fault and initiate fault interruption locally or remotely, thereby minimizing damage and restoration time.</abstract>
+  </front>
+</reference>

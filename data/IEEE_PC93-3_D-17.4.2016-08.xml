@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE PC93-3/D-17.4.2016-08" target="https://ieeexplore.ieee.org/document/7564358">
+  <front>
+    <title>IEEE Approved Draft Standard for the Requirements for Power-Line Carrier Line Traps (30-500 kHz)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="September" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Wave traps</keyword>
+    <keyword>Carrier line traps</keyword>
+    <keyword>line trap</keyword>
+    <keyword>power line carrier</keyword>
+    <keyword>PLC</keyword>
+    <keyword>wave trap</keyword>
+    <abstract>Line trap inserted into a power line to provide a high impedance at power-line-carrier frequencies (30 kHz to 500 kHz) is applied in this standard. The purpose is to isolate the carrier signal from system impedance changes due to faults or switching behind the point of insertion, and guide the signal in the proper direction. The standard covers line traps in which the main coil is designed as a single phase, air-cooled inductor of the dry type.</abstract>
+  </front>
+</reference>

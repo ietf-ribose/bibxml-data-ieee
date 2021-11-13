@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE C37-081a.1997" target="https://ieeexplore.ieee.org/document/709392">
+  <front>
+    <title>Supplement to IEEE Guide for Synthetic Fault Testing of AC High Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88145"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="14"/>
+    <keyword>Circuit breakers</keyword>
+    <keyword>asymmetrical current</keyword>
+    <keyword>correction factors</keyword>
+    <keyword>major current zeros</keyword>
+    <keyword>minor current zeros</keyword>
+    <keyword>X/R ratio</keyword>
+    <abstract>The transient recovery voltage needs to be modified when interrupting asymmetrical currents. The voltage rate R, the peak voltage E2 and the rate of change of current di/dt all change with the asymmetrical current zero. Guidance is provided on how to make these corrections when compared to the symmetrical case.</abstract>
+  </front>
+</reference>

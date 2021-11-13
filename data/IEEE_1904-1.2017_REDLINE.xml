@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 1904-1.2017 Redline" target="https://ieeexplore.ieee.org/document/8372986">
+  <front>
+    <title>IEEE Standard for Service Interoperability in Ethernet Passive Optical Networks (SIEPON)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="June" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Quality of service</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>1G-EPON</keyword>
+    <keyword>10G-EPON</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Ethernet Passive Optical Network</keyword>
+    <keyword>IEEE 1904.1</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>QoS</keyword>
+    <keyword>quality of service</keyword>
+    <keyword>service interoperability</keyword>
+    <keyword>SIEPON</keyword>
+    <abstract>The system-level requirements needed to ensure service-level, multi-vendor interoperability of Ethernet Passive Optical Network (EPON) equipment is described. The existing IEEE 802.3 and IEEE 802.1 standards, which ensure the interoperability at the Physical Layer(PHY) and Data Link Layer, are complemented by the specifications. Specifically included in this specification are - EPON system-level interoperability specifications covering equipment functionality, traffic engineering, and service-level quality of service/class of service (QoS/CoS) mechanisms; - Management specifications covering equipment management, service management, and EPON power&amp;#8208;saving mechanism.</abstract>
+  </front>
+</reference>

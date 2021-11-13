@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 802-21d.2015" target="https://ieeexplore.ieee.org/document/7147761">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks -- Part 21: Media Independent Handover Services Amendment 4: Multicast Group Management</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7147761"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="July" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Group mnagemnet</keyword>
+    <keyword>IEEE 802.21 Standards</keyword>
+    <keyword>Multicast communication</keyword>
+    <keyword>Handover</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media</keyword>
+    <keyword>group</keyword>
+    <keyword>group management</keyword>
+    <keyword>group security</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.21(TM)</keyword>
+    <keyword>IEEE 802.21d(TM)</keyword>
+    <keyword>multicast</keyword>
+    <abstract>Mechanisms to enable multicast group management for MIH services is specified in this standard. The specification defines management primitives and messages that enable a user to join, leave or update group membership and security mechanisms to protect multicast communication.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P2842/D-3.2021-04" target="https://ieeexplore.ieee.org/document/9439338">
+  <front>
+    <title>IEEE Draft Recommended Practice for Secure Multi-party Computation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="May" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Data models</keyword>
+    <keyword>Data protection</keyword>
+    <keyword>Collaboration</keyword>
+    <keyword>Big Data</keyword>
+    <keyword>Security</keyword>
+    <keyword>Information and communication technology</keyword>
+    <keyword>MPC</keyword>
+    <keyword>Secure Multi-party Computation</keyword>
+    <keyword>technical framework</keyword>
+    <abstract>Data has become one of the most important assets in ICT area. Secure Multi-Party Computation plays a very important role in balancing data usage and data protection. It could build trust and security in data collaboration and big data analysis related areas. This standard provides a technical framework for Secure Multi-Party Computation, including 4 specifying: --An overview of Secure Multi-Party Computation --A technical framework of Secure Multi-Party Computation --Security levels of Secure Multi-Party Computation --Use cases based on Secure Multi-Party Computation</abstract>
+  </front>
+</reference>

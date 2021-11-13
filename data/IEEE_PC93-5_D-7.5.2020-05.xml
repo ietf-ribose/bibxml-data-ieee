@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE PC93-5/D-7.5.2020-05" target="https://ieeexplore.ieee.org/document/9162573">
+  <front>
+    <title>IEEE Draft Standard for Power Line Carrier Transmitter/Receiver Equipment used to Transfer Discrete Teleprotection Signals</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="August" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Transmitters</keyword>
+    <keyword>Security</keyword>
+    <keyword>Charge carriers</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Receivers</keyword>
+    <keyword>power line carrier</keyword>
+    <keyword>PLC</keyword>
+    <keyword>teleprotection</keyword>
+    <keyword>transmitter</keyword>
+    <keyword>receiver</keyword>
+    <keyword>transceiver</keyword>
+    <keyword>security</keyword>
+    <keyword>dependability</keyword>
+    <keyword>ON-OFF</keyword>
+    <keyword>FSK</keyword>
+    <abstract>This standard describes requirements for power line carrier (PLC) transmitter/receiver equipment used to transfer discrete teleprotection signals at power line carrier frequencies (30-500 kHz). Test requirements and conditions for determining performance, as well as manufacturing requirements, are defined.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE PC62-50/D-7.1.2011-05" target="https://ieeexplore.ieee.org/document/5776624">
+  <front>
+    <title>IEEE Draft Standard for Performance Criteria and Test Methods for Plug-in (Portable) Multiservice (Multiport) Surge-Protective Devices for Equipment Connected to a 120/240 V Single Phase Power Service and metallic conductive communication line(s)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Equipment</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Conducting materials</keyword>
+    <keyword>available fault current interrupting capacity</keyword>
+    <keyword>AIC</keyword>
+    <keyword>multiservice (multiport) surge protector</keyword>
+    <keyword>MSPD</keyword>
+    <keyword>disconnector</keyword>
+    <keyword>ground surge current reduction ratio</keyword>
+    <keyword>surge reference equalizer.</keyword>
+    <abstract>This standard defines test methods and performance criteria for plug-in (portable) Multiservice (Multiport) Surge Protective Devices, MSPDs, intended to protect equipment connected to one or more metallic conductive telecommunication line(s) and a 120/240 V single phase AC Power Service, with the neutral grounded at the service equipment. Performance testing covers three areas; the AC power SPD section, the telecommunication SPD section and the MSPD as whole. Essential MSPD performance characteristics are the reduction of surge current in the equipment ground loops and surge coupling between the individual SPD sections.</abstract>
+  </front>
+</reference>

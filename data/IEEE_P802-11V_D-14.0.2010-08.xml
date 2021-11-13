@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE P802-11v/D-14.0.2010-08" target="https://ieeexplore.ieee.org/document/5551096">
+  <front>
+    <title>IEEE Draft Standard for Information Technology-Telecommunications and information exchange between systems-Local and Metropolitan networks-Specific requirements-Part II: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications-Amendment 8: IEEE 802.11 Wireless Network Management</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>IEEE 802.11 Standards</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>P802.11v</keyword>
+    <keyword>802.11</keyword>
+    <keyword>Wireless Network Management</keyword>
+    <keyword>Radio Resource Management</keyword>
+    <abstract>This amendment provides Wireless Network Management enhancements to the IEEE 802.11MAC, and PHY, extending radio measurements to effect a complete and coherent upper layer interface formanaging IEEE 802.11 devices in wireless networks.</abstract>
+  </front>
+</reference>

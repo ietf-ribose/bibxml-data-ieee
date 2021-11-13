@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE PC37-113/D-5.2.2011-02" target="https://ieeexplore.ieee.org/document/5712784">
+  <front>
+    <title>IEEE Draft Guide for Protective Relay Applications to Transmission Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5712784"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>protective relaying</keyword>
+    <keyword>relay application</keyword>
+    <keyword>relaying</keyword>
+    <keyword>transmission line protection</keyword>
+    <keyword>distance protection</keyword>
+    <keyword>pilot protection</keyword>
+    <abstract>Information on the concepts of protection of ac transmission lines is presented in this guide. Applications of the concepts to accepted transmission line protection schemes are presented as well. Many important issues, such as coordination of settings, operating times, characteristics of relays, mutual coupling of lines, automatic reclosing, use of communication channels, are examined. Special protection systems, protection of multi-terminal lines and single-phase tripping and reclosing are also included. The impact of different electrical parameters and system performance considerations on the selection of relays and protection schemes is discussed as well.</abstract>
+  </front>
+</reference>

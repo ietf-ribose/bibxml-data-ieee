@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE P2675/D-1.2020-06" target="https://ieeexplore.ieee.org/document/9165985">
+  <front>
+    <title>IEEE Draft Standard for DevOps: Building Reliable and Secure Systems Including Application Build, Package and Deployment</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="August" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Systems thinking</keyword>
+    <keyword>Security</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <keyword>Product life cycle development</keyword>
+    <keyword>agile</keyword>
+    <keyword>continuous delivery</keyword>
+    <keyword>continuous deployment</keyword>
+    <keyword>continuous integration</keyword>
+    <keyword>DevOps</keyword>
+    <keyword>IEEE 2675</keyword>
+    <keyword>left-shift</keyword>
+    <abstract>Technical principles and processes to build, package, and deploy systems and applications in a reliable and secure way are specified. Establishing effective compliance and information technology (IT) controls is the focus. DevOps principles presented include mission first, customer focus, left-shift, continuous everything, and systems thinking. How stakeholders, including developers and operations staff, can collaborate and communicate effectively is described. The process outcomes and activities herein are aligned with the process model specified in ISO/IEC/IEEE 12207:2017 and ISO/IEC/IEEE 15288:2015.</abstract>
+  </front>
+</reference>

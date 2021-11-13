@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 1216.2000" target="https://ieeexplore.ieee.org/document/946609">
+  <front>
+    <title>IEEE Guide for the Application of Faulted Circuit Indicators for 200 A, Single-Phase Underground Residential Distribution (URD)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93284"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="3"/>
+    <keyword>Underground power distribution lines</keyword>
+    <keyword>overcurrent protection</keyword>
+    <keyword>power distribution</keyword>
+    <abstract>This application guide provides information on what a basic faulted circuit indicator (FCI) is designed to do, and describes methods for selecting FCIs. The application of FCIs to single-phase, 200 A, underground residential distribution (URD) circuits is described.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,32 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-22-2.2015" target="https://ieeexplore.ieee.org/document/8318948">
+  <front>
+    <title>ISO/IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8318948"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="March" day="16"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless sensor networks</keyword>
+    <keyword>Broadband</keyword>
+    <keyword>Throughput</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>broadband wireless access network</keyword>
+    <keyword>enhanced broadband services</keyword>
+    <keyword>high capacity</keyword>
+    <keyword>high throughput</keyword>
+    <keyword>IEEE 802.22(TM)</keyword>
+    <keyword>IEEE 802.22b(TM)</keyword>
+    <keyword>monitoring applications</keyword>
+    <keyword>WRAN standard</keyword>
+    <abstract>Alternate physical layer (PHY) and necessary medium access control layer (MAC) enhancements to IEEE Std 802.22-2011 are specified in this amendment for operation in very high frequency/ultra-high frequency (VHF/UHF) television broadcast bands between 54 MHz and 862 MHz to support enhanced broadband services and monitoring applications. The amendment supports aggregate data rates greater than the maximum data rate supported by the IEEE Std 802.22-2011. This amendment defines new classes of IEEE 802.22(TM) devices to address these applications and supports more than 512 devices in a network. This amendment also specifies techniques to enhance communications among the devices and makes necessary amendments to the cognitive, security, and parameters and connection management clauses. This amendment supports mechanisms to enable coexistence with other IEEE 802(R) systems in the same band.</abstract>
+  </front>
+</reference>

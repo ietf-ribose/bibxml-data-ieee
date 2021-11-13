@@ -1,0 +1,54 @@
+<reference anchor="IEEE.IEEE 1491.2012" target="https://ieeexplore.ieee.org/document/6226325">
+  <front>
+    <title>IEEE Guide for Selection and Use of Battery Monitoring Equipment in Stationary Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6226325"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="June" day="26"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Batteries</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Temperature sensors</keyword>
+    <keyword>Societies</keyword>
+    <keyword>airflow</keyword>
+    <keyword>ambient temperature</keyword>
+    <keyword>automated battery monitoring</keyword>
+    <keyword>battery applications</keyword>
+    <keyword>battery current</keyword>
+    <keyword>battery environment</keyword>
+    <keyword>battery monitoring equipment</keyword>
+    <keyword>battery monitoring techniques</keyword>
+    <keyword>battery temperature</keyword>
+    <keyword>battery types</keyword>
+    <keyword>battery voltage</keyword>
+    <keyword>charge and discharge</keyword>
+    <keyword>communications interfaces</keyword>
+    <keyword>connection</keyword>
+    <keyword>connection resistance</keyword>
+    <keyword>coup de fouet</keyword>
+    <keyword>cycles</keyword>
+    <keyword>ground fault detection</keyword>
+    <keyword>grounding</keyword>
+    <keyword>humidity</keyword>
+    <keyword>IEEE 1491</keyword>
+    <keyword>measurement parameters</keyword>
+    <keyword>ohmic value</keyword>
+    <keyword>operating environment</keyword>
+    <keyword>reports</keyword>
+    <keyword>ripple current</keyword>
+    <keyword>safety</keyword>
+    <keyword>sensors</keyword>
+    <keyword>software</keyword>
+    <keyword>specific gravity</keyword>
+    <keyword>temperature</keyword>
+    <keyword>voltage</keyword>
+    <abstract>Operational parameters that may be observed by battery monitoring equipment used in stationary applications and the relative value of such observations are discussed in this guide. Although a list of commercially available systems is not given, a means for establishing specifications for the desired parameters to be monitored is provided.</abstract>
+  </front>
+</reference>

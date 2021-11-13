@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE P1900-6a/D-0.7.2013-11" target="https://ieeexplore.ieee.org/document/6673993">
+  <front>
+    <title>IEEE Approved Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and Other Advanced Radio Communication Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="November" day="22"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Cognitive radio</keyword>
+    <keyword>Spread spectrum management</keyword>
+    <keyword>Database management</keyword>
+    <keyword>Distributed processing</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>data archive enhanced interface</keyword>
+    <keyword>data structure</keyword>
+    <keyword>distributed spectrum sensing</keyword>
+    <keyword>dynamic spectrum access</keyword>
+    <keyword>IEEE 1900.6(TM)</keyword>
+    <keyword>logical interface</keyword>
+    <keyword>procedures</keyword>
+    <keyword>protocols</keyword>
+    <keyword>sensing information</keyword>
+    <keyword>spectrum sensor</keyword>
+    <abstract>Included in this amendment to IEEE Std 1900.6(TM) are procedures, protocols, and message format specifications for the exchange of sensing related data, control data, and configuration data between spectrum sensors and their clients. In addition, specifications for the exchange of sensing related and otherre relevant data and related interfaces between the data archive and otherre data sources have been added.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1003-13.1998" target="https://ieeexplore.ieee.org/document/798785">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90558"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="May" day="3"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>AEP</keyword>
+    <keyword>application portability</keyword>
+    <keyword>data processing</keyword>
+    <keyword>environment</keyword>
+    <keyword>open systems</keyword>
+    <keyword>operating system</keyword>
+    <keyword>portable application</keyword>
+    <keyword>POSIX profiles</keyword>
+    <keyword>realtime application environments</keyword>
+    <keyword>realtime environment</keyword>
+    <abstract>This standard is part of the POSIX series of standardized profiles for open systems. It defines environment profiles for portable realtime applications.</abstract>
+  </front>
+</reference>

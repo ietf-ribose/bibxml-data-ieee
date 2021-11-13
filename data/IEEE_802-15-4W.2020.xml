@@ -1,0 +1,44 @@
+<reference anchor="IEEE.IEEE 802-15-4w.2020" target="https://ieeexplore.ieee.org/document/9206104">
+  <front>
+    <title>IEEE Standard for Low-Rate Wireless Networks--Amendment 2: Low Power Wide Area Network (LPWAN) Extension to the Low-Energy Critical Infrastructure Monitoring (LECIM) Physical Layer (PHY)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9206104"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="September" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Energy consumption</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Radio frequency</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>amendment</keyword>
+    <keyword>IEEE 802.15.4</keyword>
+    <keyword>IEEE 802.15.4w</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>LPWAN</keyword>
+    <keyword>low power wide area network</keyword>
+    <keyword>LECIM</keyword>
+    <keyword>low-energy critical infrastructure monitoring</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>splitting</keyword>
+    <keyword>ultra-low power</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>The existing low-energy critical infrastructure monitoring (LECIM) frequency shift keying (FSK) physical layer of IEEE Std 802.15.4-2020 is extended to be more robust in the presence of interference and achieve higher link budgets for applications in low power wide area networks (LPWAN). Lower symbol rates and a split mode with low-rate forward error correction (FEC) codes are introduced to achieve this goal.</abstract>
+  </front>
+</reference>

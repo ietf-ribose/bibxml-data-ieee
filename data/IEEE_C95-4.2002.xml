@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE C95-4.2002" target="https://ieeexplore.ieee.org/document/1146720">
+  <front>
+    <title>IEEE Recommended Practice for Determining Safe Distances From Radio Frequency Transmitting Antennas When Using Electric Blasting Caps During Explosive Operations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94222"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="July" day="10"/>
+    <keyword>blasting caps</keyword>
+    <keyword>detonation</keyword>
+    <keyword>explosive charge</keyword>
+    <keyword>RF transmitters</keyword>
+    <keyword>transmitting antennas</keyword>
+    <keyword>safe distance</keyword>
+    <abstract>Reaffirmed 2008. This project provides recommended practices for the prediction and practical determination of safe distances from radio and radar transmitting antennas when using electric blasting caps to remotely detonate an explosive charge. Specifically, this document includes mathematical formulas, tables, and charts that allow the user to determine safe distances from RF transmitters with spectrum bands from 0.5 MHz to 300 GHz, including VHF, UHF television antennas, FM, AM radio transmitting antennas, radar, navigation beacons, and portable communication devices.(The PDF of this standard is available at no cost compliments of the GETIEEEC95 program located at http://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=82)</abstract>
+  </front>
+</reference>

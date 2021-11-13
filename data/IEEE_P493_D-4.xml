@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE P493/D-4" target="https://ieeexplore.ieee.org/document/4040357">
+  <front>
+    <title>IEEE Recommended Practice for the Design of Reliable Industrial and Commercial Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This project will present the fundamentals of reliability analysis that should be used in planning, designing and operating reliable industrial and commercial power systems. The reliability fundamentals would include: probability and computer based methodologies, power system and utility maintenance and equipment reliability data, cost of power interruptions, emergency and standby power, electrical preventive maintenance, 24 x 7 facilities, mission critical facilities, and methodologies for estimating the frequency of power and process interruptions caused by voltage sags based on facility equipment susceptibility characteristics and utility network feeder voltage sag characteristics.</abstract>
+  </front>
+</reference>

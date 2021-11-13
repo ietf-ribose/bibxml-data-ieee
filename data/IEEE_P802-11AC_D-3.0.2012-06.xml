@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P802-11ac/D-3.0.2012-06" target="https://ieeexplore.ieee.org/document/6237412">
+  <front>
+    <title>IEEE Draft Standard for IT</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="July" day="11"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Multi-user MIMO</keyword>
+    <keyword>Beamforming</keyword>
+    <keyword>Wider Bandwidth</keyword>
+    <abstract>The purpose of the amendment is to improve the 802.11 wireless local area network (LAN) user experience by providing significantly higher basic service set (BSS) throughput for existing WLAN application areas and to enable new market segments for operation below 6 GHzincluding distribution of multiple multimedia/data streams.</abstract>
+  </front>
+</reference>

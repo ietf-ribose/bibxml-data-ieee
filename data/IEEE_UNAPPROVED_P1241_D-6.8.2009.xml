@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P1241/D-6.8.2009" target="https://ieeexplore.ieee.org/document/5291665">
+  <front>
+    <title>Draft IEEE Standard for Terminology and Test Methods for Analog-to-Digital Converters</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>The material presented in this standard is intended to provide common terminology and test methods for the testing and evaluation of analog-to-digital converters (ADCs). This standard considers only those ADCs whose output values have discrete values at discrete times, i.e. they are quantized and sampled.</abstract>
+  </front>
+</reference>

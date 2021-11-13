@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE P2030-1-1/D-4.2021-09" target="https://ieeexplore.ieee.org/document/9541322">
+  <front>
+    <title>IEEE Draft Standard Technical Specifications of a DC Quick and Bi-directional Charger for Use with Electric Vehicles</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Automotive electronics</keyword>
+    <keyword>Electric vehicles</keyword>
+    <keyword>Bidirectional control</keyword>
+    <keyword>Regulation</keyword>
+    <keyword>DC machines</keyword>
+    <keyword>automotive</keyword>
+    <keyword>CHAdeMO</keyword>
+    <keyword>dc charger</keyword>
+    <keyword>dc charging</keyword>
+    <keyword>electric vehicle</keyword>
+    <keyword>fast charger</keyword>
+    <keyword>fast charging</keyword>
+    <keyword>IEC 61851-23</keyword>
+    <keyword>IEEE</keyword>
+    <keyword>IEEE 2030.1.1&amp;#8482;</keyword>
+    <keyword>rapid charging</keyword>
+    <keyword>SAE</keyword>
+    <keyword>SAE J1772</keyword>
+    <keyword>SAE J2836/2</keyword>
+    <abstract>Direct-current (dc) charging is a method of charging that facilitates rapid energy transfer from the electric grid to plug-in vehicles. This method of charging allows significantly more current to be drawn by the vehicle versus lower rated alternating-current (ac) systems. A combination of vehicles that can accept high-current dc charge and the dc supply equipment that provides it has led to the use of terminology such as “fast charging,” “fast charger,” “dc charger,” “quick charger,” etc. DC charging and ac charging vary by the location at which ac current is converted to dc current. For typical dc charging, the current is converted at the off-board charger, which is separate from the vehicle. For ac charging, the current is converted inside the vehicle, by means of an on-board charger. The location of the ac to dc conversion equipment, or converter, shapes the complexity of the equipment design. Regarding ac charging, as previously mentioned, the conversion is on board the vehicle. This allows the original equipment maker (OEM) designed systems to control the charging operation in its entirety. The on-board charger (converter) and battery controller solution is under direct control of the vehicle manufacturer. For dc charging, an entirely new challenge exists for OEMs. The dc charger is now external to the vehicle and requires the vehicle engineers to control an external power device. For the reason of necessary interoperability, standards such as IEEE Std 2030.1.1 are provided to assist developers.</abstract>
+  </front>
+</reference>

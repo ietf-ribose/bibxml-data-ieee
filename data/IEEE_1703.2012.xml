@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 1703.2012" target="https://ieeexplore.ieee.org/document/6226334">
+  <front>
+    <title>IEEE Standard for Local Area Network/Wide Area Network (LAN/WAN) Node Communication Protocol to Complement the Utility Industry End Device Data Tables</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6226334"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="June" day="26"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wide area networks</keyword>
+    <keyword>Standards Board</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Committees</keyword>
+    <keyword>Optical fiber LAN</keyword>
+    <keyword>ACSE</keyword>
+    <keyword>ANSI C12.22</keyword>
+    <keyword>C12.19 Device</keyword>
+    <keyword>Communication Module</keyword>
+    <keyword>End Device</keyword>
+    <keyword>IEEE 1703</keyword>
+    <abstract>A set of application layer messaging services are provided in this standard that are applicable for the enterprise and End Device ends of an Advanced Metering Infrastructure (AMI). The application services include those useful for managing the AMI network assets defined by this standard. These messages may be transported over a wide range of underlying network transports such as TCP/IP, UDP, IEEE 802.11, IEEE 802.15.4 IEEE 802.16, PLC, and SMS over GSM, over a wide range of physical media. Additionally, interfaces are defined for a Communication Module and a Local Port (e.g., an IEEE 1701 optical port).The described protocol is tailored for, but not limited to, the transport of IEEE 1377 Table data.Also, a means by which information can be sent in a secure manner using AES128 and the EAX' mode is provided in this standard. This standard was developed jointly with ANSI (published as ANSI C12.22) and Measurement Canada (published as MC12.22).</abstract>
+  </front>
+</reference>

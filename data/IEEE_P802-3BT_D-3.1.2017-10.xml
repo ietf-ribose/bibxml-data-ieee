@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE P802-3bt/D-3.1.2017-10" target="https://ieeexplore.ieee.org/document/8061056">
+  <front>
+    <title>IEEE Draft Standard for Ethernet -- Amendment: Physical Layer and Management Parameters for DTE Power via MDI over 4-Pair</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="October" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Power system management</keyword>
+    <keyword>Wiring</keyword>
+    <keyword>amendment</keyword>
+    <keyword>DTE power via MDI</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>IEEE 802.3(TM)</keyword>
+    <keyword>IEEE 802.3bt(TM)</keyword>
+    <keyword>PoE</keyword>
+    <keyword>Power over Ethernet</keyword>
+    <abstract>The maximum Powered Device (PD) power available is increased by this amendment to IEEE Std 802.3-2018 by utilizing all four pairs in the specified structured wiring plant. This represents a substantial change to the capabilities of Ethernet with standardized power. The power classification information exchanged during negotiation is extended to allow meaningful power management capability. These enhancements solve the problem of higher power and more efficient standardized Power over Ethernet (PoE) delivery systems.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 1327.1993" target="https://ieeexplore.ieee.org/document/286085">
+  <front>
+    <title>IEEE Standard for Interconnection (OSI) Abstract Data Manipulation C Language Interfaces</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119661"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>C languages</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Syntactics</keyword>
+    <keyword>API</keyword>
+    <keyword>ASN.1</keyword>
+    <keyword>C language</keyword>
+    <keyword>OSI</keyword>
+    <keyword>Open systems interconnection</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Object management</keyword>
+    <keyword>Language binding</keyword>
+    <keyword>Application program interface</keyword>
+    <keyword>Application portability</keyword>
+    <keyword>Abstract syntax notation</keyword>
+    <abstract>A C programming language binding for the general-purpose OSI Abstract Data Manipulation (OM) Application Program Interface (API) in IEEE Std 1224- 1993 is defined. This standard is intended for use by application developers, system implementors, test method writers, and users to support application portability at the source-code level. The API defined in this standard contains two major parts: an interface for accessing the services defined in the programming language independent specification, and an interface for language-specific services.</abstract>
+  </front>
+</reference>

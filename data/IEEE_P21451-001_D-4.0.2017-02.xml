@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE P21451-001/D-4.0.2017-02" target="https://ieeexplore.ieee.org/document/7856908">
+  <front>
+    <title>IEEE Draft Recommended Practice for Signal Treatment Applied to Smart Transducers</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="February" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Shape analysis</keyword>
+    <keyword>Time domain analysis</keyword>
+    <keyword>Signal processing</keyword>
+    <keyword>Actuators</keyword>
+    <keyword>Smart devices</keyword>
+    <keyword>Transducers</keyword>
+    <keyword>IEEE 21451</keyword>
+    <keyword>1451</keyword>
+    <keyword>Serial</keyword>
+    <keyword>Smart Actuator</keyword>
+    <keyword>Smart Sensor</keyword>
+    <keyword>Smart Transducer</keyword>
+    <keyword>Oversampling</keyword>
+    <keyword>Segmentation</keyword>
+    <keyword>Smart Filtering</keyword>
+    <keyword>Time-Domain Signal Analysis</keyword>
+    <keyword>Signal Shape Analysis.</keyword>
+    <abstract>IEEE P21451-001 defines signal processing algorithms and data structure in order to share and to infer signal and state information of an instrumentation or control system. These algorithms are based on the signal and transducers attached to the system. order to share and to infer signal and state information of an instrumentation or control system. These algorithms are based on the signal and transducers attached to the system. This standard also defines a set of transducer signal treatment services based on signal treatment algorithms as application programming interface (API), which is used for applications to use or call these transducer signal treatment services.</abstract>
+  </front>
+</reference>

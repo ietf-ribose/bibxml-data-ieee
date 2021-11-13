@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved P802-3at/D-4.1.2009-04" target="https://ieeexplore.ieee.org/document/4816167">
+  <front>
+    <title>IEEE Draft Standard for Information technology--Telecommunications and information exchange between system--Local and metropolitan area network--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications Amendment: Data Terminal Equipment (DTE) Power via the Media Dependent Interface (MDI) Enhancements (Amendment of IEEE Std 802.3-2008)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>The scope of this project is to augment the capabilities of the IEEE Std 802.3 standard with higher power levels and improved power management information. The project will augment the methodology for the provision of power via balanced cabling to connected Data Terminal Equipment with 802.3 interfaces. Optional augmented power limit will be made available for certain structured cabling systems. Compatibility with existing equipment will be maintained.</abstract>
+  </front>
+</reference>

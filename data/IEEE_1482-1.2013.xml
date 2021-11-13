@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 1482-1.2013" target="https://ieeexplore.ieee.org/document/6756929">
+  <front>
+    <title>IEEE Standard for Rail Transit Vehicle Event Recorders</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6756929"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="March" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Railway transportation</keyword>
+    <keyword>Signal processing</keyword>
+    <keyword>Event recognition</keyword>
+    <keyword>Recorders</keyword>
+    <keyword>Traffic control</keyword>
+    <keyword>Railway safety</keyword>
+    <keyword>crashworthiness</keyword>
+    <keyword>IEEE 1482.1</keyword>
+    <keyword>input signal</keyword>
+    <keyword>rail transit vehicle event recorder</keyword>
+    <keyword>rail vehicles</keyword>
+    <keyword>rapid transit</keyword>
+    <keyword>self-test</keyword>
+    <abstract>On-board devices/systems, with crashworthy memory, that record data to support accident/incident analysis for rail transit vehicles are covered. The requirements of this standard are limited to event recorder functions and interfaces. Data transmission methods are excluded. The information in this standard is independent of the hardware and/or software employed for other vehicle systems.</abstract>
+  </front>
+</reference>

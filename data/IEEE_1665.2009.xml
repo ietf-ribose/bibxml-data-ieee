@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 1665.2009" target="https://ieeexplore.ieee.org/document/9409831">
+  <front>
+    <title>IEEE Guide for the Rewind of Synchronous Generators, 50 Hz and 60 Hz, Rated 1 MVA and Above</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.9409831"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Generators</keyword>
+    <keyword>Power generation</keyword>
+    <keyword>Synchronous motors</keyword>
+    <keyword>Rotors</keyword>
+    <keyword>Stators</keyword>
+    <keyword>1665-2009</keyword>
+    <keyword>cylindrical-pole rotor</keyword>
+    <keyword>insulation</keyword>
+    <keyword>rotor rewind</keyword>
+    <keyword>salient-pole rotor</keyword>
+    <keyword>stator rewind</keyword>
+    <keyword>synchronous generator</keyword>
+    <abstract>The general parameters for this guide apply to 50 Hz or 60 Hz synchronous generators driven by reciprocating engines, steam turbines, combustion turbines, and hydro turbines. The guide generally applies to the stator and rotor of generators with rated outputs of 1 MVA and above. The guide does not address machine auxiliaries or the excitation system.</abstract>
+  </front>
+</reference>

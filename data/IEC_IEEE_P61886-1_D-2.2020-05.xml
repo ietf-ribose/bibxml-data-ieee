@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEC/IEEE P61886-1/D-2.2020-05" target="https://ieeexplore.ieee.org/document/9102460">
+  <front>
+    <title>IEEE/IEC Draft International Standard for Subsea Equipment</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Connectors</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Underwater equipment</keyword>
+    <abstract>This document is applicable to single and three-phase wet-mateable and dry-mateable AC connectors, penetrators and jumper assemblies with rated voltages from 3 kV (Umax = 3,6 kV) to 30 kV (Umax = 36 kV). This document relates to the requirements and tests for products in the “as manufactured and supplied” condition. This document is not applicable to requirements and tests for products that have been subsequently installed, deployed or retrieved.</abstract>
+  </front>
+</reference>

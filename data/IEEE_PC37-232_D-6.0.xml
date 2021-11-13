@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE PC37-232/D-6.0" target="https://ieeexplore.ieee.org/document/4040702">
+  <front>
+    <title>Unapproved IEEE Draft Recommended Practice for Naming Time Sequence Data Files</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>The scope of the document is a procedure that is recommended for naming time sequence data (TSD) files, such as, transient records, event sequences and periodic logs. The file names include, among other feature, the key portions of the information contained in the file including, but not limited to, the name of the circuit, substation and recording device, and the date and time of the occurrence.</abstract>
+  </front>
+</reference>

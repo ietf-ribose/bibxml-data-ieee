@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 2144-1.2020" target="https://ieeexplore.ieee.org/document/9329260">
+  <front>
+    <title>IEEE Standard for Framework of Blockchain-based Internet of Things (IoT ) Data Management</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9329260"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="January" day="20"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Blockchain</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>Information management</keyword>
+    <keyword>Trust management</keyword>
+    <keyword>data management</keyword>
+    <keyword>IEEE 2144.1&amp;#8482;</keyword>
+    <keyword>internet of things</keyword>
+    <keyword>trust data</keyword>
+    <abstract>A framework of blockchain-based Internet of Things (IoT ) data management is defined in this standard. It identifies the common building blocks of the framework that blockchain enabled during IoT data lifecycle including data acquisition, processing, storage, analyzing, usage/exchange and obsoletion, and the interactions among these building blocks.</abstract>
+  </front>
+</reference>

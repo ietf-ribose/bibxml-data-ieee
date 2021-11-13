@@ -1,0 +1,18 @@
+<reference anchor="IEEE.IEEE P2410/D-4.2019-01" target="https://ieeexplore.ieee.org/document/8610445">
+  <front>
+    <title>IEEE Draft Standard for Biometric Open Protocol</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="January" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Biometrics (access control)</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Trust management</keyword>
+    <keyword>This standard provides a biometric-agnostic security protocol for authentication</keyword>
+    <keyword>identification</keyword>
+    <keyword>and liveness.</keyword>
+    <abstract>Identity assertion, role gathering, multilevel access control, assurance, and auditing are provided by the Biometric Open Protocol Standard (BOPS). An implementation of the BOPS III spec is described, which includes both the software running on the client device as well as the server. Pluggable components are allowed to replace existing components’ functionality, accepting integration into current operating environments in a short period of time. A “point-and-cut” mechanism to add the appropriate security to both development and production systems is offered through the BOPS implementation functionality. Homomorphic encryption and a tremendous simplification of the API are also described.</abstract>
+  </front>
+</reference>

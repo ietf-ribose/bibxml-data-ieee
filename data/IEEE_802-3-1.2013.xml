@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 802-3-1.2013" target="https://ieeexplore.ieee.org/document/6572796">
+  <front>
+    <title>IEEE Standard for Management Information Base (MIB) Definitions for Ethernet</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6572796"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="July" day="31"/>
+    <keyword>IEEE 802.3 Standards</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Materials</keyword>
+    <keyword>Object recognition</keyword>
+    <keyword>IEEE Computer Society</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>IEEE 802.3.1TM</keyword>
+    <keyword>Management Information Base (MIB)</keyword>
+    <keyword>network management</keyword>
+    <keyword>Simple Network Management Protocol (SNMP)</keyword>
+    <keyword>Structure of Management Information Version 2 (SMIv2)</keyword>
+    <abstract>The Management Information Base (MIB) module specifications for IEEE Std 802.3TM, also known as Ethernet, are contained in this standard. It includes the Structure of Management Information Version 2 (SMIv2) MIB module specifications formerly produced and published by the Internet Engineering Task Force (IETF), as well as extensions resulting from amendments to IEEE Std 802.3. The SMIv2 MIB modules are intended for use with the Simple Network Management Protocol (SNMP), commonly used to manage Ethernet.</abstract>
+  </front>
+</reference>

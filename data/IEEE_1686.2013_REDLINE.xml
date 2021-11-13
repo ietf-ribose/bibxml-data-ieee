@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 1686.2013 Redline" target="https://ieeexplore.ieee.org/document/6747946">
+  <front>
+    <title>IEEE Standard for Intelligent Electronic Devices Cyber Security Capabilities</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="February" day="25"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>Security</keyword>
+    <keyword>CIP</keyword>
+    <keyword>critical infrastructure protection</keyword>
+    <keyword>cyber</keyword>
+    <keyword>IED</keyword>
+    <keyword>IEEE 1686(TM)</keyword>
+    <keyword>intelligent electronic device</keyword>
+    <keyword>security</keyword>
+    <keyword>substation.</keyword>
+    <abstract>The functions and features to be provided in intelligent electronic devices (IEDs) to accommodate critical infrastructure protection programs are defined in this standard. Security regarding the access, operation, configuration, firmware revision and data retrieval from an IED are addressed. Communications for the purpose of power system protection (teleprotection) are not addressed in this standard.</abstract>
+  </front>
+</reference>

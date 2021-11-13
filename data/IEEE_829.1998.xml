@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 829.1998" target="https://ieeexplore.ieee.org/document/741968">
+  <front>
+    <title>IEEE Standard for Software Test Documentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88820"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="February" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>test case specificaiton</keyword>
+    <keyword>test design specification</keyword>
+    <keyword>test incident report</keyword>
+    <keyword>test item transmittal report</keyword>
+    <keyword>test log</keyword>
+    <keyword>test plan</keyword>
+    <keyword>test procedure specification</keyword>
+    <keyword>test summary report</keyword>
+    <abstract>Superseded by IEEE Std 829-2008. A set of basic software test documents is described. This standard speciÞes the form and content of individual test documents. It does not specify the required set of test documents.</abstract>
+  </front>
+</reference>

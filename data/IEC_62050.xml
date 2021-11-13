@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEC 62050" target="https://ieeexplore.ieee.org/document/8894298">
+  <front>
+    <title>IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.8894298"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="November" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>Hardware description languages</keyword>
+    <keyword>hardware description language</keyword>
+    <keyword>logic synthesis</keyword>
+    <keyword>register transfer level (RTL)</keyword>
+    <keyword>very high speed integrated circuit hardware description language (VHDL)</keyword>
+    <abstract>Replaces IEEE Std 1076.6-2004. This document specifies a standard for use of very high-speed integrated circuit hardware description language (VHDL) to model synthesizable register-transfer level digital logic. A standard syntax and semantics for VHDL register-transfer level synthesis is defined. The subset of the VHDL language, which is synthesizable, is described, and nonsynthesizable VHDL constructs are identified that should be ignored or flagged as errors.</abstract>
+  </front>
+</reference>

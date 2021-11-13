@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1667.2009 Redline" target="https://ieeexplore.ieee.org/document/5953417">
+  <front>
+    <title>IEEE Standard for Authentication in Host Attachments of Transient Storage Devices</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953417"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Universal Serial Bus</keyword>
+    <keyword>Transient analysis</keyword>
+    <keyword>1667-2009</keyword>
+    <keyword>authentication</keyword>
+    <keyword>certificates</keyword>
+    <keyword>discovery</keyword>
+    <keyword>probe</keyword>
+    <keyword>removable storage</keyword>
+    <keyword>security</keyword>
+    <abstract>This project defines a standard protocol for secure authentication and creation of trust between a secure host and a directly attached Transient and other Storage Devices, such as a USB flash drive, portable hard drive, or cellular phone. The protocol has only an indirect relationship with data integrity/security, and does not directly address issues of authorization and enforcement. The protocol also does not address devices that are attached using a network connection. However, a device that uses a point-to-point wireless connection such as WUSB may comply with this protocol.</abstract>
+  </front>
+</reference>

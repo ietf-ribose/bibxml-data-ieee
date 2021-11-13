@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 299.2006" target="https://ieeexplore.ieee.org/document/4117954">
+  <front>
+    <title>IEEE Standard Method for Measuring the Effectiveness of Electromagnetic Shielding Enclosures</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.323387"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="January" day="3"/>
+    <keyword>electromagnetic shielding</keyword>
+    <keyword>screened rooms</keyword>
+    <keyword>shielded enclosures</keyword>
+    <keyword>shielded rooms</keyword>
+    <keyword>shielding</keyword>
+    <keyword>shielding effectiveness</keyword>
+    <abstract>Uniform measurement procedures and techniques are provided for determining the effectiveness of electromagnetic shielding enclosures at frequencies from 9 kHz to 18 GHz (extendable to 50 Hz and 100 GHz, respectively) for enclosures having all dimension greater than or equal to 2.0 m. The types of enclosures covered include, but are not limited to, single-shield or double-shield structures of various construction, such as bolted demountable, welded, or integral with a building; and made of materials such as steel plate, copper or aluminum sheet, screening, hardware cloth, metal foil, or shielding fabrics.</abstract>
+  </front>
+</reference>

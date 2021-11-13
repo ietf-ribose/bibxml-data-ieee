@@ -1,0 +1,51 @@
+<reference anchor="IEEE.IEEE 1156-2.1996" target="https://ieeexplore.ieee.org/document/8960948">
+  <front>
+    <title>IEEE Standard for Environmental Specifications for Computer Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8960948"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="January" day="15"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Computers</keyword>
+    <keyword>Environmental factors</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Corrosion</keyword>
+    <keyword>Humidity measurement</keyword>
+    <keyword>Flammability</keyword>
+    <keyword>Flame retardants</keyword>
+    <keyword>Stress</keyword>
+    <keyword>environmental</keyword>
+    <keyword>computer systems</keyword>
+    <keyword>atmospheric stress</keyword>
+    <keyword>computer systems</keyword>
+    <keyword>conducted immunity</keyword>
+    <keyword>corrosion</keyword>
+    <keyword>drop heights</keyword>
+    <keyword>earthquote</keyword>
+    <keyword>electrical stress</keyword>
+    <keyword>electromagnetic</keyword>
+    <keyword>EMI</keyword>
+    <keyword>electrostatic</keyword>
+    <keyword>ESD</keyword>
+    <keyword>environmental</keyword>
+    <keyword>fire resistance</keyword>
+    <keyword>flammability</keyword>
+    <keyword>humidity</keyword>
+    <keyword>mechanical stress</keyword>
+    <keyword>performance level</keyword>
+    <keyword>level qualification</keyword>
+    <keyword>shock</keyword>
+    <keyword>sinusoidal vibration</keyword>
+    <keyword>thermal shock</keyword>
+    <keyword>thermal testing</keyword>
+    <keyword>vibration</keyword>
+    <abstract>Reaffirmed 2003. This standard is designed for use in conjunction with other documents such as the IEEE 1101 group of standards, the IEEE 896 group of standards, the IEEE 1596 group of standards, the IEEE 1014 group of standards, and ISO/IEC 10861: 1994. This standard is one of the IEEE P1156.x series for environmental specifications. It is intended to be used as a core specification. It contains minimum environmental withstand conditions applicable to computer systems and all of their associated components. It has been created to provide general environmental withstand conditions for one or more of the above listed computer buses or interconnect standards, and electronic equipment in general.</abstract>
+  </front>
+</reference>

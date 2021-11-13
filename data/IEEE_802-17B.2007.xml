@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 802-17b.2007" target="https://ieeexplore.ieee.org/document/4280852">
+  <front>
+    <title>IEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4280852"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Telecommunications</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>bridging</keyword>
+    <keyword>fairness</keyword>
+    <keyword>layer management</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>metropolitan area network (MAN)</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>protection switching</keyword>
+    <keyword>resilient packet ring (RPR)</keyword>
+    <keyword>ring topology</keyword>
+    <keyword>spatial reuse</keyword>
+    <keyword>topology detection</keyword>
+    <abstract>This amendment enables a service provider to use the architecture and protocols of IEEE Std 802.17<sup>TM</sup>-2004 to offer improvements in bandwidth utilization, by means of spatial reuse, for applications of RPR that involve bridging clients.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 802-3r.1996" target="https://ieeexplore.ieee.org/document/543527">
+  <front>
+    <title>IEEE Standard Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81531"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Carrier sense multiaccess</keyword>
+    <keyword>dynamic conformance testing</keyword>
+    <keyword>medium attachment unit</keyword>
+    <keyword>MAU</keyword>
+    <keyword>PICS proforma</keyword>
+    <keyword>protocol implementation conformance</keyword>
+    <keyword>static conformance review</keyword>
+    <keyword>Type 10BASE5</keyword>
+    <abstract>A Protocol Implementation Conformance Statement (PICS) proforma for Type 10BASE5 Medium Attachment Unit (MAU) (clause 8) is provided. The PICS proforma is used to evaluate the conformance of a particular implementation of the standard.</abstract>
+  </front>
+</reference>

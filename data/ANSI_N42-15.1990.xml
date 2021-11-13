@@ -1,0 +1,22 @@
+<reference anchor="IEEE.ANSI N42-15.1990" target="https://ieeexplore.ieee.org/document/257605">
+  <front>
+    <title>American National Standard for Performance Verification of Liquid-Scintillation Counting Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.115567"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="8"/>
+    <keyword>Scintillation detectors</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Quenched unknown samples</keyword>
+    <keyword>Liquid-scintillation counting</keyword>
+    <keyword>Calculation on sample activity</keyword>
+    <abstract>Provides designers and users with tests and procedures to assure that a liquid-scintillation counting system is producing reliable data. This standard does not cover the calculation of sample activity for quenched unknown samples, sample preparation, efficiency correlation, (quench correction) procedures, or identification of unknown radionuclides.</abstract>
+  </front>
+</reference>

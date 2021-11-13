@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE P2410/D-4.2014-09" target="https://ieeexplore.ieee.org/document/6985516">
+  <front>
+    <title>IEEE Draft Biometrics Open Protocol Standard</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Biometrics</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>admin console</keyword>
+    <keyword>application</keyword>
+    <keyword>BOPS admin</keyword>
+    <keyword>BOPS cluster</keyword>
+    <keyword>BOPS server</keyword>
+    <keyword>BOPS IDS</keyword>
+    <keyword>client device IDS</keyword>
+    <keyword>Jena Rules</keyword>
+    <keyword>IDS cluster</keyword>
+    <keyword>IEEE 2410</keyword>
+    <keyword>liveness</keyword>
+    <keyword>original site admin</keyword>
+    <keyword>site admin</keyword>
+    <keyword>trusted adjudicated data</keyword>
+    <keyword>user</keyword>
+    <keyword>user device</keyword>
+    <abstract>Biometric Open Protocol Standard (BOPS) provides Identity Assertion, Role Gathering, Multi-Level Access Control, Assurance, and Auditing. The BOPS includes software running on a client device (Android, iPhone, etc.), a trusted BOPS Server, and an Intrusion Detection(IDS) system. The BOPS allows pluggable components to replace existing components functionality accepting integration into current operating environments in a short period of time. The BOPS provides continuous protection to the resources and assurance of the placement and viability of adjudication, and other key features. Accountability is the mechanism that proves a service level guarantee of security. The BOPS allows the systems to meet security needs by using the API.The BOPS need not know whether the underlying system is a Relational Database Management System (RDBMS) or a Search Engine. The BOPS functionality offers a point and cut mechanism to add the appropriate security to the production systems as well as to the systems in development. The architecture is a language neutral allowing REST, JSON and Secure Socket Layers(SSL) to provide the communication interface. The architecture is built on the servlet specification, open secure socket layers, Java, JSON, REST and Apache Solr. Each and every tool adheres to the open standards allowing maximum interoperability.</abstract>
+  </front>
+</reference>

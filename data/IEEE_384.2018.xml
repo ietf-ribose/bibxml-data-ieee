@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 384.2018" target="https://ieeexplore.ieee.org/document/8546840">
+  <front>
+    <title>IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8546840"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="November" day="26"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Circuits and systems</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Security</keyword>
+    <keyword>associated circuit</keyword>
+    <keyword>barrier</keyword>
+    <keyword>Class 1E</keyword>
+    <keyword>IEEE 384&amp;#8482;</keyword>
+    <keyword>independence</keyword>
+    <keyword>isolation</keyword>
+    <keyword>isolation device</keyword>
+    <keyword>raceway</keyword>
+    <keyword>separation</keyword>
+    <abstract>The independence requirements of the circuits and equipment comprising or associated with Class 1E systems are described in this standard. Criteria for the independence that can be achieved by physical separation and electrical isolation of circuits and equipment that are redundant are set forth. The determination of what is to be considered redundant is not addressed.</abstract>
+  </front>
+</reference>

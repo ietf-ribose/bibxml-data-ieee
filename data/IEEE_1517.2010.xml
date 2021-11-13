@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1517.2010" target="https://ieeexplore.ieee.org/document/5551093">
+  <front>
+    <title>IEEE Standard for Information Technology--System and Software Life Cycle Processes--Reuse Processes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5551093"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="March" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software</keyword>
+    <keyword>Asset management</keyword>
+    <keyword>Standards Coordinating Committees</keyword>
+    <keyword>Life testing</keyword>
+    <keyword>asset</keyword>
+    <keyword>domain engineering</keyword>
+    <keyword>process</keyword>
+    <keyword>reuse</keyword>
+    <keyword>software life cycle</keyword>
+    <keyword>system life cycle</keyword>
+    <abstract>A common framework for extending the system and software life cycle processes of IEEE Std 12207™-2008 to include the systematic practice of reuse is provided. The processes, activities, and tasks to be applied during each life cycle process to enable a system and/or product to be constructed from reusable assets are specified. The processes, activities, and tasks to enable the identification, construction, maintenance, and management of assets supplied are also specified.</abstract>
+  </front>
+</reference>

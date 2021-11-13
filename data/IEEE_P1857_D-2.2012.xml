@@ -1,0 +1,41 @@
+<reference anchor="IEEE.IEEE P1857/D-2.2012" target="https://ieeexplore.ieee.org/document/6476602">
+  <front>
+    <title>IEEE Approved Draft Standard for Advanced Audio and Video Coding</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="March" day="8"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Encoding</keyword>
+    <keyword>Decoding</keyword>
+    <keyword>Image processing</keyword>
+    <keyword>Entropy</keyword>
+    <keyword>Transforms</keyword>
+    <keyword>Audio coding</keyword>
+    <keyword>Video coding</keyword>
+    <keyword>block</keyword>
+    <keyword>coefficients</keyword>
+    <keyword>decoding</keyword>
+    <keyword>encoding</keyword>
+    <keyword>entropy coding</keyword>
+    <keyword>field</keyword>
+    <keyword>frame</keyword>
+    <keyword>IEEE 1857</keyword>
+    <keyword>image</keyword>
+    <keyword>Internet Protocol television (IPTV)</keyword>
+    <keyword>inter prediction</keyword>
+    <keyword>intra prediction</keyword>
+    <keyword>macroblock</keyword>
+    <keyword>picture</keyword>
+    <keyword>quantization</keyword>
+    <keyword>slice</keyword>
+    <keyword>transform</keyword>
+    <abstract>In this standard, a set of tools for efficient video coding is defined, including directional intra prediction, variable block size inter prediction and context adaptive binary arithmetic coding, and the corresponding decoding procedure. The target applications and services include but not limited TV over Internet, user-generated multimedia content, IP-based video conference, IP-based surveillance, and otherre video/audio enabled services and applications such as digital television broadcasting, digital storage media, and communication.</abstract>
+  </front>
+</reference>

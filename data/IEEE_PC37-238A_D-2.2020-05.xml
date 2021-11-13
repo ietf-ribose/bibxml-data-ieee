@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE PC37-238a/D-2.2020-05" target="https://ieeexplore.ieee.org/document/9096648">
+  <front>
+    <title>IEEE Draft Standard Profile for Use of IEEE 1588 Precision Time Protocol in Power System Applications Amendment 1: Adding a Type-Length-Value (TLV) to indicate the latest International Earth Rotation Service (IERS)-specified Universal Time Coordinated (UTC) Leap Second Event</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="May" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Clocks</keyword>
+    <keyword>Timing analysis</keyword>
+    <keyword>Precision engineering</keyword>
+    <keyword>grandmaster clock</keyword>
+    <keyword>IEEE 1588&amp;#8482;</keyword>
+    <keyword>IEEE C37.238&amp;#8482;</keyword>
+    <keyword>power substation</keyword>
+    <keyword>precise time synchronization</keyword>
+    <keyword>Precision Time Protocol</keyword>
+    <keyword>PTP</keyword>
+    <keyword>sample synchronization</keyword>
+    <keyword>slave-only clock</keyword>
+    <keyword>synchrophasors</keyword>
+    <keyword>transparent clock</keyword>
+    <abstract>An extended profile is specified for the use of Precision Time Protocol of IEEE Std 1588-2008 in power system protection, control, automation, and data communication applications utilizing an Ethernet communications architecture.</abstract>
+  </front>
+</reference>

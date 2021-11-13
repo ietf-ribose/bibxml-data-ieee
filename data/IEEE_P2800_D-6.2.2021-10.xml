@@ -1,0 +1,56 @@
+<reference anchor="IEEE.IEEE P2800/D-6.2.2021-10" target="https://ieeexplore.ieee.org/document/9591511">
+  <front>
+    <title>IEEE Draft Standard for Interconnection and Interoperability of Inverter-Based Resources (IBR) Interconnecting with Associated Transmission Electric Power Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="October" day="27"/>
+    <keyword>active power</keyword>
+    <keyword>capability</keyword>
+    <keyword>co-located resource</keyword>
+    <keyword>control</keyword>
+    <keyword>enter service</keyword>
+    <keyword>energy storage</keyword>
+    <keyword>evaluation</keyword>
+    <keyword>fast frequency response</keyword>
+    <keyword>frequency</keyword>
+    <keyword>frequency response</keyword>
+    <keyword>harmonic current</keyword>
+    <keyword>harmonic voltage</keyword>
+    <keyword>hybrid resource</keyword>
+    <keyword>integrity</keyword>
+    <keyword>interconnection</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>inverter</keyword>
+    <keyword>inverter-based resource</keyword>
+    <keyword>isolation device</keyword>
+    <keyword>measurement accuracy</keyword>
+    <keyword>modeling</keyword>
+    <keyword>negative-sequence</keyword>
+    <keyword>performance</keyword>
+    <keyword>positive-sequence</keyword>
+    <keyword>power quality</keyword>
+    <keyword>primary frequency response</keyword>
+    <keyword>protection</keyword>
+    <keyword>reactive power</keyword>
+    <keyword>reference point of applicability</keyword>
+    <keyword>ride-through</keyword>
+    <keyword>solar photovoltaic power</keyword>
+    <keyword>standard</keyword>
+    <keyword>technical minimum</keyword>
+    <keyword>transient overvoltage</keyword>
+    <keyword>type test</keyword>
+    <keyword>unbalance</keyword>
+    <keyword>verification</keyword>
+    <keyword>voltage</keyword>
+    <keyword>weak grid</keyword>
+    <keyword>wind power</keyword>
+    <abstract>Uniform technical minimum requirements for the interconnection, capability, and lifetime performance of inverter-based resources interconnecting with transmission and sub-transmission systems are established in this standard. Included in this standard are performance requirements for reliable integration of inverter-based resources into the bulk power system, including, but not limited to, voltage and frequency ride-through, active power control, reactive power control, dynamic active power support under abnormal frequency conditions, dynamic voltage support under abnormal voltage conditions, power quality, negative sequence current injection, and system protection. The standard also applies to isolated inverter-based resources that are interconnected to an AC transmission system via dedicated voltage source converter high-voltage direct current (VSC-HVDC) transmission facilities; in these cases, the standard applies to the combination of the isolated IBRs and the VSC-HVDC facility, and not to an isolated IBR on its own.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 1785-2.2016" target="https://ieeexplore.ieee.org/document/7564020">
+  <front>
+    <title>IEEE Standard for Rectangular Metallic Waveguides and Their Interfaces for Frequencies of 110 GHz and Above--Part 2: Waveguide Interfaces</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7564020"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="September" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Rectangular waveguides</keyword>
+    <keyword>Waveguide components</keyword>
+    <keyword>Waveguide theory</keyword>
+    <keyword>Microwave theory and techniques</keyword>
+    <keyword>Metallic waveguides</keyword>
+    <keyword>Millimeter wave communication</keyword>
+    <keyword>IEEE 1785.2(TM)</keyword>
+    <keyword>millimeter-wave</keyword>
+    <keyword>rectangular waveguides</keyword>
+    <keyword>submillimeter-wave</keyword>
+    <keyword>terahertz</keyword>
+    <keyword>waveguide fl anges</keyword>
+    <keyword>waveguide interfaces</keyword>
+    <keyword>waveguide tolerances</keyword>
+    <abstract>Specifications for rectangular waveguide interfaces are given in this standard. It considers the tolerances of the waveguide interface dimensions and the effect these have on the electrical properties (in terms of reflection coefficient) of the waveguide.</abstract>
+  </front>
+</reference>

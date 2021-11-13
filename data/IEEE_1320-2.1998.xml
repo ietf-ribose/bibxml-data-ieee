@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 1320-2.1998" target="https://ieeexplore.ieee.org/document/8883275">
+  <front>
+    <title>IEEE Standard for Conceptual Modeling Language</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8883275"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Data models</keyword>
+    <keyword>Modeling</keyword>
+    <keyword>Semantics</keyword>
+    <keyword>Syntactics</keyword>
+    <keyword>conceptual schema</keyword>
+    <keyword>data model</keyword>
+    <keyword>IDEF1X</keyword>
+    <keyword>IDEF1X97</keyword>
+    <keyword>identity style</keyword>
+    <keyword>information model</keyword>
+    <keyword>key style</keyword>
+    <keyword>object model</keyword>
+    <abstract>IDEF1X97 consists of two conceptual modeling languages. The key-style language supports data/information modeling and is downward compatible with the US government’s 1993 standard, FIPS PUB 184. The identity-style language is based on the object model with declarative rules and constraints.IDEF1X97 identity style includes constructs for the distinct but related components of object abstraction: interface, requests, and realization; utilizes graphics to state the interface; and defines a declarative, directly executable Rule and Constraint Language for requests and realizations. IDEF1X97 conceptual modeling supports implementation by relational databases, extended relational databases, object databases, and object programming languages. IDEF1X97 is formally defined in terms of first order logic. A procedure is given whereby any valid IDEF1X97 model can be transformed into an equivalent theory in first order logic. That procedure is then applied to a meta model of IDEF1X97 to define the valid set of IDEF1X97 models.</abstract>
+  </front>
+</reference>

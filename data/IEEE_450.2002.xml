@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 450.2002" target="https://ieeexplore.ieee.org/document/1195381">
+  <front>
+    <title>IEEE Recommended Practice for Maintenance, Testing , and Replacement of Vented Lead-Acid Batteries for Stationary Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94246"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Uninterruptible power systems</keyword>
+    <keyword>Maintenance</keyword>
+    <keyword>Testing</keyword>
+    <keyword>acceptance test</keyword>
+    <keyword>battery capacity</keyword>
+    <keyword>battery installation</keyword>
+    <keyword>battery maintenance</keyword>
+    <keyword>battery replacement criteria</keyword>
+    <keyword>battery service test</keyword>
+    <keyword>battery terminal voltage</keyword>
+    <keyword>connection resistance measurements</keyword>
+    <keyword>electrolyte level</keyword>
+    <keyword>equalize charge</keyword>
+    <keyword>float voltage</keyword>
+    <abstract>Maintenance, test schedules, and testing procedures that can be used to optimize the life and performance of permanently installed, vented lead-acid storage batteries used for standby power applications are provided. This recommended practice also provides guidance to determine when batteries should be replaced. This recommended practice is applicable to full-float stationary applications where a charger maintains the battery fully charged and supplies the dc loads.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,39 @@
+<reference anchor="IEEE.IEEE 802-1D.2004" target="https://ieeexplore.ieee.org/document/1309630">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks: Media Access Control (MAC) Bridges</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94569"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>active topology</keyword>
+    <keyword>filtering</keyword>
+    <keyword>GARP</keyword>
+    <keyword>GMRP</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networds</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANS</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>multicast registration</keyword>
+    <keyword>transparent bridging</keyword>
+    <keyword>quality of service</keyword>
+    <keyword>RSTP</keyword>
+    <keyword>spanning tree</keyword>
+    <abstract>An architecture for the interconnection of IEEE 802(R) Local Area Networks (LANs) below the MAC Service boundary is defined. MAC Bridges, as specified by this standard, allow communications between end stations attached to separate LANs, each with its own separate MAC, to be transparent to logical link control (LLC) and network layer protocols, just as if the stations were attached to the same LAN.</abstract>
+  </front>
+</reference>

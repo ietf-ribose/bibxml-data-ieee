@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 802-15-6.2012" target="https://ieeexplore.ieee.org/document/6161600">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6161600"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="September" day="7"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local aea networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Body area networks</keyword>
+    <keyword>Human factors</keyword>
+    <keyword>Network topolgy</keyword>
+    <keyword>Motion control</keyword>
+    <keyword>BAN</keyword>
+    <keyword>body area network</keyword>
+    <keyword>IEEE 802.15.6</keyword>
+    <abstract>Short-range, wireless communications in the vicinity of, or inside, a human body (but not limited to humans) are specified in this standard. It uses existing industrial scientific medical (ISM) bands as well as frequency bands approved by national medical and/or regulatory authorities. Support for quality of service (QoS), extremely low power, and data rates up to 10 Mbps is required while simultaneously complying with strict non-interference guidelines where needed. This standard considers effects on portable antennas due to the presence of a person (varying with male, female, skinny, heavy, etc.), radiation pattern shaping to minimize the specific absorption rate (SAR) into the body, and changes in characteristics as a result of the user motions.</abstract>
+  </front>
+</reference>

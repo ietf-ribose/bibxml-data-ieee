@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P11073-30200a/D-03.2010-10" target="https://ieeexplore.ieee.org/document/5601935">
+  <front>
+    <title>IEEE Draft Standard for Health informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>bedside</keyword>
+    <keyword>Infrared Data Association</keyword>
+    <keyword>IrDA</keyword>
+    <keyword>legacy device</keyword>
+    <keyword>medical device</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>MIB</keyword>
+    <keyword>patient</keyword>
+    <keyword>SNTP</keyword>
+    <keyword>IEEE Std 802.3-2008</keyword>
+    <abstract>This amendment extends the ISO/IEEE 11073-30200:2004 standard to include IEEE Std 802.3-2008 100BASE-T and includes analysis of the compatibility of cable connections between ISO/IEEE 11073-30200:2004 and IEEE Std 802.3-2008.</abstract>
+  </front>
+</reference>

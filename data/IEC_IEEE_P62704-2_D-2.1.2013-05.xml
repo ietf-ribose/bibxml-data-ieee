@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEC/IEEE P62704-2/D-2.1.2013-05" target="https://ieeexplore.ieee.org/document/6589084">
+  <front>
+    <title>IEEE/IEC Draft International Standard for Determining the Peak Spatial Average Specific Absorption Rate (SAR) in the Human Body from Wireless Communications Devices, 30 MHz</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Specific absorption rate</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Human factors</keyword>
+    <keyword>Microwave measurement</keyword>
+    <keyword>Vehicle mounted antennas</keyword>
+    <keyword>Finite difference methods</keyword>
+    <abstract>This standard describes the concepts, techniques, vehicle models, validation procedures, uncertainties and limitations of the finite-difference time-domain technique (FDTD) when used for determining the spatial-peak specific absorption rate (SAR) in standardized human anatomical models exposed to vehicle mounted antennas. Recommended vehicle models and general benchmark data for these models are provided. Antenna locations, operatingconfigurations, exposure conditions and positions of persons exposed to the vehicle mounted antennas are defined. Intended users of this practice are (but are not be limited to) wireless communication devices manufacturers, service providers for wireless communication that are required to certify that their products comply with the applicable SAR limits and government agencies. Specific SAR limit values (basic restrictions) are not included since these are found in other documents, e.g., IEEE C95.1-2005 and IEEE C95.1a-2010.</abstract>
+  </front>
+</reference>

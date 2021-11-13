@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1285.2005" target="https://ieeexplore.ieee.org/document/1611109">
+  <front>
+    <title>IEEE Standard for Scalable Storage Interface</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99380"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="13"/>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Uniform resource locators</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>storage interface</keyword>
+    <keyword>mass-storage</keyword>
+    <keyword>controller</keyword>
+    <abstract>This document specifies a scalable interface between mass-storage devices and controlling hard-ware/software. The interface has been optimized for low-latency interconnects, assuming that the proces-sor/controller and the storage device can often be co-located on the same printed-circuit board. The interface can also be used with longer-distance bus-like interconnects, including (but not limited to) IEEE Std 1394-1995 Serial Bus and IEEE Std 1596-1992 Scalable Coherent Interface.</abstract>
+  </front>
+</reference>

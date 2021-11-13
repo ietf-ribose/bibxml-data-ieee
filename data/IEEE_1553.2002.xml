@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1553.2002" target="https://ieeexplore.ieee.org/document/1185206">
+  <front>
+    <title>IEEE Standard for Voltage Endurance Testing of Form-Wound Coils and Bars for Hydrogenerators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94234"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="20"/>
+    <keyword>Hydroelectric generators</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Machine windings</keyword>
+    <keyword>Insulation testing</keyword>
+    <keyword>Electric breakdown</keyword>
+    <keyword>electrical insulation</keyword>
+    <keyword>form-wound bars</keyword>
+    <keyword>form-wound coils</keyword>
+    <keyword>hydrogenerators</keyword>
+    <keyword>voltage-endurance testing</keyword>
+    <abstract>The test parameters and acceptance criteria for voltage-endurance testing of form-wound bars and coils for use in large hydrogenerators are covered in this standard.</abstract>
+  </front>
+</reference>

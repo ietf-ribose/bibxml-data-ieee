@@ -1,0 +1,24 @@
+<reference anchor="IEEE.ANSI C63-2.1996" target="https://ieeexplore.ieee.org/document/7029264">
+  <front>
+    <title>American National Standard for Instrumentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.7029264"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="2"/>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Electromagnetic measurements</keyword>
+    <keyword>Voltage measurements</keyword>
+    <keyword>Electromagnetic measurements</keyword>
+    <keyword>Electromagnetic interference</keyword>
+    <abstract>Electromagnetic compatibility techniques and requirements for instruments measuring quasipeak, peak, rms, and average values for electrical and electronic equipment for various applications are provided.</abstract>
+  </front>
+</reference>

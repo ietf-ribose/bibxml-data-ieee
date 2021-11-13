@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 1175-4.2008" target="https://ieeexplore.ieee.org/document/4839189">
+  <front>
+    <title>IEEE Standard for CASE Tool Interconnections--Reference Model for Specifying System Behavior</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4839189"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="14"/>
+    <keyword>1175.4-2008</keyword>
+    <keyword>behavior model</keyword>
+    <keyword>behavior specification</keyword>
+    <keyword>Computer-Aided Software Engineering (CASE) tools</keyword>
+    <keyword>engineering model</keyword>
+    <keyword>model-based testing</keyword>
+    <keyword>modeling principles</keyword>
+    <keyword>requirements</keyword>
+    <keyword>software specification</keyword>
+    <keyword>specification-based testing</keyword>
+    <keyword>system</keyword>
+    <keyword>system testing</keyword>
+    <abstract>The reference model that provides a common interpretation basis by which tools can express and communicate the observable features of system/software behavior to users and to other tools is presented in this standard. This standard specifies a conceptual metamodel for understanding and describing the causal behavior for a system. The purpose of this conceptual metamodel is to express causal behavior and compositions of causal behavior in a model that integrates all observable operational features of a system into one behavior specification. This conceptual metamodel is useful for analyzing systems, for constructing particular system behavior models, and for using those models in the specification, design, and evaluation of engineered systems. It provides the necessary semantic elements for describing general hardware/software systems, including hardware-only, software-only, or mixed system components, and it allows these different types of components to be treated in a consistent manner, providing a basis for representing a wide variety of systems.</abstract>
+  </front>
+</reference>

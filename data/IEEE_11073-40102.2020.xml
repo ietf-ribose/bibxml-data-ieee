@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 11073-40102.2020" target="https://ieeexplore.ieee.org/document/9316194">
+  <front>
+    <title>IEEE Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9316194"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="January" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Point of care</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>cybersecurity</keyword>
+    <keyword>IEEE 11073-40102&amp;#8482;</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>mitigation techniques</keyword>
+    <keyword>Personal Health Devices</keyword>
+    <keyword>Point-of-Care Devices</keyword>
+    <abstract>For Personal Health Devices (PHDs) and Point-of-Care Devices (PoCDs), a security baseline of application layer cybersecurity mitigation techniques is defined by this standard for certain use cases or for times when certain criteria are met. The mitigation techniques are based on an extended confidentiality, integrity, and availability (CIA) triad and are described generally to allow manufacturers to determine the most appropriate algorithms and implementations. A scalable information security toolbox appropriate for PHD/PoCD interfaces is specified that fulfills the intersection of requirements and recommendations from the National Institute of Standards and Technology (NIST) and the European Network and Information Security Agency (ENISA). A mapping of this standard to the NIST cybersecurity framework; IEC TR 80001-2-2; and the Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE) classification scheme is defined.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P802-1Qaz/D-2.5.2010-03" target="https://ieeexplore.ieee.org/document/5743070">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks---Virtual Bridged Local Area Networks Amendment XX: Enhanced Transmission Selection for Bandwidth Sharing Between Traffic Classes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5743070"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Telecommunication traffic</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>Data Center Bridging</keyword>
+    <keyword>Enhanced Transmission Selection</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q defines enhancements to transmission selection to support allocation of bandwidth amongst traffic classes, plus a protocol for controlling the application of Data Center Bridging features.</abstract>
+  </front>
+</reference>

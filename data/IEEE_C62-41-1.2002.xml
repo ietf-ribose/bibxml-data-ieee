@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE C62-41-1.2002" target="https://ieeexplore.ieee.org/document/1196923">
+  <front>
+    <title>IEEE Guide on the Surge Environment in Low-Voltage (1000 V and less) AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94253"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="24"/>
+    <keyword>Surges</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Low voltage</keyword>
+    <keyword>Patents</keyword>
+    <keyword>IEC</keyword>
+    <keyword>lightning surges</keyword>
+    <keyword>low-voltage ac power circuit</keyword>
+    <keyword>surge environment</keyword>
+    <keyword>surge testing</keyword>
+    <keyword>surge withstand level</keyword>
+    <keyword>switching surges</keyword>
+    <abstract>This is a guide describing the surge voltage, surge current, and temporary overvoltages(TOV) environment in low-voltage [up to 1000 V root mean square (rms)] ac power circuits. This scope does not include other power disturbances, such as notches, sags, and noise. This IEEE standards product is part C62 Family on Surge Protection.</abstract>
+  </front>
+</reference>

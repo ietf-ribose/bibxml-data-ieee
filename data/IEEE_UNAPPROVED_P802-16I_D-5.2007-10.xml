@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE Unapproved P802-16i/D-5.2007-10" target="https://ieeexplore.ieee.org/document/4410484">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks Part 16: Air Interface for Fixed Broadband Wireless Access Systems IEEE Draft Amendment: Management Information Base Extensions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>Standards</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEEE 802.16 Standard</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Management information base</keyword>
+    <keyword>broadband wireless access</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>microwave</keyword>
+    <keyword>WirelessMAN^TM standards</keyword>
+    <keyword>WMAN management information base (MIB)</keyword>
+    <abstract>"This document provides updates to IEEE Std 802.16¿s MIB for the MAC, PHY and associated management procedures in order to accommodate recent extensions to the standard. The project will use protocol neutral methodologies for network management to develop resource models and related solution sets for the management of devices in a multi-vendor 802.16 network.<SUP>TM</SUP></abstract>
+  </front>
+</reference>

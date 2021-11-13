@@ -1,0 +1,42 @@
+<reference anchor="IEEE.IEC 62265.2005" target="https://ieeexplore.ieee.org/document/8894281">
+  <front>
+    <title>IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.8894281"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="November" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>Timing analysis</keyword>
+    <keyword>Signal integrity</keyword>
+    <keyword>behavioral</keyword>
+    <keyword>block</keyword>
+    <keyword>cell</keyword>
+    <keyword>derate</keyword>
+    <keyword>EDA</keyword>
+    <keyword>electrical</keyword>
+    <keyword>format</keyword>
+    <keyword>functional</keyword>
+    <keyword>gate-level</keyword>
+    <keyword>integrated circuit</keyword>
+    <keyword>language</keyword>
+    <keyword>layout</keyword>
+    <keyword>library</keyword>
+    <keyword>modeling</keyword>
+    <keyword>physical</keyword>
+    <keyword>power</keyword>
+    <keyword>RTL</keyword>
+    <keyword>signal integrity</keyword>
+    <keyword>technology</keyword>
+    <keyword>timing</keyword>
+    <abstract>Replaces IEEE Std 1603-2003. ALF is a modeling language for library elements used in IC technology. ALF enables description of electrical, functional, and physical models in a formal language suitable for electronic design automation (EDA) application tools targeted for design and analysis of an IC. This standard provides rules that describe ALF and how tool developers, integrators, library creators, and library users should use it.</abstract>
+  </front>
+</reference>

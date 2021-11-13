@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 85.1973" target="https://ieeexplore.ieee.org/document/6609154">
+  <front>
+    <title>IEEE Test Procedure for Airborne Sound Measurements on Rotating Electric Machinery</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.6609154"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="September" day="25"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Machinery</keyword>
+    <keyword>Electric variables measurement</keyword>
+    <keyword>Rotation measurement</keyword>
+    <keyword>Electric machines</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>Acoustic measurements</keyword>
+    <keyword>airborne</keyword>
+    <keyword>sound</keyword>
+    <keyword>measurement</keyword>
+    <keyword>rotating</keyword>
+    <keyword>motors</keyword>
+    <abstract>Approved methods for conducting tests and reporting results to effect the uniform determination of rotating-electric-machine sound under steady-state conditions with an accuracy of 3 dB are defined. Three acoustical environments are considered: free field, reverberant field, and semireverberant field. Installation and operation of the machine is discussed. The test procedure assumes the presence of pure tones or the predominance of discrete frequencies in the sound spectrum.</abstract>
+  </front>
+</reference>

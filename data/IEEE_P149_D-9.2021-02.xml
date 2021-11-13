@@ -1,0 +1,71 @@
+<reference anchor="IEEE.IEEE P149/D-9.2021-02" target="https://ieeexplore.ieee.org/document/9451895">
+  <front>
+    <title>IEEE Draft Recommended Practice for Antenna Measurements</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2021" month="June" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Polarization</keyword>
+    <keyword>Antenna measurements</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Noise measurement</keyword>
+    <keyword>Anechoic chambers</keyword>
+    <keyword>Antenna</keyword>
+    <keyword>antenna measurements</keyword>
+    <keyword>antenna gain</keyword>
+    <keyword>absorbers</keyword>
+    <keyword>accuracy</keyword>
+    <keyword>alignment</keyword>
+    <keyword>anechoic</keyword>
+    <keyword>calibration</keyword>
+    <keyword>chamber</keyword>
+    <keyword>compact range EIRP</keyword>
+    <keyword>electromagnetic testing</keyword>
+    <keyword>EMI/EMC</keyword>
+    <keyword>errors</keyword>
+    <keyword>evaluation</keyword>
+    <keyword>facilities</keyword>
+    <keyword>far-Field</keyword>
+    <keyword>far-field range</keyword>
+    <keyword>gain/temperature</keyword>
+    <keyword>ground bounce</keyword>
+    <keyword>high power</keyword>
+    <keyword>impedance</keyword>
+    <keyword>instrumentation</keyword>
+    <keyword>inter-Range comparison</keyword>
+    <keyword>measurement</keyword>
+    <keyword>near zone</keyword>
+    <keyword>near-field</keyword>
+    <keyword>noise</keyword>
+    <keyword>passive</keyword>
+    <keyword>pattern</keyword>
+    <keyword>phase</keyword>
+    <keyword>polarization</keyword>
+    <keyword>probe</keyword>
+    <keyword>quiet zone</keyword>
+    <keyword>radar</keyword>
+    <keyword>radiation</keyword>
+    <keyword>radio Frequency</keyword>
+    <keyword>radome</keyword>
+    <keyword>range</keyword>
+    <keyword>receiver</keyword>
+    <keyword>reflector</keyword>
+    <keyword>safety</keyword>
+    <keyword>scale model</keyword>
+    <keyword>scanner</keyword>
+    <keyword>software</keyword>
+    <keyword>standard gain horn</keyword>
+    <keyword>standard</keyword>
+    <keyword>Tapered chamber</keyword>
+    <keyword>target support</keyword>
+    <keyword>techniques</keyword>
+    <keyword>three-antenna measurement</keyword>
+    <keyword>tracking</keyword>
+    <keyword>uncertainties</keyword>
+    <keyword>uncertainty analysis</keyword>
+    <keyword>verification</keyword>
+    <abstract>This document comprises recommended practices for the measurement of antenna transmitting and receiving properties. Throughout this standard it is assumed that the antenna to be measured can be treated as a passive, linear, and reciprocal device. A fundamental property of any antenna is its radiation pattern. The measurement of radiation patterns in an antenna test facility is discussed. The design of antenna test facilities is described along with instrumentation requirements for the proper operation of the antenna facility, directions for the evaluation of an (existing) range, and the operation of ranges is discussed. References are provided which are illustrative of measurement techniques and in which details may be found.</abstract>
+  </front>
+</reference>

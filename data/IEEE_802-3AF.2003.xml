@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 802-3af.2003" target="https://ieeexplore.ieee.org/document/1213877">
+  <front>
+    <title>IEEEE Standard for Information Technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94284"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Patents</keyword>
+    <keyword>802.3af</keyword>
+    <keyword>Link Section</keyword>
+    <keyword>midspan</keyword>
+    <keyword>MPS</keyword>
+    <keyword>PD</keyword>
+    <keyword>PI</keyword>
+    <keyword>POE</keyword>
+    <keyword>power</keyword>
+    <keyword>Power over Ethernet</keyword>
+    <keyword>PSE</keyword>
+    <abstract>Support for optionally powering a 10BASE-T,100BASE-TX or 1000BASE-T DTE device via the Power Interface (PI)using physical layers defined in Clauses 14,25,and 40.The Power Sourcing Equipment (PSE)is located at an endpoint or midspan,separate from and between the MDIs,and provides power to the Powered Device (PD)over the Link Section.The PSE detection protocol distinguishes a compatible PD from non-compatible devices and precludes the application of power and possible damage to non-compatible devices.The PSE monitors the Maintain Power Signature (MPS)and removes power when it is no longer requested or required.Optional management function requirements are specified.</abstract>
+  </front>
+</reference>

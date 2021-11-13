@@ -1,0 +1,19 @@
+<reference anchor="IEEE.IEEE 829.1983" target="https://ieeexplore.ieee.org/document/573169">
+  <front>
+    <title>IEEE Standard for Software Test Documentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.81615"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Software</keyword>
+    <keyword>Documentation</keyword>
+    <keyword>Personnel</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>documentation</keyword>
+    <keyword>Software testing</keyword>
+    <abstract>A set of basic test documents that are associated with the dynamic aspects of software testing (that is, the execution of procedures and code) is described. The purpose, outline, and content of each basic document are defined. Although the documents described in the standard focus on dynamic testing, several of them may be applicable to other testing activities. Documentation on electronic media as well as paper is covered. The standard does not call for specific testing methodologies, approaches, techniques, facilities, or tools, and does not specify the documentation of their use. It also does not imply or impose specific methodologies for documentation control, configuration management, or quality assurance.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 1303.2011" target="https://ieeexplore.ieee.org/document/6003722">
+  <front>
+    <title>IEEE Guide for Static Var Compensator Field Tests</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6003722"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Reactive power</keyword>
+    <keyword>Static VAr compensators</keyword>
+    <keyword>Testing</keyword>
+    <keyword>IEEE 1303</keyword>
+    <keyword>mvar</keyword>
+    <keyword>static var compensator</keyword>
+    <keyword>SVC</keyword>
+    <keyword>var</keyword>
+    <keyword>field tests</keyword>
+    <abstract>General guidelines and criteria for the field testing of static var compensators (SVCs), before they are placed in-service, for the purpose of verifying their specified performance are described. The major elements of a commissioning program are identified so that the user can formulate a specific plan that is most suited for his or her own SVC.</abstract>
+  </front>
+</reference>

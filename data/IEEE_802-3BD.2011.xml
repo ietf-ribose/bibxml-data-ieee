@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE 802-3bd.2011" target="https://ieeexplore.ieee.org/document/5982058">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 3: CSMA/CD Access Method and Physical Layer Specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5982058"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Collision avoidance</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Center Bridging</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>IEEE 802.3bd</keyword>
+    <keyword>MAC Control</keyword>
+    <keyword>PAUSE</keyword>
+    <keyword>Priority-based Flow Control</keyword>
+    <abstract>MAC Control Frame to support IEEE 802.1Q Priority-based Flow Control is defined in this amendment.</abstract>
+  </front>
+</reference>

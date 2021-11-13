@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE P1278-2/D-9.2015-07" target="https://ieeexplore.ieee.org/document/7169475">
+  <front>
+    <title>IEEE Approved Draft Standard for Distributed Interactive Simulation (DIS)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="July" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Telecommunication services</keyword>
+    <keyword>Simulation</keyword>
+    <keyword>Multicast communication</keyword>
+    <keyword>Interactive services</keyword>
+    <keyword>communication service</keyword>
+    <keyword>Distributed Interactive Simulation</keyword>
+    <keyword>simulation network</keyword>
+    <keyword>protocol data units (PDUs)</keyword>
+    <keyword>multicast</keyword>
+    <abstract>Communication services to support information exchange between simulation applications participating in the Distributed Interactive Simulation (DIS) environment are defined. These communication services describe a connectionless information transfer that supports real-time, as well as non-real-time, exchange. Several communication profiles specifying communication services are provided.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 600" target="https://ieeexplore.ieee.org/document/7029267">
+  <front>
+    <title>IEEE Trial-Use Standard Requirements for Organizations that Conduct Qualification Testing of Safety Systems Equipment for Use in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.7029267"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="February" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Safety</keyword>
+    <keyword>Test equipment</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>qualification</keyword>
+    <keyword>testing</keyword>
+    <keyword>safety</keyword>
+    <keyword>equipment</keyword>
+    <keyword>NPGS</keyword>
+    <abstract>This standard applies to organizations that conduct qualification tests on equipment that has a definable safety function and is an identifiable part of a safety system for use in nuclear power generating stations. It requires a technical program, a quality assurance program, and a demonstrated ability to meet specified technical requirements. It does not apply to materials tests, production tests, normal performance testing, qualification by analysis, qualification by operating experience, or reliability tests such as diesel-generator multiple start tests.</abstract>
+  </front>
+</reference>

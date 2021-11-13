@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1857-5.2015" target="https://ieeexplore.ieee.org/document/7837029">
+  <front>
+    <title>IEEE Standard for Advanced Mobile Speech and Audio</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7837029"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="January" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Bandwidth allocation</keyword>
+    <keyword>Mobile communication</keyword>
+    <keyword>Speech processing</keyword>
+    <keyword>Audio systems</keyword>
+    <keyword>ACELP</keyword>
+    <keyword>bandwidth extension</keyword>
+    <keyword>IEEE 1857.5(TM)</keyword>
+    <keyword>mobile speech and audio</keyword>
+    <keyword>TVC</keyword>
+    <keyword>vector quantization</keyword>
+    <abstract>A set of tools to support specific audio coding functions including ACELP/TVC compression, bandwidth extension, stereo coding, frame erasure concealment, etc. is defined in this standard. The tool set defined in this standard provides high quality and efficient coding tool sets for compression, decompression, processing, and representation of speech, music or mixed audio signals to save transmission bandwidth and storage space.</abstract>
+  </front>
+</reference>

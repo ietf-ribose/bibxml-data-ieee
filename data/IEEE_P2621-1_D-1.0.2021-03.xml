@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE P2621-1/D-1.0.2021-03" target="https://ieeexplore.ieee.org/document/9469024">
+  <front>
+    <title>IEEE Draft Standard for Wireless Diabetes Device Security Assurance Evaluation--Connected Electronic Product Security Evaluation Programs</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="June" day="30"/>
+    <keyword>security</keyword>
+    <keyword>assurance</keyword>
+    <keyword>diabetes</keyword>
+    <keyword>devices</keyword>
+    <keyword>evaluator</keyword>
+    <keyword>firmware</keyword>
+    <keyword>protection profile</keyword>
+    <keyword>security target</keyword>
+    <abstract>This standard defines a framework for a connected electronic product security assurance evaluation program, with specific requirements and guidance relating to digital diabetes devices and solutions, such as insulin pumps.</abstract>
+  </front>
+</reference>

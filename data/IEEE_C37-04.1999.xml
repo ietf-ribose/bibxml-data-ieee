@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE C37-04.1999" target="https://ieeexplore.ieee.org/document/829431">
+  <front>
+    <title>IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.91008"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="March" day="17"/>
+    <keyword>Circuit breakers</keyword>
+    <keyword>capacitance current switching</keyword>
+    <keyword>dielectric withstand</keyword>
+    <keyword>fast transient recovery voltage</keyword>
+    <keyword>indoor</keyword>
+    <keyword>initial</keyword>
+    <keyword>interrupting time</keyword>
+    <keyword>mechanical endurance</keyword>
+    <keyword>operating duty</keyword>
+    <keyword>outdoor</keyword>
+    <keyword>power frequency</keyword>
+    <keyword>ratings</keyword>
+    <keyword>related capabilities</keyword>
+    <keyword>short-circuit current</keyword>
+    <keyword>shortline fault</keyword>
+    <keyword>voltage dist</keyword>
+    <abstract>This standard covers the rating structure for all high-voltage circuit breakers, which include all voltage ratings above 1000 V ac and comprise both indoor and outdoor types having the preferred ratings as listed in ANSI C37.06-1997. Typical circuit breakers covered by these standards have maximum voltage ratings ranging from 4.76 kV through 800 kV, and continuous current ratings of 600 A,1200 A, 2000 A, and 3000 A associated with the various maximum voltage ratings. The rating structure establishes the basis for all assigned ratings, including continuous current, dielectric withstand voltages,short-circuit current, transient recovery voltage, and capacitor switching, plus associated capabilities such as mechanical endurance, load current, and out-of-phase switching. This standard does not cover generator circuit breakers, which are covered in IEEE Std C37.013-1997.</abstract>
+  </front>
+</reference>

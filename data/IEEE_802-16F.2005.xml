@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 802-16f.2005" target="https://ieeexplore.ieee.org/document/1560792">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97973"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Management information base</keyword>
+    <keyword>Patents</keyword>
+    <keyword>IEEE 802.16 Standard</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Microwave theory and techniques</keyword>
+    <keyword>fixed broadband wireless access network</keyword>
+    <keyword>management information base (MIB)</keyword>
+    <keyword>metropolitan area network(MAN)</keyword>
+    <keyword>microwave</keyword>
+    <keyword>millimeter wave</keyword>
+    <keyword>WirelessMAN&amp;#174; standards</keyword>
+    <abstract>This document amends IEEE Std 802.16-2004 by defining a management information base (MIB) for the MAC and PHY and associated management procedures.</abstract>
+  </front>
+</reference>

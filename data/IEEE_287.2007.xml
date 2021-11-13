@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 287.2007" target="https://ieeexplore.ieee.org/document/4317507">
+  <front>
+    <title>IEEE Standard for Precision Coaxial Connectors (DC to 110 GHz)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4317507"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="January" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Connectors</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Instrumentation and measurement</keyword>
+    <keyword>general precision connector (GPC)</keyword>
+    <keyword>laboratory precision connector (LPC)</keyword>
+    <keyword>minimum performance requirement</keyword>
+    <keyword>pin and socket connector</keyword>
+    <keyword>precision coaxial connector</keyword>
+    <abstract>This standard presents the combined efforts of IEEE Subcommittee P287 that reflect the knowledge and experience of leading specialists in the development and measurement of precision coaxial connectors from dc to 110 GHz. It presents minimum performance requirements to standardize both hermaphroditic and pin- and socket-type connectors. It provides recommended electrical and mechanical test procedures for general and laboratory precision connectors. A bibliography provides a list of pertinent references for measurement techniques used in determining electrical, mechanical, and dimensional parameters for coaxial connectors.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE P802-1Qch/D-2.1.2017-01" target="https://ieeexplore.ieee.org/document/7818119">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks Amendment: Cyclic Queuing and Forwarding</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="January" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Telecommunication traffic</keyword>
+    <keyword>Queuing theory</keyword>
+    <keyword>Scheduling</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitanarea networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>scheduled traffic</keyword>
+    <keyword>cyclic queuing and forwarding.</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q-2014 describes the use of traffic scheduling and per-stream filtering and policing to support cyclic queuing and forwarding.</abstract>
+  </front>
+</reference>

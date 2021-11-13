@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE 1863.2019" target="https://ieeexplore.ieee.org/document/9086170">
+  <front>
+    <title>IEEE Guide for Overhead AC Transmission Line Design</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9086170"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="May" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Flexible AC transmission systems</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Lightning control</keyword>
+    <keyword>AC overhead transmission line</keyword>
+    <keyword>conductor</keyword>
+    <keyword>electrical design</keyword>
+    <keyword>fitting</keyword>
+    <keyword>foundation</keyword>
+    <keyword>ground wire</keyword>
+    <keyword>IEEE 1863</keyword>
+    <keyword>insulator</keyword>
+    <keyword>lightning protection</keyword>
+    <keyword>load</keyword>
+    <keyword>radio interference</keyword>
+    <keyword>structure design</keyword>
+    <keyword>weather loads</keyword>
+    <abstract>Methods for designing 110 kV to 1000 kV ac overhead transmission lines are provided and may also be used as reference for the design of lower voltage overhead transmission lines. The principles and procedures for designing weather-resistant conductor, ground wire, insulator, structure, and foundation of ac transmission overhead lines are specified.</abstract>
+  </front>
+</reference>

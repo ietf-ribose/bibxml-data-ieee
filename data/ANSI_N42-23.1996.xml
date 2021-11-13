@@ -1,0 +1,27 @@
+<reference anchor="IEEE.ANSI N42-23.1996" target="https://ieeexplore.ieee.org/document/587792">
+  <front>
+    <title>American National Standard Measurement and Associated Instrumentation Quality Assurance for Radioassay Laboratories</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82374"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="October" day="8"/>
+    <keyword>ANSI standards</keyword>
+    <keyword>laboratory</keyword>
+    <keyword>measurement quality assurance</keyword>
+    <keyword>quality assurance</keyword>
+    <keyword>quality control</keyword>
+    <keyword>radiation instrumentation</keyword>
+    <keyword>radioactivity</keyword>
+    <keyword>radioassay laboratory</keyword>
+    <keyword>radioassays</keyword>
+    <keyword>radiometrology</keyword>
+    <abstract>A framework that can be used to create a national or an organizational NIST-traceable measurement quality assurance (MQA) program that will optimize the quality of radioassays performed by service laboratories is presented. This standard serves as a guide for MQA programs developed for specialized sectors of the radioassay laboratory community, i.e., bioassay, routine environmental monitoring, environmental restoration and waste management, radiopharmaceuticals, nuclear power radiochemistry, and other areas involved in radioassays.</abstract>
+  </front>
+</reference>

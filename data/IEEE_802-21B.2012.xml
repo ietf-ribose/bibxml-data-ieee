@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 802-21b.2012" target="https://ieeexplore.ieee.org/document/6198737">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6198737"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="May" day="11"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Broadcasting</keyword>
+    <keyword>IEEE 802.21 standards</keyword>
+    <keyword>Media</keyword>
+    <keyword>broadcast</keyword>
+    <keyword>downlink only</keyword>
+    <keyword>IEEE 802.21</keyword>
+    <keyword>IEEE 802.21b</keyword>
+    <keyword>media independent handover (MIH)</keyword>
+    <abstract>Extensions to IEEE Std 802.21<sup>TM</sup>-2008 for handovers with downlink only technologies is discussed in the amendment.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE C62-11.2005" target="https://ieeexplore.ieee.org/document/1611106">
+  <front>
+    <title>IEEE Standard for Metal-Oxide Surge Arresters for AC Power Circuits (&amp;#x003E; 1 kV)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99377"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="December" day="21"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Arresters</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Discharges (electric)</keyword>
+    <keyword>discharge current</keyword>
+    <keyword>discharge voltage</keyword>
+    <keyword>duty-cycle voltage rating</keyword>
+    <keyword>lightning protection</keyword>
+    <keyword>maximum continuous operating voltage</keyword>
+    <keyword>MCOV</keyword>
+    <keyword>metal-oxide surge arrester</keyword>
+    <keyword>MOSA</keyword>
+    <keyword>surge arrester</keyword>
+    <keyword>valve arrester</keyword>
+    <abstract>This standard applies to metal-oxide surge arresters (MOSAs) designed to repeatedly limit the voltage surges on 48 Hz to 62 Hz power circuits (&gt;1000 V) by passing surge discharge current and automatically limiting the flow of system power current. This standard applies to devices for separate mounting and to devices supplied integrally with other equipment. The tests demonstrate that an arrester can survive the rigors of reasonable environmental conditions and system phenomena while protecting equipment and/or the system from damaging overvoltages caused by lightning, switching, and other undesirable surges.</abstract>
+  </front>
+</reference>

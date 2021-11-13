@@ -1,0 +1,42 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-11/Amd3.2018" target="https://ieeexplore.ieee.org/document/9181687">
+  <front>
+    <title>Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 11:Wireless LAN medium access control (MAC) and physical layer (PHY) specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9181687"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="August" day="31"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Millimeter wave communication</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Media Acccess Protocol</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Frequency band</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>beamforming</keyword>
+    <keyword>CDMG</keyword>
+    <keyword>China directional multi-gigabit</keyword>
+    <keyword>China millimeter-wave multigigabit</keyword>
+    <keyword>CMMG</keyword>
+    <keyword>DBC</keyword>
+    <keyword>DCS</keyword>
+    <keyword>dynamic bandwidth control</keyword>
+    <keyword>dynamic channel selection</keyword>
+    <keyword>IEEE 802.11</keyword>
+    <keyword>IEEE 802.11aj</keyword>
+    <keyword>opportunistic transmission</keyword>
+    <keyword>spatial sharing</keyword>
+    <abstract>The IEEE 802.11 directional multi-gigabit (DMG) physical layer (PHY) and the medium access control (MAC) layer are modified by this amendment to IEEE Std 802.11-2016 to enable operation in the Chinese millimeter wave frequency band around 60 GHz. This amendment also defines modifications to the IEEE 802.11 PHY and MAC layer to enable operation in the Chinese millimeter wave frequency band around 45 GHz.</abstract>
+  </front>
+</reference>

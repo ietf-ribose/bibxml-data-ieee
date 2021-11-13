@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 802-11r.2008" target="https://ieeexplore.ieee.org/document/4573292">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: Fast Basic Service Set (BSS) Transition</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4573292"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Telecommunications</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>802.11r-2008</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>wireless LAN</keyword>
+    <keyword>WLAN</keyword>
+    <abstract>This amendment specifies the extensions to IEEE Std 802.11-2007 for wireless local area networks (WLANs) providing mechanisms for fast basic service set (BSS) transition.</abstract>
+  </front>
+</reference>

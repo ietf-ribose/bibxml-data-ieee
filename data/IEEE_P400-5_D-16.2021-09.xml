@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE P400-5/D-16.2021-09" target="https://ieeexplore.ieee.org/document/9547255">
+  <front>
+    <title>IEEE Draft Guide for Field Testing of Shielded DC Power Cable Systems Using High Voltage Direct Current (HVDC)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>cable</keyword>
+    <keyword>cable installation</keyword>
+    <keyword>cable maintenance</keyword>
+    <keyword>cable tests</keyword>
+    <keyword>DC transmission cables</keyword>
+    <keyword>field test procedures</keyword>
+    <keyword>high direct voltage tests</keyword>
+    <keyword>insulated cable</keyword>
+    <keyword>power cable systems</keyword>
+    <keyword>shielded power cable systems</keyword>
+    <abstract>The recommended practices and procedures for direct voltage acceptance and maintenance testing of shielded, insulated power cable systems rated 5 kV and above for DC Service are presented in this guide. It applies to all types of power cable systems used for transmission of DC voltages and can include laminated or extruded cables designed for DC service. The tabulated test levels assume that the cable systems have an effectively grounded neutral system or a grounded metallic shield.</abstract>
+  </front>
+</reference>

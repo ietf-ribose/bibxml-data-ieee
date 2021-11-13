@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE P802-1CB/D-2.7.2017-01" target="https://ieeexplore.ieee.org/document/7833021">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks -- Frame Replication and Elimination for Reliability</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="January" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>Bridging</keyword>
+    <keyword>Frame Elimination</keyword>
+    <keyword>Frame Replication</keyword>
+    <keyword>IEEE 802(R)</keyword>
+    <keyword>IEEE 802.1CB(TM)</keyword>
+    <keyword>IEEE 802.1Q(TM)</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Redundancy</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <abstract>This standard specifies procedures, managed objects, and protocols for bridges and end systems that provide identification and replication of packets for redundant transmission, identification of duplicate packets, and elimination of duplicate packets. It is not concerned with the creation of the multiple paths over which the duplicates are transmitted.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 1155.1992" target="https://ieeexplore.ieee.org/document/278315">
+  <front>
+    <title>IEEE Standard for VMEbus Extensions for Instrumentation: VXIbus</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119226"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Instrumentation</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>Microcomputers</keyword>
+    <keyword>high</keyword>
+    <keyword>speed</keyword>
+    <keyword>backplane</keyword>
+    <keyword>instrumentation</keyword>
+    <keyword>VMEbus</keyword>
+    <keyword>VXIbus</keyword>
+    <keyword>Common modular instrument architecture</keyword>
+    <abstract>A technically sound modular instrument standard base on IEEE Std 1014-1987, IEEE Standard for a Versatile Backplane Bus: VMEbus, which is open to all manufacturers and is compatible with present industry standards, is defined. The VXIbus specification details the technical requirements of VXIbus compatible components, such as mainframes, backplanes, power supplies, and modules.</abstract>
+  </front>
+</reference>

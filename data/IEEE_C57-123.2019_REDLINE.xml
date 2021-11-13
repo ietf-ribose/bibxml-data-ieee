@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE C57-123.2019 Redline" target="https://ieeexplore.ieee.org/document/9027199">
+  <front>
+    <title>IEEE Guide for Transformer Loss Measurement</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="March" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Loss measurement</keyword>
+    <keyword>Calibraion</keyword>
+    <keyword>Load management</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>calibration</keyword>
+    <keyword>IEEE C57.123</keyword>
+    <keyword>load loss</keyword>
+    <keyword>no-load loss</keyword>
+    <keyword>testing</keyword>
+    <keyword>transformers</keyword>
+    <abstract>Information and general recommendations of instrumentation, circuitry, calibration, and measurement techniques of no-load losses (excluding auxiliary losses), excitation current, and load losses of power and distribution transformers are provided. The guide is intended as a complement to the test code procedures given in Clause 8 and Clause 9 of IEEE Std C57.12.90™.</abstract>
+  </front>
+</reference>

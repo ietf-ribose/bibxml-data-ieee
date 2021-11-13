@@ -1,0 +1,40 @@
+<reference anchor="IEEE.IEEE 11073-10102.2012" target="https://ieeexplore.ieee.org/document/6461903">
+  <front>
+    <title>Health informatics Point-of-care medical device communication Part 10102: Nomenclature Annotated ECG</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6461903"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="February" day="14"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>Patienti monitoring</keyword>
+    <keyword>Cardiology</keyword>
+    <keyword>Pacemakers</keyword>
+    <keyword>annotated ECG</keyword>
+    <keyword>annotations</keyword>
+    <keyword>arrhythmias</keyword>
+    <keyword>cardiac rhythm</keyword>
+    <keyword>codes</keyword>
+    <keyword>ECG leads</keyword>
+    <keyword>ECG lead systems</keyword>
+    <keyword>ECG measurements</keyword>
+    <keyword>home monitoring</keyword>
+    <keyword>IEEE 11073-10102TM</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>nomenclature</keyword>
+    <keyword>pacemaker</keyword>
+    <keyword>patient monitoring</keyword>
+    <keyword>remote monitoring</keyword>
+    <keyword>terminology</keyword>
+    <abstract>The base IEEE 11073-10101 Nomenclature is extended by this standard to provide support for ECG annotation terminology. It may be used either in conjunction with other IEEE 11073 standards (e.g., ISO/IEEE 11073-10201:2001) or independently with other standards. The major subject areas addressed by the nomenclature include ECG beat annotations, wave component annotations, rhythm annotations, and noise annotations. Additional “global” and “per-lead” numeric observation identifiers, ECG lead systems, and additional ECG lead identifiers also are defined.</abstract>
+  </front>
+</reference>

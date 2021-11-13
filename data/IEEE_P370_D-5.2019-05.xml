@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P370/D-5.2019-05" target="https://ieeexplore.ieee.org/document/8720318">
+  <front>
+    <title>IEEE Draft Electrical Characterization of Printed Circuit Board and Related Interconnects at Frequencies up to 50 GHz.</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>Integrated circuit interconnections</keyword>
+    <keyword>Verification</keyword>
+    <keyword>Electric variables measurement</keyword>
+    <keyword>verification</keyword>
+    <keyword>consistency tests</keyword>
+    <keyword>de-embedding electrical measurement</keyword>
+    <keyword>S-parameters</keyword>
+    <keyword>interconnect</keyword>
+    <keyword>fixture</keyword>
+    <keyword>passivity</keyword>
+    <keyword>causality</keyword>
+    <keyword>reciprocity</keyword>
+    <abstract>This document provides standard and recommended practices for ensuring the quality of measured data for high frequency electrical interconnect at bandwidths up to 50 GHz. This might include but is not limited to: recommended design of test fixturing, methods and processes for ensuring the accuracy and consistency of measured data for broadband signals with frequency content up to 50 GHz. The standard and general practice should be applicable for frequencies higher than 50 GHz as well. However, the highest applicable frequency is 50 GHz due to the lack of validation results above 50 GHz.</abstract>
+  </front>
+</reference>

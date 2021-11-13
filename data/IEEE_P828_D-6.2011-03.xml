@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE P828/D-6.2011-03" target="https://ieeexplore.ieee.org/document/5750121">
+  <front>
+    <title>IEEE Draft Standard for Software and Software Systems Configuration Management</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5750121"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software development</keyword>
+    <keyword>Software architecture</keyword>
+    <keyword>Systems engineering and theory</keyword>
+    <keyword>change control</keyword>
+    <keyword>configuration accounting</keyword>
+    <keyword>configuration audit</keyword>
+    <keyword>configuration item</keyword>
+    <keyword>release engineering</keyword>
+    <keyword>software builds</keyword>
+    <keyword>software configuration management</keyword>
+    <keyword>system configuration management</keyword>
+    <abstract>This standard establishes the minimum 1 required processes for Software and Systems Configuration Management (SSCM). The application of this standard applies to any form, class, or type of software or system. (It does not address the hardware components of systems.) This revision of the standard expands the previous version to explain the processes involved in SSCM, including identifying and acquiring configuration items, controlling changes, reporting the status of configuration items, as well as software builds and release engineering. Its predecessor defined only the contents of a software configuration management plan. This standard addresses what SSCM activities are to be done, when they are to happen in the lifecycle, and what planning and resources are required. It also describes the content areas for an SSCM Plan. The standard supports IEEE/EIA Std 12207 and IEEE/EIA Std 15288 and adheres to the terminology in ISO/IEC/IEEE Std 24765 and the information requirements of IEEE Std 15289.</abstract>
+  </front>
+</reference>

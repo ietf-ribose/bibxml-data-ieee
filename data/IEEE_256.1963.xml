@@ -1,0 +1,19 @@
+<reference anchor="IEEE.IEEE 256.1963" target="https://ieeexplore.ieee.org/document/7385415">
+  <front>
+    <title>IEEE Test Procedure for Semiconductor Diodes</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7385415"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Semiconductor diodes</keyword>
+    <keyword>Testing</keyword>
+    <abstract>This Standard recommends and describes methods of measurement of the important electrical characteristics of semiconductor diodes, For the purpose of this Standard, a semiconductor diode is defined as: "A semiconductor device having two terminals and exhibiting a nonlinear voltage-current characteristic ; in more restricted usage, a semiconductor device which has the asymmetrical voltage-current characteristic exemplified by a single p-n junction." Methods of test are described for static, small-signal and pulse parameters. Many of the terms considered herein have been set down in AIEE and IRE Standards, particularly in 60 IRE 28.S1 and AIEE No. 425.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,21 @@
+<reference anchor="IEEE.IEEE Unapproved P802-1Qau/D-2.4.2005-10" target="https://ieeexplore.ieee.org/document/5325035">
+  <front>
+    <title>Draft Standard for Local and Metropolitan Area Networks-Virtual Bridged Local Area Networks -Amendment: Congestion Notification</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>local area networks</keyword>
+    <keyword>LANs</keyword>
+    <keyword>transparent bridging</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>VLANs</keyword>
+    <keyword>congestion</keyword>
+    <keyword>congestion notification.</keyword>
+    <abstract>This amendment specifies protocols, procedures and managed objects that support congestion management of long-lived data flows within network domains of limited bandwidth-delay product. This is achieved by enabling bridges to signal congestion to end stations capable of transmission rate limiting to avoid frame loss.</abstract>
+  </front>
+</reference>

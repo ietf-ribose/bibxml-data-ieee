@@ -1,0 +1,16 @@
+<reference anchor="IEEE.IEEE 802-1Q.1998" target="https://ieeexplore.ieee.org/document/753056">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89204"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>media access control bridges</keyword>
+    <keyword>virtual LAN</keyword>
+    <keyword>MAC Bridge management</keyword>
+    <abstract>This IEEE Standards product is part of the 802 family on LAN/MAN. This standard defines an architecture for Virtual Bridged LANs, the services provided in Virtual Bridged LANs, and the protocols and algorithms involved in the provision of those services.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,40 @@
+<reference anchor="IEEE.IEEE 802-3bj.2014" target="https://ieeexplore.ieee.org/document/6891095">
+  <front>
+    <title>IEEE Standard for Ethernet Amendment 2: Physical Layer Specifications and Management Parameters for 100 Gb/s Operation Over Backplanes and Copper Cables</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6891095"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>100 Gb/s Ethernet</keyword>
+    <keyword>100GBASE-CR10</keyword>
+    <keyword>100GBASE-CR4</keyword>
+    <keyword>100GBASE-KP4</keyword>
+    <keyword>100GBASE-KR4</keyword>
+    <keyword>40 Gb/s Ethernet</keyword>
+    <keyword>40GBASE-CR4</keyword>
+    <keyword>40GBASE-KR4</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Auto-Negotiation (AN)</keyword>
+    <keyword>Backplane Ethernet</keyword>
+    <keyword>Energy Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Forward Error Correction (FEC)</keyword>
+    <keyword>IEEE 802.3(TM)</keyword>
+    <keyword>IEEE 802.3bj(TM)</keyword>
+    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <abstract>100 Gb/s Physical Layer (PHY) specifications and management parameters for operation on electrical backplanes and twinaxial copper cables are added by this amendment to IEEE Std 802.3-2012. This amendment also specifies optional Energy Efficient Ethernet (EEE) for 40 Gb/s and 100 Gb/s operation over electrical backplanes and copper cables.</abstract>
+  </front>
+</reference>

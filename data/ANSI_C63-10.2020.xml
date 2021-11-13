@@ -1,0 +1,31 @@
+<reference anchor="IEEE.ANSI C63-10.2020" target="https://ieeexplore.ieee.org/document/9340083">
+  <front>
+    <title>American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9340083"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="January" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless communications</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Spread spectrum communication</keyword>
+    <keyword>Radiation detection</keyword>
+    <keyword>Testing</keyword>
+    <keyword>ANSI C63.10</keyword>
+    <keyword>compliance testing</keyword>
+    <keyword>intentional radiators</keyword>
+    <keyword>license-exempt transmitters</keyword>
+    <keyword>spread spectrum devices</keyword>
+    <keyword>test procedures</keyword>
+    <keyword>Unlicensed National Information Infrastructure (U-NII)</keyword>
+    <keyword>unlicensed wireless devices</keyword>
+    <abstract>The procedures for testing the compliance of a wide variety of unlicensed wireless transmitters (also called intentional radiators and license-exempt transmitters) including, but not limited to, remote control and security unlicensed wireless devices, frequency hopping and direct sequence spread spectrum devices, antipilferage devices, cordless telephones, medical unlicensed wireless devices, Unlicensed National Information Infrastructure (U-NII) devices, intrusion detectors, unlicensed wireless devices operating on frequencies below 30 MHz, automatic vehicle identification systems, and other unlicensed wireless devices authorized by a radio regulatory authority are covered in this standard. Excluded by this standard are test procedures for unlicensed wireless devices already covered in other published standards (e.g., Unlicensed Personal Communication Services (UPCS) devices).</abstract>
+  </front>
+</reference>

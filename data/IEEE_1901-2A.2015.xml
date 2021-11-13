@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE 1901-2a.2015" target="https://ieeexplore.ieee.org/document/7286946">
+  <front>
+    <title>IEEE Standard for Low-Frequency (less than 500 kHz) Narrowband Power Line Communications for Smart Grid Applications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7286946"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="October" day="1"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>ODFM</keyword>
+    <keyword>Narrowband</keyword>
+    <keyword>coexistence</keyword>
+    <keyword>G3-PLC</keyword>
+    <keyword>IEEE 1901.2a(TM)</keyword>
+    <keyword>IFFT OFDM</keyword>
+    <keyword>MAC</keyword>
+    <keyword>medium access control</keyword>
+    <keyword>narrowband</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
+    <keyword>PLC</keyword>
+    <keyword>power line communications</keyword>
+    <keyword>PRIME.</keyword>
+    <abstract>Changes to clarify how and when to encrypt header and payload information elements, update the interleaver design in order to eliminate some drawbacks in certain channels, a new PHY data primitive attribute so sub-band SNR data can be obtained from the PHY, modification to the frame counter size for security to make it consistent with IEEE Std 802.15.4e(TM)-2012, and adding a beacon attribute and change the zero crossing detector text are addressed in this amendment.</abstract>
+  </front>
+</reference>

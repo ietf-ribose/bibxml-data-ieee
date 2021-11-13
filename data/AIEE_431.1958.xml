@@ -1,0 +1,22 @@
+<reference anchor="IEEE.AIEE 431.1958" target="https://ieeexplore.ieee.org/document/7419186">
+  <front>
+    <title>AIEE Proposed Standard for Presenting Data on Magnetic Core Materials</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1958.7419186"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="February" day="24"/>
+    <keyword>AIEE Standards</keyword>
+    <keyword>Data processing</keyword>
+    <keyword>Magnetic cores</keyword>
+    <keyword>Magnetic hysteresis</keyword>
+    <keyword>Magnetic flux</keyword>
+    <keyword>Toroidal magnetic fields</keyword>
+    <abstract>The scope of this standard is to set forth the basic data on magnetic amplifier core materials that should be presented by manufacturers of core materials so that the magnetic amplifier designer will have available the parameters of the material particularly significant to magnetic amplifier design. The tests proposed in this standard are not intended as methods of matching and grading magnetic amplifier cores.</abstract>
+  </front>
+</reference>

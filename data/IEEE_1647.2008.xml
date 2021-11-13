@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1647.2008" target="https://ieeexplore.ieee.org/document/4586409">
+  <front>
+    <title>IEEE Standard for the Functional Verification Language e</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4586409"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Design automation</keyword>
+    <keyword>Manuals</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Warranties</keyword>
+    <keyword>1647-2008</keyword>
+    <keyword>assertion</keyword>
+    <keyword>concurrent programming</keyword>
+    <keyword>constraint</keyword>
+    <keyword>dynamic verification</keyword>
+    <keyword>functional coverage</keyword>
+    <keyword>functional verification</keyword>
+    <keyword>simulation</keyword>
+    <keyword>temporal logic</keyword>
+    <keyword>test generation</keyword>
+    <abstract>The e functional verification language is an application-specific programming language, aimed at automating the task of verifying a hardware or software design with respect to its specification. Verification environments written in e provide a model of the environment in which the design is expected to function, including the kinds of erroneous conditions the design needs to withstand. A typical verification environment is capable of generating user-controlled test inputs with statistically interesting characteristics. Such an environment can check the validity of the design responses. Functional coverage metrics are used to control the verification effort and gauge the quality of the design, e verification environments can be used throughout the design cycle, from a high-level architectural model to a fully realized system. A definition of the e language syntax and semantics and how tool developers and verification engineers should use them are contained in this standard.</abstract>
+  </front>
+</reference>

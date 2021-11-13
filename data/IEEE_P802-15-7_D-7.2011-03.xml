@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE P802-15-7/D-7.2011-03" target="https://ieeexplore.ieee.org/document/5743087">
+  <front>
+    <title>IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements--Part 15.7: PHY and MAC standard for short-range wireless optical communication using visible light</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5743087"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information processing</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <abstract>This standard defines a PHY and MAC layer for short-range optical wireless communications using visible light in optically transparent media. The visible light spectrum extends from 380 to 780 nm in wavelength. The standard is capable of delivering data rates sufficient to support audio and video multimedia services and also considers mobility of the visible link, compatibility with visible-light infrastructures, impairments due to noise and interference from sources like ambient light and a MAC layer that accommodates visible links. The standard will adhere to any applicable eye safety regulations</abstract>
+  </front>
+</reference>

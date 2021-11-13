@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEC 62843.2013" target="https://ieeexplore.ieee.org/document/6420851">
+  <front>
+    <title>Standard for N times 64 kilobit per second optical fiber interfaces between teleprotection and multiplexer equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6420851"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="January" day="25"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Optical fiber communication</keyword>
+    <keyword>Multiplexing</keyword>
+    <keyword>Bit error rate</keyword>
+    <keyword>Loss measurement</keyword>
+    <keyword>Signal processing</keyword>
+    <keyword>Fault diagnosis</keyword>
+    <keyword>alarm indication signal</keyword>
+    <keyword>bit error rate</keyword>
+    <keyword>cyclic redundancy check</keyword>
+    <keyword>loss of frame</keyword>
+    <keyword>loss ofsignal</keyword>
+    <keyword>multimode optical fiber</keyword>
+    <keyword>multiplexer</keyword>
+    <keyword>remote defect indication</keyword>
+    <keyword>teleprotection</keyword>
+    <keyword>unit interval</keyword>
+    <abstract>An optical interface for use between teleprotection and digital multiplexer equipment that can operate at a data rate of N times 64 kilobit per second where N = 1, 212 is described. Requirements for both physical connection and the communications timing are also included.</abstract>
+  </front>
+</reference>

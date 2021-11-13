@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 802-11.1997" target="https://ieeexplore.ieee.org/document/654749">
+  <front>
+    <title>IEEE Standard for Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85951"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="May" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>infrared</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>wireless</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>ad hoc network</keyword>
+    <abstract>SUPERSEDED BY ISO/IEC 8802-11:1999 The medium access control and physical characteristics for wireless local area networks are specified in this standard, part of a series of standards for local and metropolitan area networks. The medium access control unit in this standard is designed to support physical layer units as they may be adopted dependent on the availability of spectrum. This standard contains three physical layer units: two radio units, both operating in the 2400-2500 MHz band, and one baseband infrared unit. One radio unit employs the frequency-hopping spread spectrum technique, and the other employs the direct sequence spread spectrum technique.</abstract>
+  </front>
+</reference>

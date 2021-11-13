@@ -1,0 +1,26 @@
+<reference anchor="IEEE.ANSI/IEEE 528.1984" target="https://ieeexplore.ieee.org/document/578038">
+  <front>
+    <title>IEEE Standard Inertial Sensor Terminology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81978"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="9"/>
+    <keyword>Acceleration</keyword>
+    <keyword>Accelerometers</keyword>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Sensitivity</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Rotors</keyword>
+    <keyword>inertial</keyword>
+    <keyword>sensor</keyword>
+    <keyword>terminology</keyword>
+    <abstract>Withdrawn Status. Terms and definitions relating to inertial sensors are presented. Usage as understood by the inertial sensor community is given preference over general technical usage of the terms herein. The criterion for inclusion of a term and its definition in this document is usefulness as related to inertial sensor technology.</abstract>
+  </front>
+</reference>

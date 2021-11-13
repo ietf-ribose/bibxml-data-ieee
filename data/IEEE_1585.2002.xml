@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 1585.2002" target="https://ieeexplore.ieee.org/document/1040257">
+  <front>
+    <title>IEEE Guide for the Functional Specification of Medium Voltage (1- 35kV) Electronic Series Devices for Compensation of Voltage Fluctuations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94132"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="13"/>
+    <keyword>energy storage</keyword>
+    <keyword>injection transformer</keyword>
+    <keyword>inverter</keyword>
+    <keyword>power electronics</keyword>
+    <keyword>power quality</keyword>
+    <keyword>sensitive loads</keyword>
+    <keyword>series compensation</keyword>
+    <keyword>voltage control</keyword>
+    <abstract>An approach to prepare a specification for an electronic device connected in series to compensate voltage fluctuations is presented.This guide intends to provide a base specification to allow users to modify specific parts of the document to meet their practical needs.</abstract>
+  </front>
+</reference>

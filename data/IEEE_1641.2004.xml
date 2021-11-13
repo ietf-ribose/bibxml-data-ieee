@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1641.2004" target="https://ieeexplore.ieee.org/document/1412649">
+  <front>
+    <title>IEEE Standard for Signal and Test Definition</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95928"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="25"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Terminology</keyword>
+    <keyword>Automatic testing</keyword>
+    <keyword>Electronic equipment testing</keyword>
+    <keyword>ATE</keyword>
+    <keyword>ATLAS</keyword>
+    <keyword>automatic test equipment</keyword>
+    <keyword>signal definitions</keyword>
+    <keyword>test definitions</keyword>
+    <keyword>test requirements</keyword>
+    <keyword>test signals</keyword>
+    <keyword>unit under test</keyword>
+    <keyword>UUT</keyword>
+    <abstract>To provide the means to define and describe signals used in testing. The standard provides a set of common basic signals, mathematically under pinned so that signals can be combined to form complex signals useable across all test platforms. The provision of language elements supports test signal descriptions for interoperability.</abstract>
+  </front>
+</reference>

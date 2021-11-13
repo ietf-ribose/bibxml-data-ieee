@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE 1718.2012" target="https://ieeexplore.ieee.org/document/6214562">
+  <front>
+    <title>IEEE Guide for Temperature Monitoring of Cable Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6214562"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="June" day="8"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Optical variables measurement</keyword>
+    <keyword>Time domain analysis</keyword>
+    <keyword>Remote sensing</keyword>
+    <keyword>Reflectometry</keyword>
+    <keyword>ampacity</keyword>
+    <keyword>cable</keyword>
+    <keyword>distributed temperature monitoring</keyword>
+    <keyword>distributed temperature sensing (DTS)</keyword>
+    <keyword>fiber</keyword>
+    <keyword>IEEE 1718</keyword>
+    <keyword>optical frequency domain reflectometry (OFDR)</keyword>
+    <keyword>optical time domain reflectometry (OTDR)</keyword>
+    <keyword>Raman</keyword>
+    <keyword>real-time rating</keyword>
+    <keyword>spatial resolution</keyword>
+    <abstract>The various existing technologies that are used or can be used to monitor the temperature of cable systems are reviewed in this guide. The conventional technologies, like thermocouples and resistance temperature detectors (RTDs), and the more recent technologies, like the distributed temperature sensing known as DTS, are covered. The latter technology is treated in more detail in this guide because it constitutes the logical and obvious choice for advanced and more accurate cable temperature monitoring where the hot spots along the cable route can be easily identified. This guide can also be considered as the first step that a potential user should consult before dealing with the issue of real-time rating of cable systems.</abstract>
+  </front>
+</reference>

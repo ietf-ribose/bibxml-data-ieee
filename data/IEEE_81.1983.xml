@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 81.1983" target="https://ieeexplore.ieee.org/document/30647">
+  <front>
+    <title>IEEE Guide for Measuring Earth Resistivity, Ground Impedance, and Earth Surface Potentials of a Ground System Part 1: Normal Measurements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.82378"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="December" day="21"/>
+    <keyword>Grounding</keyword>
+    <keyword>Resistance measurement</keyword>
+    <keyword>Fault currents</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>resistivity</keyword>
+    <keyword>earth</keyword>
+    <keyword>ground</keyword>
+    <keyword>impedance</keyword>
+    <keyword>potentials</keyword>
+    <abstract>The present state of the technique of measuring ground resistance and impedance, earth resistivity, and potential gradients from currents in the earth, and the prediction of the magnitude of ground resistance and potential gradients from scale-model tests are described and discussed. Factors influencing the choice of instruments and the techniques for various types of measurements are covered. These include the purpose of the measurement, the accuracy required, the type of instruments available, possible sources of error, and the nature of the ground or grounding system under test. The intent is to assist the engineer or technician in obtaining and interpreting accurate, reliable data. The test procedures described promote the safety of personnel and property and prevent interference with the operation of neighboring facilities.</abstract>
+  </front>
+</reference>

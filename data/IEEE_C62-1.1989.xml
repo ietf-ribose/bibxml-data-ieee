@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE C62-1.1989" target="https://ieeexplore.ieee.org/document/89923">
+  <front>
+    <title>IEEE Standard for Gapped Silicon-Carbide Surge Arresters for AC Power Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.95426"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="June" day="18"/>
+    <keyword>Overvoltage protection</keyword>
+    <keyword>Power system protection</keyword>
+    <keyword>Silicon compounds</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Substations</keyword>
+    <keyword>Arresters</keyword>
+    <abstract>This standard describes the service conditions, classifications and voltage ratings, design tests with corresponding performance characteristics, conformance tests, and certification test procedures for station, intermediate, distribution and secondary class arresters. Terminal connections, housing leakage distance, mounting and identification requirements are defined. Definitions are provided to clarify the required test procedures and other portions of the text.</abstract>
+  </front>
+</reference>

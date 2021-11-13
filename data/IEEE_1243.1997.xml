@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1243.1997" target="https://ieeexplore.ieee.org/document/640303">
+  <front>
+    <title>IEEE Guide for Improving the Lightning Performance of Transmission Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.84660"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="September" day="4"/>
+    <keyword>Power transmission lines</keyword>
+    <keyword>grounding</keyword>
+    <keyword>lightning protection</keyword>
+    <keyword>overhead electric power transmission</keyword>
+    <keyword>shielding</keyword>
+    <abstract>The effects of routing, structure type, insulation, shielding, and grounding on transmission lines are discussed. The way these transmission-line choices will improve or degrade lightning performance is also provided. An additional section discusses several special methods that may be used to improve lightning performance. Finally, a listing and description of the FLASH program is presented.</abstract>
+  </front>
+</reference>

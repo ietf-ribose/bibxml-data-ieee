@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE P3802/D-2.0.2021-05" target="https://ieeexplore.ieee.org/document/9547246">
+  <front>
+    <title>IEEE Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="September" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Blockchains</keyword>
+    <keyword>Electronic commerce</keyword>
+    <keyword>Transaction databases</keyword>
+    <keyword>Evidence theory </keyword>
+    <keyword>Evidence collecting</keyword>
+    <keyword>Blockchain</keyword>
+    <keyword>Evidence management</keyword>
+    <abstract>This standard provides reference and guideline for the blockchain-based e-commerce transaction evidence collecting (BETEC) platform, this standard describes the technical reference framework, basic functional requirements, and technical indicators of BETEC. This standard serves as a guide for blockchain service providers to integrate blockchain into traditional e-commerce transaction platform, to develop and design tamper-proof, full-process traceable BETEC platform.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 802-15-4s.2018" target="https://ieeexplore.ieee.org/document/8398601">
+  <front>
+    <title>IEEE Standard for Low-Rate Wireless Networks Amendment 6: Enabling Spectrum Resource Measurement Capability</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8398601"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="June" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Wireless networks</keyword>
+    <keyword>Spread spectrum management</keyword>
+    <keyword>Resource management</keyword>
+    <keyword>Power transmission</keyword>
+    <keyword>Power control</keyword>
+    <keyword>IEEE 802.15.4(TM)</keyword>
+    <keyword>spectrum resource measurement</keyword>
+    <keyword>transmit power control</keyword>
+    <abstract>Definitions of MAC related functions to enable spectrum resource management are addressed in this amendment to IEEE Std 802.15.4™. It specifies the following: - Spectrum resource measurements and network performance metrics, such as packet error ratio, delay, etc. - Information elements and data structures to capture these measurements, - Procedures for collecting and exchanging spectrum resource measurement information with higher layers or otherre devices. The PDF of this standard is available at no cost to you compliments of the IEEE GET program. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page for more details.</abstract>
+  </front>
+</reference>

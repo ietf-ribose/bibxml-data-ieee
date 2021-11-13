@@ -1,0 +1,14 @@
+<reference anchor="IEEE.IEEE Unapproved 802-20/D-3.1m.2007-12" target="https://ieeexplore.ieee.org/document/4410472">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Standard Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility -- Physical and Media Access Control Layer Specification</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>These technical requirements form a compatibility standard for mobile broadband wireless access systems. The requirements ensure that a compliant Access Terminal (AT) or User Terminal (UT) can obtain service through any Access Network or Base Station (BS) conforming to properly selected modes of this standard, consistent with equipment and operator requirements, thus providing a framework for the rapid development of cost-effective, interoperable multivendor mobile broadband wireless access systems. This compatibility standard is targeted for use in a wide variety of licensed frequency bands and regulatory environments. This specification includes provisions for future service additions and expansion of system capabilities. The architecture defined by this specification permits such expansion without the loss of backward compatibility to older access terminals or user terminals.</abstract>
+  </front>
+</reference>

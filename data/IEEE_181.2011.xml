@@ -1,0 +1,43 @@
+<reference anchor="IEEE.IEEE 181.2011" target="https://ieeexplore.ieee.org/document/6016198">
+  <front>
+    <title>IEEE Standard for Transitions, Pulses, and Related Waveforms</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6016198"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="July" day="26"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Signal analysis</keyword>
+    <keyword>Waveguide components</keyword>
+    <keyword>Pulse measurements</keyword>
+    <keyword>Histograms</keyword>
+    <keyword>Pulse amplifiers</keyword>
+    <keyword>aberration</keyword>
+    <keyword>algorithms</keyword>
+    <keyword>compound waveform</keyword>
+    <keyword>histogram</keyword>
+    <keyword>IEEE 181</keyword>
+    <keyword>levels</keyword>
+    <keyword>pulse</keyword>
+    <keyword>pulse amplitude</keyword>
+    <keyword>pulse definitions</keyword>
+    <keyword>pulse measurement</keyword>
+    <keyword>states</keyword>
+    <keyword>state boundaries</keyword>
+    <keyword>state levels</keyword>
+    <keyword>transients</keyword>
+    <keyword>transitions</keyword>
+    <keyword>transition duration</keyword>
+    <keyword>waveforms</keyword>
+    <keyword>waveform analysis</keyword>
+    <keyword>waveform definitions</keyword>
+    <keyword>waveform parameters</keyword>
+    <keyword>waveform terms</keyword>
+    <abstract>Approximately 100 terms and their definitions, for accurately and precisely describing the waveforms of pulse signals and the process of measuring pulse signals, are presented in this standard. Algorithms are provided for computing the values of defined terms that describe measurable parameters of the waveform, such as transition duration, state level, pulse amplitude, and waveform aberrations. These analysis algorithms are applicable to two-state waveforms having one or two transitions connecting these states. Compound waveform analysis is accomplished by decomposing the compound waveform into its constituent two-state single-transition waveforms.</abstract>
+  </front>
+</reference>

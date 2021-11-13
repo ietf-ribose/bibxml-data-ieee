@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P802-3bw/D-3.2.1.2015-07" target="https://ieeexplore.ieee.org/document/7177016">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 100 Mb/s Operation over a Single Balanced Twisted Pair Cable (100BASE-T1)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="August" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Time measuremnet</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>100BASE-T1</keyword>
+    <keyword>Copper</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>MASTER-SLAVE</keyword>
+    <keyword>Medium Dependent Interface</keyword>
+    <keyword>Physical Coding Sublayer</keyword>
+    <keyword>Physical Layer</keyword>
+    <keyword>Physical Medium Attachment.</keyword>
+    <abstract>This amendment to IEEE 802.3 Standard for Ethernet defines the 100BASE-T1 Physical Layer (PHY) specifications and management parameters for point-to-point full duplex 100 Mb/s operation over single balanced twisted pair cabling. This specification provides fully functional and electrical specifications for the type 100BASE-T1 PHY. This specification also specifies the baseband medium used with 100BASE-T1</abstract>
+  </front>
+</reference>

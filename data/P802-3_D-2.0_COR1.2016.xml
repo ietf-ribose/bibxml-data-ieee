@@ -1,0 +1,24 @@
+<reference anchor="IEEE.P802-3/D-2.0/Cor1.2016" target="https://ieeexplore.ieee.org/document/7781557">
+  <front>
+    <title>IEEE Draft Standard for Ethernet</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="December" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time measurement</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>IEEE 802.3 Standard</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Time Synchronization</keyword>
+    <abstract>This corrigendum to IEEE Std 802.3-2015 clarifies which lane of the media dependent interface (MDI) of a multilane Physical Layer entity (PHY) is used as the timestamping reference point.</abstract>
+  </front>
+</reference>

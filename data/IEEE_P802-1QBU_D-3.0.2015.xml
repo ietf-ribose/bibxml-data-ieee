@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE P802-1Qbu/D-3.0.2015" target="https://ieeexplore.ieee.org/document/7177013">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks-Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks Amendment: Frame Preemption.</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="August" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridged circuits</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>preemption</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q-2014 provides enhancements to the forwarding process that support frame preemption.</abstract>
+  </front>
+</reference>

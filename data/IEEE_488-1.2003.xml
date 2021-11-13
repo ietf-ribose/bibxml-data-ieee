@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 488-1.2003" target="https://ieeexplore.ieee.org/document/1258186">
+  <front>
+    <title>IEEE Standard For Higher Performance Protocol for the Standard Digital Interface for Programmable Instrumentation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94413"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="July" day="8"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Instruments</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Protocols</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>GPIB</keyword>
+    <keyword>HPIB</keyword>
+    <keyword>HS488</keyword>
+    <keyword>non-interlocked handshake</keyword>
+    <keyword>three-wire handshake</keyword>
+    <keyword>SCPI</keyword>
+    <abstract>This standard applies to interface systems used to interconnect both programmable and nonprogrammable electronic measuring apparatus with other apparatus and accessories necessary to assemble instrumentation systems. It applies to the interface of instrumentation systems, or portions of them, in which the a) Data exchanged among the interconnected apparatus is digital (as distinct from analog); b) Number of devices that may be interconnected by one contiguous bus does not exceed 15; c) Total transmission path lengths over the interconnecting cables does not exceed 20 m; d) Data rate among devices does not exceed 8 000 000 B/s. The basic functional specifications of this standard may be used in digital interface applications that require longer distances, more devices, increased noise immunity, or combinations of these. Different electrical and mechanical specifications may be required (for example, symmetrical circuit configurations, high threshold logic, special connectors, or cable configurations) for these extended applications.</abstract>
+  </front>
+</reference>

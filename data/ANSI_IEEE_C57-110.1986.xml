@@ -1,0 +1,24 @@
+<reference anchor="IEEE.ANSI/IEEE C57-110.1986" target="https://ieeexplore.ieee.org/document/29143">
+  <front>
+    <title>IEEE Recommended Practice for Establishing Transformer Capability When Supplying Nonsinusoidal Load Currents</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81682"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="May" day="1"/>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>harmonic</keyword>
+    <keyword>load</keyword>
+    <keyword>current</keyword>
+    <keyword>heating</keyword>
+    <keyword>Power transformers</keyword>
+    <abstract>The purpose of the report is to establish uniform methods for determining the capability of transformers to supply nonsinusoidal load currents, without loss of normal life expectancy. Two methods are described. The first is intended for use by those with access to detailed information on loss density distribution within the transformer windings. The second is less accurate and is intended for use by those with access to transformer certified test report data only. It is anticipated that the first method will be used primarily by transformer design engineers, while the second will be employed primarily by users. This recommended practice will be applicable for evaluating the feasibility of applying nonsinusoidal load currents to existing transformers and for specifying new transformers to supply nonsinusoidal loads.</abstract>
+  </front>
+</reference>

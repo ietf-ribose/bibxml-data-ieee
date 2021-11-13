@@ -1,0 +1,30 @@
+<reference anchor="IEEE.ISO/IEC 13213" target="https://ieeexplore.ieee.org/document/4140849">
+  <front>
+    <title>ISO/IEC/IEEE International Standard for Information technology--Microprocessor systems--Control and Status Registers (CSR) Architecture for microcomputer buses</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.339591"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="31"/>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>CSR architecture</keyword>
+    <keyword>bus architecture</keyword>
+    <keyword>bus standard</keyword>
+    <keyword>interoperability</keyword>
+    <keyword>microprocessors</keyword>
+    <keyword>node addressing</keyword>
+    <keyword>registers</keyword>
+    <keyword>transaction sets</keyword>
+    <abstract>The document structure and notation are described, and the objectives and scope of the CSR Architecture are outlined. Transition set requirements, node addressing, node architectures, unit architectures, and CSR definitions are set forth. The ROM specification and bus standard requirements are covered.</abstract>
+  </front>
+</reference>

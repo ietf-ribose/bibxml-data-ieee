@@ -1,0 +1,33 @@
+<reference anchor="IEEE.ISO/IEC 14536" target="https://ieeexplore.ieee.org/document/4140852">
+  <front>
+    <title>ISO/IEC 14536:1995 [ANSI/IEEE Std 896.5-1995] Information technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.339592"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="December" day="10"/>
+    <keyword>IEC Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>bus architecture</keyword>
+    <keyword>error logging</keyword>
+    <keyword>fault logging</keyword>
+    <keyword>futurebus+</keyword>
+    <keyword>live insertion</keyword>
+    <keyword>military profiles</keyword>
+    <keyword>multiprocessor</keyword>
+    <keyword>node management</keyword>
+    <keyword>open architecture</keyword>
+    <keyword>serial bus</keyword>
+    <keyword>software debug</keyword>
+    <abstract>This International Standard provides a set of tools with which to implement a Futurebus+¨ architecture. This high-performance bus-based system architecture provides a wide range of performance and cost scalability over time for multiple generations of single- and muliple-bus multiprocessor systems. This document, a companion standard to ISO/IEC 10857:1994 [ANSI/IEEE Std 896.1,1994 Edition], builds on the logical layer by adding requirements for three military profiles. It is to these profiles that products will claim conformance. Othere specifications that may be required in conjunction with this International Standard are [ISO/IEC Std 10857: 1994 [ANSI/IEEE Std 896.1, 1994 Edition], IEEE Std 896.2-1991, IEEE Std 896.2a-1994, IEEE Std 896.3-1993, IEEE Std 896.4-1993, IEEE P896.4a, IEEE Std 896.9-1994, IEEE Std 1101.3-1993, IEEE Std 1101.4-1993, IEEE Std 1212-1991, IEEE Std 1194.1-1991, IEEE Std P1394, IEEE Std 1301-1991, and IEEE Std 1301.1-1991.</abstract>
+  </front>
+</reference>

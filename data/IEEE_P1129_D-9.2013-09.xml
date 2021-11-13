@@ -1,0 +1,34 @@
+<reference anchor="IEEE.IEEE P1129/D-9.2013-09" target="https://ieeexplore.ieee.org/document/6648611">
+  <front>
+    <title>IEEE Draft Guide for Online Monitoring of Large Synchronous Generators (10 MVA and above)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="October" day="28"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Synchronous generators</keyword>
+    <keyword>Generators</keyword>
+    <keyword>Real-time systems</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Online services</keyword>
+    <keyword>Partial discharges</keyword>
+    <keyword>generators</keyword>
+    <keyword>online monitoring</keyword>
+    <keyword>real-time monitoring</keyword>
+    <keyword>partial discharge</keyword>
+    <keyword>flux</keyword>
+    <keyword>probe</keyword>
+    <keyword>thermocouple</keyword>
+    <keyword>RTD</keyword>
+    <keyword>voltage</keyword>
+    <keyword>frequency</keyword>
+    <abstract>This document describes the recommended practice for online monitoring of large synchronous generators. Contained within this document are high-level discussions of each of the proposed monitoring methods, and recommended threshold values, whenever there is a general agreement on those values. The present standard does not include instrumentation that is clearly understood to belong to the protection scheme of the generator (e.g.: differential protection).</abstract>
+  </front>
+</reference>

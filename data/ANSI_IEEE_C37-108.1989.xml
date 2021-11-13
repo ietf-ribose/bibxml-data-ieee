@@ -1,0 +1,17 @@
+<reference anchor="IEEE.ANSI/IEEE C37-108.1989" target="https://ieeexplore.ieee.org/document/89875">
+  <front>
+    <title>IEEE Guide for the Protection of Network Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94806"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Fault location</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Protection</keyword>
+    <keyword>Network transformer vaults are fire retardant enclosures within buildings or adjacent to them that contain two or more power transformers. These transformers are applied from different subtransmission or distribution lines and are paralleled on their low</keyword>
+    <abstract>This guide is intended to aid those engineers who have reevaluated the risks associated with faults within network vaults, particularly for those network vaults located within or near highrise buildings. It will also identify currently available devices that are being used in network transformer protection schemes. These devices should act to sense the fault and initiate fault interruption locally or remotely, there by minimizing damage and restoration time. These devices will be described as to their fault detecting capabilities. An example utilizing a number of protective schemes is presented in Appendix B.</abstract>
+  </front>
+</reference>

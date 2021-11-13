@@ -1,0 +1,18 @@
+<reference anchor="IEEE.ANSI/IEEE C37-90-1.1989" target="https://ieeexplore.ieee.org/document/89892">
+  <front>
+    <title>IEEE Standard Surge Withstand Capability (SWC) Tests for Protective Relays and Relay Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94811"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Protective relaying</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Surge protection</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Power system transients</keyword>
+    <keyword>Power distribution testing</keyword>
+    <abstract>Superseded by IEEE C37.90.1-2002. Design tests intended for protective relays and relay systems, including those incorporating digital processors, are specified. The tests are intended to be applied to a complete relay system under simulated operating conditions. Oscillatory and fast transient test-wave shapes and characteristics are defined. The equipment to be tested and the test conditions are described, and the points of application of the test wave are shown. Acceptance is defined, and the requisite test data are specified.</abstract>
+  </front>
+</reference>

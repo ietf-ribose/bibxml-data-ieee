@@ -1,0 +1,15 @@
+<reference anchor="IEEE.IEEE 1016.1998" target="https://ieeexplore.ieee.org/document/741934">
+  <front>
+    <title>IEEE Recommended Practice for Software Design Descriptions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88828"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>software design</keyword>
+    <keyword>software design description</keyword>
+    <keyword>software life cycle process</keyword>
+    <abstract>This IEEE Standards product is part of the family on Software Engineering. The necessary information content and recommendations for an organization for Software Design Descriptions (SDDs) are described. An SDD is a representation of a software system that is used as a medium for communicating software design information. This recommended practice is applicable to paper documents, automated databases, design description languages, or other means of description.</abstract>
+  </front>
+</reference>

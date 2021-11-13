@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 896-4.1993" target="https://ieeexplore.ieee.org/document/392558">
+  <front>
+    <title>IEEE Standard for Conformance Test Requirements for Futurebus+(R)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121432"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="9"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Information processing</keyword>
+    <keyword>AEP</keyword>
+    <keyword>block copy</keyword>
+    <keyword>interactive BICS</keyword>
+    <keyword>Implementation under test (IUT)</keyword>
+    <keyword>BIXIT proforma</keyword>
+    <keyword>BICS proforma</keyword>
+    <keyword>Application environment profile</keyword>
+    <abstract>A suite of abstract test cases for verifying the conformance of products based on the Futurebus+ family of standards and a means of selecting the exact set of test cases necessary for testing any given product are provided. The test suite is abstract in that it was not created with a specific test environment in mind. It can be effectively used in conjunction with logic simulators during product development as well as with physical testers after prototype or production units are available. This standard is intended for use by Futurebus+ product suppliers and users and by independent test labs. Consistent use of this standard should promote comparability and, therefore, mutual recognition of test results produced by different testers.</abstract>
+  </front>
+</reference>

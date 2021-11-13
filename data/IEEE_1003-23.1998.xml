@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE 1003-23.1998" target="https://ieeexplore.ieee.org/document/798786">
+  <front>
+    <title>IEEE Guide for Developing User Open System Environment (OSE) Profiles</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90557"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="12"/>
+    <keyword>Open systems</keyword>
+    <keyword>application portability</keyword>
+    <keyword>application interoperability</keyword>
+    <keyword>open system environment</keyword>
+    <keyword>User Organization OSE Profile</keyword>
+    <abstract>This guide presents an overview of User Organization Open System Environment (OSE) Profiles and their application. It is intended to assist users, planners, and implementers in developing User Organization OSE Profiles that address the operational requirements of the organization; related information technology services; and the standards, standards options, and interim solutions that will meet those requirements. The guide also includes conformance testing and transition planning considerations as well as examples of user organization OSE profiles.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 802-3ac.1998" target="https://ieeexplore.ieee.org/document/729403">
+  <front>
+    <title>IEEE Standard for Information technology</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88570"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>data processing</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>information interchange</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>management</keyword>
+    <keyword>models</keyword>
+    <keyword>mode of data transmission</keyword>
+    <keyword>network interconnection</keyword>
+    <keyword>repeater</keyword>
+    <keyword>type field</keyword>
+    <abstract>Changes and additions to IEEE standard 802.3, 1998 edition, to support virtual bridged local area networks (VLANs) as specified in IEEE P802.1Q. draft standard for local and metropolitan area networks: virtual bridged local area networks, are provided. Incoporating IEEE Std 802.3, 1998 Edition, IEEE Std 802.3ac-1998, IEEE Std 802.3ab-1999, and IEEE Std 802.3ad-2000.</abstract>
+  </front>
+</reference>

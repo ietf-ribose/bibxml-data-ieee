@@ -1,0 +1,31 @@
+<reference anchor="IEEE.IEEE 388.1992" target="https://ieeexplore.ieee.org/document/182794">
+  <front>
+    <title>IEEE Standard for Transformers and Inductors in Electronic Power Conversion Equipment</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106966"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="February" day="13"/>
+    <keyword>Inductors</keyword>
+    <keyword>Inverters</keyword>
+    <keyword>Power conversion</keyword>
+    <keyword>Power supplies</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Switched mode power supplies</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>inductors</keyword>
+    <keyword>electronic</keyword>
+    <keyword>power</keyword>
+    <keyword>equipment</keyword>
+    <keyword>transformer</keyword>
+    <keyword>inductor</keyword>
+    <keyword>Converter</keyword>
+    <abstract>Transformers and inductors of both the saturating and non-saturating type are covered. The power transfer capability of the transformers and inductors covered ranges from less than 1 W to the multi-kilowatt level. The purpose is to provide a common basis between the engineers designing power conversion circuits and the engineers designing the transformers and inductors used in those circuits. Apparatus used in equipment for high-voltage power conversion for distribution by electric utilities is not covered.</abstract>
+  </front>
+</reference>

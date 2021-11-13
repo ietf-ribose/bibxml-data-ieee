@@ -1,0 +1,43 @@
+<reference anchor="IEEE.IEEE P1073-3-3/D-8.2003-07" target="https://ieeexplore.ieee.org/document/6740096">
+  <front>
+    <title>IEEE Draft Standard for Health Informatics</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.6740096"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="February" day="13"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Infrared sensors</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Patient monitoring</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>access point</keyword>
+    <keyword>bedside</keyword>
+    <keyword>device interfaces</keyword>
+    <keyword>infrared</keyword>
+    <keyword>Infrared Data Association</keyword>
+    <keyword>IrDA</keyword>
+    <keyword>legacy device</keyword>
+    <keyword>medical device</keyword>
+    <keyword>medical device communications</keyword>
+    <keyword>medical information bus</keyword>
+    <keyword>MIB</keyword>
+    <keyword>patient</keyword>
+    <keyword>Simple Network Time Protocol</keyword>
+    <keyword>SNTP</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>POC</keyword>
+    <keyword>point-of-care testing</keyword>
+    <keyword>POCT</keyword>
+    <keyword>wireless</keyword>
+    <abstract>ISO/IEEE Dual logo This standard establishes a connection-oriented transport profile and physical layer suitable for medical device communications that use short-range infrared wireless. This standard defines communications services and protocols consistent with specifications of the Infrared Data Association, and are optimized for point-of-care applications at or near the patient.</abstract>
+  </front>
+</reference>

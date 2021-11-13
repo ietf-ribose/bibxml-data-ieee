@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P1635/D-19" target="https://ieeexplore.ieee.org/document/9611200">
+  <front>
+    <title>IEEE/ASHRAE Draft Guide for the Ventilation and Thermal Management of Batteries for Stationary Applications</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="November" day="10"/>
+    <keyword>ASHRAE Guideline 21</keyword>
+    <keyword>battery</keyword>
+    <keyword>battery cabinets</keyword>
+    <keyword>battery gassing</keyword>
+    <keyword>battery room</keyword>
+    <keyword>battery vaults</keyword>
+    <keyword>forced ventilation</keyword>
+    <keyword>hydrogen</keyword>
+    <keyword>IEEE 1635&amp;#8482;</keyword>
+    <keyword>natural ventilation</keyword>
+    <keyword>stationary battery</keyword>
+    <keyword>thermal management</keyword>
+    <keyword>ventilation</keyword>
+    <keyword>ventilation system maintenance</keyword>
+    <abstract>Vented lead-acid (VLA), valve-regulated lead-acid (VRLA), nickel-cadmium (Ni-Cd), and Li-ion stationary battery installations are discussed in this guide, written to serve as a bridge between the electrical designer and the heating, ventilation, and air-conditioning (HVAC) designer. Ventilation of stationary battery installations is critical to improving battery life while reducing the hazards associated with hydrogen production (hydrogen production is not a concern with Li-ion under normal operating conditions [it is under thermal runaway conditions]). This guide describes battery operating modes and the hazards associated with each. It provides the HVAC designer with the information to provide a cost effective ventilation solution.</abstract>
+  </front>
+</reference>

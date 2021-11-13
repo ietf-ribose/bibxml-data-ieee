@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 1028.1988" target="https://ieeexplore.ieee.org/document/29123">
+  <front>
+    <title>IEEE Standard Software Reviews and Audits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.81607"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Computer industry</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Standards</keyword>
+    <keyword>reviews</keyword>
+    <keyword>audits</keyword>
+    <keyword>Software quality</keyword>
+    <keyword>Software development management</keyword>
+    <abstract>Definitions and uniform procedures for review and audit applicable to both critical and noncritical software are provided. The processes include management review, technical review, software inspection, walkthrough, and audit. The processes defined are applicable throughout the software life cycle.</abstract>
+  </front>
+</reference>

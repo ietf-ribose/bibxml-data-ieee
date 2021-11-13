@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE 802-22a.2014" target="https://ieeexplore.ieee.org/document/6823051">
+  <front>
+    <title>IEEE Standard for Information Technology--Telecommunications and information exchange between systems Wireless Regional Area Networks (WRAN)--Specific requirements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6823051"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="May" day="29"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Broadband</keyword>
+    <keyword>Cognitive radio</keyword>
+    <keyword>Spread spectrum management</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>TV</keyword>
+    <keyword>Wide area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>broadband wireless access network</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>fixed user terminals</keyword>
+    <keyword>IEEE 802.22a(TM)</keyword>
+    <keyword>portable user terminals</keyword>
+    <keyword>radio spectrum sensing</keyword>
+    <keyword>regional area network</keyword>
+    <keyword>WRAN standards</keyword>
+    <abstract>This air interface, including the medium access control layer (MAC) and physical layer (PHY), of the fixed and portable point-to-multipoint wireless regional area networks (WRANs) operating in spectrum allocated to the Television Broadcasting Service in the frequency range of 54 MHz to 862 MHz is described in this amendment.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 495.2007" target="https://ieeexplore.ieee.org/document/4412394">
+  <front>
+    <title>IEEE Guide for Testing Faulted Circuit Indicators</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4412394"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="November" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Circuit faults</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>cable fault locator</keyword>
+    <keyword>fault indicators</keyword>
+    <keyword>faulted circuit indicator</keyword>
+    <keyword>FCI</keyword>
+    <abstract>Definitions, service conditions, test procedures, and test conditions for faulted circuit indicators for use on power distribution systems are established in this test code.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.IEEE 264.1968" target="https://ieeexplore.ieee.org/document/7394095">
+  <front>
+    <title>IEEE Standard for High-Power Wide-Band Transformers.</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.7394095"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="January" day="28"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Wideband</keyword>
+    <keyword>High power transformers</keyword>
+    <keyword>Impedance</keyword>
+    <keyword>Frequency modulation</keyword>
+    <keyword>Inductors</keyword>
+    <keyword>Electron tubes</keyword>
+    <abstract>This publication pertains to wide-band transformers, transmitting power of more than 100 watts.* Guides to application and test procedures are included. Appendices contain certain precautions and recommended practices. Provision is made for including data for use in the design of feedback amplifiers and control networks or other circuits in which knowledge of the transformer amplitudeand phase-frequency response is needed by the system designer. These transformers are required to transform voltage within specified tolerances of amplitude and phase when operating between specified impedances.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1175-3.2004" target="https://ieeexplore.ieee.org/document/1350464">
+  <front>
+    <title>IEEE Standard for CASE Tool Interconnections</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95081"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="October" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Tools</keyword>
+    <keyword>Computer aided software engineering</keyword>
+    <keyword>Software</keyword>
+    <keyword>Computational modeling</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Computer-Aided Software Engineering (CASE) tools</keyword>
+    <keyword>Semantic Transfer Language (STL)</keyword>
+    <keyword>software behavior concept</keyword>
+    <keyword>transfer syntax</keyword>
+    <abstract>Computer-Aided Software Engineering (CASE) tools are used to describe the behavior of software using a variety of different design notations. These may be graphical or textual in nature, or may be a combination. This standard provides a reference model of fundamental software concepts that form the building blocks for a number of these commonly used notations. This standard also includes a textual language, the Semantic Transfer Language (STL), for representing software application behavior descriptions. A software behavior description consists of a collection of sentences that conform to the formal syntax of the STL and that are to be interpreted in terms of the software concepts defined in this standard. The STL syntax is designed to be computer-parsable, while at the same time remaining easy for users to read and write. This reference model and transfer syntax may be used for directly recording, storing, and analyzing a software behavior description, as well as for transferring elements of a software behavior description between CASE tools.</abstract>
+  </front>
+</reference>

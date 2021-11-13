@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 293.2014" target="https://ieeexplore.ieee.org/document/6971047">
+  <front>
+    <title>IEEE Standard for IEEE Test Procedure for Single-Degree-of-Freedom Spring-Restrained Rate Gyros -- Corrigendum 1: Table 1 Heading</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6971047"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="December" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Aerospace electronics</keyword>
+    <keyword>Gyroscopes</keyword>
+    <keyword>Springs</keyword>
+    <abstract>An error has been identified in IEEE Std 293TM-1969. The table heading for Table 1 was omitted.</abstract>
+  </front>
+</reference>

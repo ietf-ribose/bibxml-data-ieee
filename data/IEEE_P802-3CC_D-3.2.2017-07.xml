@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P802-3cc/D-3.2.2017-07" target="https://ieeexplore.ieee.org/document/8013161">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer and Management Parameters for Serial 25 Gb/s Ethernet Operation Over Single-Mode Fiber</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="August" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Foreword error correction</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>25 Gb/s Ethernet</keyword>
+    <keyword>25GBASE-ER</keyword>
+    <keyword>25GBASE-LR</keyword>
+    <keyword>25GBASE-SR</keyword>
+    <keyword>Energy Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Forward Error Correction (FEC)</keyword>
+    <keyword>IEEE 802.3(TM)</keyword>
+    <keyword>IEEE 802.3by(TM)</keyword>
+    <keyword>IEEE 802.3cc(TM)</keyword>
+    <keyword>Physical Coding sublayer (PCS)</keyword>
+    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>Reconciliation sublayer (RS)</keyword>
+    <keyword>single-mode fiber (SMF)</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications and management parameters for 25 Gb/s operation over single-mode fiber at reaches of at least 10 km (25GBASE-LR) and 40 km (25GBASE-ER).</abstract>
+  </front>
+</reference>

@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 1076/D-4.6169" target="https://ieeexplore.ieee.org/document/1405849">
+  <front>
+    <title>IEC/IEEE International Standard</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95754"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="November" day="7"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Application specific integrated circuits</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>Modeling</keyword>
+    <keyword>ASIC</keyword>
+    <keyword>computer</keyword>
+    <keyword>computer languages</keyword>
+    <keyword>constraints</keyword>
+    <keyword>delay calculation</keyword>
+    <keyword>HDL</keyword>
+    <keyword>modeling</keyword>
+    <keyword>SDF</keyword>
+    <keyword>timing</keyword>
+    <keyword>Verilog</keyword>
+    <keyword>VHDL</keyword>
+    <abstract>IThe VITAL (VHDL Initiative Towards ASIC Libraries) ASIC Modeling Specification is defined in this standard. This modeling specification defines a methodology which promotes the development of highly accurate, efficient simulation models for ASIC (Application-Specific Integrated Circuit) components in VHDL.</abstract>
+  </front>
+</reference>

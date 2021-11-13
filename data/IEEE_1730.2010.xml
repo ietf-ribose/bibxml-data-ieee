@@ -1,0 +1,29 @@
+<reference anchor="IEEE.IEEE 1730.2010" target="https://ieeexplore.ieee.org/document/5706287">
+  <front>
+    <title>IEEE Recommended Practice for Distributed Simulation Engineering and Execution Process (DSEEP)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706287"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="April" day="13"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Computational modeling</keyword>
+    <keyword>Simulation</keyword>
+    <keyword>Computer architecture</keyword>
+    <keyword>DIS</keyword>
+    <keyword>distributed simulation</keyword>
+    <keyword>engineering methodology</keyword>
+    <keyword>HLA</keyword>
+    <keyword>IEEE 1730</keyword>
+    <keyword>M&amp;amp;S</keyword>
+    <keyword>system process</keyword>
+    <keyword>TENA</keyword>
+    <keyword>1516.3</keyword>
+    <abstract>Recommended practice for Distributed Simulation Engineering and Execution Process (DSEEP) is described. The DSEEP is intended as a high-level process framework into which the lower-level systems engineering practices native to any distributed simulation user can be easily integrated. Simulation architectures include Distributed Interactive Simulation (DIS), High Level Architecture (HLA), and Test and Training Enabling Architecture (TENA).</abstract>
+  </front>
+</reference>

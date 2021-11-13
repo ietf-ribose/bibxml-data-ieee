@@ -1,0 +1,23 @@
+<reference anchor="IEEE.ISO/IEEE DIS P11073-10418/D-8.2010" target="https://ieeexplore.ieee.org/document/5600002">
+  <front>
+    <title>ISO/IEEE Draft International Standard for Health informatics</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>ISO standards</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Biomedical equipment</keyword>
+    <keyword>International Normalized Ratio (INR) monitor</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health 20 devices</keyword>
+    <abstract>This standard establishes a normative definition of communication between personal telehealth International Normalized Ratio (INR) devices (agents) and managers (e.g. cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability. It leverages work done in other ISO/IEEE 11073 standards including existing terminology, information profiles, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of functionality of personal International Normalized Ratio (INR) physical activity monitors. In the context of personal health devices, INR monitoring refers to the measurement of the Prothrombin Time (PT) that is used to assess the level of anti-coagulant therapy and its presentation as the International Normalized Ratio compared to the Prothrombin Time of normal blood plasma. Applications of the INR monitor include the management of the therapeutic level of anti-coagulant used in the treatment of a variety of conditions. This standard provides the data modeling and its transport shim layer according to the IEEE Std 11073-16 20601 ISO/IEEE 11073-20601-201011073-20601a-2010 standard, and does not specify the measurement method.</abstract>
+  </front>
+</reference>

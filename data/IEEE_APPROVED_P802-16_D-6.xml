@@ -1,0 +1,36 @@
+<reference anchor="IEEE.IEEE Approved P802-16/D-6" target="https://ieeexplore.ieee.org/document/6216338">
+  <front>
+    <title>IEEE Approved Draft Standard for local and metropolitan area networks Part 16: Air Interface for Broadband Wireless Access Systems</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="June" day="12"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Radio communication</keyword>
+    <keyword>broadband wireless access (BWA)</keyword>
+    <keyword>cellular layer</keyword>
+    <keyword>fixed broadband wireless access</keyword>
+    <keyword>MAN</keyword>
+    <keyword>management information base (MIB)</keyword>
+    <keyword>microwave</keyword>
+    <keyword>mobile broadband wireless access</keyword>
+    <keyword>OFDM</keyword>
+    <keyword>OFDMA</keyword>
+    <keyword>radio</keyword>
+    <keyword>standard</keyword>
+    <keyword>wireless access systems (WAS)</keyword>
+    <keyword>WirelessMAN</keyword>
+    <keyword>wirelessmetropolitan area network</keyword>
+    <abstract>Approved Draft. This standard specifies the air interface, including the medium access control layer(MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint broadbandwireless access (BWA) systems providing multiple services. The MAC is structured to supportthe WirelessMAN-SC, WirelessMAN-OFDM, and WirelessMAN-OFDMA PHY specifications,each suited to a particular operational environment. The standard enables rapid worldwidedeployment of innovative, cost-effective, and interoperable multivendor broadband wirelessaccess products, facilitates competition in broadband access by providing alternatives towireline broadband access, encourages consistent worldwide spectrum allocation, andaccelerates the commercialization of broadband wireless access systems.</abstract>
+  </front>
+</reference>

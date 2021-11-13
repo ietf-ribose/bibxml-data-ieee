@@ -1,0 +1,52 @@
+<reference anchor="IEEE.IEEE 802-11ad.2012" target="https://ieeexplore.ieee.org/document/6392842">
+  <front>
+    <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements-Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Enhancements for Very High Throughput in the 60 GHz Band</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6392842"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="December" day="24"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Standards Board</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>60 GHz</keyword>
+    <keyword>A-BFT</keyword>
+    <keyword>announcement transmission interval</keyword>
+    <keyword>association beamforming training time</keyword>
+    <keyword>ATI</keyword>
+    <keyword>beacon transmission interval</keyword>
+    <keyword>beamforming</keyword>
+    <keyword>BTI</keyword>
+    <keyword>CBAP</keyword>
+    <keyword>clustering</keyword>
+    <keyword>contention-based access period</keyword>
+    <keyword>directional multi-gigabit</keyword>
+    <keyword>DMG</keyword>
+    <keyword>dynamic allocation of service period</keyword>
+    <keyword>dynamic extension of service period</keyword>
+    <keyword>dynamic truncation of service period</keyword>
+    <keyword>fast session transfer</keyword>
+    <keyword>FST</keyword>
+    <keyword>GCMP</keyword>
+    <keyword>IEEE 802.11ad</keyword>
+    <keyword>millimeter-wave</keyword>
+    <keyword>multi-band operation</keyword>
+    <keyword>PBSS</keyword>
+    <keyword>PBSS control point</keyword>
+    <keyword>PCP</keyword>
+    <keyword>personal basic service set</keyword>
+    <keyword>relay operation</keyword>
+    <keyword>service period</keyword>
+    <keyword>SP</keyword>
+    <keyword>spatial sharing</keyword>
+    <abstract>This amendment defines modifications to both the IEEE 802.11 physical layers (PHYs)and the IEEE 802.11 medium access control layer (MAC) to enable operation in frequencies around 60 GHz and capable of very high throughput.</abstract>
+  </front>
+</reference>

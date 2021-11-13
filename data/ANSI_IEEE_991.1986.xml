@@ -1,0 +1,22 @@
+<reference anchor="IEEE.ANSI/IEEE 991.1986" target="https://ieeexplore.ieee.org/document/35042">
+  <front>
+    <title>IEEE Standard for Logic Circuit Diagrams</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.86130"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="January" day="19"/>
+    <keyword>Logic circuits</keyword>
+    <keyword>Standards</keyword>
+    <keyword>diagrams</keyword>
+    <keyword>Logic functions</keyword>
+    <keyword>Logic circuits</keyword>
+    <abstract>This standard provides guidelines for preparation of diagrams depicting logic functions. It includes definitions, requirements for assignment of logic levels, application of logic symbols, presentation techniques, and labeling requirements with typical examples. The techniques are presented in the context of electrical/electronic systems, but also may be applied to nonelectrical systems (for example, pneumatic, hydraulic, or mechanical).</abstract>
+  </front>
+</reference>

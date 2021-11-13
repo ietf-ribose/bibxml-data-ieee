@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE P765/D-2.2012-03" target="https://ieeexplore.ieee.org/document/6289331">
+  <front>
+    <title>IEEE Draft Standard for Preferred Power Supply (PPS) for Nuclear Power Generating Stations (NPGS)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="August" day="28"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>AC motors</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>AAC</keyword>
+    <keyword>alternate ac source</keyword>
+    <keyword>Class 1E</keyword>
+    <keyword>NPGS</keyword>
+    <keyword>nuclear power generating station</keyword>
+    <keyword>PPS</keyword>
+    <keyword>preferred power supply</keyword>
+    <keyword>switchyard</keyword>
+    <keyword>transmission system</keyword>
+    <abstract>The design criteria of the preferred power supply (PPS) and its interfaces with the Class 1E power system, switchyard, transmission system, and alternate ac (AAC) source are described. This standard provides PPS requirements for nuclear power plants and guidance in the areas of AAC power source interfaces with PPS, physical independence of the PPS power and control circuits, and expanded PPS criteria for multi-unit stations.</abstract>
+  </front>
+</reference>

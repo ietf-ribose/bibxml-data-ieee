@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE 1695.2016" target="https://ieeexplore.ieee.org/document/7508856">
+  <front>
+    <title>IEEE Guide to Understanding, Diagnosing, and Mitigating Stray and Contact Voltage</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7508856"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="July" day="11"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Voltage measurement</keyword>
+    <keyword>Stray voltage</keyword>
+    <keyword>Power system reliability</keyword>
+    <keyword>contact voltage</keyword>
+    <keyword>IEEE 1695(TM)</keyword>
+    <keyword>stray voltage</keyword>
+    <abstract>Voltage conditions that may arise at publicly and privately accessible locations as a result of the delivery and use of electrical energy are addressed in this guide. This guide is not intended for use as a statement of cause and effect. It focuses primarily on the presence of power frequency related voltage conditions and discusses definitions, sources, testing techniques, and strategies that may be available to help reduce those conditions.</abstract>
+  </front>
+</reference>

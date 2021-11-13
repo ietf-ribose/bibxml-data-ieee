@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE P1857-10/D-3.2021-08" target="https://ieeexplore.ieee.org/document/9519597">
+  <front>
+    <title>IEEE Draft Standard for Third Generation Video Coding</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="August" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Decoding</keyword>
+    <keyword>Encoding</keyword>
+    <keyword>Predictive models</keyword>
+    <keyword>Entropy</keyword>
+    <keyword>Transform coding</keyword>
+    <keyword>encoding</keyword>
+    <keyword>decoding</keyword>
+    <keyword>coding unit</keyword>
+    <keyword>intra prediction</keyword>
+    <keyword>inter prediction</keyword>
+    <keyword>prediction unit</keyword>
+    <keyword>prediction block</keyword>
+    <keyword>entropy coding</keyword>
+    <keyword>quantization</keyword>
+    <keyword>slice</keyword>
+    <keyword>transform</keyword>
+    <keyword>transform block</keyword>
+    <keyword>transform coefficients</keyword>
+    <keyword>loop filter</keyword>
+  </front>
+</reference>

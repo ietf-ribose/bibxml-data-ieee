@@ -1,0 +1,32 @@
+<reference anchor="IEEE.IEEE 802-1Qbz.2016" target="https://ieeexplore.ieee.org/document/7577718">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks&amp;#8212;Bridges and Bridged Networks&amp;#8212;Amendment 27: Enhancements to Bridging of IEEE 802.11 Media</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7577718"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="September" day="27"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>IEEE 802.11 Standard</keyword>
+    <keyword>amendment</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.11&amp;#8482;</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>transparent bridging</keyword>
+    <keyword>VLANs</keyword>
+    <keyword>Wi-Fi</keyword>
+    <keyword>wireless</keyword>
+    <abstract>Protocols, procedures, and managed objects to allow IEEE 802.11 media to provide internal connections within bridged networks, as well as access to bridged networks, are provided in this amendment.</abstract>
+  </front>
+</reference>

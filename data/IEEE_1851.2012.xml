@@ -1,0 +1,27 @@
+<reference anchor="IEEE.IEEE 1851.2012" target="https://ieeexplore.ieee.org/document/6265331">
+  <front>
+    <title>IEEE Standard for Design Criteria of Integrated Sensor-Based Test Applications for Household Appliances</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6265331"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="August" day="10"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Sensor systems</keyword>
+    <keyword>Web</keyword>
+    <keyword>XML</keyword>
+    <keyword>Home appliances</keyword>
+    <keyword>Testing</keyword>
+    <keyword>household appliances test</keyword>
+    <keyword>IEEE 1851</keyword>
+    <keyword>sensor data</keyword>
+    <keyword>Web service</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>An integrated framework of the test software for household appliances is defined. This standard specifies the test environment and the test information as well as the means to acquire the information (either Web services or a data-exchange file).</abstract>
+  </front>
+</reference>

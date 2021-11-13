@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE 1610.2016" target="https://ieeexplore.ieee.org/document/7932241">
+  <front>
+    <title>IEEE Guide for the Application of Faulted Circuit Indicators on Distribution Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7932241"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2017" month="May" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Fault tolerant systems</keyword>
+    <keyword>Sensors</keyword>
+    <keyword>Circuit faults</keyword>
+    <keyword>fault circuit indicator</keyword>
+    <keyword>fault indicators</keyword>
+    <keyword>fault sensors</keyword>
+    <keyword>FCIs</keyword>
+    <keyword>IEEE 1610(TM)</keyword>
+    <abstract>Information on what a faulted circuit indicator (FCI) is designed to do, along with methods for selecting and applying FCIs for 200 / 600 A distribution circuits are described in this application guide.</abstract>
+  </front>
+</reference>

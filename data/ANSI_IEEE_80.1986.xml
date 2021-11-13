@@ -1,0 +1,14 @@
+<reference anchor="IEEE.ANSI/IEEE 80.1986" target="https://ieeexplore.ieee.org/document/27902">
+  <front>
+    <title>IEEE Guide for Safety in AC Substation Grounding</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81070"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Grounding</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <abstract>Outdoor AC substations, either conventional or gas-insulated, are covered in this guide. Distribution, transmission, and generating plant substations are also included. With proper caution, the methods described herein are also applicable to indoor portions of such substations, or to substations that are wholly indoors. No attempt is made to cover the grounding problems peculiar to dc substations. A quantitative analysis of the effects of lightning surges is also beyond the scope of this guide.</abstract>
+  </front>
+</reference>

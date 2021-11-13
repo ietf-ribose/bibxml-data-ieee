@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE 802-16-2.2004" target="https://ieeexplore.ieee.org/document/1300985">
+  <front>
+    <title>IEEE Recommended Practice for Local and Metropolitan Area Networks Coexistence of Fixed Broadband Wireless Access Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94549"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="September" day="10"/>
+    <keyword>Electromagnetic radiative interference</keyword>
+    <keyword>IEEE standards</keyword>
+    <keyword>Communication standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Broadband communication</keyword>
+    <keyword>Electromagnetic compatibility</keyword>
+    <keyword>Radio spectrum management</keyword>
+    <keyword>coexistence</keyword>
+    <keyword>fixed broadband wireless access (FBWA)</keyword>
+    <keyword>interference</keyword>
+    <keyword>local multipoint distribution service (LMDS)</keyword>
+    <keyword>millimeter waves</keyword>
+    <keyword>multichannel multipoint distribution service (MMDS)</keyword>
+    <keyword>microwaves</keyword>
+    <keyword>multipoint (MP)</keyword>
+    <keyword>point-to-multipoint (PMP)</keyword>
+    <keyword>radio</keyword>
+    <abstract>This recommended practice provides recommendations for the design and coordinated deployment of fixed broadband wireless access systems in order to control interference and facilitate coexistence. It analyzes appropriate coexistence scenarios and provides guidance for system design, deployment, coordination, and frequency usage. It generally addresses licensed spectrum between 2 GHz and 66 GHz, with a detailed emphasis on 3.5 GHz, 10.5 GHz, and 23.5 – 43.5 GHz.</abstract>
+  </front>
+</reference>

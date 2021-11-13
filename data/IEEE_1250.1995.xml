@@ -1,0 +1,20 @@
+<reference anchor="IEEE.IEEE 1250.1995" target="https://ieeexplore.ieee.org/document/8684663">
+  <front>
+    <title>IEEE Guide for Service to Equipment Sensitive to Momentary Voltage Disturbances</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.8684663"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>surge protection</keyword>
+    <keyword>power conditioners</keyword>
+    <keyword>momentary voltage disturbances</keyword>
+    <keyword>harmonic distortion</keyword>
+    <keyword>faults</keyword>
+    <keyword>disturbance analyzers</keyword>
+    <keyword>Surges</keyword>
+    <keyword>Sensitive equipment</keyword>
+    <keyword>Noise</keyword>
+    <abstract>Computers, computer-like products, and equipment using solid-state power conversion have created entirely new areas of power quality considerations. There is an increasing awareness that much of this new user equipment is not designed to withstand the surges, faults, and reclosing duty present on typical distribution systems. Momentary voltage disturbances occuring in ac power distribution and utilization systems, their potential effects on this new, sensitive, user equipment, and guidance toward mitigation of these effects are described. Harmonic distortion limits are also discussed.</abstract>
+  </front>
+</reference>

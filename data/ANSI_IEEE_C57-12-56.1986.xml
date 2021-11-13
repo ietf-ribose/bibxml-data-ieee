@@ -1,0 +1,28 @@
+<reference anchor="IEEE.ANSI/IEEE C57-12-56.1986" target="https://ieeexplore.ieee.org/document/30699">
+  <front>
+    <title>IEEE Standard Test Procedure for Thermal Evaluation of Insulation Systems for Ventilated Dry-Type Power and Distribution Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.82562"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2018" month="November" day="19"/>
+    <keyword>Aging</keyword>
+    <keyword>Impulse testing</keyword>
+    <keyword>Insulation testing</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>evaluation</keyword>
+    <keyword>dry-type</keyword>
+    <keyword>thermal</keyword>
+    <keyword>Power transformer insulation</keyword>
+    <abstract>This IEEE Standards product is part of the C57 family on Power Distribution and Regulating Transformers. A test procedure for determining the temperature classification of ventilated dry-type power and distribution transformer insulation systems by test rather than by chemical composition is established. The intent is to provide a uniform method for providing data for selection of the temperature classification of the insulation system, for providing data that may be used as a basis for a loading guide, and for comparative evaluation of different insulation systems. Voltage-withstand endpoint criteria are related to the impulse voltage distribution within the coil or to the initial voltage-withstand of the coil. A relationship between impulse withstand of the insulation and short-term 60-Hz-withstand is identified so that 50/60--Hz testing of model coils is possible.</abstract>
+  </front>
+</reference>

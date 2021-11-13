@@ -1,0 +1,33 @@
+<reference anchor="IEEE.IEEE P2700/D-1.00.2013-12" target="https://ieeexplore.ieee.org/document/6835118">
+  <front>
+    <title>IEEE Standard for Sensor Performance Parameter Definitions</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2014" month="June" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Sensor systems</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Parameter estimation</keyword>
+    <keyword>Time to market</keyword>
+    <keyword>ambient light</keyword>
+    <keyword>accelerometer</keyword>
+    <keyword>gyroscope</keyword>
+    <keyword>humidity</keyword>
+    <keyword>IEEE 2700</keyword>
+    <keyword>magnetometer</keyword>
+    <keyword>MEMS</keyword>
+    <keyword>microelectromechanical proximity</keyword>
+    <keyword>sensors systems</keyword>
+    <keyword>pressure</keyword>
+    <keyword>temperature</keyword>
+    <keyword>terminology</keyword>
+    <abstract>A common framework for sensor performance specification terminology, units, conditions and limits is provided. Specifically, the accelerometer, magnetometer, gyrometer/gyroscope, barometer/pressure sensors, hygrometer/humidity sensors, temperature sensors, ambient light sensors, and proximity sensors are discussed.</abstract>
+  </front>
+</reference>

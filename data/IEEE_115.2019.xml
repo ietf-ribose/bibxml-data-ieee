@@ -1,0 +1,26 @@
+<reference anchor="IEEE.IEEE 115.2019" target="https://ieeexplore.ieee.org/document/9050934">
+  <front>
+    <title>IEEE Guide for Test Procedures for Synchronous Machines Including Acceptance and Performance Testing and Parameter Determination for Dynamic Analysis</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9050934"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="March" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Synchronous motors</keyword>
+    <keyword>Performance evaluation</keyword>
+    <keyword>Parameter estimation</keyword>
+    <keyword>acceptance and performance testing</keyword>
+    <keyword>dynamic analysis</keyword>
+    <keyword>IEEE 115</keyword>
+    <keyword>parameter determination</keyword>
+    <keyword>synchronous machines</keyword>
+    <abstract>Instructions for conducting generally applicable and accepted tests to determine the performance characteristics of synchronous machines are contained in this guide. Although the tests described are applicable in general to synchronous generators, synchronous motors (larger than fractional horsepower), synchronous condensers, and synchronous frequency changers, the descriptions make reference primarily to synchronous generators and synchronous motors.</abstract>
+  </front>
+</reference>

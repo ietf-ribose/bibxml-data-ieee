@@ -1,0 +1,35 @@
+<reference anchor="IEEE.IEEE P2401/D-5.2015-06" target="https://ieeexplore.ieee.org/document/7134673">
+  <front>
+    <title>IEEE Approved Draft Standard Format for LSI-Package-Board Interoperable Design</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2015" month="June" day="25"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Lage scale integration</keyword>
+    <keyword>Design methodology</keyword>
+    <keyword>Printed circuits</keyword>
+    <keyword>Electronics packaging</keyword>
+    <keyword>Packaging</keyword>
+    <keyword>Interoperability</keyword>
+    <keyword>Project management</keyword>
+    <keyword>Large Scale Integrated circuits</keyword>
+    <keyword>Packages for such LSI circuits</keyword>
+    <keyword>Printed Circuit Board</keyword>
+    <keyword>common interoperable format</keyword>
+    <keyword>project management</keyword>
+    <keyword>netlists</keyword>
+    <keyword>components</keyword>
+    <keyword>design rules</keyword>
+    <keyword>geometries</keyword>
+    <keyword>Verilog-HDL</keyword>
+    <keyword>design analysis.</keyword>
+    <abstract>A method is provided for specifying a common interoperable format for electronic systems design. The format provides a common way to specify information/data about the project management, netlists, components, design rules, and geometries used in LSI-Package-Board designs. The method provides the ability for electronic systems as a key consideration early in the design process, the design tools can use to exchange information/data seamlessly.</abstract>
+  </front>
+</reference>

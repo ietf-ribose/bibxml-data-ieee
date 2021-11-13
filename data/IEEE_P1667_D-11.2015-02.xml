@@ -1,0 +1,43 @@
+<reference anchor="IEEE.IEEE P1667/D-11.2015-02" target="https://ieeexplore.ieee.org/document/7053895">
+  <front>
+    <title>IEEE Draft Standard for Discovery, Authentication, and Authorization in Host Attachments of Storage Devices</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="March" day="3"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Trust management</keyword>
+    <keyword>Passwords</keyword>
+    <keyword>Smart cards</keyword>
+    <keyword>Data storage systems</keyword>
+    <keyword>Storage automation</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Universal Serial Bus</keyword>
+    <keyword>AUTHENTICATION</keyword>
+    <keyword>AUTHORIZATION</keyword>
+    <keyword>CF</keyword>
+    <keyword>COMPACTFLASH</keyword>
+    <keyword>DISCOVERY</keyword>
+    <keyword>EMMC</keyword>
+    <keyword>PASSWORD SILO</keyword>
+    <keyword>PROBE SILO</keyword>
+    <keyword>SAS</keyword>
+    <keyword>SATA</keyword>
+    <keyword>SCSI</keyword>
+    <keyword>SCTS</keyword>
+    <keyword>SECURITY</keyword>
+    <keyword>SILO</keyword>
+    <keyword>SMART CARD TRANSPORT SILO</keyword>
+    <keyword>STID</keyword>
+    <keyword>STORAGE</keyword>
+    <keyword>TCG STORAGE TRANSPORT SILO</keyword>
+    <keyword>TRANSPORT INDEPENDENT</keyword>
+    <keyword>TRUSTED COMPUTING GROUP</keyword>
+    <keyword>UAS</keyword>
+    <keyword>UFS</keyword>
+    <keyword>USB BOT</keyword>
+    <keyword>USB.</keyword>
+    <abstract>This standard defines discovery, authentication, and authorization protocols between hosts and storage devices over multiple transports. This standard specifies a new silo Type Identifier (STID) allocation process that uses the IEEE Registration Authority.</abstract>
+  </front>
+</reference>

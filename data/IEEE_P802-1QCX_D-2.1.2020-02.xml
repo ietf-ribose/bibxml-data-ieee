@@ -1,0 +1,30 @@
+<reference anchor="IEEE.IEEE P802-1Qcx/D-2.1.2020-02" target="https://ieeexplore.ieee.org/document/9001299">
+  <front>
+    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks Amendment: YANG Data Model for Connectivity Fault Management</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="February" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Fault diagnosis</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>CFM</keyword>
+    <keyword>Connectivity Fault Management</keyword>
+    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qcp&amp;#8482;</keyword>
+    <keyword>IEEE 802.1Qcx&amp;#8482;</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <keyword>YANG</keyword>
+    <abstract>YANG data model that supports configuration, status reporting, and monitoring for Connectivity Fault Management (CFM) for Two-Port MAC Relays, Customer VLAN Bridges, and Provider Bridges is further developed by this amendment to IEEE Std 802.1Q™-2018. See also IEEE Std 802.1Qcp™-2018 for the introduction of this YANG data model.</abstract>
+  </front>
+</reference>

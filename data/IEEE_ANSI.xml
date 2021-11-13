@@ -1,0 +1,23 @@
+<reference anchor="IEEE.IEEE ANSI" target="https://ieeexplore.ieee.org/document/27881">
+  <front>
+    <title>IEEE Standard for Control Switchboards</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81059"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Electric control equipment</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Switchgear testing</keyword>
+    <keyword>Switches</keyword>
+    <abstract>Ratings, construction, and testing of dead-front control switchboards containing, but not limited to, devices such as switches, control devices, instrumentation, metering, monitoring, protective and auxiliary relays, and regulating devices and accessories are covered. Switchboards for the control and protection of apparatus used for or associated with power generation, conversion, transmission, and distribution are included, but the standard is not limited to these. Industrial controls, communication equipment, switchboards for use on board ships, Class 1E switchboards for use in nuclear generating stations, and human factors are not considered.</abstract>
+  </front>
+</reference>

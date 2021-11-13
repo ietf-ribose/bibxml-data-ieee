@@ -1,0 +1,29 @@
+<reference anchor="IEEE.ANSI/IEEE 101.1987" target="https://ieeexplore.ieee.org/document/7473795">
+  <front>
+    <title>IEEE Guide for the Statistical Analysis of Thermal Life Test Data</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.7473795"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2016" month="May" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Statistical analysis</keyword>
+    <keyword>Thermal analysis</keyword>
+    <keyword>Accelerated aging</keyword>
+    <keyword>Data analysis</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Temperature distribution</keyword>
+    <keyword>statistical</keyword>
+    <keyword>analysis</keyword>
+    <keyword>thermal</keyword>
+    <keyword>life</keyword>
+    <keyword>test</keyword>
+    <abstract>Statistical analyses of data from thermally accelerated aging tests are described. The basis and use of statistical calculations are explained. Data analysis, estimation of the relationship between life and temperature, and the comparison between two sets of data are covered.</abstract>
+  </front>
+</reference>

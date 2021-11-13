@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 1720.2012" target="https://ieeexplore.ieee.org/document/6375745">
+  <front>
+    <title>IEEE Recommended Practice for Near-Field Antenna Measurements</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6375745"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2012" month="December" day="6"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Antenna measurements</keyword>
+    <keyword>Near-field radiation pattern</keyword>
+    <keyword>Calibration</keyword>
+    <keyword>antenna measurements</keyword>
+    <keyword>antenna near-field measurements</keyword>
+    <keyword>cylindrical near-field measurements</keyword>
+    <keyword>IEEE 1720</keyword>
+    <keyword>near-field measurements</keyword>
+    <keyword>planar near-field measurements</keyword>
+    <keyword>probe calibrations</keyword>
+    <keyword>spherical near-field measurements</keyword>
+    <abstract>Near-field test practices for the measurement of antenna properties are described in this document and near-field measurement practices for the three principal geometries: cylindrical, planar, and spherical are recommended. Measurement practices for the calibration of probes used as reference antennas in near-field measurements are also recommended.</abstract>
+  </front>
+</reference>

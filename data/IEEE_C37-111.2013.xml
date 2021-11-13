@@ -1,0 +1,22 @@
+<reference anchor="IEEE.IEEE C37-111.2013" target="https://ieeexplore.ieee.org/document/6512503">
+  <front>
+    <title>IEEE/IEC Measuring relays and protection equipment &amp;#8211; Part 24: Common format for transient data exchange (COMTRADE) for power systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6512503"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2013" month="May" day="2"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Power system p protection</keyword>
+    <keyword>Relays</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Data handling</keyword>
+    <keyword>Power systems planning</keyword>
+    <abstract>This standard defines a common format for the data files and exchange medium needed the interchange of various types of fault, test, and simulation data. The rapid evolution and implementation of digital devices for fault and transient data recording and testing in the electric utility industry have generated the need for a standard format for the exchange of time sequence data. These data are being used with various devices to enhance and automate the analysis, testing, evaluation, and simulation of power systems and related protection schemes during fault and disturbance conditions. Since each source of data may use a different proprietary format, a common data format is necessary to facilitate the exchange of such data between applications. This will facilitate the use of proprietary data in diverse applications and allow users of one proprietary system to use digital data from other systems.</abstract>
+  </front>
+</reference>
