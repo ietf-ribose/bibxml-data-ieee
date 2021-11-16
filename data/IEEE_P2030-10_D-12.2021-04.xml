@@ -1,6 +1,6 @@
-<reference anchor="IEEE.IEEE P2030-10/D-12.2021-04" target="https://ieeexplore.ieee.org/document/9440053">
+<reference anchor="IEEE.IEEE P2030-10/D-12.2021-04" target="https://ieeexplore.ieee.org/document/9438970">
   <front>
-    <title>IEEE Draft Standard for DC Microgrids for Rural and Remote Electricity Access Applications</title>
+    <title>IEEE Approved Draft Standard for DC Microgrids for Rural and Remote Electricity Access Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,13 +10,14 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="May" day="24"/>
+    <date year="2021" month="May" day="20"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Microgrids</keyword>
     <keyword>DC machines</keyword>
     <keyword>Rural areas</keyword>
-    <keyword>Electricity supply industry</keyword>
     <keyword>Power distribution</keyword>
+    <keyword>Electricity supply industry</keyword>
+    <keyword>Remote monitoring</keyword>
     <keyword>ELVDC</keyword>
     <keyword>IEEE 2030.10</keyword>
     <keyword>microgrid</keyword>

@@ -1,0 +1,28 @@
+<reference anchor="IEEE.IEEE 1910-1.2020" target="https://ieeexplore.ieee.org/document/9259266">
+  <front>
+    <title>IEEE Standard for Meshed Tree Bridging with Loop Free Forwarding</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9259266"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="November" day="13"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Brdiged circuits</keyword>
+    <keyword>Failure analysis</keyword>
+    <keyword>Mesh networks</keyword>
+    <keyword>IEEE 1910.1&amp;#8482;</keyword>
+    <keyword>loop-free broadcast frame forwarding</keyword>
+    <keyword>meshed trees</keyword>
+    <keyword>multi-meshed trees</keyword>
+    <keyword>optimal unicast frame forwarding paths</keyword>
+    <keyword>path redundancy</keyword>
+    <keyword>root redundancy</keyword>
+    <abstract>Meshed tree bridging protocol (MTBP) ensures that bridged network constituents receive high reliability in frame delivery in the event of link or bridge failures. MTBP is based on the meshed tree algorithm (MTA) that allows for simultaneous construction and maintenance of multiple trees or tree branches from a single root. In the event of tree branch failures due to link or bridge failures, another preconstructed and maintained branch exists as an immediate fallback. Recovery and tree pruning times in meshed tree bridging is minimal. Multiple roots should be preassigned to construct multiple distinguishable meshed trees from each root. In the event of a root bridge failure, the standby root and its meshed tree provides loop-free paths for frame forwarding with minimal recovery delays.</abstract>
+  </front>
+</reference>
