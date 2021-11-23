@@ -1,0 +1,43 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-1CM/Amd1.2019" target="https://ieeexplore.ieee.org/document/9620011">
+  <front>
+    <title>IEEE/ISO/IEC International Standard-Telecommunications and information exchange between information technology systems--Requirements for local and metropolitan area networks--Part 1CM:Time-sensitive networking for fronthaul</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9620011"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="November" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Urban areas</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Sensitivity</keyword>
+    <keyword>amendment</keyword>
+    <keyword>bridged network</keyword>
+    <keyword>CPRI</keyword>
+    <keyword>eCPRI</keyword>
+    <keyword>F1</keyword>
+    <keyword>fronthaul</keyword>
+    <keyword>IEEE 802</keyword>
+    <keyword>IEEE 802.1</keyword>
+    <keyword>IEEE 802.1CM</keyword>
+    <keyword>IEEE 802.1CMde</keyword>
+    <keyword>synchronization</keyword>
+    <keyword>time-sensitive networking</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Virtual Local Area Network</keyword>
+    <keyword>VLAN</keyword>
+    <keyword>VLAN Bridge</keyword>
+    <abstract>Enhancements to fronthaul profiles are defined in this amendment to IEEE Std 802.1CM(TM)-2018 in order to address new developments in fronthaul interface standards and in related synchronization and syntonization standards.</abstract>
+  </front>
+</reference>

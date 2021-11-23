@@ -1,0 +1,37 @@
+<reference anchor="IEEE.IEEE P1924-1/D-14.21" target="https://ieeexplore.ieee.org/document/9620017">
+  <front>
+    <title>IEEE Draft Recommended practice for developing energy efficient power-proportional digital architectures</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="November" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>Digital circuits</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Machine learning</keyword>
+    <keyword>Hardware acceleration</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>digital circuits</keyword>
+    <keyword>energy efficiency</keyword>
+    <keyword>energy efficient architectures</keyword>
+    <keyword>hardware accelerators</keyword>
+    <keyword>IEEE 1924.1TM</keyword>
+    <keyword>interconnects</keyword>
+    <keyword>Internet of Things</keyword>
+    <keyword>machine learning assisted design</keyword>
+    <keyword>on-chip memory</keyword>
+    <keyword>on-chip power distribution networks</keyword>
+    <keyword>power-proportional</keyword>
+    <keyword>processors</keyword>
+    <keyword>sensors</keyword>
+    <keyword>servers</keyword>
+    <abstract>A set of guidelines for the development of energy efficient and power-proportional digital architectures so that energy is only consumed when computations are underway and energy is reduced in the non-operating state is presented in this recommended practice. The purpose of this practice is to provide guidelines for the designers and developers of digital architectures for creating power-proportionality at different levels of the system.</abstract>
+  </front>
+</reference>
