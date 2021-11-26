@@ -1,4 +1,4 @@
-<reference anchor="IEEE.IEEE P4003/D-1.2020-08" target="https://ieeexplore.ieee.org/document/9250005">
+<reference anchor="IEEE.IEEE P4003/D-1.1.2021-05" target="https://ieeexplore.ieee.org/document/9626690">
   <front>
     <title>IEEE Draft Standard for Global Navigation Satellite System-Reflectometry (GNSS-R) Data and Metadata Content</title>
     <author>
@@ -10,11 +10,13 @@
         </postal>
       </address>
     </author>
-    <date year="2020" month="November" day="5"/>
+    <date year="2021" month="November" day="24"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Global Navigation Satellite System</keyword>
     <keyword>Satellite navigation systems</keyword>
-    <keyword>Metdata</keyword>
+    <keyword>Metadata</keyword>
+    <keyword>Reflectometry</keyword>
+    <keyword>Earth Observing System</keyword>
     <keyword>Earth observation</keyword>
     <keyword>GNSS-Reflectometry</keyword>
     <keyword>IEEE 4003</keyword>

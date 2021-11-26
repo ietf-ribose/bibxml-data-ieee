@@ -20,10 +20,11 @@
     <keyword>Synchronization</keyword>
     <keyword>calibration</keyword>
     <keyword>GNSS</keyword>
-    <keyword>IEEE C37.242&amp;#8482;</keyword>
+    <keyword>IEEE C37.242</keyword>
+    <keyword>phasor measurement unit</keyword>
     <keyword>PMU</keyword>
     <keyword>synchrophasor</keyword>
     <keyword>testing</keyword>
-    <abstract>Guidance for synchronization, calibration, testing, and installation of phasor measurement units (PMUs) applied in power systems is provided. The following are addressed in this guide: (a) Considerations for the installation of PMU devices based on application requirements and typical substation electrical bus configurations; (b) Techniques focusing on the overall accuracy and availability of the time synchronization system; (c) Test and calibration procedures for PMUs for laboratory and field applications; (d) Communications testing for connecting PMUs to other devices including Phasor Data Concentrators (PDCs).</abstract>
+    <abstract>Guidance for synchronization, calibration, testing, and installation of phasor measurement units (PMUs) applied in power systems is provided. The following are addressed in this guide: (a) considerations for the installation of PMU devices based on application requirements and typical substation electrical bus configurations; (b) techniques focusing on the overall accuracy and availability of the time synchronization system; (c) test and calibration procedures for PMUs for laboratory and field applications; and (d) communications testing for connecting PMUs to other devices including phasor data concentrators.</abstract>
   </front>
 </reference>

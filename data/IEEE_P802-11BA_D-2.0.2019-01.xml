@@ -11,12 +11,14 @@
     <keyword>Physical Layer</keyword>
     <keyword>Information exchange</keyword>
     <keyword>Media Access Protocol</keyword>
-    <keyword>wake-up radio</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
+    <keyword>IEEE 802.11</keyword>
+    <keyword>IEEE 802.11ba</keyword>
     <keyword>MAC</keyword>
     <keyword>medium access control</keyword>
+    <keyword>PHY</keyword>
+    <keyword>physical layer</keyword>
     <keyword>power save</keyword>
-    <abstract>This amendment defines modifications to both the IEEE 802.11 physical layer (PHY) and the medium access control (MAC) sublayer for wake-up radio operation.</abstract>
+    <keyword>wake-up radio</keyword>
+    <abstract>This amendment defines modifications to both the IEEE 802.11 physical layer (PHY) and the IEEE 802.11 medium access control (MAC) sublayer for wake-up radio operation.</abstract>
   </front>
 </reference>
