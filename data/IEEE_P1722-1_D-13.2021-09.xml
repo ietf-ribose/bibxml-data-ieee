@@ -1,6 +1,6 @@
 <reference anchor="IEEE.IEEE P1722-1/D-13.2021-09" target="https://ieeexplore.ieee.org/document/9535428">
   <front>
-    <title>IEEE Draft Standard for Device Discovery, Connection Management, and Control Protocol for Time-Sensitive Networking Systems</title>
+    <title>IEEE Approved Draft Standard for Device Discovery, Connection Management, and Control Protocol for Time-Sensitive Networking Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -11,6 +11,11 @@
       </address>
     </author>
     <date year="2021" month="September" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Synchronization</keyword>
+    <keyword>Streaming media</keyword>
+    <keyword>Quality of service</keyword>
     <keyword>AVDECC</keyword>
     <keyword>ATDECC</keyword>
     <keyword>bridged LAN</keyword>
