@@ -1,0 +1,16 @@
+<reference anchor="IEEE.ISO/IEC/IEEE DIS P24641.2021-09" target="https://ieeexplore.ieee.org/document/9652504">
+  <front>
+    <title>ISO/IEC/IEEE Draft International Standard - Systems and software engineering &amp;#8211; Methods and Tools for Model-based Systems and Software Engineering</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="December" day="15"/>
+    <abstract>This International Standard, within the context of methods and tools for MBSSE: • Provides terms and definitions related to MBSSE; • Defines MBSSE-specific processes for model-based systems and software engineering; the processes are described in terms of purpose, inputs, tasks, and outcomes; • Defines methods to support the defined tasks of each process; • Defines tool capabilities to automate/semi-automate tasks or methods. The processes defined in this document are applicable for a single project, as well as for an organization performing multiple projects. These processes are applicable for managing and performing the systems engineering activities based on models within any stage in the life cycle of a system of interest. Annex D (informative) Relationship with other standards describes the relationships between this document and other standards.</abstract>
+  </front>
+</reference>

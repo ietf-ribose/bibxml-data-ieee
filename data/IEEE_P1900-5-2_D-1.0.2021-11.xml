@@ -1,0 +1,16 @@
+<reference anchor="IEEE.IEEE P1900-5-2/D-1.0.2021-11" target="https://ieeexplore.ieee.org/document/9652495">
+  <front>
+    <title>IEEE Draft Standard Method for Modeling Spectrum Consumption</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="December" day="15"/>
+    <abstract>A vendor-independent generalized method for modeling spectrum consumption of any type of use of radio frequency spectrum and the attendant computations for arbitrating the compatibility among models are defined in this standard. The methods of modeling are chosen to support the development of tractable algorithms for determining the compatibility between models and for performing various spectrum management tasks that operate on a plurality of models. The modeling methods are exclusively focused on capturing spectrum use but are defined in a schema that can be joined with other schemata related to spectrum management</abstract>
+  </front>
+</reference>

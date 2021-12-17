@@ -1,0 +1,38 @@
+<reference anchor="IEEE.IEEE P802-3ck/D-3.0.2021-12" target="https://ieeexplore.ieee.org/document/9650813">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Electrical Interfaces Based on 100 Gb/s Signaling</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="December" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Forward error correction</keyword>
+    <keyword>100GAUI-1</keyword>
+    <keyword>100GBASE-CR1</keyword>
+    <keyword>100GBASE-KR1</keyword>
+    <keyword>100 Gigabit Ethernet</keyword>
+    <keyword>200GAUI-2</keyword>
+    <keyword>200GBASE-CR2</keyword>
+    <keyword>200GBASE-KR2</keyword>
+    <keyword>200 Gigabit Ethernet</keyword>
+    <keyword>400GAUI-4</keyword>
+    <keyword>400GBASE-CR4</keyword>
+    <keyword>400GBASE-KR4</keyword>
+    <keyword>400 Gigabit Ethernet</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>FEC</keyword>
+    <keyword>forward error correction</keyword>
+    <keyword>IEEE 802.3&amp;#8482;</keyword>
+    <keyword>IEEE 802.3ck&amp;#8482;</keyword>
+    <abstract>This amendment to IEEE Std 802.3-202x adds Clause 161 through Clause 163, Annex 120F, Annex 120G, and Annex 162A through Annex 162D, Annex 163A, and Annex 163B. This amendment includes Physical Layer specifications and management parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s electrical interfaces based on 100 Gb/s signaling.</abstract>
+  </front>
+</reference>

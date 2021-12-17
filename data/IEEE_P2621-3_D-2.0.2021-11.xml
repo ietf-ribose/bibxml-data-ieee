@@ -1,6 +1,6 @@
-<reference anchor="IEEE.IEEE P2621-2/D-1.0.2021-03" target="https://ieeexplore.ieee.org/document/9469030">
+<reference anchor="IEEE.IEEE P2621-3/D-2.0.2021-11" target="https://ieeexplore.ieee.org/document/9650807">
   <front>
-    <title>IEEE Draft Standard for Wireless Diabetes Device Security--Information Security Requirements for Connected Diabetes Solutions</title>
+    <title>IEEE Draft Recommended Practice for Wireless Diabetes Device Security - Use of Mobile Devices in Diabetes Control Contexts</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,13 +10,13 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="June" day="30"/>
+    <date year="2021" month="December" day="14"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Quality assurance</keyword>
     <keyword>Diabetes</keyword>
-    <keyword>Biomedical monitoring</keyword>
-    <keyword>Security</keyword>
-    <keyword>Mobile communication</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>Quality assurance</keyword>
+    <keyword>Microprogramming</keyword>
     <keyword>security</keyword>
     <keyword>assurance</keyword>
     <keyword>diabetes</keyword>

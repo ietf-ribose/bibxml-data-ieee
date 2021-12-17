@@ -1,6 +1,7 @@
-<reference anchor="IEEE.IEEE P1936-1/D-7.0.21" target="https://ieeexplore.ieee.org/document/9529156">
+<reference anchor="IEEE.IEEE 1936-1.2021" target="https://ieeexplore.ieee.org/document/9652498">
   <front>
-    <title>IEEE Approved Draft Standard for Drone Applications Framework</title>
+    <title>IEEE Standard for Drone Applications Framework</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9652498"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,14 +11,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Drones</keyword>
-    <keyword>Unmanned aerial vehicles</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Emergency services</keyword>
-    <keyword>Personnel</keyword>
-    <keyword>Safety</keyword>
+    <date year="2021" month="December" day="15"/>
     <keyword>airspace</keyword>
     <keyword>airworthiness</keyword>
     <keyword>confidentiality</keyword>

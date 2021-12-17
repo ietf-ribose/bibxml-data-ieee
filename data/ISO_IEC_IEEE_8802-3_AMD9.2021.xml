@@ -1,0 +1,40 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-3/Amd9.2021" target="https://ieeexplore.ieee.org/document/9650819">
+  <front>
+    <title>IEEE/ISO/IEC International Standard-Telecommunications and exchange between information technology systems &amp;#8212; Requirements for local and metropolitan area networks &amp;#8212; Part 3: Standard for Ethernet AMENDMENT 9: Physical layer specifications and management parameters for 25 Gb/s and 50 Gb/s passive optical networks</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9650819"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="December" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>EPON</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Passive optical networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>25 Gb/s Ethernet passive optical networks (25G-EPON)</keyword>
+    <keyword>50 Gb/s Ethernet passive optical networks (50G-EPON)</keyword>
+    <keyword>amendment</keyword>
+    <keyword>forward error correction (FEC)</keyword>
+    <keyword>IEEE 802.3</keyword>
+    <keyword>IEEE 802.3ca</keyword>
+    <keyword>Multi-Channel Reconciliation Sublayer (MCRS)</keyword>
+    <keyword>Multipoint MAC Control (MPMC)</keyword>
+    <keyword>Physical Coding Sublayer (PCS)</keyword>
+    <keyword>Physical Media Attachment (PMA)</keyword>
+    <keyword>Physical Medium Dependent (PMD)</keyword>
+    <keyword>PON</keyword>
+    <keyword>Point-to-Multipoint (P2MP)</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2018 extends the operation of Ethernet passive optical networks (EPONs) to multiple channels of 25 Gb/s providing both symmetric and asymmetric operation for the following data rates downstream/upstream): 25/10 Gb/s, 25/25 Gb/s, 50/10 Gb/s, 50/25 Gb/s, and 50/50 Gb/s. This standard specifies the 25 Gb/s EPON Multi-Channel Reconciliation Sublayer (MCRS), Nx25G-EPON Physical Coding Sublayers (PCSs), Physical Media Attachment (PMA) sublayers, and Physical Medium Dependent (PMD) sublayers that support both symmetric and asymmetric data rates while maintaining backward compatibility with already deployed 10 Gb/s EPON equipment. Backward compatibility with deployed 1G-EPON and ITU-T G.984 GPON is maintained with 25GBASE-PQ for the specific case of 1G-EPON and GPON ONUs using reduced-band (40 nm) lasers. The EPON operation is defined for distances of at least 20 km, and for a split ratio of at least 1:32.</abstract>
+  </front>
+</reference>

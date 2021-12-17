@@ -1,0 +1,50 @@
+<reference anchor="IEEE.ISO/IEC/IEEE 8802-1X.2021" target="https://ieeexplore.ieee.org/document/9650828">
+  <front>
+    <title>IEEE/ISO/IEC International Standard-Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 1X:Port-based network access control</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9650828"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="December" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Access control</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Computer security</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Urban areas</keyword>
+    <keyword>access control</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>controlled port</keyword>
+    <keyword>EAP</keyword>
+    <keyword>EAPOL</keyword>
+    <keyword>IEEE 802.1X</keyword>
+    <keyword>key agreement</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MACsec</keyword>
+    <keyword>MACsec Key Agreement</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>MKA</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>service access point</keyword>
+    <keyword>uncontrolled port</keyword>
+    <abstract>Port-based network access control allows a network administrator to restrict the use of IEEE 802(R) LAN service access points (ports) to secure communication between authenticated and authorized devices. This standard specifies a common architecture, functional elements, and protocols that support mutual authentication between the clients of ports attached to the same LAN and that secure communication between the ports, including the media access method independent protocols that are used to discover and establish the security associations used by IEEE 802.1AE(TM) MAC Security.</abstract>
+  </front>
+</reference>
