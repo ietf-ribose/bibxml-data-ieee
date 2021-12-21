@@ -1,6 +1,7 @@
-<reference anchor="IEEE.IEEE P802-1ACct/D-2.0.2021-09" target="https://ieeexplore.ieee.org/document/9535434">
+<reference anchor="IEEE.IEEE 802-1ACct.2021" target="https://ieeexplore.ieee.org/document/9654156">
   <front>
-    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks -- Media Access Control (MAC) Service Definition Amendment 1: Support for IEEE Std 802.15.3</title>
+    <title>IEEE Standard for Local and Metropolitan Area networks--Media Access Control (MAC) Service Definition-Amendment 1: Support for IEEE Std 802.15.3</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9654156"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -10,14 +11,14 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="10"/>
+    <date year="2021" month="December" day="16"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Ad hoc networks</keyword>
-    <keyword>Multimedia communication</keyword>
-    <keyword>Wireless communication</keyword>
     <keyword>Local area networks</keyword>
     <keyword>Metropolitan area networks</keyword>
-    <keyword>Media Access Protocols</keyword>
+    <keyword>Ad hoc networks</keyword>
+    <keyword>Multimedia communications</keyword>
+    <keyword>Service level agreements</keyword>
+    <keyword>Media Access Protocol</keyword>
     <keyword>ad-hoc network</keyword>
     <keyword>IEEE 802.1AC</keyword>
     <keyword>IEEE 802.15.3</keyword>

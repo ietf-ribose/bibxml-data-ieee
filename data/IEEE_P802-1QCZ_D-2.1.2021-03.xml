@@ -1,0 +1,25 @@
+<reference anchor="IEEE.IEEE P802-1Qcz/D-2.1.2021-03" target="https://ieeexplore.ieee.org/document/9655612">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks Amendment: Congestion Isolation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2021" month="December" day="17"/>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>Local Area Networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>Data Center Bridging</keyword>
+    <keyword>priority</keyword>
+    <keyword>flow control</keyword>
+    <keyword>congestion</keyword>
+    <keyword>congestion isolation.</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q™-2018 specifies protocols, procedures and managed objects that support the isolation of congesting data flows within data center environments.</abstract>
+  </front>
+</reference>
