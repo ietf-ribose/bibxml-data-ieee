@@ -1,4 +1,4 @@
-<reference anchor="IEEE.IEEE P1547-9/D-5.1.2021-09" target="https://ieeexplore.ieee.org/document/9540815">
+<reference anchor="IEEE.IEEE P1547-9/D-5.2.2021-12" target="https://ieeexplore.ieee.org/document/9658337">
   <front>
     <title>IEEE Draft Guide to Using IEEE Std 1547(TM) for Interconnection of Energy Storage Distributed Energy Resources with Electric Power Systems</title>
     <author>
@@ -10,14 +10,12 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="17"/>
+    <date year="2021" month="December" day="21"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>Energy storage</keyword>
-    <keyword>Frequency response</keyword>
     <keyword>Power systems</keyword>
-    <keyword>Interoperability</keyword>
+    <keyword>Energy storage</keyword>
     <keyword>Distributed power generation</keyword>
-    <keyword>Resource management</keyword>
+    <keyword>Best practices</keyword>
     <keyword>active power export</keyword>
     <keyword>bidirectional</keyword>
     <keyword>black start participation</keyword>
