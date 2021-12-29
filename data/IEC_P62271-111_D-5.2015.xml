@@ -1,8 +1,14 @@
-<reference anchor="IEEE.IEC P62271-111/D-5.2015" target="https://ieeexplore.ieee.org/document/7208775">
+<reference anchor="IEC P62271-111/IEEE PC37-60/D-5.2015" target="https://ieeexplore.ieee.org/document/7208775">
   <front>
     <title>IEC/IEEE Draft International Standard - High-voltage switchgear and controlgear - Part 111: Automatic circuit reclosers for alternating current systems up to and including 38 kV</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="August" day="18"/>
     <keyword>IEEE Standards</keyword>
