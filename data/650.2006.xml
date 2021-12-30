@@ -1,0 +1,20 @@
+<reference anchor="IEEE.650.2006" target="https://ieeexplore.ieee.org/document/1687838">
+  <front>
+    <title>IEEE Standard for Qualification of Class 1E Static Battery Chargers and Inverters for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.229164"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="February" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Qualifications</keyword>
+    <keyword>Battery chargers</keyword>
+    <keyword>Inverters</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>battery charger</keyword>
+    <keyword>inverter</keyword>
+    <keyword>qualification</keyword>
+    <abstract>Methods for qualifying static battery chargers and inverters for Class 1E installations outside containment in nuclear power generating stations are described. These methods may also be used to qualify similar electronic equipment for use in applications outside containment, where specific standards for such equipment are not available. The qualification methods set forth employ a combination of type testing and analysis, the latter including a justification of methods, theories, and assumptions used. These procedures meet the requirements of IEEE Std 323-2003.</abstract>
+  </front>
+</reference>

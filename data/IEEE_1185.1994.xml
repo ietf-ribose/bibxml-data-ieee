@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1185.1994" target="https://ieeexplore.ieee.org/document/392571">
+<reference anchor="IEEE.1185.1994" target="https://ieeexplore.ieee.org/document/392571">
   <front>
     <title>IEEE Guide for Installation Methods for Generating Station Cables</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121435"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

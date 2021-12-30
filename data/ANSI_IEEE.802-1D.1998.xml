@@ -1,0 +1,19 @@
+<reference anchor="ANSI/IEEE.802-1D.1998" target="https://ieeexplore.ieee.org/document/1389253">
+  <front>
+    <title>IEEE Standard for Local Area Network MAC (Media Access Control) Bridges</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.95619"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Bridges</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>LAN</keyword>
+    <keyword>media access control bridges</keyword>
+    <keyword>MAC Bridge management</keyword>
+    <abstract>The concept of Media Access Control (MAC) Bridging, introduced in the 1993 edition of this standard, has been expanded to define additional capabilities in Bridged LANs aimed at providing for expedited traffic capabilities, to support the transmission of time-critical information in a LAN environment; and providing filtering services that support the dynamic use of Group MAC Addresses in a LAN environment.</abstract>
+  </front>
+</reference>

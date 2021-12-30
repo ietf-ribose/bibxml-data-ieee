@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE DIS P24774.2020-07" target="https://ieeexplore.ieee.org/document/9177419">
+<reference anchor="ISO/IEC/IEEE.DIS.P24774.2020-07" target="https://ieeexplore.ieee.org/document/9177419">
   <front>
     <title>ISO/IEC/IEEE Draft International Standard - Systems and software engineering--Life cycle management--Specification for process description</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="August" day="25"/>
     <keyword>IEEE Standards</keyword>

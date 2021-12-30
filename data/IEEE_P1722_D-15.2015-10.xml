@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1722/D-15.2015-10" target="https://ieeexplore.ieee.org/document/7299238">
+<reference anchor="IEEE.P1722/D-15.2015-10" target="https://ieeexplore.ieee.org/document/7299238">
   <front>
     <title>IEEE Draft Standard for a Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="October" day="15"/>
     <keyword>IEEE Standards</keyword>

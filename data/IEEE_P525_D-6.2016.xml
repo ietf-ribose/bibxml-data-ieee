@@ -1,8 +1,14 @@
-<reference anchor="IEEE P525/D-6.2016" target="https://ieeexplore.ieee.org/document/7466761">
+<reference anchor="IEEE.P525/D-6.2016" target="https://ieeexplore.ieee.org/document/7466761">
   <front>
     <title>IEEE Guide for the Design and Installation of Cable Systems in Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="May" day="9"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-114.2004" target="https://ieeexplore.ieee.org/document/1453059">
+<reference anchor="IEEE.C37-114.2004" target="https://ieeexplore.ieee.org/document/1453059">
   <front>
     <title>IEEE Guide for Determining Fault Location on AC Transmission and Distribution Lines</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96207"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="December" day="2"/>
     <keyword>IEEE Standards</keyword>

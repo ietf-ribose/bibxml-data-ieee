@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 1010.1987" target="https://ieeexplore.ieee.org/document/25323">
+<reference anchor="ANSI/IEEE.1010.1987" target="https://ieeexplore.ieee.org/document/25323">
   <front>
     <title>IEEE Guide for Control of Hydroelectric Power Plants</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.121941"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Hydroelectric power generation</keyword>

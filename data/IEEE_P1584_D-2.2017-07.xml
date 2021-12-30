@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1584/D-2.2017-07" target="https://ieeexplore.ieee.org/document/7982728">
+<reference anchor="IEEE.P1584/D-2.2017-07" target="https://ieeexplore.ieee.org/document/7982728">
   <front>
     <title>IEEE Draft Guide for Performing Arc-Flash Hazard Calculations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="July" day="15"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-10407/D-7.2019-04" target="https://ieeexplore.ieee.org/document/8705039">
+<reference anchor="IEEE.P11073-10407/D-7.2019-04" target="https://ieeexplore.ieee.org/document/8705039">
   <front>
     <title>IEEE Draft Standard - Health Informatics - Personal Health Device Communication - Device Specialization - Blood Pressure Monitor</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May" day="2"/>
     <keyword>IEEE Standards</keyword>

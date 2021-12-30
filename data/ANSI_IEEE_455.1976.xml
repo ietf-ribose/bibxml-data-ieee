@@ -1,9 +1,14 @@
-<reference anchor="ANSI/IEEE 455.1976" target="https://ieeexplore.ieee.org/document/7422618">
+<reference anchor="ANSI/IEEE.455.1976" target="https://ieeexplore.ieee.org/document/7422618">
   <front>
     <title>IEEE Standard Test Procedure for Measuring Longitudinal Balance of Telephone Equipment Operating in the Voice Band</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.7422618"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="1"/>
     <keyword>IEEE Standards</keyword>

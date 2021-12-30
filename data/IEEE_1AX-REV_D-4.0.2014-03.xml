@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1AX-REV/D-4.0.2014-03" target="https://ieeexplore.ieee.org/document/6783946">
+<reference anchor="IEEE.1AX-REV/D-4.0.2014-03" target="https://ieeexplore.ieee.org/document/6783946">
   <front>
     <title>IEEE Draft Standard for Local and metropolitan area networks--Link Aggregation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="April" day="7"/>
     <keyword>IEEE standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI N42-42.2006" target="https://ieeexplore.ieee.org/document/6202310">
+<reference anchor="ANSI.N42-42.2006" target="https://ieeexplore.ieee.org/document/6202310">
   <front>
     <title>American National Standard Data Format Standard for Radiation Detectors Used for Homeland Security</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.6202310"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="May" day="17"/>
     <keyword>IEEE standards</keyword>

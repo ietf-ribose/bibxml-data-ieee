@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-121/D-1.6.2020-07" target="https://ieeexplore.ieee.org/document/9134994">
+<reference anchor="IEEE.PC37-121/D-1.6.2020-07" target="https://ieeexplore.ieee.org/document/9134994">
   <front>
     <title>IEEE Approved Draft Guide for Switchgear - Unit Substation - Requirements</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="7"/>
     <keyword>IEEE Standards</keyword>

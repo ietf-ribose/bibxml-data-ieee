@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1246/D-25.2020-10" target="https://ieeexplore.ieee.org/document/9224253">
+<reference anchor="IEEE.P1246/D-25.2020-10" target="https://ieeexplore.ieee.org/document/9224253">
   <front>
     <title>IEEE Approved Draft Guide for Temporary Protective Grounding Systems Used in Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="October" day="14"/>
     <keyword>IEEE Standards</keyword>

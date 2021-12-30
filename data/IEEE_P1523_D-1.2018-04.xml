@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1523/D-1.2018-04" target="https://ieeexplore.ieee.org/document/8371760">
+<reference anchor="IEEE.P1523/D-1.2018-04" target="https://ieeexplore.ieee.org/document/8371760">
   <front>
     <title>IEEE Draft Guide for the Application, Maintenance, and Evaluation of Room Temperature Vulcanizing (RTV) Silicone Rubber Coatings for Outdoor Ceramic Insulators</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="4"/>
     <keyword>IEEE Standards</keyword>

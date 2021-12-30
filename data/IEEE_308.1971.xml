@@ -1,9 +1,14 @@
-<reference anchor="IEEE 308.1971" target="https://ieeexplore.ieee.org/document/6714366">
+<reference anchor="IEEE.308.1971" target="https://ieeexplore.ieee.org/document/6714366">
   <front>
     <title>IEEE Standard Criteria for Class IE Electric Systems for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1971.6714366"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="January" day="16"/>
     <keyword>IEEE standards</keyword>

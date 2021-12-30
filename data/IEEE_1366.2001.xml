@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1366.2001" target="https://ieeexplore.ieee.org/document/8684511">
+<reference anchor="IEEE.1366.2001" target="https://ieeexplore.ieee.org/document/8684511">
   <front>
     <title>IEEE Guide for Electric Power Distribution Reliability Indices</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.8684511"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>circuits</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-3.2015" target="https://ieeexplore.ieee.org/document/7428776">
+<reference anchor="IEEE.802-3.2015" target="https://ieeexplore.ieee.org/document/7428776">
   <front>
     <title>IEEE Standard for Ethernet</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7428776"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="8"/>
     <keyword>IEEE Standards</keyword>

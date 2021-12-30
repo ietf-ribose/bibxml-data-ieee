@@ -1,8 +1,14 @@
-<reference anchor="ANSI PC63-17/D-0.9" target="https://ieeexplore.ieee.org/document/6519927">
+<reference anchor="ANSI.PC63-17/D-0.9" target="https://ieeexplore.ieee.org/document/6519927">
   <front>
     <title>Draft American National Standard Methods of Measurement of the Electromagnetic and Operational Compatibility of Unlicensed Personal Communications Services (UPCS) Devices</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="24"/>
     <keyword>IEEE standards</keyword>

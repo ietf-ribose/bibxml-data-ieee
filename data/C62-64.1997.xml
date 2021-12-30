@@ -1,0 +1,17 @@
+<reference anchor="IEEE.C62-64.1997" target="https://ieeexplore.ieee.org/document/636812">
+  <front>
+    <title>IEEE Standard Specifications for Surge Protectors Used in Low-Voltage Data, Communications, and Signaling Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.84240"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="October" day="3"/>
+    <keyword>Wire communication cables</keyword>
+    <keyword>communications circuits</keyword>
+    <keyword>data circuits</keyword>
+    <keyword>electrical protection</keyword>
+    <keyword>signaling circuits</keyword>
+    <keyword>surge protectors</keyword>
+    <abstract>This standard applies to surge protectors for application on multiconductor and coaxial, balanced or unbalanced, data, communications, and signaling circuits with voltages less than or equal to 1000 V rms, or 1200 V dc. These surge protectors are intended to limit voltage surges, current surges, or both.</abstract>
+  </front>
+</reference>

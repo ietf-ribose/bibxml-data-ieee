@@ -1,9 +1,15 @@
-<reference anchor="IEEE 484.2002" target="https://ieeexplore.ieee.org/document/1186714">
+<reference anchor="IEEE.484.2002" target="https://ieeexplore.ieee.org/document/1186714">
   <front>
     <title>IEEE Recommended Practice for Installation Design and Installation of Vented Lead-Acid Batteries for Stationary Applications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94237"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="22"/>
     <keyword>alarms</keyword>

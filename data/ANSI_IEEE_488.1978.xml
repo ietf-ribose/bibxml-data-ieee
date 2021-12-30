@@ -1,9 +1,14 @@
-<reference anchor="ANSI/IEEE 488.1978" target="https://ieeexplore.ieee.org/document/7425098">
+<reference anchor="ANSI/IEEE.488.1978" target="https://ieeexplore.ieee.org/document/7425098">
   <front>
     <title>IEEE Standard Digital Interface for Programmable Instrumentation</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.7425098"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="3"/>
     <keyword>IEEE Standards</keyword>

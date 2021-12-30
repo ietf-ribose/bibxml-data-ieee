@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-16s/D-2.2017-03" target="https://ieeexplore.ieee.org/document/7900318">
+<reference anchor="IEEE.P802-16s/D-2.2017-03" target="https://ieeexplore.ieee.org/document/7900318">
   <front>
     <title>IEEE Draft Standard for Air Interface for Broadband Wireless Access Systems - Draft Amendment 1 to IEEE Std 802.16-9 20xx: Fixed and Mobile Wireless Access in Channel Bandwidth up to 1.25 MHz</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="April" day="14"/>
     <keyword>IEEE Standards</keyword>

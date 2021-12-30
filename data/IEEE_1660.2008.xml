@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1660.2008" target="https://ieeexplore.ieee.org/document/4690900">
+<reference anchor="IEEE.1660.2008" target="https://ieeexplore.ieee.org/document/4690900">
   <front>
     <title>IEEE Guide for Application and Management of Stationary Batteries Used in Cycling Service</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4690900"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February" day="6"/>
     <keyword>IEEE Standards</keyword>

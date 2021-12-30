@@ -1,9 +1,15 @@
-<reference anchor="IEEE 487.1992" target="https://ieeexplore.ieee.org/document/210903">
+<reference anchor="IEEE.487.1992" target="https://ieeexplore.ieee.org/document/210903">
   <front>
     <title>IEEE Recommended Practice for the Protection of Wire-Line Communication Facilities Serving Electric Power Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114372"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Protection</keyword>

@@ -1,0 +1,25 @@
+<reference anchor="IEEE.P802-15-4k/D-3.2012-11" target="https://ieeexplore.ieee.org/document/6409373">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Part 15.4: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Low Rate Wireless Personal Area Networks (WPANs) Amendment - Physical Layer (PHY) Specifications for Low Energy, Critical Infrastructure Monitoring Networks (LECIM)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="January" day="10"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>This amendment to IEEE Std 802.15.4-2011 provides two PHYs (DSSS and FSK) that support critical infrastructure monitoring applications. In addition, the amendment describes only those MAC modifications needed to support the implementation of the two PHYs.</abstract>
+  </front>
+</reference>

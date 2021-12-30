@@ -1,9 +1,14 @@
-<reference anchor="IEEE 382.2006" target="https://ieeexplore.ieee.org/document/4135881">
+<reference anchor="IEEE.382.2006" target="https://ieeexplore.ieee.org/document/4135881">
   <front>
     <title>IEEE Standard for Qualification of Safety-Related Actuators for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.335899"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November" day="22"/>
     <keyword>IEEE Standards</keyword>

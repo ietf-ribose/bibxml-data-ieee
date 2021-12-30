@@ -1,9 +1,14 @@
-<reference anchor="ANSI N42-34.2006" target="https://ieeexplore.ieee.org/document/4079480">
+<reference anchor="ANSI.N42-34.2006" target="https://ieeexplore.ieee.org/document/4079480">
   <front>
     <title>American National Standard Performance Criteria for Hand-held Instruments for the Detection and Identification of Radionuclides</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299335"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="November" day="10"/>
     <keyword>Instruments</keyword>

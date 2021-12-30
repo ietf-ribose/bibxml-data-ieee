@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE C37-90-1.1989" target="https://ieeexplore.ieee.org/document/89892">
+<reference anchor="ANSI/IEEE.C37-90-1.1989" target="https://ieeexplore.ieee.org/document/89892">
   <front>
     <title>IEEE Standard Surge Withstand Capability (SWC) Tests for Protective Relays and Relay Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94811"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Protective relaying</keyword>

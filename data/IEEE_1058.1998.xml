@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1058.1998" target="https://ieeexplore.ieee.org/document/741937">
+<reference anchor="IEEE.1058.1998" target="https://ieeexplore.ieee.org/document/741937">
   <front>
     <title>IEEE Standard for Software Project Management Plans</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88822"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="March" day="19"/>
     <keyword>IEEE standards</keyword>

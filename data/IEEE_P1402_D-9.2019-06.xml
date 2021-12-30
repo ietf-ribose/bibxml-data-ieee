@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1402/D-9.2019-06" target="https://ieeexplore.ieee.org/document/8799041">
+<reference anchor="IEEE.P1402/D-9.2019-06" target="https://ieeexplore.ieee.org/document/8799041">
   <front>
     <title>IEEE Draft Guide for Physical Security of Electric Power Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August" day="14"/>
     <keyword>IEEE Standards</keyword>

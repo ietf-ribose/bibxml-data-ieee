@@ -1,8 +1,14 @@
-<reference anchor="IEC/IEEE CD P65700-19-03" target="https://ieeexplore.ieee.org/document/6835145">
+<reference anchor="IEC/IEEE.CD.P65700-19-03" target="https://ieeexplore.ieee.org/document/6835145">
   <front>
     <title>IEEE/IEC Approved Draft Standard for Bushings for DC application</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="June" day="16"/>
     <keyword>IEEE standards</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-12-34.2009" target="https://ieeexplore.ieee.org/document/7317476">
+<reference anchor="IEEE.C57-12-34.2009" target="https://ieeexplore.ieee.org/document/7317476">
   <front>
     <title>IEEE Standard Requirements for Pad-Mounted, Compartmental-Type, Self-Cooled, Three-Phase Distribution Transformers, 5 MVA and Smaller; High Voltage, 34.5 kV Nominal System Voltage and Below; Low Voltage, 15 kV Nominal System Voltage &amp;amp; Below</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.7317476"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="November" day="3"/>
     <keyword>IEEE Standards</keyword>

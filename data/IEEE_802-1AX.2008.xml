@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-1AX.2008" target="https://ieeexplore.ieee.org/document/4668665">
+<reference anchor="IEEE.802-1AX.2008" target="https://ieeexplore.ieee.org/document/4668665">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks--Link Aggregation</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4668665"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="December" day="24"/>
     <keyword>IEEE standards</keyword>

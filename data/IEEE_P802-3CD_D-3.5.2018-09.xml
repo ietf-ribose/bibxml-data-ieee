@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-3cd/D-3.5.2018-09" target="https://ieeexplore.ieee.org/document/8472333">
+<reference anchor="IEEE.P802-3cd/D-3.5.2018-09" target="https://ieeexplore.ieee.org/document/8472333">
   <front>
     <title>IEEE Approved Draft Standard for Ethernet Amendment: Media Access Control Parameters for 50 Gb/s and Physical Layers and Management Parameters for 50 Gb/s, 100 Gb/s, and 200 Gb/s Operation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September" day="25"/>
     <keyword>IEEE Standards</keyword>

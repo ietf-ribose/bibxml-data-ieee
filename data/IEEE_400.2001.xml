@@ -1,9 +1,15 @@
-<reference anchor="IEEE 400.2001" target="https://ieeexplore.ieee.org/document/982216">
+<reference anchor="IEEE.400.2001" target="https://ieeexplore.ieee.org/document/982216">
   <front>
     <title>IEEE Guide for Field Testing and Evaluation of the Insulation of Shielded Power Cable Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93394"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="6"/>
     <keyword>IEEE Standards</keyword>

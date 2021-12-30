@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1635.2012" target="https://ieeexplore.ieee.org/document/6338983">
+<reference anchor="IEEE.1635.2012" target="https://ieeexplore.ieee.org/document/6338983">
   <front>
     <title>IEEE/ASHRAE Guide for the Ventilation and Thermal Management of Batteries for Stationary Applications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6338983"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="October" day="24"/>
     <keyword>IEEE standards</keyword>

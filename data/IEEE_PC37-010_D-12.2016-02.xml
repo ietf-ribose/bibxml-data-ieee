@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-010/D-12.2016-02" target="https://ieeexplore.ieee.org/document/7423641">
+<reference anchor="IEEE.PC37-010/D-12.2016-02" target="https://ieeexplore.ieee.org/document/7423641">
   <front>
     <title>IEEE Draft Application Guide for AC High-Voltage Circuit Breakers &amp;#x003E; 1000 Vac Rated on a Symmetrical Current Basis</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="2"/>
     <keyword>IEEE Standards</keyword>

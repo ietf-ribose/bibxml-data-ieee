@@ -1,9 +1,15 @@
-<reference anchor="IEEE 421-5.1992" target="https://ieeexplore.ieee.org/document/182869">
+<reference anchor="IEEE.421-5.1992" target="https://ieeexplore.ieee.org/document/182869">
   <front>
     <title>IEEE Recommended Practice for Excitation System Models for Power System Stability Studies</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106975"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Power system control</keyword>

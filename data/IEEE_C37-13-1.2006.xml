@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-13-1.2006" target="https://ieeexplore.ieee.org/document/4013614">
+<reference anchor="IEEE.C37-13-1.2006" target="https://ieeexplore.ieee.org/document/4013614">
   <front>
     <title>IEEE Standard for Definite Purpose Switching Devices for Use in Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.248142"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February" day="16"/>
     <keyword>IEEE Standards</keyword>

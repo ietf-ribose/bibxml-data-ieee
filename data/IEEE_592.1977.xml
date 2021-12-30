@@ -1,9 +1,15 @@
-<reference anchor="IEEE 592.1977" target="https://ieeexplore.ieee.org/document/27731">
+<reference anchor="IEEE.592.1977" target="https://ieeexplore.ieee.org/document/27731">
   <front>
     <title>IEEE Standard for Exposed Semiconducting Shields on Premolded High Voltage Cable Joints and Separable Insulated Connectors</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.80734"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Connectors</keyword>

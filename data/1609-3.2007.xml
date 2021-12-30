@@ -1,0 +1,26 @@
+<reference anchor="IEEE.1609-3.2007" target="https://ieeexplore.ieee.org/document/4167674">
+  <front>
+    <title>IEEE Trial-Use Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.353212"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="July" day="4"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Standards Board</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Intelligent transportation systems</keyword>
+    <keyword>OBU</keyword>
+    <keyword>onboard unit</keyword>
+    <keyword>Provider Service Identifier</keyword>
+    <keyword>PSID</keyword>
+    <keyword>roadside unit</keyword>
+    <keyword>RSU</keyword>
+    <keyword>WAVE</keyword>
+    <keyword>Wireless Access in Vehicular Environments</keyword>
+    <keyword>WSM</keyword>
+    <abstract>WAVE networking services provides services to WAVE devices and systems. It represents roughly layers 3 and 4 of the OSI model and the IP, UDP, and TCP elements of the Internet model. The services provided include management and data services within WAVE devices.</abstract>
+  </front>
+</reference>

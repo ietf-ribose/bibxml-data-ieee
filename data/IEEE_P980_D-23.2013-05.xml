@@ -1,8 +1,14 @@
-<reference anchor="IEEE P980/D-23.2013-05" target="https://ieeexplore.ieee.org/document/6587050">
+<reference anchor="IEEE.P980/D-23.2013-05" target="https://ieeexplore.ieee.org/document/6587050">
   <front>
     <title>IEEE Draft Guide for Containment and Control of Oil Spills in Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="26"/>
     <keyword>IEEE standards</keyword>

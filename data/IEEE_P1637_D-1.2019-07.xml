@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1637/D-1.2019-07" target="https://ieeexplore.ieee.org/document/8850355">
+<reference anchor="IEEE.P1637/D-1.2019-07" target="https://ieeexplore.ieee.org/document/8850355">
   <front>
     <title>IEEE Draft Guide for Selecting and Applying Terminations for Shielded Alternating-Current Power Cable Rated 5 kV - 46 kV</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September" day="26"/>
     <keyword>IEEE Standards</keyword>

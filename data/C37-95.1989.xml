@@ -1,0 +1,16 @@
+<reference anchor="IEEE.C37-95.1989" target="https://ieeexplore.ieee.org/document/89895">
+  <front>
+    <title>IEEE Guide for Protective Relaying of Utility-Consumer Interconnections</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94903"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="April" day="30"/>
+    <keyword>Power system protection</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Interconnection tie</keyword>
+    <keyword>protective relaying of utility-consumer interconnections</keyword>
+    <abstract>IEEE C37.95-1989, IEEE Guide for Protective Relaying of Utility-Consumer Interconnections, is intended to cover applications involving service to a consumer that normally requires a transformation between the utility's supply voltage and the consumer's utilization voltage. Interconnections supplied at the ultimate utilization voltage are not covered.</abstract>
+  </front>
+</reference>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1283/D-8.2013-04" target="https://ieeexplore.ieee.org/document/6502641">
+<reference anchor="IEEE.P1283/D-8.2013-04" target="https://ieeexplore.ieee.org/document/6502641">
   <front>
     <title>IEEE Approved Draft Guide for Determining the Effects of High Temperature Operation on Conductors, Connectors, and Accessories</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="April" day="16"/>
     <keyword>IEEE standards</keyword>

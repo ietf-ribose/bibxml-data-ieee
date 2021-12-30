@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-21a/D-4.2019-08" target="https://ieeexplore.ieee.org/document/8822853">
+<reference anchor="IEEE.PC37-21a/D-4.2019-08" target="https://ieeexplore.ieee.org/document/8822853">
   <front>
     <title>IEEE Draft Standard for Control Switchboards Amendment 1: Control and Secondary Circuits and Devices, and All Wiring</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September" day="2"/>
     <keyword>IEEE Standards</keyword>

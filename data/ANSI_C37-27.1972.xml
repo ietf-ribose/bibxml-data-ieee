@@ -1,9 +1,14 @@
-<reference anchor="ANSI C37-27.1972" target="https://ieeexplore.ieee.org/document/7407575">
+<reference anchor="ANSI.C37-27.1972" target="https://ieeexplore.ieee.org/document/7407575">
   <front>
     <title>IEEE Standard Application Guide for Low-Voltage AC Non-Integrally Fused Power Circuit Breakers (Using Separately Mounted Current-Limiting Fuses)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7407575"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="16"/>
     <keyword>IEEE Standards</keyword>

@@ -1,0 +1,22 @@
+<reference anchor="IEEE.P802-1Qcr/D-2.0.2019-12" target="https://ieeexplore.ieee.org/document/8937112">
+  <front>
+    <title>IEEE Draft Standard for Local and metropolitan area networks--Bridges and Bridged Networks Amendment: Asynchronous Traffic Shaping</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="December" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolita area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Telecommunication traffic</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>Local Area Networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>Metropolitan Area Networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>Traffic Shaping</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q-2018 specifies procedures and managed objects for a Bridge to perform asynchronous traffic shaping over full-duplex links with constant bit data rates.</abstract>
+  </front>
+</reference>

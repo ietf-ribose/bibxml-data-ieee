@@ -1,8 +1,14 @@
-<reference anchor="IEEE P112/D-8.2017-07" target="https://ieeexplore.ieee.org/document/8053938">
+<reference anchor="IEEE.P112/D-8.2017-07" target="https://ieeexplore.ieee.org/document/8053938">
   <front>
     <title>IEEE Draft Standard Test Procedure for Polyphase Induction Motors and Generators</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="September" day="29"/>
     <keyword>IEEE Standards</keyword>

@@ -1,0 +1,19 @@
+<reference anchor="IEEE.P11073-10420/D-2.2019-12" target="https://ieeexplore.ieee.org/document/8930427">
+  <front>
+    <title>IEEE Draft Standard - Health Informatics - Personal Health Device Communication Part 10420: Device Specialization - Body Composition Analyzer</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="December" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Body regions</keyword>
+    <keyword>body composition analyzer</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of the communication between personal body composition analyzing devices and managers (e.g., cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology and IEEE 11073-20601(TM) information models. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth body composition analyzer devices. In this context, body composition analyzer devices are being used broadly to cover body composition analyzer devices that measure body impedances, and compute the various body components including body fat from the impedance.</abstract>
+  </front>
+</reference>

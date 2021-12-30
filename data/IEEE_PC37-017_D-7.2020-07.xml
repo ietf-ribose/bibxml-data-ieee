@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-017/D-7.2020-07" target="https://ieeexplore.ieee.org/document/9138816">
+<reference anchor="IEEE.PC37-017/D-7.2020-07" target="https://ieeexplore.ieee.org/document/9138816">
   <front>
     <title>IEEE Draft Standard for Bushings for High-Voltage [over 1000 V (ac)] Circuit Breakers and Gas-Insulated Switchgear</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="10"/>
     <keyword>IEEE Standards</keyword>

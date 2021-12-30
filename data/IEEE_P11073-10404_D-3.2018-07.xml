@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-10404/D-3.2018-07" target="https://ieeexplore.ieee.org/document/8429936">
+<reference anchor="IEEE.P11073-10404/D-3.2018-07" target="https://ieeexplore.ieee.org/document/8429936">
   <front>
     <title>IEEE Draft Standard - Health Informatics - Personal Health Device Communication - Part 10404: Device Specialization - Pulse Oximeter</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August" day="8"/>
     <keyword>IEEE Standards</keyword>

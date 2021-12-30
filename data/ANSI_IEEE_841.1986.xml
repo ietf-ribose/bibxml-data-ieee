@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 841.1986" target="https://ieeexplore.ieee.org/document/26574">
+<reference anchor="ANSI/IEEE.841.1986" target="https://ieeexplore.ieee.org/document/26574">
   <front>
     <title>IEEE Recommended Practice for Chemical Industry Severe Duty Squirrel-Cage Induction Motors-600 V and Below</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.79643"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Chemical industry</keyword>

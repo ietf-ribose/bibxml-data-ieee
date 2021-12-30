@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-111.1991" target="https://ieeexplore.ieee.org/document/159102">
+<reference anchor="IEEE.C37-111.1991" target="https://ieeexplore.ieee.org/document/159102">
   <front>
     <title>IEEE Standard Common Format for Transient Data Exchange (COMTRADE) for Power Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101025"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Failure analysis</keyword>

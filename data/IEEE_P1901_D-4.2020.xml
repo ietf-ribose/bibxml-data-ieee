@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1901/D-4.2020" target="https://ieeexplore.ieee.org/document/8994245">
+<reference anchor="IEEE.P1901/D-4.2020" target="https://ieeexplore.ieee.org/document/8994245">
   <front>
     <title>IEEE Draft Standard for Broadband over Power Line Networks: Medium Access Control and Physical Layer Specifications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="11"/>
     <keyword>IEEE Standards</keyword>

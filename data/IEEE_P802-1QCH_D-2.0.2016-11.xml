@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1Qch/D-2.0.2016-11" target="https://ieeexplore.ieee.org/document/7747722">
+<reference anchor="IEEE.P802-1Qch/D-2.0.2016-11" target="https://ieeexplore.ieee.org/document/7747722">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks Amendment: Cyclic Queuing and Forwarding</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November" day="17"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1657.2009" target="https://ieeexplore.ieee.org/document/5357370">
+<reference anchor="IEEE.1657.2009" target="https://ieeexplore.ieee.org/document/5357370">
   <front>
     <title>IEEE Recommended Practice for Personnel Qualifications for Installation and Maintenance of Stationary Batteries</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5357370"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="October" day="1"/>
     <keyword>IEEE Standards</keyword>

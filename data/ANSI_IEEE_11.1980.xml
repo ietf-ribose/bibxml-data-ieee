@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 11.1980" target="https://ieeexplore.ieee.org/document/7736242">
+<reference anchor="ANSI/IEEE.11.1980" target="https://ieeexplore.ieee.org/document/7736242">
   <front>
     <title>IEEE Standard for Rotating Electric Machinery for Rail and Road Vehicles</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7736242"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November" day="4"/>
     <keyword>IEEE Standards</keyword>

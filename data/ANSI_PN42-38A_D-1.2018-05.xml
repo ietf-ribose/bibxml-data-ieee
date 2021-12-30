@@ -1,8 +1,14 @@
-<reference anchor="ANSI PN42-38a/D-1.2018-05" target="https://ieeexplore.ieee.org/document/8653541">
+<reference anchor="ANSI.PN42-38a/D-1.2018-05" target="https://ieeexplore.ieee.org/document/8653541">
   <front>
     <title>Draft American National Standard for Performance Criteria for Spectroscopy-Based Portal Monitors Used for Homeland Security</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February" day="26"/>
     <keyword>IEEE Standards</keyword>

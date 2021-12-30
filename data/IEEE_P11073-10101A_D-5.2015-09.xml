@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-10101a/D-5.2015-09" target="https://ieeexplore.ieee.org/document/7286940">
+<reference anchor="IEEE.P11073-10101a/D-5.2015-09" target="https://ieeexplore.ieee.org/document/7286940">
   <front>
     <title>IEEE Draft Standard Health informatics - Point-of-care medical device communication - Nomenclature Amendment 1: Additional definitions</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="October" day="1"/>
     <keyword>IEEE Standards</keyword>

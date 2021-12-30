@@ -1,9 +1,14 @@
-<reference anchor="IEEE/ANSI 24.1984" target="https://ieeexplore.ieee.org/document/7378253">
+<reference anchor="IEEE/ANSI.24.1984" target="https://ieeexplore.ieee.org/document/7378253">
   <front>
     <title>IEEE Standard Performance Characteristics and Dimensions for Outdoor Apparatus Bushings</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7378253"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="11"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1826/D-3.6.2020-04" target="https://ieeexplore.ieee.org/document/9086179">
+<reference anchor="IEEE.P1826/D-3.6.2020-04" target="https://ieeexplore.ieee.org/document/9086179">
   <front>
     <title>IEEE Approved Draft Standard for Power Electronics Open System Interfaces in Zonal Electrical Distribution Systems Rated Above 100 kW</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May" day="4"/>
     <keyword>IEEE Standards</keyword>

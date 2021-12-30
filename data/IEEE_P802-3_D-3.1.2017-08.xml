@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-3/D-3.1.2017-08" target="https://ieeexplore.ieee.org/document/8024207">
+<reference anchor="IEEE.P802-3/D-3.1.2017-08" target="https://ieeexplore.ieee.org/document/8024207">
   <front>
     <title>IEEE Draft Standard for Ethernet Amendment 12: Physical Layer Specifications and Management Parameters for 2.5 Gb/s and 5 Gb/s Operation over Backplane</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="September" day="1"/>
     <keyword>IEEE Standards</keyword>

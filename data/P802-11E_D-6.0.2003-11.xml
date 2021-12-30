@@ -1,0 +1,17 @@
+<reference anchor="IEEE.P802-11e/D-6.0.2003-11" target="https://ieeexplore.ieee.org/document/8629405">
+  <front>
+    <title>IEEE Draft Amendment to Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications - Amendment: Medium Access Method (MAC) Quality of Service Enhancements</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="January" day="29"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Quality of service</keyword>
+    <abstract>This amendment is based on the current edition of IEEE Std 802.11, 1999 (Reaff 2003) Edition and IEEE Std 802.11g, 2003 and IEEE Std 802.11h, 2003. Defines the MAC procedures to support LAN applications with Quality of Service (QoS) requirements, including the transport of voice, audio and video over IEEE 802.11 wireless LANs.</abstract>
+  </front>
+</reference>

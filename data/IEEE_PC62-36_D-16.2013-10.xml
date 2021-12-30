@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-36/D-16.2013-10" target="https://ieeexplore.ieee.org/document/6654213">
+<reference anchor="IEEE.PC62-36/D-16.2013-10" target="https://ieeexplore.ieee.org/document/6654213">
   <front>
     <title>IEEE Draft Standard for Test Methods for Surge Protectors Used in Low-Voltage Data, Communications, and Signaling Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="November" day="4"/>
     <keyword>IEEE standards</keyword>

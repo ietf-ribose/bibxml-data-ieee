@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1667.2015" target="https://ieeexplore.ieee.org/document/7389949">
+<reference anchor="IEEE.1667.2015" target="https://ieeexplore.ieee.org/document/7389949">
   <front>
     <title>IEEE Standard for Discovery, Authentication, and Authorization in Host Attachments of Storage Devices</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7389949"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="22"/>
     <keyword>IEEE Standards</keyword>

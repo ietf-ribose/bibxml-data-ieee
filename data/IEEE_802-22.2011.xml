@@ -1,9 +1,15 @@
-<reference anchor="IEEE 802-22.2011" target="https://ieeexplore.ieee.org/document/5951707">
+<reference anchor="IEEE.802-22.2011" target="https://ieeexplore.ieee.org/document/5951707">
   <front>
     <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) specifications: Policies and procedures for operation in the TV Bands</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5951707"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="31"/>
     <keyword>IEEE standards</keyword>

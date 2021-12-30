@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-238/D-21.2.2017-01" target="https://ieeexplore.ieee.org/document/7818131">
+<reference anchor="IEEE.PC37-238/D-21.2.2017-01" target="https://ieeexplore.ieee.org/document/7818131">
   <front>
     <title>IEEE Draft Standard Profile for Use of IEEE 1588 Precision Time Protocol in Power System Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="January" day="13"/>
     <keyword>IEEE Standards</keyword>

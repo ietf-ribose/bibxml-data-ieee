@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-140.2006" target="https://ieeexplore.ieee.org/document/4168522">
+<reference anchor="IEEE.C57-140.2006" target="https://ieeexplore.ieee.org/document/4168522">
   <front>
     <title>IEEE Guide for Evaluation and reconditioning of Liquid Immersed Power Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.353650"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="November" day="23"/>
     <keyword>IEEE Standards</keyword>

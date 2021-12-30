@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1048a/D-002.2020-02" target="https://ieeexplore.ieee.org/document/9094413">
+<reference anchor="IEEE.P1048a/D-002.2020-02" target="https://ieeexplore.ieee.org/document/9094413">
   <front>
     <title>IEEE Guide for Protective Grounding of Power Lines - Amendment</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May" day="15"/>
     <keyword>IEEE Standards</keyword>

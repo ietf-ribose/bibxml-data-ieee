@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1647/D-3.2019-04" target="https://ieeexplore.ieee.org/document/8739153">
+<reference anchor="IEEE.P1647/D-3.2019-04" target="https://ieeexplore.ieee.org/document/8739153">
   <front>
     <title>IEEE Approved Standard for the Functional Verification Language e</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June" day="18"/>
     <keyword>IEEE Standards</keyword>

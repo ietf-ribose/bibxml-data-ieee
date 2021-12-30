@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1445.1998" target="https://ieeexplore.ieee.org/document/754766">
+<reference anchor="IEEE.1445.1998" target="https://ieeexplore.ieee.org/document/754766">
   <front>
     <title>IEEE Standard for Digital Test Interchange Format (DTIF)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89205"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>IEEE standards</keyword>
     <abstract>The information content and the data formats for the interchange of digital test program data between digital automated test program generators (DATPGs) and automatic test equipment (ATE) for board-level printed circuit assemblies are defined. This information can be broadly grouped into data that defines the following: the UUT (unit under test) model, stimulus and response, the fault dictionary, and probes.</abstract>

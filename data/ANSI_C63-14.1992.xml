@@ -1,9 +1,15 @@
-<reference anchor="ANSI C63-14.1992" target="https://ieeexplore.ieee.org/document/585094">
+<reference anchor="ANSI.C63-14.1992" target="https://ieeexplore.ieee.org/document/585094">
   <front>
     <title>American National Standard Dictionary for Technologies of Electromagnetic Compatibility (EMC), Electromagnetic Pulse (EMP), and Electrostatic Discharge (ESD)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.82138"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Electromagnetic compatibility</keyword>

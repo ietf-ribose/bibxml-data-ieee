@@ -1,8 +1,14 @@
-<reference anchor="IEEE P776/D-10.2018-10" target="https://ieeexplore.ieee.org/document/8488751">
+<reference anchor="IEEE.P776/D-10.2018-10" target="https://ieeexplore.ieee.org/document/8488751">
   <front>
     <title>IEEE Approved Draft Recommended Practice for Inductive Coordination of Electric Supply and Communication Lines</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October" day="10"/>
     <keyword>IEEE Standards</keyword>

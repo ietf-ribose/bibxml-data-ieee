@@ -1,0 +1,31 @@
+<reference anchor="IEEE.P802-1AEbw/D-1.0.2012-06" target="https://ieeexplore.ieee.org/document/6293817">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security Amendment: Extended Packet Numbering</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="August" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metrpolitan area networks</keyword>
+    <keyword>Network security</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>authorized port</keyword>
+    <keyword>confidentiality</keyword>
+    <keyword>data origin authenticity</keyword>
+    <keyword>integrity</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MAC Service</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>port based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>security</keyword>
+    <keyword>transparent bridging.</keyword>
+    <abstract>This amendment specifies the optional use of Cipher Suites that make use of a 64-bit (PN) to allow more than 232 MACsec protected frames to be sent with a single Secure Association Key.</abstract>
+  </front>
+</reference>

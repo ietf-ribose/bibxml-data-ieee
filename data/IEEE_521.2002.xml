@@ -1,9 +1,15 @@
-<reference anchor="IEEE 521.2002" target="https://ieeexplore.ieee.org/document/1160089">
+<reference anchor="IEEE.521.2002" target="https://ieeexplore.ieee.org/document/1160089">
   <front>
     <title>IEEE Standard Letter Designations for Radar-Frequency Bands</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94224"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="21"/>
     <keyword>frequency</keyword>

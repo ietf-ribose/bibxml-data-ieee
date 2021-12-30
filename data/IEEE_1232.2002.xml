@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1232.2002" target="https://ieeexplore.ieee.org/document/1075984">
+<reference anchor="IEEE.1232.2002" target="https://ieeexplore.ieee.org/document/1075984">
   <front>
     <title>(Replaced) IEEE Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI- ESTATE)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94148"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="19"/>
     <keyword>IEEE standards</keyword>

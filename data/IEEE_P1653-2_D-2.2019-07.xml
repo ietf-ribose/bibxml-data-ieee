@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1653-2/D-2.2019-07" target="https://ieeexplore.ieee.org/document/8809971">
+<reference anchor="IEEE.P1653-2/D-2.2019-07" target="https://ieeexplore.ieee.org/document/8809971">
   <front>
     <title>IEEE Draft Standard for Uncontrolled Traction Power Rectifiers for Substation Applications Up to 1500 V DC Nominal Output</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August" day="22"/>
     <keyword>IEEE Standards</keyword>

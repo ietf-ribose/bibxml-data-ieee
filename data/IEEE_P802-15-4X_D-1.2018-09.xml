@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-15-4x/D-1.2018-09" target="https://ieeexplore.ieee.org/document/8526566">
+<reference anchor="IEEE.P802-15-4x/D-1.2018-09" target="https://ieeexplore.ieee.org/document/8526566">
   <front>
     <title>IEEE Draft Standard for Low-Rate Wireless Networks Amendment Defining Enhancements to the Smart Utility Network (SUN) Physical Layers (PHYs) Supporting up to 2.4 Mb/s Data Rates</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="November" day="7"/>
     <keyword>IEEE Standards</keyword>

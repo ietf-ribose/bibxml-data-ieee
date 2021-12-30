@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1459.2000" target="https://ieeexplore.ieee.org/document/985671">
+<reference anchor="IEEE.1459.2000" target="https://ieeexplore.ieee.org/document/985671">
   <front>
     <title>IEEE Standard Definitions for the Measurement of Electric Power Quantities under Sinusoidal, Non-Sinusoidal, Balanced, or Unbalanced Conditions</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.93398"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

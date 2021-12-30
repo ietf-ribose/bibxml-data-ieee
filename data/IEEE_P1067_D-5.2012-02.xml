@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1067/D-5.2012-02" target="https://ieeexplore.ieee.org/document/6276277">
+<reference anchor="IEEE.P1067/D-5.2012-02" target="https://ieeexplore.ieee.org/document/6276277">
   <front>
     <title>IEEE Draft Guide for In-Service Use, Care, Maintenance, and Testing of Conductive Clothing for Use on Voltages Up to 765 kV ac and +/-750 kV dc</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="August" day="21"/>
     <keyword>IEEE standards</keyword>

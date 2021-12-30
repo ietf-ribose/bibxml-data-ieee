@@ -1,8 +1,14 @@
-<reference anchor="IEEE P81/D-11.2012-08" target="https://ieeexplore.ieee.org/document/6334398">
+<reference anchor="IEEE.P81/D-11.2012-08" target="https://ieeexplore.ieee.org/document/6334398">
   <front>
     <title>IEEE Guide for Measuring Earth Resistivity, Ground Impedance, and Earth Surface Potentials of a Grounding System</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="October" day="18"/>
     <keyword>IEEE standards</keyword>

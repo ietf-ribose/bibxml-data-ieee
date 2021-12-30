@@ -1,8 +1,14 @@
-<reference anchor="IEEE P145/D-D3.2013" target="https://ieeexplore.ieee.org/document/6583217">
+<reference anchor="IEEE.P145/D-D3.2013" target="https://ieeexplore.ieee.org/document/6583217">
   <front>
     <title>IEEE Draft Standard Definitions of Terms for Antennas</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="20"/>
     <keyword>IEEE standards</keyword>

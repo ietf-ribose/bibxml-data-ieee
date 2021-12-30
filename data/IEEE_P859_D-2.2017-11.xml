@@ -1,8 +1,14 @@
-<reference anchor="IEEE P859/D-2.2017-11" target="https://ieeexplore.ieee.org/document/8388763">
+<reference anchor="IEEE.P859/D-2.2017-11" target="https://ieeexplore.ieee.org/document/8388763">
   <front>
     <title>IEEE Approved Draft Standard Terms for Reporting and Analyzing Outage Occurrences and Outage States of Electrical Transmission Facilities</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="19"/>
     <keyword>IEEE Standards</keyword>

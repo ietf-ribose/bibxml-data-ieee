@@ -1,9 +1,14 @@
-<reference anchor="ANSI/IEEE 730.1981" target="https://ieeexplore.ieee.org/document/7435204">
+<reference anchor="ANSI/IEEE.730.1981" target="https://ieeexplore.ieee.org/document/7435204">
   <front>
     <title>IEEE Standard for Software Quality Assurance Plans</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7435204"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="17"/>
     <keyword>IEEE Standards</keyword>

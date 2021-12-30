@@ -1,0 +1,32 @@
+<reference anchor="IEEE.1012.2012" target="https://ieeexplore.ieee.org/document/6204026">
+  <front>
+    <title>IEEE Standard for System and Software Verification and Validation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6204026"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="May" day="23"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>Formal verification</keyword>
+    <keyword>Hazards</keyword>
+    <keyword>Environmental factors</keyword>
+    <keyword>Product life cycle management</keyword>
+    <keyword>Security</keyword>
+    <keyword>Software reusability</keyword>
+    <keyword>environmental verification and validation (V&amp;amp;V) factors</keyword>
+    <keyword>hardware V&amp;amp;V</keyword>
+    <keyword>IEEE 1012</keyword>
+    <keyword>integrity level</keyword>
+    <keyword>independent V&amp;amp;V (IV&amp;amp;V)</keyword>
+    <keyword>risk/hazard/security analyses</keyword>
+    <keyword>software life cycle</keyword>
+    <keyword>software V&amp;amp;V</keyword>
+    <keyword>system life cycle</keyword>
+    <keyword>system V&amp;amp;V</keyword>
+    <keyword>V&amp;amp;V</keyword>
+    <keyword>V&amp;amp;V measures</keyword>
+    <keyword>V&amp;amp;V of reuse software</keyword>
+    <abstract>Verification and validation (V&amp;V) processes are used to determine whether the development products of a given activity conform to the requirements of that activity and whether the product satisfies its intended use and user needs. V&amp;V life cycle process requirements are specified for different integrity levels. The scope of V&amp;V processes encompasses systems, software, and hardware, and it includes their interfaces. This standard applies to systems, software, and hardware being developed, maintained, or reused [legacy, commercial off-the-shelf (COTS), nondevelopmental items]. The term software also includes firmware and microcode, and each of the terms system, software, and hardware includes documentation. V&amp;V processes include the analysis, evaluation, review, inspection, assessment, and testing of products.</abstract>
+  </front>
+</reference>

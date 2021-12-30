@@ -1,9 +1,14 @@
-<reference anchor="IEEE 2401.2015" target="https://ieeexplore.ieee.org/document/7360839">
+<reference anchor="IEEE.2401.2015" target="https://ieeexplore.ieee.org/document/7360839">
   <front>
     <title>IEEE Standard Format for LSI-Package-Board Interoperable Design</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7360839"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="December" day="18"/>
     <keyword>IEEE Standards</keyword>

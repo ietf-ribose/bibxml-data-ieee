@@ -1,8 +1,14 @@
-<reference anchor="IEEE 317" target="https://ieeexplore.ieee.org/document/9096952">
+<reference anchor="IEEE.317" target="https://ieeexplore.ieee.org/document/9096952">
   <front>
     <title>IEEE Standard for Electrical Penetration Assemblies in Containment Structures for Nuclear Fueled Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="May" day="19"/>
     <keyword>IEEE Standards</keyword>

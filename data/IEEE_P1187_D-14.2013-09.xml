@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1187/D-14.2013-09" target="https://ieeexplore.ieee.org/document/6758455">
+<reference anchor="IEEE.P1187/D-14.2013-09" target="https://ieeexplore.ieee.org/document/6758455">
   <front>
     <title>IEEE Draft Recommended Practice for Installation Design and Installation of Valve-Regulated Lead-Acid Batteries for Stationary Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="March" day="6"/>
     <keyword>IEEE standards</keyword>

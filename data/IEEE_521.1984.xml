@@ -1,9 +1,15 @@
-<reference anchor="IEEE 521.1984" target="https://ieeexplore.ieee.org/document/29086">
+<reference anchor="IEEE.521.1984" target="https://ieeexplore.ieee.org/document/29086">
   <front>
     <title>IEEE Standard Letter Designations for Radar-Frequency Bands</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81588"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="February" day="20"/>
     <keyword>Terminology</keyword>

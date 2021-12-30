@@ -1,0 +1,21 @@
+<reference anchor="IEEE.420.1982" target="https://ieeexplore.ieee.org/document/574823">
+  <front>
+    <title>IEEE Standard for the Design and Qualification of Class 1E Control Boards, Panels, and Racks Used in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81709"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="February" day="24"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Qualifications</keyword>
+    <keyword>Nuclear power generation</keyword>
+    <keyword>Accidents</keyword>
+    <keyword>Task analysis</keyword>
+    <keyword>qualifications</keyword>
+    <keyword>1E</keyword>
+    <keyword>control</keyword>
+    <keyword>panels</keyword>
+    <keyword>racks</keyword>
+    <abstract>Design requirements that are unique to Class 1E control boards, panels, and racks are specified. Standards for qualification tests to verify that these design requirements have been satisfied are provided. This standard is not intended to define the selection, design, or qualification of piping, modules, or other equipment mounted on the Class 1E control boards, panels, or racks. It is concerned, however, with the effect such mounted equipment has on the design and qualifications. Qualification and testing of individual Class 1E control board components and modules and external field-run cables are not covered.</abstract>
+  </front>
+</reference>

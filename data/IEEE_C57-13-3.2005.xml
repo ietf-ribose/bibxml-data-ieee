@@ -1,9 +1,15 @@
-<reference anchor="IEEE C57-13-3.2005" target="https://ieeexplore.ieee.org/document/1634985">
+<reference anchor="IEEE.C57-13-3.2005" target="https://ieeexplore.ieee.org/document/1634985">
   <front>
     <title>IEEE Guide for Grounding of Instrument Transformer Secondary Circuits and Cases</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215279"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="December" day="10"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 475.1983" target="https://ieeexplore.ieee.org/document/578029">
+<reference anchor="ANSI/IEEE.475.1983" target="https://ieeexplore.ieee.org/document/578029">
   <front>
     <title>IEEE Standard Measurement Procedure for Field-Disturbance Sensors (rf Intrusion Alarms)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.81972"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December" day="12"/>
     <keyword>IEEE Standards</keyword>

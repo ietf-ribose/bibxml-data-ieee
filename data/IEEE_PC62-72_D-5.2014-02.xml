@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-72/D-5.2014-02" target="https://ieeexplore.ieee.org/document/6782631">
+<reference anchor="IEEE.PC62-72/D-5.2014-02" target="https://ieeexplore.ieee.org/document/6782631">
   <front>
     <title>IEEE Draft Guide for the Application of Surge-Protective Devices for Use on the Load Side of the Service Equipment in Low Voltage (1000 V or Less, 50 or 60 Hz) AC Power Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="April" day="3"/>
     <keyword>IEEE standards</keyword>

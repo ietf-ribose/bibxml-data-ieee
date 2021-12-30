@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-13-5/D-3.1.2019-07" target="https://ieeexplore.ieee.org/document/8770318">
+<reference anchor="IEEE.PC57-13-5/D-3.1.2019-07" target="https://ieeexplore.ieee.org/document/8770318">
   <front>
     <title>IEEE Approved Draft Standard of Performance and Test Requirements for Instrument Transformers of a Nominal System Voltage of 115 kV and Above</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July" day="23"/>
     <keyword>IEEE Standards</keyword>

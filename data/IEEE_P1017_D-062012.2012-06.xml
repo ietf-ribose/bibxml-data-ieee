@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1017/D-062012.2012-06" target="https://ieeexplore.ieee.org/document/6231606">
+<reference anchor="IEEE.P1017/D-062012.2012-06" target="https://ieeexplore.ieee.org/document/6231606">
   <front>
     <title>IEEE Draft Recommended Practice for Field Testing Electric Submersible Pump Cable</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="July" day="3"/>
     <keyword>IEEE standards</keyword>

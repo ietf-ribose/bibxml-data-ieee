@@ -1,9 +1,15 @@
-<reference anchor="IEEE C95-1.1991" target="https://ieeexplore.ieee.org/document/159488">
+<reference anchor="IEEE.C95-1.1991" target="https://ieeexplore.ieee.org/document/159488">
   <front>
     <title>IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101091"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="April" day="10"/>
     <keyword>Biological effects of electromagnetic radiation</keyword>

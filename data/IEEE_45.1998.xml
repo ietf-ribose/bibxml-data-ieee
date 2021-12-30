@@ -1,9 +1,15 @@
-<reference anchor="IEEE 45.1998" target="https://ieeexplore.ieee.org/document/828088">
+<reference anchor="IEEE.45.1998" target="https://ieeexplore.ieee.org/document/828088">
   <front>
     <title>IEEE Recommended Practice for Electric Installations on Shipboard</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.91149"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="12"/>
     <keyword>IEEE standards</keyword>

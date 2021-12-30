@@ -1,9 +1,14 @@
-<reference anchor="ISO/IEC/IEEE 15288" target="https://ieeexplore.ieee.org/document/7106435">
+<reference anchor="ISO/IEC/IEEE.15288" target="https://ieeexplore.ieee.org/document/7106435">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- System life cycle processes</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7106435"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="May" day="13"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1619-1.2007" target="https://ieeexplore.ieee.org/document/4523925">
+<reference anchor="IEEE.1619-1.2007" target="https://ieeexplore.ieee.org/document/4523925">
   <front>
     <title>IEEE Standard for Authenticated Encryption with Length Expansion for Storage Devices</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4523925"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February" day="8"/>
     <keyword>IEEE Standards</keyword>

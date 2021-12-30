@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1801.2013 Redline" target="https://ieeexplore.ieee.org/document/6759747">
+<reference anchor="IEEE.1801.2013.Redline" target="https://ieeexplore.ieee.org/document/6759747">
   <front>
     <title>IEEE Standard for Design and Verification of Low-Power Integrated Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="March" day="7"/>
     <keyword>IEEE standards</keyword>

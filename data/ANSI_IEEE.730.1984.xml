@@ -1,0 +1,20 @@
+<reference anchor="ANSI/IEEE.730.1984" target="https://ieeexplore.ieee.org/document/7435198">
+  <front>
+    <title>IEEE Standard Software Quality Assurance Plans</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7435198"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="March" day="17"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ANSI Standards</keyword>
+    <keyword>Quality assurance</keyword>
+    <keyword>Software assurance</keyword>
+    <keyword>Planning</keyword>
+    <keyword>software</keyword>
+    <keyword>quality</keyword>
+    <keyword>assurance</keyword>
+    <keyword>plans</keyword>
+    <abstract>The purpose of this standard is to provide uniform, minimum acceptable requirements for preparation and content of Software Quality Assurance Plans (SQAP). In considering adoption of this standard, regulatory bodies should be aware that specific application of this standard may already be covered by one or more IEEE or ANSI standards documents relating to quality assurance, definitions, or other matters. It is not the purpose of IEEE Std 730 to supersede, revise or amend existing standards directed to specific industries or applications. This standard applies to the development and maintenance of critical software; for example, where failure could impact safety or cause large financial or social losses. For non-critical software, or for software already developed, a subset of the requirements of this standard may be applied. The existence of this standard should not be construed to prohibit additional content in a Software Quality Assurance Plan. An assessment should be made for the specific software product item to assure adequacy of coverage. Where this standard is invoked for a project engaged in producing several software items, the applicability of the standard should be specified for each of the software product items encompassed by the project.</abstract>
+  </front>
+</reference>

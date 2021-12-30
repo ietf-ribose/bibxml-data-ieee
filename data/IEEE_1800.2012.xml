@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1800.2012" target="https://ieeexplore.ieee.org/document/6469140">
+<reference anchor="IEEE.1800.2012" target="https://ieeexplore.ieee.org/document/6469140">
   <front>
     <title>IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6469140"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="February" day="22"/>
     <keyword>IEEE standards</keyword>

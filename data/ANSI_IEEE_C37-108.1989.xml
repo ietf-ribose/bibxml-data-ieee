@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE C37-108.1989" target="https://ieeexplore.ieee.org/document/89875">
+<reference anchor="ANSI/IEEE.C37-108.1989" target="https://ieeexplore.ieee.org/document/89875">
   <front>
     <title>IEEE Guide for the Protection of Network Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94806"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Fault location</keyword>

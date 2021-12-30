@@ -1,9 +1,15 @@
-<reference anchor="ISO/IEEE 11073-10101.2004" target="https://ieeexplore.ieee.org/document/1389298">
+<reference anchor="ISO/IEEE.11073-10101.2004" target="https://ieeexplore.ieee.org/document/1389298">
   <front>
     <title>ISO/IEEE Health informatics -- Point-of-care medical device communication -- Part 10101: Nomenclature</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95741"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="10"/>
     <keyword>IEEE Standards</keyword>

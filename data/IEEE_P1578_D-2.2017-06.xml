@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1578/D-2.2017-06" target="https://ieeexplore.ieee.org/document/8065151">
+<reference anchor="IEEE.P1578/D-2.2017-06" target="https://ieeexplore.ieee.org/document/8065151">
   <front>
     <title>IEEE Draft Recommended Practice for Stationary Battery Electrolyte Spill Containment and Management</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="October" day="11"/>
     <keyword>IEEE Standards</keyword>

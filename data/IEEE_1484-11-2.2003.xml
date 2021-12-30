@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1484-11-2.2003" target="https://ieeexplore.ieee.org/document/1271478">
+<reference anchor="IEEE.1484-11-2.2003" target="https://ieeexplore.ieee.org/document/1271478">
   <front>
     <title>IEEE Standard for Learning Technology - ECMAScript Application Programming Interface for Content to Runtime Services Communication</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94435"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2021" month="February" day="22"/>
     <keyword>IEEE standards</keyword>

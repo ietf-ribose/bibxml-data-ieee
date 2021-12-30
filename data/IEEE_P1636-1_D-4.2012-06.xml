@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1636-1/D-4.2012-06" target="https://ieeexplore.ieee.org/document/6218728">
+<reference anchor="IEEE.P1636-1/D-4.2012-06" target="https://ieeexplore.ieee.org/document/6218728">
   <front>
     <title>IEEE Draft Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language(XML)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="15"/>
     <keyword>IEEE standards</keyword>

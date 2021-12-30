@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1542/D-9.2018-08" target="https://ieeexplore.ieee.org/document/8472330">
+<reference anchor="IEEE.P1542/D-9.2018-08" target="https://ieeexplore.ieee.org/document/8472330">
   <front>
     <title>IEEE Approved Draft Guide for Installation, Maintenance, and Operation of Irrigation Equipment Located Near or Under Power Lines</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September" day="25"/>
     <keyword>IEEE Standards</keyword>

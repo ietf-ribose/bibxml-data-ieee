@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1427/D-2.1.2019-10" target="https://ieeexplore.ieee.org/document/8866834">
+<reference anchor="IEEE.P1427/D-2.1.2019-10" target="https://ieeexplore.ieee.org/document/8866834">
   <front>
     <title>IEEE Draft Guide for Recommended Electrical Clearances and Insulation Levels in Air Insulated Electrical Power Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="October" day="11"/>
     <keyword>IEEE Standards</keyword>

@@ -1,0 +1,18 @@
+<reference anchor="IEEE.1636-2.2010" target="https://ieeexplore.ieee.org/document/5648434">
+  <front>
+    <title>IEEE Trial-Use Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible Markup Language (XML)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5648434"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="May" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>XML</keyword>
+    <keyword>automated test system (ATS)</keyword>
+    <keyword>eXtensible markup language (XML)</keyword>
+    <keyword>maintenance action information (MAI)</keyword>
+    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>Interoperability between components of automatic test systems (ATS) is promoted and facilitated. The standard facilitates the capture of maintenance action information (MAI) associated with the removal, repair, and replacement of a particular system component (e.g., unit(s) under test) in order to maintain/support that particular operational system. The MAI schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format utilizes the XML formats.</abstract>
+  </front>
+</reference>

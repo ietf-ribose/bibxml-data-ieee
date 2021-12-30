@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1484-12-1/D-7.2020-07" target="https://ieeexplore.ieee.org/document/9144647">
+<reference anchor="IEEE.P1484-12-1/D-7.2020-07" target="https://ieeexplore.ieee.org/document/9144647">
   <front>
     <title>IEEE Approved Draft Standard for Learning Object Metadata</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="20"/>
     <keyword>IEEE Standards</keyword>

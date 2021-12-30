@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1242.1999" target="https://ieeexplore.ieee.org/document/798783">
+<reference anchor="IEEE.1242.1999" target="https://ieeexplore.ieee.org/document/798783">
   <front>
     <title>IEEE Guide for Specifying and Selecting Power, Control, and Special-Purpose Cable for Petroleum and Chemical Plants</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90560"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November" day="4"/>
     <keyword>Petroleum industry</keyword>

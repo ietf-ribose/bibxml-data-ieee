@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-106/D-4.11.2015-10" target="https://ieeexplore.ieee.org/document/7350201">
+<reference anchor="IEEE.PC57-106/D-4.11.2015-10" target="https://ieeexplore.ieee.org/document/7350201">
   <front>
     <title>IEEE Approved Draft Guide for Acceptance and Maintenance of Insulating Mineral Oil in Electrical Equipment</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="December" day="9"/>
     <keyword>IEEE Standards</keyword>

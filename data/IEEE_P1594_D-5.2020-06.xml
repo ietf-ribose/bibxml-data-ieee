@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1594/D-5.2020-06" target="https://ieeexplore.ieee.org/document/9205735">
+<reference anchor="IEEE.P1594/D-5.2020-06" target="https://ieeexplore.ieee.org/document/9205735">
   <front>
     <title>IEEE Draft Standard for Helically Applied Fiber Optic Cable Systems (WRAP Cable) for Use on Overhead Utility Lines</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="September" day="24"/>
     <keyword>IEEE Standards</keyword>

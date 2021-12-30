@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE CD P23026.2013" target="https://ieeexplore.ieee.org/document/6572799">
+<reference anchor="ISO/IEC/IEEE.CD.P23026.2013" target="https://ieeexplore.ieee.org/document/6572799">
   <front>
     <title>ISO/IEC/IEEE Draft Systems and software engineering - Engineering and management of websites for systems, software, and services information</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="July" day="31"/>
     <keyword>IEEE standards</keyword>

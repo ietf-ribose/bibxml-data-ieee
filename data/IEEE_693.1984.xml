@@ -1,9 +1,15 @@
-<reference anchor="IEEE 693.1984" target="https://ieeexplore.ieee.org/document/30680">
+<reference anchor="IEEE.693.1984" target="https://ieeexplore.ieee.org/document/30680">
   <front>
     <title>IEEE Recommended Practices for Seismic Design of Substations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.82450"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Earthquakes</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE C37-1.1987" target="https://ieeexplore.ieee.org/document/26498">
+<reference anchor="ANSI/IEEE.C37-1.1987" target="https://ieeexplore.ieee.org/document/26498">
   <front>
     <title>IEEE Standard Definition, Specification, and Analysis of Systems Used for Supervisory Control, Data Acquisition, and Automatic Control</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122656"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="25"/>
     <keyword>Digital control</keyword>

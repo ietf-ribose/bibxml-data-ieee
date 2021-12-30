@@ -1,8 +1,14 @@
-<reference anchor="IEEE 11-REVmc/D-5.0.2016-01" target="https://ieeexplore.ieee.org/document/7383204">
+<reference anchor="IEEE.11-REVmc/D-5.0.2016-01" target="https://ieeexplore.ieee.org/document/7383204">
   <front>
     <title>IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="14"/>
     <keyword>IEEE Standards</keyword>

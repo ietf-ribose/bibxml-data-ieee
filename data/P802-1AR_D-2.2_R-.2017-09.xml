@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P802-1AR/D-2.2/R-.2017-09" target="https://ieeexplore.ieee.org/document/8032509">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Secure Device Identity</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="September" day="12"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Authentication</keyword>
+    <keyword>access control</keyword>
+    <keyword>authentication</keyword>
+    <keyword>authorization</keyword>
+    <keyword>certificate</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC security</keyword>
+    <keyword>MANs</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>PKI</keyword>
+    <keyword>port-based network access control</keyword>
+    <keyword>secure association</keyword>
+    <keyword>Secure Device Identifier</keyword>
+    <keyword>security</keyword>
+    <keyword>X.509</keyword>
+    <abstract>A Secure Device Identifier (DevID) is cryptographically bound to a device and supports authentication of the device s identity. Locally significant identities can be securely associated with an initial manufacturer-provisioned DevID and used in provisioning and authentication protocols to allow a network administrator to establish the trustworthiness of a device and select appropriatepolicies for transmission and reception of data and control protocols to and from the device.</abstract>
+  </front>
+</reference>

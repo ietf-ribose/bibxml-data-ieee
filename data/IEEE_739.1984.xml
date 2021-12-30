@@ -1,9 +1,15 @@
-<reference anchor="IEEE 739.1984" target="https://ieeexplore.ieee.org/document/469111">
+<reference anchor="IEEE.739.1984" target="https://ieeexplore.ieee.org/document/469111">
   <front>
     <title>IEEE Recommended Practice for Energy Conservation and Cost-Effective Planning in Industrial Facilities</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.122647"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January" day="16"/>
     <keyword>Energy conservation</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 515.1997" target="https://ieeexplore.ieee.org/document/590305">
+<reference anchor="IEEE.515.1997" target="https://ieeexplore.ieee.org/document/590305">
   <front>
     <title>IEEE Standard for the Testing, Design, Installation and Maintenance of Electrical Resistance Heat Tracing for Industrial Applications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82402"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="26"/>
     <keyword>Resistance heating</keyword>

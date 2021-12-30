@@ -1,0 +1,20 @@
+<reference anchor="IEEE.828.1983" target="https://ieeexplore.ieee.org/document/7439689">
+  <front>
+    <title>IEEE Standard for Software Configuration Management Plans</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.7439689"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="March" day="23"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software configuration</keyword>
+    <keyword>Software management</keyword>
+    <keyword>Planning</keyword>
+    <keyword>software</keyword>
+    <keyword>configuration</keyword>
+    <keyword>management</keyword>
+    <keyword>plans</keyword>
+    <abstract>This standard provides minimum requirements for preparation and content of Software Configuration Management (SCM) Plans. SCM Plans document the methods to be used for identifying software product items, controlling and implementing changes, and recording and reporting change implementation status.</abstract>
+  </front>
+</reference>

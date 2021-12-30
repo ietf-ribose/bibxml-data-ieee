@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1366.1998" target="https://ieeexplore.ieee.org/document/769684">
+<reference anchor="IEEE.1366.1998" target="https://ieeexplore.ieee.org/document/769684">
   <front>
     <title>IEEE Guide for Electric Power Distribution Reliability Indices</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89432"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="July" day="17"/>
     <keyword>IEEE standards</keyword>

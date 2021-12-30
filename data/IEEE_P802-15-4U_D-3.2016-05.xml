@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-15-4u/D-3.2016-05" target="https://ieeexplore.ieee.org/document/7508553">
+<reference anchor="IEEE.P802-15-4u/D-3.2016-05" target="https://ieeexplore.ieee.org/document/7508553">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks -Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) Amendment for Use of the 865-867 MHz Band in India</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="July" day="8"/>
     <keyword>IEEE Standards</keyword>

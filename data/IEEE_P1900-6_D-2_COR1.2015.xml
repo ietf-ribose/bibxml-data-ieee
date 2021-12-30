@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1900-6/D-2/Cor1.2015" target="https://ieeexplore.ieee.org/document/7172987">
+<reference anchor="IEEE.P1900-6/D-2/Cor1.2015" target="https://ieeexplore.ieee.org/document/7172987">
   <front>
     <title>IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems. - Corrigendum 1</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="July" day="30"/>
     <keyword>IEEE Standards</keyword>

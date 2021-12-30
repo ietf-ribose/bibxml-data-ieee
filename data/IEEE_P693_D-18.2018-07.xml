@@ -1,8 +1,14 @@
-<reference anchor="IEEE P693/D-18.2018-07" target="https://ieeexplore.ieee.org/document/8450645">
+<reference anchor="IEEE.P693/D-18.2018-07" target="https://ieeexplore.ieee.org/document/8450645">
   <front>
     <title>IEEE Approved Draft Recommended Practice for Seismic Design of Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August" day="29"/>
     <keyword>IEEE Standards</keyword>

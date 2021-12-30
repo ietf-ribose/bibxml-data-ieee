@@ -1,9 +1,14 @@
-<reference anchor="IEEE 837.1984" target="https://ieeexplore.ieee.org/document/7439710">
+<reference anchor="IEEE.837.1984" target="https://ieeexplore.ieee.org/document/7439710">
   <front>
     <title>IEEE Standard for Qualifying Permanent Connectors Used in Substation Grounding</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7439710"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="23"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-3bq.2016" target="https://ieeexplore.ieee.org/document/7572861">
+<reference anchor="IEEE.802-3bq.2016" target="https://ieeexplore.ieee.org/document/7572861">
   <front>
     <title>IEEE Standard for Ethernet Amendment 3: Physical Layer and Management Parameters for 25 Gb/s and 40 Gb/s Operation, Types 25GBASE-T and 40GBASE-T</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7572861"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="September" day="21"/>
     <keyword>IEEE Standards</keyword>

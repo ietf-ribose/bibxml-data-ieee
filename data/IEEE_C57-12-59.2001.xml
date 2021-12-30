@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-12-59.2001" target="https://ieeexplore.ieee.org/document/7317636">
+<reference anchor="IEEE.C57-12-59.2001" target="https://ieeexplore.ieee.org/document/7317636">
   <front>
     <title>IEEE Guide for Dry-Type Transformer Through-Fault Current Duration</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.7317636"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="November" day="3"/>
     <keyword>IEEE Standards</keyword>

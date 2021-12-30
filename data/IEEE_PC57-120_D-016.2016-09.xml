@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-120/D-016.2016-09" target="https://ieeexplore.ieee.org/document/7583618">
+<reference anchor="IEEE.PC57-120/D-016.2016-09" target="https://ieeexplore.ieee.org/document/7583618">
   <front>
     <title>IEEE Approved Draft Guide for Loss Evaluation of Distribution and Power Transformers and Reactors</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="October" day="5"/>
     <keyword>IEEE Standards</keyword>

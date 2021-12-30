@@ -1,9 +1,14 @@
-<reference anchor="ANSI N42-43.2006" target="https://ieeexplore.ieee.org/document/4197204">
+<reference anchor="ANSI.N42-43.2006" target="https://ieeexplore.ieee.org/document/4197204">
   <front>
     <title>American National Standard Performance Criteria for Mobile and Transportable Radiation Monitors Used for Homeland Security</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.357641"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>ANSI Standards</keyword>
     <keyword>Radiation monitoring</keyword>

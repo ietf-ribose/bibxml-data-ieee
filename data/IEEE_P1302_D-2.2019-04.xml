@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1302/D-2.2019-04" target="https://ieeexplore.ieee.org/document/8707158">
+<reference anchor="IEEE.P1302/D-2.2019-04" target="https://ieeexplore.ieee.org/document/8707158">
   <front>
     <title>IEEE Draft Guide for the Electromagnetic Characterization of Conductive Gaskets in the Frequency Range of DC to 40 GHz</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May" day="6"/>
     <keyword>IEEE Standards</keyword>

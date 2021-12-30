@@ -1,9 +1,15 @@
-<reference anchor="IEEE 211.1990" target="https://ieeexplore.ieee.org/document/159314">
+<reference anchor="IEEE.211.1990" target="https://ieeexplore.ieee.org/document/159314">
   <front>
     <title>IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101057"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Terminology</keyword>

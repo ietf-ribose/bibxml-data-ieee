@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1012.2012 Redline" target="https://ieeexplore.ieee.org/document/6251988">
+<reference anchor="IEEE.1012.2012.Redline" target="https://ieeexplore.ieee.org/document/6251988">
   <front>
     <title>IEEE Standard for System and Software Verification and Validation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="July" day="27"/>
     <keyword>IEEE standards</keyword>

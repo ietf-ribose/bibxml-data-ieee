@@ -1,9 +1,14 @@
-<reference anchor="IEEE 2000-1.1998" target="https://ieeexplore.ieee.org/document/7370727">
+<reference anchor="IEEE.2000-1.1998" target="https://ieeexplore.ieee.org/document/7370727">
   <front>
     <title>IEEE Standard for Information Technology: Standard for Year 2000 Terminology</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.7370727"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="1"/>
     <keyword>IEEE Standards</keyword>

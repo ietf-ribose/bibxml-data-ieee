@@ -1,9 +1,15 @@
-<reference anchor="ANSI N42-37.2006" target="https://ieeexplore.ieee.org/document/4161134">
+<reference anchor="ANSI.N42-37.2006" target="https://ieeexplore.ieee.org/document/4161134">
   <front>
     <title>American National Standard for Training Requirements for Homeland Security Purposes Using Radiation Detection Instrumentation for Interdiction and Prevention</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.352516"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="October" day="30"/>
     <keyword>Instruments</keyword>

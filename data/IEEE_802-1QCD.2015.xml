@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-1Qcd.2015" target="https://ieeexplore.ieee.org/document/7062078">
+<reference anchor="IEEE.802-1Qcd.2015" target="https://ieeexplore.ieee.org/document/7062078">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks-- Bridges and Bridged Networks - Amendment 23: Application Virtual Local Area Network (VLAN) Type, Length, Value (TLV)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7062078"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="March" day="17"/>
     <keyword>IEEE Standards</keyword>

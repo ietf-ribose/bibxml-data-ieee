@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1137.1991" target="https://ieeexplore.ieee.org/document/8894300">
+<reference anchor="IEEE.1137.1991" target="https://ieeexplore.ieee.org/document/8894300">
   <front>
     <title>IEEE Guide for the Implementation of Inductive Coordination Mitigation Techniques and Application</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.8894300"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November" day="7"/>
     <keyword>IEEE Standards</keyword>

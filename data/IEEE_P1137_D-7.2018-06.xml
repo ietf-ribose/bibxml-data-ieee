@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1137/D-7.2018-06" target="https://ieeexplore.ieee.org/document/8412365">
+<reference anchor="IEEE.P1137/D-7.2018-06" target="https://ieeexplore.ieee.org/document/8412365">
   <front>
     <title>IEEE Draft Recommended Practice for the Implementation of Inductive Coordination Mitigation Techniques and Application</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July" day="17"/>
     <keyword>IEEE Standards</keyword>

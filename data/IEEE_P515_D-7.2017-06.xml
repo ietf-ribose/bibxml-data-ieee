@@ -1,8 +1,14 @@
-<reference anchor="IEEE P515/D-7.2017-06" target="https://ieeexplore.ieee.org/document/7959583">
+<reference anchor="IEEE.P515/D-7.2017-06" target="https://ieeexplore.ieee.org/document/7959583">
   <front>
     <title>IEEE Draft Standard for the Testing, Design, Installation, and Maintenance of Electrical Resistance Trace Heating for Industrial Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="June" day="27"/>
     <keyword>IEEE Standards</keyword>

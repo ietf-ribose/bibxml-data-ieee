@@ -1,9 +1,15 @@
-<reference anchor="IEEE 421-4.2004" target="https://ieeexplore.ieee.org/document/1358970">
+<reference anchor="IEEE.421-4.2004" target="https://ieeexplore.ieee.org/document/1358970">
   <front>
     <title>IEEE Guide for the Preparation of Excitation System Specifications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95430"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="April" day="22"/>
     <keyword>IEEE standards</keyword>

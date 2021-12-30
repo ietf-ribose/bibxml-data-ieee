@@ -1,8 +1,14 @@
-<reference anchor="ANSI C63-10.2013 Redline" target="https://ieeexplore.ieee.org/document/6664983">
+<reference anchor="ANSI.C63-10.2013.Redline" target="https://ieeexplore.ieee.org/document/6664983">
   <front>
     <title>American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="November" day="14"/>
     <keyword>ANSI standards</keyword>

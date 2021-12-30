@@ -1,9 +1,15 @@
-<reference anchor="IEEE 384.2008" target="https://ieeexplore.ieee.org/document/4723942">
+<reference anchor="IEEE.384.2008" target="https://ieeexplore.ieee.org/document/4723942">
   <front>
     <title>IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4723942"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="July" day="26"/>
     <keyword>IEEE Standards</keyword>

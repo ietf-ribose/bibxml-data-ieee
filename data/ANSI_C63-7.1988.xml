@@ -1,9 +1,15 @@
-<reference anchor="ANSI C63-7.1988" target="https://ieeexplore.ieee.org/document/27774">
+<reference anchor="ANSI.C63-7.1988" target="https://ieeexplore.ieee.org/document/27774">
   <front>
     <title>American National Standard guide for construction of open area test sites for performing radiated emission measurements</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81006"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February" day="22"/>
     <keyword>Electromagnetic interference</keyword>

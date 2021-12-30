@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1082/D-9.2017-09" target="https://ieeexplore.ieee.org/document/8038281">
+<reference anchor="IEEE.P1082/D-9.2017-09" target="https://ieeexplore.ieee.org/document/8038281">
   <front>
     <title>IEEE Draft Guide for Incorporating Human Reliability Analysis into Probabilistic Risk Assessments for Nuclear Power Generating Stations and other Nuclear Facilities</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="September" day="14"/>
     <keyword>IEEE Standards</keyword>

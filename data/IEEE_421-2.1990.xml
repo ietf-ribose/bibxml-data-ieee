@@ -1,9 +1,15 @@
-<reference anchor="IEEE 421-2.1990" target="https://ieeexplore.ieee.org/document/89679">
+<reference anchor="IEEE.421-2.1990" target="https://ieeexplore.ieee.org/document/89679">
   <front>
     <title>IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance of Excitation Control Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94594"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="June" day="27"/>
     <keyword>Closed loop systems</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 99.1980" target="https://ieeexplore.ieee.org/document/26657">
+<reference anchor="IEEE.99.1980" target="https://ieeexplore.ieee.org/document/26657">
   <front>
     <title>IEEE Recommended Practice for the Preparation of Test Procedures for the Thermal Evaluation of Insulation Systems for Electric Equipment</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.79673"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="February" day="24"/>
     <keyword>Aging</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1671/D-5.2006" target="https://ieeexplore.ieee.org/document/4067148">
+<reference anchor="IEEE.P1671/D-5.2006" target="https://ieeexplore.ieee.org/document/4067148">
   <front>
     <title>IEEE Approved Draft Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May" day="3"/>
     <keyword>XML</keyword>

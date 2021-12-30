@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1888/D-3.2014-01" target="https://ieeexplore.ieee.org/document/6705568">
+<reference anchor="IEEE.P1888/D-3.2014-01" target="https://ieeexplore.ieee.org/document/6705568">
   <front>
     <title>IEEE Approved Draft Standard for Ubiquitous Green Community Control Network Protocol</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="January" day="8"/>
     <keyword>IEEE standards</keyword>

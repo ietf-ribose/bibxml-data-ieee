@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 309.1970" target="https://ieeexplore.ieee.org/document/8684586">
+<reference anchor="ANSI/IEEE.309.1970" target="https://ieeexplore.ieee.org/document/8684586">
   <front>
     <title>IEEE Standard Test Procedure for Geiger-Müller Counters</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.8684586"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>geiger</keyword>

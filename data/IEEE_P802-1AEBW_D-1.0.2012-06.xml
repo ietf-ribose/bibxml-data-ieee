@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1AEbw/D-1.0.2012-06" target="https://ieeexplore.ieee.org/document/6293817">
+<reference anchor="IEEE.P802-1AEbw/D-1.0.2012-06" target="https://ieeexplore.ieee.org/document/6293817">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security Amendment: Extended Packet Numbering</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="August" day="31"/>
     <keyword>IEEE standards</keyword>

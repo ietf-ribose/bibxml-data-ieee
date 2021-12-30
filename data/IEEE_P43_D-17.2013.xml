@@ -1,8 +1,14 @@
-<reference anchor="IEEE P43/D-17.2013" target="https://ieeexplore.ieee.org/document/6422306">
+<reference anchor="IEEE.P43/D-17.2013" target="https://ieeexplore.ieee.org/document/6422306">
   <front>
     <title>IEEE Draft Recommended Practice for Testing Insulation Resistance of Electric Machinery</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January" day="28"/>
     <keyword>IEEE standards</keyword>

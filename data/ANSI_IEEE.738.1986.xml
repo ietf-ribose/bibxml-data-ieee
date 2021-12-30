@@ -1,0 +1,21 @@
+<reference anchor="ANSI/IEEE.738.1986" target="https://ieeexplore.ieee.org/document/6135468">
+  <front>
+    <title>IEEE Standard for Calculation of Bare Overhead Conductor Temperature and Ampacity Under Steady-State Conditions</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.6135468"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Conductors</keyword>
+    <keyword>Temperature measurement</keyword>
+    <keyword>Power distribution lines</keyword>
+    <keyword>Steady-state</keyword>
+    <keyword>calculation</keyword>
+    <keyword>bare</keyword>
+    <keyword>overhead</keyword>
+    <keyword>conductor</keyword>
+    <keyword>temperature</keyword>
+    <abstract>The purpose of this standard is to present a simplified method of calculating the current-temperature relationship of bare overhead lines when given the weather conditions. This standard includes a mathematical method, and indicates sources of the values to be used in the calculation. Because there is a great diversity of weather conditions and operating circumstances for which conductor temperatures must be known, each utility shall make its own assessment of the data that will best pertain to its area or a particular transmission line.</abstract>
+  </front>
+</reference>

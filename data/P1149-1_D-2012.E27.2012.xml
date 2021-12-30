@@ -1,0 +1,30 @@
+<reference anchor="IEEE.P1149-1/D-2012.e27.2012" target="https://ieeexplore.ieee.org/document/6309992">
+  <front>
+    <title>IEEE Draft Standard Test Access Port and Boundary Scan Architecture</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="September" day="21"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Integrated circuits</keyword>
+    <keyword>Integrated circuit layout</keyword>
+    <keyword>Hardware design languages</keyword>
+    <keyword>Very high speed integrated circuits</keyword>
+    <keyword>Boundary value problems</keyword>
+    <keyword>boundary scan</keyword>
+    <keyword>boundary-scan architecture</keyword>
+    <keyword>Boundary-Scan Description Language</keyword>
+    <keyword>boundary-scan register</keyword>
+    <keyword>BSDL</keyword>
+    <keyword>circuit boards</keyword>
+    <keyword>circuitry</keyword>
+    <keyword>integrated circuit</keyword>
+    <keyword>printed circuit boards</keyword>
+    <keyword>TAP</keyword>
+    <keyword>test</keyword>
+    <keyword>test access port</keyword>
+    <keyword>VHDL</keyword>
+    <keyword>VHSIC Hardware Description Language</keyword>
+    <abstract>Circuitry that may be built into an integrated circuit to assist in the test, maintenance and support of assembled printed circuit boards is defined. The circuitry includes a standard interface through which instructions and test data are communicated. A set of test features is defined, including a boundary-scan register, such that the component is able to respond to a minimum set of instructions designed to assist with testing of assembled printed circuit boards. Also, a language is defined that allows rigorous description of the component-specific aspects of such testability features.</abstract>
+  </front>
+</reference>

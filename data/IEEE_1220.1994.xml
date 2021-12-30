@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1220.1994" target="https://ieeexplore.ieee.org/document/477899">
+<reference anchor="IEEE.1220.1994" target="https://ieeexplore.ieee.org/document/477899">
   <front>
     <title>IEEE Trial Use Standard for Application and Management of the Systems Engineering Process</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79526"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="8"/>
     <keyword>IEEE standards</keyword>

@@ -1,0 +1,26 @@
+<reference anchor="IEEE.P1826/D-3.5.2020-03" target="https://ieeexplore.ieee.org/document/9042907">
+  <front>
+    <title>IEEE Draft Standard for Power Electronics Open System Interfaces in Zonal Electrical Distribution Systems Rated Above 100 kW</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2020" month="March" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Open systems</keyword>
+    <keyword>Power electronics</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Conformance testing</keyword>
+    <keyword>Power distribution</keyword>
+    <keyword>Uninterruptible power systems</keyword>
+    <keyword>IEEE 1826</keyword>
+    <keyword>open system interfaces</keyword>
+    <keyword>PEEB</keyword>
+    <keyword>plug-and-play</keyword>
+    <keyword>power electronics</keyword>
+    <keyword>power electronics building blocks</keyword>
+    <keyword>quality of service</keyword>
+    <keyword>verification and validation</keyword>
+    <keyword>zonal electrical distribution system</keyword>
+    <abstract>Open system interfaces for high power electronics equipment used in zonal electrical distribution systems rated above 100 kW are identified in this standard. The required power, monitoring, information exchange, control, and protection interfaces are based on technological maturity, accepted practices, and allowances for future technology insertions. Also, rigorous assessment mechanisms, interface control management, and proactive conformance testing that shall be used to verify and validate open systems to enable plug-and-play operability independently of the components??? origin are defined. Airports, hospitals, major data processing centers (especially those using uninterruptible power supply), broadcast systems, and maritime vessels and platforms are applications covered by this standard. Existing terrestrial utility power systems that do not yet contain the electronic power interfaces and high-speed communication networks that are essential to use this standard shall be upgraded by its application.</abstract>
+  </front>
+</reference>

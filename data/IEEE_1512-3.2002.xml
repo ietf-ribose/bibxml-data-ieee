@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1512-3.2002" target="https://ieeexplore.ieee.org/document/1088461">
+<reference anchor="IEEE.1512-3.2002" target="https://ieeexplore.ieee.org/document/1088461">
   <front>
     <title>IEEE Standard for Hazardous Material Incident Management Message Sets for Use by Emergency Management Centers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94150"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

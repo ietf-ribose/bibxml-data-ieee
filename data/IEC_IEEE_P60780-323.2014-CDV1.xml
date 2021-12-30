@@ -1,8 +1,14 @@
-<reference anchor="IEC/IEEE P60780-323.2014-CDV1" target="https://ieeexplore.ieee.org/document/6960012">
+<reference anchor="IEC/IEEE.P60780-323.2014-CDV1" target="https://ieeexplore.ieee.org/document/6960012">
   <front>
     <title>IEC/IEEE Draft International Standard - Nuclear Facilities - Electrical Equipment Important to Safety -Qualification</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="November" day="17"/>
     <keyword>IEEE standards</keyword>

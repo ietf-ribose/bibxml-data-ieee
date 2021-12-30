@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1667/D-14.2015" target="https://ieeexplore.ieee.org/document/8734135">
+<reference anchor="IEEE.P1667/D-14.2015" target="https://ieeexplore.ieee.org/document/8734135">
   <front>
     <title>IEEE Draft Standard for Discovery, Authentication, and Authorization in Host Attachments of Storage Devices</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June" day="10"/>
     <keyword>IEEE Standards</keyword>

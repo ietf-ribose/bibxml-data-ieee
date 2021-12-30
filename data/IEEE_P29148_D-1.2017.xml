@@ -1,8 +1,14 @@
-<reference anchor="IEEE P29148/D-1.2017" target="https://ieeexplore.ieee.org/document/7891869">
+<reference anchor="IEEE.P29148/D-1.2017" target="https://ieeexplore.ieee.org/document/7891869">
   <front>
     <title>ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering -- Life Cycle Processes --Requirements Engineering</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="April" day="4"/>
     <keyword>IEEE Standards</keyword>

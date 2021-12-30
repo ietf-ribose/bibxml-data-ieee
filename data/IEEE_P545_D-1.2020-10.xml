@@ -1,8 +1,14 @@
-<reference anchor="IEEE P545/D-1.2020-10" target="https://ieeexplore.ieee.org/document/9228953">
+<reference anchor="IEEE.P545/D-1.2020-10" target="https://ieeexplore.ieee.org/document/9228953">
   <front>
     <title>DO NOT USE THIS RECORD</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="October" day="16"/>
     <keyword>IEEE Standards</keyword>

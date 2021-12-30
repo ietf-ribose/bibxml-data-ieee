@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1434/D-13.2014-03" target="https://ieeexplore.ieee.org/document/6776381">
+<reference anchor="IEEE.P1434/D-13.2014-03" target="https://ieeexplore.ieee.org/document/6776381">
   <front>
     <title>IEEE Draft Guide for the Measurement of Partial Discharges in AC Electric Machinery</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="March" day="20"/>
     <keyword>IEEE standards</keyword>

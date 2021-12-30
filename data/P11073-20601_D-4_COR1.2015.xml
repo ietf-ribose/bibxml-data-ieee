@@ -1,0 +1,17 @@
+<reference anchor="IEEE.P11073-20601/D-4/Cor1.2015" target="https://ieeexplore.ieee.org/document/7038123">
+  <front>
+    <title>IEEE Draft Health Informatics - Personal Health Device Communication - Part 20601: Application Profile- Optimized Exchange Protocol - Corrigendum 1</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="February" day="10"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Informatics</keyword>
+    <keyword>11073</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>personal health devices.</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard defines a common framework for making an abstract model of personal health data available in transport-independent transfer syntax required to establish logical connections between systems and to provide presentation capabilities and services needed to perform communication tasks. The protocol is optimized to personal health usage requirements and leverages commonly used methods and tools wherever possible.</abstract>
+  </front>
+</reference>

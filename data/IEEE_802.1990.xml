@@ -1,9 +1,15 @@
-<reference anchor="IEEE 802.1990" target="https://ieeexplore.ieee.org/document/467387">
+<reference anchor="IEEE.802.1990" target="https://ieeexplore.ieee.org/document/467387">
   <front>
     <title>Local and Metropolitan Area Networks: IEEE Standard: Overview and Architecture</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.122158"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Computer networks</keyword>

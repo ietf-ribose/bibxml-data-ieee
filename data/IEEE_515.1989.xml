@@ -1,9 +1,15 @@
-<reference anchor="IEEE 515.1989" target="https://ieeexplore.ieee.org/document/89692">
+<reference anchor="IEEE.515.1989" target="https://ieeexplore.ieee.org/document/89692">
   <front>
     <title>IEEE Recommended Practice for the Testing, Design, Installation, and Maintenance of Electrical Resistance Heat Tracing for Industrial Applications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94598"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="7"/>
     <keyword>Design methodology</keyword>

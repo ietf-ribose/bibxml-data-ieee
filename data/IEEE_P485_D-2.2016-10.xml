@@ -1,8 +1,14 @@
-<reference anchor="IEEE P485/D-2.2016-10" target="https://ieeexplore.ieee.org/document/7736035">
+<reference anchor="IEEE.P485/D-2.2016-10" target="https://ieeexplore.ieee.org/document/7736035">
   <front>
     <title>IEEE Draft Recommended Practice for Sizing Lead-Acid Batteries for Stationary Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November" day="4"/>
     <keyword>IEEE Standards</keyword>

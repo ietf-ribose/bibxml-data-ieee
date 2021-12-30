@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-69a/D-2.2016-12" target="https://ieeexplore.ieee.org/document/7781566">
+<reference anchor="IEEE.PC62-69a/D-2.2016-12" target="https://ieeexplore.ieee.org/document/7781566">
   <front>
     <title>IEEE Draft Standard for the Surge Parameters of Isolating Transformers used in Networking Devices and Equipment Amendment 1: Addition of 4.5, Saturated Core Secondary Winding Parameters</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="December" day="12"/>
     <keyword>IEEE Standards</keyword>

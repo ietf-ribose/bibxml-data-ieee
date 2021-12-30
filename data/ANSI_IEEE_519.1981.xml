@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 519.1981" target="https://ieeexplore.ieee.org/document/27808">
+<reference anchor="ANSI/IEEE.519.1981" target="https://ieeexplore.ieee.org/document/27808">
   <front>
     <title>IEEE Guide for Harmonic Control and Reactive Compensation of Static Power Convertors</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81020"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="November" day="12"/>
     <keyword>Harmonic analysis</keyword>

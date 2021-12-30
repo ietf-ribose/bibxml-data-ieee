@@ -1,9 +1,14 @@
-<reference anchor="IEEE 268.1982" target="https://ieeexplore.ieee.org/document/7393405">
+<reference anchor="IEEE.268.1982" target="https://ieeexplore.ieee.org/document/7393405">
   <front>
     <title>IEEE Standard Metric Practice</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.7393405"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="26"/>
     <keyword>IEEE Standards</keyword>

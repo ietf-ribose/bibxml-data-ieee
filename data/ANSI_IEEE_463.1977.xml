@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 463.1977" target="https://ieeexplore.ieee.org/document/35038">
+<reference anchor="ANSI/IEEE.463.1977" target="https://ieeexplore.ieee.org/document/35038">
   <front>
     <title>IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.86093"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="August" day="28"/>
     <keyword>Batteries</keyword>

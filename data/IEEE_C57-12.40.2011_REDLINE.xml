@@ -1,8 +1,14 @@
-<reference anchor="IEEE C57-12.40.2011 Redline" target="https://ieeexplore.ieee.org/document/6172697">
+<reference anchor="IEEE.C57-12.40.2011.Redline" target="https://ieeexplore.ieee.org/document/6172697">
   <front>
     <title>IEEE Standard for Network, Three-Phase Transformers, 2500 kVA and Smaller; High Voltage, 34 500 GrdY/19 920 and Below; Low Voltage, 600 V and Below; Subway and Vault Types (Liquid Immersed)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="May" day="17"/>
     <keyword>IEEE standards</keyword>

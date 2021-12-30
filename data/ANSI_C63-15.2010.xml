@@ -1,9 +1,14 @@
-<reference anchor="ANSI C63-15.2010" target="https://ieeexplore.ieee.org/document/5510199">
+<reference anchor="ANSI.C63-15.2010" target="https://ieeexplore.ieee.org/document/5510199">
   <front>
     <title>American National Standard Recommended Practice for the Immunity Measurement of Electrical and Electronic Equipment</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5510199"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March" day="1"/>
     <keyword>IEEE standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE C37-40.1981" target="https://ieeexplore.ieee.org/document/30640">
+<reference anchor="ANSI/IEEE.C37-40.1981" target="https://ieeexplore.ieee.org/document/30640">
   <front>
     <title>American National Standard Service Conditions and Definitions for High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.82372"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="29"/>
     <keyword>Fuses</keyword>

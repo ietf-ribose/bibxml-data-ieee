@@ -1,9 +1,14 @@
-<reference anchor="AIEE 30.1937" target="https://ieeexplore.ieee.org/document/7405213">
+<reference anchor="AIEE.30.1937" target="https://ieeexplore.ieee.org/document/7405213">
   <front>
     <title>AIEE Definitions and General Standards for Wires and Cables</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1937.7405213"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="11"/>
     <keyword>AIEE Standards</keyword>

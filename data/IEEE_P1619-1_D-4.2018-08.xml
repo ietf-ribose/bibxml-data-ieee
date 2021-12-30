@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1619-1/D-4.2018-08" target="https://ieeexplore.ieee.org/document/8443449">
+<reference anchor="IEEE.P1619-1/D-4.2018-08" target="https://ieeexplore.ieee.org/document/8443449">
   <front>
     <title>IEEE Draft Standard for Authenticated Encryption with Length Expansion for Storage Devices</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="August" day="21"/>
     <keyword>IEEE Standards</keyword>

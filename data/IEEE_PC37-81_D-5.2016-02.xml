@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-81/D-5.2016-02" target="https://ieeexplore.ieee.org/document/7426705">
+<reference anchor="IEEE.PC37-81/D-5.2016-02" target="https://ieeexplore.ieee.org/document/7426705">
   <front>
     <title>IEEE Approved Draft Guide for Seismic Qualification of Class 1E Metal-Enclosed Power Switchgear Assemblies</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="7"/>
     <keyword>IEEE Standards</keyword>

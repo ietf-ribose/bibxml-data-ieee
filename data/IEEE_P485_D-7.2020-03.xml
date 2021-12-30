@@ -1,8 +1,14 @@
-<reference anchor="IEEE P485/D-7.2020-03" target="https://ieeexplore.ieee.org/document/9037438">
+<reference anchor="IEEE.P485/D-7.2020-03" target="https://ieeexplore.ieee.org/document/9037438">
   <front>
     <title>IEEE Approved Draft Recommended Practice for Sizing Lead-Acid Batteries for Stationary Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March" day="16"/>
     <keyword>IEEE Standards</keyword>

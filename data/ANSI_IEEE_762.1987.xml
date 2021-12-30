@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 762.1987" target="https://ieeexplore.ieee.org/document/27828">
+<reference anchor="ANSI/IEEE.762.1987" target="https://ieeexplore.ieee.org/document/27828">
   <front>
     <title>IEEE Standard Definitions for Use in Reporting Electric Generating Unit Reliability, Availability, and Productivity</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81031"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="21"/>
     <keyword>Generators</keyword>

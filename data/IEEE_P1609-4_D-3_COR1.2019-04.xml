@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1609-4/D-3/Cor1.2019-04" target="https://ieeexplore.ieee.org/document/8699138">
+<reference anchor="IEEE.P1609-4/D-3/Cor1.2019-04" target="https://ieeexplore.ieee.org/document/8699138">
   <front>
     <title>IEEE Approved Draft Standard for Wireless Access in Vehicular Environments (WAVE) -- Multi-Channel Operation - Corrigendum 1: Miscellaneous corrections</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="25"/>
     <keyword>IEEE Standards</keyword>

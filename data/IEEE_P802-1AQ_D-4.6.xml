@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1aq/D-4.6" target="https://ieeexplore.ieee.org/document/6177714">
+<reference anchor="IEEE.P802-1aq/D-4.6" target="https://ieeexplore.ieee.org/document/6177714">
   <front>
     <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks: Bridges and Virtual Bridged Local Area Networks - Amendment 9: Shortest Path Bridging</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>IEEE standards</keyword>
     <keyword>Local area networks</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P387/D-D2017.2017" target="https://ieeexplore.ieee.org/document/7818125">
+<reference anchor="IEEE.P387/D-D2017.2017" target="https://ieeexplore.ieee.org/document/7818125">
   <front>
     <title>IEEE Draft Standard Criteria for Diesel-Generator Units Applied as Standby Power Supplies for Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="January" day="13"/>
     <keyword>IEEE Standards</keyword>

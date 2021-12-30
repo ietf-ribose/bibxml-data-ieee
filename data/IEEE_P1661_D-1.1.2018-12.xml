@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1661/D-1.1.2018-12" target="https://ieeexplore.ieee.org/document/8575207">
+<reference anchor="IEEE.P1661/D-1.1.2018-12" target="https://ieeexplore.ieee.org/document/8575207">
   <front>
     <title>IEEE Draft Guide for Test and Evaluation of Lead-Acid Batteries Used in Photovoltaic (PV) Hybrid Power Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December" day="13"/>
     <keyword>IEEE Standards</keyword>

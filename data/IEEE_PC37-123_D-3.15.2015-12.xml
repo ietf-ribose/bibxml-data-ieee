@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-123/D-3.15.2015-12" target="https://ieeexplore.ieee.org/document/7389952">
+<reference anchor="IEEE.PC37-123/D-3.15.2015-12" target="https://ieeexplore.ieee.org/document/7389952">
   <front>
     <title>IEEE Approved Draft Guide for Specifications for High-Voltage Gas-Insulated Substations Rated Above 52 kV</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="22"/>
     <keyword>IEEE Standards</keyword>

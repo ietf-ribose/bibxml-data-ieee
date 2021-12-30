@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1290.1996" target="https://ieeexplore.ieee.org/document/553000">
+<reference anchor="IEEE.1290.1996" target="https://ieeexplore.ieee.org/document/553000">
   <front>
     <title>IEEE Guide for Motor Operated Valve (MOV) Motor Application, Protection, Control, and Testing in Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81547"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="September" day="24"/>
     <keyword>IEEE Standards</keyword>

@@ -1,0 +1,21 @@
+<reference anchor="IEEE.1205.1993" target="https://ieeexplore.ieee.org/document/278260">
+  <front>
+    <title>IEEE Guide for Assessing, Monitoring and Mitigating Aging Effects on Class 1E Equipment Used in Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119207"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Aging</keyword>
+    <keyword>degradation</keyword>
+    <keyword>1E</keyword>
+    <keyword>failure</keyword>
+    <keyword>maintenance</keyword>
+    <keyword>Life management</keyword>
+    <keyword>Life cycle assessment</keyword>
+    <keyword>Condition assessment</keyword>
+    <keyword>Class 1E equipment</keyword>
+    <keyword>Aging effects</keyword>
+    <abstract>The guidelines are provided for assessing, monitoring, and mitigating degradation of Class 1E equipment used in nuclear power generating stations due to aging. The methods described can be used to identify the performance capability of Class 1E equipment beyond its qualified life. A discussion of stressors and aging mechanisms is included. If aging considerations have been satisfactorily addressed through other means (e.g., equipment qualification), then use of this guide may not be warranted. For some equipment, only partial application of this guide may be warranted.</abstract>
+  </front>
+</reference>

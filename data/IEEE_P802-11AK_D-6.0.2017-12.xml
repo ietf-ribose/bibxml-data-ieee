@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-11ak/D-6.0.2017-12" target="https://ieeexplore.ieee.org/document/8241007">
+<reference anchor="IEEE.P802-11ak/D-6.0.2017-12" target="https://ieeexplore.ieee.org/document/8241007">
   <front>
     <title>IEEE Draft Standard for Telecommunications and information exchange between systems - Local and metropolitan area networks-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications - Amendment 4: Enhancements For Transit Links Within Bridged Networks</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="December" day="27"/>
     <keyword>IEEE Standards</keyword>

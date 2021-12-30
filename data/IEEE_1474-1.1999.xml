@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1474-1.1999" target="https://ieeexplore.ieee.org/document/815310">
+<reference anchor="IEEE.1474-1.1999" target="https://ieeexplore.ieee.org/document/815310">
   <front>
     <title>IEEE Standard for Communication Based Train Control Performance Requirements and Functional Requirements</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90611"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Rail transportation</keyword>

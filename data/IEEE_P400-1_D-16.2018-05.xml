@@ -1,8 +1,14 @@
-<reference anchor="IEEE P400-1/D-16.2018-05" target="https://ieeexplore.ieee.org/document/8387012">
+<reference anchor="IEEE.P400-1/D-16.2018-05" target="https://ieeexplore.ieee.org/document/8387012">
   <front>
     <title>IEEE Draft Guide for Field Testing of Laminated Dielectric, Shielded AC Power Cable Systems Rated 5 kV to 500 kV Using High Voltage Direct Current (HVDC)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="15"/>
     <keyword>IEEE Standards</keyword>

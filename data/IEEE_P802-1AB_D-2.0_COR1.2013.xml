@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1AB/D-2.0/Cor1.2013" target="https://ieeexplore.ieee.org/document/6415947">
+<reference anchor="IEEE.P802-1AB/D-2.0/Cor1.2013" target="https://ieeexplore.ieee.org/document/6415947">
   <front>
     <title>IEEE Draft Standard for Local and metropolitan area networks-- Station and Media Access Control Connectivity Discovery - Corrigendum 1: Technical and editorial corrections</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January" day="21"/>
     <keyword>IEEE standards</keyword>

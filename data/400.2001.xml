@@ -1,0 +1,21 @@
+<reference anchor="IEEE.400.2001" target="https://ieeexplore.ieee.org/document/982216">
+  <front>
+    <title>IEEE Guide for Field Testing and Evaluation of the Insulation of Shielded Power Cable Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93394"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="June" day="6"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Insulation</keyword>
+    <keyword>Partial discharges</keyword>
+    <keyword>alternating-polarity dc-biased ac voltage</keyword>
+    <keyword>dissipation factor testing</keyword>
+    <keyword>field test</keyword>
+    <keyword>high-voltage dc testing</keyword>
+    <abstract>This Guide lists the various field test methods that are currently available or underdevelopment with guidance on HOW to perform each test. The Guide covers shielded, insulatedpower cable systems rated 5 kV through 500 kV unless these voltages are modified by the specific "point" document.</abstract>
+  </front>
+</reference>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P400-2/D-13.2012-08" target="https://ieeexplore.ieee.org/document/6264053">
+<reference anchor="IEEE.P400-2/D-13.2012-08" target="https://ieeexplore.ieee.org/document/6264053">
   <front>
     <title>IEEE Draft Guide for Field Testing of Shielded Power Cable Systems Using Very Low Frequency (VLF) (less than 1 Hz)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="August" day="9"/>
     <keyword>IEEE standards</keyword>

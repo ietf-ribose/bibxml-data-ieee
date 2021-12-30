@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1Qcc/D-2.2.2018-03" target="https://ieeexplore.ieee.org/document/8315189">
+<reference anchor="IEEE.P802-1Qcc/D-2.2.2018-03" target="https://ieeexplore.ieee.org/document/8315189">
   <front>
     <title>IEEE Draft Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks Amendment: Stream Reservation Protocol (SRP) Enhancements and Performance Improvements</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March" day="13"/>
     <keyword>IEEE Standards</keyword>

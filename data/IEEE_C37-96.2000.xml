@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-96.2000" target="https://ieeexplore.ieee.org/document/868607">
+<reference anchor="IEEE.C37-96.2000" target="https://ieeexplore.ieee.org/document/868607">
   <front>
     <title>IEEE Guide for AC Motor Protection</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91908"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="February" day="21"/>
     <keyword>AC motors</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 323.1983" target="https://ieeexplore.ieee.org/document/30666">
+<reference anchor="IEEE.323.1983" target="https://ieeexplore.ieee.org/document/30666">
   <front>
     <title>IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.82408"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="February" day="6"/>
     <keyword>Nuclear power generation</keyword>

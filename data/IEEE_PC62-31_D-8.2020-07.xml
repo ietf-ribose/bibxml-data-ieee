@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-31/D-8.2020-07" target="https://ieeexplore.ieee.org/document/9138819">
+<reference anchor="IEEE.PC62-31/D-8.2020-07" target="https://ieeexplore.ieee.org/document/9138819">
   <front>
     <title>IEEE Approved Draft Standard for Test Methods and Preferred Values for Low-Voltage Gas Discharge Tube Surge-Protective Components</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="10"/>
     <keyword>IEEE Standards</keyword>

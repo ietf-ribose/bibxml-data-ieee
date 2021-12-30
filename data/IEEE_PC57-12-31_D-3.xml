@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-12-31/D-3" target="https://ieeexplore.ieee.org/document/6709736">
+<reference anchor="IEEE.PC57-12-31/D-3" target="https://ieeexplore.ieee.org/document/6709736">
   <front>
     <title>IEEE Draft Standard for Pole-Mounted Equipment - Enclosure Integrity - Corrigendum 1: Correction to the SCAB Corrosion Test in Section 4.5.6</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="January" day="10"/>
     <keyword>IEEE standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1610/D-9.2016-09" target="https://ieeexplore.ieee.org/document/7570456">
+<reference anchor="IEEE.P1610/D-9.2016-09" target="https://ieeexplore.ieee.org/document/7570456">
   <front>
     <title>IEEE Guide for the Application of Faulted Circuit Indicators on Distribution Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="September" day="16"/>
     <keyword>IEEE Standards</keyword>

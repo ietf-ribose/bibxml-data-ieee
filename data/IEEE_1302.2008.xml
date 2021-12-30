@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1302.2008" target="https://ieeexplore.ieee.org/document/4783158">
+<reference anchor="IEEE.1302.2008" target="https://ieeexplore.ieee.org/document/4783158">
   <front>
     <title>IEEE Guide for the Electromagnetic Characterization of Conductive Gaskets in the Frequency Range of DC to 18 GHz</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4783158"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="28"/>
     <keyword>IEEE standards</keyword>

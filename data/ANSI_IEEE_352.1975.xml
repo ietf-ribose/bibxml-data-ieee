@@ -1,9 +1,14 @@
-<reference anchor="ANSI/IEEE 352.1975" target="https://ieeexplore.ieee.org/document/7409888">
+<reference anchor="ANSI/IEEE.352.1975" target="https://ieeexplore.ieee.org/document/7409888">
   <front>
     <title>IEEE Guide for General Principles of Reliability Analysis of Nuclear Power Generating Station Protection Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7409888"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="17"/>
     <keyword>IEEE Standards</keyword>

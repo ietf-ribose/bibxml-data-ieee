@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1264.1993" target="https://ieeexplore.ieee.org/document/8684408">
+<reference anchor="IEEE.1264.1993" target="https://ieeexplore.ieee.org/document/8684408">
   <front>
     <title>IEEE Guide for Animal Deterrents for Electric Power Supply Substations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8684408"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>barrier</keyword>

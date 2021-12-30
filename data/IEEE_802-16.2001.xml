@@ -1,9 +1,15 @@
-<reference anchor="IEEE 802-16.2001" target="https://ieeexplore.ieee.org/document/997967">
+<reference anchor="IEEE.802-16.2001" target="https://ieeexplore.ieee.org/document/997967">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks - Part 16: Air Interface for Fixed Broadband Wireless Access Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93575"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE 802.16 Standard</keyword>

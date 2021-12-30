@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-13-1/D-6.5.2017-03" target="https://ieeexplore.ieee.org/document/7880535">
+<reference anchor="IEEE.PC57-13-1/D-6.5.2017-03" target="https://ieeexplore.ieee.org/document/7880535">
   <front>
     <title>IEEE Draft Guide for Field Testing of Relaying Current Transformers</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="March" day="17"/>
     <keyword>IEEE Standards</keyword>

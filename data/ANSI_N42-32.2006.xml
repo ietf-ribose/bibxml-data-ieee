@@ -1,9 +1,15 @@
-<reference anchor="ANSI N42-32.2006" target="https://ieeexplore.ieee.org/document/4079474">
+<reference anchor="ANSI.N42-32.2006" target="https://ieeexplore.ieee.org/document/4079474">
   <front>
     <title>American National Standard Performance Criteria for Alarming Personal Radiation Detectors for Homeland Security</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299333"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="1"/>
     <keyword>Radiation detectors</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 647.1995" target="https://ieeexplore.ieee.org/document/494457">
+<reference anchor="IEEE.647.1995" target="https://ieeexplore.ieee.org/document/494457">
   <front>
     <title>IEEE Standard Specification Format Guide and Test Procedure for Single-Axis Laser Gyros</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.80221"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="November" day="13"/>
     <keyword>Gyroscopes</keyword>

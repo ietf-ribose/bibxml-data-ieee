@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-3cu/D-3.1.2020-10" target="https://ieeexplore.ieee.org/document/9231292">
+<reference anchor="IEEE.P802-3cu/D-3.1.2020-10" target="https://ieeexplore.ieee.org/document/9231292">
   <front>
     <title>IEEE Draft Standard for Ethernet Amendment: Physical Layers and Management Parameters for 100 Gb/s and 400 Gb/s Operation over Single-Mode Fiber at 100 Gb/s per Wavelength</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="October" day="19"/>
     <keyword>IEEE Standards</keyword>

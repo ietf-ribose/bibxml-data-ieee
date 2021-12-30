@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-20-3/D-10.2013-08" target="https://ieeexplore.ieee.org/document/6587047">
+<reference anchor="IEEE.PC37-20-3/D-10.2013-08" target="https://ieeexplore.ieee.org/document/6587047">
   <front>
     <title>IEEE Draft Standard for Metal-Enclosed Interrupter Switchgear (1 kV-38 kV)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="26"/>
     <keyword>IEEE standards</keyword>

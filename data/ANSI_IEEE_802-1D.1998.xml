@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 802-1D.1998" target="https://ieeexplore.ieee.org/document/1389253">
+<reference anchor="ANSI/IEEE.802-1D.1998" target="https://ieeexplore.ieee.org/document/1389253">
   <front>
     <title>IEEE Standard for Local Area Network MAC (Media Access Control) Bridges</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.95619"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

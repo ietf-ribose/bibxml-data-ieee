@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1184/D-21.2006" target="https://ieeexplore.ieee.org/document/4152618">
+<reference anchor="IEEE.P1184/D-21.2006" target="https://ieeexplore.ieee.org/document/4152618">
   <front>
     <title>IEEE Draft Guide for Batteries for Uninterruptible Power Supply Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July" day="24"/>
     <keyword>IEEE Standards</keyword>

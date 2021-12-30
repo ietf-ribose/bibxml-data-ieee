@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1566/D-2.2014-10" target="https://ieeexplore.ieee.org/document/6933859">
+<reference anchor="IEEE.P1566/D-2.2014-10" target="https://ieeexplore.ieee.org/document/6933859">
   <front>
     <title>IEEE Draft Standard for Performance of Adjustable Speed AC Drives Rated 375 kW and Larger</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="October" day="22"/>
     <keyword>IEEE standards</keyword>

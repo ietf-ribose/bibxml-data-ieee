@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE P24748-3.2019-01" target="https://ieeexplore.ieee.org/document/8809989">
+<reference anchor="ISO/IEC/IEEE.P24748-3.2019-01" target="https://ieeexplore.ieee.org/document/8809989">
   <front>
     <title>IEEE Draft - Systems and Software Engineering-Life Cycle Management-Part 3: Guidelines for the Application of ISO/IEC/IEEE 12207 (Software Life Cycle Processes)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August" day="22"/>
     <keyword>IEEE Standards</keyword>

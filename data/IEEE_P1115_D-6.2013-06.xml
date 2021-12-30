@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1115/D-6.2013-06" target="https://ieeexplore.ieee.org/document/6826451">
+<reference anchor="IEEE.P1115/D-6.2013-06" target="https://ieeexplore.ieee.org/document/6826451">
   <front>
     <title>IEEE Approved Draft Recommended Practice for Sizing Nickel-Cadmium Batteries for Stationary Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="June" day="5"/>
     <keyword>IEEE standards</keyword>

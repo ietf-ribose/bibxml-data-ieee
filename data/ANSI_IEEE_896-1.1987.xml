@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 896-1.1987" target="https://ieeexplore.ieee.org/document/35051">
+<reference anchor="ANSI/IEEE.896-1.1987" target="https://ieeexplore.ieee.org/document/35051">
   <front>
     <title>IEEE Standard Backplane Bus Specifications for Multiprocessor Architectures: Futurebus+(R)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.86186"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="April" day="8"/>
     <keyword>Computer interfaces</keyword>

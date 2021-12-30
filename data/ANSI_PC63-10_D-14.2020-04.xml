@@ -1,8 +1,14 @@
-<reference anchor="ANSI PC63-10/D-14.2020-04" target="https://ieeexplore.ieee.org/document/9234152">
+<reference anchor="ANSI.PC63-10/D-14.2020-04" target="https://ieeexplore.ieee.org/document/9234152">
   <front>
     <title>Approved Draft Standard for American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="October" day="20"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P841/D-5.2019-09" target="https://ieeexplore.ieee.org/document/8830496">
+<reference anchor="IEEE.P841/D-5.2019-09" target="https://ieeexplore.ieee.org/document/8830496">
   <front>
     <title>IEEE Draft Standard for Petroleum and Chemical Industry--Premium-Efficiency, Severe-Duty, Totally Enclosed Squirrel Cage Induction Motor--0.75-370 kW (1-500 hp)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September" day="10"/>
     <keyword>IEEE Standards</keyword>

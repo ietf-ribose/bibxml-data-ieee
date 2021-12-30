@@ -1,8 +1,14 @@
-<reference anchor="IEC/IEEE P62582-2-am1.2015-07" target="https://ieeexplore.ieee.org/document/7185314">
+<reference anchor="IEC/IEEE.P62582-2-am1.2015-07" target="https://ieeexplore.ieee.org/document/7185314">
   <front>
     <title>IEC/IEEE Draft Nuclear Power Plants - Instrumentation and Control Important to Safety - Electrical Equipment Condition Monitoring Methods - Part 2: Indenter Modulus Amendment 1</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="August" day="11"/>
     <keyword>IEEE Standards</keyword>

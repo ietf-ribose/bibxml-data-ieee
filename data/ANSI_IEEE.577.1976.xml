@@ -1,0 +1,13 @@
+<reference anchor="ANSI/IEEE.577.1976" target="https://ieeexplore.ieee.org/document/8684592">
+  <front>
+    <title>IEEE Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Power Generating Stations</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.8684592"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>reliability</keyword>
+    <keyword>protection</keyword>
+    <abstract>Uniform minimum acceptable requirements for the performance of reliability analyses for safety-related systems found in nuclear power generating stations are provided. The requirements can be applied during design, fabrication, testing, maintenance, and repair of systems and components in nuclear power plants. The timing of the analysis depends upon the purpose for which it is performed.</abstract>
+  </front>
+</reference>

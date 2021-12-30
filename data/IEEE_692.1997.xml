@@ -1,9 +1,15 @@
-<reference anchor="IEEE 692.1997" target="https://ieeexplore.ieee.org/document/624350">
+<reference anchor="IEEE.692.1997" target="https://ieeexplore.ieee.org/document/624350">
   <front>
     <title>IEEE Standard Criteria for Security Systems for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83835"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Nuclear power generation</keyword>

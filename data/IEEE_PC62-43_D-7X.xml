@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-43/D-7x" target="https://ieeexplore.ieee.org/document/4040834">
+<reference anchor="IEEE.PC62-43/D-7x" target="https://ieeexplore.ieee.org/document/4040834">
   <front>
     <title>IEEE Approved Draft Guide for the Application of Surge Protectors Used in Low-Voltage (Equal to or Less than 1000 Vrms or 1200 Vdc) Data, Communications, and Signaling Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September" day="23"/>
     <keyword>current-limiting device</keyword>

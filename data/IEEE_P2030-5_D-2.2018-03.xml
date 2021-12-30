@@ -1,8 +1,14 @@
-<reference anchor="IEEE P2030-5/D-2.2018-03" target="https://ieeexplore.ieee.org/document/8314585">
+<reference anchor="IEEE.P2030-5/D-2.2018-03" target="https://ieeexplore.ieee.org/document/8314585">
   <front>
     <title>IEEE Approved Draft Standard for Smart Energy Profile Application Protocol</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March" day="10"/>
     <keyword>IEEE Standards</keyword>

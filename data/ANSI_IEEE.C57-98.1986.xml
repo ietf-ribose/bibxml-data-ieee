@@ -1,0 +1,17 @@
+<reference anchor="ANSI/IEEE.C57-98.1986" target="https://ieeexplore.ieee.org/document/29100">
+  <front>
+    <title>IEEE Guide for Transformer Impulse Tests</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81597"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Dielectric breakdown</keyword>
+    <keyword>Impulse testing</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Transformers</keyword>
+    <keyword>Insulation</keyword>
+    <abstract>Transformer connections, test methods, circuit configurations, and failure analysis of lightning impulse and switching impulse testing of power transformers are addressed. This guide is also generally applicable to distribution and instrument transformers.</abstract>
+  </front>
+</reference>

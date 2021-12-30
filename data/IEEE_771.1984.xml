@@ -1,9 +1,14 @@
-<reference anchor="IEEE 771.1984" target="https://ieeexplore.ieee.org/document/7437344">
+<reference anchor="IEEE.771.1984" target="https://ieeexplore.ieee.org/document/7437344">
   <front>
     <title>IEEE Guide to the Use of ATLAS</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7437344"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="21"/>
     <keyword>IEEE Standards</keyword>

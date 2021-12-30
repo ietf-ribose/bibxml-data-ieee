@@ -1,9 +1,15 @@
-<reference anchor="IEEE 404.2000" target="https://ieeexplore.ieee.org/document/6222386">
+<reference anchor="IEEE.404.2000" target="https://ieeexplore.ieee.org/document/6222386">
   <front>
     <title>IEEE Standard for Extruded and Laminated Dielectric Shielded Cable Joints Rated 2500-500 000V</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.6222386"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="21"/>
     <keyword>IEEE standards</keyword>

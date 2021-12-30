@@ -1,9 +1,15 @@
-<reference anchor="IEEE 830.1984" target="https://ieeexplore.ieee.org/document/278253">
+<reference anchor="IEEE.830.1984" target="https://ieeexplore.ieee.org/document/278253">
   <front>
     <title>IEEE Guide for Software Requirements Specifications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.119205"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="January" day="12"/>
     <keyword>Software engineering</keyword>

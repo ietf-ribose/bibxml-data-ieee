@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1Q-REV/D-2.1.2018-01" target="https://ieeexplore.ieee.org/document/8253613">
+<reference anchor="IEEE.1Q-REV/D-2.1.2018-01" target="https://ieeexplore.ieee.org/document/8253613">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="10"/>
     <keyword>IEEE Standards</keyword>

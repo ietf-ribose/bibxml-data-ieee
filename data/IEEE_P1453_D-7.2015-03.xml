@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1453/D-7.2015-03" target="https://ieeexplore.ieee.org/document/7061974">
+<reference anchor="IEEE.P1453/D-7.2015-03" target="https://ieeexplore.ieee.org/document/7061974">
   <front>
     <title>IEEE Draft Recommended Practice for the Analysis of Fluctuating Installations on Power Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="March" day="17"/>
     <keyword>IEEE Standards</keyword>

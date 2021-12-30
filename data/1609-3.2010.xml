@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1609-3.2010" target="https://ieeexplore.ieee.org/document/5680697">
+  <front>
+    <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5680697"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="June" day="13"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Vehicular and wireless technologies</keyword>
+    <keyword>Provider Service Identifier (PSID)</keyword>
+    <keyword>Wireless Access in Vehicular Environments (WAVE)</keyword>
+    <keyword>WAVE Short Message (WSM)</keyword>
+    <abstract>Wireless Access in Vehicular Environments (WAVE) Networking Services provides services to WAVE devices and systems. Layers 3 and 4 of the open system interconnect (OSI) model and the Internet Protocol (IP), User Datagram Protocol (UDP), and Transmission Control Protocol (TCP) elements of the Internet model are represented. Management and data services within WAVE devices are provided.</abstract>
+  </front>
+</reference>

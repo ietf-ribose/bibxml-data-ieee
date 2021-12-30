@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-11/D-9.0" target="https://ieeexplore.ieee.org/document/8986869">
+<reference anchor="IEEE.PC62-11/D-9.0" target="https://ieeexplore.ieee.org/document/8986869">
   <front>
     <title>IEEE Approved Draft Standard for Metal-Oxide Surge Arresters for AC Power Circuits (&amp;#x003E; 1 kV)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="7"/>
     <keyword>IEEE Standards</keyword>

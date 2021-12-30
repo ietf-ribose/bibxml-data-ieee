@@ -1,9 +1,14 @@
-<reference anchor="ANSI/IEEE 383.1974" target="https://ieeexplore.ieee.org/document/8692780">
+<reference anchor="ANSI/IEEE.383.1974" target="https://ieeexplore.ieee.org/document/8692780">
   <front>
     <title>IEEE Standard for Type Test of Class 1E Electric Cables, Field Splices, and Connections for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.8692780"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="16"/>
     <keyword>type</keyword>

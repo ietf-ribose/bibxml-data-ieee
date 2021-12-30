@@ -1,8 +1,14 @@
-<reference anchor="ANSI PC63-4a/D-1.04.2017-03" target="https://ieeexplore.ieee.org/document/7994759">
+<reference anchor="ANSI.PC63-4a/D-1.04.2017-03" target="https://ieeexplore.ieee.org/document/7994759">
   <front>
     <title>Draft American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz Amendment 1: Test Site Validation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="July" day="27"/>
     <keyword>IEEE Standards</keyword>

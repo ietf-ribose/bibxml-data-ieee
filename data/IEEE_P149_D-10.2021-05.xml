@@ -1,8 +1,14 @@
-<reference anchor="IEEE P149/D-10.2021-05" target="https://ieeexplore.ieee.org/document/9451886">
+<reference anchor="IEEE.P149/D-10.2021-05" target="https://ieeexplore.ieee.org/document/9451886">
   <front>
     <title>IEEE Draft Recommended Practice for Antenna Measurements</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2021" month="June" day="10"/>
     <keyword>IEEE Standards</keyword>

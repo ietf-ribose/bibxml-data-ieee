@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 141.1986" target="https://ieeexplore.ieee.org/document/35071">
+<reference anchor="ANSI/IEEE.141.1986" target="https://ieeexplore.ieee.org/document/35071">
   <front>
     <title>IEEE Recommended Practice for Electric Power Distribution for Industrial Plants (IEEE Red Book)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.86376"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January" day="10"/>
     <keyword>Industrial plants</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1264/D-6.2014-10" target="https://ieeexplore.ieee.org/document/7044514">
+<reference anchor="IEEE.P1264/D-6.2014-10" target="https://ieeexplore.ieee.org/document/7044514">
   <front>
     <title>IEEE Approved Draft Guide for Animal Deterrents for Electric Power Supply Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="February" day="18"/>
     <keyword>IEEE Standards</keyword>

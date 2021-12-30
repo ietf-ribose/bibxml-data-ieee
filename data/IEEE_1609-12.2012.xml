@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1609-12.2012" target="https://ieeexplore.ieee.org/document/6308691">
+<reference anchor="IEEE.1609-12.2012" target="https://ieeexplore.ieee.org/document/6308691">
   <front>
     <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) - Identifier Allocations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6308691"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="September" day="20"/>
     <keyword>IEEE standards</keyword>

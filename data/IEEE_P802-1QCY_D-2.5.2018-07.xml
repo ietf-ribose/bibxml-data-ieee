@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1Qcy/D-2.5.2018-07" target="https://ieeexplore.ieee.org/document/8423797">
+<reference anchor="IEEE.P802-1Qcy/D-2.5.2018-07" target="https://ieeexplore.ieee.org/document/8423797">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Bridges and Bridged Networks Amendment: Virtual Station Interface (VSI) Discovery and Configuration Protocol (VDP) Extension to Support Network Virtualization Overlays Over Layer 3 (NVO3)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July" day="31"/>
     <keyword>IEEE Standards</keyword>

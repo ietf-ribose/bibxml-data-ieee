@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1633/D-3.2016-04" target="https://ieeexplore.ieee.org/document/7502041">
+<reference anchor="IEEE.P1633/D-3.2016-04" target="https://ieeexplore.ieee.org/document/7502041">
   <front>
     <title>IEEE Approved Draft Recommended Practice on Software Reliability</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="June" day="30"/>
     <keyword>IEEE Standards</keyword>

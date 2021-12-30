@@ -1,9 +1,15 @@
-<reference anchor="IEEE 80.2000" target="https://ieeexplore.ieee.org/document/861340">
+<reference anchor="IEEE.80.2000" target="https://ieeexplore.ieee.org/document/861340">
   <front>
     <title>IEEE Guide for Safety in AC Substation Grounding</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91902"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="February" day="25"/>
     <keyword>IEEE standards</keyword>

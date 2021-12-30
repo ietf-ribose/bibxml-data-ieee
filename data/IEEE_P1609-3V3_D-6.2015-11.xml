@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1609-3v3/D-6.2015-11" target="https://ieeexplore.ieee.org/document/7397774">
+<reference anchor="IEEE.P1609-3v3/D-6.2015-11" target="https://ieeexplore.ieee.org/document/7397774">
   <front>
     <title>IEEE Approved Draft Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="3"/>
     <keyword>IEEE Standards</keyword>

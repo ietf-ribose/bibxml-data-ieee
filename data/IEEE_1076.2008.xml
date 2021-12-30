@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1076.2008" target="https://ieeexplore.ieee.org/document/4772740">
+<reference anchor="IEEE.1076.2008" target="https://ieeexplore.ieee.org/document/4772740">
   <front>
     <title>IEEE Standard VHDL Language Reference Manual</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4772740"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="December" day="20"/>
     <keyword>IEEE Standards</keyword>

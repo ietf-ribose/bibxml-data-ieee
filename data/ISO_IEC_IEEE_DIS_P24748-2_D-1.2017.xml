@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE DIS P24748-2/D-1.2017" target="https://ieeexplore.ieee.org/document/8013166">
+<reference anchor="ISO/IEC/IEEE.DIS.P24748-2/D-1.2017" target="https://ieeexplore.ieee.org/document/8013166">
   <front>
     <title>ISO/IEC/IEEE Draft International Standard - Systems and Software Engineering-- Life Cycle Management-- Part 2: Guidelines for the Application of ISO/IEC/IEEE 15288 (System Life Cycle Processes)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="August" day="18"/>
     <keyword>IEEE Standards</keyword>

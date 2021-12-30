@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC95-1/D-3.4.2018-09" target="https://ieeexplore.ieee.org/document/8462827">
+<reference anchor="IEEE.PC95-1/D-3.4.2018-09" target="https://ieeexplore.ieee.org/document/8462827">
   <front>
     <title>IEEE Draft Standard for Safety Levels with Respect to Human Exposure to Electric, Magnetic and Electromagnetic Fields, 0 Hz to 300 GHz</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September" day="11"/>
     <keyword>IEEE Standards</keyword>

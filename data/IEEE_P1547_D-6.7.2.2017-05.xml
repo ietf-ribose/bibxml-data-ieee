@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1547/D-6.7.2.2017-05" target="https://ieeexplore.ieee.org/document/7948703">
+<reference anchor="IEEE.P1547/D-6.7.2.2017-05" target="https://ieeexplore.ieee.org/document/7948703">
   <front>
     <title>IEEE Draft Standard for Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="June" day="14"/>
     <keyword>IEEE Standards</keyword>

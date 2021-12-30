@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1246.2011 Redline" target="https://ieeexplore.ieee.org/document/6172718">
+<reference anchor="IEEE.1246.2011.Redline" target="https://ieeexplore.ieee.org/document/6172718">
   <front>
     <title>IEEE Guide for Temporary Protective Grounding Systems Used in Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="May" day="17"/>
     <keyword>IEEE standards</keyword>

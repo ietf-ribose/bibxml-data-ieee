@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1AS/D-2.0/Cor2.2015" target="https://ieeexplore.ieee.org/document/7100821">
+<reference anchor="IEEE.P802-1AS/D-2.0/Cor2.2015" target="https://ieeexplore.ieee.org/document/7100821">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks - Corrigendum 2: Technical and Editorial Corrections</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="May" day="1"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 404.1977" target="https://ieeexplore.ieee.org/document/7415887">
+<reference anchor="IEEE.404.1977" target="https://ieeexplore.ieee.org/document/7415887">
   <front>
     <title>IEEE Standard for Cable Joints</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7415887"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="22"/>
     <keyword>IEEE Standards</keyword>

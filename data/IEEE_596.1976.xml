@@ -1,9 +1,14 @@
-<reference anchor="IEEE 596.1976" target="https://ieeexplore.ieee.org/document/7431927">
+<reference anchor="IEEE.596.1976" target="https://ieeexplore.ieee.org/document/7431927">
   <front>
     <title>IEEE Standard Parallel Highway Interface System (CAMAC)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.7431927"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="11"/>
     <keyword>IEEE Standards</keyword>

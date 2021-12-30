@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-15-4.2011" target="https://ieeexplore.ieee.org/document/6012487">
+<reference anchor="IEEE.802-15-4.2011" target="https://ieeexplore.ieee.org/document/6012487">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks--Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6012487"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="April" day="4"/>
     <keyword>IEEE standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 125.1988" target="https://ieeexplore.ieee.org/document/19490">
+<reference anchor="ANSI/IEEE.125.1988" target="https://ieeexplore.ieee.org/document/19490">
   <front>
     <title>IEEE Recommended Practice for Preparation of Equipment Specifications for Speed-Governing of Hydraulic Turbines Intended to Drive Electric Generators</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.120259"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="January" day="31"/>
     <keyword>Hydraulic equipment</keyword>

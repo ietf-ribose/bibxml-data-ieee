@@ -1,0 +1,26 @@
+<reference anchor="IEEE.802-22.2011" target="https://ieeexplore.ieee.org/document/5951707">
+  <front>
+    <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) specifications: Policies and procedures for operation in the TV Bands</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5951707"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="May" day="31"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Information technology</keyword>
+    <keyword>Information exchange</keyword>
+    <keyword>Wireless communication</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>broadband wireless access network</keyword>
+    <keyword>cognitive radio</keyword>
+    <keyword>fixed user terminals</keyword>
+    <keyword>IEEE 802.22</keyword>
+    <keyword>portable user terminals</keyword>
+    <keyword>radio spectrum sensing</keyword>
+    <keyword>regional area network</keyword>
+    <keyword>WRAN standards</keyword>
+    <abstract>This standard specifies the air interface, including the cognitive medium access control layer (MAC) and physical layer (PHY), of point-to-multipoint wireless regional area networks comprised of a professional fixed base station with fixed and portable user terminals operating in the VHF/UHF TV broadcast bands between 54 MHz to 862 MHz.</abstract>
+  </front>
+</reference>

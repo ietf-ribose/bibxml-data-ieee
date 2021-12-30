@@ -1,8 +1,14 @@
-<reference anchor="IEEE 644.1994" target="https://ieeexplore.ieee.org/document/9079749">
+<reference anchor="IEEE.644.1994" target="https://ieeexplore.ieee.org/document/9079749">
   <front>
     <title>IEEE Standard Procedures for Measurement of Power Frequency Electric and Magnetic Fields from AC Power Lines</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April" day="27"/>
     <keyword>IEEE Standards</keyword>

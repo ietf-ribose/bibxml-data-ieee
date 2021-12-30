@@ -1,0 +1,17 @@
+<reference anchor="IEEE.384.1977" target="https://ieeexplore.ieee.org/document/7414358">
+  <front>
+    <title>IEEE Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7414358"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2016" month="February" day="19"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power supplies</keyword>
+    <keyword>Power cables</keyword>
+    <keyword>Mechanical systems</keyword>
+    <keyword>Electrical equipment</keyword>
+    <keyword>Circuits</keyword>
+    <abstract>The scope of this document is the independence requirements of the circuits and equipment comprising or associated with Class 1E systems. It sets forth criteria for the independence that can be achieved by physical separation and electrical isolation of circuits and equipment which are redundant but does not address the determination of what is to be considered redundant.</abstract>
+  </front>
+</reference>

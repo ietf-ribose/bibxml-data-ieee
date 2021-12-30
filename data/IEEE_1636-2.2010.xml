@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1636-2.2010" target="https://ieeexplore.ieee.org/document/5648434">
+<reference anchor="IEEE.1636-2.2010" target="https://ieeexplore.ieee.org/document/5648434">
   <front>
     <title>IEEE Trial-Use Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Maintenance Action Information via the Extensible Markup Language (XML)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5648434"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="31"/>
     <keyword>IEEE standards</keyword>

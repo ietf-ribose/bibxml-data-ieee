@@ -1,9 +1,15 @@
-<reference anchor="IEEE 625.1990" target="https://ieeexplore.ieee.org/document/159195">
+<reference anchor="IEEE.625.1990" target="https://ieeexplore.ieee.org/document/159195">
   <front>
     <title>IEEE Recommended Practice to Improve Electrical Maintenance and Safety in the Cement Industry</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101041"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="September" day="14"/>
     <keyword>Capacitive energy storage</keyword>

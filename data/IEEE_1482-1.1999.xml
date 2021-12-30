@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1482-1.1999" target="https://ieeexplore.ieee.org/document/798778">
+<reference anchor="IEEE.1482-1.1999" target="https://ieeexplore.ieee.org/document/798778">
   <front>
     <title>IEEE Standard for Rail Transit Vehicle Event Recorders</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90565"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="May" day="23"/>
     <keyword>Rail transportation</keyword>

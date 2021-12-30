@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1540.2001" target="https://ieeexplore.ieee.org/document/914365">
+<reference anchor="IEEE.1540.2001" target="https://ieeexplore.ieee.org/document/914365">
   <front>
     <title>IEEE Standard for Software Life Cycle Processes - Risk Management</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92418"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="12"/>
     <keyword>Software</keyword>

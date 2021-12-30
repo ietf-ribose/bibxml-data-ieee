@@ -1,8 +1,14 @@
-<reference anchor="IEEE Unapproved P1800/D-8" target="https://ieeexplore.ieee.org/document/4796920">
+<reference anchor="IEEE.Unapproved.P1800/D-8" target="https://ieeexplore.ieee.org/document/4796920">
   <front>
     <title>IEEE Draft Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May" day="3"/>
     <keyword>IEEE Standards</keyword>

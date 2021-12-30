@@ -1,0 +1,35 @@
+<reference anchor="IEEE.P802-15-4m/D-3.2013-05" target="https://ieeexplore.ieee.org/document/6581789">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) - Amendment 6: TV White Space Between 54 MHz and 862MHz Physical Layer</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Ad hoc networks</keyword>
+    <keyword>IEEE 802.11 standards</keyword>
+    <keyword>Wireless LAN</keyword>
+    <keyword>Personal area networks</keyword>
+    <keyword>White spaces</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Low power electronics</keyword>
+    <keyword>ad hoc network</keyword>
+    <keyword>IEEE 802.15.4</keyword>
+    <keyword>IEEE 802.15.4m</keyword>
+    <keyword>low data rate</keyword>
+    <keyword>low power</keyword>
+    <keyword>LR-WPAN</keyword>
+    <keyword>mobility</keyword>
+    <keyword>PAN</keyword>
+    <keyword>personal area network</keyword>
+    <keyword>radio frequency</keyword>
+    <keyword>RF</keyword>
+    <keyword>short range</keyword>
+    <keyword>TV White Space</keyword>
+    <keyword>wireless</keyword>
+    <keyword>wireless personal area network</keyword>
+    <keyword>WPAN</keyword>
+    <abstract>In this amendment to IEEE Std 802.15.4-2011, outdoor low-data-rate, wireless, TV White Space network requirements are addressed. Alternate PHYs are defined as well as only those MAC modifications needed to support their implementation.</abstract>
+  </front>
+</reference>

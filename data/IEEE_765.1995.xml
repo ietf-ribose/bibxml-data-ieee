@@ -1,9 +1,15 @@
-<reference anchor="IEEE 765.1995" target="https://ieeexplore.ieee.org/document/696976">
+<reference anchor="IEEE.765.1995" target="https://ieeexplore.ieee.org/document/696976">
   <front>
     <title>IEEE Standard for Preferred Power Supply (PPS) for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122638"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Nuclear power generation auxiliary systems</keyword>

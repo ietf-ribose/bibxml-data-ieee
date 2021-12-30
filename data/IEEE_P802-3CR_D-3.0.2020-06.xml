@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-3cr/D-3.0.2020-06" target="https://ieeexplore.ieee.org/document/9121842">
+<reference anchor="IEEE.P802-3cr/D-3.0.2020-06" target="https://ieeexplore.ieee.org/document/9121842">
   <front>
     <title>IEEE Draft Standard for Ethernet Amendment: Maintenance #14: Isolation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="June" day="19"/>
     <keyword>IEEE Standards</keyword>

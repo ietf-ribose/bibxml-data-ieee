@@ -1,0 +1,20 @@
+<reference anchor="IEEE.519.1992" target="https://ieeexplore.ieee.org/document/210894">
+  <front>
+    <title>IEEE Recommended Practices and Requirements for Harmonic Control in Electrical Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.114370"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="November" day="12"/>
+    <keyword>Compensation</keyword>
+    <keyword>Power conversion</keyword>
+    <keyword>Power system control</keyword>
+    <keyword>Power system harmonics</keyword>
+    <keyword>Reactive power</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Reactive power compensation</keyword>
+    <keyword>Harmonics</keyword>
+    <keyword>Harmonic control</keyword>
+    <abstract>This guide applies to all types of static power converters used in industrial and commercial power systems. The problems involved in the harmonic control and reactive compensation of such converters are addressed, and an application guide is provided. Limits of disturbances to the ac power distribution system that affect other equipment and communications are recommended. This guide is not intended to cover the effect of radio frequency interference.</abstract>
+  </front>
+</reference>

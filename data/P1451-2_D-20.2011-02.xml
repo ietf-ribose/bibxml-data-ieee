@@ -1,0 +1,29 @@
+<reference anchor="IEEE.P1451-2/D-20.2011-02" target="https://ieeexplore.ieee.org/document/5738192">
+  <front>
+    <title>IEEE Draft Standard for a Smart Transducer Interface for Sensors and Actuators - Transducer to Microprocessor Communication Protocols and Transducer Electronic Data Sheet (TEDS) Formats</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5738192"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <keyword>IEEE standards</keyword>
+    <keyword>Transducers</keyword>
+    <keyword>Sensors</keyword>
+    <keyword>Actuators</keyword>
+    <keyword>Microprocessors</keyword>
+    <keyword>IEEE-1451</keyword>
+    <keyword>1451</keyword>
+    <keyword>I236 C</keyword>
+    <keyword>NCAP</keyword>
+    <keyword>PHY</keyword>
+    <keyword>RS-232</keyword>
+    <keyword>Serial</keyword>
+    <keyword>Smart Actuator</keyword>
+    <keyword>Smart Sensor</keyword>
+    <keyword>Smart Transducer</keyword>
+    <keyword>SPI</keyword>
+    <keyword>TEDS</keyword>
+    <keyword>TIM</keyword>
+    <keyword>UART</keyword>
+    <abstract>IEEE P1451.2 defines a wired point-to-point interface standard for sensors, specifically connectors and communication protocols for SPI, I2C, UART and RS-232-C interfaces together with the corresponding TEDS. This specification focuses on the Communication Modules that connect the TIM and NCAP using the IEEE Std 1451.0-2007 basic standard with brevity as a goal. The purpose of this revision is to make IEEE-1451.2-1997 more usable to a wider set of applications.</abstract>
+  </front>
+</reference>

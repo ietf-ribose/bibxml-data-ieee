@@ -1,9 +1,15 @@
-<reference anchor="IEEE 741.1990" target="https://ieeexplore.ieee.org/document/159220">
+<reference anchor="IEEE.741.1990" target="https://ieeexplore.ieee.org/document/159220">
   <front>
     <title>IEEE Standard Criteria for the Protection of Class 1E Power Systems and Equipment in Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101044"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Failure analysis</keyword>

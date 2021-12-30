@@ -1,8 +1,14 @@
-<reference anchor="IEEE P515-1/D-5.1.2012-02" target="https://ieeexplore.ieee.org/document/6179271">
+<reference anchor="IEEE.P515-1/D-5.1.2012-02" target="https://ieeexplore.ieee.org/document/6179271">
   <front>
     <title>IEEE Draft Standard for the Testing, Design, Installation, and Maintenance of Electrical Resistance Heat Tracing for Commercial Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="May" day="21"/>
     <keyword>IEEE standards</keyword>

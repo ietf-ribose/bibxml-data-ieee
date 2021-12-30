@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1633.2008" target="https://ieeexplore.ieee.org/document/4554206">
+<reference anchor="IEEE.1633.2008" target="https://ieeexplore.ieee.org/document/4554206">
   <front>
     <title>IEEE Recommended Practice on Software Reliability</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4554206"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February" day="22"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1250/D-8.2017-10" target="https://ieeexplore.ieee.org/document/8379398">
+<reference anchor="IEEE.P1250/D-8.2017-10" target="https://ieeexplore.ieee.org/document/8379398">
   <front>
     <title>IEEE Draft Guide for Identifying and Improving Power Quality in Power Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="9"/>
     <keyword>IEEE Standards</keyword>

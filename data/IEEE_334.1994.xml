@@ -1,9 +1,15 @@
-<reference anchor="IEEE 334.1994" target="https://ieeexplore.ieee.org/document/392583">
+<reference anchor="IEEE.334.1994" target="https://ieeexplore.ieee.org/document/392583">
   <front>
     <title>IEEE Standard for Qualifying Continuous Duty Class 1E Motors for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121439"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

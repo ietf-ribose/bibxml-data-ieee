@@ -1,9 +1,15 @@
-<reference anchor="IEEE C57-110.1998" target="https://ieeexplore.ieee.org/document/754767">
+<reference anchor="IEEE.C57-110.1998" target="https://ieeexplore.ieee.org/document/754767">
   <front>
     <title>IEEE Recommended Practice for Establishing Transformer Capability When Supplying Non-sinusoidal Load Currents</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89206"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>IEEE standards</keyword>
     <abstract>Methods are developed to conservatively evaluate the feasibility of supplying additional nonsinusoidal load currents from an existing installed dry-type or liquid-filled transformer, as a portion of the total load. Clarification of the necessary application information is provided to assist in properly specifying a new transformer expected to carry a load, a portion of which is composed of nonsinusoidal load currents. A number of examples illustrating these methods and calculations are presented. Reference annexes make a comparison of the document calculations to calculations found in other industry standards and suggested temperature rise methods are detailed for reference purposes.</abstract>

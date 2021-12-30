@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1580/D-4.2010" target="https://ieeexplore.ieee.org/document/5557734">
+<reference anchor="IEEE.P1580/D-4.2010" target="https://ieeexplore.ieee.org/document/5557734">
   <front>
     <title>IEEE Draft Recommended Practice for Marine Cable for Use on Shipboard and Fixed or Floating Facilities</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June" day="11"/>
     <keyword>IEEE standards</keyword>

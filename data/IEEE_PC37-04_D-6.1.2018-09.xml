@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-04/D-6.1.2018-09" target="https://ieeexplore.ieee.org/document/8573226">
+<reference anchor="IEEE.PC37-04/D-6.1.2018-09" target="https://ieeexplore.ieee.org/document/8573226">
   <front>
     <title>IEEE Approved Draft Standard for Ratings and Requirements for AC High Voltage Circuit Breakers with Rated Maximum Voltage above 1000 V</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December" day="11"/>
     <keyword>IEEE Standards</keyword>

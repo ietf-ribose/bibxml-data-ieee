@@ -1,9 +1,14 @@
-<reference anchor="IEC/ISO/IEEE 80005-1.2012" target="https://ieeexplore.ieee.org/document/6243150">
+<reference anchor="IEC/ISO/IEEE.80005-1.2012" target="https://ieeexplore.ieee.org/document/6243150">
   <front>
     <title>IEC/ISO/IEEE Utility Connections in Port--Part 1: High Voltage Shore Connection (HVSC) Systems--General requirements</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6243150"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="July" day="18"/>
     <keyword>IEEE standards</keyword>

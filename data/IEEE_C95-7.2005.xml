@@ -1,9 +1,15 @@
-<reference anchor="IEEE C95-7.2005" target="https://ieeexplore.ieee.org/document/1611107">
+<reference anchor="IEEE.C95-7.2005" target="https://ieeexplore.ieee.org/document/1611107">
   <front>
     <title>IEEE Recommended Practice for Radio Frequency Safety Programs, 3 kHz to 300 GHz</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99378"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="June" day="16"/>
     <keyword>IEEE Standards</keyword>

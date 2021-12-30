@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-20-1/D-5.0.2014-12" target="https://ieeexplore.ieee.org/document/6997980">
+<reference anchor="IEEE.PC37-20-1/D-5.0.2014-12" target="https://ieeexplore.ieee.org/document/6997980">
   <front>
     <title>IEEE Draft Standard for Metal-Enclosed Low Voltage (1000Vac and Below, 3200Vdc and Below) Power Circuit Breaker Switchgear</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="December" day="24"/>
     <keyword>IEEE standards</keyword>

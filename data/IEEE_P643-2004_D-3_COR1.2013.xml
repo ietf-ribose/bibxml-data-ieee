@@ -1,8 +1,14 @@
-<reference anchor="IEEE P643-2004/D-3/Cor1.2013" target="https://ieeexplore.ieee.org/document/6684276">
+<reference anchor="IEEE.P643-2004/D-3/Cor1.2013" target="https://ieeexplore.ieee.org/document/6684276">
   <front>
     <title>IEEE Guide for Power-Line Carrier Applications Corrigendum 1: Modal Analysis Power Equation Correction</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="December" day="13"/>
     <keyword>IEEE standards</keyword>

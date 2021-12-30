@@ -1,0 +1,23 @@
+<reference anchor="IEEE.P802-1Qbv/D-3.0.2015-08" target="https://ieeexplore.ieee.org/document/7203313">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks Amendment: Enhancements for Scheduled Traffic</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="August" day="14"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circiuts</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Virtual LAN</keyword>
+    <keyword>Telecommunication traffic</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>local area networks (LANs)</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
+    <keyword>scheduled traffic</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q-2014 provides enhancements to the forwarding process that support scheduled traffic.</abstract>
+  </front>
+</reference>

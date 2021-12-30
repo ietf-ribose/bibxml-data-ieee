@@ -1,9 +1,15 @@
-<reference anchor="IEEE 845.1988" target="https://ieeexplore.ieee.org/document/26524">
+<reference anchor="IEEE.845.1988" target="https://ieeexplore.ieee.org/document/26524">
   <front>
     <title>IEEE Guide to Evaluation Man-Machine Performance in Nuclear Power Generating Station Control Rooms and Other Peripheries</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.79073"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Human factors</keyword>

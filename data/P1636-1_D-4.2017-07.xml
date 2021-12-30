@@ -1,0 +1,24 @@
+<reference anchor="IEEE.P1636-1/D-4.2017-07" target="https://ieeexplore.ieee.org/document/8322464">
+  <front>
+    <title>IEEE Draft Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA): Exchanging Test Results and Session Information via the eXtensible Markup Language (XML)</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2018" month="March" day="22"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Automatic testing</keyword>
+    <keyword>XML</keyword>
+    <keyword>Maintenance engineering</keyword>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Ontologies</keyword>
+    <keyword>Data collection</keyword>
+    <keyword>automated test system (ATS)</keyword>
+    <keyword>extensible markup language (XML)</keyword>
+    <keyword>IEEE 1636.1</keyword>
+    <keyword>OWL ontology</keyword>
+    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
+    <keyword>test results and session information</keyword>
+    <keyword>XML schema</keyword>
+    <abstract>Promoting and facilitating interoperability between components of automatic test systems where test results need to be shared is addressed in this standard. The standard thus facilitates the capture of test results data in storage devices and databases, facilitating online and offline analysis. The test results schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format is expressed in both the OWL and XML formats.</abstract>
+  </front>
+</reference>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 2410.2015" target="https://ieeexplore.ieee.org/document/7323780">
+<reference anchor="IEEE.2410.2015" target="https://ieeexplore.ieee.org/document/7323780">
   <front>
     <title>IEEE Standard for Biometric Open Protocol</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7323780"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="November" day="10"/>
     <keyword>IEEE Standards</keyword>

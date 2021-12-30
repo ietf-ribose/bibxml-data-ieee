@@ -1,9 +1,15 @@
-<reference anchor="IEEE C57-19-01.1991" target="https://ieeexplore.ieee.org/document/211004">
+<reference anchor="IEEE.C57-19-01.1991" target="https://ieeexplore.ieee.org/document/211004">
   <front>
     <title>IEEE Standard Performance Characteristics and Dimensions for Outdoor Apparatus Bushings</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114386"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="October" day="14"/>
     <keyword>Insulators</keyword>

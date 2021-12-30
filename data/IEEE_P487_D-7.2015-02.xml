@@ -1,8 +1,14 @@
-<reference anchor="IEEE P487/D-7.2015-02" target="https://ieeexplore.ieee.org/document/7056398">
+<reference anchor="IEEE.P487/D-7.2015-02" target="https://ieeexplore.ieee.org/document/7056398">
   <front>
     <title>IEEE Approved Draft Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locations - General considerations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="March" day="9"/>
     <keyword>IEEE Standards</keyword>

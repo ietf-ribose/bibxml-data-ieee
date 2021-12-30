@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1502/D-4.2.2020-06" target="https://ieeexplore.ieee.org/document/9142593">
+<reference anchor="IEEE.P1502/D-4.2.2020-06" target="https://ieeexplore.ieee.org/document/9142593">
   <front>
     <title>IEEE Draft Recommended Practice for Radar Cross-Section Test Procedures</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="16"/>
     <keyword>IEEE Standards</keyword>

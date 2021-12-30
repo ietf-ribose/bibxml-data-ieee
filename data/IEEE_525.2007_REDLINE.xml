@@ -1,9 +1,15 @@
-<reference anchor="IEEE 525.2007 Redline" target="https://ieeexplore.ieee.org/document/5961595">
+<reference anchor="IEEE.525.2007.Redline" target="https://ieeexplore.ieee.org/document/5961595">
   <front>
     <title>IEEE Guide for the Design and Installation of Cable Systems in Substations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.5961595"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="15"/>
     <keyword>IEEE standards</keyword>

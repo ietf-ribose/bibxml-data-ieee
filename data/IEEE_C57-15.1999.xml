@@ -1,9 +1,15 @@
-<reference anchor="IEEE C57-15.1999" target="https://ieeexplore.ieee.org/document/838984">
+<reference anchor="IEEE.C57-15.1999" target="https://ieeexplore.ieee.org/document/838984">
   <front>
     <title>IEEE Standard Requirements, Terminology, and Test Code for Step-Voltage Regulators</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91311"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE standards</keyword>

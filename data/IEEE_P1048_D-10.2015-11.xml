@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1048/D-10.2015-11" target="https://ieeexplore.ieee.org/document/7397788">
+<reference anchor="IEEE.P1048/D-10.2015-11" target="https://ieeexplore.ieee.org/document/7397788">
   <front>
     <title>IEEE Approved Draft Guide for Protective Grounding of Power Lines</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="3"/>
     <keyword>IEEE Standards</keyword>

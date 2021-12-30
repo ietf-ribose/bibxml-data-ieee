@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1609-12.2016 Redline" target="https://ieeexplore.ieee.org/document/7544430">
+<reference anchor="IEEE.1609-12.2016.Redline" target="https://ieeexplore.ieee.org/document/7544430">
   <front>
     <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) - Identifier Allocations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="August" day="16"/>
     <keyword>IEEE Standards</keyword>

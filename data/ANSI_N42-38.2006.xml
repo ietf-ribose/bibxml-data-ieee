@@ -1,9 +1,14 @@
-<reference anchor="ANSI N42-38.2006" target="https://ieeexplore.ieee.org/document/4079486">
+<reference anchor="ANSI.N42-38.2006" target="https://ieeexplore.ieee.org/document/4079486">
   <front>
     <title>American National Standard Performance Criteria for Spectroscopy-Based Portal Monitors Used for Homeland Security</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299337"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="November" day="10"/>
     <keyword>Monitoring</keyword>

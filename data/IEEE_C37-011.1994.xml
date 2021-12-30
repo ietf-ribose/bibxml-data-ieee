@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-011.1994" target="https://ieeexplore.ieee.org/document/467530">
+<reference anchor="IEEE.C37-011.1994" target="https://ieeexplore.ieee.org/document/467530">
   <front>
     <title>IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122633"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>AC circuit breakers</keyword>

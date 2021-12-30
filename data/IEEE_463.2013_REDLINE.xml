@@ -1,8 +1,14 @@
-<reference anchor="IEEE 463.2013 Redline" target="https://ieeexplore.ieee.org/document/6658816">
+<reference anchor="IEEE.463.2013.Redline" target="https://ieeexplore.ieee.org/document/6658816">
   <front>
     <title>IEEE Standard for Electrical Safety Practices in Electrolytic Cell Line Working Zones</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="November" day="8"/>
     <keyword>IEEE standards</keyword>

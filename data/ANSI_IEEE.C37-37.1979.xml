@@ -1,0 +1,18 @@
+<reference anchor="ANSI/IEEE.C37-37.1979" target="https://ieeexplore.ieee.org/document/579141">
+  <front>
+    <title>IEEE Loading Guide for AC High-Voltage Air Switches (in excess of 1000 volts)</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.81979"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Temperature</keyword>
+    <keyword>Switchgear</keyword>
+    <keyword>Consumer electronics</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Standards organizations</keyword>
+    <keyword>Organizations</keyword>
+    <keyword>Air break switches</keyword>
+    <abstract>Superseded The concepts of allowable continuous current, allowable continuous current class, and loadability factors are used to establish the criteria for designating the load-current carrying capabilities of air switches over a range of ambient temperatures. This is accomplished through a family of loadability factor curves. The loadability factors are also presented in tabular form.</abstract>
+  </front>
+</reference>

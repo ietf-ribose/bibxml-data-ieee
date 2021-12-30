@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-2.1987" target="https://ieeexplore.ieee.org/document/26606">
+<reference anchor="IEEE.C37-2.1987" target="https://ieeexplore.ieee.org/document/26606">
   <front>
     <title>IEEE Standard Electrical Power System Device Function Numbers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.79650"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="21"/>
     <keyword>Standards</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 252.1963" target="https://ieeexplore.ieee.org/document/7385406">
+<reference anchor="IEEE.252.1963" target="https://ieeexplore.ieee.org/document/7385406">
   <front>
     <title>IEEE Proposed Procedure for Polyphase Induction Motors Having Liquid in the Magnetic Gap</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7385406"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="January" day="18"/>
     <keyword>IEEE Standards</keyword>

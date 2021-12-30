@@ -1,8 +1,14 @@
-<reference anchor="IEEE P592/D-2.2018-03" target="https://ieeexplore.ieee.org/document/8315183">
+<reference anchor="IEEE.P592/D-2.2018-03" target="https://ieeexplore.ieee.org/document/8315183">
   <front>
     <title>IEEE Draft Standard for Insulation Shields on Medium-Voltage (15 kV - 35 kV) Cable Joints and Separable Connectors</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March" day="13"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1800-2/D-8.2020-03" target="https://ieeexplore.ieee.org/document/9047184">
+<reference anchor="IEEE.P1800-2/D-8.2020-03" target="https://ieeexplore.ieee.org/document/9047184">
   <front>
     <title>IEEE Approved Draft Standard for Universal Verification Methodology Language Reference Manual</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March" day="25"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1Xck/D-2.1.2018-06" target="https://ieeexplore.ieee.org/document/8398604">
+<reference anchor="IEEE.P802-1Xck/D-2.1.2018-06" target="https://ieeexplore.ieee.org/document/8398604">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Port-Based Network Access Control Amendment: YANG Data Model</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="27"/>
     <keyword>IEEE Standards</keyword>

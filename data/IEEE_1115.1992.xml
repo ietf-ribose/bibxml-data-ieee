@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1115.1992" target="https://ieeexplore.ieee.org/document/286046">
+<reference anchor="IEEE.1115.1992" target="https://ieeexplore.ieee.org/document/286046">
   <front>
     <title>IEEE Recommended Practice for Sizing Nickel-Cadmium Batteries for Stationary Applications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119653"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Cadmium</keyword>

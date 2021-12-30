@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-12-51.2008" target="https://ieeexplore.ieee.org/document/4801512">
+<reference anchor="IEEE.C57-12-51.2008" target="https://ieeexplore.ieee.org/document/4801512">
   <front>
     <title>IEEE Standard for Ventilated Dry- Type Power Transformers, 501 kVA and Larger, Three-Phase, with High- Voltage 601 V to 34 500 V; Low- Voltage 208Y/120 V to 4160 V- General Requirements</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4801512"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="September" day="18"/>
     <keyword>IEEE Standards</keyword>

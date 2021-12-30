@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE C57-12-01.1979" target="https://ieeexplore.ieee.org/document/19493">
+<reference anchor="ANSI/IEEE.C57-12-01.1979" target="https://ieeexplore.ieee.org/document/19493">
   <front>
     <title>American National Standard General Requirements for Dry-Type Distribution and Power Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120260"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Autotransformers</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC DIS P26511-2.2017-05" target="https://ieeexplore.ieee.org/document/7964810">
+<reference anchor="ISO/IEC.DIS.P26511-2.2017-05" target="https://ieeexplore.ieee.org/document/7964810">
   <front>
     <title>ISO/IEC/IEEE Draft Standard - Systems and Software Engineering -- Requirements for Managers of Information for Users of Systems, Software, and Services</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="June" day="30"/>
     <keyword>IEEE Standards</keyword>

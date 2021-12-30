@@ -1,0 +1,21 @@
+<reference anchor="ANSI/IEEE.C37-109.1988" target="https://ieeexplore.ieee.org/document/89878">
+  <front>
+    <title>IEEE Guide for the Protection of Shunt Reactors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94807"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Compensation</keyword>
+    <keyword>Power transmission lines</keyword>
+    <keyword>Inductors</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Standards</keyword>
+    <keyword>reactor</keyword>
+    <keyword>shunt</keyword>
+    <keyword>protection</keyword>
+    <keyword>Protective relaying</keyword>
+    <keyword>Inductors</keyword>
+    <abstract>This IEEE Standards product is part of the C37 family on Switchgear, Substations and Protective Relays. This standard discusses the protection of shunt reactors used typically to compensate for capacitive shunt reactance of transmission lines. The more common circuit arrangements and protective relaying schemes presently in use are discussed and illustrated.</abstract>
+  </front>
+</reference>

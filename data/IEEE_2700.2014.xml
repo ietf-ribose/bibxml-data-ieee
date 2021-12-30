@@ -1,9 +1,14 @@
-<reference anchor="IEEE 2700.2014" target="https://ieeexplore.ieee.org/document/6880296">
+<reference anchor="IEEE.2700.2014" target="https://ieeexplore.ieee.org/document/6880296">
   <front>
     <title>IEEE Standard for Sensor Performance Parameter Definitions</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6880296"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="August" day="19"/>
     <keyword>IEEE standards</keyword>

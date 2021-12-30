@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1394.1995" target="https://ieeexplore.ieee.org/document/526693">
+<reference anchor="IEEE.1394.1995" target="https://ieeexplore.ieee.org/document/526693">
   <front>
     <title>IEEE Standard for a High Performance Serial Bus</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81049"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Data buses</keyword>

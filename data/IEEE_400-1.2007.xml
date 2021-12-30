@@ -1,9 +1,14 @@
-<reference anchor="IEEE 400-1.2007" target="https://ieeexplore.ieee.org/document/4317500">
+<reference anchor="IEEE.400-1.2007" target="https://ieeexplore.ieee.org/document/4317500">
   <front>
     <title>IEEE Guide for Field Testing of Laminated Dielectric, Shielded Power Cable Systems Rated 5 kV and Above with High Direct Current Voltage</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4317500"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="October" day="22"/>
     <keyword>IEEE standards</keyword>

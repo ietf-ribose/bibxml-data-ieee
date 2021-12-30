@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-230/D-2.8.2020-08" target="https://ieeexplore.ieee.org/document/9179112">
+<reference anchor="IEEE.PC37-230/D-2.8.2020-08" target="https://ieeexplore.ieee.org/document/9179112">
   <front>
     <title>IEEE Approved Draft Guide for Protective Relay Applications to Distribution Lines</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="August" day="27"/>
     <keyword>IEEE Standards</keyword>

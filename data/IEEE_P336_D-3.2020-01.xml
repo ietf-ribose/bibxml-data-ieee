@@ -1,8 +1,14 @@
-<reference anchor="IEEE P336/D-3.2020-01" target="https://ieeexplore.ieee.org/document/8979553">
+<reference anchor="IEEE.P336/D-3.2020-01" target="https://ieeexplore.ieee.org/document/8979553">
   <front>
     <title>IEEE Draft Recommended Practice for Installation, Inspection, and Testing for Class 1E Power, Instrumentation, and Control Equipment at Nuclear Facilities</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="3"/>
     <keyword>IEEE Standards</keyword>

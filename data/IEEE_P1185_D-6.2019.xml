@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1185/D-6.2019" target="https://ieeexplore.ieee.org/document/8716846">
+<reference anchor="IEEE.P1185/D-6.2019" target="https://ieeexplore.ieee.org/document/8716846">
   <front>
     <title>IEEE Draft Recommended Practice for Cable Installation in Generating Stations and Industrial Facilities</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="May" day="16"/>
     <keyword>IEEE Standards</keyword>

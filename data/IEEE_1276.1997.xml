@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1276.1997" target="https://ieeexplore.ieee.org/document/660627">
+<reference anchor="IEEE.1276.1997" target="https://ieeexplore.ieee.org/document/660627">
   <front>
     <title>IEEE Guide for the Application of High-Temperature Insulation Materials in Liquid-Immersed Power Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.86152"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="July" day="1"/>
     <keyword>Power transformer insulation</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 524.1980" target="https://ieeexplore.ieee.org/document/27877">
+<reference anchor="ANSI/IEEE.524.1980" target="https://ieeexplore.ieee.org/document/27877">
   <front>
     <title>IEEE Guide to the Installation of Overhead Transmission Line Conductors</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.81057"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February" day="8"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1801.2013" target="https://ieeexplore.ieee.org/document/6521327">
+<reference anchor="IEEE.1801.2013" target="https://ieeexplore.ieee.org/document/6521327">
   <front>
     <title>IEEE Standard for Design and Verification of Low-Power Integrated Circuits</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6521327"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="29"/>
     <keyword>IEEE standards</keyword>

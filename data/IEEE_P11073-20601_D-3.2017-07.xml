@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-20601/D-3.2017-07" target="https://ieeexplore.ieee.org/document/8275473">
+<reference anchor="IEEE.P11073-20601/D-3.2017-07" target="https://ieeexplore.ieee.org/document/8275473">
   <front>
     <title>IEEE Draft - Health Informatics -- Personal Health Device Communication - Part 20601: Application Profile - Optimized Exchange Protocol</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="30"/>
     <keyword>IEEE Standards</keyword>

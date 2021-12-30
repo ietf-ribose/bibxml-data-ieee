@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-140/D-7.2016-12" target="https://ieeexplore.ieee.org/document/7880538">
+<reference anchor="IEEE.PC57-140/D-7.2016-12" target="https://ieeexplore.ieee.org/document/7880538">
   <front>
     <title>IEEE Approved Draft Guide for Evaluation and Reconditioning of Liquid Immersed Power Transformers</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="March" day="17"/>
     <keyword>IEEE Standards</keyword>

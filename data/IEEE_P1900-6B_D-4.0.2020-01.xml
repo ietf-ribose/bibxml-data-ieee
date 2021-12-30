@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1900-6b/D-4.0.2020-01" target="https://ieeexplore.ieee.org/document/9001293">
+<reference anchor="IEEE.P1900-6b/D-4.0.2020-01" target="https://ieeexplore.ieee.org/document/9001293">
   <front>
     <title>IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems. Spectrum Database Interfaces Amendment</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="18"/>
     <keyword>IEEE Standards</keyword>

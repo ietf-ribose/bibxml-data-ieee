@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 95.1977" target="https://ieeexplore.ieee.org/document/598211">
+<reference anchor="ANSI/IEEE.95.1977" target="https://ieeexplore.ieee.org/document/598211">
   <front>
     <title>IEEE Recommended Practice for Insulation Testing of Large AC Rotating Machinery with High Direct Voltage</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.82914"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Machinery</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1671-2.2008" target="https://ieeexplore.ieee.org/document/4723953">
+<reference anchor="IEEE.1671-2.2008" target="https://ieeexplore.ieee.org/document/4723953">
   <front>
     <title>IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML: Exchanging Instrument Descriptions</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4723953"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

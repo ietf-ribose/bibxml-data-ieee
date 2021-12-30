@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1484-12-3/D-2.2019-11" target="https://ieeexplore.ieee.org/document/9034555">
+<reference anchor="IEEE.P1484-12-3/D-2.2019-11" target="https://ieeexplore.ieee.org/document/9034555">
   <front>
     <title>IEEE Approved Draft Standard for Extensible Markup Language (XML) Schema Definition Language Binding for Learning Object Metadata</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March" day="12"/>
     <keyword>IEEE Standards</keyword>

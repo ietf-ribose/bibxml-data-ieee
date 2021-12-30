@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 960.1986" target="https://ieeexplore.ieee.org/document/22449">
+<reference anchor="ANSI/IEEE.960.1986" target="https://ieeexplore.ieee.org/document/22449">
   <front>
     <title>IEEE Standard for FASTBUS Modular High-Speed Data Acquisition and Control System</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.121456"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="26"/>
     <keyword>Computer interfaces</keyword>

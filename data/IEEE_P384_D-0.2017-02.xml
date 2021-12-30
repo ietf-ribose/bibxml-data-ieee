@@ -1,8 +1,14 @@
-<reference anchor="IEEE P384/D-0.2017-02" target="https://ieeexplore.ieee.org/document/8249775">
+<reference anchor="IEEE.P384/D-0.2017-02" target="https://ieeexplore.ieee.org/document/8249775">
   <front>
     <title>IEEE Draft Standard Criteria for Independence of Class 1E Equipment and Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="6"/>
     <keyword>IEEE Standards</keyword>

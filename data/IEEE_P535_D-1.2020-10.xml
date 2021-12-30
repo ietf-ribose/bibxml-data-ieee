@@ -1,8 +1,14 @@
-<reference anchor="IEEE P535/D-1.2020-10" target="https://ieeexplore.ieee.org/document/9231289">
+<reference anchor="IEEE.P535/D-1.2020-10" target="https://ieeexplore.ieee.org/document/9231289">
   <front>
     <title>IEEE Standard for Qualification of Class 1E Vented Lead Acid Storage Batteries for Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="October" day="19"/>
     <keyword>IEEE Standards</keyword>

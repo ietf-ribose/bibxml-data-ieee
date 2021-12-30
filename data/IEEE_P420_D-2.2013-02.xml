@@ -1,8 +1,14 @@
-<reference anchor="IEEE P420/D-2.2013-02" target="https://ieeexplore.ieee.org/document/6515576">
+<reference anchor="IEEE.P420/D-2.2013-02" target="https://ieeexplore.ieee.org/document/6515576">
   <front>
     <title>IEEE Approved Draft Standard for the Design and Qualification of Class 1E Control Boards, Panels, and Racks Used in Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="13"/>
     <keyword>IEEE standards</keyword>

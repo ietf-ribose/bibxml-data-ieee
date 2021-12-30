@@ -1,9 +1,14 @@
-<reference anchor="IEEE 499.1974" target="https://ieeexplore.ieee.org/document/7426307">
+<reference anchor="IEEE.499.1974" target="https://ieeexplore.ieee.org/document/7426307">
   <front>
     <title>IEEE Recommended Practice for Cement Plant Electric Drives and Related Electrical Equipment</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7426307"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="4"/>
     <keyword>IEEE Standards</keyword>

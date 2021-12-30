@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1278-2/D-9.2015-07" target="https://ieeexplore.ieee.org/document/7169475">
+<reference anchor="IEEE.P1278-2/D-9.2015-07" target="https://ieeexplore.ieee.org/document/7169475">
   <front>
     <title>IEEE Approved Draft Standard for Distributed Interactive Simulation (DIS) - Communication Services and Profiles</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="July" day="28"/>
     <keyword>IEEE Standards</keyword>

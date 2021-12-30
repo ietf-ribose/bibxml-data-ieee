@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1290/D-1.2014-09" target="https://ieeexplore.ieee.org/document/6960015">
+<reference anchor="IEEE.P1290/D-1.2014-09" target="https://ieeexplore.ieee.org/document/6960015">
   <front>
     <title>IEEE Draft Guide for Motor Operated Valve (MOV) Motor Application, Protection, Control, and Testing in Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="November" day="17"/>
     <keyword>IEEE standards</keyword>

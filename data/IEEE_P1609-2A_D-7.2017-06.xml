@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1609-2a/D-7.2017-06" target="https://ieeexplore.ieee.org/document/7968280">
+<reference anchor="IEEE.P1609-2a/D-7.2017-06" target="https://ieeexplore.ieee.org/document/7968280">
   <front>
     <title>IEEE Draft Standard for Wireless Access in Vehicular Environments--Security Services for Applications and Management Messages - Amendment 1</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="July" day="4"/>
     <keyword>IEEE Standards</keyword>

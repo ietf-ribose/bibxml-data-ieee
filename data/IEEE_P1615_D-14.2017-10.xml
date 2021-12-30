@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1615/D-14.2017-10" target="https://ieeexplore.ieee.org/document/8071193">
+<reference anchor="IEEE.P1615/D-14.2017-10" target="https://ieeexplore.ieee.org/document/8071193">
   <front>
     <title>IEEE Draft Recommended Practice for Network Communication in Electric Power Substations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="October" day="18"/>
     <keyword>IEEE Standards</keyword>

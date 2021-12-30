@@ -1,9 +1,15 @@
-<reference anchor="ANSI C37-121.1989" target="https://ieeexplore.ieee.org/document/8684721">
+<reference anchor="ANSI.C37-121.1989" target="https://ieeexplore.ieee.org/document/8684721">
   <front>
     <title>American National Standard for Switchgear - Unit Substations - Requirements</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.8684721"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE C37.121</keyword>

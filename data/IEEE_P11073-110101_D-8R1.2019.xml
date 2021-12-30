@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-110101/D-8r1.2019" target="https://ieeexplore.ieee.org/document/8686454">
+<reference anchor="IEEE.P11073-110101/D-8r1.2019" target="https://ieeexplore.ieee.org/document/8686454">
   <front>
     <title>IEEE Draft Standard for Health Informatics--Point-of-Care Medical Device Communication--Part 10101: Nomenclature</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="10"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 650.1979" target="https://ieeexplore.ieee.org/document/21025">
+<reference anchor="ANSI/IEEE.650.1979" target="https://ieeexplore.ieee.org/document/21025">
   <front>
     <title>IEEE Standard for Qualification of Class 1E Static Battery Chargers and Inverters for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120964"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="16"/>
     <keyword>Battery chargers</keyword>

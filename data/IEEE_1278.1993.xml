@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1278.1993" target="https://ieeexplore.ieee.org/document/237008">
+<reference anchor="IEEE.1278.1993" target="https://ieeexplore.ieee.org/document/237008">
   <front>
     <title>IEEE Standard for Information Technology -- Protocols for Distributed Interactive Simulation Applications--Entity Information and Interaction</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115125"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="26"/>
     <keyword>Simulation</keyword>

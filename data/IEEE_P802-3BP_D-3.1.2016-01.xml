@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-3bp/D-3.1.2016-01" target="https://ieeexplore.ieee.org/document/7400452">
+<reference anchor="IEEE.P802-3bp/D-3.1.2016-01" target="https://ieeexplore.ieee.org/document/7400452">
   <front>
     <title>IEEE Standard for Ethernet Amendment 4: Physical Layer Specifications and Management Parameters for 1 Gb/s Operation over a Single Twisted-Pair Copper Cable</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="5"/>
     <keyword>IEEE Standards</keyword>

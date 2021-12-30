@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1036/D-9.2019-10" target="https://ieeexplore.ieee.org/document/9032410">
+<reference anchor="IEEE.P1036/D-9.2019-10" target="https://ieeexplore.ieee.org/document/9032410">
   <front>
     <title>IEEE Approved Draft Guide for the Application of Shunt Power Capacitors</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March" day="11"/>
     <keyword>IEEE Standards</keyword>

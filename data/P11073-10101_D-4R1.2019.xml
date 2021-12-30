@@ -1,0 +1,33 @@
+<reference anchor="IEEE.P11073-10101/D-4r1.2019" target="https://ieeexplore.ieee.org/document/8606538">
+  <front>
+    <title>IEEE Draft Standard for Health Informatics&amp;#8212;Point-of-Care Medical Device Communication&amp;#8212;Part 10101: Nomenclature</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="January" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Point of care</keyword>
+    <keyword>Medical devices</keyword>
+    <keyword>Biomedical monitoring</keyword>
+    <keyword>Bioinformatics</keyword>
+    <keyword>Semantics</keyword>
+    <keyword>Patient monitoring</keyword>
+    <keyword>codes</keyword>
+    <keyword>IEEE 11073-10101</keyword>
+    <keyword>IHE PCD-01</keyword>
+    <keyword>independent living</keyword>
+    <keyword>information model</keyword>
+    <keyword>medical device communication</keyword>
+    <keyword>nomenclature</keyword>
+    <keyword>ontology</keyword>
+    <keyword>patient</keyword>
+    <keyword>personal health devices</keyword>
+    <keyword>PHD</keyword>
+    <keyword>POC</keyword>
+    <keyword>point-of-care</keyword>
+    <keyword>semantics</keyword>
+    <keyword>service model</keyword>
+    <keyword>terminology</keyword>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care (POC) and personal health devices (PHD) medical device communication (MDC), this standard provides the nomenclature that supports both the domain information model and service model components of the standards family, as well as the semantic content exchanged with medical devices. The nomenclature is specialized for patient vital signs information representation and medical device informatics, with major areas including concepts for electrocardiograph (ECG), haemodynamics, respiration, blood gas, urine, fluid-related metrics, and neurology, as well as specialized units of measurement, general device events, alarms, and body sites. The standard defines both the architecture and major components of the nomenclature, along with extensive definitions for each conceptual area.</abstract>
+  </front>
+</reference>

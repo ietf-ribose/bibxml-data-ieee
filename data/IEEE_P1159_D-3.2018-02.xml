@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1159/D-3.2018-02" target="https://ieeexplore.ieee.org/document/8293684">
+<reference anchor="IEEE.P1159/D-3.2018-02" target="https://ieeexplore.ieee.org/document/8293684">
   <front>
     <title>IEEE Draft Recommended Practice for Monitoring Electric Power Quality</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="February" day="15"/>
     <keyword>IEEE Standards</keyword>

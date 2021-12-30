@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-20-1a/D-7.2019-10" target="https://ieeexplore.ieee.org/document/8949864">
+<reference anchor="IEEE.PC37-20-1a/D-7.2019-10" target="https://ieeexplore.ieee.org/document/8949864">
   <front>
     <title>IEEE Approved Draft Standard for Metal-Enclosed Low-Voltage (1000Vac and below, 3200Vdc and below) Power Circuit Breaker Switchgear Amendment 1: Control and Secondary Circuits and Devices, and All Wiring</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="January" day="3"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-12-01/D-6.2014-05" target="https://ieeexplore.ieee.org/document/6880305">
+<reference anchor="IEEE.PC57-12-01/D-6.2014-05" target="https://ieeexplore.ieee.org/document/6880305">
   <front>
     <title>IEEE Draft Standard for General Requirements for Dry-Type Distribution and Power Transformers</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="August" day="19"/>
     <keyword>IEEE standards</keyword>

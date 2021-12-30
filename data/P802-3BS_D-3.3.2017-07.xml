@@ -1,0 +1,48 @@
+<reference anchor="IEEE.P802-3bs/D-3.3.2017-07" target="https://ieeexplore.ieee.org/document/8002547">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment 10: Media Access Control Parameters, Physical Layers and Management Parameters for 200 Gb/s and 400 Gb/s Operation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="August" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Forward error correction</keyword>
+    <keyword>Error analysis</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>200 Gb/s Ethernet</keyword>
+    <keyword>200GAUI-4</keyword>
+    <keyword>200GAUI-8</keyword>
+    <keyword>200GBASE-DR4</keyword>
+    <keyword>200GBASE-FR4</keyword>
+    <keyword>200GBASE-LR4</keyword>
+    <keyword>200GBASE-R</keyword>
+    <keyword>200GMII</keyword>
+    <keyword>200GXS</keyword>
+    <keyword>400 Gb/s Ethernet</keyword>
+    <keyword>400GAUI-8</keyword>
+    <keyword>400GAUI-16</keyword>
+    <keyword>400GBASE-DR4</keyword>
+    <keyword>400GBASE-FR8</keyword>
+    <keyword>400GBASE-LR8</keyword>
+    <keyword>400GBASE-SR16</keyword>
+    <keyword>400GBASE-R</keyword>
+    <keyword>400GMII</keyword>
+    <keyword>400GXS</keyword>
+    <keyword>EEE</keyword>
+    <keyword>Energy Efficient Ethernet</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>FEC</keyword>
+    <keyword>forward error correction</keyword>
+    <keyword>IEEE 802.3&amp;#8482;</keyword>
+    <keyword>IEEE 802.3bs&amp;#8482;</keyword>
+    <keyword>MMF</keyword>
+    <keyword>PAM4</keyword>
+    <keyword>Physical Medium Dependent sublayer</keyword>
+    <keyword>PMD</keyword>
+    <keyword>SMF</keyword>
+    <abstract>Clause 116 through Clause 124 and Annex 119A through Annex 120E are added by this amendment to IEEE Std 802.3-2015. This amendment includes IEEE 802.3 Media Access Control (MAC) parameters, Physical Layer specifications, and management parameters for the transfer of IEEE 802.3 format frames at 200 Gb/s and 400 Gb/s.</abstract>
+  </front>
+</reference>

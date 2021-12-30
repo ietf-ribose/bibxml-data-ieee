@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1609-3.2010" target="https://ieeexplore.ieee.org/document/5680697">
+<reference anchor="IEEE.1609-3.2010" target="https://ieeexplore.ieee.org/document/5680697">
   <front>
     <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) - Networking Services</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5680697"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="June" day="13"/>
     <keyword>IEEE standards</keyword>

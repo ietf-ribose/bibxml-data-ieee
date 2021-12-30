@@ -1,8 +1,14 @@
-<reference anchor="ANSI PN42-37/D-10.2015-10" target="https://ieeexplore.ieee.org/document/7736058">
+<reference anchor="ANSI.PN42-37/D-10.2015-10" target="https://ieeexplore.ieee.org/document/7736058">
   <front>
     <title>Draft American National Standard Training for the Radiological/Nuclear Detection Mission</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November" day="4"/>
     <keyword>ANSI Standards</keyword>

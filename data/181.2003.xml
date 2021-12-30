@@ -1,0 +1,36 @@
+<reference anchor="IEEE.181.2003" target="https://ieeexplore.ieee.org/document/1245784">
+  <front>
+    <title>IEEE Standard on Transitions, Pulses, and Related Waveforms</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94394"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Pulse measurements</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Compounds</keyword>
+    <keyword>History</keyword>
+    <keyword>aberration</keyword>
+    <keyword>algorithms</keyword>
+    <keyword>compound waveform</keyword>
+    <keyword>histogram</keyword>
+    <keyword>levels</keyword>
+    <keyword>pulse</keyword>
+    <keyword>pulse amplitude</keyword>
+    <keyword>pulse definitions</keyword>
+    <keyword>pulse measurement</keyword>
+    <keyword>states</keyword>
+    <keyword>state boundaries</keyword>
+    <keyword>state levels</keyword>
+    <keyword>transients</keyword>
+    <keyword>transitions</keyword>
+    <keyword>transition duration</keyword>
+    <keyword>waveforms</keyword>
+    <keyword>waveform analysis</keyword>
+    <keyword>waveform definitions</keyword>
+    <keyword>waveform parameters</keyword>
+    <keyword>waveform terms</keyword>
+    <abstract>This standard presents approximately 100 terms, and their definitions, for accurately and precisely describing the waveforms of pulse signals and the process of measuring pulse signals. Algorithms are provided for computing the values of defined terms that describe measurable parameters of the waveform, such as transition duration, state level, pulse amplitude, and waveform aberrations. These analysis algorithms are applicable to two-state waveforms having one or two transitions connecting these states. Compound waveform analysis is accomplished by decomposing the compound waveform into its constituent two-state single-transition waveforms.</abstract>
+  </front>
+</reference>

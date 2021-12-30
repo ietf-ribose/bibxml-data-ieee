@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1AR/D-2.6/R-.2018-01" target="https://ieeexplore.ieee.org/document/8259513">
+<reference anchor="IEEE.P802-1AR/D-2.6/R-.2018-01" target="https://ieeexplore.ieee.org/document/8259513">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks - Secure Device Identity</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="January" day="16"/>
     <keyword>IEEE Standards</keyword>

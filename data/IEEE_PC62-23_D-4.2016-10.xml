@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-23/D-4.2016-10" target="https://ieeexplore.ieee.org/document/7932203">
+<reference anchor="IEEE.PC62-23/D-4.2016-10" target="https://ieeexplore.ieee.org/document/7932203">
   <front>
     <title>IEEE Draft Application Guide for Surge Protection of Electric Generating Plants</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="May" day="19"/>
     <keyword>IEEE Standards</keyword>

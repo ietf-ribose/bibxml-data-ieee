@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE CD P26513/D-1.2015" target="https://ieeexplore.ieee.org/document/7243267">
+<reference anchor="ISO/IEC/IEEE.CD.P26513/D-1.2015" target="https://ieeexplore.ieee.org/document/7243267">
   <front>
     <title>ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering -- Requirements for Testers and Reviewers of User Documentation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="September" day="4"/>
     <keyword>IEEE Standards</keyword>

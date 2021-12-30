@@ -1,8 +1,14 @@
-<reference anchor="IEEE Unapproved PC57-12-31/D-4.2009" target="https://ieeexplore.ieee.org/document/5276049">
+<reference anchor="IEEE.Unapproved.PC57-12-31/D-4.2009" target="https://ieeexplore.ieee.org/document/5276049">
   <front>
     <title>IEEE Standard for Pole-Mounted Equipment--Enclosure Integrity</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February" day="17"/>
     <keyword>coating integrity</keyword>

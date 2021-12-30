@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 930.1987" target="https://ieeexplore.ieee.org/document/35060">
+<reference anchor="ANSI/IEEE.930.1987" target="https://ieeexplore.ieee.org/document/35060">
   <front>
     <title>IEEE Guide for the Statistical Analysis of Electrical Insulation Voltage Endurance Data</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.86250"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Aging</keyword>

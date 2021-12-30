@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC57-12-31/D-1.6.2020-08" target="https://ieeexplore.ieee.org/document/9185098">
+<reference anchor="IEEE.PC57-12-31/D-1.6.2020-08" target="https://ieeexplore.ieee.org/document/9185098">
   <front>
     <title>IEEE Draft Standard for Pole-Mounted Equipment--Enclosure Integrity</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="September" day="2"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-20601/D-5/Cor1.2015" target="https://ieeexplore.ieee.org/document/7091841">
+<reference anchor="IEEE.P11073-20601/D-5/Cor1.2015" target="https://ieeexplore.ieee.org/document/7091841">
   <front>
     <title>IEEE Draft Health Informatics - Personal health device communication - Part 20601: Application Profile - Optimized Exchange Protocol - Corrigendum 1</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="April" day="22"/>
     <keyword>IEEE Standards</keyword>

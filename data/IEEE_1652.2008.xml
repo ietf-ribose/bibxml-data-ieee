@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1652.2008" target="https://ieeexplore.ieee.org/document/4805294">
+<reference anchor="IEEE.1652.2008" target="https://ieeexplore.ieee.org/document/4805294">
   <front>
     <title>IEEE Standard for the Application of Free Field Acoustic Reference to Telephony Measurements</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4805294"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="November" day="23"/>
     <keyword>IEEE Standards</keyword>

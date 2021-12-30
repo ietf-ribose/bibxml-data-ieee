@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1095.1989" target="https://ieeexplore.ieee.org/document/89808">
+<reference anchor="IEEE.1095.1989" target="https://ieeexplore.ieee.org/document/89808">
   <front>
     <title>IEEE Guide for Installation of Vertical Generators and Generator/Motors for Hydroelectric Applications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94622"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="29"/>
     <keyword>Hydraulic turbines</keyword>

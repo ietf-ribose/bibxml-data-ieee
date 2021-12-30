@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-3bw.2015" target="https://ieeexplore.ieee.org/document/7433918">
+<reference anchor="IEEE.802-3bw.2015" target="https://ieeexplore.ieee.org/document/7433918">
   <front>
     <title>IEEE Standard for Ethernet Amendment 1: Physical Layer Specifications and Management Parameters for 100 Mb/s Operation over a Single Balanced Twisted Pair Cable (100BASE-T1)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7433918"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="15"/>
     <keyword>IEEE Standards</keyword>

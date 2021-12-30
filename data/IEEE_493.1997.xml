@@ -1,9 +1,15 @@
-<reference anchor="IEEE 493.1997" target="https://ieeexplore.ieee.org/document/757619">
+<reference anchor="IEEE.493.1997" target="https://ieeexplore.ieee.org/document/757619">
   <front>
     <title>IEEE Recommended Practice for the Design of Reliable Industrial and Commercial Power Systems (Gold Book)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89291"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January" day="16"/>
     <keyword>Industrial power systems</keyword>

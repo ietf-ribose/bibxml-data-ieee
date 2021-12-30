@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-106.2006" target="https://ieeexplore.ieee.org/document/4231509">
+<reference anchor="IEEE.C57-106.2006" target="https://ieeexplore.ieee.org/document/4231509">
   <front>
     <title>IEEE Guide for Acceptance and Maintenance of Insulating Oil in Equipment</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.371041"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>IEEE Standards</keyword>
     <keyword>Oil insulation</keyword>

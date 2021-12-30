@@ -1,0 +1,20 @@
+<reference anchor="ISO/IEC/IEEE.CD.P26513/D-1.2015" target="https://ieeexplore.ieee.org/document/7243267">
+  <front>
+    <title>ISO/IEC/IEEE International Draft Standard - Systems and Software Engineering -- Requirements for Testers and Reviewers of User Documentation</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="September" day="4"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>ISO Standards</keyword>
+    <keyword>IEC Standards</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Software testing</keyword>
+    <keyword>software documentation review</keyword>
+    <keyword>software documentation testing</keyword>
+    <keyword>user documentation</keyword>
+    <keyword>testing and reviewing user documentation</keyword>
+    <keyword>usability testing</keyword>
+    <abstract>This document supports the need for software users to receive consistent, complete, accurate, and usable documentation. This document was developed to assist those who review, assess, and test software user documentation as part of the software lifecycle process. It is not limited to the review and test phase of the software lifecycle, but includes activities throughout the information management and documentation management processes. This document applies to printed and electronic documentation such as user manuals, online help, instructions, user assistance, tutorials, websites, and user reference documentation. Much of its guidance is applicable to user documentation for systems as well as the software used to control machinery or hardware devices. It applies to both initial development and subsequent releases of the software and user documentation. This document is intended for use by all types of organizations, whether or not a dedicated documentation department is present. Readers are assumed to have experience with or general knowledge of reviewing and testing processes.</abstract>
+  </front>
+</reference>

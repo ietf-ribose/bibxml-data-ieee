@@ -1,9 +1,14 @@
-<reference anchor="IEEE 776.1992" target="https://ieeexplore.ieee.org/document/8673316">
+<reference anchor="IEEE.776.1992" target="https://ieeexplore.ieee.org/document/8673316">
   <front>
     <title>IEEE Recommended Practice for Inductive Coordination of Electric Supply and Communication Lines</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8673316"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="March" day="22"/>
     <keyword>IEEE Standards</keyword>

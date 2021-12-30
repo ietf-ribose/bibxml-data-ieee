@@ -1,8 +1,14 @@
-<reference anchor="IEEE 802-11.2007 Redline" target="https://ieeexplore.ieee.org/document/6522432">
+<reference anchor="IEEE.802-11.2007.Redline" target="https://ieeexplore.ieee.org/document/6522432">
   <front>
     <title>IEEE Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="31"/>
     <keyword>IEEE standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1547.2003" target="https://ieeexplore.ieee.org/document/1225051">
+<reference anchor="IEEE.1547.2003" target="https://ieeexplore.ieee.org/document/1225051">
   <front>
     <title>IEEE Standard for Interconnecting Distributed Resources with Electric Power Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94285"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="March" day="25"/>
     <keyword>IEEE Standards</keyword>

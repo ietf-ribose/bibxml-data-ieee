@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1278-1/D-17.2012-06" target="https://ieeexplore.ieee.org/document/6237421">
+<reference anchor="IEEE.P1278-1/D-17.2012-06" target="https://ieeexplore.ieee.org/document/6237421">
   <front>
     <title>IEEE Draft Standard for Distributed Interactive Simulation - Application Protocols</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="July" day="11"/>
     <keyword>IEEE standards</keyword>

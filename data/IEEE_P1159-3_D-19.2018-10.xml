@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1159-3/D-19.2018-10" target="https://ieeexplore.ieee.org/document/8509662">
+<reference anchor="IEEE.P1159-3/D-19.2018-10" target="https://ieeexplore.ieee.org/document/8509662">
   <front>
     <title>IEEE Draft Recommended Practice for Power Quality Data Interchange Format (PQDIF)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October" day="25"/>
     <keyword>IEEE Standards</keyword>

@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1668.2014" target="https://ieeexplore.ieee.org/document/6895236">
+  <front>
+    <title>IEEE Trial-Use Recommended Practice for Voltage Sag and Short Interruption Ride-Through Testing for End-Use Electrical Equipment Rated Less than 1000 V</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6895236"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="September" day="11"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Voltage fluctuations</keyword>
+    <keyword>Power system stability</keyword>
+    <keyword>Testing</keyword>
+    <keyword>Interrupters</keyword>
+    <keyword>equipment testing</keyword>
+    <keyword>IEEE 1668(TM)</keyword>
+    <keyword>immunity</keyword>
+    <keyword>power quality</keyword>
+    <keyword>ride-through</keyword>
+    <keyword>voltage dip</keyword>
+    <keyword>voltage sag</keyword>
+    <keyword>voltage-sag characteristics</keyword>
+    <abstract>A trial-use, non-industry-specific recommended practice for voltage sag and short interruption ride-through performance and compliance testing for all electrical and electronic equipment connected to low-voltage power systems that can experience malfunction or shutdown as a result of reductions in supply voltage lasting less than one minute is detailed in this document. Testing procedures and requirements for test equipment are clearly defined within this document to reflect this electrical environment, including single-phase, two-phase, and three-phase balanced and unbalanced voltage sags. Requirements for certification and test reporting, including characterization of voltage-sag ride-through equipment are also defined.</abstract>
+  </front>
+</reference>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1792/D-1.2016-01" target="https://ieeexplore.ieee.org/document/7435225">
+<reference anchor="IEEE.P1792/D-1.2016-01" target="https://ieeexplore.ieee.org/document/7435225">
   <front>
     <title>IEEE Draft Recommended Practice for Nuclear Power Generating Station (NPGS) Preferred Power Supply (PPS) Reliability</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="17"/>
     <keyword>IEEE Standards</keyword>

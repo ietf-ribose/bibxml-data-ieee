@@ -1,9 +1,15 @@
-<reference anchor="IEEE 802-16.2012" target="https://ieeexplore.ieee.org/document/6272299">
+<reference anchor="IEEE.802-16.2012" target="https://ieeexplore.ieee.org/document/6272299">
   <front>
     <title>IEEE Standard for Air Interface for Broadband Wireless Access Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6272299"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="August" day="17"/>
     <keyword>IEEE standards</keyword>

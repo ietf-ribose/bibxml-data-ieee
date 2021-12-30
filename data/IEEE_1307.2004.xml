@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1307.2004" target="https://ieeexplore.ieee.org/document/1350466">
+<reference anchor="IEEE.1307.2004" target="https://ieeexplore.ieee.org/document/1350466">
   <front>
     <title>IEEE Standard for Fall Protection for Utility Work</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95083"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="June" day="12"/>
     <keyword>IEEE Standards</keyword>

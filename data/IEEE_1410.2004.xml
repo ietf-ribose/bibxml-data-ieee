@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1410.2004" target="https://ieeexplore.ieee.org/document/1315281">
+<reference anchor="IEEE.1410.2004" target="https://ieeexplore.ieee.org/document/1315281">
   <front>
     <title>IEEE Guide for Improving the Lightning Performance of Electric Power Overhead Distribution Lines</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94577"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="December" day="4"/>
     <keyword>IEEE standards</keyword>

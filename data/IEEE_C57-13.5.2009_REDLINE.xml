@@ -1,8 +1,13 @@
-<reference anchor="IEEE C57-13.5.2009 Redline" target="https://ieeexplore.ieee.org/document/6046082">
+<reference anchor="IEEE.C57-13.5.2009.Redline" target="https://ieeexplore.ieee.org/document/6046082">
   <front>
     <title>IEEE Standard of Performance and Test Requirements for Instrument Transformers of a Nominal System Voltage of 115 kV and Above</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="15"/>
     <keyword>IEEE standards</keyword>

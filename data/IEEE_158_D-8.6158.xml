@@ -1,9 +1,15 @@
-<reference anchor="IEEE 158/D-8.6158" target="https://ieeexplore.ieee.org/document/1405847">
+<reference anchor="IEEE.158/D-8.6158" target="https://ieeexplore.ieee.org/document/1405847">
   <front>
     <title>IEC/IEEE International Standard - Precision clock synchronization protocol for networked measurement and control systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95751"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="30"/>
     <keyword>IEC Standards</keyword>

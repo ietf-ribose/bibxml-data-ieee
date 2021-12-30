@@ -1,8 +1,14 @@
-<reference anchor="IEEE P692/D-4d.1926" target="https://ieeexplore.ieee.org/document/6583929">
+<reference anchor="IEEE.P692/D-4d.1926" target="https://ieeexplore.ieee.org/document/6583929">
   <front>
     <title>IEEE Approved Draft Standard Criteria for Security Systems for Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="21"/>
     <keyword>IEEE standards</keyword>

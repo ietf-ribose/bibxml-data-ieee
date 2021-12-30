@@ -1,0 +1,14 @@
+<reference anchor="ANSI/IEEE.960.1986" target="https://ieeexplore.ieee.org/document/22449">
+  <front>
+    <title>IEEE Standard for FASTBUS Modular High-Speed Data Acquisition and Control System</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.121456"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="26"/>
+    <keyword>Computer interfaces</keyword>
+    <keyword>Data acquisition</keyword>
+    <keyword>Standards</keyword>
+    <abstract>Mechanical, signal, electrical, and protocol specifications are given for a modular data bus system, which, while allowing equipment designers a wide choice of solutions, ensure compatibility of all designs that obey the mandatory parts of the specification. This standard applies to systems consisting of modular electronic instrument units that process or transfer data or signals, normally in association with computers or other automatic data processors.</abstract>
+  </front>
+</reference>

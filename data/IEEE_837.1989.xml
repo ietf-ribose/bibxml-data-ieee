@@ -1,9 +1,15 @@
-<reference anchor="IEEE 837.1989" target="https://ieeexplore.ieee.org/document/89617">
+<reference anchor="IEEE.837.1989" target="https://ieeexplore.ieee.org/document/89617">
   <front>
     <title>IEEE Standard for Qualifying Permanent Connections Used in Substation Grounding</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94578"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="12"/>
     <keyword>Grounding</keyword>

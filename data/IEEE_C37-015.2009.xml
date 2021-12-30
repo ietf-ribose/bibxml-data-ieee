@@ -1,9 +1,14 @@
-<reference anchor="IEEE C37-015.2009" target="https://ieeexplore.ieee.org/document/5415871">
+<reference anchor="IEEE.C37-015.2009" target="https://ieeexplore.ieee.org/document/5415871">
   <front>
     <title>IEEE Guide for the Application of Shunt Reactor Switching</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5415871"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="October" day="9"/>
     <keyword>IEEE standards</keyword>

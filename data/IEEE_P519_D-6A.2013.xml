@@ -1,8 +1,14 @@
-<reference anchor="IEEE P519/D-6a.2013" target="https://ieeexplore.ieee.org/document/6630043">
+<reference anchor="IEEE.P519/D-6a.2013" target="https://ieeexplore.ieee.org/document/6630043">
   <front>
     <title>IEEE Draft Recommended Practices and Requirements for Harmonic Control in Electric Power Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="October" day="11"/>
     <keyword>IEEE standards</keyword>

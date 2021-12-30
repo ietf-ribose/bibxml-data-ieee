@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-1AC-2016_Cor1/D-2.0.2018" target="https://ieeexplore.ieee.org/document/8328063">
+<reference anchor="IEEE.P802-1AC-2016_Cor1/D-2.0.2018" target="https://ieeexplore.ieee.org/document/8328063">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks -- Media Access Control (MAC) Service Definition - Corrigendum 1: Logical Link Control (LLC) Encapsulation EtherType</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="March" day="29"/>
     <keyword>IEEE Standards</keyword>

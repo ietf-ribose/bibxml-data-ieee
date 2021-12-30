@@ -1,9 +1,15 @@
-<reference anchor="IEEE 187.2003" target="https://ieeexplore.ieee.org/document/1299309">
+<reference anchor="IEEE.187.2003" target="https://ieeexplore.ieee.org/document/1299309">
   <front>
     <title>IEEE Standard Measurement Methods of Emissions from FM and Television Broadcast Receivers in the Frequency Range of 9kHz to 40GHz</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94495"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="May" day="29"/>
     <keyword>TV broadcasting</keyword>

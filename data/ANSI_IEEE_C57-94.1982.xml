@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE C57-94.1982" target="https://ieeexplore.ieee.org/document/186045">
+<reference anchor="ANSI/IEEE.C57-94.1982" target="https://ieeexplore.ieee.org/document/186045">
   <front>
     <title>IEEE Recommended Practice for Installation, Application, Operation, and Maintenance of Dry-Type General Purpose Distribution and Power Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.106993"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="24"/>
     <keyword>Autotransformers</keyword>

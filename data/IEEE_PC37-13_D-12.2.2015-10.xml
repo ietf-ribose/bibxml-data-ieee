@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-13/D-12.2.2015-10" target="https://ieeexplore.ieee.org/document/7294598">
+<reference anchor="IEEE.PC37-13/D-12.2.2015-10" target="https://ieeexplore.ieee.org/document/7294598">
   <front>
     <title>IEEE Approved Draft Standard for Low-Voltage AC Power Circuit Breakers Used in Enclosures</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="October" day="8"/>
     <keyword>IEEE Standards</keyword>

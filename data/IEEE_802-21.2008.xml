@@ -1,9 +1,14 @@
-<reference anchor="IEEE 802-21.2008" target="https://ieeexplore.ieee.org/document/4769367">
+<reference anchor="IEEE.802-21.2008" target="https://ieeexplore.ieee.org/document/4769367">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks - Media Independent Handover Services</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4769367"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="November" day="15"/>
     <keyword>IEEE Standards</keyword>

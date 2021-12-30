@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE FDIS P15289-/E-3/D-2.2016" target="https://ieeexplore.ieee.org/document/7551076">
+<reference anchor="ISO/IEC/IEEE.FDIS.P15289-/E-3/D-2.2016" target="https://ieeexplore.ieee.org/document/7551076">
   <front>
     <title>ISO/IEC/IEEE Draft International Standard - Systems and software engineering -- Content of life-cycle information items (documentation)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="August" day="24"/>
     <keyword>IEEE Standards</keyword>

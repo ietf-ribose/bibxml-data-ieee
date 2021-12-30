@@ -1,0 +1,20 @@
+<reference anchor="ANSI.C57-13-2.1986" target="https://ieeexplore.ieee.org/document/29096">
+  <front>
+    <title>American National Standard Conformance Test Procedures for Instrument Transformers</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81595"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="June" day="19"/>
+    <keyword>Conformance testing</keyword>
+    <keyword>Voltage transformers</keyword>
+    <keyword>Power transformers</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Substations</keyword>
+    <keyword>conformance</keyword>
+    <keyword>transformers</keyword>
+    <keyword>substation</keyword>
+    <keyword>voltage transformers</keyword>
+    <abstract>The purpose of this standard is to cover conformance test requirements for current and inductively coupled voltage transformers used for measurement and control functions in unit substations at primary system voltages above 600 V, but not exceeding 38 kV. The report describes relevant performance tests to demonstrate compliance with the applicable standards. The test specimen is normally subjected to all planned routine tests prior to the initiation of the conformance test program.</abstract>
+  </front>
+</reference>

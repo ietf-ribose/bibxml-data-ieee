@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 1.1986" target="https://ieeexplore.ieee.org/document/29088">
+<reference anchor="ANSI/IEEE.1.1986" target="https://ieeexplore.ieee.org/document/29088">
   <front>
     <title>IEEE Standard General Principles for Temperature Limits in the Rating of Electric Equipment and for the Evaluation of Electrical Insulation</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81591"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="December" day="22"/>
     <keyword>Insulation testing</keyword>

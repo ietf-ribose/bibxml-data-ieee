@@ -1,9 +1,15 @@
-<reference anchor="IEEE 112.1991" target="https://ieeexplore.ieee.org/document/210975">
+<reference anchor="IEEE.112.1991" target="https://ieeexplore.ieee.org/document/210975">
   <front>
     <title>IEEE Standard Test Procedure for Polyphase Induction Motors and Generators</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.114383"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>Asynchronous rotating machines</keyword>
     <keyword>AC generators</keyword>

@@ -1,0 +1,35 @@
+<reference anchor="IEEE.C37-232.2007" target="https://ieeexplore.ieee.org/document/4293268">
+  <front>
+    <title>IEEE Recommended Practice for Naming Time Sequence Data Files</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4293268"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Power system relaying</keyword>
+    <keyword>Fault diagnosis</keyword>
+    <keyword>Object recognition</keyword>
+    <keyword>Trademarks</keyword>
+    <keyword>comma separated values</keyword>
+    <keyword>CSV</keyword>
+    <keyword>company name</keyword>
+    <keyword>device identifier</keyword>
+    <keyword>fault data</keyword>
+    <keyword>fault time</keyword>
+    <keyword>file extension</keyword>
+    <keyword>filename</keyword>
+    <keyword>file name</keyword>
+    <keyword>file naming convention</keyword>
+    <keyword>required fields</keyword>
+    <keyword>start date</keyword>
+    <keyword>start time</keyword>
+    <keyword>station identifier</keyword>
+    <keyword>time code</keyword>
+    <keyword>time sequence data</keyword>
+    <keyword>TSD</keyword>
+    <keyword>user fields</keyword>
+    <abstract>A procedure for naming time sequence data (TSD) files, such as files produced by digital fault recorders, power swing recorders, power quality monitors, and so on is recommended. The sources of TSD files are described, and a survey of current naming techniques is provided. The advantages of using a common naming procedure are highlighted, and the limitations and applications are identified. Issues of compatibility across operating systems and various vintages, and adaptability to other types of files are also discussed. The required and optional portions of the naming procedure are described in detail, and many examples are provided.</abstract>
+  </front>
+</reference>

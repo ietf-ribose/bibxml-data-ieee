@@ -1,8 +1,14 @@
-<reference anchor="IEEE Unapproved P1189/D-15.07" target="https://ieeexplore.ieee.org/document/4278931">
+<reference anchor="IEEE.Unapproved.P1189/D-15.07" target="https://ieeexplore.ieee.org/document/4278931">
   <front>
     <title>IEEE Draft Guide for Selection of Valve-Regulated Lead-Acid (VRLA) Batteries for Stationary Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July" day="25"/>
     <keyword>IEEE Standards</keyword>

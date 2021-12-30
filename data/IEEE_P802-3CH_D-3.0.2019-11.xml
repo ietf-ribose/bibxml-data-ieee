@@ -1,8 +1,14 @@
-<reference anchor="IEEE P802-3ch/D-3.0.2019-11" target="https://ieeexplore.ieee.org/document/8910666">
+<reference anchor="IEEE.P802-3ch/D-3.0.2019-11" target="https://ieeexplore.ieee.org/document/8910666">
   <front>
     <title>IEEE Draft Standard for Ethernet Physical Layer Specifications and Management Parameters for Greater Than 1 Gb/s Automotive Ethernet</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="November" day="22"/>
     <keyword>IEEE Standards</keyword>

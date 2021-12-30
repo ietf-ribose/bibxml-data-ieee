@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 741.1986" target="https://ieeexplore.ieee.org/document/29055">
+<reference anchor="ANSI/IEEE.741.1986" target="https://ieeexplore.ieee.org/document/29055">
   <front>
     <title>IEEE Standard Criteria for the Protection of Class 1E Power Systems and Equipment in Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81537"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Nuclear power generation</keyword>

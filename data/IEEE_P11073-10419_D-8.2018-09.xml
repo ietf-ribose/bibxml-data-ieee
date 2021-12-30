@@ -1,8 +1,14 @@
-<reference anchor="IEEE P11073-10419/D-8.2018-09" target="https://ieeexplore.ieee.org/document/8472345">
+<reference anchor="IEEE.P11073-10419/D-8.2018-09" target="https://ieeexplore.ieee.org/document/8472345">
   <front>
     <title>IEEE Draft Standard for Health Informatics - Personal Health Device Communication - Part 10419: Device Specialization - Insulin Pump</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="September" day="25"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 628.1987" target="https://ieeexplore.ieee.org/document/29047">
+<reference anchor="ANSI/IEEE.628.1987" target="https://ieeexplore.ieee.org/document/29047">
   <front>
     <title>IEEE Standard Criteria for the Design, Installation, and Qualification of Raceway Systems for Class 1E Circuits for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81529"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="16"/>
     <keyword>Nuclear power generation</keyword>

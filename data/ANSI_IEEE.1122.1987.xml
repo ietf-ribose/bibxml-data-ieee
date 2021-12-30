@@ -1,0 +1,18 @@
+<reference anchor="ANSI/IEEE.1122.1987" target="https://ieeexplore.ieee.org/document/25331">
+  <front>
+    <title>IEEE Standard for Digital Recorders for Measurements in High-Voltage Impulse Tests</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.121945"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Digital measurements</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Measurement standards</keyword>
+    <keyword>Monitoring</keyword>
+    <keyword>Oscilloscopes</keyword>
+    <keyword>Measurement-system data handling</keyword>
+    <keyword>Impulse testing</keyword>
+    <abstract>Digital recorders and digital oscilloscopes used for measurements during tests with high-impulse voltages and high-impulse currents are considered. Terms specifically related to the digital recorders used for monitoring high-voltage and high-current impulse tests are defined. The performance characteristics for such recorders, necessary to ensure their compliance with the requirements for high-voltage and for high-current impulse tests, are specified. The tests and procedures that are necessary to show that these performance characteristics are within those specified limits are indicated.</abstract>
+  </front>
+</reference>

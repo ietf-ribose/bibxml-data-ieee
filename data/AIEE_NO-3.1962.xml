@@ -1,9 +1,14 @@
-<reference anchor="AIEE No-3.1962" target="https://ieeexplore.ieee.org/document/7407284">
+<reference anchor="AIEE.No-3.1962" target="https://ieeexplore.ieee.org/document/7407284">
   <front>
     <title>AIEE Guiding Principles for the Selection of Reference Values for Electrical Standards</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.7407284"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="February" day="15"/>
     <keyword>AIEE Standards</keyword>

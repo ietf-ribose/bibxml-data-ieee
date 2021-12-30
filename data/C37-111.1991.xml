@@ -1,0 +1,17 @@
+<reference anchor="IEEE.C37-111.1991" target="https://ieeexplore.ieee.org/document/159102">
+  <front>
+    <title>IEEE Standard Common Format for Transient Data Exchange (COMTRADE) for Power Systems</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101025"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Failure analysis</keyword>
+    <keyword>Standards</keyword>
+    <keyword>Transient data</keyword>
+    <keyword>Header file</keyword>
+    <keyword>Data file</keyword>
+    <keyword>Configuration file</keyword>
+    <abstract>A common format for the data files and exchange medium needed for the interchange of various types of fault, test, or simulation data is defined. Sources of transient data are described, and the case of diskettes as an exchange medium is recommended. Issues of sampling rates, filters, and sample rate conversions for transient data being exchanged are discussed. Files for data exchange are specified, as is the organization of the data. A sample file is given.</abstract>
+  </front>
+</reference>

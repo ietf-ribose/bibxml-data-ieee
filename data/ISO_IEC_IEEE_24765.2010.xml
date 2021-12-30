@@ -1,9 +1,14 @@
-<reference anchor="ISO/IEC/IEEE 24765.2010" target="https://ieeexplore.ieee.org/document/5733835">
+<reference anchor="ISO/IEC/IEEE.24765.2010" target="https://ieeexplore.ieee.org/document/5733835">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- Vocabulary</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5733835"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="February" day="8"/>
     <keyword>IEEE standards</keyword>

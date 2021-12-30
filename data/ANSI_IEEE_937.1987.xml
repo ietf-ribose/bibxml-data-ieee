@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 937.1987" target="https://ieeexplore.ieee.org/document/27843">
+<reference anchor="ANSI/IEEE.937.1987" target="https://ieeexplore.ieee.org/document/27843">
   <front>
     <title>IEEE Recommended Practice for Installation and Maintenance of Lead-Acid Batteries for Photovoltaic (PV) Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81038"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="12"/>
     <keyword>Lead</keyword>

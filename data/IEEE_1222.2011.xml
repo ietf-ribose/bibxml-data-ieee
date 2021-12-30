@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1222.2011" target="https://ieeexplore.ieee.org/document/5743082">
+<reference anchor="IEEE.1222.2011" target="https://ieeexplore.ieee.org/document/5743082">
   <front>
     <title>IEEE Standard for Testing and Performance for All-Dielectric Self-Supporting (ADSS) Fiber Optic Cable for Use on Electric Utility Power Lines</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5743082"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="October" day="11"/>
     <keyword>IEEE standards</keyword>

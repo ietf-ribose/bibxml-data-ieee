@@ -1,9 +1,14 @@
-<reference anchor="IEEE C37-017.2010" target="https://ieeexplore.ieee.org/document/5721902">
+<reference anchor="IEEE.C37-017.2010" target="https://ieeexplore.ieee.org/document/5721902">
   <front>
     <title>IEEE Standard for Bushings for High-Voltage [over 1000 V (ac)] Circuit Breakers and Gas-Insulated Switchgear</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5721902"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="March" day="23"/>
     <keyword>IEEE standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1680-1/D-28.2017-07" target="https://ieeexplore.ieee.org/document/8000422">
+<reference anchor="IEEE.P1680-1/D-28.2017-07" target="https://ieeexplore.ieee.org/document/8000422">
   <front>
     <title>IEEE Draft Standard for Environmental and Social Responsibility Assessment of Computers and Displays</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="August" day="2"/>
     <keyword>IEEE Standards</keyword>

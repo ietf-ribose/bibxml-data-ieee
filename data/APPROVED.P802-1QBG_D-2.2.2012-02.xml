@@ -1,0 +1,27 @@
+<reference anchor="IEEE.Approved.P802-1Qbg/D-2.2.2012-02" target="https://ieeexplore.ieee.org/document/6200814">
+  <front>
+    <title>IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks--Amendment 21: Edge Virtual Bridging</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2012" month="May" day="16"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Bridge circuits</keyword>
+    <keyword>Virtual environments</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridged Local Area Networks</keyword>
+    <keyword>edge virtual bridging</keyword>
+    <keyword>IEEE 802.1Qbg</keyword>
+    <keyword>LANs</keyword>
+    <keyword>local area networks</keyword>
+    <keyword>MAC Bridges</keyword>
+    <keyword>metropolitan area networks</keyword>
+    <keyword>Reflective Relay Service</keyword>
+    <keyword>SPB</keyword>
+    <keyword>Virtual Bridged Local Area Networks</keyword>
+    <keyword>virtual LANs</keyword>
+    <abstract>This amendment to IEEE Std 802.1Q-2011 specifies protocols, procedures, and managed objects that-- Provide for the discovery, configuration, and control of a pair of direct-attached limited-function Service VLAN (S-VLAN) components to extend the services of a customer bridge to remote ports and enable coexistence of multiple services onstation-resident ports (e.g., embedded bridging).-- Provide for discovery, configuration, and control of a Reflective Relay Service for a bridge port.-- Provide for discovery of, and coordinated configuration of, edge relays (ERs) and other devices that utilize the reflective relay service.-- Provide for dynamic profile-driven port configuration.</abstract>
+  </front>
+</reference>

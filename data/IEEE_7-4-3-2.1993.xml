@@ -1,9 +1,15 @@
-<reference anchor="IEEE 7-4-3-2.1993" target="https://ieeexplore.ieee.org/document/318506">
+<reference anchor="IEEE.7-4-3-2.1993" target="https://ieeexplore.ieee.org/document/318506">
   <front>
     <title>IEEE Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.120309"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

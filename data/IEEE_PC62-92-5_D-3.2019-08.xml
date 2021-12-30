@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-92-5/D-3.2019-08" target="https://ieeexplore.ieee.org/document/8811782">
+<reference anchor="IEEE.PC62-92-5/D-3.2019-08" target="https://ieeexplore.ieee.org/document/8811782">
   <front>
     <title>IEEE Draft Guide for the Application of Neutral Grounding in Electrical Utility Systems, Part V-Transmission Systems and Subtransmission Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="August" day="23"/>
     <keyword>IEEE Standards</keyword>

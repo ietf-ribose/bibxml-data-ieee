@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-26.2003" target="https://ieeexplore.ieee.org/document/1270352">
+<reference anchor="IEEE.C37-26.2003" target="https://ieeexplore.ieee.org/document/1270352">
   <front>
     <title>IEEE Guide for Methods of Power-Factor Measurement for Low-Voltage Inductive Test Circuits</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94432"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="October" day="7"/>
     <keyword>IEEE Standards</keyword>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P650/D-5.2017-09" target="https://ieeexplore.ieee.org/document/8187777">
+<reference anchor="IEEE.P650/D-5.2017-09" target="https://ieeexplore.ieee.org/document/8187777">
   <front>
     <title>IEEE Approved Draft Standard for Qualification of Class 1E Static Battery Chargers, Inverters and Uninterruptible Power Supply (UPS) Systems for Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="December" day="12"/>
     <keyword>IEEE Standards</keyword>

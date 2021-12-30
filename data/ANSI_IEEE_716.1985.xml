@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 716.1985" target="https://ieeexplore.ieee.org/document/35069">
+<reference anchor="ANSI/IEEE.716.1985" target="https://ieeexplore.ieee.org/document/35069">
   <front>
     <title>IEEE Standard C/ATLAS Test Language</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.86343"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <keyword>Automatic test equipment</keyword>
     <keyword>High-level languages</keyword>

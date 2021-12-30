@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1012/D-17.2015-08" target="https://ieeexplore.ieee.org/document/7240184">
+<reference anchor="IEEE.P1012/D-17.2015-08" target="https://ieeexplore.ieee.org/document/7240184">
   <front>
     <title>IEEE Approved Draft Standard for System, Software and Hardware Verification and Validation</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="September" day="3"/>
     <keyword>IEEE Standards</keyword>

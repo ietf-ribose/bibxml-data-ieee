@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-99.2000" target="https://ieeexplore.ieee.org/document/1033175">
+<reference anchor="IEEE.C37-99.2000" target="https://ieeexplore.ieee.org/document/1033175">
   <front>
     <title>IEEE Guide for the Protection of Shunt Capacitor Banks</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.94129"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="June" day="6"/>
     <keyword>Capacitors</keyword>

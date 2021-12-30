@@ -1,9 +1,14 @@
-<reference anchor="IEC 62531.2007" target="https://ieeexplore.ieee.org/document/4408637">
+<reference anchor="IEC.62531.2007" target="https://ieeexplore.ieee.org/document/4408637">
   <front>
     <title>IEC 62531 Ed. 1 (2007-11) (IEEE Std 1850-2005): Standard for Property Specification Language (PSL)</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4408637"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="29"/>
     <keyword>IEC Standards</keyword>

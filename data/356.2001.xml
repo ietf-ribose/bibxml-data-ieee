@@ -1,0 +1,27 @@
+<reference anchor="IEEE.356.2001" target="https://ieeexplore.ieee.org/document/1007393">
+  <front>
+    <title>IEEE Guide for Measurements of Electromagnetic Properties of Earth Media</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93616"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Earth</keyword>
+    <keyword>Electromagnetics</keyword>
+    <keyword>Permittivity measurement</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Antenna measurements</keyword>
+    <keyword>dc resistivity</keyword>
+    <keyword>earth permittivity measurements</keyword>
+    <keyword>electromagnetic geophysics</keyword>
+    <keyword>ground conductivity measurements</keyword>
+    <keyword>ice</keyword>
+    <keyword>inversion</keyword>
+    <keyword>radio communications</keyword>
+    <keyword>radio reflection</keyword>
+    <keyword>surface impedance</keyword>
+    <keyword>time domain reflectometry</keyword>
+    <abstract>" The electromagnetic properties of the earth play an important role in the design and implementationof radio communications systems, geophysical prospecting instruments, and subsurface mapping techniques.Measurement techniques include dc resistivity, surface impedance, propagation studies, wave tilt methods,probe impedance methods, mutual impedance methods, transient methods, time domain reflectometry, groundprobing radar, laboratory-based techniques, and free-space reflection measurements. The separation distancebetween the probes and the wavelength of the radiation both affect the volume of earth material measured.This guide provides a summary of current measurement techniques and, where appropriate, inversion methodsfor determining the conductivity and the relative permittivity of the volume under investigation."</abstract>
+  </front>
+</reference>

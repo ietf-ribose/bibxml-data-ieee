@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-12-90.2010" target="https://ieeexplore.ieee.org/document/5610578">
+<reference anchor="IEEE.C57-12-90.2010" target="https://ieeexplore.ieee.org/document/5610578">
   <front>
     <title>IEEE Standard Test Code for Liquid-Immersed Distribution, Power, and Regulating Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5610578"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="8"/>
     <keyword>IEEE standards</keyword>

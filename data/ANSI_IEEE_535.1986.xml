@@ -1,9 +1,15 @@
-<reference anchor="ANSI/IEEE 535.1986" target="https://ieeexplore.ieee.org/document/29059">
+<reference anchor="ANSI/IEEE.535.1986" target="https://ieeexplore.ieee.org/document/29059">
   <front>
     <title>IEEE Standard for Qualification of Class 1E Lead Storage Batteries for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81539"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="10"/>
     <keyword>Lead</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1566.2005" target="https://ieeexplore.ieee.org/document/1642554">
+<reference anchor="IEEE.1566.2005" target="https://ieeexplore.ieee.org/document/1642554">
   <front>
     <title>IEEE Standard for Performance of Adjustable Speed AC Drives Rated 375 kW and Larger</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.217119"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="February" day="25"/>
     <keyword>IEEE standards</keyword>

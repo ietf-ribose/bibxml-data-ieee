@@ -1,8 +1,14 @@
-<reference anchor="IEEE P690/D-6.2018-07" target="https://ieeexplore.ieee.org/document/8490919">
+<reference anchor="IEEE.P690/D-6.2018-07" target="https://ieeexplore.ieee.org/document/8490919">
   <front>
     <title>IEEE Draft Standard for the Design and Installation of Cable Systems for Class 1E Circuits in Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="October" day="12"/>
     <keyword>IEEE Standards</keyword>

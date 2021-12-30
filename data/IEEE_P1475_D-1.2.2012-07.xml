@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1475/D-1.2.2012-07" target="https://ieeexplore.ieee.org/document/6218725">
+<reference anchor="IEEE.P1475/D-1.2.2012-07" target="https://ieeexplore.ieee.org/document/6218725">
   <front>
     <title>IEEE Draft Standard for the Functioning of and Interfaces Among Propulsion, Friction Brake, and Train-borne Master Control on Rail Rapid Transit Vehicles</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="June" day="15"/>
     <keyword>IEEE standards</keyword>

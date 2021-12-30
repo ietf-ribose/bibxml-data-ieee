@@ -1,9 +1,15 @@
-<reference anchor="IEEE 12207.2008 Redline" target="https://ieeexplore.ieee.org/document/8742773">
+<reference anchor="IEEE.12207.2008.Redline" target="https://ieeexplore.ieee.org/document/8742773">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- Software life cycle processes</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.8742773"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="June" day="20"/>
     <keyword>IEEE Standards</keyword>

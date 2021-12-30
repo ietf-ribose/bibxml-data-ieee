@@ -1,9 +1,15 @@
-<reference anchor="IEEE C37-013.1989" target="https://ieeexplore.ieee.org/document/89869">
+<reference anchor="IEEE.C37-013.1989" target="https://ieeexplore.ieee.org/document/89869">
   <front>
     <title>IEEE Standard for AC High-Voltage Generator Circuit Breakers Rated on a Symmetrical Current Basis</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94803"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>AC generators</keyword>

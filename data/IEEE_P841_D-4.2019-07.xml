@@ -1,8 +1,14 @@
-<reference anchor="IEEE P841/D-4.2019-07" target="https://ieeexplore.ieee.org/document/8765659">
+<reference anchor="IEEE.P841/D-4.2019-07" target="https://ieeexplore.ieee.org/document/8765659">
   <front>
     <title>IEEE Draft Standard for Petroleum and Chemical Industry--Premium-Efficiency, Severe-Duty, Totally Enclosed Fan-Cooled (TEFC) Squirrel Cage Induction Motors--Up to and Including 370 kW (500 hp)</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="July" day="17"/>
     <keyword>IEEE Standards</keyword>

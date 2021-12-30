@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1068/D-3.2015-05" target="https://ieeexplore.ieee.org/document/7240190">
+<reference anchor="IEEE.P1068/D-3.2015-05" target="https://ieeexplore.ieee.org/document/7240190">
   <front>
     <title>IEEE Draft Standard for the Repair and Rewinding of AC Electric Motors in the Petroleum, Chemical, and Process Industries</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="September" day="3"/>
     <keyword>IEEE Standards</keyword>

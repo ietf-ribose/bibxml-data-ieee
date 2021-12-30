@@ -1,9 +1,14 @@
-<reference anchor="IEEE 1590.2003" target="https://ieeexplore.ieee.org/document/1299650">
+<reference anchor="IEEE.1590.2003" target="https://ieeexplore.ieee.org/document/1299650">
   <front>
     <title>IEEE Recommended Practice for the Electrical Protection of Optical Fiber Communication Facilities Serving, or Connected to, Electrical Supply Locations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94496"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="October" day="7"/>
     <keyword>IEEE standards</keyword>

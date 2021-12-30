@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE DIS P15288-1403" target="https://ieeexplore.ieee.org/document/6780563">
+<reference anchor="ISO/IEC/IEEE.DIS.P15288-1403" target="https://ieeexplore.ieee.org/document/6780563">
   <front>
     <title>ISO/IEC/IEEE Draft Systems and software engineering -- System life cycle processes</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="March" day="28"/>
     <keyword>IEEE standards</keyword>

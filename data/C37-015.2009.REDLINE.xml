@@ -1,0 +1,25 @@
+<reference anchor="IEEE.C37-015.2009.Redline" target="https://ieeexplore.ieee.org/document/5954123">
+  <front>
+    <title>IEEE Guide for the Application of Shunt Reactor Switching</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5954123"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2013" month="August" day="15"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Shunt (electrical)</keyword>
+    <keyword>Reactors</keyword>
+    <keyword>High-voltage techniques</keyword>
+    <keyword>Inductive power transmission</keyword>
+    <keyword>Voltage control</keyword>
+    <keyword>Reactive power control</keyword>
+    <keyword>C37.015-2009</keyword>
+    <keyword>ac high voltage circuit breakers</keyword>
+    <keyword>application</keyword>
+    <keyword>inductive load switching</keyword>
+    <keyword>overvoltages</keyword>
+    <keyword>shunt reactor switching</keyword>
+    <keyword>small inductive currents</keyword>
+    <abstract>This application guide applies to ac high-voltage circuit breakers rated for shunt reactor switching. The guide covers the specific cases of switching directly grounded shunt reactors, ungrounded shunt reactors and shunt reactors grounded through a neutral reactor. Directly grounded reactors are common on systems having a voltage of 60 kV and above, while ungrounded reactors are commonly applied on systems having a voltage below 60 kV. Schemes where the reactor is grounded through a neutral reactor are usually only applied on systems having a voltage of 60 kV and above. Whereas this application guide is directed towards circuit breakers, it is recognized and accepted that other switching devices such as high voltage load break switches and circuit switchers are capable of shunt reactor switching and this guide may be applied as appropriate.</abstract>
+  </front>
+</reference>

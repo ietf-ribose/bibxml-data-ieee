@@ -1,9 +1,15 @@
-<reference anchor="IEEE 625.1979" target="https://ieeexplore.ieee.org/document/21023">
+<reference anchor="IEEE.625.1979" target="https://ieeexplore.ieee.org/document/21023">
   <front>
     <title>IEEE Recommended Practices to Improve Electrical Maintenance and Safety in the Cement Industry</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120963"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Cement industry</keyword>

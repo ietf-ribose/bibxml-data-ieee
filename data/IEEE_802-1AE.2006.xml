@@ -1,9 +1,15 @@
-<reference anchor="IEEE 802-1AE.2006" target="https://ieeexplore.ieee.org/document/1678345">
+<reference anchor="IEEE.802-1AE.2006" target="https://ieeexplore.ieee.org/document/1678345">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks: Media Access Control (MAC) Security</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.245590"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2015" month="June" day="19"/>
     <keyword>IEEE Standards</keyword>

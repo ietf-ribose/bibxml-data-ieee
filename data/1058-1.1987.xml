@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1058-1.1987" target="https://ieeexplore.ieee.org/document/25325">
+  <front>
+    <title>IEEE Standard for Software Project Management Plans</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.121942"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="April" day="5"/>
+    <keyword>Computer industry</keyword>
+    <keyword>Software engineering</keyword>
+    <keyword>Standards</keyword>
+    <keyword>project</keyword>
+    <keyword>plans</keyword>
+    <keyword>Software development management</keyword>
+    <abstract>Revised as IEEE Std 1058-1998. The format and content of software project management plans are prescribed. By software project plan is meant the controlling document that defines the technical and managerial processes necessary to satisfy the project requirements. The requirements are applicable to all types of software projects and to software products of any size, complexity, or criticality at any point in the life cycle. All forms of product delivery media, including firmware, embedded systems code, programmable logic arrays, and software-in-silicon are included.</abstract>
+  </front>
+</reference>

@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1647/D-2.2016-03" target="https://ieeexplore.ieee.org/document/7426687">
+<reference anchor="IEEE.P1647/D-2.2016-03" target="https://ieeexplore.ieee.org/document/7426687">
   <front>
     <title>IEEE Draft Standard for the Functional Verification Language e</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="7"/>
     <keyword>IEEE Standards</keyword>

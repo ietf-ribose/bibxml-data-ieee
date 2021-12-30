@@ -1,9 +1,14 @@
-<reference anchor="IEEE 323.1971" target="https://ieeexplore.ieee.org/document/6529090">
+<reference anchor="IEEE.323.1971" target="https://ieeexplore.ieee.org/document/6529090">
   <front>
     <title>IEEE Trial-Use Standard: General Guide for Qualifying Class I Electric Equipment for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1971.6529090"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="June" day="11"/>
     <keyword>IEEE standards</keyword>

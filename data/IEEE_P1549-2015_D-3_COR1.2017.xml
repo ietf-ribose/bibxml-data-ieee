@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1549-2015/D-3/Cor1.2017" target="https://ieeexplore.ieee.org/document/8031303">
+<reference anchor="IEEE.P1549-2015/D-3/Cor1.2017" target="https://ieeexplore.ieee.org/document/8031303">
   <front>
     <title>IEEE Approval Draft Standard for Microwave Filter Definitions--Corrigendum 1</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="September" day="9"/>
     <keyword>IEEE Standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1800.2005" target="https://ieeexplore.ieee.org/document/1560791">
+<reference anchor="IEEE.1800.2005" target="https://ieeexplore.ieee.org/document/1560791">
   <front>
     <title>IEEE Standard for SystemVerilog: Unified Hardware Design, Specification and Verification Language</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97972"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="10"/>
     <keyword>Hardware design languages</keyword>

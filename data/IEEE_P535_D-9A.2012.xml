@@ -1,8 +1,14 @@
-<reference anchor="IEEE P535/D-9a.2012" target="https://ieeexplore.ieee.org/document/6315975">
+<reference anchor="IEEE.P535/D-9a.2012" target="https://ieeexplore.ieee.org/document/6315975">
   <front>
     <title>IEEE Draft Standard for Qualification of Class 1E Vented Lead Acid Storage Batteries for Nuclear Power Generating Stations</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="September" day="28"/>
     <keyword>IEEE standards</keyword>

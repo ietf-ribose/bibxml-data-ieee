@@ -1,0 +1,34 @@
+<reference anchor="IEEE.1Q-REV/D-2.0.2017-07" target="https://ieeexplore.ieee.org/document/8031291">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2017" month="September" day="9"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Bridged circuits</keyword>
+    <keyword>Bridged Network</keyword>
+    <keyword>IEEE 802.1Q(TM)</keyword>
+    <keyword>LAN</keyword>
+    <keyword>local area network</keyword>
+    <keyword>MAC Bridge</keyword>
+    <keyword>metropolitan area network</keyword>
+    <keyword>MSTP</keyword>
+    <keyword>Multiple Spanning Tree Protocol</keyword>
+    <keyword>Rapid Spanning Tree Protocol</keyword>
+    <keyword>RSTP</keyword>
+    <keyword>PBN</keyword>
+    <keyword>Provider Bridged Network</keyword>
+    <keyword>Shortest Path Bridging Protocol</keyword>
+    <keyword>SPB Protocol</keyword>
+    <keyword>Time-Sensitive Networking</keyword>
+    <keyword>TSN</keyword>
+    <keyword>Virtual Bridged Network</keyword>
+    <keyword>virtual LAN</keyword>
+    <keyword>VLAN Bridge</keyword>
+    <abstract>This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.</abstract>
+  </front>
+</reference>

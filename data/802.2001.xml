@@ -1,0 +1,20 @@
+<reference anchor="IEEE.802.2001" target="https://ieeexplore.ieee.org/document/984782">
+  <front>
+    <title>IEEE Standard for Local and Metropolitan Area Networks: Overview and Architecture</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93395"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2014" month="July" day="1"/>
+    <keyword>IEEE standards</keyword>
+    <keyword>Communication standards</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>IEEE 802 standards compliance</keyword>
+    <keyword>Local Area Networks (LANs)</keyword>
+    <keyword>LAN/MAN architecture</keyword>
+    <keyword>LAN/MAN reference model</keyword>
+    <keyword>Metropolitan Area Networks (MANs).</keyword>
+    <abstract>IEEE Std 802-2001, IEEE Standards for Local and Metropolitan Area Networks: Overview and Architecture, provides an overview to the family of IEEE 802 Standards. It defines compliance with the family of IEEE 802 Standards; it describes the relationship of the IEEE 802 Standards to the Open Systems Interconnection Basic Reference Model [ISO/IEC 7498-1:1994] and explains the relationship of these standards to the higher layer protocols; it provides a standard for the structure of LAN MAC addresses; and it provides a standard for identification of public, private, and standard protocols.</abstract>
+  </front>
+</reference>

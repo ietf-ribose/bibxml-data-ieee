@@ -1,0 +1,32 @@
+<reference anchor="IEEE.P802-3cm/D-3.1.2019-09" target="https://ieeexplore.ieee.org/document/8853404">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment Physical Layer and Management Parameters for 400 Gb/s over Multimode Fiber</title>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2019" month="September" day="30"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Local area networks</keyword>
+    <keyword>Metropolitan area networks</keyword>
+    <keyword>Physical layer</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>400 Gb/s Ethernet</keyword>
+    <keyword>400 Gigabit Ethernet</keyword>
+    <keyword>400GBASE-SR8</keyword>
+    <keyword>400GBASE-SR4.2</keyword>
+    <keyword>amendment</keyword>
+    <keyword>Energy Efficient Ethernet (EEE)</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Forward Error Correction (FEC)</keyword>
+    <keyword>IEEE 802.3</keyword>
+    <keyword>IEEE 802.3cd</keyword>
+    <keyword>IEEE 802.3cm</keyword>
+    <keyword>Physical Coding Sublayer (PCS)</keyword>
+    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
+    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
+    <keyword>Reconciliation Sublayer (RS)</keyword>
+    <keyword>multimode fiber (MMF)</keyword>
+    <abstract>This amendment to IEEE Std 802.3-2018 adds Clause 150. This amendment adds Physical Layer (PHY) specifications and management parameters for 400 Gb/s operation on four pairs (400GBASE-SR4.2) and eight pairs (400GBASE-SR8) of multimode fiber, over reaches of at least 100 m.</abstract>
+  </front>
+</reference>

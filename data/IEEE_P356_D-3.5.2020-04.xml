@@ -1,8 +1,14 @@
-<reference anchor="IEEE P356/D-3.5.2020-04" target="https://ieeexplore.ieee.org/document/9082930">
+<reference anchor="IEEE.P356/D-3.5.2020-04" target="https://ieeexplore.ieee.org/document/9082930">
   <front>
     <title>IEEE Draft Guide for Measurements of Electromagnetic Properties of Earth Media</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="April" day="30"/>
     <keyword>IEEE Standards</keyword>

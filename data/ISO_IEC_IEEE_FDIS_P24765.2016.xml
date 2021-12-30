@@ -1,8 +1,14 @@
-<reference anchor="ISO/IEC/IEEE FDIS P24765.2016" target="https://ieeexplore.ieee.org/document/7839172">
+<reference anchor="ISO/IEC/IEEE.FDIS.P24765.2016" target="https://ieeexplore.ieee.org/document/7839172">
   <front>
     <title>ISO/IEC/IEEE Draft Systems and Software Engineering - Vocabulary</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2017" month="February" day="1"/>
     <keyword>IEEE Standards</keyword>

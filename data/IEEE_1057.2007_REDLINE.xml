@@ -1,8 +1,14 @@
-<reference anchor="IEEE 1057.2007 Redline" target="https://ieeexplore.ieee.org/document/5981351">
+<reference anchor="IEEE.1057.2007.Redline" target="https://ieeexplore.ieee.org/document/5981351">
   <front>
     <title>IEEE Standard for Digitizing Waveform Recorders</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="August" day="15"/>
     <keyword>IEEE standards</keyword>

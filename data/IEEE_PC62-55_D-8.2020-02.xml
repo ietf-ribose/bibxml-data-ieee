@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC62-55/D-8.2020-02" target="https://ieeexplore.ieee.org/document/8994239">
+<reference anchor="IEEE.PC62-55/D-8.2020-02" target="https://ieeexplore.ieee.org/document/8994239">
   <front>
     <title>IEEE Draft Guide for Surge Protection of DC Power Feeds to Remote Radio Heads</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2020" month="February" day="11"/>
     <keyword>IEEE Standards</keyword>

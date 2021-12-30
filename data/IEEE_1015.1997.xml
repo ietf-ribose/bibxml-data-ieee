@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1015.1997" target="https://ieeexplore.ieee.org/document/648097">
+<reference anchor="IEEE.1015.1997" target="https://ieeexplore.ieee.org/document/648097">
   <front>
     <title>IEEE Recommended Practice for Applying Low-Voltage Circuit Breakers Used in Industrial and Commercial Power Systems</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85708"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>IEEE Standards</keyword>

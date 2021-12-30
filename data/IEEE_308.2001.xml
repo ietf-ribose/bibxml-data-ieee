@@ -1,9 +1,15 @@
-<reference anchor="IEEE 308.2001" target="https://ieeexplore.ieee.org/document/988968">
+<reference anchor="IEEE.308.2001" target="https://ieeexplore.ieee.org/document/988968">
   <front>
     <title>IEEE Standard Criteria for Class 1E Power Systems for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93569"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="January" day="21"/>
     <keyword>IEEE Standards</keyword>

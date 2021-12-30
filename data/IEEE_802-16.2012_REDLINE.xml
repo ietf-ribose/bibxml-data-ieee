@@ -1,8 +1,14 @@
-<reference anchor="IEEE 802-16.2012 Redline" target="https://ieeexplore.ieee.org/document/6522441">
+<reference anchor="IEEE.802-16.2012.Redline" target="https://ieeexplore.ieee.org/document/6522441">
   <front>
     <title>IEEE Standard for Air Interface for Broadband Wireless Access Systems</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="May" day="31"/>
     <keyword>IEEE standards</keyword>

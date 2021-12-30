@@ -1,0 +1,21 @@
+<reference anchor="IEEE.C37-114.2004" target="https://ieeexplore.ieee.org/document/1453059">
+  <front>
+    <title>IEEE Guide for Determining Fault Location on AC Transmission and Distribution Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96207"/>
+    <author>
+      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+    </author>
+    <date year="2015" month="December" day="2"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Patents</keyword>
+    <keyword>Fault location</keyword>
+    <keyword>Licenses</keyword>
+    <keyword>Power engineering</keyword>
+    <keyword>Power system relaying</keyword>
+    <keyword>fault location</keyword>
+    <keyword>relays</keyword>
+    <keyword>system protection</keyword>
+    <keyword>traveling waves</keyword>
+    <abstract>Electrical faults on transmission and distribution lines are detected and isolated bysystem protective devices. Once the fault has been cleared, outage times can be reduced if thelocation of the fault can be determined more quickly. This guide outlines the techniques andapplication considerations for determining the location of a fault on ac transmission and distributionlines. The document reviews traditional approaches and the primary measurement techniques usedin modern devices: one-terminal and two-terminal impedance-based methods and traveling wavemethods. Application considerations include: two- and three-terminal lines, series-compensatedlines, parallel lines, untransposed lines, underground cables, fault resistance effects, and otherpower system conditions, including those unique to distribution systems.</abstract>
+  </front>
+</reference>

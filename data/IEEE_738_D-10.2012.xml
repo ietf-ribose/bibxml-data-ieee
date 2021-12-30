@@ -1,8 +1,14 @@
-<reference anchor="IEEE 738/D-10.2012" target="https://ieeexplore.ieee.org/document/6302152">
+<reference anchor="IEEE.738/D-10.2012" target="https://ieeexplore.ieee.org/document/6302152">
   <front>
     <title>IEEE Draft Standard for Calculating the Current-Temperature Relationship of Bare Overhead Conductors</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="September" day="13"/>
     <keyword>IEEE standards</keyword>

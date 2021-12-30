@@ -1,8 +1,14 @@
-<reference anchor="IEEE P1491/D-9.2012-01" target="https://ieeexplore.ieee.org/document/6135474">
+<reference anchor="IEEE.P1491/D-9.2012-01" target="https://ieeexplore.ieee.org/document/6135474">
   <front>
     <title>IEEE Draft Guide for Selection and Use of Battery Monitoring Equipment in Stationary Applications</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="February" day="7"/>
     <keyword>IEEE standards</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 1219.1993" target="https://ieeexplore.ieee.org/document/257623">
+<reference anchor="IEEE.1219.1993" target="https://ieeexplore.ieee.org/document/257623">
   <front>
     <title>IEEE Standard for Software Maintenance</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115570"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2013" month="March" day="19"/>
     <keyword>Software maintenance</keyword>

@@ -1,9 +1,15 @@
-<reference anchor="IEEE 367.1996" target="https://ieeexplore.ieee.org/document/8684711">
+<reference anchor="IEEE.367.1996" target="https://ieeexplore.ieee.org/document/8684711">
   <front>
     <title>IEEE Recommended Practice for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684711"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>electric power stations</keyword>

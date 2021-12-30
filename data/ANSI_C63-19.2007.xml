@@ -1,9 +1,14 @@
-<reference anchor="ANSI C63-19.2007" target="https://ieeexplore.ieee.org/document/4233252">
+<reference anchor="ANSI.C63-19.2007" target="https://ieeexplore.ieee.org/document/4233252">
   <front>
     <title>American National Standard Methods of Measurement for Hearing Aid Compatibility with Wireless Communications</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.371285"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2019" month="April" day="5"/>
     <keyword>Electromagnetic compatibility</keyword>

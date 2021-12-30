@@ -1,8 +1,14 @@
-<reference anchor="IEEE Approved PC37-90-1/D-6.1.2012-06" target="https://ieeexplore.ieee.org/document/6302155">
+<reference anchor="IEEE.Approved.PC37-90-1/D-6.1.2012-06" target="https://ieeexplore.ieee.org/document/6302155">
   <front>
     <title>IEEE Standard for Surge Withstand Capability (SWC) Tests for Relays and Relay Systems Associated with Electric Power Apparatus</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2012" month="September" day="13"/>
     <keyword>IEEE standards</keyword>

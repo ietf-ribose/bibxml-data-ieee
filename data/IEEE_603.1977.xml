@@ -1,9 +1,14 @@
-<reference anchor="IEEE 603.1977" target="https://ieeexplore.ieee.org/document/7431912">
+<reference anchor="IEEE.603.1977" target="https://ieeexplore.ieee.org/document/7431912">
   <front>
     <title>IEEE Trial Use Standard for Safety Systems for Nuclear Power Generating Stations</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7431912"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2016" month="March" day="11"/>
     <keyword>IEEE Standards</keyword>

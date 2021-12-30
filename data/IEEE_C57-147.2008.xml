@@ -1,9 +1,14 @@
-<reference anchor="IEEE C57-147.2008" target="https://ieeexplore.ieee.org/document/4566080">
+<reference anchor="IEEE.C57-147.2008" target="https://ieeexplore.ieee.org/document/4566080">
   <front>
     <title>IEEE Guide for Acceptance and Maintenance of Natural Ester Fluids in Transformers</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4566080"/>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2018" month="July" day="20"/>
     <keyword>IEEE Standards</keyword>

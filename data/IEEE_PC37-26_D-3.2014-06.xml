@@ -1,8 +1,14 @@
-<reference anchor="IEEE PC37-26/D-3.2014-06" target="https://ieeexplore.ieee.org/document/6828690">
+<reference anchor="IEEE.PC37-26/D-3.2014-06" target="https://ieeexplore.ieee.org/document/6828690">
   <front>
     <title>IEEE Guide for Methods of Power-Factor Measurement for Low-Voltage (1000 V AC or lower) Inductive Test Circuits</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <address>
+        <postal>
+          <city>Piscataway</city>
+          <country>USA</country>
+        </postal>
+      </address>
     </author>
     <date year="2014" month="June" day="10"/>
     <keyword>IEEE standards</keyword>
