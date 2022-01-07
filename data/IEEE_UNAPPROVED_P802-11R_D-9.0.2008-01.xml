@@ -9,6 +9,6 @@
         </postal>
       </address>
     </author>
-    <abstract>The scope of this project are enhancements to the 802.11 Medium Access Control (MAC) layer to minimize or eliminate the amount of time data connectivity between the Station (STA) and the Distribution System (DS) is absent during a Basic Service Set (BSS) transition, limited to the state necessary for the operation of the MAC. This Project Authorization Request (PAR) will apply only to the STAAccess Point (AP) state within the same Extended Service Set (ESS), and will not apply to the Independent Basic Service Set (IBSS) case. Security must not be decreased as a result of the enhancement. Timing criteria and timing conditions will be defined by the Task Group. (See also section 7.4)</abstract>
+    <abstract>The scope of this project are enhancements to the 802.11 Medium Access Control (MAC) layer to minimize or eliminate the amount of time data connectivity between the Station (STA) and the Distribution System (DS) is absent during a Basic Service Set (BSS) transition, limited to the state necessary for the operation of the MAC. This Project Authorization Request (PAR) will apply only to the STA-&gt;Access Point (AP) state within the same Extended Service Set (ESS), and will not apply to the Independent Basic Service Set (IBSS) case. Security must not be decreased as a result of the enhancement. Timing criteria and timing conditions will be defined by the Task Group. (See also section 7.4)</abstract>
   </front>
 </reference>

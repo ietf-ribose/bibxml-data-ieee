@@ -1,7 +1,6 @@
-<reference anchor="IEEE.1641.2010" target="https://ieeexplore.ieee.org/document/5578923">
+<reference anchor="IEEE.P1641/D-9.2021-08" target="https://ieeexplore.ieee.org/document/9671051">
   <front>
-    <title>IEEE Standard for Signal and Test Definition</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5578923"/>
+    <title>IEEE Draft Standard for Signal and Test Definition</title>
     <author>
       <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
       <address>
@@ -11,10 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2012" month="June" day="29"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Automatic testing</keyword>
+    <date year="2022" month="January" day="5"/>
     <keyword>ATE</keyword>
     <keyword>ATLAS</keyword>
     <keyword>automatic test equipment</keyword>
