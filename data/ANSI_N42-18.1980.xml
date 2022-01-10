@@ -3,7 +3,7 @@
     <title>American National Standard Specification and Performance of On-Site Instrumentation for Continuously Monitoring Radioactivity in Effluents</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.81051"/>
     <author>
-      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
           <country>USA</country>
@@ -15,6 +15,6 @@
     <keyword>Measurement standards</keyword>
     <keyword>Monitoring</keyword>
     <keyword>Radioactive pollution</keyword>
-    <abstract>This standard provides recommendations for the selection of instrumentation specific to the continuous monitoring and quantification of radioactivity in effluents released to the environment. The effluent streams considered may contain radioactive gases, liquids, particulates, or dissolved solids singly or in combination. This standard specifies detection capabilities, physical and operating limits, reliability, and calibration requirements and sets forth minimum performance requirements for effluent monitoring instrumentation. Unless otherwise specified, the criteria herein refer to the total system. This standard applies only to monitoring during routine operation that includes abnormal releases.<ETX>&gt;</ETX></abstract>
+    <abstract>This standard provides recommendations for the selection of instrumentation specific to the continuous monitoring and quantification of radioactivity in effluents released to the environment. The effluent streams considered may contain radioactive gases, liquids, particulates, or dissolved solids singly or in combination. This standard specifies detection capabilities, physical and operating limits, reliability, and calibration requirements and sets forth minimum performance requirements for effluent monitoring instrumentation. Unless otherwise specified, the criteria herein refer to the total system. This standard applies only to monitoring during routine operation that includes abnormal releases.&lt;<etx>&gt;</etx></abstract>
   </front>
 </reference>

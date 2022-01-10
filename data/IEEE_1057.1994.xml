@@ -3,7 +3,7 @@
     <title>IEEE Standard for Digitizing Waveform Recorders</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122649"/>
     <author>
-      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
           <city>New York</city>
@@ -16,6 +16,6 @@
     <keyword>IEEE standards</keyword>
     <keyword>Terminology</keyword>
     <keyword>Oscilloscopes</keyword>
-    <abstract>Terminology and test methods for describing the performance of waveform recorders are provided<ETX>&gt;</ETX></abstract>
+    <abstract>Terminology and test methods for describing the performance of waveform recorders are provided&lt;<etx>&gt;</etx></abstract>
   </front>
 </reference>

@@ -3,7 +3,7 @@
     <title>IEEE Standard Specification of General-Purpose Laboratory Cathode-Ray Oscilloscopes</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1970.80215"/>
     <author>
-      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
           <city>Piscataway</city>
@@ -20,6 +20,6 @@
     <keyword>general</keyword>
     <keyword>purpose</keyword>
     <keyword>cathode-ray</keyword>
-    <abstract>The purposes of this Standard are: to document the minimum information that users of general-purpose laboratory cathode-ray oscilloscopes typically need; to provide potential purchasers and others with a common means for making comparisons between instruments; and to provide uniformity of information from manufacturers. This Standard applies primarily to general-purpose laboratory cathode-ray oscilloscopes; it does not necessarily apply to specific kinds of oscilloscopes, such as those employing sampling techniques, nor to storage oscilloscopes, spectrum analyzers, television monitors, or other instruments using cathode-ray tube displays.<ETX>&gt;</ETX></abstract>
+    <abstract>The purposes of this Standard are: to document the minimum information that users of general-purpose laboratory cathode-ray oscilloscopes typically need; to provide potential purchasers and others with a common means for making comparisons between instruments; and to provide uniformity of information from manufacturers. This Standard applies primarily to general-purpose laboratory cathode-ray oscilloscopes; it does not necessarily apply to specific kinds of oscilloscopes, such as those employing sampling techniques, nor to storage oscilloscopes, spectrum analyzers, television monitors, or other instruments using cathode-ray tube displays.&lt;<etx>&gt;</etx></abstract>
   </front>
 </reference>

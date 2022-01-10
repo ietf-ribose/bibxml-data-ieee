@@ -2,7 +2,7 @@
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Station and Media Access Control Connectivity Discovery</title>
     <author>
-      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
           <country>USA</country>
@@ -13,6 +13,6 @@
     <keyword>management information base</keyword>
     <keyword>topology discovery</keyword>
     <keyword>topology information.</keyword>
-    <abstract>This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 802 LANs.</abstract>
+    <abstract>This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 802® LANs.</abstract>
   </front>
 </reference>

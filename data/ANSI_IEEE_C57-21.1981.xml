@@ -3,7 +3,7 @@
     <title>IEEE Standard Requirements, Terminology, and Test Code for Shunt Reactors Over 500 kVa</title>
     <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81013"/>
     <author>
-      <organization abbrev="IEEE">Institute of Electrical and Electronics Engineers</organization>
+      <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
           <city>New York</city>
@@ -15,6 +15,6 @@
     <keyword>Inductors</keyword>
     <keyword>Standards</keyword>
     <keyword>Testing</keyword>
-    <abstract>This standard applies to all oil-immersed or dry-type, single-phase or three-phase outdoor or indoor shunt reactors rated 501 kVA and larger. It covers general requirements, terminology, ratings, insulation classes, dielectric tests, losses, impedance, temperature rise, construction, accessories and the test code.<ETX>&gt;</ETX></abstract>
+    <abstract>This standard applies to all oil-immersed or dry-type, single-phase or three-phase outdoor or indoor shunt reactors rated 501 kVA and larger. It covers general requirements, terminology, ratings, insulation classes, dielectric tests, losses, impedance, temperature rise, construction, accessories and the test code.&lt;<etx>&gt;</etx></abstract>
   </front>
 </reference>
