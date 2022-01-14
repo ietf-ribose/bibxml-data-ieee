@@ -1,6 +1,7 @@
-<reference anchor="IEEE.P516/D-5.2021-04" target="https://ieeexplore.ieee.org/document/9450060">
+<reference anchor="IEEE.516.2021" target="https://ieeexplore.ieee.org/document/9678146">
   <front>
-    <title>IEEE Approved Draft Guide for Maintenance Methods on Energized Power Lines</title>
+    <title>IEEE Guide for Maintenance Methods on Energized Power Lines</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9678146"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,11 +11,12 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="June" day="9"/>
+    <date year="2022" month="January" day="11"/>
     <keyword>IEEE Standards</keyword>
     <keyword>Maintenance engineering</keyword>
     <keyword>Power transmission lines</keyword>
-    <keyword>Equipment</keyword>
+    <keyword>Tools</keyword>
+    <keyword>Energy management</keyword>
     <keyword>energized</keyword>
     <keyword>equipment</keyword>
     <keyword>IEEE 516</keyword>

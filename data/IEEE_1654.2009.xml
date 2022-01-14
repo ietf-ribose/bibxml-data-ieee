@@ -1,0 +1,24 @@
+<reference anchor="IEEE.1654.2009" target="https://ieeexplore.ieee.org/document/5157394">
+  <front>
+    <title>IEEE Guide for RF Protection of Personnel Working in the Vicinity of Wireless Communications Antennas Attached to Electric Power Line Structures</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5157394"/>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="January" day="12"/>
+    <keyword>1654-2009</keyword>
+    <keyword>electrical workers</keyword>
+    <keyword>immunity</keyword>
+    <keyword>power frequency</keyword>
+    <keyword>RF personal monitors</keyword>
+    <keyword>RF protective clothing</keyword>
+    <keyword>RF safety program</keyword>
+    <abstract>Information on establishing an effective safety program to ensure compliance with the applicable regulations for radio frequency (RF) protection of electrical workers in the vicinity of wireless communication antennas adjacent or attached to electrical power line structures is presented. The guide also provides information on power-frequency electric and magnetic field immunity of RF personal monitors and RF protective clothing.</abstract>
+  </front>
+</reference>
