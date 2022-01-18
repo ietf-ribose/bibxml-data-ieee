@@ -1,7 +1,7 @@
-<reference anchor="IEEE.268A.1980" target="https://ieeexplore.ieee.org/document/8727714">
+<reference anchor="IEEE.268A.1980" target="https://ieeexplore.ieee.org/document/713350">
   <front>
-    <title>IEEE International System of Units Conversion Factors Card</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1890.8727714"/>
+    <title>IEEE International System of Units Conversion Factors Card </title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.88275"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +11,12 @@
         </postal>
       </address>
     </author>
-    <date year="2019" month="May" day="31"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>International System of Units</keyword>
-    <keyword>Data conversion</keyword>
-    <abstract>International System of Units Conversion</abstract>
+    <keyword>Meters</keyword>
+    <keyword>Force</keyword>
+    <keyword>Reactive power</keyword>
+    <keyword>Permeability</keyword>
+    <keyword>Micrometers</keyword>
+    <keyword>Conductivity</keyword>
+    <keyword>Voltage</keyword>
   </front>
 </reference>
