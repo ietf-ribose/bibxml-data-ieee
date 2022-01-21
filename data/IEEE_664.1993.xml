@@ -1,0 +1,30 @@
+<reference anchor="IEEE.664.1993" target="https://ieeexplore.ieee.org/document/286129">
+  <front>
+    <title>IEEE Guide for Laboratory Measurement of the Power Dissipation Characteristics of Aeolian Vibration Dampers for Single Conductors</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119669"/>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="January" day="18"/>
+    <keyword>IEEE Standards</keyword>
+    <keyword>Power measurement</keyword>
+    <keyword>Power dissipation</keyword>
+    <keyword>Vibrations</keyword>
+    <keyword>aeolian</keyword>
+    <keyword>decay method</keyword>
+    <keyword>forced response method</keyword>
+    <keyword>inverse standing wave radio</keyword>
+    <keyword>ISWR</keyword>
+    <keyword>overhead conductors</keyword>
+    <keyword>power dissipation</keyword>
+    <keyword>power method</keyword>
+    <keyword>vibration dampers</keyword>
+    <abstract>The current methodologies, including apparatus, procedures, and measurement accuracies, for determining the dynamic characteristics of vibration dampers and damping systems are described. Some basic guidance is provided regarding a given method's strengths and weaknesses. The methodologies and procedures described are applicable to indoor testing only.</abstract>
+  </front>
+</reference>

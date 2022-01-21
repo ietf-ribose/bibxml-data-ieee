@@ -1,27 +1,19 @@
-<reference anchor="ISO/IEC/IEEE.8802-3/Amd1.2017" target="https://ieeexplore.ieee.org/document/8664714">
+<reference anchor="IEEE.802-3bs.2017" target="https://ieeexplore.ieee.org/document/8207825">
   <front>
-    <title>ISO/IEC/IEEE International Standard - Information technology - Telecommunications and information exchange between systems - Local and metropolitan area networks - Specific requirements - Part 3: Standard for Ethernet AMENDMENT 10: Media access control parameters, physical layers, and management parameters for 200 Gb/s and 400 Gb/s operation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8664714"/>
+    <title>IEEE Standard for Ethernet - Amendment 10: Media Access Control Parameters, Physical Layers, and Management Parameters for 200 Gb/s and 400 Gb/s Operation</title>
+    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8207825"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
-      <address>
-        <postal>
-          <city>New York</city>
-          <country>USA</country>
-        </postal>
-      </address>
     </author>
-    <date year="2019" month="March" day="11"/>
+    <date year="2017" month="December" day="14"/>
     <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
+    <keyword>Ethernet</keyword>
+    <keyword>Energy efficiency</keyword>
+    <keyword>Media Access Protocol</keyword>
+    <keyword>Physical layer</keyword>
     <keyword>Local area networks</keyword>
     <keyword>Metropolitan area networks</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Parameter estimation</keyword>
+    <keyword>Forward error correction</keyword>
     <keyword>200 Gb/s Ethernet</keyword>
     <keyword>200GAUI-4</keyword>
     <keyword>200GAUI-8</keyword>
