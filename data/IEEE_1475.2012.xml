@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1475.2012" target="https://ieeexplore.ieee.org/document/6471990">
   <front>
     <title>IEEE Standard for the Functioning of Interfaces Among Propulsion, Friction Brake, and Train-Borne Master Control on Rail Rapid Transit Vehicles</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6471990"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2013" month="February" day="28"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Fricton</keyword>
-    <keyword>Brakes</keyword>
-    <keyword>Rail transportation</keyword>
-    <keyword>Rapid transit systems</keyword>
-    <keyword>Railway electrification</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>friction brake</keyword>
-    <keyword>interfaces</keyword>
-    <keyword>master control</keyword>
-    <keyword>propulsion</keyword>
-    <keyword>rail vehicles</keyword>
-    <keyword>rapid transit</keyword>
-    <keyword>IEEE 1475</keyword>
     <abstract>The interfaces between and among functional systems on rail rapid transit vehicles are prescribed. The systems themselves are treated as “black boxes”; requirements for the input signals and the output response are given. For each category of interface, three types are listed in increasing technical sophistication.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6471990"/>
 </reference>

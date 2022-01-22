@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P577/D-5.2011-01" target="https://ieeexplore.ieee.org/document/5706463">
   <front>
     <title>IEEE Draft Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706463"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Design methodology</keyword>
-    <keyword>nuclear facilities</keyword>
-    <keyword>reliability analysis</keyword>
-    <keyword>safety systems</keyword>
     <abstract>This standard sets forth the minimum acceptable requirements for the performance of reliability analyses for safety systems when used to address the reliability considerations discussed in industry standards and guidelines. The requirement that a reliability analysis be performed does not originate with this standard. However, when reliability analysis is used to demonstrate compliance with reliability requirements, this standard describes an acceptable response to the requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706463"/>
 </reference>

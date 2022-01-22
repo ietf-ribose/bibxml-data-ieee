@@ -1,19 +1,11 @@
 <reference anchor="ANSI/IEEE.488-1.1987" target="https://ieeexplore.ieee.org/document/29042">
   <front>
     <title>IEEE Standard Digital Interface for Programmable Instrumentation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81527"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March"/>
-    <keyword>Computer interfaces</keyword>
-    <keyword>Standards</keyword>
-    <keyword>488.1</keyword>
-    <keyword>programmable</keyword>
-    <keyword>system data</keyword>
-    <keyword>digital interface</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>Measurement system</keyword>
     <abstract>Superseded by 488.1-2003. Interface systems used to interconnect both programmable and nonprogrammable electronic measuring apparatus with other apparatus and accessories necessary to assemble instrumentation systems are considered. The standard applies to the interface of instrumentation systems, or portions of them, in which the: data exchanged among the interconnected apparatus is digital, the number of devices that may be interconnected by one contiguous bus does not exceed 15, total transmission path lengths over the interconnecting cables do not exceed 20 m, and the data rate across the interface on any signal line does not exceed 1 Mb/s. The basic functional specifications of this standard may also be used in digital interface applications that require longer distances, more devices, increased noise immunity, or combinations of these.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81527"/>
 </reference>

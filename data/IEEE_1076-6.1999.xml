@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1076-6.1999" target="https://ieeexplore.ieee.org/document/836335">
   <front>
     <title>IEEE Standard for VHDL Register Transfer Level Synthesis</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91308"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2016" month="October" day="20"/>
-    <keyword>Hardware design languages</keyword>
-    <keyword>pragma</keyword>
-    <keyword>register transfer level (RTL)</keyword>
-    <keyword>synthesis</keyword>
-    <keyword>VHDL</keyword>
     <abstract>A standard syntax and semantics for VHDL register transfer level (RTL) synthesis is defined. The subset of IEEE 1076 (VHDL) that is suitable for RTL synthesis is defined, along with the semantics of that subset for the synthesis domain.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91308"/>
 </reference>

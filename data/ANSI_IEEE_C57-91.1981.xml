@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C57-91.1981" target="https://ieeexplore.ieee.org/document/27790">
   <front>
     <title>IEEE Guide for Loading Mineral-Oil-Immersed Overhead and Pad-Mounted Distribution Transformers Rated 500kVA and Less with 65 C or 55 C Average Winding Rise</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81014"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Oil insulation</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>loading</keyword>
-    <keyword>overhead</keyword>
-    <keyword>pad-mounted</keyword>
-    <keyword>transformers</keyword>
-    <keyword>500kVA</keyword>
     <abstract>General recommendations for loading 65 degrees Centigrade-rise mineral-oil-immersed overhead and pad-mounted distribution transformers are covered. Recommendations for 55 degrees Centigrade-rise transformers are included because a substantial percentage of these transformers are still in service. The recommendations are based on winding hottest-spot calculations only. Other factors that may limit the permissible load to lower values are listed. A method to establish winding temperature and loss of life by nomographs is given.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81014"/>
 </reference>

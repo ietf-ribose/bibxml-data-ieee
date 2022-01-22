@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1061.1998" target="https://ieeexplore.ieee.org/document/9055496">
   <front>
     <title>IEEE Standard for a Software Quality Metrics Methodology</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.9055496"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2020" month="April" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Software quality</keyword>
-    <keyword>Software measurement</keyword>
-    <keyword>direct metric</keyword>
-    <keyword>metrics framework</keyword>
-    <keyword>quality factor</keyword>
-    <keyword>quality subfactor</keyword>
-    <keyword>software quality metric</keyword>
     <abstract>This IEEE Standards product is part of the family on Software Engineering. A methodology for establishing quality requirements and identifying, implementing, analyzing, and validating the process and product software quality metrics is defined. The methodology spans the entire software life cycle.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.9055496"/>
 </reference>

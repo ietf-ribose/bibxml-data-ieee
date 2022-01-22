@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-11.2012" target="https://ieeexplore.ieee.org/document/6361248">
   <front>
     <title>ISO/IEC/IEEE International Standard - Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6361248"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,85 +11,7 @@
       </address>
     </author>
     <date year="2012" month="November" day="22"/>
-    <keyword>IEC standards</keyword>
-    <keyword>ISO</keyword>
-    <keyword>ISO standards</keyword>
-    <keyword>IEC</keyword>
-    <keyword>Patents</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>2.4 GHz</keyword>
-    <keyword>3650 MHz</keyword>
-    <keyword>4.9 GHz</keyword>
-    <keyword>5 GHz</keyword>
-    <keyword>5.9 GHz</keyword>
-    <keyword>advanced encryption standard</keyword>
-    <keyword>AES</keyword>
-    <keyword>carrier sense multiple access/collision avoidance</keyword>
-    <keyword>CCMP</keyword>
-    <keyword>channel switching</keyword>
-    <keyword>Counter mode with Cipher-block chaining Message authentication code Protocol</keyword>
-    <keyword>confidentiality</keyword>
-    <keyword>CSMA/CA</keyword>
-    <keyword>DFS</keyword>
-    <keyword>direct link</keyword>
-    <keyword>dynamic frequency selection</keyword>
-    <keyword>E911</keyword>
-    <keyword>emergency alert system</keyword>
-    <keyword>emergency services</keyword>
-    <keyword>forwarding</keyword>
-    <keyword>generic advertisement service</keyword>
-    <keyword>high throughput</keyword>
-    <keyword>IEEE 802.11</keyword>
-    <keyword>interface</keyword>
-    <keyword>international roaming</keyword>
-    <keyword>interworking</keyword>
-    <keyword>interworking with external networks</keyword>
-    <keyword>LAN</keyword>
-    <keyword>local area network</keyword>
-    <keyword>MAC</keyword>
-    <keyword>measurement</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>media-independent handover</keyword>
-    <keyword>medium access controller</keyword>
-    <keyword>mesh</keyword>
-    <keyword>MIH</keyword>
-    <keyword>MIMO</keyword>
-    <keyword>MIMO-OFDM</keyword>
-    <keyword>multi-hop</keyword>
-    <keyword>multiple input multiple output</keyword>
-    <keyword>network advertisement</keyword>
-    <keyword>network discovery</keyword>
-    <keyword>network management</keyword>
-    <keyword>network selection</keyword>
-    <keyword>off-channel direct link</keyword>
-    <keyword>path-selection</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>power saving</keyword>
-    <keyword>QoS</keyword>
-    <keyword>quality of service</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>QoS mapping</keyword>
-    <keyword>radio</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>RF</keyword>
-    <keyword>radio resource</keyword>
-    <keyword>radio management</keyword>
-    <keyword>SSP</keyword>
-    <keyword>SSPN</keyword>
-    <keyword>subscriber service provider</keyword>
-    <keyword>temporal key integrity protocol</keyword>
-    <keyword>TKIP</keyword>
-    <keyword>TPC</keyword>
-    <keyword>transmit power control</keyword>
-    <keyword>tunneled direct link setup</keyword>
-    <keyword>wireless access in vehicular environments</keyword>
-    <keyword>wireless LAN</keyword>
-    <keyword>wireless local area network</keyword>
-    <keyword>WLAN</keyword>
-    <keyword>wireless network management</keyword>
-    <keyword>zero-knowledge proof</keyword>
     <abstract>This revision specifies technical corrections and clarifications to IEEE Std 802.11 for wireless local area networks (WLANS) as well as enhancements to the existing medium access control (MAC) and physical layer (PHY) functions. It also incorporates Amendments 1 to 10 published in 2008 to 2011.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6361248"/>
 </reference>

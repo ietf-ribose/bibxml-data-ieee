@@ -11,22 +11,6 @@
       </address>
     </author>
     <date year="2021" month="April" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Specification languages</keyword>
-    <keyword>VHDL</keyword>
-    <keyword>System analysis and design</keyword>
-    <keyword>1850-2010</keyword>
-    <keyword>ABV</keyword>
-    <keyword>assertion</keyword>
-    <keyword>assertion-based verification</keyword>
-    <keyword>assumption</keyword>
-    <keyword>cover</keyword>
-    <keyword>model checking</keyword>
-    <keyword>property</keyword>
-    <keyword>PSL</keyword>
-    <keyword>specification</keyword>
-    <keyword>temporal logic</keyword>
-    <keyword>verification</keyword>
     <abstract>The IEEE Property Specification Language (PSL) is defined in this standard. PSL is a formal notation for specification of electronic system behavior, compatible with multiple electronic system design languages, including IEEE Std 1076™ (VHDL®), IEEE Std 1354 (Verilog®), IEEE Std 1666™ (SystemC®), and IEEE Std 1800(TM) (SystemVerilog(R)), thereby enabling a common specification and verification flow for multi-language and mixed-language designs. PSL captures design intent in a form suitable for simulation, formal verification, formal analysis, and hybrid verification tools. PSL enhances communication among architects, designers, and verification engineers to increase productivity throughout the design and verification process. The primary audiences for this standard are the implementors of tools supporting the language and advanced users of the language.</abstract>
   </front>
 </reference>

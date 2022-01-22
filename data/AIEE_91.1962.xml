@@ -1,7 +1,6 @@
 <reference anchor="AIEE.91.1962" target="https://ieeexplore.ieee.org/document/7440747">
   <front>
     <title>AIEE Graphic Symbols for Logic Diagrams</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.7440747"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="24"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Symbols</keyword>
-    <keyword>Graphics</keyword>
-    <keyword>Logic diagrams</keyword>
-    <keyword>Terminology</keyword>
     <abstract>This Standard represents the progress made to date in evolving graphical symbols for use in preparation of logic diagrams for systems of binary-state devices. The Standard contains two alternate but overlapping sets of symbols. Since agreement on a common set of symbols could not be obtained, no preference is implied between the two sets presented herein. This represents a solution that seems best under circumstances that presently prevail. It is anticipated that the Standard will be reviewed at the Task Group level at regular intervals, and eventually agreement will be sought for a set of graphical symbols based on a common symbology. It is hoped that groups that have not been represented heretofore will participate at Task Group level in the preparation of future revisions.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.7440747"/>
 </reference>

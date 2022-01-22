@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N323.1978" target="https://ieeexplore.ieee.org/document/27749">
   <front>
     <title>American National Standard Radiation Protection Instrumentation Test and Calibration</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80836"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2018" month="December" day="31"/>
-    <keyword>Beta ray detectors</keyword>
-    <keyword>Calibration</keyword>
-    <keyword>Dosimetry</keyword>
-    <keyword>Measurement errors</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Neutron detectors</keyword>
-    <keyword>X-ray detectors</keyword>
-    <keyword>X-ray detectors</keyword>
-    <keyword>Neutron detectors</keyword>
-    <keyword>Gamma-ray detectors</keyword>
-    <keyword>Beta-ray detectors</keyword>
-    <keyword>Alpha-particle detectors</keyword>
     <abstract>Calibration methods for portable (hand-carried) radiation protection instruments used for detection and measurement of levels of ionizing radiation fields or levels of radioactive surface contamination are established. Included are conditions, equipment, and techniques for calibration as well as the degree of precision and accuracy required. Alpha, beta, photon, and neutron radiation is considered. Passive integrating dosimetric devices such as film, theremoluminescent, and chemical dosimeters are not covered, although the basic principles and intent may apply to them as well as to nonportable radiation detection instrumentation in general.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80836"/>
 </reference>

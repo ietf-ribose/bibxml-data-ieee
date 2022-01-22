@@ -11,14 +11,6 @@
       </address>
     </author>
     <date year="2014" month="January" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Sleep apnoea </keyword>
-    <keyword>Biomedical equipment</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>IEEE 11073-10424</keyword>
-    <keyword>sleep apnoea breathing therapy equipment (SABTE)</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of the communication between sleep apnoea breathing therapy equipment (SABTE) devices (agents) and managers (e.g. cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for SABTE. In this context, SABTE are defined as devices that are intended to alleviate the symptoms of a patient who suffers from sleep apnoea by delivering a therapeutic breathing pressure to the patient. SABTE are primarily used in the home healthcare environment by a lay operator without direct professional supervision.</abstract>
   </front>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.450.1980" target="https://ieeexplore.ieee.org/document/7419195">
   <front>
     <title>IEEE Recommended Practice for Maintenance, Testing , and Replacement of Large Lead Storage Batteries for Generating Stations and Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7419195"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Substations</keyword>
     <abstract>This recommended practice is limited to providing recommended practices of maintenance, test schedules, and testing procedures that can be used to optimize the life and performance of large lead storage batteries. It also provides guidance to determine when batteries should be replaced. There are other test procedures and replacement techniques used within the industry (especially for smaller substation batteries) which are equally as effective but are beyond the scope of this recommended practice. Sizing, installation, qualification, other battery types, and application are also beyond the scope of this recommended practice. This recommended practice does not include any other component of the dc system nor surveillance and testing of the dc system, even though the battery is part of that system. Preoperational and periodic dc system tests of chargers and other dc components may require that the battery be connected to the system. Details for these tests will depend on the requirements of the dc system and are not within the scope of this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7419195"/>
 </reference>

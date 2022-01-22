@@ -1,21 +1,11 @@
 <reference anchor="ANSI/IEEE.C57-13-3.1983" target="https://ieeexplore.ieee.org/document/27858">
   <front>
     <title>IEEE Guide for the Grounding of Instrument Transformer Secondary Circuits and Cases</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81048"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Grounding</keyword>
-    <keyword>Insulation testing</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Standards</keyword>
-    <keyword>grounding</keyword>
-    <keyword>instruments</keyword>
-    <keyword>transformer</keyword>
-    <keyword>secondary</keyword>
-    <keyword>circuits</keyword>
     <abstract>Superseded by IEEE Std C57.13.3-2005 General and specific recommendations for grounding current and voltage transformer secondary circuits and cases of connected equipment are provided. The practices recommended apply to all transformers of this type, including capacitive voltage transformers and linear couplers, irrespective of primary voltage or whether the primary windings are connected to, or are in, power circuits or are connected in the secondary circuits of other transformers as auxiliary current or voltage transformers. The primary emphasis is personnel safety and proper performance of relays at power-line frequencies. The grounding and shielding of cables and other grounding considerations are not addressed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81048"/>
 </reference>

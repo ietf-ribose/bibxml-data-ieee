@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.1008.1987" target="https://ieeexplore.ieee.org/document/27763">
   <front>
     <title>IEEE Standard for Software Unit Testing</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81001"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="February" day="27"/>
-    <keyword>Software testing</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Standards</keyword>
-    <keyword>unit</keyword>
-    <keyword>Software testing</keyword>
     <abstract>An integrated approach to systematic and documented unit testing is defined. It uses unit design and unit implementation information, in addition to unit requirements, to determine the completeness of the testing. The testing process described composed of a hierarchy of phases, activities, and tasks and defines a minimum set of tasks for each activity. The standard can be applied to the unit testing of any digital computer software or firmware and to the testing of both newly developed and modified units. The software engineering concepts and testing assumption on which this standard approach is based and guidance and resource information to assist with the implementation and usage of the standard unit testing approach are provided in appendixes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81001"/>
 </reference>

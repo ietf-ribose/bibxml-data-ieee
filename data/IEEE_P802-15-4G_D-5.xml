@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P802-15-4g/D-5" target="https://ieeexplore.ieee.org/document/5976971">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) Amendment: Physical Layer (PHY) Specifications for Low Data Rate Wireless Smart Metering Utility Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5976971"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,29 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Ad hoc networks</keyword>
-    <keyword>Mobile communication</keyword>
-    <keyword>Personal area networks</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>Wireless personal area networks</keyword>
-    <keyword>ad hoc network</keyword>
-    <keyword>low data rate</keyword>
-    <keyword>low power</keyword>
-    <keyword>LR-WPAN</keyword>
-    <keyword>mobility</keyword>
-    <keyword>PAN</keyword>
-    <keyword>personal area network</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>RF</keyword>
-    <keyword>short range</keyword>
-    <keyword>smart metering utility networks</keyword>
-    <keyword>SUN</keyword>
-    <keyword>wireless</keyword>
-    <keyword>wireless personal area network</keyword>
-    <keyword>WPAN</keyword>
     <abstract>This amendment to IEEE Std 802.15.4-2006 addresses principally outdoor low data rate, wireless, smart metering utility network requirements. It defines alternate PHYs and only those MAC modifications needed to support their implementation.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5976971"/>
 </reference>

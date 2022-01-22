@@ -11,33 +11,6 @@
       </address>
     </author>
     <date year="2016" month="April" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Time measurement</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Passive optical networks</keyword>
-    <keyword>IEEE 802.3 Standard</keyword>
-    <keyword>25 Gigabit Ethernet</keyword>
-    <keyword>25GAUI</keyword>
-    <keyword>25GBASE-CR</keyword>
-    <keyword>25GBASE-CR-S</keyword>
-    <keyword>25GBASE-KR</keyword>
-    <keyword>25GBASE-KR-S</keyword>
-    <keyword>25GBASE-SR</keyword>
-    <keyword>25GMII</keyword>
-    <keyword>Auto-Negotiation (AN)</keyword>
-    <keyword>Backplane Ethernet</keyword>
-    <keyword>Energy Efficient Ethernet (EEE)</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Forward Error Correction (FEC)</keyword>
-    <keyword>IEEE 802(R)</keyword>
-    <keyword>IEEE 802.3(TM)</keyword>
-    <keyword>IEEE 802.3by(TM)</keyword>
-    <keyword>multimode fiber (MMF)</keyword>
-    <keyword>Physical Coding Sublayer (PCS)</keyword>
-    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
-    <keyword>Physical Medium Dependent (PMD) sublayer</keyword>
-    <keyword>Reconciliation Sublayer (RS)</keyword>
     <abstract>This amendment to IEEE Std 802.3-2015 adds Physical Layer (PHY) specifications and management parameters for 25 Gb/s operation over twinaxial copper cabling (25GBASE-CR and 25GBASE-CR-S), electrical backplanes (25GBASE-KR and 25GBASE-KR-S), and multimode fiber (25GBASE-SR). This amendment also specifies a 25 Gigabit Attachment Unit Interface (25GAUI) and optional Energy Efficient Ethernet (EEE).</abstract>
   </front>
 </reference>

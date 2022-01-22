@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-12-91.2011" target="https://ieeexplore.ieee.org/document/6152116">
   <front>
     <title>IEEE Standard Test Code for Dry-Type Distribution and Power Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6152116"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>dry-type transformer</keyword>
-    <keyword>IEEE C57.12.91</keyword>
-    <keyword>power transformer</keyword>
     <abstract>This revision addresses substantive changes to Clause 5, Clause 10, and Clause 11 of IEEE Std C57.12.91-2001 to reflect current practice in the testing procedures of dry-type transformers. This revision does not address transformer requirements and specific test criteria; rather they are contained in appropriate standards such as IEEE Std C57.12.01 or in user specifications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6152116"/>
 </reference>

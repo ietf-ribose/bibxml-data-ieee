@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-85.1989" target="https://ieeexplore.ieee.org/document/4140819">
   <front>
     <title>American National Standard for Switchgear-Alternating-Current High-Voltage Power Vacuum Interrupters-Safety Requirements for X-Radiation Limits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.339581"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -14,4 +13,5 @@
     <date year="2017" month="February" day="23"/>
     <abstract>This standard specifies the maximum permissible X-radiation emission from alternating-current high-voltage power vacuum interrupters that are intended to be operated at voltages between 5000 volts and 38 000 volts when tested in accordance with procedures described in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.339581"/>
 </reference>

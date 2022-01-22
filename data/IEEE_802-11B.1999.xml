@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11b.1999" target="https://ieeexplore.ieee.org/document/817038">
   <front>
     <title>IEEE Standard for Information Technology - Telecommunications and information exchange between systems - Local and Metropolitan networks - Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications: Higher Speed Physical Layer (PHY) Extension in the 2.4 GHz band</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.90914"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="16"/>
-    <keyword>Physical layer</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>IEEE 802.11 Standard</keyword>
-    <keyword>2.4 GHz</keyword>
-    <keyword>high speed</keyword>
-    <keyword>local area network (LAN)</keyword>
-    <keyword>radio frequency (RF)</keyword>
-    <keyword>wireless</keyword>
     <abstract>Changes and additions are provided for IEEE Std 802.11b-1999 to support the higher rate Physical Layer for operation in the 2.4 GHz band.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.90914"/>
 </reference>

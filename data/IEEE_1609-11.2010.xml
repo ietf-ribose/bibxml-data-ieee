@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1609-11.2010" target="https://ieeexplore.ieee.org/document/5692959">
   <front>
     <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE)-- Over-the-Air Electronic Payment Data Exchange Protocol for Intelligent Transportation Systems (ITS)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5692959"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2013" month="June" day="13"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Intelligent transportation systems</keyword>
-    <keyword>Vehicles</keyword>
-    <keyword>EFC</keyword>
-    <keyword>electronic fee collection</keyword>
-    <keyword>electronic payment service</keyword>
-    <keyword>EPS</keyword>
-    <keyword>WAVE</keyword>
-    <keyword>Wireless Access in Vehicular Environments</keyword>
     <abstract>This standard specifies the electronic payment service layer and profile for Payment and Identity authentication, and Payment Data transfer for Dedicated Short Range Communication (DSRC) based applications in Wireless Access in Vehicular Environments. This standard defines a basic level of technical interoperability (vehicle-to-roadside) for electronic payment equipment, i.e., onboard unit (OBU) and roadside unit (RSU) using WAVE. It does not provide a full solution for interoperability, and it does not define other parts of the electronic payment system, other services, other technologies and non-technical elements of payment interoperability. This standard is not intended to define technology and processes to activate and store data into the OBU (personalization), nor the applications using the payment service.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5692959"/>
 </reference>

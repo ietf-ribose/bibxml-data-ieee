@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-41e.1996" target="https://ieeexplore.ieee.org/document/574642">
   <front>
     <title>IEEE Standard Design Tests for External Fuses for Shunt Capacitors - Supplement to IEEE Std C37.41-1994</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.81720"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="May" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Fuses</keyword>
-    <keyword>Capacitors</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Patents</keyword>
-    <keyword>external capacitor fuses</keyword>
     <abstract>The design testing required for high-voltage external capacitor fuses (above 1000 V) used for the protection of shunt capacitor banks is covered in this supplement.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.81720"/>
 </reference>

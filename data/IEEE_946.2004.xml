@@ -1,7 +1,6 @@
 <reference anchor="IEEE.946.2004" target="https://ieeexplore.ieee.org/document/1453057">
   <front>
     <title>IEEE Recommended Practice for the Design of DC Auxiliary Power Systems for Generating Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96206"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2012" month="May" day="17"/>
-    <keyword>battery</keyword>
-    <keyword>battery charger</keyword>
-    <keyword>cross-tie</keyword>
-    <keyword>dc</keyword>
-    <keyword>duty cycle</keyword>
-    <keyword>generating station</keyword>
-    <keyword>ground detection</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>nuclear</keyword>
-    <keyword>short circuit</keyword>
     <abstract>Revision of IEEE Std 946-1992. Guidance for the design of the DC auxiliary power systems for nuclear and non-nuclear power generating stations is provided by this recommended practice. The components of the DC auxiliary power system addressed by this recommended practice include lead-acid storage batteries, static battery chargers, and distribution equipment. Guidance for selecting the quantity and types of equipment, the equipment ratings, interconnections, instrumentation, control and protection is also provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96206"/>
 </reference>

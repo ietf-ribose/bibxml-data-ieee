@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1329.1999" target="https://ieeexplore.ieee.org/document/917586">
   <front>
     <title>IEEE Standard Method for Measuring Transmission Performance of Handsfree Telephone Sets</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.92425"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Optical variables measurement</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Analog handsfree telephone</keyword>
-    <keyword>digital handsfree telephone</keyword>
-    <keyword>electroacoustic transmission characteristics</keyword>
-    <keyword>handsfree telephone</keyword>
-    <keyword>voice switching characteristics</keyword>
-    <keyword>voice transmission characteristics</keyword>
     <abstract>Techniques for objective measurement of electroacoustic and voice switching characteristics of analog and digital handsfree telephones (HFTs) are provided. Due to the various characteristics of HFTs and the environments in which they operate, not all of the test procedures in this standard are applicable to all HFTs. Application of the test procedures to atypical HFTs should be determined on an individual basis.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.92425"/>
 </reference>

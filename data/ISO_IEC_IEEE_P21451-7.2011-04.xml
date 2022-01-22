@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.P21451-7.2011-04" target="https://ieeexplore.ieee.org/document/5766827">
   <front>
     <title>IEEE/ISO/IEC Draft Standard for Information Technology - Smart Transducer Interface for Sensors and Actuators - Transducers to Radio Frequency Identification (RFID) Systems Communication Protocols and Transducer Electronic Data Sheet Formats</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5766827"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Transducers</keyword>
-    <keyword>Sensors</keyword>
-    <keyword>Actuators</keyword>
-    <keyword>Radiofrequency identification</keyword>
-    <keyword>Protocols</keyword>
     <abstract>This part of ISO/IEC/IEEE 21451 defines communication methods and data formats for transducers (sensors and actuators) communicating with RFID tags. This part of ISO/IEC/IEEE 21451 also defines Transducer Electronic Data Sheet (TEDS) formats based on the ISO/IEC/IEEE 21451 family of standards and protocols for accessing TEDS and transducer data. It adopts necessary interfaces and protocols to facilitate the use of technically differentiated, existing technology solutions. It doesnt specify transducer design or signal conditioning.There is currently no openly defined independent interface standard between transducers and RFID tags. Each vendor builds its own interface. Without such standard, transducer interfacing and integration to RFID tags and systems are time-consuming and all vendors duplicated efforts are economically unproductive. The purpose of this part of ISO/IEC/IEEE 21451 is to provide interfaces and methods for interfacing transducers to RFID tags and reporting transducer data within the RFID infrastructure. It also provides means for device and equipment interoperability.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5766827"/>
 </reference>

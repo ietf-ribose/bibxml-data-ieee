@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2065.2020" target="https://ieeexplore.ieee.org/document/9386025">
   <front>
     <title>IEEE Guide for Parameter Requirements and Test Method for Industrial Fiber Laser</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9386025"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2021" month="March" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Optical fiber testing</keyword>
-    <keyword>Fiber lasers</keyword>
-    <keyword>Lasers</keyword>
-    <keyword>IEEE 2065</keyword>
-    <keyword>industrial fiber laser</keyword>
-    <keyword>test method</keyword>
     <abstract>The required parameters that should be included in an industrial fiber laser product, such as the terminology, classification, and test method for fiber laser products are specified in this guide. This guide is intended to be used by fiber-laser producers, laser-processing equipment integrators, and end-users. This standard specifies performance parameters and the test method for industrial fiber lasers. The purpose is to improve the mutual compatibility among laser manufacturers, system integrators and end users, provide a uniform specification, and promote the development of the industrial fiber laser sector.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9386025"/>
 </reference>

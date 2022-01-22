@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-17A.2003" target="https://ieeexplore.ieee.org/document/1293919">
   <front>
     <title>American National Standard Performance Specifications for Health Physics Instrumentation-Portable Instrumentation for Use in Normal Environmental Conditions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94493"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2014" month="February" day="13"/>
-    <keyword>ANSI standards</keyword>
-    <keyword>Dosimetry</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>Calibration</keyword>
-    <keyword>health physics</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>normal environment</keyword>
-    <keyword>portable survey</keyword>
-    <keyword>survey</keyword>
     <abstract>This standard establishes the minimum performance criteria for health physics instrumentation for use in ionizing radiation fields. Testing methods are included to establish the acceptability of each type of instrumentation.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94493"/>
 </reference>

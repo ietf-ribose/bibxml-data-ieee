@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.854.1987" target="https://ieeexplore.ieee.org/document/27840">
   <front>
     <title>IEEE Standard for Radix-Independent Floating-Point Arithmetic</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81037"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="21"/>
-    <keyword>Digital arithmetic</keyword>
-    <keyword>Standards</keyword>
-    <keyword>radix</keyword>
-    <keyword>independent</keyword>
-    <keyword>Floating-point arithmetic</keyword>
     <abstract>A family of commercially feasible ways for new systems to perform floating-point arithmetic is defined. This standard specifies constraints on parameters defining values of basic and extended floating-point numbers; add, subtract, multiply, divide, square root, remainder, and compare operations; conversions between integers and floating-point numbers; conversions between different floating-point precisions; conversion between basic precision floating-point numbers and decimal strings; and floating-point exceptions and their handling, including nonnumbers. It is intended that an implementation of a floating-point system conforming to this standard can be realized entirely in software, entirely in hardware, or in any combination of software and hardware. Retrofitting issues are not considered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81037"/>
 </reference>

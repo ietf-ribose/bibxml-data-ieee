@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-121.1998" target="https://ieeexplore.ieee.org/document/741935">
   <front>
     <title>IEEE Guide for Acceptance and Maintenance of Less-Flammable Hydrocarbon Fluid in Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88823"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2020" month="May" day="8"/>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>high molecular weight hydrocarbon fluid</keyword>
-    <keyword>HMWH fluid</keyword>
-    <keyword>hydrocarbon fluid</keyword>
-    <keyword>insulating fluid</keyword>
-    <keyword>less flammable hydrocarbon fluid</keyword>
-    <keyword>LFH fluid</keyword>
-    <keyword>transformer</keyword>
     <abstract>The evaluation and handling procedures for less flammable hydrocarbon transformer insulating fluids are covered. The guide???s purpose is to assist the transformer operator in receiving new fluids, filling transformers, and maintaining the fluids in serviceable condition.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88823"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1" target="https://ieeexplore.ieee.org/document/7435219">
   <front>
     <title>ISO/IEC/IEEE International Standard - Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 1Q: Bridges and bridged networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7435219"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,31 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Bridged circuits</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Virtual LAN</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Bridged Network</keyword>
-    <keyword>IEEE 802.1Q(TM)</keyword>
-    <keyword>LAN</keyword>
-    <keyword>local area network</keyword>
-    <keyword>MAC Bridge</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>MSTP</keyword>
-    <keyword>Multiple Spanning Tree Protocol</keyword>
-    <keyword>Rapid Spanning Tree Protocol</keyword>
-    <keyword>RSTP</keyword>
-    <keyword>PBN</keyword>
-    <keyword>Provider Bridged Network</keyword>
-    <keyword>Shortest Path Bridging Protocol</keyword>
-    <keyword>SPB Protocol</keyword>
-    <keyword>Virtual Bridged Network</keyword>
-    <keyword>virtual LAN</keyword>
-    <keyword>VLAN Bridge</keyword>
     <abstract>This international standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7435219"/>
 </reference>

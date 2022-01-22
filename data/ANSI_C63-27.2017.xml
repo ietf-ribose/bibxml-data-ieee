@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-27.2017" target="https://ieeexplore.ieee.org/document/7927764">
   <front>
     <title>American National Standard for Evaluation of Wireless Coexistence</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7927764"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2017" month="May" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>Interference</keyword>
-    <keyword>ANSI C63.27</keyword>
-    <keyword>coexistence</keyword>
-    <keyword>electromagnetic environments</keyword>
-    <keyword>EMI</keyword>
-    <keyword>immunity</keyword>
-    <keyword>interference</keyword>
-    <keyword>reliability</keyword>
-    <keyword>RF</keyword>
-    <keyword>RFI</keyword>
-    <keyword>susceptibility</keyword>
     <abstract>An evaluation process and supporting test methods are provided in this standard to quantify the ability of a wireless device to coexist with other wireless services in its intended radio frequency (RF) environments.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7927764"/>
 </reference>

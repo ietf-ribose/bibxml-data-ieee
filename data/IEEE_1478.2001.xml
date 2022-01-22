@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1478.2001" target="https://ieeexplore.ieee.org/document/960411">
   <front>
     <title>IEEE Standard for Environmental Conditions for Transit Rail Car Electronic Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93356"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2013" month="December" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Rails</keyword>
-    <keyword>Automobiles</keyword>
-    <keyword>Electronic equipment</keyword>
-    <keyword>Patents</keyword>
-    <keyword>atmospheric pressure</keyword>
-    <keyword>authority having jurisdiction</keyword>
-    <keyword>corrosive elements</keyword>
-    <keyword>equipmentunder test</keyword>
-    <keyword>humidity</keyword>
-    <keyword>temperature</keyword>
-    <keyword>water</keyword>
-    <keyword>vibration.</keyword>
     <abstract>Baseline environmental conditions under which transit rail car electronic equipment shallboth operate and/or survive are specified in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93356"/>
 </reference>

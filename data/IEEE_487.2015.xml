@@ -1,7 +1,6 @@
 <reference anchor="IEEE.487.2015" target="https://ieeexplore.ieee.org/document/7172981">
   <front>
     <title>IEEE Standard for the Electrical Protection of Communications Facilities Serving Electric Supply Locations -- General Considerations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7172981"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2015" month="July" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electricity supplly industry</keyword>
-    <keyword>Electrical supply locations</keyword>
-    <keyword>Poles and towers</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Power stations</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>electric supply locations</keyword>
-    <keyword>high-voltage tower</keyword>
-    <keyword>IEEE 487(TM)</keyword>
-    <keyword>power stations</keyword>
-    <keyword>protection</keyword>
-    <keyword>wire-line telecommunications</keyword>
     <abstract>General considerations are presented for the electrical protection of telecommunications facilities serving electric supply locations. This standard contains material that is common to the IEEE 487<sup>TM</sup> family of standards (i.e., dot-series) including fundamental protection theory; basic electrical protection philosophy, concepts, and designs; protection apparatus; service types; reliability; service performance objective (SPO) classifications; and transmission considerations. In general, special protective measures, handling procedures, and administrative procedures are necessary to provide electrical protection against damage to telecommunications facilities and equipment, maintain reliability of service, and ensure the safety of personnel.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7172981"/>
 </reference>

@@ -1,32 +1,11 @@
 <reference anchor="ANSI.C63-4.1991" target="https://ieeexplore.ieee.org/document/159236">
   <front>
     <title>American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101046"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Noise measurement</keyword>
-    <keyword>Electromagnetic radiative interference</keyword>
-    <keyword>Standards</keyword>
-    <keyword>conducting ground plane</keyword>
-    <keyword>conducted emission testing</keyword>
-    <keyword>digital equipment</keyword>
-    <keyword>electric field measurement</keyword>
-    <keyword>information technology equipment (ITE)</keyword>
-    <keyword>intentional radiators</keyword>
-    <keyword>line-impedance stabilization network (LISN)</keyword>
-    <keyword>low-voltage electrical equipment</keyword>
-    <keyword>low-voltage electronic equipment</keyword>
-    <keyword>magnetic field measurement</keyword>
-    <keyword>normalized site attenuation</keyword>
-    <keyword>periodic intentional radiators</keyword>
-    <keyword>powerline-conducted radio noise</keyword>
-    <keyword>radiated emission testing</keyword>
-    <keyword>radio-noise emissions</keyword>
-    <keyword>radio-noise power</keyword>
-    <keyword>site attenuation</keyword>
-    <keyword>unintentional radiators.</keyword>
     <abstract>ANSI C63.4-1991, American National Standard Methods of Measurement of Radio-Noise Emissions From Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz, sets forth uniform methods of measurement of radio noise emitted from low-voltage electrical and electronic equipment, including digital and other information technology equipment (ITE), in the frequency range of 9 kHz to 40 GHz. Methods for the measurement of radiated and power-line-conducted radio noise are covered and may be applied to any such equipment unless otherwise specified by individual equipment requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101046"/>
 </reference>

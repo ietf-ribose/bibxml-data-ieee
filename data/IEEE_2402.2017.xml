@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2402.2017" target="https://ieeexplore.ieee.org/document/7926464">
   <front>
     <title>IEEE Standard Design Criteria of Complex Virtual Instruments for Ocean Observation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7926464"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2017" month="May" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Oceans</keyword>
-    <keyword>Geologic measurements</keyword>
-    <keyword>Software development</keyword>
-    <keyword>Virtual environments</keyword>
-    <keyword>Software systems</keyword>
-    <keyword>Metadata</keyword>
-    <keyword>Distributed databases</keyword>
-    <keyword>CVI (complex virtual instrument)</keyword>
-    <keyword>IEEE 2402(TM)</keyword>
-    <keyword>ocean observation</keyword>
-    <keyword>software development</keyword>
     <abstract>The framework of building a distributed ocean observing software system based on complex virtual instruments (CVIs), which are used for processing and displaying the collected data from ocean instruments and the related metadata, is defi ned in this standard. This framework provides the guidelines for the CVI-based development process, in which CVI structure design covers management of observed data and metadata, virtual instrument engine based on geospatial information, and service interfaces for CVI interactions. CVI mapping schemes describe the correspondence from observed objects to CVIs. CVI relations defi ne the relationships between CVIs and describe the methods of extending and compositing multiple CVIs.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7926464"/>
 </reference>

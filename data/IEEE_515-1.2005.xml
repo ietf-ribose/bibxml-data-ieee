@@ -1,7 +1,6 @@
 <reference anchor="IEEE.515-1.2005" target="https://ieeexplore.ieee.org/document/1633761">
   <front>
     <title>Standard for the Testing, Design, Installation, and Maintenance of Electrical Resistance Heat Tracing for Commercial Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215178"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2012" month="December" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Resistance heating</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Resistance</keyword>
-    <keyword>Heat engines</keyword>
-    <keyword>deicing</keyword>
-    <keyword>design</keyword>
-    <keyword>electrical resistance</keyword>
-    <keyword>floor warming</keyword>
-    <keyword>freeze protection</keyword>
-    <keyword>frost heave</keyword>
-    <keyword>heat tracing</keyword>
-    <keyword>heater</keyword>
-    <keyword>heating cable</keyword>
-    <keyword>heating device</keyword>
-    <keyword>installation</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>snow melting</keyword>
-    <keyword>testing</keyword>
     <abstract>Specific test requirements for qualifying electrical resistance heat tracing for commercial service. A basis for electrical and thermal design is included. Heating device characteristics are addressed, and installation and maintenance requirements are detailed. Recommendations and requirements for unclassified heating device applications are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215178"/>
 </reference>

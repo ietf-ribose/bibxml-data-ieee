@@ -5,43 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="October" day="15"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>Ultra wideband communication</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>amendment</keyword>
-    <keyword>double-sided two-way ranging</keyword>
-    <keyword>DS-TWR</keyword>
-    <keyword>enhanced ranging device</keyword>
-    <keyword>ERDEV</keyword>
-    <keyword>HRP UWB PHY</keyword>
-    <keyword>HRP-ERDEV</keyword>
-    <keyword>IEEE 802.15.4</keyword>
-    <keyword>IEEE 802.15.4z</keyword>
-    <keyword>low power</keyword>
-    <keyword>low-rate wireless networks</keyword>
-    <keyword>LRP UWB PHY</keyword>
-    <keyword>LRP-ERDEV</keyword>
-    <keyword>multi-node ranging</keyword>
-    <keyword>precision ranging</keyword>
-    <keyword>ranging device</keyword>
-    <keyword>RDEV</keyword>
-    <keyword>RF</keyword>
-    <keyword>RFID</keyword>
-    <keyword>real time location systems</keyword>
-    <keyword>RTLS</keyword>
-    <keyword>single-sided two-way ranging</keyword>
-    <keyword>SSTWR</keyword>
-    <keyword>time of flight</keyword>
-    <keyword>TOF</keyword>
-    <keyword>TOF integrity</keyword>
-    <keyword>two-way ranging</keyword>
-    <keyword>TWR</keyword>
-    <keyword>ultra wideband</keyword>
-    <keyword>UWB</keyword>
-    <keyword>wireless specialty networks</keyword>
-    <keyword>WSN</keyword>
     <abstract>This amendment enhances the UWB PHYs with additional coding options and improvements to increase the integrity and accuracy of ranging measurements. It also enhances the MAC to support control of time-of-flight ranging procedures and exchange ranging related information between the participating ranging devices.</abstract>
   </front>
 </reference>

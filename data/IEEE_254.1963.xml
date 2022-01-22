@@ -1,7 +1,6 @@
 <reference anchor="IEEE.254.1963" target="https://ieeexplore.ieee.org/document/7385409">
   <front>
     <title>IEEE Standard Definitions of Parametric Device Terms</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7385409"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,9 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Parametric devices</keyword>
-    <keyword>Terminology</keyword>
     <abstract>While the term parametric amplifier implies a device which operates by virtue of the variation of some parameter, resistive or reactive, current usage applies it to circuits in which only a reactance is varied. When applied to electron beam devices and devices employing distributed nonlinear media, the variable parameter is equivalent to a reactance in the sense that it is associated with energy storage rather than eiiergy dissipative properties of the beam or medium. The qualifier, reactance, is more frequently applied to circuits in which the variable element is an easily identified lumped reactance. The qualifier, parametric, is more frequently applied to electron beam and distributed parameter devices, but can include the variable reactance devices as well. Thus in any of the following definitions, reactance may be used in place of parametric. These definitions are intended to exclude devices which operate by virtue of variable resistance or negative resistance.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7385409"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="AIEE.25.1941" target="https://ieeexplore.ieee.org/document/7381578">
   <front>
     <title>AIEE Revised Report on Standards for Fuses Above 600 Volts</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1941.7381578"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="13"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Fuses</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>Power transmission</keyword>
     <abstract>These standards apply to all types of fuses whether for indoor or outdoor service, except fuses for 600 volts and below.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1941.7381578"/>
 </reference>

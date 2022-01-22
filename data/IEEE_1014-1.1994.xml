@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1014-1.1994" target="https://ieeexplore.ieee.org/document/467523">
   <front>
     <title>IEEE Standard for a Futurebus+(R)/VME64 Bridge</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122631"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Data buses</keyword>
-    <keyword>Bus Bridge</keyword>
-    <keyword>Futurebus+</keyword>
-    <keyword>VMEbus</keyword>
-    <keyword>VME64</keyword>
     <abstract>Withdrawn Standard. Withdrawn Date: May 01, 2000. The logical protocol layer for bridging between a Futurebus+ system and a VME64 system in a tightly coupled fashion is defined. Transferring of both data and events is specified. The physical layer is not defined in this standard. Implementors are free to define and use the Bridge in the manner that best fits the application for optimum performance, functionality, and cost trade-offs. The Bridge provides for software transparency such that, at the application level, software is not aware of accesses that reach across a Bridge into the modules of another bus.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122631"/>
 </reference>

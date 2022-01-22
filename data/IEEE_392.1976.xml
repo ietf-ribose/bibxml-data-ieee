@@ -1,7 +1,6 @@
 <reference anchor="IEEE.392.1976" target="https://ieeexplore.ieee.org/document/7409906">
   <front>
     <title>IEEE Recommended Practice for Achieving High Reliability in Electronics Transformers and Inductors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.7409906"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,6 @@
       </address>
     </author>
     <date year="2016" month="February" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>Manufacturing</keyword>
-    <keyword>Materials reliability</keyword>
-    <keyword>reliability</keyword>
-    <keyword>electronice</keyword>
-    <keyword>transformers</keyword>
-    <keyword>inductors</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.7409906"/>
 </reference>

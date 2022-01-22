@@ -1,7 +1,6 @@
 <reference anchor="IEEE.519.2014" target="https://ieeexplore.ieee.org/document/6826459">
   <front>
     <title>IEEE Recommended Practice and Requirements for Harmonic Control in Electric Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6826459"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2014" month="June" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Harmonic analysis</keyword>
-    <keyword>Power quality</keyword>
-    <keyword>Power systems reliability</keyword>
-    <keyword>Electric power systems</keyword>
-    <keyword>harmonics</keyword>
-    <keyword>IEEE 519(TM)</keyword>
-    <keyword>power quality</keyword>
     <abstract>Goals for the design of electrical systems that include both linear and nonlinear loads are established in this recommended practice. The voltage and current waveforms that may exist throughout the system are described, and waveform distortion goals for the system designer are established. The interface between sources and loads is described as the point of common coupling and observance of the design goals will reduce interference between electrical equipment.This recommended practice addresses steady-state limitations. Transient conditions exceeding these limitations may be encountered. This document sets the quality of power that is to be provided at the point of common coupling. This document does not cover the effects of radio-frequency interference; however, guidance is offered for wired telephone systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6826459"/>
 </reference>

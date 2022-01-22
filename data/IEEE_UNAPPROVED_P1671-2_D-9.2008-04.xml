@@ -9,9 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>XML</keyword>
     <abstract>This document specifies an exchange format, using XML, for identifying instrumentation which may be integrated in an automatic test system (ATS) that is to be used to test and diagnose a unit under test (UUT).</abstract>
   </front>
 </reference>

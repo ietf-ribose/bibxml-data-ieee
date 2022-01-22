@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1X.2001" target="https://ieeexplore.ieee.org/document/935759">
   <front>
     <title>IEEE Standard for Port Based Network Access Control</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92774"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>authentication</keyword>
-    <keyword>authorization</keyword>
-    <keyword>controlled Port</keyword>
-    <keyword>Local Area Networks</keyword>
-    <keyword>Port Access Control</keyword>
-    <keyword>uncontrolled Port</keyword>
     <abstract>This IEEE Standards product is part of the 802 family on LAN/MAN. Port-based network access control makes use of the physical access characteristics of IEEE 802 Local Area Networks (LAN) infrastructures in order to provide a means of authenticating and authorizing devices attached to a LAN port that has point-to-point connection characteristics, and of preventing access to that port in cases in which the authentication and authorization process fails.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92774"/>
 </reference>

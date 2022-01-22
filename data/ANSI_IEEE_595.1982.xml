@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.595.1982" target="https://ieeexplore.ieee.org/document/19516">
   <front>
     <title>IEEE Standard Serial Highway Interface System (CAMAC) (Computer Automated Measurement and Control)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.120312"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="3"/>
-    <keyword>CAMAC</keyword>
-    <keyword>Standards</keyword>
-    <keyword>serial</keyword>
-    <keyword>highway</keyword>
-    <keyword>interface</keyword>
-    <keyword>system</keyword>
-    <keyword>CAMAC</keyword>
     <abstract>A serial highway (SH) system using byte-organized messages and configured as a unidirectional loop, to which are connected a system controller and up to sixty-two CAMAC crate assemblies, is defined. In the primary application, the controlled devices are CAMAC crate assemblies with serial crate controllers that conform to a defined message structure. In other applications, some or all of the controlled devices connected to the SH can be equipment that conforms to a subset of the full specification and is not necessarily constructed in CAMAC format or controlled by CAMAC commands.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.120312"/>
 </reference>

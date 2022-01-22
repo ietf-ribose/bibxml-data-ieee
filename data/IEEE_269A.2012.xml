@@ -1,7 +1,6 @@
 <reference anchor="IEEE.269a.2012" target="https://ieeexplore.ieee.org/document/6209375">
   <front>
     <title>IEEE Standard Methods for Measuring Transmission Performance of Analog and Digital Telephone Sets, Handsets, and Headsets--Amendment 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6209375"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2012" month="May" day="31"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Acoustoelectric effects</keyword>
-    <keyword>Telephone equipment</keyword>
-    <keyword>Digital communication</keyword>
-    <keyword>Speech processing</keyword>
-    <keyword>Transmission lines</keyword>
-    <keyword>analog telephones</keyword>
-    <keyword>digital telephones</keyword>
-    <keyword>electroacoustic measurements on telephones</keyword>
-    <keyword>handsets</keyword>
-    <keyword>headsets</keyword>
-    <keyword>IEEE 269</keyword>
-    <keyword>IEEE 269a</keyword>
-    <keyword>telephony</keyword>
-    <keyword>voice transmission performance</keyword>
     <abstract>Practical methods for making laboratory measurements of electroacoustic characteristics of analog and digital telephones, handsets, and headsets are presented. The methods may also be applicable to a wide variety of other communications equipment, including cordless, wireless, and mobile communications devices. Measurement results may be used to evaluate these devices on a standardized basis. Application is in the frequency range from 100 Hz to 8500 Hz.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6209375"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-59.1991" target="https://ieeexplore.ieee.org/document/211001">
   <front>
     <title>IEEE Standard Requirements for Conversion of Power Switchgear Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114385"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Design methodology</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>switchgear</keyword>
-    <keyword>equipment</keyword>
-    <keyword>conversion</keyword>
     <abstract>Superseded by C37.59-1996 . Power switchgear equipment that is converted from the original manufacturer’s designs, whether the conversion is performed in manufacturing plants or at installation sites, is covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114385"/>
 </reference>

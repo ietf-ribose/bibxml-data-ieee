@@ -1,14 +1,11 @@
 <reference anchor="ANSI/IEEE.762.1987" target="https://ieeexplore.ieee.org/document/27828">
   <front>
     <title>IEEE Standard Definitions for Use in Reporting Electric Generating Unit Reliability, Availability, and Productivity</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81031"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March" day="21"/>
-    <keyword>Generators</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>Standards</keyword>
     <abstract>This standard is intended to aid the electric power industry in reporting and evaluating electric generating unit reliability, availability, and productivity. It was developed to overcome present difficulties in the interpretation of electric generating unit performance data from various systems and to facilitate comparisons among different systems. The standard should also make possible the future exchange o meaningful data among systems in North America and throughout the world. Scope: This document standardizes terminology and indexes for reporting electric generating unit reliability, availability, and productivity performance measures. A generating unit includes all equipment up to the high-voltage terminal of the generator step-up transformer. Reliability in this standard encompasses measures of the ability of generating units to perform their intended function. Availability measures are concerned with the fraction of time a unit is capable of providing service, and account for outage frequency and duration. Productivity measures are concerned with the total power produced by a plant with respect to its potential power production. Therefore, productivity measures consider magnitude of outage as well as frequency and duration of outage. NOTE — This standard was developed for application at the unit level; the definitions are applicable below the unit level in most cases. There are some exceptions, however, such as the definition of in service, which applies only at the unit level. Because of these exceptions, care should be taken when using this standard below the unit level.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81031"/>
 </reference>

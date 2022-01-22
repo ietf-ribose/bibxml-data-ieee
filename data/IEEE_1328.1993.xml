@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1328.1993" target="https://ieeexplore.ieee.org/document/278326">
   <front>
     <title>IEEE Standard for Information Technology--Test Methods for Measuring Conformance to Open Systems Interconnection (OSI) Abstract Data Manipulation C Language Interfaces--Binding for Application Program Interface (API)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119228"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Open systems</keyword>
-    <keyword>C languages</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Patents</keyword>
-    <keyword>C language</keyword>
-    <keyword>Test methods</keyword>
-    <keyword>Language binding</keyword>
     <abstract>Test methods that may be used to test conformance to IEEE Std 1327- 1993, IEEE Standard for Information Technology--Open Systems Interconnection (OSI) Abstract Data Manipulation C Language Interfaces--Binding for Application Program Interface (API), are defined.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119228"/>
 </reference>

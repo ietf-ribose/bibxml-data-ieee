@@ -1,7 +1,6 @@
 <reference anchor="NACE.SP0415.2015" target="https://ieeexplore.ieee.org/document/7098304">
   <front>
     <title>NACE International and IEEE Joint Standard Practice for Below-Grade Inspection and Assessment of Corrosion on Steel Transmission, Distribution, and Substation Structures</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7098304"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2015" month="April" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>NACE Standards</keyword>
-    <keyword>Steel</keyword>
-    <keyword>Inspection</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Corrosion</keyword>
-    <keyword>Carbon steel</keyword>
-    <keyword>below-grade corrosion</keyword>
-    <keyword>below-grade steel</keyword>
-    <keyword>carbon steel</keyword>
-    <keyword>corrosion control</keyword>
-    <keyword>corrosion</keyword>
-    <keyword>data collection</keyword>
-    <keyword>electric transmission</keyword>
-    <keyword>galvanized steel</keyword>
-    <keyword>IEEE 1895</keyword>
-    <keyword>inspection</keyword>
-    <keyword>SP0415</keyword>
-    <keyword>substation</keyword>
     <abstract>This NACE/IEEE joint standard provides requirements to (1) help electric utilities identify structures that may be at a high risk for below-grade corrosion; (2) excavate and inspect the selected structures; (3) categorize the condition of structures based on corrosion degradation; (4) prioritize structures requiring additional inspection based on those findings; and (5) help identify next steps as required. The standard is limited to the inspection and assessment of steel transmission towers, poles, and substation structures, to include galvanized, self-weathering, and painted mild steel structures, as well as other similar structures.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7098304"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11z.2010" target="https://ieeexplore.ieee.org/document/5605400">
   <front>
     <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications Amendment 7: Extensions to Direct-Link Setup (DLS)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5605400"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>channel switching</keyword>
-    <keyword>direct link</keyword>
-    <keyword>off-channel direct link</keyword>
-    <keyword>power saving</keyword>
-    <keyword>tunneled directlink setup</keyword>
     <abstract>This amendment provides direct-link setup enhancements to the IEEE 802.11 MAC and PHY, extending direct-link setup to be independent of the access point (AP), and adding power save capabilities. The direct-link setup is made independent of the AP by tunneling the protocol messages inside data frames.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5605400"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE/NEMI.PR" target="https://ieeexplore.ieee.org/document/4607301">
   <front>
     <title>IEEE/NEMI Low-Cost Open Architecture Controller Specification</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.4607301"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2017" month="October" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Computer architecture</keyword>
-    <keyword>Controllers</keyword>
-    <keyword>Product life cycle management</keyword>
-    <keyword>Open systems</keyword>
-    <keyword>axis parameters</keyword>
-    <keyword>IEEE/NEMI low-cost open architecture controller specification</keyword>
-    <keyword>controller management</keyword>
-    <keyword>motion control</keyword>
-    <keyword>exception handling</keyword>
-    <keyword>mechanism parameters</keyword>
     <abstract>The following topics are dealt with: controller management; motion control; events, states and I/O; exception handling; nodes, frames and attributes; position and orientation; mechanism parameters; and axis parameters.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.4607301"/>
 </reference>

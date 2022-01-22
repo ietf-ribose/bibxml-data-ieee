@@ -1,7 +1,6 @@
 <reference anchor="IEEE.625.2001" target="https://ieeexplore.ieee.org/document/954570">
   <front>
     <title>IEEE Recommended Practice to Improve Electrical Maintenance and Safety in the Cement Industry</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93350"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2016" month="September" day="13"/>
-    <keyword>cement</keyword>
-    <keyword>control devices</keyword>
-    <keyword>electrostatic precipitator</keyword>
-    <keyword>equipment records</keyword>
-    <keyword>generators</keyword>
-    <keyword>grounding</keyword>
-    <keyword>instruments</keyword>
-    <keyword>lighting</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>medium-voltage controllers</keyword>
-    <keyword>medium-voltage switchgear</keyword>
-    <keyword>motor control centers</keyword>
-    <keyword>motors</keyword>
-    <keyword>oil circuit breakers</keyword>
     <abstract>These recommended practices are intended as a reference document for use by members of cement industry electrical maintenance departments. The procedures necessary for an efficient maintenance operation are summarized, and detailed information on maintenance procedures for many of the electrical devices more commonly found in the cement industry is provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93350"/>
 </reference>

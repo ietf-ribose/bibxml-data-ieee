@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3bk.2013" target="https://ieeexplore.ieee.org/document/6587259">
   <front>
     <title>IEEE Standard for Ethernet - Amendment 1: Physical Layer Specifications and Management Parameters for Extended Ethernet Passive Optical Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6587259"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="27"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Time measurement</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Passive optical networks</keyword>
-    <keyword>IEEE 802.3 Standard</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>extended EPON</keyword>
-    <keyword>IEEE 802.3&amp;#8482;</keyword>
-    <keyword>IEEE 802.3bk&amp;#8482;</keyword>
-    <keyword>PRX40</keyword>
-    <keyword>PR40</keyword>
-    <keyword>PX30</keyword>
-    <keyword>PX40</keyword>
     <abstract>This amendment to IEEE Std 802.3 defines the physical layer specifications and management parameters for EPON operation on point-to-multipoint passive optical networks supporting extended power budget classes of PX30, PX40, PRX40, and PR40 PMDs.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6587259"/>
 </reference>

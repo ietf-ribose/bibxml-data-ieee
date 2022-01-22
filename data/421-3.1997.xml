@@ -1,14 +1,11 @@
 <reference anchor="IEEE.421-3.1997" target="https://ieeexplore.ieee.org/document/8684473">
   <front>
     <title>IEEE Standard for High-Potential Test Requirements for Excitation Systems for Synchronous Machines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8684473"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>dielectric testing</keyword>
-    <keyword>excitation systems</keyword>
-    <keyword>test voltages</keyword>
     <abstract>High-potential test voltages for excitation systems used with synchronous machines are established. Test voltages are established based on whether equipment is connected to the exciter power circuit or is electrically isolated from the exciter power circuit.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8684473"/>
 </reference>

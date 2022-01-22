@@ -1,7 +1,6 @@
 <reference anchor="IEEE.No-127" target="https://ieeexplore.ieee.org/document/19434">
   <front>
     <title>IEEE Standard for Aerospace Equipment Voltage and Frequency Ratings</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.120146"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2012" month="May" day="17"/>
-    <keyword>Aircraft</keyword>
-    <keyword>Power supplies</keyword>
-    <keyword>Space vehicle power systems</keyword>
-    <keyword>Standards</keyword>
     <abstract>The basic purpose of IEEE 127 is to serve as a guide to show preferred (steady-state) frequency and voltage ratings for primary power systems. A careful study, was accomplished by the Flight Vehicle Systems Integration Subcommittee. The attached tabulation gives recommended standard frequencies and voltages for all types of aerospace electric apparatus for which standards appear practical.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.120146"/>
 </reference>

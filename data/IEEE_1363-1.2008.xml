@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1363-1.2008" target="https://ieeexplore.ieee.org/document/4800404">
   <front>
     <title>IEEE Standard Specification for Public Key Cryptographic Techniques Based on Hard Problems over Lattices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4800404"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="15"/>
-    <keyword>1363.1-2008</keyword>
-    <keyword>encryption</keyword>
-    <keyword>lattice-based cryptography</keyword>
-    <keyword>public key cryptography</keyword>
     <abstract>Specifications of common public key cryptographic techniques based on hard problems over lattices supplemental to those considered in IEEE Std 1363-2000 and IEEE Std 1363a-2004, including mathematical primitives for secret value (key) derivation, public key encryption, identification and digital signatures, and cryptographic schemes based on those primitives are provided. Also presented are specifications of related cryptographic parameters, public keys, and private keys. Class of computer and communications systems is not restricted.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4800404"/>
 </reference>

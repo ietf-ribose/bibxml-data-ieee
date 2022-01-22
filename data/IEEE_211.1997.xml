@@ -1,7 +1,6 @@
 <reference anchor="IEEE.211.1997" target="https://ieeexplore.ieee.org/document/8638365">
   <front>
     <title>IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8638365"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="February" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electromagnetic propagation</keyword>
-    <keyword>Antennas</keyword>
-    <keyword>Telecommunications</keyword>
-    <keyword>Remote sensing</keyword>
-    <keyword>electromagnetic wave propagation</keyword>
-    <keyword>terminology</keyword>
     <abstract>Terms and definitions used in the context of electromagnetic wave propagation relating to the fields of telecommunications, remote sensing, radio astronomy, optical waves, plasma waves, the ionosphere, the magnetosphere, and magnetohydrodynamic, acoustic, and electrostatic waves are supplied.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8638365"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.495.2007.Redline" target="https://ieeexplore.ieee.org/document/5961589">
   <front>
     <title>IEEE Guide for Testing Faulted Circuit Indicators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.5961589"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2013" month="July" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Fault tolerance</keyword>
-    <keyword>Circuit faults</keyword>
-    <keyword>Testing</keyword>
-    <keyword>cable fault locator</keyword>
-    <keyword>fault indicators</keyword>
-    <keyword>faulted circuit indicator</keyword>
-    <keyword>FCI</keyword>
     <abstract>Revision of IEEE Std 495-1986. Definitions, service conditions, test procedures, and test conditions for faulted circuit indicators for use on power distribution systems are established in this test code.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.5961589"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-5/Cor1.2019" target="https://ieeexplore.ieee.org/document/8666183">
   <front>
     <title>American National Standard for Electromagnetic Compatibility--Radiated Emission Measurements in Electromagnetic Interference (EMI) Control&amp;#8212;Calibration and Qualification of Antennas (9 kHz to 40 GHz) - Corrigendum 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8666183"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2019" month="March" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electromagnetic compatibility</keyword>
-    <keyword>Transmitting antennas</keyword>
-    <keyword>Capacitance</keyword>
-    <keyword>Polarization</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>ANSI C63.5</keyword>
-    <keyword>antenna factors</keyword>
-    <keyword>equivalent capacitance substitution</keyword>
-    <keyword>linearly polarized antennas</keyword>
-    <keyword>near-free space</keyword>
-    <keyword>reference antenna method</keyword>
-    <keyword>standard antenna method</keyword>
-    <keyword>standard site method</keyword>
-    <keyword>standard transmit loop method</keyword>
     <abstract>Methods for determining antenna factors of antennas used for radiated emission measurements in electromagnetic interference (EMI) control from 9 kHz to 40 GHz are provided. Antennas included are linearly polarized antennas such as loops, rods (monopoles), tuned dipoles, biconical dipoles, log-periodic dipole arrays, biconical and log-periodic dipole array hybrids, broadband horns, etc., that are used in measurements prescribed by ANSI C63.4 and ANSI C63.10. The antenna calibration methods include standard site method (i.e., three-antenna method), reference antenna method, equivalent capacitance substitution method, standard transmit loop method, standard antenna method, and standard field method. The selection of attenuation in 5.1.1 e) is addressed in this corrigendum, such that a maximum VSWR of 2:1 is achieved.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8666183"/>
 </reference>

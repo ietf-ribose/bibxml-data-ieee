@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1802-3d.1993" target="https://ieeexplore.ieee.org/document/467397">
   <front>
     <title>Conformance Test Methodology for IEEE Standards Local and Metropolitan Area Networks: CSMA/CD Access Method and Physical Layer Specifications--Type 10BASE-T Medium Attachment Unit (MAU) (Section 6)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122160"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEEE 802.3 Standard</keyword>
-    <keyword>EPON</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>abstract test suite</keyword>
-    <keyword>carrier sense multiple access with collision detection (CSMA/CD)</keyword>
-    <keyword>compliance</keyword>
-    <keyword>conformance testing</keyword>
-    <keyword>10BASE-T</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>medium attachment unit (MAU)</keyword>
-    <keyword>unshielded twisted pair (UTP)</keyword>
     <abstract>Methods for conformance testing to satisfy requirements arising from the ISO/IEC 8802-3 [ANSI/IEEE Std 802.3] standard are defined. The conformance test suite is intended to detect incorrect implementations of the ISO/IEC 8802-3 standard, clause 14. It comprises two categories of test groups. The first category relates to basic interconnection testing and the second to capability and behavior testing. The test setups, adapters, and instruments used are described.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122160"/>
 </reference>

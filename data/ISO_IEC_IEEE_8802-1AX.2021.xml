@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1AX.2021" target="https://ieeexplore.ieee.org/document/9546726">
   <front>
     <title>IEEE/ISO/IEC International Standard - International Standard-Telecommunications and exchange between information technology systems &amp;#8212; Requirements for local and metropolitan area networks &amp;#8212;Part 1AX: Link aggregation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9546726"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2021" month="September" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Aggregated Link</keyword>
-    <keyword>Aggregator</keyword>
-    <keyword>Distributed Resilient Network Interconnect</keyword>
-    <keyword>DRNI</keyword>
-    <keyword>interconnect</keyword>
-    <keyword>Link Aggregation</keyword>
-    <keyword>Link Aggregation Group</keyword>
-    <keyword>local area network</keyword>
-    <keyword>management</keyword>
-    <keyword>Network-Network Interface</keyword>
-    <keyword>NNI</keyword>
     <abstract>Link Aggregation allows parallel point-to-point links to be used as if they were a single link and also supports the use of multiple links as a resilient load-sharing interconnect between multiple nodes in two separately administered networks. This standard defines a MAC-independent Link Aggregation capability and provides general information relevant to specific MAC types.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9546726"/>
 </reference>

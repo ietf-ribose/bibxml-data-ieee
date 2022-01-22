@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1939-1.2021" target="https://ieeexplore.ieee.org/document/9631203">
   <front>
     <title>IEEE Standard for a Framework for Structuring Low-Altitude Airspace for Unmanned Aerial Vehicle (UAV) Operations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9631203"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,28 +11,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Autonomous aerial vehicles</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Meteorology</keyword>
-    <keyword>Communication systems</keyword>
-    <keyword>Remote sensing</keyword>
-    <keyword>Path planning</keyword>
-    <keyword>airspace assessment</keyword>
-    <keyword>communication and networking</keyword>
-    <keyword>geographic data</keyword>
-    <keyword>geographic information technology</keyword>
-    <keyword>gridding</keyword>
-    <keyword>IEEE 1939.1&amp;#8482;</keyword>
-    <keyword>low-altitude airspace</keyword>
-    <keyword>low-altitude public air route network</keyword>
-    <keyword>meteorological service</keyword>
-    <keyword>operation and management</keyword>
-    <keyword>path planning</keyword>
-    <keyword>remote sensing</keyword>
-    <keyword>risk assessment</keyword>
-    <keyword>UAV</keyword>
-    <keyword>unmanned aerial vehicle</keyword>
     <abstract>A structure of low-altitude airspace for efficient unmanned aerial vehicle (UAV) traffic management is defined in this standard. The standard elaborates the structural low altitude based on UAV low-altitude public air routes from five parts: grid technology, remote sensing data, communication and networking, route planning, operation, and management.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9631203"/>
 </reference>

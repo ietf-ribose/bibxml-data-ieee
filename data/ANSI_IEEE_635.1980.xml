@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.635.1980" target="https://ieeexplore.ieee.org/document/26665">
   <front>
     <title>IEEE Guide for Selection and Design of Aluminum Sheaths for Power Cables</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.79676"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Aluminum</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
-    <keyword>aluminum</keyword>
-    <keyword>sheaths</keyword>
-    <keyword>for</keyword>
-    <keyword>cables</keyword>
     <abstract>This guide covers power cables incorporating aluminum sheaths, except those of the SF rigid bus type.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.79676"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1667.2018" target="https://ieeexplore.ieee.org/document/8479380">
   <front>
     <title>IEEE Standard for Discovery, Authentication, and Authorization in Host Attachments of Storage Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8479380"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,36 +11,7 @@
       </address>
     </author>
     <date year="2018" month="October" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Data storage systems</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>authentication</keyword>
-    <keyword>authorization</keyword>
-    <keyword>CF</keyword>
-    <keyword>CompactFlash(R)</keyword>
-    <keyword>discovery</keyword>
-    <keyword>e*MMC</keyword>
-    <keyword>IEEE 1667(TM)</keyword>
-    <keyword>NVMe</keyword>
-    <keyword>NVM Express</keyword>
-    <keyword>password silo</keyword>
-    <keyword>probe silo</keyword>
-    <keyword>SAS</keyword>
-    <keyword>SATA</keyword>
-    <keyword>SCSI</keyword>
-    <keyword>SCTS</keyword>
-    <keyword>security</keyword>
-    <keyword>SILO</keyword>
-    <keyword>smart card transport silo</keyword>
-    <keyword>STID</keyword>
-    <keyword>storage</keyword>
-    <keyword>TCG storage transport silo</keyword>
-    <keyword>transport independent</keyword>
-    <keyword>trusted computing group</keyword>
-    <keyword>UAS</keyword>
-    <keyword>UFS</keyword>
-    <keyword>USB</keyword>
-    <keyword>USB BOT</keyword>
     <abstract>Discovery, authentication, and authorization protocols between hosts and storage devices over multiple transports are defined in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8479380"/>
 </reference>

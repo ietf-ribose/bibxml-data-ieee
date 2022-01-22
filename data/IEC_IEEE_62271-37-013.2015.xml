@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.62271-37-013.2015" target="https://ieeexplore.ieee.org/document/7320943">
   <front>
     <title>IEEE/IEC International Standard for High-voltage switchgear and controlgear -- Part 37-013: Alternating-current generator circuit-breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7320943"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Current distribution</keyword>
-    <keyword>Circuit breakers</keyword>
     <abstract>This part of IEC 62271 is applicable to three-phase a.c. high-voltage generator circuit-breakers, hereafter called generator circuit-breaker, designed for indoor or outdoor installation and for operation at frequencies of 50 Hz and 60 Hz on systems having voltages above 1 kV and up to 38 kV. It is applicable to generator circuit-breakers that are installed between the generator and the transformer terminals. Requirements relative to generator circuit-breakers intended for use with generators and transformers rated 10 MVA or more are covered specifically. Generator circuits rated less than 10 MVA and pumped storage installations are considered special applications, and their requirements are not completely covered by this standard. This standard is also applicable to the operating mechanisms of generator circuit-breakers and to their auxiliary equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7320943"/>
 </reference>

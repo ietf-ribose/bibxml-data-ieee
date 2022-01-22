@@ -1,7 +1,6 @@
 <reference anchor="IEEE.7-4-3-2.1993" target="https://ieeexplore.ieee.org/document/318506">
   <front>
     <title>IEEE Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.120309"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Software</keyword>
-    <keyword>Computer security</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>commercial grade</keyword>
-    <keyword>diversity</keyword>
-    <keyword>safety systems</keyword>
-    <keyword>software tools</keyword>
     <abstract>Additional computer specific requirements to supplement the criteria and requirements of IEEE Std 603-1991 are specified. Within the context of this standard, the term computer is a system that includes computer hardware, software, firmware, and interfaces. The criteria contained herein, in conjunction with criteria in IEEE Std 603-1991, establish minimum functional and design requirements for computers used as components of a safety system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.120309"/>
 </reference>

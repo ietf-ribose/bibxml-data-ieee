@@ -1,7 +1,6 @@
 <reference anchor="IEEE.155.1960" target="https://ieeexplore.ieee.org/document/28998">
   <front>
     <title>IEEE Standards on Circuits: Definitions of Terms for Linear Signal Flow Graphs, 1960</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.81088"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="6"/>
-    <keyword>Circuits</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Graph theory</keyword>
-    <keyword>Standards</keyword>
-    <keyword>IEEE</keyword>
-    <keyword>branches</keyword>
-    <keyword>definitions</keyword>
-    <keyword>glossary</keyword>
-    <keyword>graph determinant</keyword>
-    <keyword>graphs</keyword>
-    <keyword>linear signal flow graphs</keyword>
-    <keyword>loops</keyword>
-    <keyword>nodes</keyword>
-    <keyword>paths</keyword>
     <abstract>This glossary reprinted from Proc. IRE (USA) vol.48, no.9, Sept.1960 contains 29 definitions with footnotes mostly related to the concepts of branches, graphs, loops, nodes and paths. Two alternative algebraic expressions for the graph determinant are explained at some length.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.81088"/>
 </reference>

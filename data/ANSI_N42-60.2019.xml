@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-60.2019" target="https://ieeexplore.ieee.org/document/8930430">
   <front>
     <title>IEEE/ANSI American National Standard Training for Radiological/Nuclear Detection for Initial Response</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8930430"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2019" month="December" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Radiation detection</keyword>
-    <keyword>Training</keyword>
-    <keyword>Radiology</keyword>
-    <keyword>ANSI N42.60</keyword>
-    <keyword>Initial Response</keyword>
-    <keyword>Preventive Radiological/Nuclear Detection</keyword>
-    <keyword>PRND</keyword>
-    <keyword>radiation detection instrumentation</keyword>
-    <keyword>training</keyword>
     <abstract>The training requirements for radiological/nuclear detection for Initial Response are covered in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8930430"/>
 </reference>

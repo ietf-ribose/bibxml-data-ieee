@@ -1,7 +1,6 @@
 <reference anchor="IEEE.835a.2012" target="https://ieeexplore.ieee.org/document/6413153">
   <front>
     <title>IEEE Standard Power Cable Ampacity Tables Amendment 1: Revision to Introduction</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6413153"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="16"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Lamination</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>Ampacity tables</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>ampacity</keyword>
-    <keyword>cable</keyword>
-    <keyword>dielectric</keyword>
-    <keyword>extruded</keyword>
-    <keyword>IEEE 835</keyword>
-    <keyword>laminar</keyword>
-    <keyword>power</keyword>
     <abstract>Corrections to the introduction for the standard with over 3000 ampacity tables for extruded dielectric power cables rated through 138 kV and laminar dielectric power cables rated through 500 kV are addressed in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6413153"/>
 </reference>

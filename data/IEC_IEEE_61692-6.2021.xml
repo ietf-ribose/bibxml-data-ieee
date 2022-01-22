@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.61692-6.2021" target="https://ieeexplore.ieee.org/document/9456808">
   <front>
     <title>IEC/IEEE International Standard-Behavioural languages&amp;#8211;Part 6: VHDL Analog and Mixed-Signal Extensions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9456808"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2021" month="June" day="15"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>VHDL</keyword>
-    <keyword>Hardware design languages</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>analog design</keyword>
-    <keyword>computer</keyword>
-    <keyword>computer languages</keyword>
-    <keyword>hardware design</keyword>
-    <keyword>IEEE 1076&amp;#8482;</keyword>
-    <keyword>IEEE 1076.1&amp;#8482;</keyword>
-    <keyword>mixed-signal design</keyword>
-    <keyword>VHDL</keyword>
     <abstract>The IEEE 1076.1 language, a hardware description language for the description and the simulation of analog, digital, and mixed-signal systems, is defined in this standard. The language, also informally known as VHDL-AMS, is built on IEEE Std 1076-2008 (VHDL) and extends it with additions and changes to provide capabilities of writing and simulating analog and mixed-signal models.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9456808"/>
 </reference>

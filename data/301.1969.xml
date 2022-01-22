@@ -1,18 +1,11 @@
 <reference anchor="IEEE.301.1969" target="https://ieeexplore.ieee.org/document/8684393">
   <front>
     <title>IEEE Test Procedures for Amplifiers and Preamplifiers for Semiconductor Radiation Detectors (For Ionizing Radiation)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.8684393"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Detectors</keyword>
-    <keyword>Preamplifiers</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Semiconductor device measurement</keyword>
-    <keyword>Capacitors</keyword>
-    <keyword>Capacitance</keyword>
-    <keyword>Semiconductor radiation detectors</keyword>
     <abstract>Semiconductor radiation detectors have come into widespread use in recent years for detection of ionizing radiation. Both silicon and germanium detectors have been developed with silicon finding its principal application in the detection and analysis of heavy charged particles. Germanium detectors with their relatively high atomic number (as compared with silicon) and with large sensitive volumes have come into widespread use in the detection and analysis of gamma radiation. The advent of semiconductor detectors has stimulated development of electronic instruments with characteristics that permit exploitation of their capabilities. This has made desirable standard test procedures so that measurements may have the same meaning to all manufacturers and users. This Test Procedure is not intended to imply that all tests described herein are mandatory, but only that such tests as are carried out should be performed in accordance with the procedures herein.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.8684393"/>
 </reference>

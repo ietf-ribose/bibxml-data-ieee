@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11a.1999" target="https://ieeexplore.ieee.org/document/815305">
   <front>
     <title>IEEE Standard for Telecommunications and Information Exchange Between Systems - LAN/MAN Specific Requirements - Part 11: Wireless Medium Access Control (MAC) and physical layer (PHY) specifications: High Speed Physical Layer in the 5 GHz band</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90606"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="11"/>
-    <keyword>Communication standards</keyword>
-    <keyword>5 GHz</keyword>
-    <keyword>high speed</keyword>
-    <keyword>local area network (LAN)</keyword>
-    <keyword>orthogonal frequency division multiplexing (OFDM)</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>unlicensed national information infrastructure (U-NII)</keyword>
-    <keyword>wireless</keyword>
     <abstract>Changes and additions to IEEE Std. 802.11-1999 are provided to support the new highrate physical layer (PHY) for operation in the 5 GHz band.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90606"/>
 </reference>

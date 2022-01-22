@@ -1,22 +1,11 @@
 <reference anchor="IEEE.802-1AC.2012" target="https://ieeexplore.ieee.org/document/7396004">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks-Media Access Control (MAC) Service Definition</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.7396004"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="February"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>IEEE 802</keyword>
-    <keyword>IEEE 802.1AC</keyword>
-    <keyword>Internal Sublayer Service</keyword>
-    <keyword>ISS</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>MACService</keyword>
-    <keyword>metropolitan area networks</keyword>
     <abstract>The MAC service provided by all IEEE 802(R) MACs along with the Internal Sublayer Service (ISS) that is provided by IEEE 802 MACs to the relay function of a Media Access Control(MAC) Bridge are defined in this standard. The PDF of this standard is available at no cost compliments of the GETIEEE802 program located at http://standards.ieee.org/about/get/index.html</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.7396004"/>
 </reference>

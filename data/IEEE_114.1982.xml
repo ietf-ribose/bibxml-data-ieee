@@ -1,7 +1,6 @@
 <reference anchor="IEEE.114.1982" target="https://ieeexplore.ieee.org/document/29034">
   <front>
     <title>IEEE Standard Test Procedure for Single-Phase Induction Motors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81522"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="9"/>
-    <keyword>Induction motors</keyword>
-    <keyword>Standards</keyword>
-    <keyword>induction motors</keyword>
-    <keyword>single-phase</keyword>
-    <keyword>test procedure</keyword>
-    <keyword>measurements</keyword>
-    <keyword>performance testing</keyword>
     <abstract>Instructions are given for conducting and reporting the more generally applicable and acceptable tests to determine the performance characteristics of single phase induction motors. Electrical measurements, performance testing, temperature tests, and miscellaneous tests are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81522"/>
 </reference>

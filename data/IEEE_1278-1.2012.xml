@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1278-1.2012" target="https://ieeexplore.ieee.org/document/6387564">
   <front>
     <title>IEEE Standard for Distributed Interactive Simulation--Application Protocols</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6387564"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2012" month="December" day="19"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Data processing</keyword>
-    <keyword>Distributed processing</keyword>
-    <keyword>Simulation</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Message systems</keyword>
-    <keyword>data messages</keyword>
-    <keyword>Distributed Interactive Simulation</keyword>
-    <keyword>IEEE 1278.1TM</keyword>
-    <keyword>protocol data units (PDUs)</keyword>
-    <keyword>simulation network</keyword>
     <abstract>Data messages, known as Protocol Data Units (PDUs), that are exchanged on a network among simulation applications are defined. These PDUs are for interactions that take place within specified domains called protocol families, which include Entity Information/ Interaction, Warfare, Logistics, Simulation Management, Distributed Emission Regeneration, Radio Communications, Entity Management, Minefield, Synthetic Environment, Simulation Management with Reliability, Information Operations, Live Entity Information/Interaction, and Non-Real-Time protocol.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6387564"/>
 </reference>

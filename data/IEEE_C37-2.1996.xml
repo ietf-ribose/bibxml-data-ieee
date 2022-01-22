@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-2.1996" target="https://ieeexplore.ieee.org/document/8684619">
   <front>
     <title>IEEE Standard Electrical Power System Device Function Numbers and Contact Designations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684619"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>device functions</keyword>
-    <keyword>device function numbers</keyword>
-    <keyword>relay designations</keyword>
-    <keyword>switchgear</keyword>
     <abstract>The definition and application of function numbers for devices used in electrical substations and generating plants and in installations of power utilization and conversion apparatus are covered. The purpose of the numbers is discussed, and 94 numbers are assigned. The use of prefixes and suffixes to provide a more specific definition of the function is considered. Device contact designation is also covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684619"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1Q/Amd1.2016" target="https://ieeexplore.ieee.org/document/8511100">
   <front>
     <title>ISO/IEC/IEEE International Standard -- Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 1Q: Bridges and bridged networks AMENDMENT 1: Path control and reservation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8511100"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2018" month="October" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Virtual LAN</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Bridge</keyword>
-    <keyword>Bridged Local Area Network</keyword>
-    <keyword>IEEE 802&amp;#174;</keyword>
-    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
-    <keyword>IEEE 802.1Qac&amp;#8482;</keyword>
-    <keyword>LAN</keyword>
-    <keyword>local area network</keyword>
-    <keyword>metropolitan area network</keyword>
-    <keyword>Shortest Path Bridging</keyword>
-    <keyword>SPB</keyword>
-    <keyword>Virtual Bridged Local Area Network</keyword>
-    <keyword>virtual LAN</keyword>
     <abstract>Explicit path control, bandwidth reservation, and redundancy (protection, restoration) for data flows are specified in this amendment to IEEE Std 802.1Q-2014.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8511100"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-20-1.2002" target="https://ieeexplore.ieee.org/document/1041047">
   <front>
     <title>IEEE Standard for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94133"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,22 +11,7 @@
       </address>
     </author>
     <date year="2015" month="July" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>circuit breaker</keyword>
-    <keyword>control</keyword>
-    <keyword>cumulative loading</keyword>
-    <keyword>current transformers</keyword>
-    <keyword>drawout</keyword>
-    <keyword>indoor</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>load current-carrying</keyword>
-    <keyword>metering</keyword>
-    <keyword>outdoor</keyword>
-    <keyword>protection</keyword>
-    <keyword>stationary</keyword>
     <abstract>Low-voltage metal-enclosed switchgear-which contains either stationary or drawout, manually or electrically operated low-voltage ac or dc power circuit breakers in individual grounded metal compartments, in three-pole, two-pole, or single-pole construction is covered. Rated maximum voltage levels are 254V, 508V, or 635V (ac) and 300/325V, 800V, 1000V, 1200V, 1600V, or 3200V (dc). The preferred continuous current ratings of the main bus in ac designs are 1600A, 2000A, 3000A, 3200A, 4000A, or 5000A. For dc designs, the preferred ratings are 1600A, 2000A, 2500A, 3000A, 4000A, 5000A, 6000A, 8000A, 10000A, or 12000A. The switchgear may also contain associated control, instruments, metering, protective, and regulating devices as necessary. The standard deals with service conditions, ratings, temperature limitations, and classification of insulating materials, insulation (dielectric) withstand voltage requirements, test procedures, and application.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94133"/>
 </reference>

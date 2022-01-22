@@ -1,18 +1,11 @@
 <reference anchor="IEEE.24748-2.2012" target="https://ieeexplore.ieee.org/document/6187665">
   <front>
     <title>IEEE Guide--Adoption of ISO/IEC TR 24748-2:2011 Systems and Software Engineering-- Life Cycle Management-- Part 2: Guide to the Application of ISO/IEC 15288 (System Life Cycle Processes)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6187665"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2012" month="April" day="19"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Product life cycle management</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>life cycle</keyword>
-    <keyword>process</keyword>
-    <keyword>systems engineering</keyword>
     <abstract>ISO/IEC TR 24748-2:2011 is a guide for the application of ISO/IEC 15288:2008. It addresses system, life cycle, process, organizational, project, and adaptation concepts, principally through reference to ISO/IEC TR 24748-1 and ISO/IEC 15288:2008. It then gives guidance on applying ISO/IEC 15288:2008 from the aspects of strategy, planning, application in organizations, and application on projects.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6187665"/>
 </reference>

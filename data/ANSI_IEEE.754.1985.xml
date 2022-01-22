@@ -1,15 +1,11 @@
 <reference anchor="ANSI/IEEE.754.1985" target="https://ieeexplore.ieee.org/document/30711">
   <front>
     <title>IEEE Standard for Binary Floating-Point Arithmetic</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82928"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Digital arithmetic</keyword>
-    <keyword>Standards</keyword>
-    <keyword>binary</keyword>
-    <keyword>Floating-point arithmetic</keyword>
     <abstract>A family of commercially feasible ways for new systems to perform binary floating-point arithmetic is defined. This standard specifies basic and extended floating-point number formats; add, subtract, multiply, divide, square root, remainder, and compare operations; conversions between integer and floating-point formats; conversions between different floating-point formats; conversions between basic-format floating-point numbers and decimal strings; and floating-point exceptions and their handling, including nonnumbers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82928"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3an.2006" target="https://ieeexplore.ieee.org/document/1700008">
   <front>
     <title>Standard for Information Technology - Telecommunications and Information Exchange Between Systems &amp;#8211; LAN/MAN - Specific Requirements Part 3: CSMA/CD Access Method and Physical Layer Specifications - Amendment: Physical Layer and Management Parameters for 10 Gb/s Operation, Type 10GBASE-T</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.231802"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2018" month="November" day="2"/>
-    <keyword>IEEE 802.3 Standard</keyword>
-    <keyword>EPON</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>802.3an</keyword>
-    <keyword>10GBASE-T</keyword>
-    <keyword>10 Gigabit Ethernet</keyword>
-    <keyword>Auto-Negotiation</keyword>
-    <keyword>Physical Coding Sublayer (PCS)</keyword>
-    <keyword>Physical Medium Attachment (PMA) sublayer</keyword>
-    <keyword>structured cabling</keyword>
-    <keyword>XAUI</keyword>
-    <keyword>XGMII</keyword>
     <abstract>This amendment to IEEE Std 802.3-2005 specifies a new Physical Coding Sublayer interface and a new Physical Medium Attachment sublayer interface for 10 Gb/s Ethernet. 10GBASE-T specifies a LAN interconnect for up to 100 m of balanced twisted-pair structured cabling systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.231802"/>
 </reference>

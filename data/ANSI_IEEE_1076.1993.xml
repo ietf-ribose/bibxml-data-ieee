@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.1076.1993" target="https://ieeexplore.ieee.org/document/392561">
   <front>
     <title>IEEE Standard VHDL Language Reference Manual</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121433"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>Europe</keyword>
-    <keyword>North America</keyword>
-    <keyword>token ring</keyword>
-    <keyword>access method</keyword>
-    <keyword>data transmission</keyword>
-    <keyword>token ring networks</keyword>
-    <keyword>unshielded twisted pair cable</keyword>
-    <keyword>VHDL</keyword>
-    <keyword>Hardware design</keyword>
-    <keyword>Electronic systems</keyword>
-    <keyword>Computer languages</keyword>
     <abstract>Aiding in the comprehension and use of IEEE VHDL, this unique product offers a comprehensive &amp; reliable tutorial on VHDL - not available anywhere else. An enhancement to IEEE Std 1076-1993, the interactive tutorial is organized into four modules designed to incrementally add to the user's understanding of VHDL and it's applications. This hands-on tutorial shows clear links between the many levels and layers of VHDL and provides actual examples of VHDL implementation, making it an indispensible tool for VHDL product development and users.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121433"/>
 </reference>

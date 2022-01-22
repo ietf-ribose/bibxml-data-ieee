@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC.16085.2004" target="https://ieeexplore.ieee.org/document/6298075">
   <front>
     <title>Standard for Software Engineering - Software Life Cycle Processes - Risk Management</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.6298075"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2012" month="September" day="10"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Risk management</keyword>
-    <keyword>Product life cycle management</keyword>
-    <keyword>acceptability</keyword>
-    <keyword>integrity</keyword>
-    <keyword>risk</keyword>
-    <keyword>risk analysis</keyword>
-    <keyword>risk management</keyword>
-    <keyword>risk treatment</keyword>
     <abstract>A process for the management of risk in the life cycle of software is defined. It can be added to the existing set of software life cycle processes defined by the IEEE/EIA 12207 series of standards, or it can be used independently. KEYWORDS: bedside, Infrared Data Association, IrDA, legacy device, medical device, medical device communications, MIB, patient, SNTP</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.6298075"/>
 </reference>

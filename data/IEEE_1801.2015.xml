@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1801.2015" target="https://ieeexplore.ieee.org/document/7445797">
   <front>
     <title>IEEE Standard for Design and Verification of Low-Power, Energy-Aware Electronic Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7445797"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,30 +10,7 @@
       </address>
     </author>
     <date year="2016" month="April" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Design methodology</keyword>
-    <keyword>Energy management</keyword>
-    <keyword>Context modeling</keyword>
-    <keyword>Unified Power Format</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Power electronics</keyword>
-    <keyword>bottom-up implementation</keyword>
-    <keyword>buffers</keyword>
-    <keyword>energy-aware design</keyword>
-    <keyword>IEEE 1801(TM)</keyword>
-    <keyword>interface specification</keyword>
-    <keyword>IP reuse</keyword>
-    <keyword>isolation</keyword>
-    <keyword>level-shifting</keyword>
-    <keyword>power domains</keyword>
-    <keyword>power intent</keyword>
-    <keyword>power modeling</keyword>
-    <keyword>power states</keyword>
-    <keyword>successive refinement</keyword>
-    <keyword>supply states</keyword>
-    <keyword>repeaters</keyword>
-    <keyword>retention</keyword>
-    <keyword>Unified Power Format (UPF)</keyword>
     <abstract>A method is provided for specifying power intent for an electronic design, for use in verification of the structure and behavior of the design in the context of a given power management architecture, and for driving implementation of that power-management architecture. The method supports incremental refinement of power-intent specifications required for IP-based design flows.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7445797"/>
 </reference>

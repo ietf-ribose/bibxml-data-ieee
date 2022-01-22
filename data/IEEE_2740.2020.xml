@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2740.2020" target="https://ieeexplore.ieee.org/document/9374870">
   <front>
     <title>IEEE Guide for Selection and Installation of Electrical Cables and Cable Systems in Hazardous (Classified) Locations on Oil and Gas Land Drilling Rigs</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9374870"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2021" month="March" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Hazards</keyword>
-    <keyword>Oil drilling</keyword>
-    <keyword>cables</keyword>
-    <keyword>cable installation</keyword>
-    <keyword>cable retention</keyword>
-    <keyword>cable selection</keyword>
-    <keyword>cable systems</keyword>
-    <keyword>Class I Division 1</keyword>
-    <keyword>Class I Zone 1</keyword>
-    <keyword>Class I Division 2</keyword>
-    <keyword>Class I Zone 2</keyword>
-    <keyword>classified locations</keyword>
-    <keyword>flexible applications</keyword>
-    <keyword>hazardous locations</keyword>
-    <keyword>IEEE 2740</keyword>
-    <keyword>oil and gas land drilling rig</keyword>
-    <keyword>portability</keyword>
     <abstract>Selection, performance requirements, and procedures for flexible electrical cables and cable systems installed in hazardous (classified) locations on oil and gas land drilling rigs are covered by this guide.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9374870"/>
 </reference>

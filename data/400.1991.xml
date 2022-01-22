@@ -1,21 +1,11 @@
 <reference anchor="IEEE.400.1991" target="https://ieeexplore.ieee.org/document/159209">
   <front>
     <title>IEEE Guide for Making High-Direct-Voltage Tests on Power Cable Systems in the Field</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101042"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Cable insulation</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
-    <keyword>cable installation</keyword>
-    <keyword>cable maintenance</keyword>
-    <keyword>cable tests</keyword>
-    <keyword>insulated cable</keyword>
-    <keyword>test procedures</keyword>
-    <keyword>Shielded power cable systems</keyword>
-    <keyword>High direct voltage tests</keyword>
     <abstract>Superseded by 400-2001. Procedures and recommended test voltage values for acceptance and maintenance high-direct-voltage testing of shielded power cable systems are set forth. They apply to all types of shielded, insulated power cable. The aim is to provide uniform test procedures and guidelines for evaluation of the test results. This guide is not intended to apply to unshielded power cables, communication cables, control cables, high-frequency cables, or other special-purpose cables, nor does it purport to require that testing be performed, either at the time of installation or maintenance.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101042"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1AS/Cor2.2015" target="https://ieeexplore.ieee.org/document/7466451">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks-- Timing and Synchronization for Time-Sensitive Applications in Bridged Local Area Networks-- Corrigendum 2: Technical and Editorial Corrections</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7466451"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2016" month="May" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>best master</keyword>
-    <keyword>corrigendum</keyword>
-    <keyword>frequency offset</keyword>
-    <keyword>grandmaster</keyword>
-    <keyword>IEEE 802.1AS(TM)</keyword>
-    <keyword>IEEE 802.1AS(TM)/Cor 2</keyword>
-    <keyword>phase offset</keyword>
-    <keyword>synchronization</keyword>
-    <keyword>syntonization</keyword>
-    <keyword>time-aware system</keyword>
     <abstract>Technical and editorial corrections are provided by this corrigendum to IEEE Std 802.1AS.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7466451"/>
 </reference>

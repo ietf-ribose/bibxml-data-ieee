@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1164.1993" target="https://ieeexplore.ieee.org/document/257627">
   <front>
     <title>IEEE Standard Multivalue Logic System for VHDL Model Interoperability (Std_logic_1164)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115571"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="21"/>
-    <keyword>Design automation</keyword>
-    <keyword>Multivalued logic</keyword>
-    <keyword>Specification languages</keyword>
-    <keyword>Standards</keyword>
-    <keyword>standard logic</keyword>
-    <keyword>multivalue</keyword>
-    <keyword>logic system</keyword>
-    <keyword>VHDL model interoperability</keyword>
-    <keyword>Std_logic_1164</keyword>
     <abstract>This standard is embodied in the Std_logic_1164 package declaration and the semantics of the Std_logic_1164 body. An annex is provided to suggest ways in which one might use this package.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115571"/>
 </reference>

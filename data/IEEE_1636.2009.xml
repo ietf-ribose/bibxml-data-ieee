@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1636.2009" target="https://ieeexplore.ieee.org/document/5210055">
   <front>
     <title>IEEE Standard for Software Interface for Maintenance Information Collection and Analysis (SIMICA)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5210055"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2013" month="February" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Software</keyword>
-    <keyword>Information systems</keyword>
-    <keyword>Complex systems</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>AI-ESTATE</keyword>
-    <keyword>Automated Test Markup Language (ATML)</keyword>
-    <keyword>diagnostic maturation</keyword>
-    <keyword>IEEE 1636TM</keyword>
-    <keyword>Maintenance Action Information</keyword>
-    <keyword>maintenance data</keyword>
-    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
-    <keyword>Test Results and Session Information</keyword>
     <abstract>This document provides an implementation-independent specification for a software interface to information systems containing data pertinent to the diagnosis and maintenance of complex systems consisting of hardware, software, or any combination thereof. These interfaces will support service definitions for creating application programming interfaces (API) for the access, exchange, and analysis of historical diagnostic and maintenance information. This will address the pervasive need of organizations to assess the effectiveness of diagnostics for complex systems throughout the product life cycle. The use of formal information models will facilitate exchanging historical maintenance information between information systems and analysis tools. The models will facilitate creating open system software architectures for maturing system diagnostics.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5210055"/>
 </reference>

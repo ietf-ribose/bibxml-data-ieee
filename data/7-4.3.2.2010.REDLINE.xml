@@ -1,23 +1,11 @@
 <reference anchor="IEEE.7-4.3.2.2010.Redline" target="https://ieeexplore.ieee.org/document/5953435">
   <front>
     <title>IEEE Standard Criteria for Digital Computers in Safety Systems of Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953435"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="October"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Digital control</keyword>
-    <keyword>Computers</keyword>
-    <keyword>Safety devices</keyword>
-    <keyword>commercial grade item</keyword>
-    <keyword>diversity</keyword>
-    <keyword>safety systems</keyword>
-    <keyword>software</keyword>
-    <keyword>software tools</keyword>
-    <keyword>software verification and validation</keyword>
     <abstract>Additional computer specific requirements to supplement the criteria and requirements of IEEE Std 603-2009 are specified. Within the context of this standard, the term computer is a system that includes computer hardware, software, firmware, and interfaces. The criteria contained herein, in conjunction with criteria in IEEE Std 603-2009, establish minimum functional and design requirements for computers used as components of a safety system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953435"/>
 </reference>

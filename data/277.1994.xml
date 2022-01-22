@@ -1,28 +1,11 @@
 <reference anchor="IEEE.277.1994" target="https://ieeexplore.ieee.org/document/467461">
   <front>
     <title>IEEE Recommended Practice for Cement Plant Power Distribution</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122617"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Cement industry</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Safety</keyword>
-    <keyword>alternate power</keyword>
-    <keyword>power source</keyword>
-    <keyword>power distribution</keyword>
-    <keyword>primary distribution</keyword>
-    <keyword>distribution voltage</keyword>
-    <keyword>quarry distribution</keyword>
-    <keyword>secondary unit</keyword>
-    <keyword>unit substation</keyword>
-    <keyword>surge arresters</keyword>
-    <keyword>cement plant</keyword>
-    <keyword>secondary-unit substation</keyword>
-    <keyword>primary distribution voltage</keyword>
-    <keyword>alternate power source</keyword>
     <abstract>Electrical distribution systems in cement plants that would result in satisfactory equipment utilization, reliability, performance, safety, and low maintenance-all at a reasonable cost are recommended in this IEEE standard. Power distribution for a new plant and for a plant extension are covered, as is distribution in quarries. Remarks: Superseded by IEEE Std 277-2007</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.122617"/>
 </reference>

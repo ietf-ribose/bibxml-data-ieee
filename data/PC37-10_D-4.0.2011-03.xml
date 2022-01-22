@@ -1,21 +1,11 @@
 <reference anchor="IEEE.PC37-10/D-4.0.2011-03" target="https://ieeexplore.ieee.org/document/5741901">
   <front>
     <title>IEEE Draft Guide for Investigation, Analysis, and Reporting of Power Circuit Breaker Failures</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5741901"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="September" day="25"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Switching circuits</keyword>
-    <keyword>circuit breaker</keyword>
-    <keyword>circuit breaker failure analysis</keyword>
-    <keyword>circuit breaker failure guide</keyword>
-    <keyword>circuit breaker failure investigation</keyword>
-    <keyword>circuit breaker failure reporting</keyword>
-    <keyword>IEEE C37.10</keyword>
     <abstract>Practices and processes to perform, analyze, and report failure investigations of power circuit breakers are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5741901"/>
 </reference>

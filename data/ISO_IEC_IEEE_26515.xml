@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.26515" target="https://ieeexplore.ieee.org/document/6170923">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- Developing user documentation in an agile environment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6170923"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Software systems</keyword>
-    <keyword>Agile manufacturing</keyword>
-    <keyword>Documentation</keyword>
-    <keyword>agile development</keyword>
-    <keyword>incremental development</keyword>
-    <keyword>software user documentation</keyword>
     <abstract>ISO/IEC/IEEE 26515:2012 specifies the way in which user documentation can be developed in agile development projects. It is intended for use in all organizations that are using agile development, or are considering implementing their projects using these techniques. It applies to people or organizations producing suites of documentation, to those undertaking a single documentation project, and to documentation produced internally, as well as to documentation contracted to outside service organizations. ISO/IEC/IEEE 26515:2012 addresses the relationship between the user documentation process and the life cycle documentation process in agile development. It describes how the information developer or project manager may plan and manage the user documentation development in an agile environment. It is intended neither to encourage nor to discourage the use of any particular agile development tools or methods.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6170923"/>
 </reference>

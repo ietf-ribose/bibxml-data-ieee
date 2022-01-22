@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1660.2018" target="https://ieeexplore.ieee.org/document/8626777">
   <front>
     <title>IEEE Guide for Application and Management of Stationary Batteries Used in Cycling Service</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8626777"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="January" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>battery cycling</keyword>
-    <keyword>battery maintenance</keyword>
-    <keyword>battery operation</keyword>
-    <keyword>IEEE 1660&amp;#8482;</keyword>
-    <keyword>standby battery</keyword>
-    <keyword>stationary battery</keyword>
     <abstract>Information on the differences between stationary standby and stationary cycling applications and appropriate battery management strategies in cycling operations is covered in this guide. While the primary emphasis is on lead-acid batteries, information is also provided on alternative and emerging storage technologies. The management of battery systems in stationary standby service is covered in other IEEE documents and is beyond the scope of this guide.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8626777"/>
 </reference>

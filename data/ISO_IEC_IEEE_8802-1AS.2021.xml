@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1AS.2021" target="https://ieeexplore.ieee.org/document/9620008">
   <front>
     <title>IEEE/ISO/IEC International Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Part 1AS:Timing and synchronization for time-sensitive applications in bridged local area networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9620008"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Urban areas</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>best master</keyword>
-    <keyword>frequency offset</keyword>
-    <keyword>Grandmaster Clock</keyword>
-    <keyword>Grandmaster PTP Instance</keyword>
-    <keyword>PTP End Instance</keyword>
-    <keyword>PTP Relay Instance</keyword>
-    <keyword>IEEE 802.1AS</keyword>
-    <keyword>phase offset</keyword>
-    <keyword>synchronization</keyword>
-    <keyword>syntonization</keyword>
-    <keyword>time-aware system</keyword>
     <abstract>Protocols, procedures, and managed objects for the transport of timing over local area networks are defined in this standard. It includes the transport of synchronized time, the selection of the timing source (i.e., best master), and the indication of the occurrence and magnitude of timing impairments (i.e., phase and frequency discontinuities).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9620008"/>
 </reference>

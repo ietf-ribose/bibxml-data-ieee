@@ -9,13 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>data-at-rest security</keyword>
-    <keyword>encryption</keyword>
-    <keyword>security</keyword>
-    <keyword>storage</keyword>
-    <keyword>extended codebook mode of operation (XCB)</keyword>
-    <keyword>encrypt-mix-encrypt-v2 mode of operation (EME2)</keyword>
-    <keyword>encryption with associated data (EAD)</keyword>
     <abstract>This standard specifies an architecture for encryption of data in random access storage devices, oriented towards applications which benefit from wide encryption-block sizes of 512 bytes and above.</abstract>
   </front>
 </reference>

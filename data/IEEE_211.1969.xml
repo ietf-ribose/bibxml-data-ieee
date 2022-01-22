@@ -1,7 +1,6 @@
 <reference anchor="IEEE.211.1969" target="https://ieeexplore.ieee.org/document/8684401">
   <front>
     <title>IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.8684401"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -13,4 +12,5 @@
     <date year="2019" month="April" day="5"/>
     <abstract>Definitions of Terms for Radio Wave Propagation</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.8684401"/>
 </reference>

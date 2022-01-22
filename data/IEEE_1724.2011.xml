@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1724.2011" target="https://ieeexplore.ieee.org/document/5783877">
   <front>
     <title>IEEE Guide for the Preparation of a Transmission Line Design Criteria Document</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5783877"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,16 +9,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Design methodology</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Resists</keyword>
-    <keyword>Poles and towers</keyword>
-    <keyword>design criteria</keyword>
-    <keyword>IEEE 1724</keyword>
-    <keyword>load factors</keyword>
-    <keyword>structure loads</keyword>
     <abstract>A suggested outline for information that should be included in a design criteria for overhead transmission lines is presented in this guide. This guide is not a design criteria or a design manual, it is a listing of the information that is required during the design of a transmission line, and provides guidance for line designers in the collection and documentation of how the line was designed; including the sources of information used in design and the design approach used.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5783877"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-33.2006" target="https://ieeexplore.ieee.org/document/4079477">
   <front>
     <title>American National Standard for Portable Radiation Detection Instrumentation for Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299334"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2015" month="August" day="3"/>
-    <keyword>ANSI standards</keyword>
-    <keyword>Radiation detection</keyword>
-    <keyword>Detectors</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>design criteria</keyword>
-    <keyword>performance requirements</keyword>
-    <keyword>performance tests</keyword>
-    <keyword>portable radiation detectors</keyword>
     <abstract>This standard describes design criteria, performance requirements and performance tests for portable radiation survey instruments.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299334"/>
 </reference>

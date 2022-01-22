@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1874.2013" target="https://ieeexplore.ieee.org/document/6712032">
   <front>
     <title>IEEE Standard for Documentation Schema for Repair and Assembly of Electronic Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6712032"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2014" month="January" day="14"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Equipment maintenance</keyword>
-    <keyword>IEEE 1874(TM)</keyword>
-    <keyword>JSON</keyword>
-    <keyword>manual</keyword>
-    <keyword>oEmbed</keyword>
-    <keyword>oManual</keyword>
-    <keyword>RESTful API</keyword>
-    <keyword>XML</keyword>
-    <keyword>ZIP</keyword>
     <abstract>oManual is a standard for storing and transmitting procedural manuals. oManuals common data format can be used as an offline file package or via online RESTful API endpoints, using XML or JSON. This format is useful for documenting and describing repairs, how-to, workinstructions, or any other step-by-step guides. oManual makes it easy to exchange procedural information between services while maintaining usability on mobile devices.This specification describes the oManual data model, web services API, and bundle file format (a collection of structured files containing a category XML format, a guide XML format and related multimedia). The specification may be expanded in the future to enable additional types of documents.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6712032"/>
 </reference>

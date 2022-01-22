@@ -1,7 +1,6 @@
 <reference anchor="IEEE.182.1961" target="https://ieeexplore.ieee.org/document/19431">
   <front>
     <title>IEEE Standards on Radio Transmitters: Definitions of Terms</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.120105"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2015" month="December" day="29"/>
-    <keyword>Terminology</keyword>
-    <keyword>Radio transmitters</keyword>
-    <keyword>Standards</keyword>
-    <keyword>radio</keyword>
-    <keyword>transmitters</keyword>
-    <keyword>terms</keyword>
-    <keyword>glossary</keyword>
     <abstract>Radio Transmitters: Definitions of Terms</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.120105"/>
 </reference>

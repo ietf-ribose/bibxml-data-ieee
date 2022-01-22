@@ -1,7 +1,6 @@
 <reference anchor="IEEE.857.1996" target="https://ieeexplore.ieee.org/document/598367">
   <front>
     <title>IEEE Recommended Practice for Test Procedures for High-Voltage Direct-Current Thyristor Valves</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82975"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="30"/>
-    <keyword>HVDC transmission</keyword>
-    <keyword>HVDC thyristor valves</keyword>
-    <keyword>HVDC power transmission systems</keyword>
-    <keyword>multiple-valve unit</keyword>
-    <keyword>MVU</keyword>
-    <keyword>thyristor levels</keyword>
     <abstract>Information and recommendations for the type testing of thyristor valves for high-voltage direct-current (HVDC) power transmission systems are provided. These tests cover only the principal tests on the valves and do not include tests of auxiliary equipment associated with the values.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82975"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1425.2001" target="https://ieeexplore.ieee.org/document/993602">
   <front>
     <title>IEEE Guide for the Evaluation of the Remaining Life of Impregnated Paper-Insulated Transmission Cable Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93573"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="3"/>
-    <keyword>extra high voltage (EHV) cable</keyword>
-    <keyword>high-pressure fluid-filled (HPFF) cable</keyword>
-    <keyword>hight-pressure gas-filled (HPGF) cable</keyword>
-    <keyword>impregnated paper-insulated transmission cable systems</keyword>
-    <keyword>self-contained liquid-filled (SCLF) cable</keyword>
-    <keyword>thermal-mechanical bending</keyword>
     <abstract>Reaffirmed September 2007. This guide provides technical information regarding factors that can affect the life of an impregnated paper-insulated transmission cable system, and it reviews available methods to evaluate the remaining life of such systems and preventive maintenance to extend their service life</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93573"/>
 </reference>

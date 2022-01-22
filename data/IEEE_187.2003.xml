@@ -1,7 +1,6 @@
 <reference anchor="IEEE.187.2003" target="https://ieeexplore.ieee.org/document/1299309">
   <front>
     <title>IEEE Standard Measurement Methods of Emissions from FM and Television Broadcast Receivers in the Frequency Range of 9kHz to 40GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94495"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2018" month="May" day="29"/>
-    <keyword>TV broadcasting</keyword>
-    <keyword>TV interference</keyword>
-    <keyword>TV receivers</keyword>
-    <keyword>Electric field measurement</keyword>
-    <keyword>Electromagnetic radiative interference</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electromagnetic compatibility</keyword>
-    <keyword>antenna radiation</keyword>
-    <keyword>conducted emissions</keyword>
-    <keyword>FM sound broadcast receivers</keyword>
-    <keyword>radiated emissions</keyword>
-    <keyword>spurious emissions</keyword>
-    <keyword>television broadcast receivers</keyword>
     <abstract>(Revision of IEEE Std 187-1990) Abstract: Spurious radiation from sound and television broadcast receivers of the superheterodyne type are possible sources of interference with other radio services. This standard describes the potential sources of spurious radiation from receivers intended for the reception of sound and television broadcast, and the measurement methods for them.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94495"/>
 </reference>

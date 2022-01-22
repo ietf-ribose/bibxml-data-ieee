@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-53.2013" target="https://ieeexplore.ieee.org/document/6587250">
   <front>
     <title>American National Standard Performance Criteria for Backpack-Based Radiation-Detection Systems Used for Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6587250"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="27"/>
-    <keyword>ANSI standards</keyword>
-    <keyword>Security</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>Government agencies</keyword>
-    <keyword>ANSI N42.53</keyword>
-    <keyword>backpack-based radiation-detection systems</keyword>
     <abstract>The operational and performance requirements for backpack-based radiation-detection systems (BRDs) used in homeland security applications are specified in this standard. BRDs are typically worn by the user during operation to detect and possibly identify radiological and nuclear material.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6587250"/>
 </reference>

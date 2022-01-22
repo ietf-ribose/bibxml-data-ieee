@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-301.2009" target="https://ieeexplore.ieee.org/document/4804311">
   <front>
     <title>IEEE Standard for High-Voltage Switchgear (Above 1000 V) Test Techniques--Partial Discharge Measurements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4804311"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,22 +11,7 @@
       </address>
     </author>
     <date year="2020" month="March" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>Energy measurement</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>C37.301-2009</keyword>
-    <keyword>60270:2000</keyword>
-    <keyword>adoption</keyword>
-    <keyword>calibration</keyword>
-    <keyword>Corona</keyword>
-    <keyword>dielectric tests</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>partial discharge</keyword>
-    <keyword>switchgear</keyword>
     <abstract>This standard adopts IEC 60270:2000 and defines methods of measuring partial discharges that may occur in energized power switchgear apparatus, in flaws, voids, and interfaces of non-self restoring insulation that may lead to dielectric failure of the switchgear.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4804311"/>
 </reference>

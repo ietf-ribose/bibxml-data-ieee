@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2600-3.2010" target="https://ieeexplore.ieee.org/document/5426355">
   <front>
     <title>IEEE Standard Protection Profile for Hardcopy Devices in IEEE Std 2600-2008 Operational Environment C</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5426355"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,26 +10,7 @@
       </address>
     </author>
     <date year="2013" month="November" day="22"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Disk drives</keyword>
-    <keyword>Data storage systems</keyword>
-    <keyword>2600.3</keyword>
-    <keyword>all-in-one</keyword>
-    <keyword>Common Criteria</keyword>
-    <keyword>copier</keyword>
-    <keyword>disk overwrite</keyword>
-    <keyword>document</keyword>
-    <keyword>document server</keyword>
-    <keyword>document storage and retrieval</keyword>
-    <keyword>facsimile</keyword>
-    <keyword>fax</keyword>
-    <keyword>hardcopy</keyword>
-    <keyword>ISO/IEC 15408</keyword>
-    <keyword>multifunction device MFD</keyword>
-    <keyword>MFP</keyword>
-    <keyword>network</keyword>
-    <keyword>network interface</keyword>
-    <keyword>nonvolatile storage</keyword>
     <abstract>A Protection Profile for Hardcopy Devices in a public-facing environment is provided in this standard in which document security is not guaranteed, but access control and usage accounting are important to the operator of the environment. A retail copy center, public library, Internet cafe, and hotel business center are typical applications of this environment. This environment will be known as "Operational Environment C".</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5426355"/>
 </reference>

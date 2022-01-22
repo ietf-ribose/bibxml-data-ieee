@@ -1,7 +1,6 @@
 <reference anchor="IEEE.430.1972" target="https://ieeexplore.ieee.org/document/7419183">
   <front>
     <title>IEEE Trial Use Standard Procedures for the Measurement of Radio Noise from Overhead Power Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7419183"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Noise measurement</keyword>
-    <keyword>Power system measurement</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Power distribution </keyword>
     <abstract>The purpose of this standard is to establish uniform procedures for the measurement of radiation of radio noise from overhead power lines with meters that conform to American National Standards. A uniform procedure is a prerequisite to comparisons of radio-noise performance of various overhead power lines. The procedure applies in the frequency range of 0.015 to 30 MHz. A procedure for measurements in the frequency range of 20 to 1000 MHz, which is to be used only as a guide, is also presented.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7419183"/>
 </reference>

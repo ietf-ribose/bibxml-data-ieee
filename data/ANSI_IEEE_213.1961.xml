@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.213.1961" target="https://ieeexplore.ieee.org/document/7370873">
   <front>
     <title>ANSI/IEEE Radio Interference: Methods of Measurement of Conducted Interference Output to the Power Line from FM and Television Broadcast Receivers in the Range of 300 kHz to 25 MHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.7370873"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="4"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Interference</keyword>
-    <keyword>Radio communication</keyword>
-    <keyword>Radio interference</keyword>
-    <keyword>Electromagnetic interference</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>Frequency modulation</keyword>
-    <keyword>TV</keyword>
-    <keyword>Broadcast receivers</keyword>
     <abstract>FM and television broadcast receivers are frequently potential sources of interference to other FM and television broadcast receivers as well as to receivers in other services. In the range of 300 kc to 25 Mc, this interference can arise from high-level receiver signals such as the IF and, in television receivers, the horizontal deflection system. This standard defines a method for obtaining a measure of the interference conducted by the power line from these various interference sources in the frequency range of 300 kc to 25 Mc. It supersedes and replaces the following three standards: "IRE Standards on Receivers: Methods of Measurement of Interference Output of Television Receivers in the Range of 300 to 10,000 kc, 1954" (54 IRE 17.51), "IRE Standards on Methods of Measurement of the Conducted Interference Output of Broadcast and Television Receivers in the the range of 300 kc to 25 Mc, 1956" (56 IRE 27.S1), and 'Supplement to IRE Standards on Receivers: Methods-of Measurement of Interference Output of Television Receivers in the Range of 300 to 10,000 kc, 1954 (54 IRE 17. S1)" (58 IRE 27. S1). This standard describes standard input signals, the equipment set-up and measurement techniques.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.7370873"/>
 </reference>

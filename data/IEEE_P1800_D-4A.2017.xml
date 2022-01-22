@@ -11,23 +11,6 @@
       </address>
     </author>
     <date year="2017" month="September" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Hardware design languages</keyword>
-    <keyword>assertions</keyword>
-    <keyword>design automation</keyword>
-    <keyword>design verification</keyword>
-    <keyword>hardware description language</keyword>
-    <keyword>HDL</keyword>
-    <keyword>HDVL</keyword>
-    <keyword>IEEE 1800&amp;#8482;</keyword>
-    <keyword>PLI</keyword>
-    <keyword>programming language interface</keyword>
-    <keyword>SystemVerilog</keyword>
-    <keyword>Verilog&amp;#174;</keyword>
-    <keyword>VPI</keyword>
     <abstract>The definition of the language syntax and semantics for SystemVerilog, which is a unified hardware design, specification, and verification language, is provided. This standard includes support for modeling hardware at the behavioral, register transfer level (RTL), and gate-level abstraction levels, and for writing testbenches using coverage, assertions, object-oriented programming, and constrained random verification. The standard also provides application programming interfaces (APIs) to foreign programming languages. (The PDF of this standard is available at no cost at http://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=80 compliments of Accellera Systems Initiative)</abstract>
   </front>
 </reference>

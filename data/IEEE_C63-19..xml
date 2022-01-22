@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C63-19." target="https://ieeexplore.ieee.org/document/5782919">
   <front>
     <title>American National Standard Methods of Measurement of Compatibility between Wireless Communications Devices and Hearing Aids</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5782919"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>ANSI standards</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Hearing aids</keyword>
-    <keyword>Biomedical equipment</keyword>
-    <keyword>Measurement</keyword>
-    <keyword>American National Standard</keyword>
-    <keyword>C63.19</keyword>
-    <keyword>electromagnetic compatibility</keyword>
-    <keyword>hearing aid</keyword>
-    <keyword>hearing aid compatibility (HAC)</keyword>
-    <keyword>measurement methods</keyword>
-    <keyword>operational compatibility</keyword>
-    <keyword>wireless communications device</keyword>
     <abstract>Uniform methods of measurement for compatibility between hearing aids and wireless communications devices are set forth.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5782919"/>
 </reference>

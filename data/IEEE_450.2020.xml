@@ -1,7 +1,6 @@
 <reference anchor="IEEE.450.2020" target="https://ieeexplore.ieee.org/document/9373055">
   <front>
     <title>IEEE Recommended Practice for Maintenance, Testing, and Replacement of Vented Lead-Acid Batteries for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9373055"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,32 +11,7 @@
       </address>
     </author>
     <date year="2021" month="March" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Ventilation</keyword>
-    <keyword>acceptance test</keyword>
-    <keyword>battery capacity</keyword>
-    <keyword>battery installation</keyword>
-    <keyword>battery maintenance</keyword>
-    <keyword>battery replacement criteria</keyword>
-    <keyword>battery service test</keyword>
-    <keyword>battery terminal voltage</keyword>
-    <keyword>connection resistance measurements</keyword>
-    <keyword>electrolyte level</keyword>
-    <keyword>equalize charge</keyword>
-    <keyword>float voltage</keyword>
-    <keyword>IEEE 450&amp;#8482;</keyword>
-    <keyword>modified performance test</keyword>
-    <keyword>performance test</keyword>
-    <keyword>service test</keyword>
-    <keyword>specific gravity</keyword>
-    <keyword>standby power applications</keyword>
-    <keyword>state of charge</keyword>
-    <keyword>test-discharge rate</keyword>
-    <keyword>vented lead-acid battery</keyword>
     <abstract>Maintenance, test schedules, and testing procedures that can be used to optimize the life and performance of permanently installed, vented lead-acid storage batteries used for standby service are provided. Guidance to determine when batteries should be replaced is also provided. This recommended practice is applicable to standby service stationary applications where a charger maintains the battery fully charged and supplies the dc loads.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9373055"/>
 </reference>

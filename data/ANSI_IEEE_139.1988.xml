@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.139.1988" target="https://ieeexplore.ieee.org/document/26500">
   <front>
     <title>IEEE Recommended Practice for the Measurement of Radio Frequency Emission from Industrial, Scientific, and Medical (ISM) Equipment Installed on User's Premises</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.122657"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="3"/>
-    <keyword>Electronic equipment testing</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Electromagnetic radiative interference</keyword>
-    <keyword>EUT</keyword>
-    <keyword>ISM equipment</keyword>
-    <keyword>radio frequency electromagnetic field measurement</keyword>
-    <keyword>rf energy</keyword>
-    <keyword>field-strength measurement</keyword>
     <abstract>This document describes equipment inspection and radio frequency (rf) electromagnetic field measurement procedures for evaluation of rf industrial, scientific, and medical (ISM) equipment installed in the user's facility. The term, ISM equipment, as used here, includes equipment that generates rf energy for purposes other than radio communications, to cause physical, chemical, or biological changes; for example, industrial heaters (dielectric and induction), medical diathermy, ultrasonic equipment, rf plasma devices, and rf stabilized welders. These procedures are designed to help ensure that the equipment does not interfere with radio communications, navigation, and other essential radio services. The engineer responsible for the measurements should take all reasonable precautions to ensure that the maximum emission from the ISM equipment under test (EUT) has been measured. Radio frequency field-strength measurements of installed ISM equipment may be required if any of the following conditions exist:1) The emission from the EUT was not measured by the manufacturer. 2) Because of its size or special operating conditions, the EUT could not be tested before installation. 3) Installed ISM equipment is suspected of causing interference. 4) ISM equipment has been modified in a way that could affect its rf emissions. 5) As the equipment ages, there is a question about its continued compliance. Etc.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.122657"/>
 </reference>

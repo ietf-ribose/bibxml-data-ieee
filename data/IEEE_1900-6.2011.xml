@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1900-6.2011" target="https://ieeexplore.ieee.org/document/5756728">
   <front>
     <title>IEEE Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems.</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5756728"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2014" month="December" day="10"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Sensors</keyword>
-    <keyword>Data structures</keyword>
-    <keyword>Spread spectrum communication</keyword>
-    <keyword>Radio communication</keyword>
-    <keyword>cognitive radio</keyword>
-    <keyword>data structure</keyword>
-    <keyword>distributed spectrum sensing</keyword>
-    <keyword>dynamic spectrum access</keyword>
-    <keyword>IEEE 1900.6</keyword>
-    <keyword>logical interface</keyword>
-    <keyword>sensing information</keyword>
-    <keyword>spectrum sensor</keyword>
     <abstract>The interfaces and data structures required to exchange sensing-related information in order to increase interoperability between sensors and their clients developed by different manufacturers are defined in this standard. The logical interface and supporting data structures are defined abstractly without constraining the sensing technology, client design, or data link between sensor and client. The entities involved and parameters exchanged in this process. It further elaborates on the service access points, service primitives, as well as generic procedures used to realize this information exchange, are defined by this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5756728"/>
 </reference>

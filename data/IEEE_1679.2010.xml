@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1679.2010" target="https://ieeexplore.ieee.org/document/5618903">
   <front>
     <title>IEEE Recommended Practice for the Characterization and Evaluation of Emerging Energy Storage Technologies in Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5618903"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,17 +9,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Capacitors</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Energy storage</keyword>
-    <keyword>battery</keyword>
-    <keyword>cycling service</keyword>
-    <keyword>electric double-layer capacitor</keyword>
-    <keyword>energy storage</keyword>
-    <keyword>flywheel</keyword>
-    <keyword>standby service</keyword>
-    <keyword>stationary application</keyword>
     <abstract>Recommended information for an objective evaluation of an emerging energy storage device or system by a potential user for any stationary application is covered in this document. Energy storage technologies are those that provide a means for the reversible storage of electrical energy, i.e., the device receives electrical energy and is able to discharge electrical energy at a later time. The storage medium may be electrochemical (e.g., batteries), kinetic (e.g., flywheels), electrostatic (e.g., electric double-layer capacitors), thermal, or some other medium. Devices recharged by non-electrical means, such as fuel cells, are beyond the scope of this document. The document provides a common basis for the expression of performance characteristics and the treatment of life-testing data. A standard approach for analysis of failure modes is also provided, including assessment of safety attributes. The intent of this document is to ensure that characterization information, including test conditions and limits of applicability, is sufficiently complete to allow valid comparisons to be made.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5618903"/>
 </reference>

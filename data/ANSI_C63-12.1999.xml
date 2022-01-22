@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-12.1999" target="https://ieeexplore.ieee.org/document/836295">
   <front>
     <title>American National Standard for Electromagnetic Compatibility Limits--Recommended Practice</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91309"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2014" month="January" day="7"/>
-    <keyword>ANSI standards</keyword>
-    <keyword>electromagnetic compatibility</keyword>
-    <keyword>electromagnetic noise</keyword>
-    <keyword>radio noise</keyword>
     <abstract>This recommended practice presents a rationale for developing limits and recommends sets of limits that are representative of current practice. These limits may be adjusted in particular applications as circumstances dictate.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91309"/>
 </reference>

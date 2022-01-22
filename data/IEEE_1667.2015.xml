@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1667.2015" target="https://ieeexplore.ieee.org/document/7389949">
   <front>
     <title>IEEE Standard for Discovery, Authentication, and Authorization in Host Attachments of Storage Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7389949"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,41 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Authorization</keyword>
-    <keyword>Storage devices</keyword>
-    <keyword>Knowledge discovery</keyword>
-    <keyword>Access controls</keyword>
-    <keyword>Trust management</keyword>
-    <keyword>Flash memory</keyword>
-    <keyword>Smart cards</keyword>
-    <keyword>Security</keyword>
-    <keyword>authentication</keyword>
-    <keyword>authorization</keyword>
-    <keyword>CF</keyword>
-    <keyword>compactflash</keyword>
-    <keyword>discovery</keyword>
-    <keyword>EMMC</keyword>
-    <keyword>IEEE 1667(TM)</keyword>
-    <keyword>password silo</keyword>
-    <keyword>probe silo</keyword>
-    <keyword>SAS</keyword>
-    <keyword>SATA</keyword>
-    <keyword>SCSI</keyword>
-    <keyword>SCTS</keyword>
-    <keyword>security</keyword>
-    <keyword>SILO</keyword>
-    <keyword>smart card transport silo</keyword>
-    <keyword>STID</keyword>
-    <keyword>storage</keyword>
-    <keyword>TCG storage transport silo</keyword>
-    <keyword>transport independent</keyword>
-    <keyword>trusted computing group</keyword>
-    <keyword>UAS</keyword>
-    <keyword>UFS</keyword>
-    <keyword>USB BOT</keyword>
-    <keyword>USB</keyword>
     <abstract>Discovery, authentication, and authorization protocols between hosts and storage devices over multiple transports are defined in this standard. It specifies a new Silo Type Identifier (STID) allocation process that uses the IEEE Registration Authority.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7389949"/>
 </reference>

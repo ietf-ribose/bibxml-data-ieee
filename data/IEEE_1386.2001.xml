@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1386.2001" target="https://ieeexplore.ieee.org/document/944008">
   <front>
     <title>IEEE Standard for a Common Mezzanine Card Family: CMC</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93280"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="24"/>
-    <keyword>Data buses</keyword>
-    <keyword>backplane I/O</keyword>
-    <keyword>bezel</keyword>
-    <keyword>board</keyword>
-    <keyword>card</keyword>
-    <keyword>CompactPCI</keyword>
-    <keyword>face plate</keyword>
-    <keyword>front panel I/O</keyword>
-    <keyword>host computer</keyword>
-    <keyword>I/O</keyword>
-    <keyword>local bus</keyword>
-    <keyword>metric</keyword>
-    <keyword>mezzanine</keyword>
-    <keyword>module</keyword>
-    <keyword>modular I/O</keyword>
-    <keyword>Multibus</keyword>
-    <keyword>PCI</keyword>
-    <keyword>VME</keyword>
-    <keyword>VME64</keyword>
-    <keyword>VME64x</keyword>
-    <keyword>VMEbus</keyword>
     <abstract>Administratively withdrawn January 2007. The mechanics of a common mezzanine card (CMC) family are defined in this standard.Mezzanine cards, designed to this standard, can be used interchangeably on VME, VME64 andVME64x boards, CompactPCI ¤ boards, Multibus ¤ I and II boards, desktop computers, portablecomputers, servers, and other similar types of applications. Mezzanine cards can provide modularfront panel I/O, backplane I/O or general function expansion or a combination for host computers.Single, wide mezzanine cards are 75 mm wide by 150 mm deep by 8.2 mm high.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93280"/>
 </reference>

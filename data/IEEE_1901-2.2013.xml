@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1901-2.2013" target="https://ieeexplore.ieee.org/document/6679210">
   <front>
     <title>IEEE Standard for Low-Frequency (less than 500 kHz) Narrowband Power Line Communications for Smart Grid Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6679210"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,24 +10,7 @@
       </address>
     </author>
     <date year="2013" month="December" day="6"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Smart grids</keyword>
-    <keyword>Narrowband</keyword>
-    <keyword>Power line communications</keyword>
-    <keyword>OFDM</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>coexistence</keyword>
-    <keyword>G3-PLC</keyword>
-    <keyword>IEEE 1901.2TM</keyword>
-    <keyword>IFFT OFDM</keyword>
-    <keyword>MAC</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>narrowband</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>PLC</keyword>
-    <keyword>power line communications</keyword>
-    <keyword>PRIME</keyword>
     <abstract>A worldwide standard for narrowband power line communications (PLC) via alternating current, direct current, and nonenergized electric power lines using frequencies below 500 kHz. Data rates of up to 500 kb/s are supported. The field of use includes Smart Grid applications. Coexistence mechanisms that can be used by other PLC technologies operating below 500 kHz are also included. These coexistence mechanisms may be used separately from the rest of the standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6679210"/>
 </reference>

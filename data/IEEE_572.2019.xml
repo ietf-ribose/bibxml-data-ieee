@@ -1,7 +1,6 @@
 <reference anchor="IEEE.572.2019" target="https://ieeexplore.ieee.org/document/8704243">
   <front>
     <title>IEEE Standard for Qualification of Class 1E Connection Assemblies for Nuclear Power Generating Stations and Other Nuclear Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8704243"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,38 +11,7 @@
       </address>
     </author>
     <date year="2019" month="May" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Aging</keyword>
-    <keyword>Radiation safety</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>age</keyword>
-    <keyword>age conditioning</keyword>
-    <keyword>aging</keyword>
-    <keyword>baseline parameter</keyword>
-    <keyword>cable</keyword>
-    <keyword>cable assembly</keyword>
-    <keyword>condition monitoring</keyword>
-    <keyword>connection assemblies</keyword>
-    <keyword>connector</keyword>
-    <keyword>equipment qualification</keyword>
-    <keyword>generic qualification</keyword>
-    <keyword>harsh environment</keyword>
-    <keyword>IEEE 572</keyword>
-    <keyword>interface</keyword>
-    <keyword>margin</keyword>
-    <keyword>mild environment</keyword>
-    <keyword>nuclear</keyword>
-    <keyword>qualification methods</keyword>
-    <keyword>qualified life</keyword>
-    <keyword>radiation</keyword>
-    <keyword>safety-related function</keyword>
-    <keyword>significant aging mechanism</keyword>
-    <keyword>termination</keyword>
-    <keyword>test plan</keyword>
-    <keyword>test sequence</keyword>
-    <keyword>type testing</keyword>
     <abstract>Basic requirements, direction, and methods for qualifying Class lE connection assemblies for service in nuclear power generating stations and other nuclear facilities are provided in this standard. These requirements include connectors, terminations, and environmental seals in combination with related cables or wires as assemblies. Qualification of cable with connectors to this standard does not replace qualification to IEEE Std 383™-2015. This standard does not apply to containment electric penetrations, fire stops, in-line splices, components for service within the reactor vessel, or fiber optic connectors. (Refer to IEEE Std 1682™-2011.) The qualification requirements in this standard, when met, demonstrate and document the ability of the equipment to perform safety function(s) under applicable service conditions (including design basis events) reducing the risks of common cause equipment failures. This standard does not provide environmental stress levels and performance requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8704243"/>
 </reference>

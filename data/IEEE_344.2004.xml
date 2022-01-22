@@ -1,7 +1,6 @@
 <reference anchor="IEEE.344.2004" target="https://ieeexplore.ieee.org/document/1440989">
   <front>
     <title>IEEE Recommended Practice for Seismic Qualification of Class 1E Equipment for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96099"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,30 +11,7 @@
       </address>
     </author>
     <date year="2016" month="July" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Earthquakes</keyword>
-    <keyword>Qualifications</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Class 1E</keyword>
-    <keyword>earthquake</keyword>
-    <keyword>earthquake experience</keyword>
-    <keyword>equipment qualification</keyword>
-    <keyword>inclusion rules</keyword>
-    <keyword>nuclear</keyword>
-    <keyword>operating basis earthquake</keyword>
-    <keyword>prohibited features</keyword>
-    <keyword>qualification methods</keyword>
-    <keyword>required response spectrum</keyword>
-    <keyword>response spectra</keyword>
-    <keyword>safe shutdown earthquake</keyword>
-    <keyword>safety function</keyword>
-    <keyword>seismic</keyword>
-    <keyword>seismic analysis</keyword>
-    <keyword>test response spectrum</keyword>
-    <keyword>test experience</keyword>
-    <keyword>type testing</keyword>
     <abstract>Revision of IEEE Std 344-1987 Recommended practices are provided for establishing procedures that will yield data to demonstrate that the Class 1E equipment can meet its performance requirements during and/or following one safe shutdown earthquake event preceded by a number of operating basis earthquake events. This recommended practice may be used to establish tests, analyses, or experienced based evaluations that will yield data to demonstrate Class 1E equipment performance claims or to evaluate and verify performance of devices and assemblies as part of an overall qualification effort. Common methods currently in use for seismic qualification by test are presented. Two approaches to seismic analysis are described, one based on dynamic analysis and the other on static coefficient analysis. Two approaches to experienced-based seismic evaluation are described, one based on earthquake experience and the other based on test experience.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96099"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.293.1969" target="https://ieeexplore.ieee.org/document/9404076">
   <front>
     <title>IEEE Test Procedure for Single-Degree-of-Freedom Spring-Restrained Rate Gyros</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.9404076"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>Impedance</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Gyroscopes</keyword>
-    <keyword>gyros</keyword>
-    <keyword>restrained</keyword>
-    <keyword>rate</keyword>
-    <keyword>degree</keyword>
-    <keyword>freedom</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Gyroscopes</keyword>
     <abstract>Recommended rate gyro test procedures derived from those currently in use, including test conditions to be considered, are compiled. In some cases alternate methods for measuring a performance characteristic have been included. This standard is intended to be a guide in the preparation of Section 4 of a specification that follows the format of IEEE Std 292, Specification Format for Single-Degree-of-Freedom Spring-Restrained Rate Gyros.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.9404076"/>
 </reference>

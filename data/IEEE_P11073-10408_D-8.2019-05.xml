@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2019" month="June" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Thermometer</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Informatics</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>IEEE 11073-10408</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
-    <keyword>thermometer</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth thermometer devices and compute engines (e.g., cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-andplay interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth thermometer devices.</abstract>
   </front>
 </reference>

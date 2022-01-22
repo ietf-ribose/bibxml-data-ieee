@@ -1,23 +1,11 @@
 <reference anchor="IEEE.C95-1.2005" target="https://ieeexplore.ieee.org/document/1626482">
   <front>
     <title>IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99501"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2015" month="September" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Radio frequency</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>Electromagnetic fields</keyword>
-    <keyword>basic restrictions (BR)</keyword>
-    <keyword>maximum permissible exposure (MPE)</keyword>
-    <keyword>radio frequency (RF)</keyword>
-    <keyword>RF exposure</keyword>
-    <keyword>RF safety</keyword>
-    <keyword>specific absorption rate (SAR)</keyword>
     <abstract>Recommendations to protect against harmful effects in human beings exposed to electromagnetic fields in the frequency range from 3 kHz to 300 GHz are provided in this standard. These recommendations are intended to apply in controlled environments and for general population exposure. These recommendations are not intended to apply to the exposure of patients by or under the direction of physicians and medical professionals.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99501"/>
 </reference>

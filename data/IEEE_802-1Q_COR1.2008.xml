@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1Q/Cor1.2008" target="https://ieeexplore.ieee.org/document/4654181">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks - Virtual Bridged Local Area Networks - Corrigendum 1: Corrections to the Multiple Registration Portocol</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4654181"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Standards Board</keyword>
-    <keyword>Societies</keyword>
-    <keyword>Committees</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>802.1Q-2005</keyword>
-    <keyword>Bridged Local Area Networks</keyword>
-    <keyword>LANs</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>MRP</keyword>
-    <keyword>MMRP</keyword>
-    <keyword>virtual LANs</keyword>
-    <keyword>Virtual Bridged Local Area Networks</keyword>
     <abstract>This corrigendum to IEEE Std 802.1Q corrects errors in the MRP protocol specification.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4654181"/>
 </reference>

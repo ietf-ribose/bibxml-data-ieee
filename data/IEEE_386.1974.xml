@@ -1,7 +1,6 @@
 <reference anchor="IEEE.386.1974" target="https://ieeexplore.ieee.org/document/7415881">
   <front>
     <title>IEEE Separable Insulated Connector Systems for Power Distribution Systems above 600 V</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7415881"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Power distribution planning</keyword>
     <abstract>This standard establishes definitions, electrical ratings, tests, and interchangeable construction features for load-break and nonload-break separable insulated connectors rated 601 V and above, 600 A or less, for use on power distribution systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7415881"/>
 </reference>

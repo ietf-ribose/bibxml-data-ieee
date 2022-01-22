@@ -1,27 +1,11 @@
 <reference anchor="IEEE.C37-48-1.2002" target="https://ieeexplore.ieee.org/document/1044288">
   <front>
     <title>IEEE Guide for the Operation, Classification, Application, and Coordination of Current-Limiting Fuses with Rated Voltages 1-38kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94139"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Fuses</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Guidelines</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>coordination</keyword>
-    <keyword>current-limiting fuses</keyword>
-    <keyword>disconnecting switches</keyword>
-    <keyword>fuse application</keyword>
-    <keyword>high voltage</keyword>
-    <keyword>high-voltages fuses</keyword>
-    <keyword>rated maximum voltage</keyword>
-    <keyword>single pole air switches</keyword>
-    <keyword>time-current-characteristics</keyword>
-    <keyword>TCC</keyword>
     <abstract>Additional guidelines for application and coordination of high-voltage power- and distri-bution-class current-limiting fuses are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94139"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1210.2004" target="https://ieeexplore.ieee.org/document/1412646">
   <front>
     <title>IEEE Standard Tests for Determining Compatibility of Cable-Pulling Lubricants With Wire and Cable</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95929"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,25 +11,7 @@
       </address>
     </author>
     <date year="2014" month="April" day="4"/>
-    <keyword>Standards</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Cable shielding</keyword>
-    <keyword>Lubricants</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Wires</keyword>
-    <keyword>cable</keyword>
-    <keyword>cable covering</keyword>
-    <keyword>cable jacket</keyword>
-    <keyword>cable pulling</keyword>
-    <keyword>compatibility</keyword>
-    <keyword>compound</keyword>
-    <keyword>dielectric withstand</keyword>
-    <keyword>immersion testing</keyword>
-    <keyword>lubricants</keyword>
-    <keyword>physical properties</keyword>
-    <keyword>volume resistance measurement</keyword>
-    <keyword>wire</keyword>
     <abstract>Criteria and test methods for determining the compatibility of cable-pulling lubricants (compounds) with cable jacket or other exterior cable covering are described in this standard. Cable pulling lubricants are used to lower the friction on cable as it is pulled into conduit, duct, or directionally bored holes. Compatibility is important because lubricants should not negatively interact with the cables they lubricate. Compatibility of lubricants with a variety of common cable coverings is considered. (An interpretation is available at http://standards.ieee.org/findstds/interps/1210-2004.html)</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95929"/>
 </reference>

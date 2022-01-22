@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P933/D-4.2011-01" target="https://ieeexplore.ieee.org/document/5706460">
   <front>
     <title>IEEE Draft Guide for the Definition of Reliability Program Plans for Nuclear Generating Stations and Other Nuclear Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706460"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>problem analysis</keyword>
-    <keyword>reliability analysis</keyword>
-    <keyword>reliability program plan</keyword>
     <abstract>This document provides guidelines for the definition of a reliability program at nuclear generating stations and other nuclear facilities. The document emphasizes reliability programs during the operating phase of such facilities; however, the general approach applies to all phases (e.g., design, construction, start-up, operating, and decommissioning) of the facility.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706460"/>
 </reference>

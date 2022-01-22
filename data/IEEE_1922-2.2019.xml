@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1922-2.2019" target="https://ieeexplore.ieee.org/document/9067800">
   <front>
     <title>IEEE Standard for a Method to Calculate Near Real-Time Emissions of Information and Communication Technology Infrastructure</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9067800"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2020" month="April" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Real-time systems</keyword>
-    <keyword>Information and communication technology</keyword>
-    <keyword>Energy consumption</keyword>
-    <keyword>Emissions</keyword>
-    <keyword>Industrial plants</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Guidelines</keyword>
-    <keyword>ETSI</keyword>
-    <keyword>ITU</keyword>
-    <keyword>emissions</keyword>
-    <keyword>ICT infrastructures</keyword>
-    <keyword>IEEE 1922.2</keyword>
-    <keyword>near real-time</keyword>
-    <keyword>use phase</keyword>
     <abstract>Rules for the near real-time calculation of pollutant emissions allocated to the use of Information and Communications Technology (ICT) infrastructure (servers, network, etc.) are specified in this standard. Emissions in this standard are defined as gaseous and particle emissions caused by the generation of electricity consumed during the ICT infrastructure use phase.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9067800"/>
 </reference>

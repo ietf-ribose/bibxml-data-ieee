@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1630.2012" target="https://ieeexplore.ieee.org/document/6362142">
   <front>
     <title>IEEE Standard for Supporting Structures for Overhead Contact Systems for Transit Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6362142"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2012" month="November" day="27"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Railway transportation</keyword>
-    <keyword>Poles and towers</keyword>
-    <keyword>Power distribution lines</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>catenary</keyword>
-    <keyword>design</keyword>
-    <keyword>fabrication</keyword>
-    <keyword>IEEE 1630</keyword>
-    <keyword>OCS</keyword>
-    <keyword>overhead contact systems</keyword>
-    <keyword>pole</keyword>
-    <keyword>steel</keyword>
-    <keyword>structure</keyword>
-    <keyword>support</keyword>
-    <keyword>tubular</keyword>
     <abstract>Minimum structural requirements for structural supports used for overhead contact systems for heavy rail, light rail, and trolley bus systems, including loading, safety factors, and deflection are provided by this standard. This standard is developed to govern the design and fabrication of supporting structures for OCS. It is provided to define minimum general design and construction parameters for the following tubular steel pole types: tapered and constant diameter round, tapered and constant diameter multi-sided, sectional and fluted.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6362142"/>
 </reference>

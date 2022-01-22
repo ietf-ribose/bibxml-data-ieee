@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-11a.2008" target="https://ieeexplore.ieee.org/document/4579728">
   <front>
     <title>IEEE Standard for Metal-Oxide Surge Arresters for AC Power Circuits (&amp;#x003E;1 kV) Amendment 1: Short-Circuit Tests for Station, Intermediate, and Distribution Arresters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4579728"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,21 +10,7 @@
       </address>
     </author>
     <date year="2013" month="February" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Surges</keyword>
-    <keyword>Arresters</keyword>
-    <keyword>Discharges (electric)</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>C62.11a-2008</keyword>
-    <keyword>discharge current</keyword>
-    <keyword>discharge voltage</keyword>
-    <keyword>duty-cycle voltage rating</keyword>
-    <keyword>lightning protection</keyword>
-    <keyword>metal-oxide surge arrester (MOSA)</keyword>
-    <keyword>surge arrester</keyword>
-    <keyword>valve arrester</keyword>
-    <keyword>maximum continuous operating voltage (MCOV)</keyword>
-    <keyword>prospective (available) short-circuit current</keyword>
     <abstract>Metal-oxide surge arresters designed to repeatedly limit the voltage surges on 48 Hz to 62 Hz power circuits (&gt;1000 V) by passing surge discharge current and automatically limiting the flow of system power current applies to this amendment. This amendment covers devices for separate mounting and to those supplied integrally with other equipment. The tests demonstrate that an arrester can survive the rigors of reasonable environmental conditions and system phenomena, while, at the same time, protect equipment and/or the system from damaging overvoltages caused by lightning, switching, or other undesirable surges.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4579728"/>
 </reference>

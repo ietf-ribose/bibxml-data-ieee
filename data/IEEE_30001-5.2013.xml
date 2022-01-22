@@ -1,7 +1,6 @@
 <reference anchor="IEEE.30001-5.2013" target="https://ieeexplore.ieee.org/document/6803846">
   <front>
     <title>IEEE Recommended Practice for the Application of Power Distribution Apparatus in Industrial and Commercial Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6803846"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2014" month="April" day="22"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Industrial plants</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>apparatus</keyword>
-    <keyword>busway</keyword>
-    <keyword>cable systems</keyword>
-    <keyword>circuit breakers</keyword>
-    <keyword>conductors</keyword>
-    <keyword>fuses</keyword>
-    <keyword>IEEE 3001.5</keyword>
-    <keyword>panelboards</keyword>
-    <keyword>separable insulated connectors</keyword>
-    <keyword>switchboards</keyword>
-    <keyword>switches</keyword>
-    <keyword>switchgear transformers</keyword>
     <abstract>The selection and application of power distribution apparatus used in industrial andcommercial power systems are covered in this recommended practice. It is likely to be of greatestvalue to the power-oriented engineer with limited experience with this equipment. It can also bean aid to all engineers responsible for the electrical design of industrial and commercial powersystems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6803846"/>
 </reference>

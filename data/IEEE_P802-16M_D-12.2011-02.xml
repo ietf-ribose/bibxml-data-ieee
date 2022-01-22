@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P802-16m/D-12.2011-02" target="https://ieeexplore.ieee.org/document/5721899">
   <front>
     <title>IEEE Draft Amendment Standard for Local and Metropolitan Area Networks - Part 16: Air Interface for Broadband Wireless Access Systems - Advanced Air Interface</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5721899"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Broadband communication</keyword>
     <abstract>This standard amends the IEEE 802.16 WirelessMAN-OFDMA specification to provide an advanced air interface for operation in licensed bands. It meets the cellular layer requirements of IMT-Advanced next generation mobile networks. This amendment provides continuing support for legacy WirelessMAN-OFDMA equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5721899"/>
 </reference>

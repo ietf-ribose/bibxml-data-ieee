@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1027" target="https://ieeexplore.ieee.org/document/27893">
   <front>
     <title>IEEE Trial-Use Standard Method for Measuring the Magnetic Field Intensity Around a Telephone Receiver</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81066"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="9"/>
-    <keyword>Hearing aids</keyword>
-    <keyword>Magnetic field measurement</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>magnetic</keyword>
-    <keyword>field</keyword>
-    <keyword>telephone</keyword>
-    <keyword>receiver</keyword>
-    <keyword>intensity</keyword>
     <abstract>A practical method for determining the magnetic-field characteristics of a telephone receiver by means of objective measurements in a test connection is described. The method was developed in response to a need to specify the magnetic field at selected locations around a telephone receiver, required for satisfactory coupling of hearing aids. However, the method is sufficiently general to allow complete mapping of the magnetic field. It is also useful for other applications where knowledge of the magnetic field intensity is required.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81066"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC.23026" target="https://ieeexplore.ieee.org/document/6484079">
   <front>
     <title>ISO/IEC 23026:2006, Software Engineering---Recommended Practice for the Internet---Web Site Engineering, Web Site Management, and Web Site Life Cycle</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.6484079"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2013" month="March" day="21"/>
-    <keyword>ISO standards</keyword>
-    <keyword>IEC standards</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Web sites</keyword>
-    <keyword>Web design</keyword>
-    <keyword>Extranet</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Intranet</keyword>
-    <keyword>Web page</keyword>
-    <keyword>Web site</keyword>
-    <keyword>Web site engineering Web site life cycle</keyword>
-    <keyword>Web site management</keyword>
-    <keyword>well-engineered Web page</keyword>
-    <keyword>World Wide Web</keyword>
     <abstract>This document defines recommended practices for World Wide Web page engineering for Intranet and Extranet environments, based on World Wide Web Consortium (W3C) and related industry guidelines. This recommended practice does not address stylistic considerations or human-factors considerations in Web page design beyond limitations that reflect good engineering practice. Annex B contains topics which are not sufficiently mature or where there are not specific recommendations for inclusion in the current issue of this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.6484079"/>
 </reference>

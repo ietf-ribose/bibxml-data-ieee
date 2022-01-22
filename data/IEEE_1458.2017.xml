@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1458.2017" target="https://ieeexplore.ieee.org/document/8278824">
   <front>
     <title>IEEE Recommended Practice for the Selection, Field Testing, and Life Expectancy of Molded-Case Circuit Breakers for Industrial Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8278824"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2018" month="February" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Electrical safety</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>available fault values</keyword>
-    <keyword>circuit breaker testing</keyword>
-    <keyword>IEEE 1458</keyword>
-    <keyword>insulated-case circuit breakers</keyword>
-    <keyword>molded-case circuit breakers</keyword>
-    <keyword>molded-case circuit breakers basics</keyword>
-    <keyword>molded-case circuit breakers life</keyword>
-    <keyword>safety</keyword>
     <abstract>A recommended procedure for the selection, application, and determination of the remaining life in molded-case circuit breaker is provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8278824"/>
 </reference>

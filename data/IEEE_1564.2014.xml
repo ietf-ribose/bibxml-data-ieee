@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1564.2014" target="https://ieeexplore.ieee.org/document/6842577">
   <front>
     <title>IEEE Guide for Voltage Sag Indices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6842577"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2014" month="June" day="24"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power quality</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>Power distribution measurement</keyword>
-    <keyword>IEEE 1564(TM)</keyword>
-    <keyword>power quality</keyword>
-    <keyword>power distribution faults</keyword>
-    <keyword>voltage sags</keyword>
     <abstract>Appropriate voltage sag indices and characteristics of electrical power and supply systems as well as the methods for calculating them are identified. Methods are provided for quantifying the severity of individual voltage sag events, for quantifying the performance at a specific location (single-site indices), and for quantifying the performance of the whole system (system indices). Multiple methods are presented for each. The methods are appropriate for use in transmission, distribution, and utilization electric power systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6842577"/>
 </reference>

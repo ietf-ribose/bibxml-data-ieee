@@ -5,19 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="December" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Bridged Local Area Networks</keyword>
-    <keyword>local area networks (LANs)</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
-    <keyword>YANG</keyword>
-    <keyword>Connectivity Fault Management (CFM).</keyword>
     <abstract>This amendment to IEEE Std 802.1Q-2018 as amended by IEEE 802.1Qcp-2018 provides a YANG data model in support of configuration and operational status information for a subset of Bridging capabilities.</abstract>
   </front>
 </reference>

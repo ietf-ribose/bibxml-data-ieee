@@ -1,19 +1,11 @@
 <reference anchor="IEEE.771.1984" target="https://ieeexplore.ieee.org/document/7437344">
   <front>
     <title>IEEE Guide to the Use of ATLAS</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7437344"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Programming</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>Communication technology</keyword>
-    <keyword>Automatic testing</keyword>
-    <keyword>Natural language processing</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Aerospace electronics</keyword>
     <abstract>This guide has mainly been written as an applications manual for engineers and authors who will be writing test procedures in ATLAS. The beginning chapters are also intended to provide managers with a brief introduction to the application of ATLAS in their organizations.This guide is not, in any way, intended to be a substitute for an instruction manual in the ATLAS language, but, rather, a practical extension to such a manual.It has been assumed that this guide will prove most useful to those engineers who are preparing test requirements in ATLAS. The cross referencing, therefore, between this guide and ANSI/IEEE Std 416-1984 has been confined to the classical definitions presented in ANSI/IEEE Std 416-1984. Appropriate cross references are included in parentheses following section headings, and unless otherwise stated, they relate to ANSI/IEEE Std 416-1984.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7437344"/>
 </reference>

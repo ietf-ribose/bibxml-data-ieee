@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-16s.2017" target="https://ieeexplore.ieee.org/document/8065154">
   <front>
     <title>IEEE Standard for Air Interface for Broadband Wireless Access Systems--Amendment 4: Fixed and Mobile Wireless Access in Channel Bandwidth up to 1.25 MHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8065154"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
       </address>
     </author>
     <date year="2017" month="October" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Narrowband</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>VHF devices</keyword>
-    <keyword>UHF communication</keyword>
-    <keyword>Smart grids</keyword>
-    <keyword>band AMC</keyword>
-    <keyword>critical infrastructure</keyword>
-    <keyword>IEEE 802.16(TM)</keyword>
-    <keyword>IEEE 802.16s(TM)</keyword>
-    <keyword>MAC</keyword>
-    <keyword>narrowband</keyword>
-    <keyword>OFDMA</keyword>
-    <keyword>PHY</keyword>
-    <keyword>smart grid</keyword>
-    <keyword>sub-1.25 MHz channels</keyword>
-    <keyword>utilities</keyword>
-    <keyword>VHF/UHF bands</keyword>
-    <keyword>WirelessMAN(R)</keyword>
     <abstract>WirelessMAN-OFDMA TDD operation in exclusively licensed spectrum with channel bandwidth from 100 kHz up to 1.25 MHz, including 1 MHz explicitly, is specified. This amendment targets operation in the 700 MHz band but also supports operation in other VHF/UHF bands. The project amends Clause 12 of IEEE Std 802.16-2012, adding a new system profile and amending other clauses as required to support the narrower channel widths. The range and data rate supported by the added profile are commensurate with those of the base standard, as scaled by the reduced channel bandwidth.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8065154"/>
 </reference>

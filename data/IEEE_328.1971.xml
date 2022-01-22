@@ -1,7 +1,6 @@
 <reference anchor="IEEE.328.1971" target="https://ieeexplore.ieee.org/document/9507394">
   <front>
     <title>IEEE Application Guide for Transient Recovery Voltage for AC High-Voltage Circuit Breakers rated on a symmetrical current basis.</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1970.9507394"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2021" month="August" day="4"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1970.9507394"/>
 </reference>

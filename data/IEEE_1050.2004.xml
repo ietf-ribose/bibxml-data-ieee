@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1050.2004" target="https://ieeexplore.ieee.org/document/1515972">
   <front>
     <title>IEEE Guide for Instrumentation and Control Equipment Grounding in Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97649"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2020" month="May" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Instrumentation</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>Safety</keyword>
-    <keyword>control</keyword>
-    <keyword>generating stations</keyword>
-    <keyword>grounding</keyword>
-    <keyword>I&amp;amp;C</keyword>
-    <keyword>instrumentation</keyword>
     <abstract>Revision of IEEE Std 1050-1996 Instrumentation and control (I&amp;C) equipment grounding methods to achieve both a suitable level of protection for personnel and equipment, and suitable electric noise immunity for signal ground references in generating stations are identified.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97649"/>
 </reference>

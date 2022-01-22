@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1596.1992" target="https://ieeexplore.ieee.org/document/8970105">
   <front>
     <title>IEEE Standard for Scalable Coherent Interface (SCI)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.8970105"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="24"/>
-    <keyword>bus architecture</keyword>
-    <keyword>bus standard</keyword>
-    <keyword>cache coherence</keyword>
-    <keyword>distributed memory</keyword>
-    <keyword>fiber optic</keyword>
-    <keyword>interconnect</keyword>
-    <keyword>I/O system</keyword>
-    <keyword>link</keyword>
-    <keyword>mesh</keyword>
-    <keyword>multiprocessor</keyword>
-    <keyword>network</keyword>
-    <keyword>packet protocol</keyword>
-    <keyword>ring</keyword>
-    <keyword>seamless distributed computer</keyword>
-    <keyword>shared memory</keyword>
-    <keyword>switch</keyword>
-    <keyword>transaction set</keyword>
     <abstract>The scalable coherent interface (SCI) provides computer-bus-like services but, instead of a bus, uses a collection of fast point-to-point unidirectional links to provide the far higher throughput needed for high-performance multiprocessor systems. SCI supports distributed, shared memory with optional cache coherence for tightly coupled systems, and message-passing for loosely coupled systems. Initial SCI links are defined at 1 Gbyte/s (16-bit parallel) and 1 Gb/s (serial). For applications requiring modular packaging, an interchangeable module is specified along with connector and power. The packets and protocols that implement transactions are defined and their formal specification is provided in the form of computer programs. In addition to the usual read-and-write transactions, SCI supports efficient multiprocessor lock transactions. The distributed cache-coherence protocols are efficient and can recover from an arbitrary number of transmission failures. SCI protocols ensure forward progress despite multiprocessor conflicts (no deadlocks or starvation).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.8970105"/>
 </reference>

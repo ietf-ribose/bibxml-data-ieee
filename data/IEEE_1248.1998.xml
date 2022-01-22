@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1248.1998" target="https://ieeexplore.ieee.org/document/798904">
   <front>
     <title>IEEE Guide for the Commissioning of Electrical Systems in Hydroelectric Power Plants</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.90573"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2020" month="May" day="7"/>
-    <keyword>Hydroelectric power generation</keyword>
-    <keyword>commissioning</keyword>
-    <keyword>hydroelectric power plant</keyword>
     <abstract>Inspection procedures and tests for use following the completion of the installation of components and systems through to commercial operation are provided. This guide is directed to the plant owners, designers, and contractors involved in the commissioning of electrical systems of hydroelectric plants.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.90573"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-100-1.2007" target="https://ieeexplore.ieee.org/document/4350337">
   <front>
     <title>IEEE Standard of Common Requirements for High Voltage Power Switchgear Rated Above 1000 V</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4350337"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>IEC</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>common requirements</keyword>
-    <keyword>design tests</keyword>
-    <keyword>production tests</keyword>
-    <keyword>ratings</keyword>
-    <keyword>service conditions</keyword>
-    <keyword>switchgear</keyword>
     <abstract>This is a new standard written specifically to collect into one document the requirements that are common in many IEEE power switchgear standards. These requirements include service conditions, design (type) tests, design and construction, production (routine) tests, and ratings.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4350337"/>
 </reference>

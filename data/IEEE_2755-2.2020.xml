@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2755-2.2020" target="https://ieeexplore.ieee.org/document/9404959">
   <front>
     <title>IEEE Recommended Practice for Implementation and Management Methodology for Software-Based Intelligent Process Automation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9404959"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,36 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Artificial intelligence</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Business process management</keyword>
-    <keyword>Digital systems</keyword>
-    <keyword>Management</keyword>
-    <keyword>Personnel</keyword>
-    <keyword>Software enrgineering</keyword>
-    <keyword>AI</keyword>
-    <keyword>artificial intelligence</keyword>
-    <keyword>automation center of excellence</keyword>
-    <keyword>autonomic</keyword>
-    <keyword>business process automation</keyword>
-    <keyword>business process management</keyword>
-    <keyword>center of excellence</keyword>
-    <keyword>cognitive computing</keyword>
-    <keyword>digital labor</keyword>
-    <keyword>digital process automation</keyword>
-    <keyword>digital workforce</keyword>
-    <keyword>IEEE 2755.2&amp;#8482;</keyword>
-    <keyword>intelligent process automation</keyword>
-    <keyword>machine learning</keyword>
-    <keyword>narrow AI</keyword>
-    <keyword>process choreography</keyword>
-    <keyword>process discovery</keyword>
-    <keyword>process mining</keyword>
-    <keyword>process orchestration</keyword>
-    <keyword>robotic desktop automation</keyword>
-    <keyword>robotic process automation</keyword>
-    <keyword>RPA</keyword>
     <abstract>Provided in this recommended practice is a comprehensive methodology for technology domain exploration, development of strategy, technology evaluation, implementation, management, operations, program optimization, and successful enterprise scaling for IPA programs while utilizing terminology as established in IEEE Std 2755™-2017 and technology taxonomy as established in IEEE Std 2755.1™-2019. This recommended practice is a compilation of best practices from industry leaders on the proven methods from the initial discovery and exploration of the transformative capabilities of IPA technology through to developing and running an enterprise-wide program.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9404959"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.15288.2004" target="https://ieeexplore.ieee.org/document/1490129">
   <front>
     <title>Adoption of ISO/IEC 15288:2002, Systems Engineering-System Life Cycle Processes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96287"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2019" month="May" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>Software</keyword>
-    <keyword>adoption</keyword>
-    <keyword>ISO/IEC</keyword>
-    <keyword>life cycle processes</keyword>
-    <keyword>systems engineering</keyword>
     <abstract>This standard establishes a common framework for describing the life cycle of systems created by humans. It defines a set of processes and associated terminology. These processes can be applied at any level in the hierarchy of a system's structure. Selected sets of these processes can be applied throughout the life cycle for managing and performing the stages of a system's life cycle. This is accomplished through the involvement of all interested parties with the ultimate goal of achieving customer satisfaction. This standard is identical with ISO/IEC 15288:2002 but contains an additional informative annex, Annex E, explaining the relationship of this standard to other IEEE standards</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96287"/>
 </reference>

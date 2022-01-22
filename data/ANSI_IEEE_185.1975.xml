@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.185.1975" target="https://ieeexplore.ieee.org/document/7368855">
   <front>
     <title>IEEE/IHF Standard Methods of Testing Frequency Modulation Broadcast Receivers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.7368855"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,6 @@
       </address>
     </author>
     <date year="2015" month="December" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Broadcast technology</keyword>
-    <keyword>Frequency modulation</keyword>
-    <keyword>Modulation</keyword>
-    <keyword>Receivers</keyword>
-    <keyword>Communication equipment</keyword>
-    <keyword>ANSI Standards</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.7368855"/>
 </reference>

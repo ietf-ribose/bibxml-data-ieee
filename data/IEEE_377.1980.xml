@@ -1,7 +1,6 @@
 <reference anchor="IEEE.377.1980" target="https://ieeexplore.ieee.org/document/8973375">
   <front>
     <title>IEEE Recommended Practice for Measurement of Spurious Emission from Land-Mobile Communication Transmitters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.8973375"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="28"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Emissions</keyword>
-    <keyword>Land mobile radio management</keyword>
-    <keyword>Interference</keyword>
-    <keyword>Transmission line measurements</keyword>
-    <keyword>Transmitters</keyword>
-    <keyword>Mobile communication</keyword>
-    <keyword>Frequency modulation</keyword>
-    <keyword>Frequency control</keyword>
-    <keyword>Radio frequency</keyword>
-    <keyword>spurious</keyword>
-    <keyword>emissions</keyword>
-    <keyword>communication</keyword>
-    <keyword>Land mobile radio transmitters</keyword>
-    <keyword>Land mobile radio interference</keyword>
     <abstract>Controlled test conditions, test apparatus, test methods and data presentation, all of which form the basis for establishing the energy levels of spurious emissions of mobile communication transmitters designed to generate FM signals in the frequency range of 25 to 1000 MHz are covered. The purpose is to enable design and system engineers engaged in a variety of development projects to achieve uniform results in recognizing sources and nature of RF spurious emissions emanating from vehicular communications transmitters. Procedures for measuring both broadband and narrowband spectra are provided for both conducted and radiated emissions. Specified limits are not included. However, reference values that are not limited by the state of the art are provided. Transmitter test conditions, apparatus and method are based on standard instrumentation and measuring techniques and do not require any special apparatus other than necessary terminal simulators. The procedures do not cover the associated antenna and transmission lines.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.8973375"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-17.2011" target="https://ieeexplore.ieee.org/document/6026209">
   <front>
     <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 17: Resilient packet ring (RPR) access method and physical layer specifications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6026209"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2012" month="November" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Resilience</keyword>
-    <keyword>fairness</keyword>
-    <keyword>IEEE 802.17</keyword>
-    <keyword>layer management</keyword>
-    <keyword>metropolitan area network (MAN)</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>protection switching</keyword>
-    <keyword>resilient packet ring (RPR)</keyword>
-    <keyword>ring topology</keyword>
-    <keyword>topology detection</keyword>
     <abstract>This standard defines the medium access control characteristics, physical layer interface methods and layer management parameters for the resilient packet ring (RPR) access method for ring topologies. A set of protocols for detecting and initializing the shared ring configuration, recovering from failures, and regulating fair access to the shared medium are also described. Specifications are provided for interface to a number of physical layers, supporting data rates up to 10 Gb/s. System considerations and management information base (MIB) specifications are also provided in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6026209"/>
 </reference>

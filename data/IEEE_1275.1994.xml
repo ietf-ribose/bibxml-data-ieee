@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1275.1994" target="https://ieeexplore.ieee.org/document/763383">
   <front>
     <title>IEEE Standard for Boot (Initialization Configuration) Firmware: Core Requirements and Practices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.89427"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2018" month="October" day="30"/>
-    <keyword>Microprogramming</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Operating systems</keyword>
-    <keyword>Sun</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>ROM</keyword>
-    <keyword>Plug-in device</keyword>
-    <keyword>Initialization</keyword>
-    <keyword>Forth</keyword>
-    <keyword>Firmware</keyword>
-    <keyword>FCode</keyword>
-    <keyword>Debug</keyword>
-    <keyword>Configuration</keyword>
-    <keyword>Boot</keyword>
     <abstract>Firmware is the read-only-memory (ROM)-based software that controls a computer be tween the time it is turned on and the time the primary operating system takes control of the machine. Open Firmware provides the following: a mechanism for loading and executing programs (such as operating systems) from disks, tapes, network interfaces, and other devices; an ISA independent method for identifying devices "plugged in" to expansion buses and for providing firmware and diagnostics drivers for these devices; an extensible and programmable command language based on the Forth programming language; methods for managing user-configurable options stored in nonvolatile memory; a "call back" interface allowing other programs to make use of Open Firmware services; and debugging tools for hardware, firmware, firmware drivers, and system software.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.89427"/>
 </reference>

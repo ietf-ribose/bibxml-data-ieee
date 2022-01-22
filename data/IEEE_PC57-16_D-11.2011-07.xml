@@ -1,7 +1,6 @@
 <reference anchor="IEEE.PC57-16/D-11.2011-07" target="https://ieeexplore.ieee.org/document/5976986">
   <front>
     <title>IEEE Draft Standard Requirements, Terminology, and Test Code for Dry-Type Air-Core Series-Connected Reactors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5976986"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>Inductive power transmission</keyword>
-    <keyword>Harmonic filters</keyword>
-    <keyword>Discharges</keyword>
-    <keyword>Capacitors</keyword>
-    <keyword>Shunt (electrical)</keyword>
-    <keyword>air-core reactors</keyword>
-    <keyword>discharge current-limiting reactors</keyword>
-    <keyword>dry-type air-core reactors</keyword>
-    <keyword>dry-type reactors</keyword>
-    <keyword>filter reactors</keyword>
-    <keyword>harmonic filters</keyword>
-    <keyword>reactors</keyword>
-    <keyword>series capacitor bank applications</keyword>
-    <keyword>series-connected reactors</keyword>
-    <keyword>series reactor applications</keyword>
-    <keyword>shunt capacitor bank applications</keyword>
-    <keyword>shunt capacitor reactors</keyword>
     <abstract>Recommendations are given for reactors intended for series connection, in both transmission and distribution systems, to control power flow under steady-state conditions and/or limit fault current under short-circuit conditions. Dry-Type air-core reactors covered by this standard are self-cooled by natural air convection. With some restrictions, other reactors, including filter reactors, shunt capacitor reactors (used with shunt capacitor banks), and discharge current limiting reactors (used with series capacitor banks), are also covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5976986"/>
 </reference>

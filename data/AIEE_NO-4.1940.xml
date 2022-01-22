@@ -1,7 +1,6 @@
 <reference anchor="AIEE.No-4.1940" target="https://ieeexplore.ieee.org/document/7419163">
   <front>
     <title>AIEE Standards for Measurement of Test Voltage in Dielectric tests</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1940.7419163"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,6 @@
       </address>
     </author>
     <date year="2016" month="February" day="24"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>Power system measurement</keyword>
-    <keyword>Testing</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1940.7419163"/>
 </reference>

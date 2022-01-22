@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-37a.1992" target="https://ieeexplore.ieee.org/document/590293">
   <front>
     <title>IEEE Standard Loading Guide for AC High-Voltage Air Switches Under Emergency Conditions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.82407"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
       </address>
     </author>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.82407"/>
 </reference>

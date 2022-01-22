@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.29119-4.2015" target="https://ieeexplore.ieee.org/document/7346375">
   <front>
     <title>ISO/IEC/IEEE International Standard - Software and systems engineering--Software testing--Part 4: Test techniques</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7346375"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2015" month="December" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Software testing</keyword>
-    <keyword>Product life cycle management</keyword>
-    <keyword>29119-4</keyword>
-    <keyword>life cycle</keyword>
-    <keyword>life cycle process</keyword>
-    <keyword>software</keyword>
-    <keyword>testing</keyword>
     <abstract>This standard supports test case design and execution during any phase or type of testing (e.g., unit, integration, system, acceptance, performance, usability, reliability).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7346375"/>
 </reference>

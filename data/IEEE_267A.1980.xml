@@ -1,7 +1,6 @@
 <reference anchor="IEEE.267A.1980" target="https://ieeexplore.ieee.org/document/7843801">
   <front>
     <title>IEEE International System of Units Conversion Factors Card</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1890.7843801"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Measurement units</keyword>
     <abstract>International System of Units Conversion</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1890.7843801"/>
 </reference>

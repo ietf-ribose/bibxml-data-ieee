@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1332.2012" target="https://ieeexplore.ieee.org/document/6477053">
   <front>
     <title>IEEE Standard Reliability Program for the Development and Production of Electronic Products</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6477053"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2013" month="March" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>Product development</keyword>
-    <keyword>electronic equipment</keyword>
-    <keyword>electronic systems</keyword>
-    <keyword>electronics</keyword>
-    <keyword>IEEE 1332</keyword>
-    <keyword>reliability</keyword>
-    <keyword>reliability program</keyword>
-    <keyword>reliability program standard</keyword>
     <abstract>A standard set of reliability program objectives for use between customers and producers, or within product development teams, to express reliability program requirements early in the development phase of electronic products and systems is provided in this document.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6477053"/>
 </reference>

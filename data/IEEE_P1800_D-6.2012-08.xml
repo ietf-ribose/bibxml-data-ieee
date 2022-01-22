@@ -11,22 +11,6 @@
       </address>
     </author>
     <date year="2012" month="September" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>Hardware design languages</keyword>
-    <keyword>Programming</keyword>
-    <keyword>Computer interfaces</keyword>
-    <keyword>assertions</keyword>
-    <keyword>design automation</keyword>
-    <keyword>design verification</keyword>
-    <keyword>hardware description language</keyword>
-    <keyword>HDL</keyword>
-    <keyword>HDVL</keyword>
-    <keyword>PLI</keyword>
-    <keyword>programming language interface</keyword>
-    <keyword>SystemVerilog</keyword>
-    <keyword>Verilog</keyword>
-    <keyword>VPI</keyword>
     <abstract>This standard represents a merger of two previous standards: IEEE Std 1364-2005 Verilog hardware description language (HDL) and IEEE Std 1800-2005 SystemVerilog unifiedhardware design, specification, and verification language. The 2005 SystemVerilog standard defines extensions to the 2005 Verilog standard. These two standards were designed to be usedas one language. Merging the base Verilog language and the SystemVerilog extensions into a single standard provides users with all information regarding syntax and semantics in a singledocument.</abstract>
   </front>
 </reference>

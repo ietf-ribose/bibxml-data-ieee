@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C37-46.2000" target="https://ieeexplore.ieee.org/document/4014506">
   <front>
     <title>Amerian National Standard for High Voltage Expulsion and Current-Limiting Type Power Class Fuses and Fuse Disconnecting Switches</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.248161"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,7 +11,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="12"/>
-    <keyword>IEEE C37.46</keyword>
     <abstract>This standard establishes specifications for high voltage (above 1000 volts) expulsion and current-limiting type power class fuses, and accessories. All of these devices are intended for use on alternating current systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.248161"/>
 </reference>

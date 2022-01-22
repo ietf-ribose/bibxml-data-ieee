@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-24.1986" target="https://ieeexplore.ieee.org/document/1106069">
   <front>
     <title>IEEE Guide for Evaluating the Effect of Solar Radiation on Outdoor Metal-Enclosed Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.94152"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
       </address>
     </author>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.94152"/>
 </reference>

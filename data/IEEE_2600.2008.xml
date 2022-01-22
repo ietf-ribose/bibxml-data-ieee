@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2600.2008" target="https://ieeexplore.ieee.org/document/4556653">
   <front>
     <title>IEEE Standard for Information Technology: Hardcopy Device and System Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4556653"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="14"/>
-    <keyword>2600-2008</keyword>
-    <keyword>all-in-one</keyword>
-    <keyword>copier</keyword>
-    <keyword>facsimile</keyword>
-    <keyword>fax</keyword>
-    <keyword>hardcopy device</keyword>
-    <keyword>HCD</keyword>
-    <keyword>information security</keyword>
-    <keyword>MFD</keyword>
-    <keyword>MFP</keyword>
-    <keyword>multifunction device</keyword>
-    <keyword>multifunction product</keyword>
-    <keyword>printer</keyword>
-    <keyword>scanner</keyword>
     <abstract>This standard defines security requirements (all aspects of security including but not limited to authentication, authorization, privacy, integrity, device management, physical security and information security) for manufacturers, users, and others on the selection, installation, configuration and usage of hardcopy devices (HCDs) and systems; including printers, copiers, and multifunction devices (MFDs). This standard identifies security exposures for these HCDs and systems, and instructs manufacturers and software developers on appropriate security capabilities to include in their devices and systems, and instructs users on appropriate ways to use these security capabilities.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4556653"/>
 </reference>

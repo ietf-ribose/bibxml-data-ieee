@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1328-1.1993" target="https://ieeexplore.ieee.org/document/286095">
   <front>
     <title>IEEE Standard for Information Technology--Test Methods for Measuring Conformance to X.400 Based Electronic Messaging C Language Interfaces--Binding for Application Program Interfaces (API)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119663"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>C languages</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Electronic messaging</keyword>
-    <keyword>IEEE Sections</keyword>
-    <keyword>Test methods</keyword>
-    <keyword>Language binding</keyword>
-    <keyword>C language</keyword>
-    <keyword>Application program interface</keyword>
-    <keyword>API</keyword>
     <abstract>Withdrawn Standard. Withdrawn Date: Mar 06, 2000. This standard defines test methods that may be used to test conformance to IEEE Std 1327.1-1993, which is a C language binding for IEEE STD 1224.1-1993, IEEE Standard for Information Technology--X.400-Based Electronic Messaging--Application Program Interface (API) [Language Independent].</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119663"/>
 </reference>

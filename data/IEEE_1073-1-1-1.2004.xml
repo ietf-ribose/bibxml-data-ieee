@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1073-1-1-1.2004" target="https://ieeexplore.ieee.org/document/7867920">
   <front>
     <title>IEEE Standard for Health Informatics - Point-of-care medical device communication - Part 10101: Nomenclature</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.7867920"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2017" month="March" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Semantics</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Ontologies</keyword>
-    <keyword>Informatics</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>codes</keyword>
-    <keyword>information model</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>nomenclature</keyword>
-    <keyword>ontology</keyword>
-    <keyword>patient</keyword>
-    <keyword>point-of-care</keyword>
-    <keyword>POC</keyword>
-    <keyword>semantics</keyword>
-    <keyword>service model terminology</keyword>
     <abstract>Replaced by ISO/IEEE 11073-10101-2004. Within the context of the ISO/IEEE 11073 family of standards for point-of-care (POC) medical device communication (MCD), this standard provides the nomenclature that supports both the domain information model and service model components of the standards family, as well as the semantic content exchanged with medical devices. The nomenclature is specialized for patient vital signs information representation and medical device informatics, with major areas including concepts for electrocardiograph (ECG), haemodynamics, respiration, blood gas, urine, fluid-related metrics, and neurology, as well as specialized units of measurement, general device events, alarms, and body sites. The standard defines both the architecture and major components of the nomenclature, along with extensive definitions for each conceptual area.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.7867920"/>
 </reference>

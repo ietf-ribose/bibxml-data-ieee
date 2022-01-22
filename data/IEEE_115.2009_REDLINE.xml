@@ -1,7 +1,6 @@
 <reference anchor="IEEE.115.2009.Redline" target="https://ieeexplore.ieee.org/document/5953453">
   <front>
     <title>IEEE Guide for Test Procedures for Synchronous Machines Part I&amp;#8212;Acceptance and Performance Testing Part II&amp;#8212;Test Procedures and Parameter Determination for Dynamic Analysis</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953453"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2013" month="July" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Synchronous machines</keyword>
-    <keyword>Reluctance machines</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>acceptance and performance testing</keyword>
-    <keyword>dynamic analysis</keyword>
-    <keyword>parameter determination</keyword>
-    <keyword>synchronous machines</keyword>
     <abstract>Instructions for conducting generally applicable and accepted tests to determine the performance characteristics of synchronous machines are contained in this guide. Although the tests described are applicable in general to synchronous generators, synchronous motors (larger than fractional horsepower), synchronous condensers, and synchronous frequency changers, the descriptions make reference primarily to synchronous generators and synchronous motors.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953453"/>
 </reference>

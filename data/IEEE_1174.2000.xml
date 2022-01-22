@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1174.2000" target="https://ieeexplore.ieee.org/document/903083">
   <front>
     <title>IEEE Standard Serial Interface for Programmable Instrumentation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92336"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2020" month="May" day="8"/>
-    <keyword>controller</keyword>
-    <keyword>data communication equipment (DCE)</keyword>
-    <keyword>data terminal equipment (DTE)</keyword>
-    <keyword>device</keyword>
-    <keyword>IEEE 488.1</keyword>
-    <keyword>IEEE 488.2</keyword>
-    <keyword>interchange circuit</keyword>
-    <keyword>null modem cable</keyword>
-    <keyword>observation</keyword>
-    <keyword>permission</keyword>
-    <keyword>recommendation</keyword>
-    <keyword>rule</keyword>
     <abstract>A serial, full-duplex, asynchronous, 9-pin data terminal equipment (DTE) communications port for programmable instrumentation that follows ANSI/TIA/EIA-574-1990 and related standards is defined in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92336"/>
 </reference>

@@ -11,14 +11,6 @@
       </address>
     </author>
     <date year="2018" month="July" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Biomedical monitoring</keyword>
-    <keyword>Blood pressure</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>blood pressure monitor</keyword>
-    <keyword>IEEE 11073-10407</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of communication between personal telehealth blood pressure monitor devices and compute engines (e.g., cell phones, personal computers, personal health appliances, and set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth blood pressure monitors.</abstract>
   </front>
 </reference>

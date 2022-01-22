@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-12c.1998" target="https://ieeexplore.ieee.org/document/750015">
   <front>
     <title>Supplement to Information Technology--Local and metropolitan area networks--Specific requirements--Part 12: Demad-priority access method, physical layer and repeater specifications: Full-Duplex Operation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89202"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="31"/>
-    <keyword>Local area networks</keyword>
-    <keyword>burst mode</keyword>
-    <keyword>demand-priority access method</keyword>
-    <keyword>direct connect</keyword>
-    <keyword>flow control</keyword>
-    <keyword>full duplex</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>MAC Control</keyword>
-    <keyword>management</keyword>
-    <keyword>media access control</keyword>
-    <keyword>repeater</keyword>
     <abstract>Standard withdrawn 14 January 2001. Optional MAC capabilities are defined to allow direct link connection between two end nodes with provision for both half-duplex and full-duplex operation; burst-mode packet transmission from an end node to a repeater where the end node may send one or more packets each time it is granted permission to transmit; and implementation of the MAC Control sublayer to allow the exchange of control requests between peer MAC entities across the network when in ISO/IEC 8802-3 compatibility mode. Full interoperability is maintained with existing ISO/IEC 8802-12 products.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.89202"/>
 </reference>

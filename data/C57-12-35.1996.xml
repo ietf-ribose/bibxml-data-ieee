@@ -1,13 +1,11 @@
 <reference anchor="IEEE.C57-12-35.1996" target="https://ieeexplore.ieee.org/document/8684750">
   <front>
     <title>IEEE Standard for Bar Coding for Distribution Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684750"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>distribution transformers</keyword>
-    <keyword>bar coding</keyword>
     <abstract>This IEEE Standards product is part of the C57 family on Power Distribution and Regulating Transformers. This standard sets forth bar code label requirements for overhead, padmounted, and underground-type distribution transformers. Included herein are requirements for data content, symbology, label layout, print quality, and label life expectancy.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684750"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-19-01.2000" target="https://ieeexplore.ieee.org/document/836386">
   <front>
     <title>IEEE Standard Performance Characteristics and Dimensions for Outdoor Apparatus Bushings</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91306"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2018" month="July" day="13"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>basic impulse insulation levels (BILs)</keyword>
-    <keyword>cantilever test</keyword>
-    <keyword>capacitance</keyword>
-    <keyword>creepage distance</keyword>
-    <keyword>flashover</keyword>
-    <keyword>line-to-ground voltage</keyword>
-    <keyword>nominal system voltage</keyword>
-    <keyword>power apparatus bushings</keyword>
-    <keyword>power factor</keyword>
     <abstract>Electrical, dimensional, and related requirements for outdoor power apparatus bushings that have basic impulse insulation levels (BILs) of 200 kV and above are covered. Specific values for dimensional and related requirements that are to be interpreted, measured, or tested, in accordance with IEEE Std C57.19.00-1991, are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91306"/>
 </reference>

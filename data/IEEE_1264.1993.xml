@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1264.1993" target="https://ieeexplore.ieee.org/document/8684408">
   <front>
     <title>IEEE Guide for Animal Deterrents for Electric Power Supply Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8684408"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>barrier</keyword>
-    <keyword>flashover</keyword>
-    <keyword>mitigation</keyword>
-    <keyword>phase-to-phase</keyword>
-    <keyword>Phase-to-phase fault</keyword>
-    <keyword>Phase-to-ground fault</keyword>
     <abstract>Methods and designs to mitigate interruptions and equipment damage resulting from animal intrusions into electric power supply substations thereby improving reliability and minimizing the associated revenue loss are addressed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8684408"/>
 </reference>

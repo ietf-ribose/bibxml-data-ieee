@@ -1,7 +1,6 @@
 <reference anchor="IEEE.896-10.1997" target="https://ieeexplore.ieee.org/document/597252">
   <front>
     <title>Standard for Futurebus+(R) Spaceborne Systems - Profile S</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82456"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="26"/>
-    <keyword>Data buses</keyword>
-    <keyword>bus architecture</keyword>
-    <keyword>futurebus +</keyword>
-    <keyword>spaceborne computers</keyword>
-    <keyword>spaceborne modules</keyword>
-    <keyword>spaceborne systems</keyword>
     <abstract>In the Futurebus+® series of standards, tools with which high-performance bus-based systems may be developed are provided. This architecture provides a wide range of performance scalability over both cost and time for multiple generations of single- and multiple-bus multiprocessor systems. This document, a companion standard to the ISO/IEC 10857: 1994 (ANSI/IEEE Std 896.1, 1994 Edition) Futurebus+(R) Logical Layer Specification, builds on the logical layer by adding requirements for a spaceborne profile. It is to this profile that products will claim conformance. Other specifications may be required in conjunction with this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82456"/>
 </reference>

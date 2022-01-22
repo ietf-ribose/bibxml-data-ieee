@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1453-1.2012" target="https://ieeexplore.ieee.org/document/6232421">
   <front>
     <title>IEEE Guide--Adoption of IEC/TR 61000-3-7:2008, Electromagnetic compatibility (EMC)--Limits--Assessment of emission limits for the connection of fluctuating installations to MV, HV and EHV power systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6232421"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2012" month="July" day="4"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>IEC standards</keyword>
-    <keyword>Electromagnetic compatibility</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Fluctuations</keyword>
-    <keyword>adoption</keyword>
-    <keyword>fluctuating installation</keyword>
-    <keyword>IEC/TR 61000-3-7</keyword>
-    <keyword>IEEE 1453.1</keyword>
     <abstract>IEC/TR 61000-3-7:2008 is adopted by this guide. IEC 61000-3-7:2008 provides guidance on the principles that can be used as the basis for determining the requirements for the connection of fluctuating installations to MV, HV, and EHV power systems (LV installations are covered in other IEC documents). The primary objective of this guide is to provide guidance to system operators or owners on engineering practices that will facilitate adequate service quality for all connected customers. This guide provides a methodology to allocate the capacity of the system to absorb voltage fluctuations (i.e., flicker). However, it does not address how to mitigate voltage fluctuations, nor does it address how to increase the capacity of the system to absorb such disturbances. Since the procedures outlined in this guide are necessarily based on certain simplifying assumptions, the approach will not always provide an optimum solution. The recommended approach should be used with flexibility and engineering judgment, when applying the given assessment procedures in full or in part.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6232421"/>
 </reference>

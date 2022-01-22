@@ -1,7 +1,6 @@
 <reference anchor="AIEE.27A.1941" target="https://ieeexplore.ieee.org/document/7393408">
   <front>
     <title>AIEE Switchgear Assemblies</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1941.7393408"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="26"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Switching systems</keyword>
-    <keyword>Assembly</keyword>
     <abstract>These standards cover assemblies of switchgear devices such as switches, interrupting devices, control, metering, protective and regulating equipment with associated interconnections and supporting structures. These standards do not apply to industrial control equipment, communication switchboards and switching equipment, or switchboards for shipboard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1941.7393408"/>
 </reference>

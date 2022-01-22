@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1459.2000" target="https://ieeexplore.ieee.org/document/985671">
   <front>
     <title>IEEE Standard Definitions for the Measurement of Electric Power Quantities under Sinusoidal, Non-Sinusoidal, Balanced, or Unbalanced Conditions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.93398"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Reactive power</keyword>
-    <keyword>Distortion</keyword>
-    <keyword>Harmonic analysis</keyword>
-    <keyword>Instruments</keyword>
-    <keyword>Power system harmonics</keyword>
-    <keyword>active power</keyword>
-    <keyword>apparent power</keyword>
-    <keyword>nonactive power</keyword>
-    <keyword>power factor</keyword>
-    <keyword>reactive power</keyword>
-    <keyword>total harmonic distortion</keyword>
     <abstract>This is a standard for definitions used for measurement of electric power quantities under sinusoidal, non-sinusoidal, balanced, or unbalanced conditions. It lists the mathematical expressions that were used in the past, as well as new expressions, and explains the features of the new definitions.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.93398"/>
 </reference>

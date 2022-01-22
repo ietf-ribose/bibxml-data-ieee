@@ -11,20 +11,6 @@
       </address>
     </author>
     <date year="2021" month="February" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Management</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Security</keyword>
-    <keyword>Data processing</keyword>
-    <keyword>fragmentation</keyword>
-    <keyword>IE</keyword>
-    <keyword>IEEE 802.15.9&amp;#8482;</keyword>
-    <keyword>information element</keyword>
-    <keyword>key management protocol</keyword>
-    <keyword>KMP</keyword>
-    <keyword>multiplexed data service</keyword>
-    <keyword>security</keyword>
-    <keyword>EtherType</keyword>
     <abstract>This standard defines a message exchange framework based on information elements as a transport method for key management protocol (KMP) datagrams and guidelines for the use of some existing KMPs with IEEE Std 802.15.4™. A new KMP is not created in this standard. In support of KMP transmission and reception, a generic multiplexed data service layer that can be used to transmit large packets from the upper KMP to another peer and that provides for protocol discrimination is also provided in this standard. The multiplexed data service provides a fragmentation and multiplexing layer for those packets so they can be delivered over smaller MAC layer frames and multiplexed on the recipient end to the right processing service. The multiplexing provides for EtherType protocol discrimination.</abstract>
   </front>
 </reference>

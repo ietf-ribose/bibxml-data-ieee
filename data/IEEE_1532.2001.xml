@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1532.2001" target="https://ieeexplore.ieee.org/document/8684966">
   <front>
     <title>IEEE Standard for In-System Configuration of Programmable Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.8684966"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="8"/>
-    <keyword>complex programmable logic device (CPLD)</keyword>
-    <keyword>erasable programmable read-only memory (EPROM)</keyword>
-    <keyword>field programmable gate array (FPGA)</keyword>
-    <keyword>flash ram</keyword>
-    <keyword>in-system (or In-Situ) configuration (ISC)</keyword>
-    <keyword>in-system programming (ISP)</keyword>
-    <keyword>programmable device</keyword>
     <abstract>The communication protocol described by IEEE Std 1149.1 TM -2001 (Standard Test Access Port and Boundary-Scan Architecture) has been adopted by this standard for providing standardized programming access and methodology for programmable integrated circuit devices.Devices that implement this standard will first be compliant with IEEE Std 1149.1-2001, which isused for testing purposes. A device, or set of devices, implementing this standard can be pro-grammed (written), read back, erased, and verified, singly or concurrently, with a standardized setof resources. Sample implementation and application details (which are not part of this standard)are included for illustrative purposes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.8684966"/>
 </reference>

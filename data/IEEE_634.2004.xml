@@ -1,7 +1,6 @@
 <reference anchor="IEEE.634.2004" target="https://ieeexplore.ieee.org/document/1438745">
   <front>
     <title>IEEE Standard for Cable-Penetration Fire Stop Qualification Test</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96097"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,25 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="29"/>
-    <keyword>Standards</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Resistance</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Qualifications</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Seals</keyword>
-    <keyword>cable-penetration</keyword>
-    <keyword>fire-resistant</keyword>
-    <keyword>fire-resistive barrier</keyword>
-    <keyword>fire stop</keyword>
-    <keyword>fire test</keyword>
-    <keyword>fire test facilities</keyword>
-    <keyword>fire test procedure</keyword>
-    <keyword>F-rating</keyword>
-    <keyword>penetration seal</keyword>
-    <keyword>thermocouple</keyword>
-    <keyword>time-temperature curve</keyword>
-    <keyword>Trating</keyword>
     <abstract>This standard is applicable to fire stops of various materials and construction. Cable-penetration fire stops are intended for use in fire-resistive barriers. Tests conducted in conformance with this standard will record the performance of fire stops during the test exposure. The resistance of a fire stop to an external force imposed by a hose stream or water spray will also be considered in this standard. The intent of this standard is to develop data to assist in determining the suitability of a fire stop for use where fire resistance is required.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96097"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.337.1972" target="https://ieeexplore.ieee.org/document/18428">
   <front>
     <title>IEEE Standard Specification Format Guide and Test Procedure for Linear, Single-Axis, Pendulous, Analog Torque Balance Accelerometer</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.118969"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="20"/>
-    <keyword>Acceleration measurement</keyword>
-    <keyword>Electronic equipment testing</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Manufacturing testing</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>accelerometer</keyword>
-    <keyword>single-axis</keyword>
-    <keyword>analog</keyword>
-    <keyword>torque</keyword>
-    <keyword>balance</keyword>
-    <keyword>Acceleration measurement</keyword>
     <abstract>This specification defines the requirements for a linear, single-axis, pendulous, analog torque balance accelerometer. The instrument is equipped with a permanent magnet torquer and is used as a sensing element to provide an electrical signal proportional to acceleration. The torque balance electronics are not considered to be part of the instrument.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.118969"/>
 </reference>

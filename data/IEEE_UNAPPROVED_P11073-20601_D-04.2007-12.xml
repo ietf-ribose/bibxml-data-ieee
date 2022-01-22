@@ -9,8 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Personal Health Devices</keyword>
-    <keyword>Medical Device Communication</keyword>
     <abstract>"Within the context of the ISO/IEEE 11073 family of standards for device communication, this project defines a common framework for making an abstract model of personal health data available in transport independent transfer syntax required to establish logical connections between systems, provide presentation capabilities and services needed to perform communication tasks. The protocol is optimized to personal health usage requirements and leverages commonly-used methods and tools wherever possible.</abstract>
   </front>
 </reference>

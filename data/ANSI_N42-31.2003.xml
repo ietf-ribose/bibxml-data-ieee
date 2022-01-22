@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-31.2003" target="https://ieeexplore.ieee.org/document/1265821">
   <front>
     <title>American National Standard for Measurement Procedures for Resolution and Efficiency of Wide-Bandgap Semiconductor Detectors of Ionizing Radiation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94425"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Semiconductor device measurement</keyword>
-    <keyword>Semiconductor detectors</keyword>
-    <keyword>Ionizing radiation</keyword>
-    <keyword>Radiation measurements</keyword>
-    <keyword>cadmium telluride</keyword>
-    <keyword>cadmium zinc telluride</keyword>
-    <keyword>CdTe</keyword>
-    <keyword>charged particle</keyword>
-    <keyword>CZT</keyword>
-    <keyword>electron-hole pair</keyword>
-    <keyword>gamma rays</keyword>
-    <keyword>HgI</keyword>
-    <keyword>ionizing radiation</keyword>
-    <keyword>ion pair</keyword>
-    <keyword>MCA</keyword>
-    <keyword>mercuric iodide</keyword>
-    <keyword>multichannel analyzer</keyword>
-    <keyword>semiconductor detector</keyword>
-    <keyword>X-ray</keyword>
     <abstract>Standard measurement and test procedures are established for wide-bandgap semiconductor detectors such as cadmium telluride (CdTe), cadmium-zinc-telluride (CdZnTe), and mercuric iodide (HgI2) that can be used at room temperature for the detection and quantitative characterization of gamma-rays, X-rays, and charged particles. Standard terminology and descriptions of the principal features of the detectors are included. Included in this standard is an annex on interfering electromagnetic noise, which is a factor in such measurements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94425"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.42020.2019" target="https://ieeexplore.ieee.org/document/8767004">
   <front>
     <title>ISO/IEC/IEEE International Standard - Software, systems and enterprise -- Architecture processes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8767004"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,38 +11,7 @@
       </address>
     </author>
     <date year="2019" month="July" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Software architecture</keyword>
-    <keyword>Product life cycle management</keyword>
-    <keyword>architecture</keyword>
-    <keyword>architecture collection</keyword>
-    <keyword>architecture entity</keyword>
-    <keyword>architecture conceptualization</keyword>
-    <keyword>architecture elaboration</keyword>
-    <keyword>architecture enablement</keyword>
-    <keyword>architecture evaluation</keyword>
-    <keyword>architecture governance</keyword>
-    <keyword>architecture management</keyword>
-    <keyword>concern</keyword>
-    <keyword>design</keyword>
-    <keyword>enterprise</keyword>
-    <keyword>life cycle</keyword>
-    <keyword>life cycle model</keyword>
-    <keyword>model</keyword>
-    <keyword>outcomes</keyword>
-    <keyword>phase</keyword>
-    <keyword>process reference model</keyword>
-    <keyword>process tailoring</keyword>
-    <keyword>stage</keyword>
-    <keyword>stakeholder</keyword>
-    <keyword>system</keyword>
-    <keyword>software</keyword>
-    <keyword>tradeoff</keyword>
-    <keyword>view</keyword>
-    <keyword>viewpoint</keyword>
     <abstract>This document complements the architecture-related processes identified in ISO/IEC/IEEE 15288, ISO/IEC/IEEE 12207 and ISO 15704 with activities and tasks that enable architects and others to more effectively and efficiently implement architecture practices. Implementing these practices can help ensure that the architecture has greater influence on business and mission success. It specifies a coherent set of processes for governance, management, conceptualization, evaluation and elaboration of architectures, and activities that enable these processes. Users of this document can apply these processes in the context of: (1) understanding, development and evolution of entities through their life cycle stages such as conception, development, implementation, operation, sustainment, decommissioning, and disposal; (2) organization(s) acting as users, customers and providers of the solution specified by the architecture description; and (3) architecting of entities.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8767004"/>
 </reference>

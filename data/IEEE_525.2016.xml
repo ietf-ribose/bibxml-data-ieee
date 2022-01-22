@@ -1,7 +1,6 @@
 <reference anchor="IEEE.525.2016" target="https://ieeexplore.ieee.org/document/7747734">
   <front>
     <title>IEEE Guide for the Design and Installation of Cable Systems in Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7747734"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,30 +10,7 @@
       </address>
     </author>
     <date year="2016" month="November" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Optical fiber communication</keyword>
-    <keyword>acceptance testing</keyword>
-    <keyword>cable</keyword>
-    <keyword>cable installation</keyword>
-    <keyword>cable selection</keyword>
-    <keyword>communication cable</keyword>
-    <keyword>electrical segregation</keyword>
-    <keyword>fiber-optic cable</keyword>
-    <keyword>handling</keyword>
-    <keyword>IEEE 525&amp;#8482;</keyword>
-    <keyword>power cable</keyword>
-    <keyword>pulling tension</keyword>
-    <keyword>raceway</keyword>
-    <keyword>recommended maintenance</keyword>
-    <keyword>routing</keyword>
-    <keyword>separation of redundant cable</keyword>
-    <keyword>service conditions</keyword>
-    <keyword>substation</keyword>
-    <keyword>transient protection</keyword>
     <abstract>The design, installation, and protection of wire and cable systems in substations are covered in this guide, with the objective of minimizing cable failures and their consequences.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7747734"/>
 </reference>

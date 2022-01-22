@@ -1,7 +1,6 @@
 <reference anchor="IEEE.386.2016" target="https://ieeexplore.ieee.org/document/7592838">
   <front>
     <title>IEEE Standard for Separable Insulated Connector Systems for Power Distribution Systems Rated 2.5 kV through 35 kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7592838"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2016" month="October" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Load management</keyword>
-    <keyword>Power distribution planning</keyword>
-    <keyword>Insulated connector systems</keyword>
-    <keyword>Elbow connectors</keyword>
-    <keyword>deadbreak connector</keyword>
-    <keyword>elbow connector</keyword>
-    <keyword>IEEE 386(TM)</keyword>
-    <keyword>loadbreak connector</keyword>
-    <keyword>power distribution systems</keyword>
-    <keyword>separable conductor</keyword>
-    <keyword>separable insulated connector systems</keyword>
     <abstract>Definitions, service conditions, ratings, interchangeable construction features, and tests are established for loadbreak and deadbreak separable insulated connector systems for use on power distribution systems rated 2.5 kV through 35 kV and 900 A or less.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7592838"/>
 </reference>

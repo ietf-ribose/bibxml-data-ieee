@@ -11,17 +11,6 @@
       </address>
     </author>
     <date year="2020" month="May" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Software agents</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Cyber-physical systems</keyword>
-    <keyword>Best practices</keyword>
-    <keyword>cyber-physical systems</keyword>
-    <keyword>IEEE 2660.1&amp;#8482;</keyword>
-    <keyword>industrial agents</keyword>
-    <keyword>industrial automation</keyword>
-    <keyword>intelligent agents</keyword>
-    <keyword>multi-agent system</keyword>
     <abstract>The recommended practices to solve the interface problem when applying industrial agents, namely, integrating intelligent software agents with low-level automation devices in the context of cyber-physical systems, are described in this recommended practice. In particular, a method to select the best interfacing practice for a given application scenario, defined by the user, from a set of available interfacing templates and technologies, aiming to improve reuse, consistency, and transparency in the integration of industrial agents and low-level control functions, is defined.</abstract>
   </front>
 </reference>

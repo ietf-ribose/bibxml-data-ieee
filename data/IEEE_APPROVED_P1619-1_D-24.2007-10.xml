@@ -9,18 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>authentication</keyword>
-    <keyword>data storage</keyword>
-    <keyword>CBC</keyword>
-    <keyword>CCM</keyword>
-    <keyword>cryptography</keyword>
-    <keyword>encryption</keyword>
-    <keyword>GCM</keyword>
-    <keyword>HMAC</keyword>
-    <keyword>security</keyword>
-    <keyword>tape drive</keyword>
-    <keyword>variable-length block</keyword>
-    <keyword>XTS</keyword>
     <abstract>This standard specifies cryptographic and data authentication procedures for storage devices that support length-expansion, such as tape drives. Such procedures include the following cryptographic modes of operation for the AES block cipher: CCM, GCM, CBC-HMAC, and XTS-HMAC.</abstract>
   </front>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.259.1965" target="https://ieeexplore.ieee.org/document/8684344">
   <front>
     <title>IEEE Proposed Test Procedure for Evaluation of Systems of Insulation for Specialty Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1964.8684344"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1964.8684344"/>
 </reference>

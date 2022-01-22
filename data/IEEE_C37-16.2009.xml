@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-16.2009" target="https://ieeexplore.ieee.org/document/5983365">
   <front>
     <title>IEEE Standard for Preferred Ratings,Related Requirements, and Application Recommendations for Low-Voltage AC (635 V and below)and DC (3200 V and below) Power Circuit Breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5983365"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Low voltage</keyword>
-    <keyword>AC motors</keyword>
-    <keyword>DC motors</keyword>
-    <keyword>C37.16-2009</keyword>
-    <keyword>dc power circuit breaker; integrally fused low-voltage ac power circuit breaker; lowvoltage; non-integrally fused low-voltage ac power circuit breaker; power circuit breaker</keyword>
     <abstract>This standard defines the preferred ratings for low-voltage AC (635 V and below) power circuit breakers, general purpose DC (325 V and below) power circuit breakers, heavy duty low voltage DC (3200 V and below) power circuit breakers, and fused (integrally or non-integrally) low voltage AC (600 V and below) power circuit breakers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5983365"/>
 </reference>

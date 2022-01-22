@@ -1,7 +1,6 @@
 <reference anchor="IEEE.191.1953" target="https://ieeexplore.ieee.org/document/7369923">
   <front>
     <title>IEEE Standard on Sound Recording and Reproducing Methods of Measurement of Noise</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1953.7369923"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2015" month="December" day="31"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Audio systems</keyword>
-    <keyword>Audio recording</keyword>
-    <keyword>Measurements</keyword>
-    <keyword>Noise measurements</keyword>
     <abstract>Noise is a limiting factor in any system which stores information because it limits the signal-to-noise ratio and hence the total quantity of stored data. This applies in the field of sound recording and reproducing, as well as in any information storage system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1953.7369923"/>
 </reference>

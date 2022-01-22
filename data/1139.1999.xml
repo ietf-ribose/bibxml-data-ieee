@@ -1,26 +1,11 @@
 <reference anchor="IEEE.1139.1999" target="https://ieeexplore.ieee.org/document/807679">
   <front>
     <title>IEEE Standard Definitions of Physical Quantities for Fundamental Frequency and Time Metrology-Random Instabilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90575"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April" day="24"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>AM noise</keyword>
-    <keyword>amplitude instability</keyword>
-    <keyword>FM noise</keyword>
-    <keyword>frequency domain</keyword>
-    <keyword>frequency instability</keyword>
-    <keyword>frequency metrology</keyword>
-    <keyword>frequency modulation</keyword>
-    <keyword>noise</keyword>
-    <keyword>phase instability</keyword>
-    <keyword>phase modulation</keyword>
-    <keyword>phase noise</keyword>
-    <keyword>PM noise</keyword>
-    <keyword>time domain</keyword>
-    <keyword>time metrology</keyword>
     <abstract>Methods of describing random instabilities of importance to frequency and time metrology is covered in this standard. Quantities covered include frequency, amplitude, and phase instabilities; spectral densities of frequency, amplitude, and phase fluctuations; and time-domain variances of frequency fluctuations. In addition, recommendations are made for the reporting of measurements of frequency, amplitude and phase instabilities, especially as regards the recording of experimental parameters, experimental conditions, and calculation techniques.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90575"/>
 </reference>

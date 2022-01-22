@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1309.2013" target="https://ieeexplore.ieee.org/document/6673999">
   <front>
     <title>IEEE Standard for Calibration of Electromagnetic Field Sensors and Probes (Excluding Antennas) from 9 kHz to 40 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6673999"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,24 +10,7 @@
       </address>
     </author>
     <date year="2013" month="November" day="22"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Calibration</keyword>
-    <keyword>Electromagnetic fields</keyword>
-    <keyword>Sensors</keyword>
-    <keyword>Probes</keyword>
-    <keyword>Antenna measurements</keyword>
-    <keyword>calibration</keyword>
-    <keyword>electric field measurement</keyword>
-    <keyword>electromagnetic</keyword>
-    <keyword>field probe</keyword>
-    <keyword>field sensor</keyword>
-    <keyword>instrumentation calibration</keyword>
-    <keyword>electric field measurement</keyword>
-    <keyword>electromagnetic</keyword>
-    <keyword>field probe</keyword>
-    <keyword>field sensor</keyword>
-    <keyword>IEEE 1309(TM)</keyword>
-    <keyword>instrumentation measurement uncertainty</keyword>
     <abstract>Consensus calibration methods for electromagnetic (EM) field sensors and probes are provided. Data recording and reporting requirements are given, and methods for estimating measurement uncertainty are specified.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6673999"/>
 </reference>

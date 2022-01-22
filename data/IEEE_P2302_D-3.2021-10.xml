@@ -11,24 +11,6 @@
       </address>
     </author>
     <date year="2021" month="October" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Cloud computing</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>Collaborative work</keyword>
-    <keyword>Distributed computing</keyword>
-    <keyword>Computer security</keyword>
-    <keyword>Computer architecture</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Cloud</keyword>
-    <keyword>Federation</keyword>
-    <keyword>Distributed Computing</keyword>
-    <keyword>Cloud Security</keyword>
-    <keyword>Peer to Peer</keyword>
-    <keyword>Identity</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>Network Topology</keyword>
-    <keyword>Cloud Architecture</keyword>
-    <keyword>Information Sharing</keyword>
     <abstract>This standard defines a functional model for federation based on the NIST Cloud Federation Reference Architecture. This model allows a range of deployment topologies and governance. As a general federation model, it can be applied to many application domains using different implementation approaches. As such, it includes cloud-to-cloud federation and interoperability.</abstract>
   </front>
 </reference>

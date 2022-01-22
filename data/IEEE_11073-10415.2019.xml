@@ -1,7 +1,6 @@
 <reference anchor="IEEE.11073-10415.2019" target="https://ieeexplore.ieee.org/document/8939568">
   <front>
     <title>IEEE Standard - Health informatics--Personal health device communication Part 10415: Device specialization--Weighing scale</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8939568"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,6 @@
       </address>
     </author>
     <date year="2019" month="December" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Biomedical monitoring</keyword>
-    <keyword>Communications technology</keyword>
-    <keyword>Weight control</keyword>
-    <keyword>IEEE 11073-10415(TM)</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
-    <keyword>weighing scale</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8939568"/>
 </reference>

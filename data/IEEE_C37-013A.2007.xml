@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-013a.2007" target="https://ieeexplore.ieee.org/document/4231361">
   <front>
     <title>IEEE Standard for AC High Voltage Generator Circuit Breakers Rated on a Symmetrical Current Basis - Amendment 1: Supplement for Use with Generators Rated 10-100 MVA</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.371039"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2016" month="June" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>AC machines</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Current distribution</keyword>
-    <keyword>circuit breaker</keyword>
-    <keyword>generator</keyword>
-    <keyword>generator circuit breaker</keyword>
-    <keyword>high voltage</keyword>
-    <keyword>transformer</keyword>
     <abstract>This amendment includes special requirements better suited for generator circuit breakers used to protect smaller generators rated between 10 MVA and 50 MVA and between 50 MVA and 100 MVA. It is important because the existing standards for typical distribution circuit breakers specifically exclude generator circuit breakers from the scope.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.371039"/>
 </reference>

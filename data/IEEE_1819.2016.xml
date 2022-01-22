@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1819.2016" target="https://ieeexplore.ieee.org/document/7926487">
   <front>
     <title>IEEE Standard for Risk-Informed Categorization and Treatment of Electrical and Electronic Equipment at Nuclear Power Generating Stations and Other Nuclear Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7926487"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2017" month="May" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Risk management</keyword>
-    <keyword>Electrical equipment</keyword>
-    <keyword>Classification</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Electronic components</keyword>
-    <keyword>categorization</keyword>
-    <keyword>treatment</keyword>
-    <keyword>safety significance</keyword>
-    <keyword>risk-informed</keyword>
     <abstract>This standard addresses the following: Risk-informed methods have been established to appropriately categorize components as either safety significant or low safety significant. Application of these methods has been shown to be safety-beneficial for existing nuclear power generating stations and nuclear facilities. No standardized approach currently exists for the detailed application of these methods to electrical and electronic components. The results of the categorization process are not easily integrated with traditional Class 1E/non-Class 1E classifications or the resulting treatment for these components. This standard provides methods to categorize electrical and electronic components using a risk-informed process and identifies how the categorization results relate to Class 1E/non-Class 1E classifications. This standard also provides a standardized and accepted method for alternate treatment of categorized components commensurate with their safety significance.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7926487"/>
 </reference>

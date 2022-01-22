@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1284.1994" target="https://ieeexplore.ieee.org/document/8684588">
   <front>
     <title>IEEE Standard Signaling Method for a Bidirectional Parallel Peripheral Interface for Personal Computers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8684588"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>bidirectional parallel</keyword>
-    <keyword>computers</keyword>
-    <keyword>interfaces</keyword>
-    <keyword>PCs</keyword>
-    <keyword>personal computers</keyword>
-    <keyword>printers</keyword>
     <abstract>Superseded by IEEE Std 1284, 2000 Edition A signaling method for asynchronous, fully interlocked, bidirectional parallel communications between hosts and printers or other peripherals is defined. A format for a peripheral identification string and a method of returning this string to the host outside of the bidirectional data stream is also specified.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8684588"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-116.2014" target="https://ieeexplore.ieee.org/document/6818985">
   <front>
     <title>IEEE Guide for Transformers Directly Connected to Generators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6818985"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,24 +10,7 @@
       </address>
     </author>
     <date year="2014" month="May" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Feedback</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Load management</keyword>
-    <keyword>back-feed</keyword>
-    <keyword>electrical parameters</keyword>
-    <keyword>generator bus</keyword>
-    <keyword>IEEE C57.116(TM)</keyword>
-    <keyword>load tap changing</keyword>
-    <keyword>overcurrent</keyword>
-    <keyword>overexcitation</keyword>
-    <keyword>transformer connections</keyword>
-    <keyword>transmission system</keyword>
-    <keyword>unit auxiliaries</keyword>
-    <keyword>unit power transformer</keyword>
     <abstract>Information on the selection and application considerations for the unit power transformer and unit auxiliaries power transformer is provided in this guide. Consideration is given to connections that include direct connection and connections through generator circuit breakers and load-break switches. The considerations referred to in this guide apply to hydroelectric and thermal electric generating stations. Various power transformer connections and possibleoperating problems under normal and abnormal conditions are treated. Phasing procedures, basic impulse insulation level selection, and loading practices are not covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6818985"/>
 </reference>

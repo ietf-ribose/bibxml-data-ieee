@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C95-1a.2010" target="https://ieeexplore.ieee.org/document/5433227">
   <front>
     <title>IEEE Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz Amendment 1: Specifies Ceiling Limits for Induced and Contact Current, Clarifies Distinctions between Localized Exposure and Spatial Peak Power Density</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5433227"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="11"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electromagnetic fields</keyword>
-    <keyword>Human factors</keyword>
-    <keyword>Electrical safety</keyword>
-    <keyword>Hazards</keyword>
-    <keyword>C95.1a-2009</keyword>
-    <keyword>C95.1-2005</keyword>
-    <keyword>human exposure RF energy</keyword>
-    <keyword>localized exposure</keyword>
-    <keyword>spatial peak power density</keyword>
-    <keyword>radio frequency (RF) safety levels</keyword>
-    <keyword>RF induced and contact current</keyword>
     <abstract>Ceiling values for induced and contact current requirements are specified, and distinctions between localized exposure and spatial peak power density are clarified in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5433227"/>
 </reference>

@@ -1,19 +1,10 @@
 <reference anchor="ANSI/IEEE.820.1984" target="https://ieeexplore.ieee.org/document/576919">
   <front>
     <title>IEEE Standard Telephone Loop Performance Characteristics</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81759"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Business</keyword>
-    <keyword>telephone loop</keyword>
-    <keyword>loop performance</keyword>
-    <keyword>signaling</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81759"/>
 </reference>

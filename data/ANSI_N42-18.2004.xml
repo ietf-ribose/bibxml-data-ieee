@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-18.2004" target="https://ieeexplore.ieee.org/document/8685832">
   <front>
     <title>American National Standard Specification and Performance of On-Site Instrumentation for Continuously Monitoring Radioactivity in Effluents</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.8685832"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="9"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>Air pollution</keyword>
-    <keyword>Water pollution</keyword>
-    <keyword>Water pollution</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>Air Pollution</keyword>
     <abstract>This standard provides recommendations for the selection of instrumentation specific to the continuous monitoring and quantification of radioactivity in effluents released to the environment. The effluent streams considered may contain radioactive gases, liquids, particulates, or dissolved solids singly or in combination. This standard specifies detection capabilities, physical and operating limits, reliability, and calibration requirements and sets forth minimum performance requirements for effluent monitoring instrumentation. Unless otherwise specified, the criteria herein refer to the total system. This standard applies only to monitoring during routine operation that includes abnormal releases. Emergency situations, where additional performance capability will be required, are a matter of separate consideration.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.8685832"/>
 </reference>

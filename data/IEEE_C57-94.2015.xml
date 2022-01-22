@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-94.2015" target="https://ieeexplore.ieee.org/document/7419215">
   <front>
     <title>IEEE Recommended Practice for Installation, Application, Operation, and Maintenance of Dry-Type Distribution and Power Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7419215"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Testing</keyword>
-    <keyword>application</keyword>
-    <keyword>distribution transformers</keyword>
-    <keyword>dry-type</keyword>
-    <keyword>IEEE C57.94(TM)</keyword>
-    <keyword>installation</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>operation power transformer</keyword>
-    <keyword>testing</keyword>
     <abstract>Recommendations for operation and maintenance of dry-type distribution and power transformers are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7419215"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1609-12.2012" target="https://ieeexplore.ieee.org/document/6308691">
   <front>
     <title>IEEE Standard for Wireless Access in Vehicular Environments (WAVE) - Identifier Allocations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6308691"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2012" month="September" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Intelligent vehicles</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Identification</keyword>
-    <keyword>Telecommunication network management</keyword>
-    <keyword>IEEE 1609.12</keyword>
-    <keyword>management ID</keyword>
-    <keyword>PSID</keyword>
-    <keyword>WAVE</keyword>
     <abstract>Wireless Access in Vehicular Environments (WAVE) is specified in the IEEE 1609 family of standards, within which a number of identifiers are used. This document describes the use of these identifiers, indicates identifier values that have been allocated for use by WAVE systems, and specifies the allocation of values of identifiers specified in the WAVE standards.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6308691"/>
 </reference>

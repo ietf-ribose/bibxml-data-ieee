@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-136.2000" target="https://ieeexplore.ieee.org/document/915723">
   <front>
     <title>IEEE Guide for Sound Level Abatement and Determination for Liquid-Immersed Power Transformers and Shunt Reactors Rated Over 500 kVA</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92422"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="13"/>
-    <keyword>liquid-immersed power transformers and shunt reactors</keyword>
-    <keyword>sound</keyword>
-    <keyword>sound abatement</keyword>
-    <keyword>sound reduction methods</keyword>
     <abstract>Reaffirmed September 22, 2005. Guidelines are provided for the selection of suitable sound reduction methods in oil-immersed power transformers and shunt reactors over 500 kVA.Sound-producing sources within transformers and reactors are discussed.Sound abatement procedures are described for achieving various levels of sound reduction in transformer and shunt reactor installations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92422"/>
 </reference>

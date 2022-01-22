@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC.15288" target="https://ieeexplore.ieee.org/document/8684399">
   <front>
     <title>ISO/IEC/IEEE International Standard -- Systems Engineering -- System Life Cycle Processes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.8684399"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -13,4 +12,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.8684399"/>
 </reference>

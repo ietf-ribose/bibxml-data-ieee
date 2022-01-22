@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1613.2003" target="https://ieeexplore.ieee.org/document/1307553">
   <front>
     <title>IEEE Standard Environmental and Testing Requirements for Communications Networking Devices in Electric Power Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94568"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,32 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Communication standards</keyword>
-    <keyword>Communication equipment testing</keyword>
-    <keyword>Radio communication equipment</keyword>
-    <keyword>Communication switching</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Network servers</keyword>
-    <keyword>autodialers</keyword>
-    <keyword>bridges</keyword>
-    <keyword>communications networking device</keyword>
-    <keyword>derating</keyword>
-    <keyword>dielectric test</keyword>
-    <keyword>environmental requirements</keyword>
-    <keyword>ESD test</keyword>
-    <keyword>Ethernet hubs</keyword>
-    <keyword>fast transient test</keyword>
-    <keyword>firewalls</keyword>
-    <keyword>humidity</keyword>
-    <keyword>impulse test</keyword>
-    <keyword>insulation test</keyword>
-    <keyword>modems</keyword>
-    <keyword>RF test</keyword>
-    <keyword>routers</keyword>
-    <keyword>SWC test</keyword>
-    <keyword>switches</keyword>
     <abstract>Service conditions, electrical ratings, thermal ratings, and environmental testing requirements are defined for communications networking devices to be installed in electric power substations. This standard establishes a common reproducible basis for designing and evaluating communications networking devices for use in this harsh environment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94568"/>
 </reference>

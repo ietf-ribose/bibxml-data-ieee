@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.770X3-97.1983" target="https://ieeexplore.ieee.org/document/18485">
   <front>
     <title>IEEE Standard Pascal Computer Programming Language</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.119232"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2012" month="June" day="4"/>
-    <keyword>High-level languages</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Pascal</keyword>
-    <keyword>programming language</keyword>
-    <keyword>syntax</keyword>
-    <keyword>semantics</keyword>
-    <keyword>programming</keyword>
     <abstract>Withdrawn Standard. Withdrawn Date: Jun 18, 1992. This standard specifies the semantics and syntax of the computer programming language Pascal by specifying requirements for a processor and for a conforming program.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.119232"/>
 </reference>

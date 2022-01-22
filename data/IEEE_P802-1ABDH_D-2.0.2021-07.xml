@@ -11,20 +11,6 @@
       </address>
     </author>
     <date year="2021" month="July" day="29"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Topology</keyword>
-    <keyword>Media Access Protocols</keyword>
-    <keyword>Networked control systems</keyword>
-    <keyword>Management information base</keyword>
-    <keyword>Knowledge discovery</keyword>
-    <keyword>IEEE 802.1ABTM</keyword>
-    <keyword>link layer discovery protocol</keyword>
-    <keyword>management information base</keyword>
-    <keyword>multiframe LLDPDUs</keyword>
-    <keyword>topology discovery</keyword>
-    <keyword>topology information</keyword>
     <abstract>This amendment to IEEE Std 802.1ABTM-2016 specifies protocols, procedures and managed objects that support the transmission and reception of a set of Link Layer Discovery Protocol (LLDP) Type/Length/Values (TLVs) that exceed the space available in a single frame.</abstract>
   </front>
 </reference>

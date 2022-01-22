@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C57-12-40.2000" target="https://ieeexplore.ieee.org/document/1389292">
   <front>
     <title>American National Standard for Secondary Network Transformers Subway and Vault Types (Liquid Immersed)-Requirements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.95637"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ANSI</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Switching circuits</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Guidelines</keyword>
-    <keyword>Insulators</keyword>
-    <keyword>IEEE C57.12</keyword>
-    <keyword>IEEE C57.12.40</keyword>
     <abstract>This standard is intended for use as a basis for establishing the performance,interchangeability, and safety of the equipment covered and to assist in the proper selection of such equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.95637"/>
 </reference>

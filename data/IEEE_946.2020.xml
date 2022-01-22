@@ -1,7 +1,6 @@
 <reference anchor="IEEE.946.2020" target="https://ieeexplore.ieee.org/document/9206101">
   <front>
     <title>IEEE Recommended Practice for the Design of DC Power Systems for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9206101"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,39 +11,7 @@
       </address>
     </author>
     <date year="2020" month="September" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>DC machines</keyword>
-    <keyword>Battery chargers</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Power systems reliability</keyword>
-    <keyword>Rectifiers</keyword>
-    <keyword>Short circuits</keyword>
-    <keyword>Instrumentation</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>auxiliary</keyword>
-    <keyword>backup</keyword>
-    <keyword>battery</keyword>
-    <keyword>battery charger</keyword>
-    <keyword>charger sizing</keyword>
-    <keyword>control</keyword>
-    <keyword>cross-tie</keyword>
-    <keyword>dc</keyword>
-    <keyword>direct current</keyword>
-    <keyword>distribution</keyword>
-    <keyword>duty cycle</keyword>
-    <keyword>generating station</keyword>
-    <keyword>ground detection</keyword>
-    <keyword>IEEE 946</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>nuclear</keyword>
-    <keyword>panels</keyword>
-    <keyword>protection coordination</keyword>
-    <keyword>rectifiers</keyword>
-    <keyword>reserve</keyword>
-    <keyword>selective protection</keyword>
-    <keyword>short-circuit</keyword>
-    <keyword>substation</keyword>
-    <keyword>telecommunication</keyword>
     <abstract>Recommended practices for the design of dc power systems for stationary applications are provided in this document. The components of the dc power system addressed by this document include lead-acid and nickel-cadmium storage batteries, static battery chargers, and distribution equipment. Guidance in selecting the quantity and types of equipment, the equipment ratings, interconnections, instrumentation and protection is also provided. This recommendation is applicable for power generation, substation, and telecommunication applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9206101"/>
 </reference>

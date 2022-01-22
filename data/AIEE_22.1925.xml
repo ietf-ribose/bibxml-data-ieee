@@ -1,7 +1,6 @@
 <reference anchor="AIEE.22.1925" target="https://ieeexplore.ieee.org/document/7372368">
   <front>
     <title>AIEE Standards Disconnecting and Horn Gap Switches</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1925.7372368"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="5"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Switching systems</keyword>
-    <keyword>Horn gap switches</keyword>
     <abstract>These standards apply to all types of disconnecting and horn gap switches whether for indoor or outdoor service.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1925.7372368"/>
 </reference>

@@ -11,17 +11,6 @@
       </address>
     </author>
     <date year="2013" month="April" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Softare maintenance</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>XML</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Automated Test System (ATS)</keyword>
-    <keyword>eXtensible markup language (XML)</keyword>
-    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
-    <keyword>test results</keyword>
-    <keyword>session information</keyword>
-    <keyword>XML schema</keyword>
     <abstract>This standard is intended to promote and facilitate interoperability between components of automatic test systems where test results need to be shared. The standard thus facilitates the capture of test results data in storage devices and databases, facilitating online and offline analysis. The test results schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format utilizes the XML formats.</abstract>
   </front>
 </reference>

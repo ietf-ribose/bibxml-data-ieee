@@ -1,17 +1,11 @@
 <reference anchor="ANSI.C50-13.1977" target="https://ieeexplore.ieee.org/document/1045174">
   <front>
     <title>American National Standard Requirements for Cylindrical-Rotor Synchronous Generators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.94142"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="September" day="20"/>
-    <keyword>Standards</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Synchronous generators</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>Rotors</keyword>
-    <keyword>Synchronous generators</keyword>
     <abstract>Requirements for 60-Hz cylindrical-rotor synchronous generators, except those covered in standard C50.14-1977, are set forth. The standard covers classification, usual service conditions, rating, temperature rise, abnormal conditions, efficiency, overspeed, telephone influence factor, tests, direction of rotation, name plate marking, and performance specification forms.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.94142"/>
 </reference>

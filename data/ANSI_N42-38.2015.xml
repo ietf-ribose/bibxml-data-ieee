@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-38.2015" target="https://ieeexplore.ieee.org/document/7394937">
   <front>
     <title>American National Standard for Performance Criteria for Spectroscopy-Based Portal Monitors Used in Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7394937"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="29"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Spectrosopy</keyword>
-    <keyword>US Department of Homeland Security</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>ANSI N42.38</keyword>
-    <keyword>portal monitor</keyword>
-    <keyword>spectrometric</keyword>
-    <keyword>spectroscopy</keyword>
     <abstract>The performance requirements for spectroscopy-based portal monitors are described in this standard. The requirements stated are based on portal monitors used in support of efforts associated with the U.S. Department of Homeland Security. (The PDF of this standard is available in the IEEEGET program. "IEEE Get Program" grants public access to view and download individual PDFs of select standards at no charge. Visit http://standards.ieee.org/about/get/index.html for details.).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7394937"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-4p.2014" target="https://ieeexplore.ieee.org/document/6809836">
   <front>
     <title>IEEE Standard for local and metropolitan area networks - Part 15.4: Low-Rate Wireless Personal Area Networks (LR-WPANs) - Amendment 7: Physical Layer for Rail Communications and Control (RCC)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6809836"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,30 +10,7 @@
       </address>
     </author>
     <date year="2014" month="May" day="2"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Railway communications</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Personal area networks</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>CBTC</keyword>
-    <keyword>communications-based train control</keyword>
-    <keyword>IEEE 802.15.4p(TM)</keyword>
-    <keyword>low data rate</keyword>
-    <keyword>low power</keyword>
-    <keyword>LR-WPAN</keyword>
-    <keyword>PAN</keyword>
-    <keyword>personal area network</keyword>
-    <keyword>positive train control</keyword>
-    <keyword>PTC</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>rail communications and control</keyword>
-    <keyword>RCC</keyword>
-    <keyword>RF</keyword>
-    <keyword>wireless personal area network</keyword>
-    <keyword>WPAN</keyword>
     <abstract>This amendment to IEEE Std 802.15.4(TM)-2011 specifies a PHY for use in equipment intended to address rail transportation industry needs and to meet US positive train control (PTC) regulatory requirements and similar regulatory requirements in other parts of the world. In addition, the amendment describes only those MAC changes needed to support this PHY.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6809836"/>
 </reference>

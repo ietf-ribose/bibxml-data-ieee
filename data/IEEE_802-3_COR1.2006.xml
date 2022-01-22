@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3/Cor1.2006" target="https://ieeexplore.ieee.org/document/1650728">
   <front>
     <title>IEEE Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications - Corrigendum 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.218738"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="17"/>
-    <keyword>IEEE 802.3 Standard</keyword>
-    <keyword>EPON</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Telecommunications</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>DTE</keyword>
-    <keyword>Power via the MDI</keyword>
-    <keyword>POE</keyword>
-    <keyword>Power over Ethernet</keyword>
-    <keyword>isolation</keyword>
     <abstract>This corrigendum clarifies and corrects isolation text including harmonization for both powered and unpowered Medium Dependent Interfaces</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.218738"/>
 </reference>

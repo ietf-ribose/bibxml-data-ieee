@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1220.2005" target="https://ieeexplore.ieee.org/document/1511885">
   <front>
     <title>IEEE Standard for Application and Management of the Systems Engineering Process</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96469"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,30 +10,7 @@
       </address>
     </author>
     <date year="2018" month="October" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Software</keyword>
-    <keyword>Portable document format</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>acquire</keyword>
-    <keyword>analysis</keyword>
-    <keyword>architecture</keyword>
-    <keyword>building block</keyword>
-    <keyword>design</keyword>
-    <keyword>development</keyword>
-    <keyword>component</keyword>
-    <keyword>hardware</keyword>
-    <keyword>interface</keyword>
-    <keyword>life cycle processes</keyword>
-    <keyword>software</keyword>
-    <keyword>supplier</keyword>
-    <keyword>synthesis</keyword>
-    <keyword>system life cycle</keyword>
-    <keyword>system engineering</keyword>
-    <keyword>technical management</keyword>
-    <keyword>validation</keyword>
-    <keyword>verification</keyword>
     <abstract>The interdisciplinary tasks that are required throughout a system's life cycle to transform stakeholder needs, requirements, and constraints into a system solution are defined. This standard is intended to guide the development of systems for commercial, government, military, and space applications. The information applies to a project within an enterprise that is responsible for developing a product design and establishing the life cycle infrastructure needed to provide for life cycle sustainment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.96469"/>
 </reference>

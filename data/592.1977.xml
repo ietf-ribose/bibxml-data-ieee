@@ -1,19 +1,11 @@
 <reference anchor="IEEE.592.1977" target="https://ieeexplore.ieee.org/document/27731">
   <front>
     <title>IEEE Standard for Exposed Semiconducting Shields on Premolded High Voltage Cable Joints and Separable Insulated Connectors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.80734"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Connectors</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
-    <keyword>semiconducting</keyword>
-    <keyword>shields</keyword>
-    <keyword>HVgh</keyword>
-    <keyword>cable</keyword>
-    <keyword>joints</keyword>
     <abstract>IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable Joints and Separable Insulated Connectors, provides design tests for shield resistance and a simulated fault-current initiation for exposed semiconducting shields used on cable accessories, specifically joints and separable insulated connectors rated 15 kV through 35 kV.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.80734"/>
 </reference>

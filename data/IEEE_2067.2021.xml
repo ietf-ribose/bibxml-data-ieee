@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2067.2021" target="https://ieeexplore.ieee.org/document/9404962">
   <front>
     <title>IEEE Standard for Fiber Optic Sensors - Fiber Bragg Grating Interrogator Standard - Terminology and Definitions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9404962"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Optical fiber sensors</keyword>
-    <keyword>Strain control</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Bragg gratings</keyword>
-    <keyword>Bragg gratings</keyword>
-    <keyword>distributed sensors</keyword>
-    <keyword>IEEE 2067&amp;#8482;</keyword>
-    <keyword>pressure sensor</keyword>
-    <keyword>sensor interrogator</keyword>
-    <keyword>strain sensor</keyword>
-    <keyword>temperature sensor</keyword>
     <abstract>The purpose of this standard is to clarify definitions so that ambiguity in specifications can be eliminated to facilitate broad usage of Fiber Optic Bragg grating sensors in a broad range of applications including smart civil structures, avionics, security, defense, environmental monitoring and medical diagnostics. Definitions and explanations of terms relating to the use of fiber Bragg grating interrogators are provided in this standard. It also offers a list of the key performance parameters needed to describe fully a Bragg grating-based sensor system and to allow the end user readily to compare systems from different suppliers for specific applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9404962"/>
 </reference>

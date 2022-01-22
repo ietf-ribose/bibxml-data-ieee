@@ -1,17 +1,11 @@
 <reference anchor="ANSI.C37-47.1981" target="https://ieeexplore.ieee.org/document/1389207">
   <front>
     <title>American National Standard Specifications Distribution Fuse Disconnecting Switches, Fuse Supports, and Current-Limiting Fuses</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.95630"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2017" month="February"/>
-    <keyword>Fuses</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Steel</keyword>
-    <keyword>Limiting</keyword>
-    <keyword>Maintenance engineering</keyword>
     <abstract>This standard is a revision of American National Standard Specifications for Distribution Fuse Disconnecting Switches, Fuse Supports, and Current Limiting Fuses, ANSI C37.47-1969, to bring it up to date and in line with present requirements for high-voltage fuses and switches.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.95630"/>
 </reference>

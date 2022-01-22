@@ -10,17 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Cognitive radio</keyword>
-    <keyword>Radio spectrum management</keyword>
-    <keyword>Sensors</keyword>
-    <keyword>logical interface</keyword>
-    <keyword>data structure</keyword>
-    <keyword>distributed spectrum sensing</keyword>
-    <keyword>sensing information</keyword>
-    <keyword>spectrum sensor</keyword>
-    <keyword>cognitive radio</keyword>
-    <keyword>dynamic spectrum access</keyword>
     <abstract>This standard defines the interfaces and data structures required to exchange sensing related information in order to increase interoperability between sensors and their clients developed by different manufacturers. The logical interface and supporting data structures are defined abstractly without constraining the sensing technology, client design, or data link between sensor and client. The standard defines the entities involved and parameters exchanged in this process. It further elaborates on the service access points, service primitives, as well as generic procedures used to realize this information exchange.</abstract>
   </front>
 </reference>

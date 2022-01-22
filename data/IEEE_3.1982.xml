@@ -1,7 +1,6 @@
 <reference anchor="IEEE.3.1982" target="https://ieeexplore.ieee.org/document/29028">
   <front>
     <title>IEEE Recommended Practice in the Selection of Reference Ambient Conditions for Test Measurements of Electrical Apparatus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81519"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2015" month="October" day="7"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Temperature measurement</keyword>
     <abstract>It is the purpose of this document to identify and recommended a set of standard reference values for certain ambient parameters which are significant in electrical test measurements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81519"/>
 </reference>

@@ -1,17 +1,11 @@
 <reference anchor="IEEE.485.1983" target="https://ieeexplore.ieee.org/document/574712">
   <front>
     <title>IEEE Recommended Practice for Sizing Large Lead Storage Batteries for Generating Stations and Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.81719"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2015" month="February" day="20"/>
-    <keyword>sizing</keyword>
-    <keyword>large</keyword>
-    <keyword>lead</keyword>
-    <keyword>storage</keyword>
-    <keyword>batteries</keyword>
-    <keyword>Substations</keyword>
     <abstract>Methods for defining the dc load in a generating station or a substation and for sizing a lead storage battery to supply that load are described. Some factors relating to cell selection are provided for consideration. This standard is based on commonly accepted methods used to define the load and to ensure adequate battery capacity and is applicable to all installations and battery sizes. The installations considered are designed for full-float operation with a battery charger serving to maintain the battery in a charged condition as well as to supply the normal dc load.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.81719"/>
 </reference>

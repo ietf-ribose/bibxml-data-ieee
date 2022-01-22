@@ -1,19 +1,11 @@
 <reference anchor="ANSI/IEEE.741.1986" target="https://ieeexplore.ieee.org/document/29055">
   <front>
     <title>IEEE Standard Criteria for the Protection of Class 1E Power Systems and Equipment in Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81537"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Standards</keyword>
-    <keyword>protection</keyword>
-    <keyword>1E</keyword>
-    <keyword>power</keyword>
-    <keyword>systems</keyword>
-    <keyword>equipment</keyword>
     <abstract>This document prescribes criteria that establish protection requirements for Class 1E power systems and equipment. It describes the purpose of and the means for obtaining protection from electrical and mechanical damage, or failures that can occur within a time period that is shorter than that required for operator action. It includes both design and documentation requirements. It does not include plant physical design requirements to protect against events such as pipe ehip, fire, dropped load, etc.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81537"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-104.2012" target="https://ieeexplore.ieee.org/document/6232415">
   <front>
     <title>IEEE Guide for Automatic Reclosing of Circuit Breakers for AC Distribution and Transmission Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6232415"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2012" month="July" day="4"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>AC machines</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Automation</keyword>
-    <keyword>automatic operation</keyword>
-    <keyword>circuit breaker</keyword>
-    <keyword>distribution</keyword>
-    <keyword>IEEE C37.104</keyword>
-    <keyword>reclosing</keyword>
-    <keyword>transmission</keyword>
     <abstract>Current reclosing practices for transmission and distribution lines are described. Application considerations and coordination practices of reclosing are also discussed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6232415"/>
 </reference>

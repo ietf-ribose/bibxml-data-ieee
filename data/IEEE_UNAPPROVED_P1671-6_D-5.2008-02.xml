@@ -9,14 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>ATML</keyword>
-    <keyword>instance document</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>automatic test system 9ATS)</keyword>
-    <keyword>test station</keyword>
-    <keyword>XML</keyword>
-    <keyword>schema</keyword>
     <abstract>This document spefifies an exchange format, utilizing XML., for identifying all of the hardware, software, and documentation associated with a test station. This test station may be used as a component of a test program set TPS) to test and diagnose a unit under test 9UUT)</abstract>
   </front>
 </reference>

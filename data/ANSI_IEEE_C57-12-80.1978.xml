@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C57-12-80.1978" target="https://ieeexplore.ieee.org/document/27736">
   <front>
     <title>IEEE Standard Terminology for Power and Distribution Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80812"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2014" month="June" day="30"/>
-    <keyword>Terminology</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>terminology</keyword>
-    <keyword>distribution</keyword>
-    <keyword>Power transformers</keyword>
     <abstract>This revision of ANSI C57.12.80 incorporates a substantial number of changes since the last major revision occurred in 1958. In addition to providing many new terms, some of the more significant changes which have been introduced</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80812"/>
 </reference>

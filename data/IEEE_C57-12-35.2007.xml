@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-12-35.2007" target="https://ieeexplore.ieee.org/document/4426317">
   <front>
     <title>IEEE Standard for Bar Coding for Distribution Transformers and Step-Voltage Regulators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4426317"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <abstract>This IEEE standard for bar code label requirements for specific types of distribution transformers and step-voltage regulators. Data content for temporary and permanent bar code labeling is described as well as bar code label print quality and durability requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4426317"/>
 </reference>

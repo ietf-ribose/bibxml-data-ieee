@@ -11,26 +11,6 @@
       </address>
     </author>
     <date year="2019" month="March" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>System analysis and design</keyword>
-    <keyword>Temperaturemeasurement</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Optimization</keyword>
-    <keyword>Parameter estimation</keyword>
-    <keyword>Analytical models</keyword>
-    <keyword>IP networks</keyword>
-    <keyword>Thermal management</keyword>
-    <keyword>IEEE 2416</keyword>
-    <keyword>intellectual property (IP) blocks</keyword>
-    <keyword>modeling standards</keyword>
-    <keyword>models</keyword>
-    <keyword>optimization</keyword>
-    <keyword>parameterization</keyword>
-    <keyword>power contributors</keyword>
-    <keyword>power data</keyword>
-    <keyword>process</keyword>
-    <keyword>voltage</keyword>
-    <keyword>and temperature (PVT)</keyword>
     <abstract>In this standard, a parameterized and abstracted power model enabling system, software, and hardware intellectual property (IP)–centric power analysis and optimization are described. Concepts and constructs are defined for the development of parameterized, accurate, efficient, and complete power models for systems and hardware IP blocks usable for system power analysis and optimization. Process, voltage, and temperature (PVT) independence; power and thermal management interface; and workload and architecture parameterization are some of the concepts included.</abstract>
   </front>
 </reference>

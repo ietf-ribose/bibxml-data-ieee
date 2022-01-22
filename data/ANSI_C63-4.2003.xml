@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-4.2003" target="https://ieeexplore.ieee.org/document/1265025">
   <front>
     <title>IEEE Standard for Methods of Measurement of Radio-Noise Emission from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94421"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ANSI</keyword>
-    <keyword>Noise measurement</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Electric variables measurement</keyword>
-    <keyword>Instruments</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>conducted emission testing</keyword>
-    <keyword>conducting ground plane</keyword>
-    <keyword>digital equipment</keyword>
-    <keyword>electric fieldmeasurement</keyword>
-    <keyword>line impedance stabilization network</keyword>
-    <keyword>low-voltage electrical equipment</keyword>
-    <keyword>low-voltageelectronic equipment</keyword>
-    <keyword>magnetic field measurement</keyword>
-    <keyword>normalized site attenuation</keyword>
     <abstract>U.S. consensus standard methods, instrumentation, and facilities for measurement of radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range 9 kHz to 40 GHz are specified. This standard does not include generic nor product-specific emission limits. Where possible, the specifications herein are harmonized with other national and international standards used for similar purposes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94421"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.61886-1.2021" target="https://ieeexplore.ieee.org/document/9415479">
   <front>
     <title>IEEE/IEC International Standard for Subsea equipment--Part 1: Power connectors, penetrators and jumper assemblies with rated voltage from 3 kV (Umax = 3,6 kV) to 30 kV (Umax = 36 kV)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9415479"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,6 @@
       </address>
     </author>
     <date year="2021" month="April" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Underwater cables</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Assembly</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9415479"/>
 </reference>

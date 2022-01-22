@@ -1,7 +1,6 @@
 <reference anchor="IEEE.563.1978" target="https://ieeexplore.ieee.org/document/9678143">
   <front>
     <title>IEEE Guide on Conductor Self-Damping Measurements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.9678143"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2022" month="January" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power system measurements</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Mechanical systems</keyword>
-    <keyword>Power system measurements</keyword>
-    <keyword>Power cable mechanical factors</keyword>
     <abstract>Reaffirmed September 2007. Methods for measuring the inherent vibration damping characteristics of overhead conductors are presented. The intent is to obtain information in a compatible and consistent form that will provide a reliable basis for studying the vibration and damping of conductors in the future, and for comparing data of various investigators. The methods and procedures recommended are not intended for quality-control test purposes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.9678143"/>
 </reference>

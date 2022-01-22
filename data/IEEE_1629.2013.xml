@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1629.2013" target="https://ieeexplore.ieee.org/document/6550024">
   <front>
     <title>IEEE Standard for Performance of DC Overhead Current Collectors for Rail Transit Vehicles</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6550024"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,27 +10,7 @@
       </address>
     </author>
     <date year="2013" month="June" day="28"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Pantographs</keyword>
-    <keyword>Railway electrification</keyword>
-    <keyword>Rail transportation</keyword>
-    <keyword>Tracking</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>collector head</keyword>
-    <keyword>contact strip</keyword>
-    <keyword>gradient</keyword>
-    <keyword>heavy rail</keyword>
-    <keyword>IEEE 1629</keyword>
-    <keyword>light rail</keyword>
-    <keyword>overhead contact system</keyword>
-    <keyword>pantograph</keyword>
-    <keyword>rail vehicle</keyword>
-    <keyword>railway</keyword>
-    <keyword>streetcar</keyword>
-    <keyword>tracking</keyword>
-    <keyword>traction</keyword>
-    <keyword>tramcar</keyword>
-    <keyword>transit</keyword>
     <abstract>The general characteristics of pantographs that enable current collection from an overhead contact system on light rail and heavy rail transit systems are described. Definitions pertinent to pantographs, including general definitions, specific pantograph terminology, pantograph components, pantograph dimensions, and operating characteristics are contained in the standard. The operating requirements that need to be defined by the purchaser of pantographs are stated. In addition, standard dimensions for the collector head and contact strip, various pantograph mechanical and operational requirements, environmental conditions, and maintainability and documentation requirements are specified. Various testing methodologies and requirements are also included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6550024"/>
 </reference>

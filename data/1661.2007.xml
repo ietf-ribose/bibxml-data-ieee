@@ -1,22 +1,11 @@
 <reference anchor="IEEE.1661.2007" target="https://ieeexplore.ieee.org/document/4449092">
   <front>
     <title>IEEE Guide for Test and Evaluation of Lead-Acid Batteries Used in Photovoltaic (PV) Hybrid Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4449092"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="September" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>Lead</keyword>
-    <keyword>Photovoltaic systems</keyword>
-    <keyword>1661-2007</keyword>
-    <keyword>Battery Testing</keyword>
-    <keyword>Lead-Acid Battery Charging</keyword>
-    <keyword>Lead-Acid Battery Testing</keyword>
-    <keyword>PV Hybrid Battery Test</keyword>
-    <keyword>PV System Testing</keyword>
     <abstract>This guide is specifically prepared for a PV/engine generator hybrid power system, but may also be applicable to all hybrid power systems where there is at least one renewable power source, such as PV, and a dispatchable power source, such as an engine generator. Taper-charge parameters for PV hybrid systems are suggested to help in preparing the battery for a capacity test. A test procedure is provided to ensure appropriate data acquisition, battery characterization, and capacity measurements. Finally, a process to review test results and make appropriate decisions regarding the battery is provided. No cycle-life predictions are made.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4449092"/>
 </reference>

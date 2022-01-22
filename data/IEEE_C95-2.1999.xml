@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C95-2.1999" target="https://ieeexplore.ieee.org/document/815311">
   <front>
     <title>IEEE Standard for Radio-Frequency Energy and Current-Flow Symbols</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90612"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2017" month="January" day="6"/>
-    <keyword>Terminology</keyword>
-    <keyword>caution</keyword>
-    <keyword>contact current</keyword>
-    <keyword>danger</keyword>
-    <keyword>hazard</keyword>
-    <keyword>labels</keyword>
-    <keyword>microwave</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>shock</keyword>
-    <keyword>signs</keyword>
-    <keyword>symbol</keyword>
-    <keyword>warning</keyword>
     <abstract>Symbols to inform people about the presence of potentially hazardous levels of radio-frequency energy or the presence of contact current hazards in the frequency range of 3 kHz to300 GHz are specified. Guidance is given about how these symbols should be used on warning signs and labels.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90612"/>
 </reference>

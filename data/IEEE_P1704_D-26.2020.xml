@@ -11,33 +11,6 @@
       </address>
     </author>
     <date year="2020" month="October" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Smart grids</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Communication systems</keyword>
-    <keyword>Wide area networks</keyword>
-    <keyword>Meter reading</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>Communication Module</keyword>
-    <keyword>IEEE 1703</keyword>
-    <keyword>IEEE 1377</keyword>
-    <keyword>IEEE 1704</keyword>
-    <keyword>End Device</keyword>
-    <keyword>meter</keyword>
-    <keyword>physical interface</keyword>
-    <keyword>removable module</keyword>
-    <keyword>detachable module</keyword>
-    <keyword>swappable module</keyword>
-    <keyword>Advance Metering Infrastructure</keyword>
-    <keyword>AMI</keyword>
-    <keyword>Smart Grid</keyword>
-    <keyword>AMI retrofitting</keyword>
-    <keyword>AMI interoperability</keyword>
-    <keyword>multi-sourcing</keyword>
-    <keyword>plug-and-play</keyword>
-    <keyword>comm module</keyword>
-    <keyword>network interface card</keyword>
-    <keyword>WAN</keyword>
     <abstract>Extension to IEEE Std 1703(TM), “IEEE Standard for Local Area Network/Wide Area Network (LAN/WAN) Node Communication Protocol to Complement the Utility Industry End Device Data Tables”. This extension specifies the physical hardware interfaces and signals, such as logical interface and power (digital and mains), that link metrology devices to communications modules via the USB physical layer. The communication module described in this Standard is not integral (not on the same circuit board) with the metrology registers (circuit board) of the assembly. However the module is envisioned to partner with a device implementing measurement registers (energy, demand load, power quality and related quantities) that are semantically modeled using IEEE Std 1377(TM), “IEEE Standard for Utility Industry Metering Communication Protocol Application Layer (End Device Data Tables)” and encapsulated for communication using IEEE Std 1703(TM) application layer messages.</abstract>
   </front>
 </reference>

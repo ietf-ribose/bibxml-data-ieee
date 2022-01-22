@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1Q/Amd7.2016" target="https://ieeexplore.ieee.org/document/8664711">
   <front>
     <title>IEEE/ISO/IEC International Standard - Information technology - Telecommunications and information exchange between systems - Local and metropolitan area networks - Specific requirements - Part 1Q: Bridges and bridged networks - AMENDMENT 7: Cyclic queuing and forwarding</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8664711"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2019" month="March" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Queueing analysis</keyword>
-    <keyword>Bridged Local Area Networks</keyword>
-    <keyword>cyclic queuing and forwarding (CQF)</keyword>
-    <keyword>IEEE 802&amp;#174;</keyword>
-    <keyword>IEEE 802.1Q&amp;#8482;</keyword>
-    <keyword>IEEE Std 802.1Qbu&amp;#8482;</keyword>
-    <keyword>IEEE 802.1Qbv&amp;#8482;</keyword>
-    <keyword>IEEE 802.1Qch&amp;#8482;</keyword>
-    <keyword>IEEE 802.1Qci&amp;#8482;</keyword>
-    <keyword>local area networks (LANs)</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>scheduled traffic</keyword>
-    <keyword>Virtual Bridged Local Area Networks (virtual LANs)</keyword>
     <abstract>The use of traffic scheduling and per-stream filtering and policing to support cyclic queuing and forwarding are described in this amendment to IEEE Std 8802.1Q-2016.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8664711"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-18.1997" target="https://ieeexplore.ieee.org/document/643516">
   <front>
     <title>American National Standard Recommended Practice for an On-site, Ad-Hoc Test Method for Estimating Radiated Electromagnetic Immunity of Medical Devices to Specific Radio Frequency Transmitters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85519"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2014" month="June" day="19"/>
-    <keyword>Electromagnetic radiative interference</keyword>
-    <keyword>ad hoc testing</keyword>
-    <keyword>electromagnetic compatibility</keyword>
-    <keyword>EMC</keyword>
-    <keyword>electromagnetic immunity</keyword>
-    <keyword>electromagnetic interference</keyword>
-    <keyword>EMI</keyword>
-    <keyword>health-care facilities</keyword>
-    <keyword>in-situ testing</keyword>
-    <keyword>medical devices</keyword>
-    <keyword>on-site testing</keyword>
-    <keyword>portable RF transmitters</keyword>
-    <keyword>test method</keyword>
-    <keyword>test procedure</keyword>
     <abstract>Guidance is provided for health-care organizations in evaluating the radiated RF electromagnetic immunity of their existing inventories of medical devices to their existing inventories of RF transmitters, as well as to RF transmitters that are commonly available. This recommended practice can also be used for newly purchased medical devices and RF transmitters, as well as for pre-purchase evaluation. It applies to medical devices used in health-care facilities and to portable transmitters with a rated power output of 8 W or less. It does not apply to implantable medical devices, transport environments such as ambulances and helicopters, or to RF transmitters rated at more than 8 W.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85519"/>
 </reference>

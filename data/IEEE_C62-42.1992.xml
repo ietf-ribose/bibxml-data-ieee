@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-42.1992" target="https://ieeexplore.ieee.org/document/239623">
   <front>
     <title>IEEE Guide for the Application of Gas Tube and Air Gap Arrester Low-Voltage (Equal to or Less than 1000 V rms or 1200 V dc) Surge Protective Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115136"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Power system protection</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Surge protection</keyword>
-    <keyword>current</keyword>
-    <keyword>Power circuits</keyword>
-    <keyword>Gas tube surge arrester</keyword>
-    <keyword>Communication circuits</keyword>
-    <keyword>Breakdown voltage</keyword>
-    <keyword>Air gap surge arrester</keyword>
     <abstract>Superseded by IEEE Std C62.42-2005 This guide establishes test methods for the evaluation of ESD withstand capability for electronic equipment subassemblies. It includes information about test conditions, test equipment, and test procedures for ESD tests of printed circuit boards and other subassemblies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115136"/>
 </reference>

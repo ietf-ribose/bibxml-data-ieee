@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-120.1991" target="https://ieeexplore.ieee.org/document/211017">
   <front>
     <title>IEEE Loss Evaluation Guide for Power Transformers and Reactors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114388"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2017" month="November" day="7"/>
-    <keyword>Economics</keyword>
-    <keyword>Losses</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>Standards</keyword>
-    <keyword>economic</keyword>
-    <keyword>reactors</keyword>
-    <keyword>transformers</keyword>
-    <keyword>Loss evaluation</keyword>
     <abstract>A method for establishing the dollar value of the electric power needed to supply the losses of a transformer or reactor is provided. Users can use this loss evaluation to determine the relative economic benefit of a high-first-cost, low-loss unit versus one with a lower first cost and higher losses, and to compare the offerings of two or more manufacturers to aid in making the best purchase choice. Manufacturers can use the evaluation to optimize the design and provide the most economically unit to bid and manufacture. The various types of losses are reviewed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114388"/>
 </reference>

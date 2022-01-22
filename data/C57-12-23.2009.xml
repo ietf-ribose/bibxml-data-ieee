@@ -1,25 +1,11 @@
 <reference anchor="IEEE.C57-12-23.2009" target="https://ieeexplore.ieee.org/document/4911124">
   <front>
     <title>IEEE Standard for Submersible Single-Phase Transformers: 167 kVA and Smaller; High Voltage 25 000 V and Below; Low Voltage 600 V and Below</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4911124"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>Low voltage</keyword>
-    <keyword>Underground power cables</keyword>
-    <keyword>C57.12.23-2009</keyword>
-    <keyword>distribution transformer</keyword>
-    <keyword>liquid-immersed</keyword>
-    <keyword>self-cooled</keyword>
-    <keyword>single-phase</keyword>
-    <keyword>submersible</keyword>
-    <keyword>subsurface</keyword>
-    <keyword>transformer</keyword>
-    <keyword>underground</keyword>
     <abstract>Electrical, dimensional, and mechanical characteristics and certain safety features of single-phase, 60 Hz, liquid-immersed, self-cooled, submersible distribution transformers are covered. This standard is intended for use as a basis for establishing the performance, electrical and mechanical interchangeability, and safety of the equipment covered, and to assist in the proper selection of such equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4911124"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.671.1985" target="https://ieeexplore.ieee.org/document/8925007">
   <front>
     <title>IEEE Standard Specification Format Guide and Test Procedure for Nongyroscopic Inertial Angular Sensors: Jerk, Acceleration, Velocity, and Displacement</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.8925007"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="December" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Gyroscopes</keyword>
-    <keyword>Sensor arrays</keyword>
-    <keyword>Inertial navigation</keyword>
-    <keyword>Rotors</keyword>
-    <keyword>gyroscope</keyword>
-    <keyword>angular</keyword>
-    <keyword>sensors</keyword>
-    <keyword>Mechanical variables measurement</keyword>
-    <keyword>Inertial navigation</keyword>
     <abstract>A guide is presented for the preparation of a specification and test procedure for an inertial angular sensor that provides a common meeting ground of terminology and practice for manufacturers and users of an array of sensors that have been developed to meet needs not easily met by traditional spinning-rotor gyroscopes. A test procedure for verifying that the specifications have been met is given. The standard is not intended to compete with existing standards for specific devices with highly specific models and error sources, such as spring-restrained rate gyros, but to provide a uniform guide for those inertial angular sensors that have not been covered elsewhere.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.8925007"/>
 </reference>

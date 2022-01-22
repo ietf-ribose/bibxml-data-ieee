@@ -1,7 +1,6 @@
 <reference anchor="AIEE.28B.1956" target="https://ieeexplore.ieee.org/document/7404215">
   <front>
     <title>AIEE Revised Report on Standards for Valve and Expulsion Type Lightning Arresters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1956.7404215"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,6 @@
       </address>
     </author>
     <date year="2016" month="February" day="10"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Arresters</keyword>
-    <keyword>Lightning</keyword>
-    <keyword>Valves</keyword>
-    <keyword>Surge protection</keyword>
-    <keyword>Terminology</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1956.7404215"/>
 </reference>

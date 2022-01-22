@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-3/Amd1.2021" target="https://ieeexplore.ieee.org/document/9673685">
   <front>
     <title>IEEE/ISO/IEC International Standard-Telecommunications and exchange between information technology systems &amp;#8212; Requirements for local and metropolitan area networks &amp;#8212;Part 3: Standard for Ethernet AMENDMENT 1: Physical layer specifications and management parameters for 2.5 Gb/s and 5 Gb/s operation over backplane</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9673685"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,32 +11,7 @@
       </address>
     </author>
     <date year="2022" month="January" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Energy efficiency</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>2.5 Gigabit Ethernet</keyword>
-    <keyword>5 Gigabit Ethernet</keyword>
-    <keyword>2.5GBASE-KX</keyword>
-    <keyword>2.5GBASE-X</keyword>
-    <keyword>5GBASE-KR</keyword>
-    <keyword>5GBASE-R</keyword>
-    <keyword>amendment</keyword>
-    <keyword>AN</keyword>
-    <keyword>Auto-Negotiation</keyword>
-    <keyword>Backplane Ethernet</keyword>
-    <keyword>BASE-R</keyword>
-    <keyword>BASE-X</keyword>
-    <keyword>EEE</keyword>
-    <keyword>Energy Efficient Ethernet</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>IEEE 802.3</keyword>
-    <keyword>IEEE 802.3cb</keyword>
     <abstract>Ethernet Media Access Control (MAC) parameters, Physical Layer specifications, and management objects for the serial transfer of Ethernet format frames at 2.5 Gb/s and 5 Gb/s over electrical backplanes are defined in this amendment to IEEE Std 802.3-2018.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9673685"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-4u.2016" target="https://ieeexplore.ieee.org/document/7852415">
   <front>
     <title>IEEE Standard for Low-Rate Wireless Networks--Amendment 3: Use of the 865 MHz to 867 MHz Band in India</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7852415"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>Personal area networks</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>India</keyword>
-    <keyword>Frequency bands</keyword>
-    <keyword>865 MHz to 867 MHz band</keyword>
-    <keyword>amendment</keyword>
-    <keyword>IEEE 802.15.4(TM)</keyword>
-    <keyword>IEEE 802.15.4u(TM)</keyword>
-    <keyword>low data rate</keyword>
-    <keyword>low power</keyword>
-    <keyword>wireless personal area network</keyword>
-    <keyword>WPAN</keyword>
     <abstract>A physical (PHY) layer enabling the use of the 865 MHz to 867 MHz band in India is defined in this amendment. The supported data rate should be at least 40 kb/s and the typical line-of-sight range should be on the order of 5 km using an omnidirectional antenna. Included are any channel access and/or timing changes in the medium access control necessary to support this PHY layer.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7852415"/>
 </reference>

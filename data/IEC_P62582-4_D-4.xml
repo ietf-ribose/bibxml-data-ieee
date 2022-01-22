@@ -1,7 +1,6 @@
 <reference anchor="IEC.P62582-4/D-4" target="https://ieeexplore.ieee.org/document/5706293">
   <front>
     <title>IEC/IEEE Nuclear power plants - Instrumentation and control important to safety - Electrical equipment condition monitoring methods Part 4: Oxidation induction techniques</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706293"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>IEC standards</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Fluid flow measurement</keyword>
     <abstract>This part of IEC/IEEE 62582 specifies methods for condition monitoring of organic and polymeric materials in instrumentation and control systems using oxidation induction techniques in the detail necessary to produce accurate and reproducible measurements. It includes the requirements for sample preparation, the measurement system and conditions, and the reporting of the measurement results.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5706293"/>
 </reference>

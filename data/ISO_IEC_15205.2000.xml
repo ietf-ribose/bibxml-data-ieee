@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC.15205.2000" target="https://ieeexplore.ieee.org/document/4140855">
   <front>
     <title>ISO/IEC Standard for SBus - Chip and Module Interconnect Bus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.339593"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
       </address>
     </author>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.339593"/>
 </reference>

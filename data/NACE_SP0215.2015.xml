@@ -1,7 +1,6 @@
 <reference anchor="NACE.SP0215.2015" target="https://ieeexplore.ieee.org/document/7098307">
   <front>
     <title>NACE International and IEEE Joint Standard Practice for Below-Grade Corrosion Control of Transmission, Distribution, and SubstationStructures by Coating Repair Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7098307"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,33 +10,7 @@
       </address>
     </author>
     <date year="2015" month="April" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>NACE Standards</keyword>
-    <keyword>Steel</keyword>
-    <keyword>Coatings</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Fuel processing industries</keyword>
-    <keyword>Electric distribution</keyword>
-    <keyword>Polyurethanes</keyword>
-    <keyword>below-grade</keyword>
-    <keyword>carbon steel</keyword>
-    <keyword>coal tar</keyword>
-    <keyword>coal tar epoxy</keyword>
-    <keyword>coatings</keyword>
-    <keyword>coating systems</keyword>
-    <keyword>coating repair systems</keyword>
-    <keyword>cold-applied tape systems</keyword>
-    <keyword>corrosion control</keyword>
-    <keyword>electric</keyword>
-    <keyword>electric distribution</keyword>
-    <keyword>electric substation</keyword>
-    <keyword>galvanized steel</keyword>
-    <keyword>IEEE 1839</keyword>
-    <keyword>MCU epoxy</keyword>
-    <keyword>polyurethanes</keyword>
-    <keyword>SP0215</keyword>
-    <keyword>steel</keyword>
-    <keyword>transmission</keyword>
     <abstract>This NACE/IEEE joint standard provides general coating repair guidelines for in-service carbon steel and galvanized steel electric transmission structures coated with polyurethanes, moisture cure urethane (MCU), coal tar, epoxy, coal tar epoxy, and cold-applied tape systems including petrolatum and polyethylene.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7098307"/>
 </reference>

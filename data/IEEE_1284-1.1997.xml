@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1284-1.1997" target="https://ieeexplore.ieee.org/document/8716880">
   <front>
     <title>IEEE Standard for Information Technology -Transport Independent Printer/System Interface (TIP/SI)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8716880"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="May" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Printers</keyword>
-    <keyword>Interface management</keyword>
-    <keyword>computers</keyword>
-    <keyword>printer communications</keyword>
-    <keyword>printers</keyword>
-    <keyword>printer command sets</keyword>
     <abstract>A protocol and methodology for software developers, computer vendors, and printer manufacturers to facilitate the orderly exchange of information between printers and host computers are defined in this standard. A minimum set of functions that permit meaningful data exchange is provided. Thus a foundation is established upon which compatible applications, computers, and printers can be developed, without compromising an individual organization's desire for design innovation.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8716880"/>
 </reference>

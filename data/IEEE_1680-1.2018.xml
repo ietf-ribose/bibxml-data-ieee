@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1680-1.2018" target="https://ieeexplore.ieee.org/document/8320570">
   <front>
     <title>IEEE Standard for Environmental and Social Responsibility Assessment of Computers and Displays</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8320570"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,31 +10,7 @@
       </address>
     </author>
     <date year="2018" month="March" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Computers</keyword>
-    <keyword>Tablet computers</keyword>
-    <keyword>Environmental factors</keyword>
-    <keyword>Environmental management</keyword>
-    <keyword>Social factors</keyword>
-    <keyword>computer</keyword>
-    <keyword>desktop</keyword>
-    <keyword>notebook</keyword>
-    <keyword>integrated desktop computer</keyword>
-    <keyword>portable all-in-one computer</keyword>
-    <keyword>slate/tablet</keyword>
-    <keyword>small-scale server</keyword>
-    <keyword>thin client</keyword>
-    <keyword>workstation</keyword>
-    <keyword>display</keyword>
-    <keyword>monitor</keyword>
-    <keyword>electronic product</keyword>
-    <keyword>electronic product design</keyword>
-    <keyword>environment</keyword>
-    <keyword>environmental impact</keyword>
-    <keyword>environmental leadership</keyword>
-    <keyword>environmental performance</keyword>
-    <keyword>social responsibility</keyword>
-    <keyword>sustainability</keyword>
     <abstract>A clear and consistent set of environmental and social responsibility performance criteria for the design of computers (including notebook computers, desktop computers, integrated desktop computers, portable all-in-one computers, slates/tablets, small-scale servers, thin clients and workstations) and displays (including monitors and signage displays) is established, providing an opportunity for manufacturers to secure market recognition for their efforts. This standard is also intended to provide a tool for government, institutional, corporate, and consumer purchasers to identify products that demonstrate environmental and social responsibility leadership. This standard is intended to be updated and revised on a periodic basis to continue to set a higher performance standard for leadership products.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8320570"/>
 </reference>

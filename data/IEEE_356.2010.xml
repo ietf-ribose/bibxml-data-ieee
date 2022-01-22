@@ -1,7 +1,6 @@
 <reference anchor="IEEE.356.2010" target="https://ieeexplore.ieee.org/document/5742810">
   <front>
     <title>IEEE Guide for Measurements of Electromagnetic Properties of Earth Media</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5742810"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2021" month="February" day="3"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electomagnetic compatiability</keyword>
-    <keyword>Earth</keyword>
-    <keyword>Conductivity</keyword>
-    <keyword>Electromagnetic measurements</keyword>
-    <keyword>conductivity</keyword>
-    <keyword>earth materials</keyword>
-    <keyword>electromagnetic measurement techniques</keyword>
-    <keyword>IEEE 356</keyword>
-    <keyword>permittivity</keyword>
-    <keyword>resistivity</keyword>
     <abstract>Measurements of the electrical properties of naturally occurring solids are covered in the scope of this project. Not covered are methods that rely on mapping earth structure anomalies unless directly related to electrical properties. Coverage of numerical methods for forward/inverse modeling is limited.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5742810"/>
 </reference>

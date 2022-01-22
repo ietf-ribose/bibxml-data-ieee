@@ -1,17 +1,11 @@
 <reference anchor="IEEE.C57-12-60.1998" target="https://ieeexplore.ieee.org/document/705930">
   <front>
     <title>IEEE Guide for Test Procedures for Thermal Evaluation of Insulation Systems for Solid Cast and Resin-Encapsulated Power and Distribution Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87896"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>insulation systems</keyword>
-    <keyword>model transformer coils</keyword>
-    <keyword>resin-encapsulated transformers</keyword>
-    <keyword>solid-cast transformers</keyword>
-    <keyword>thermal evaluation</keyword>
     <abstract>A uniform method is established for determining the temperature classification of solid- cast and resin-encapsulated power and distribution transformer insulation systems by testing rather than by chemical composition. These insulation systems are intended for use in transformers covered by IEEE Std C57.12.01-1989 and IEEE Std C57.12.91-1995 as they apply to solid- cast and resin-encapsulated transformers whose highest voltages exceed nominal 600 V.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87896"/>
 </reference>

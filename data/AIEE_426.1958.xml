@@ -1,7 +1,6 @@
 <reference anchor="AIEE.426.1958" target="https://ieeexplore.ieee.org/document/7419172">
   <front>
     <title>AIEE Proposed Standard for Graphical Symbols for Semiconductor Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1958.7419172"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="24"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Semiconductor devices</keyword>
-    <keyword>Graphics</keyword>
-    <keyword>Symbols</keyword>
-    <keyword>Terminology</keyword>
     <abstract>These standards are supplementary to, and should be used in conjunction with American Standard Y32.2, Graphical Symbols for Electrical Diagrams. The following are some points of general philosophy underlying their development:1. The symbol structure should reflect the past, i.e., the symbols should, within a logical framework, revert in their simplest forms to those commonly in present case.2. The symbol structure should look to the future, i.e.. it should be capable of extension to the many new semiconductor devices that may become available.3. The symbol structure should indicate physical properties when this is possible without over complication.Section 2 illustrates the application of the ancillary symbols of Section 1 to a variety of semiconductor devices. For Methods of Test and Letter Symbols for Semiconductor Devices, see AIEE Standard No. 425.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1958.7419172"/>
 </reference>

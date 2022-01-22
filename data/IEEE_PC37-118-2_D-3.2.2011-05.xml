@@ -10,11 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Power systems management</keyword>
-    <keyword>Data processing</keyword>
-    <keyword>Smart grids</keyword>
     <abstract>This standard defines a method for exchange of synchronized phasor measurement data between power system equipment. It specifies messaging including types, use, contents, and data formats for real-time communication between Phasor Measurement Units (PMU), Phasor Data Concentrators (PDC), and other applications.</abstract>
   </front>
 </reference>

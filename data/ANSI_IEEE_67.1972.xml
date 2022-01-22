@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.67.1972" target="https://ieeexplore.ieee.org/document/19421">
   <front>
     <title>IEEE Guide for Operation and Maintenance of Turbine Generators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.119967"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Cooling</keyword>
-    <keyword>Maintenance</keyword>
-    <keyword>Machine windings</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Synchronous generators</keyword>
-    <keyword>Turbines</keyword>
-    <keyword>turbiine</keyword>
-    <keyword>generators</keyword>
-    <keyword>operation</keyword>
-    <keyword>maintenance</keyword>
     <abstract>Superseded by 67-1990. This standard covers general recommendations for the operation, loading, and maintenance of turbine-driven synchronous generators that have cylindrical rotors.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.119967"/>
 </reference>

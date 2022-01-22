@@ -1,7 +1,6 @@
 <reference anchor="IEEE.16.1955" target="https://ieeexplore.ieee.org/document/7368054">
   <front>
     <title>IEEE Standard for Electric Control Apparatus for Land Transportation Vehicles</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1955.7368054"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,6 @@
       </address>
     </author>
     <date year="2015" month="December" day="29"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Intelligent vehicles</keyword>
-    <keyword>Industrial control</keyword>
-    <keyword>Electronic control</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1955.7368054"/>
 </reference>

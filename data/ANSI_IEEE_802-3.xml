@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.802-3" target="https://ieeexplore.ieee.org/document/26520">
   <front>
     <title>IEEE Standards for Local Area Networks: Supplements to Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.78883"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="8"/>
-    <keyword>Local area networks</keyword>
-    <keyword>Multiaccess communication</keyword>
-    <keyword>Standards</keyword>
     <abstract>This report contains four supplements to IEEE 802.3: 802.3a Type 10BASE2 Coaxial Medium Specification (Section 10); 802.3b Type 10BROAD36 Medium Specification (Section 11); 802.3c Repeater Unit Specification; and 802.3e Type 1BASE5 Twisted Pair Medium Specification (Section 12). ANSI/IEEE Std 802.3-1985, Sections 1-7 form the base specification for these supplements. Supplements a, b, and c are specifications for an alternate medium to be used in the CSMA/CD access method. Supplement c completes the necessary specification for a Receiver Unit implementation.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.78883"/>
 </reference>

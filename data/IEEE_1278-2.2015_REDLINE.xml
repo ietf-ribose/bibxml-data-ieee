@@ -11,19 +11,6 @@
       </address>
     </author>
     <date year="2015" month="December" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Simulation</keyword>
-    <keyword>Distributed processing</keyword>
-    <keyword>Multicast communication</keyword>
-    <keyword>Interactive services</keyword>
-    <keyword>communication service</keyword>
-    <keyword>DIS</keyword>
-    <keyword>distributed interactive simulation</keyword>
-    <keyword>IEEE 1278.2(TM)</keyword>
-    <keyword>multicast</keyword>
-    <keyword>protocol data units (PDUs)</keyword>
-    <keyword>simulation network</keyword>
     <abstract>Communication services to support information exchange between simulation applications participating in the distributed interactive simulation (DIS) environment are defined. These communication services describe a connectionless information transfer that supports real-time, as well as non-real-time, exchange. Several communication profiles specifying communication services are provided.</abstract>
   </front>
 </reference>

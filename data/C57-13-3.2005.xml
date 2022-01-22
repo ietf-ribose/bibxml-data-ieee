@@ -1,23 +1,11 @@
 <reference anchor="IEEE.C57-13-3.2005" target="https://ieeexplore.ieee.org/document/1634985">
   <front>
     <title>IEEE Guide for Grounding of Instrument Transformer Secondary Circuits and Cases</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215279"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2014" month="December" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Instrument transformers</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>current transformers</keyword>
-    <keyword>grounding of cases of instrument transformers</keyword>
-    <keyword>grounding secondary circuits of instrument transformers</keyword>
-    <keyword>instrument transformers</keyword>
-    <keyword>low energy transducers</keyword>
-    <keyword>voltage transformers</keyword>
     <abstract>The practices described in this guide apply to all instrument transformers, including capacitive voltage transformers (VTs) and linear couplers, irrespective of primary voltage or whether the primary windings are connected to, or are in, power circuits or are connected in the secondary circuits of other transformers as auxiliary current transformers (CTs) or VTs. This guide does not discuss the grounding of some applications. For example, grounding of gas insulated substations and metal clad switchgear is not discussed in this guide; the reader will find these topics addressed in IEEE Std 242. The grounding of circuits of core-balance CTs is also not discussed in this guide. The reader can also find this information in IEEE Std 242. Another issue that is not discussed in this guide is the practice of using separate safety and control grounds. For discussion on this topic, the reader is directed to IEEE Std 665.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215279"/>
 </reference>

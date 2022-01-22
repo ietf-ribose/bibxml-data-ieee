@@ -9,13 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>local area networks</keyword>
-    <keyword>LANs</keyword>
-    <keyword>transparent bridging</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>VLANs</keyword>
-    <keyword>congestion</keyword>
-    <keyword>congestion notification.</keyword>
     <abstract>This amendment specifies protocols, procedures and managed objects that support congestion management of long-lived data flows within network domains of limited bandwidth-delay product. This is achieved by enabling bridges to signal congestion to end stations capable of transmission rate limiting to avoid frame loss.</abstract>
   </front>
 </reference>

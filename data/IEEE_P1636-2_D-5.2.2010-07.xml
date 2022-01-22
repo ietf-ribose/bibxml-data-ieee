@@ -10,17 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>XML</keyword>
-    <keyword>Information management</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Interface states</keyword>
-    <keyword>Automated Test System (ATS)</keyword>
-    <keyword>eXtensible markup language (XML)</keyword>
-    <keyword>Maintenance Action Information (MAI)</keyword>
-    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
-    <keyword>XML schema</keyword>
     <abstract>This standard is intended to promote and facilitate interoperability between components of automatic test systems. The standard facilitates the capture of maintenance action information associated with the removal, repair, and replacement of a particular system components (e.g.; unit(s) under test) in order to maintain/support that particular operational system. The maintenance action information schema becomes a class of information that can be used within the SIMICA family of standards. The exchange format utilizes the XML formats.</abstract>
   </front>
 </reference>

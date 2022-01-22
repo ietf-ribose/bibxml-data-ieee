@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1394.2008.Redline" target="https://ieeexplore.ieee.org/document/5978170">
   <front>
     <title>IEEE Standard for a High-Performance Serial Bus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.5978170"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>High performance computing</keyword>
-    <keyword>Universal Serial Bus</keyword>
-    <keyword>Asynchronous transfer mode</keyword>
-    <keyword>Optical fiber communication</keyword>
-    <keyword>1394-2008</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>bus</keyword>
-    <keyword>computers</keyword>
-    <keyword>high-speed serial bus</keyword>
-    <keyword>interconnect</keyword>
-    <keyword>isochronous</keyword>
-    <keyword>optical fiber</keyword>
-    <keyword>plastic optical fiber</keyword>
-    <keyword>POF</keyword>
-    <keyword>unshielded twisted pair</keyword>
-    <keyword>UTP</keyword>
-    <keyword>firewire (TM)</keyword>
     <abstract>This standard provides specifications for a high-speed serial bus that supports both asynchronous and isochronous communication and integrates well with most IEEE standard 32-bit and 64-bit parallel buses. It is intended to provide a low-cost interconnect between cards on the same backplane, cards on other backplanes, and external peripherals. Interfaces to longer distance transmission media [such as unshielded twisted pair (UTP), optical fiber, and plastic optical fiber (POF)] allow the interconnection to be extended throughout a local network. This standard follows the command and status register (CSR) architecture of IEEE Std 1212-2001.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.5978170"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1568.2003" target="https://ieeexplore.ieee.org/document/1257920">
   <front>
     <title>IEEE Recommended Practice for Electrical Sizing of Nickel-Cadmium Batteries for Rail Passenger Vehicles</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94411"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,22 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Rails</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Vehicular and wireless technologies</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>ampere hours</keyword>
-    <keyword>available capacity</keyword>
-    <keyword>constant current load</keyword>
-    <keyword>constant power load</keyword>
-    <keyword>fully-charged capacity</keyword>
-    <keyword>nickel-cadmium battery</keyword>
-    <keyword>period</keyword>
-    <keyword>rated capacity</keyword>
-    <keyword>resistive load</keyword>
-    <keyword>state of charge</keyword>
     <abstract>Method for defining the electrical load supplied by a nickel-cadmium battery and for sizing the battery to supply that load is described in this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94411"/>
 </reference>

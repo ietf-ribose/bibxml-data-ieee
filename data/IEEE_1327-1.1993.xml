@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1327-1.1993" target="https://ieeexplore.ieee.org/document/286092">
   <front>
     <title>IEEE Standard for Information Technology--X.400 Based Electronic Messaging C Language Interfaces--Binding for Application Program Interfaces (API)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119662"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>C languages</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Electronic messaging</keyword>
-    <keyword>X.400</keyword>
-    <keyword>Language binding</keyword>
-    <keyword>C language</keyword>
-    <keyword>Application program interface</keyword>
-    <keyword>API</keyword>
     <abstract>A C language binding to IEEE Std 1224.1-1993, IEEE Standard for Information Technology--X.400-Based Electronic Messaging--Application Program Interface (API) [Language Independent] is defined. This standard is intended for use by application developers, system implementors, test method writers, and users to support application portability at the source-code level.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119662"/>
 </reference>

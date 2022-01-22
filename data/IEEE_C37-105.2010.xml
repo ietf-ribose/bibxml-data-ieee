@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-105.2010" target="https://ieeexplore.ieee.org/document/5618909">
   <front>
     <title>IEEE Standard for Qualifying Class 1E Protective Relays and Auxiliaries for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5618909"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2012" month="May" day="17"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Radiation</keyword>
-    <keyword>Relays</keyword>
-    <keyword>Seismic measurements</keyword>
-    <keyword>Aging</keyword>
-    <keyword>aging</keyword>
-    <keyword>auxiliaries</keyword>
-    <keyword>Class 1E</keyword>
-    <keyword>margin</keyword>
-    <keyword>nuclear</keyword>
-    <keyword>power plants</keyword>
-    <keyword>qualifying</keyword>
-    <keyword>radiation</keyword>
-    <keyword>relays</keyword>
-    <keyword>seismic</keyword>
-    <keyword>tests</keyword>
-    <keyword>thermal</keyword>
     <abstract>Basic principles, requirements, and methods for qualifying Class 1E protective relays and auxiliaries in nuclear power generating stations including digital and analog devices, but excluding devices located inside the primary containment, are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5618909"/>
 </reference>

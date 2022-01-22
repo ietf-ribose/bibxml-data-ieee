@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1815-1.2015" target="https://ieeexplore.ieee.org/document/7786998">
   <front>
     <title>IEEE Standard for Exchanging Information Between Networks Implementing IEC 61850 and IEEE Std 1815(TM) [Distributed Network Protocol (DNP3)]</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7786998"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,27 +10,7 @@
       </address>
     </author>
     <date year="2016" month="December" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>NIST</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>automation</keyword>
-    <keyword>communications</keyword>
-    <keyword>DNP3</keyword>
-    <keyword>evolution</keyword>
-    <keyword>feeder</keyword>
-    <keyword>gateway</keyword>
-    <keyword>IEC 61850</keyword>
-    <keyword>IEEE 1815&amp;#8482;</keyword>
-    <keyword>mapping</keyword>
-    <keyword>network</keyword>
-    <keyword>power system</keyword>
-    <keyword>substation</keyword>
-    <keyword>upgrade</keyword>
-    <keyword>utility</keyword>
     <abstract>This document specifies the standard approach for mapping between IEEE Std 1815™ [Distributed Network Protocol (DNP3)] and IEC 61850 (Communications Networks and Systems for Power Utility Automation). Two primary use cases are addressed: a) mapping between an IEEE 1815-based master and an IEC 61850-based remote site and b) mapping between an IEC 61850-based master and an IEEE 1815-based remote site. Mapping aspects included in the standard are: conceptual architecture; general mapping requirements; the mapping of Common Data Classes, Constructed Attribute Classes and Abstract Communication Service Interface (ACSI); cyber security requirements, the architecture of a gateway used for translation and requirements for embedding mapping configuration information into IEC 61850 System Configuration Description Language (SCL) and DNP3 Device Profile. This standard addresses a selection of features, data classes, and services of the two standards.** NOTE: Incorporates IEEE Std 1815.1-2015/Cor 1-2016, which was not published as an individual corrigendum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7786998"/>
 </reference>

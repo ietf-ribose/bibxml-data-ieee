@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-157.2015" target="https://ieeexplore.ieee.org/document/7331220">
   <front>
     <title>IEEE Guide for Conducting Functional Life Tests on Switch Contacts Used in Insulating Liquid--Immersed Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7331220"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Arrhenius relationship</keyword>
-    <keyword>Aging</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Dielectric liquids</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>accelerated life simulation</keyword>
-    <keyword>Arrhenius relationship</keyword>
-    <keyword>contact aging phenomenon</keyword>
-    <keyword>IEEE C57.157</keyword>
-    <keyword>supertemperature</keyword>
     <abstract>This guide is intended for use in establishing a methodology to evaluate expected long-term performance of infrequently operated switch contacts used within insulating liquidimmersed transformers. These switch contacts are typically found in de-energized tapchangers, dual voltage switches, reversing switches, on-load tapchangers, and step-voltage regulators, but the test might possibly be used to evaluate any contact that is used in insulating liquids with similar operating characteristics and within similar environments.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7331220"/>
 </reference>

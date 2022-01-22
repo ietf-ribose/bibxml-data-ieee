@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.379.1977" target="https://ieeexplore.ieee.org/document/7409873">
   <front>
     <title>IEEE Standard Application of the Single-Failure Criterion to Nuclear Power Generating Station Class 1E Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7409873"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Radioactive materials</keyword>
-    <keyword>ANSI Standards</keyword>
     <abstract>This document interprets the single failure criterion, discusses failures, and presents an acceptable method of single failure analysis for Class 1E systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7409873"/>
 </reference>

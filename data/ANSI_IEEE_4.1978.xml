@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.4.1978" target="https://ieeexplore.ieee.org/document/8684553">
   <front>
     <title>IEEE Standard Techniques for High Voltage Testing</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.8684553"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>high</keyword>
-    <keyword>voltage</keyword>
-    <keyword>testing</keyword>
-    <keyword>techniques</keyword>
     <abstract>Standard methods of measurement of high voltage and basic techniques for dielectrics, so far as they are generally applicable to all types of apparatus, for alternating voltages, direct voltages, lightning impulse voltages, switching impulse voltages, and impulse currents are established. General definitions and test requirements are provided, and test procedures and measuring devices are described. A measuring devices application guide and recommendations for voltage measurements by means of sphere gaps are included. The contents are based on and adhere very closely to IEC high- voltage test techniques documents.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.8684553"/>
 </reference>

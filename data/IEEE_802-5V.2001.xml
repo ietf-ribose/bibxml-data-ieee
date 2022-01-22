@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-5v.2001" target="https://ieeexplore.ieee.org/document/972831">
   <front>
     <title>IEEE Standard for Information Technology-Telecommunications and information exchange between systems-Local and metropolitan area networks-Part 5: Token Ring access method and physical layer specifications-Amendment 5: Gigabit Token Ring Operation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93361"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="30"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Token Ring operation</keyword>
-    <keyword>TKP Access Protocol</keyword>
-    <keyword>TXI Access Protocol</keyword>
-    <keyword>DTR C-Port and Station</keyword>
     <abstract>This amendment specifies the changes required to IEEE 802.5, 1999 Edition (ISO/IEC8802-5:1998 base standard), IEEE Stds 802.5r and 802.5j, 1998 Edition (ISO/IEC 8802-5:1998/Amd. 1:1998), and IEEE Std 802.5t-1999, to support 1000 Mbit/s Dedicated Token Ring (DTR) operation. The base standard together with Amendment 1 specifies shared and dedicated (point-to-point) Token Ring operation at both 4 and 16 Mbit/s using either the TKP Access Protocol or theTXI Access Protocol. IEEE Std 802.5t-2000 extends Token Ring operation to 100 Mbit/s for the DTR C-Port and Station using the TXI Access Protocol. This standard extends Token Ring opera-tion to 1000 Mbit/s for the DTR C-Port and Station using the TXI Access Protocol. Extensions to the Media Access Control have been made to accommodate the requirements for the 1000 Mbit/s media rate.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93361"/>
 </reference>

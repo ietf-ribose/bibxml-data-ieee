@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1188a.2014" target="https://ieeexplore.ieee.org/document/6853300">
   <front>
     <title>IEEE Recommended Practice for Maintenance, Testing, and Replacement of Valve-Regulated Lead-Acid (VRLA) Batteries for Stationary Applications - Amendment 1: Updated VRLA Maintenance Considerations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6853300"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2014" month="July" day="11"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Battery chargers</keyword>
-    <keyword>Valves</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>Capacity planning</keyword>
-    <keyword>battery capacity test</keyword>
-    <keyword>IEEE 1188a(TM)</keyword>
-    <keyword>premature capacity loss</keyword>
-    <keyword>special recovery process</keyword>
-    <keyword>valve-regulated lead-acid (VRLA) battery</keyword>
     <abstract>New guidance to users dealing with premature capacity failures with VRLA batteries and updated definitions are addressed in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6853300"/>
 </reference>

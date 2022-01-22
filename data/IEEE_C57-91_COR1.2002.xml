@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-91/Cor1.2002" target="https://ieeexplore.ieee.org/document/1210625">
   <front>
     <title>IEEE Guide for Loading Mineral-Oil-Immersed Transformers - Corrigendum 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94283"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2013" month="February" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Loading</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>loading</keyword>
-    <keyword>mineral-oil-immersed</keyword>
     <abstract>Errors identified in IEEE Std C57.91-1995 are addressed in this corrigendum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94283"/>
 </reference>

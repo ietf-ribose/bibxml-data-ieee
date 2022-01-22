@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1378.1997" target="https://ieeexplore.ieee.org/document/9153332">
   <front>
     <title>IEEE Guide for Commissioning High-Voltage Direct-Current (HVDC) Converter Stations and Associated Transmission Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.9153332"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2020" month="July" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power conversion</keyword>
-    <keyword>Converters</keyword>
-    <keyword>HVDC transmission</keyword>
-    <keyword>Power transmission</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>high-voltage direct current</keyword>
-    <keyword>HVDC</keyword>
-    <keyword>HVDC transmission systems</keyword>
-    <keyword>off-site tests</keyword>
-    <keyword>on-site tests</keyword>
-    <keyword>precommissioning</keyword>
-    <keyword>commissioning</keyword>
     <abstract>General guidelines for commissioning high-voltage direct-current (HVDC) convert stations and associated transmission systems are provided. These guidelines apply to HVDC systems utilizing 6-pulse or 12-pulse thyristor-valve converter units operated as a two-terminal HVDC transmission system or an HVDC back-to-back system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.9153332"/>
 </reference>

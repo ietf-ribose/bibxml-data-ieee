@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1386-1.2001" target="https://ieeexplore.ieee.org/document/944007">
   <front>
     <title>IEEE Standard Physical and Environmental Layers for PCI Mezzanine Cards: PMC</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93279"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,28 +11,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="2"/>
-    <keyword>Data buses</keyword>
-    <keyword>backplane I/O</keyword>
-    <keyword>bezel</keyword>
-    <keyword>board</keyword>
-    <keyword>card</keyword>
-    <keyword>CompactPCI</keyword>
-    <keyword>face plate</keyword>
-    <keyword>front panel I/O</keyword>
-    <keyword>metric</keyword>
-    <keyword>host computer</keyword>
-    <keyword>I/O</keyword>
-    <keyword>local bus</keyword>
-    <keyword>mezzanine</keyword>
-    <keyword>module</keyword>
-    <keyword>modular I/O</keyword>
-    <keyword>PCI</keyword>
-    <keyword>Multibus I</keyword>
-    <keyword>Multibus II</keyword>
-    <keyword>VME</keyword>
-    <keyword>VME64</keyword>
-    <keyword>VME64x</keyword>
-    <keyword>VMEbus</keyword>
     <abstract>This standard, in conjunction with IEEE Std 1386-2001, IEEE Standard for a CommonMezzanine Card (CMC) Family, defines the physical and environmental layers of a PCI mezzaninecard (PMC) family to be usable on (but not limited to) single slot VME, VME64 and VME64x boards,CompactPCI boards, Multibus I and Multibus II boards, desktop computers, portable computers,servers, and similar types of applications. The electrical and logical layers are based on the PCIspecification from the PCI Special Interest Group. The PCI mezzanine cards allow for a variety ofoptional function expansions for the host system. I/O functionality from the PMC may be eitherthrough the mezzanine front panel, or via the backplane by routing the I/O signals through themezzanine connector to the host.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93279"/>
 </reference>

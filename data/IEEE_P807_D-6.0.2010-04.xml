@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P807/D-6.0.2010-04" target="https://ieeexplore.ieee.org/document/5764869">
   <front>
     <title>IEEE Draft Recommended Practice for Unique Identification in Hydroelectric Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764869"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Hydroelectric power generation</keyword>
-    <keyword>Hydraulic turbines</keyword>
-    <keyword>device</keyword>
-    <keyword>component</keyword>
-    <keyword>identification</keyword>
-    <keyword>tagging</keyword>
-    <keyword>coding</keyword>
-    <keyword>reporting</keyword>
     <abstract>This recommended practice provides a unique identification system for hydroelectric facilities that segregates and incorporates plant, unit, system, and component identifiers as a minimum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764869"/>
 </reference>

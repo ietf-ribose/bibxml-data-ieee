@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1387-3.1996" target="https://ieeexplore.ieee.org/document/650444">
   <front>
     <title>IEEE Standard for Information Technology -- Portable Operating System Interface (POSIX(TM)) System Administration -- Part 3: User and Group Account Administration</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85817"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="10"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>open systems</keyword>
-    <keyword>operating systems</keyword>
-    <keyword>portable application</keyword>
-    <keyword>POSIX</keyword>
-    <keyword>user</keyword>
-    <keyword>group</keyword>
-    <keyword>system administration</keyword>
     <abstract>System Administration Interface/User and Group Administration for Computer Operating System Environments, is part of the POSIX®series of standards for applications and user interfaces to open systems. The purpose of this standard is to provide a common set of utility programs, for the administration of theUser and Group Account entities described in the ISO/IEC 9945-1:1996 (IEEE Std1003.1-1996) and ISO/IEC 9945-2:1993 (IEEE Std 1003.2-1992) standards.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85817"/>
 </reference>

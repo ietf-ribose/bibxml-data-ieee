@@ -1,7 +1,6 @@
 <reference anchor="IEEE.415.1976" target="https://ieeexplore.ieee.org/document/7415890">
   <front>
     <title>IEEE Guide for Planning of Pre-operational Testing Programs for Class 1E Power Systems for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.7415890"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Nuclear power generation</keyword>
     <abstract>This document provides guidance for preoperational testing of Class 1E Power systems for nuclear-power generating stations. The extent of the system shall be that covered by IEEE Std 308-1974, "Standard Criteria for Class 1E Power Systems for Nuclear Power Generating Stations." The power systems include both AC and DC supplies but do not include the equipment which utilizes the AC and DC power.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.7415890"/>
 </reference>

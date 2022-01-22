@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-43.1999" target="https://ieeexplore.ieee.org/document/846711">
   <front>
     <title>IEEE Guide for the Application of Surge Protectors Used in Low-Voltage (Equal to Or Less Than 1000 V/Sub Rms/ Or 1200 Vdc) Data, Communications, and Signaling Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.91519"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>Surge protection</keyword>
     <abstract>Assistance is provided for the selection of the most appropriate type of low-voltage data, communications, and/or signalling circuit surge protector for a particular application or set of conditions. Surge protector functions and characteristics are also explained and evaluated. AC power circuit applications are not addressed in this document.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.91519"/>
 </reference>

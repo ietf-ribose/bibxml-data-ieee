@@ -1,7 +1,6 @@
 <reference anchor="IEEE.269.1992" target="https://ieeexplore.ieee.org/document/211096">
   <front>
     <title>IEEE Standard Methods for Measuring Transmission Performance of Analog and Digital Telephone Sets</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.114392"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Communication standards</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>performance</keyword>
-    <keyword>analog</keyword>
-    <keyword>telephone</keyword>
-    <keyword>sets</keyword>
-    <keyword>digital</keyword>
-    <keyword>voice</keyword>
-    <keyword>transmission</keyword>
-    <keyword>Voice transmission performance</keyword>
-    <keyword>Telephony</keyword>
     <abstract>Superseded by IEEE Std 269-2002. Practical methods for measuring the transmission characteristics of both digital and conventional to wire analog telephone sets by means of objective measurements on a test connection are described. The test results thus obtained may be used as a means of evaluating or specifying the transmission performance of a telephone set on a standardized basis. The measurements are applicable to telephone sets incorporating carbon or linear transmitters. Measurements are over the frequency range most useful for speech: 100-5000 Hz. The test methods are not intended to be applicable to special devices, such as noise-exclusion transmitters, distant-talking transmitters, insert-type receivers, or noise-exclusion receivers equipped with large ear pads.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.114392"/>
 </reference>

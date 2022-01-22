@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1115.2014" target="https://ieeexplore.ieee.org/document/6964783">
   <front>
     <title>IEEE Recommended Practice for Sizing Nickel-Cadmium Batteries for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6964783"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2014" month="November" day="21"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Nickel-Cadmium batteries </keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>IEEE 1115(TM)</keyword>
-    <keyword>nickel-cadmium batteries</keyword>
-    <keyword>stationary applications</keyword>
     <abstract>The sizing of nickel-cadmium batteries used in standby operation for stationary applications is discussed in this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6964783"/>
 </reference>

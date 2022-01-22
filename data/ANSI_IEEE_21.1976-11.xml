@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.21.1976-11" target="https://ieeexplore.ieee.org/document/20991">
   <front>
     <title>IEEE General Requirements and Test Procedure for Outdoor Apparatus Bushings</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.120671"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Insulators</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>outdoor power class apparatus</keyword>
-    <keyword>basic impulse insulation levels of 100 kV</keyword>
-    <keyword>transformers</keyword>
-    <keyword>oil-filled reactors</keyword>
-    <keyword>and oil circuit breakers.</keyword>
     <abstract>This standard applies to outdoor power class apparatus bushings which have basic impulse insulation levels of 100 kV and above for use as components of oil-filled transformers, oil-filled reactors, and oil circuit breakers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.120671"/>
 </reference>

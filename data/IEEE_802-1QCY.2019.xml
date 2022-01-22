@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1Qcy.2019" target="https://ieeexplore.ieee.org/document/8728296">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks Amendment 32: Virtual Station Interface (VSI) Discovery and Configuration Protocol (VDP) Extension to Support Network Virtualization Overlays Over Layer 3 (NVO3)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8728296"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2019" month="June" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>Virtualization</keyword>
-    <keyword>Overlay networks</keyword>
-    <keyword>amendment</keyword>
-    <keyword>IEEE 802.1Q</keyword>
-    <keyword>IEEE 802.1Qcy</keyword>
-    <keyword>NVO3</keyword>
-    <keyword>VDP extension</keyword>
-    <keyword>VDP IP address extension</keyword>
     <abstract>Extensions to the Virtual Station Interface (VSI) Discovery and Configuration Protocol (VDP) to support using the protocol between an end station and a device doing encapsulation/decapsulation for Network Virtualization Overlays Over Layer 3 (NVO3) are specified in this amendment to IEEE Std 802.1Q-2018. The extensions include adding format types [e.g., Internet Protocol (IP) addresses] and enhancing indication of migration events.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8728296"/>
 </reference>

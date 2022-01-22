@@ -1,21 +1,11 @@
 <reference anchor="ISO/IEC/IEEE.15288" target="https://ieeexplore.ieee.org/document/7106435">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- System life cycle processes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7106435"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2015" month="May" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>iSO Standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Product life cycle management</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>15288</keyword>
-    <keyword>life cycle</keyword>
-    <keyword>life cycle process</keyword>
-    <keyword>software</keyword>
     <abstract>A common framework for describing the life cycle of systems created by humans is established by this standard. It defines a set of processes and associated terminology. These processes can be applied at any level in the hierarchy of a system's structure. Selected sets of these processes can be applied throughout the life cycle for managing and performing the stages of a system's life cycle. This is accomplished through the involvement of all interested parties, with the ultimate goal of achieving customer satisfaction.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7106435"/>
 </reference>

@@ -1,24 +1,11 @@
 <reference anchor="IEEE.158/D-8.6158" target="https://ieeexplore.ieee.org/document/1405847">
   <front>
     <title>IEC/IEEE International Standard - Precision clock synchronization protocol for networked measurement and control systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95751"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April" day="30"/>
-    <keyword>IEC Standards</keyword>
-    <keyword>Clocks</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>IEC</keyword>
-    <keyword>Customer services</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>clocks</keyword>
-    <keyword>distributed system</keyword>
-    <keyword>master clock</keyword>
-    <keyword>measurement and control systems</keyword>
-    <keyword>real-time clock</keyword>
-    <keyword>synchronized clocks</keyword>
     <abstract>A protocol is provided in this standard that enables precise synchronization of clocks in measurement and control systems implemented with technologies such as network communication, local computing, and distributed objects. The protocol is applicable to systems communicating via packet networks. Heterogeneous systems are enabled that include clocks of various inherent precision, resolution, and stability to synchronize. System-wide synchronization accuracy and precision in the sub-microsecond range are supported with minimal network and local clock computing resources. Simple systems are installed and operated without requiring the management attention of users because the default behavior of the protocol allows for it.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95751"/>
 </reference>

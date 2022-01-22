@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1242.2016" target="https://ieeexplore.ieee.org/document/7676238">
   <front>
     <title>IEEE Guide for Specifying and Selecting Power, Control, and Special-Purpose Cable for Petroleum and Chemical Plants</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7676238"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,26 +10,7 @@
       </address>
     </author>
     <date year="2016" month="October" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Optical fiber communication</keyword>
-    <keyword>Low voltage </keyword>
-    <keyword>Data communications</keyword>
-    <keyword>Shut-off valves</keyword>
-    <keyword>cable insulation</keyword>
-    <keyword>data communications cable</keyword>
-    <keyword>emergency isolation valves</keyword>
-    <keyword>fiber optic</keyword>
-    <keyword>fire-resistive cable</keyword>
-    <keyword>IEEE 1242(TM)</keyword>
-    <keyword>LSZH/XLLSZH cable</keyword>
-    <keyword>low-voltage cable</keyword>
-    <keyword>medium voltage cable</keyword>
-    <keyword>motor-operated valves</keyword>
-    <keyword>non-metallic armor</keyword>
-    <keyword>remote-operated shut-off valves</keyword>
     <abstract>Information on the specification and selection of power, control, and special-purpose cable, as typically used in petroleum, chemical, and similar plants, is provided in this guide. Materials, design, testing, and applications are addressed. More recent developments, such as strand filling, low smoke, zero-halogen materials, chemical-moisture barriers, and fire-resistive cables have been included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7676238"/>
 </reference>

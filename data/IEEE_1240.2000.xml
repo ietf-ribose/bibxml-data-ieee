@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1240.2000" target="https://ieeexplore.ieee.org/document/905229">
   <front>
     <title>IEEE Guide for the Evaluation of the Reliability of Hvdc Converter Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.245621"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
     <abstract>This guide is intended to serve high-voltage direct current (HVDC) converter station reliability by suggesting significant objectives, design, operation, monitoring, and specification details. This guide includes the CIGRE performance protocol and reliability-related mathematical concepts.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.245621"/>
 </reference>

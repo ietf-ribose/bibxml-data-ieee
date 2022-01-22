@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1122.1998" target="https://ieeexplore.ieee.org/document/705932">
   <front>
     <title>IEEE Standard for Digital Recorders for Measurements in High-Voltage Impulse Tests</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87898"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,8 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="29"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>1122-1998_body.f5</keyword>
     <abstract>Reaffirmed September 2007. Instructions are given for conducting and reporting the more generally applicable and acceptable tests to determine the performance characteristics of polyphase induction motors and generators. Electrical measurements, performance testing, temperature tests, and miscellaneous tests are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87898"/>
 </reference>

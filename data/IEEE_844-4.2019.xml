@@ -1,7 +1,6 @@
 <reference anchor="IEEE.844-4.2019" target="https://ieeexplore.ieee.org/document/8700694">
   <front>
     <title>IEEE/CSA Standard for Impedance Heating of Pipelines and Equipment - Application Guide for Design, Installation, Testing, Commissioning, and Maintenance</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8700694"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,22 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Heating systems</keyword>
-    <keyword>Pipelines</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Hazardous areas</keyword>
-    <keyword>Impedance</keyword>
-    <keyword>CSA Group Standards</keyword>
-    <keyword>heating systems</keyword>
-    <keyword>IEEE 844.4TM</keyword>
-    <keyword>CSA C293.4</keyword>
-    <keyword>process heating</keyword>
-    <keyword>condensation prevention</keyword>
-    <keyword>freeze protection and temperature maintenance</keyword>
-    <keyword>re-melting solidified fluids</keyword>
-    <keyword>impedance heating</keyword>
-    <keyword>thermal insulation</keyword>
     <abstract>An application guide for the design, installation, testing, commissioning, and maintenance of impedance heating systems for pipelines and equipment intended for use in general industrial applications is provided in this standard. This standard provides requirements when utilizing impedance heating systems in ordinary as well as hazardous areas having explosive atmospheres.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8700694"/>
 </reference>

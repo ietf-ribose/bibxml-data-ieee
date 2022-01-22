@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2015" month="November" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Network topology</keyword>
-    <keyword>Management information base</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>link layer discovery protocol</keyword>
-    <keyword>management information base</keyword>
-    <keyword>topology discovery</keyword>
-    <keyword>topology information</keyword>
     <abstract>This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 802 LANs.</abstract>
   </front>
 </reference>

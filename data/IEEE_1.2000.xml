@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1.2000" target="https://ieeexplore.ieee.org/document/929429">
   <front>
     <title>IEEE Recommended Practice - General Principles for Temperature Limits in the Rating of Electrical Equipment and for the Evaluation of Electrical Insulation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92768"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="21"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>aging factors</keyword>
-    <keyword>EIM</keyword>
-    <keyword>EIS</keyword>
-    <keyword>electrical insulating material</keyword>
-    <keyword>electrical insulating system</keyword>
-    <keyword>electrical properties</keyword>
-    <keyword>electrical stress</keyword>
-    <keyword>environmental stress</keyword>
-    <keyword>factor of influence</keyword>
-    <keyword>hottest-spot temperature</keyword>
-    <keyword>mechanical properties</keyword>
-    <keyword>mechanical stress</keyword>
-    <keyword>observable temperature rise</keyword>
-    <keyword>relative temperature index</keyword>
-    <keyword>temperature index</keyword>
-    <keyword>temperature limits</keyword>
-    <keyword>thermal aging</keyword>
-    <keyword>thermal evaluation</keyword>
-    <keyword>voltage stress</keyword>
     <abstract>This recommended practice is intended to serve in the preparation of standards that areprincipally concerned with the thermal endurance of EIM and simple combinations of suchmaterials, with the establishment of limiting temperatures of EIS, and with the provision of generalprinciples for thermal classification of EIS.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92768"/>
 </reference>

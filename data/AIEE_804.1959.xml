@@ -1,7 +1,6 @@
 <reference anchor="AIEE.804.1959" target="https://ieeexplore.ieee.org/document/8691881">
   <front>
     <title>AIEE Test Procedure and Presentation of Aircraft Generator and Regulator Characteristics</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1959.8691881"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,6 @@
       </address>
     </author>
     <date year="2019" month="April" day="15"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Aircraft manufacture</keyword>
-    <keyword>Regulators</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1959.8691881"/>
 </reference>

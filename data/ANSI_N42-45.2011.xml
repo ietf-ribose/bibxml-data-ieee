@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-45.2011" target="https://ieeexplore.ieee.org/document/5783279">
   <front>
     <title>American National Standard for Evaluating the Image Quality of X-ray Computed Tomography (CT)Security-Screening Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5783279"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2012" month="May" day="17"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Computed tomography</keyword>
-    <keyword>X-ray imaging</keyword>
-    <keyword>Image quality</keyword>
-    <keyword>Biomedical imaging</keyword>
-    <keyword>ANSI N42.25</keyword>
-    <keyword>computed tomography</keyword>
-    <keyword>contraband</keyword>
-    <keyword>detection</keyword>
-    <keyword>explosives</keyword>
-    <keyword>image quality</keyword>
-    <keyword>luggage</keyword>
-    <keyword>screening</keyword>
-    <keyword>security</keyword>
     <abstract>Test methods and test articles for the evaluation of the image quality of CT security screening systems are provided. The quality of data for automated analysis is the primary concern. This standard does not address the system's ability to use its image data to automatically detect explosives or other threat materials, which is typically verified by an appropriate regulatory body.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5783279"/>
 </reference>

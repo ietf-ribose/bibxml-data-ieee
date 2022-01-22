@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1615.2007" target="https://ieeexplore.ieee.org/document/4288669">
   <front>
     <title>IEEE Recommended Practice for Network Communication in Electric Power Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4288669"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,28 +11,7 @@
       </address>
     </author>
     <date year="2014" month="January" day="31"/>
-    <keyword>address allocation</keyword>
-    <keyword>communication media</keyword>
-    <keyword>DNP3</keyword>
-    <keyword>electric utility</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>fiber-optic</keyword>
-    <keyword>IEC 60870-5</keyword>
-    <keyword>IEC 61850</keyword>
-    <keyword>Intelligent Electronic Device (IED)</keyword>
-    <keyword>Internet protocol (IP)</keyword>
-    <keyword>managed switch</keyword>
-    <keyword>network</keyword>
-    <keyword>network cable</keyword>
-    <keyword>network devices</keyword>
-    <keyword>noise sources</keyword>
-    <keyword>non-operational data</keyword>
-    <keyword>operational data</keyword>
-    <keyword>security awareness</keyword>
-    <keyword>substation</keyword>
-    <keyword>transmission control protocol (TCP)</keyword>
-    <keyword>time synchronization</keyword>
-    <keyword>wireless network</keyword>
     <abstract>Recommended practices for communication and interoperation of devices connected on an electric power substation Internet protocol (IP) network are provided. For the power engineer new to IP networking, this document provides an introduction to the concepts that need to be mastered as well as specific recommendations to follow when deploying the technologies. For equipment manufacturers and system integrators, it provides direction and requirements to facilitate interoperable electric utility information networks.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4288669"/>
 </reference>

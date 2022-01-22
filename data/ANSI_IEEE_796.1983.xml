@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.796.1983" target="https://ieeexplore.ieee.org/document/573226">
   <front>
     <title>IEEE Standard Microcomputer System Bus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.81701"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2015" month="January" day="9"/>
-    <keyword>system</keyword>
-    <keyword>bus</keyword>
-    <keyword>multibus</keyword>
-    <keyword>Microcomputer interfaces</keyword>
-    <keyword>Data buses</keyword>
     <abstract>A general-purpose microcomputer system bus is defined, and the device-independent electrical and functional interface requirements that a module shall meet in order to interconnect and communicate unambiguously by way of the system are specified. Signal definitions and timing and electrical specifications are covered in detail for users who evaluate or design products that will be compatible with the IEEE Std 796 system bus structure. Only with the interface characteristics of microcomputer devices are covered; design specifications, performance requirements, and safety requirements of modules are omitted. The use of the standard will enable independently manufactured devices to be connected into a single functional system, permit products with a wide range of capabilities to be introduced to the system simultaneously, and result in a system with a minimum of restrictions on the performance characteristics of devices connected to the system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.81701"/>
 </reference>

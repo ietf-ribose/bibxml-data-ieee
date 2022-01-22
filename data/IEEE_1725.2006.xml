@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1725.2006" target="https://ieeexplore.ieee.org/document/1624826">
   <front>
     <title>IEEE Standard for Rechargeable Batteries for Cellular Telephones</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99497"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2019" month="February" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>Polymers</keyword>
-    <keyword>ac/dc adapter</keyword>
-    <keyword>ac/dc charger</keyword>
-    <keyword>battery pack</keyword>
-    <keyword>cell</keyword>
-    <keyword>dc/dc adapter</keyword>
-    <keyword>dc/dc charger</keyword>
-    <keyword>failure mode and effects analysis (FMEA)</keyword>
-    <keyword>host device</keyword>
-    <keyword>Li-Ion polymer battery</keyword>
-    <keyword>mobile telephone battery</keyword>
-    <keyword>rechargeable Li-Ion battery</keyword>
     <abstract>This standard establishes criteria for design analysis for quality, and establishes criteria for reliability of rechargeable Li-Ion and Li-Ion Polymer batteries for mobile telephone applications. Also included in the standard are battery pack electrical and mechanical construction, packaging technologies, pack and cell level charge and discharge controls, and overall system considerations..</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99497"/>
 </reference>

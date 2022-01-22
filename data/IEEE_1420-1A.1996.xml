@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1420-1a.1996" target="https://ieeexplore.ieee.org/document/4140795">
   <front>
     <title>IEEE Supplement to Standard for Information Technology--Software Reuse--Data Model for Reuse Library Interoperability: Asset Certification Framework</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.339573"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
       </address>
     </author>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.339573"/>
 </reference>

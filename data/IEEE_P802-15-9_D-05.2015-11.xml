@@ -11,17 +11,6 @@
       </address>
     </author>
     <date year="2015" month="December" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Key management protocol</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Transport protocols</keyword>
-    <keyword>Key management protocol</keyword>
-    <keyword>KMP</keyword>
-    <keyword>Security</keyword>
-    <keyword>Multiplexed data service</keyword>
-    <keyword>fragmentation</keyword>
-    <keyword>information element</keyword>
-    <keyword>IE.</keyword>
     <abstract>This Recommended Practice defines a message exchange framework based on Information Elements as a transport method for key management protocol (KMP) datagrams and guidelines for the use of some existing KMPs with the IEEE Std 802.15.4. This Recommended Practice does not create a new KMP.This recommended practice also provides a generic Multiplexed data service layer that can be usedto transmit large packets from the upper layer process to another peer. The Multiplexed data serviceprovides a fragmentation and multiplexing layer for those packets so they can be delivered oversmaller MAC layer frames and multiplexed on the recipient end to the right processing service.</abstract>
   </front>
 </reference>

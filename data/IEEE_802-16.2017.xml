@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-16.2017" target="https://ieeexplore.ieee.org/document/8303870">
   <front>
     <title>IEEE Standard for Air Interface for Broadband Wireless Access Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8303870"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,34 +11,7 @@
       </address>
     </author>
     <date year="2018" month="February" day="27"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Broadband</keyword>
-    <keyword>Cellular networks</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>OFDM</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Microwave communication</keyword>
-    <keyword>broadband wireless access</keyword>
-    <keyword>BWA</keyword>
-    <keyword>cellular layer</keyword>
-    <keyword>fixed broadband wireless access</keyword>
-    <keyword>IEEE 802.16(TM)</keyword>
-    <keyword>IMT-2000</keyword>
-    <keyword>MAN</keyword>
-    <keyword>management information base</keyword>
-    <keyword>MIB</keyword>
-    <keyword>microwave</keyword>
-    <keyword>mobile broadband</keyword>
-    <keyword>mobile broadband wireless access</keyword>
-    <keyword>OFDM</keyword>
-    <keyword>OFDMA</keyword>
-    <keyword>radio</keyword>
-    <keyword>standard</keyword>
-    <keyword>WAS</keyword>
-    <keyword>wireless access systems</keyword>
-    <keyword>WirelessMAN(R)</keyword>
-    <keyword>wireless metropolitan area network</keyword>
     <abstract>This standard specifies the air interface, including the medium access control layer (MAC) and physical layer (PHY), of combined fixed and mobile point-to-multipoint broadband wireless access (BWA) systems providing multiple services. The MAC is structured to support the WirelessMAN-SC, WirelessMAN-OFDM, and WirelessMAN-OFDMA PHY specifications, each suited to a particular operational environment. The standard enables rapid worldwide deployment of innovative, cost-effective, and interoperable multi-vendor broadband wireless access products, facilitates competition in broadband access by providing alternatives to wireline broadband access, encourages consistent worldwide spectrum allocation, and accelerates the commercialization of broadband wireless access systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8303870"/>
 </reference>

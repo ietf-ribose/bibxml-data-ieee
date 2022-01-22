@@ -11,23 +11,6 @@
       </address>
     </author>
     <date year="2013" month="August" day="28"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Distributed processing</keyword>
-    <keyword>Network architecture</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>Simulation</keyword>
-    <keyword>Distributed Interactive Simulation</keyword>
-    <keyword>DIS</keyword>
-    <keyword>distributed simulation</keyword>
-    <keyword>Distributed Simulation Engineering and Execution Process</keyword>
-    <keyword>DSEEP</keyword>
-    <keyword>High Level Architecture</keyword>
-    <keyword>HLA</keyword>
-    <keyword>IEEE 1730</keyword>
-    <keyword>multi-architecture</keyword>
-    <keyword>systems engineering methodology</keyword>
-    <keyword>Test and Training Enabling Architecture</keyword>
-    <keyword>TENA</keyword>
     <abstract>A recommended practice for applying the Distributed Simulation Engineering and Execution Process(DSEEP) to the development and execution of distributed simulation environments that include more than one distributed simulation architecture is described. Distributed simulation architectures to which the recommended practice applies include, but are not limited to, Distributed Interactive Simulation (DIS), High Level Architecture (HLA), and Test and Training Enabling Architecture (TENA). This product identifies and describes multi-architecture issues and provides recommended actions for simulation environment developers faced with those issues. This product also augments the DSEEP lists of inputs, recommended tasks, and outcomes, with additional inputs, recommended tasks, and outcomes that apply to multi-architecture simulation environments. This product is an overlay to the DSEEP, which is a separate recommended practice.</abstract>
   </front>
 </reference>

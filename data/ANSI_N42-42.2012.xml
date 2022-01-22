@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-42.2012" target="https://ieeexplore.ieee.org/document/6502635">
   <front>
     <title>American National Standard Data Format for Radiation Detectors Used for Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6502635"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="April" day="16"/>
-    <keyword>ANSI standards</keyword>
-    <keyword>Detectors</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>US Government agencies</keyword>
-    <keyword>Security</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>ANSI N42.42</keyword>
-    <keyword>data format</keyword>
-    <keyword>DHS standards</keyword>
-    <keyword>homeland security</keyword>
-    <keyword>radiation detectors</keyword>
-    <keyword>radiation instruments</keyword>
-    <keyword>radiation measurement instruments</keyword>
     <abstract>The data format that shall be used for both required and optional data to be made available by radiation measurement instruments for homeland security applications is specified. The performance for these types of instruments is described in other standards; such as ANSI N42.32, ANSI N42.33, ANSI N42.34, ANSI N42.35, ANSI N42.38, ANSI N42.43, ANSI N42.48, ANSI N42.49A, and ANSI N42.53.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6502635"/>
 </reference>

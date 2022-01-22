@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1028.1997" target="https://ieeexplore.ieee.org/document/663254">
   <front>
     <title>IEEE Standard for Software Reviews</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.237324"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Software reviews</keyword>
-    <keyword>Inspection</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Software</keyword>
-    <keyword>Software engineering</keyword>
     <abstract>This standard is concerned only with the reviews; it does not define procedures for determining the necessity of a review, nor does it specify the disposition of the results of the review. Review types include management reviews, technical reviews, inspections, walk-throughs, and audits.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.237324"/>
 </reference>

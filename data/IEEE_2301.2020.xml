@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2301.2020" target="https://ieeexplore.ieee.org/document/9169938">
   <front>
     <title>IEEE Guide for Cloud Portability and Interoperability Profiles (CPIP)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9169938"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2020" month="August" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Cloud computing</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>Privacy</keyword>
-    <keyword>Computer security</keyword>
-    <keyword>cloud customers</keyword>
-    <keyword>cloud management</keyword>
-    <keyword>cloud profiles</keyword>
-    <keyword>cloud service providers</keyword>
-    <keyword>consent interoperability</keyword>
-    <keyword>data portability</keyword>
-    <keyword>IEEE 2301</keyword>
-    <keyword>interoperability</keyword>
-    <keyword>privacy</keyword>
-    <keyword>security</keyword>
     <abstract>Advice is given for cloud computing ecosystem participants (cloud vendors, service providers, and users) of standards-based choices in areas such as application interfaces, portability interfaces, management interfaces, interoperability interfaces, file formats, and operation conventions. These choices are grouped into multiple logical profiles, which are organized to address different cloud roles.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9169938"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1234.2007" target="https://ieeexplore.ieee.org/document/4385340">
   <front>
     <title>IEEE Guide for Fault Locating Techniques on Shielded Power Cable Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4385340"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2019" month="June" day="27"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Patents</keyword>
-    <keyword>arc reflection</keyword>
-    <keyword>cable fault locating</keyword>
-    <keyword>cable testing</keyword>
-    <keyword>grounding</keyword>
-    <keyword>safety</keyword>
-    <keyword>sectionalizing</keyword>
-    <keyword>thumping</keyword>
-    <keyword>time domain reflectometry (TDR)</keyword>
     <abstract>Tests and measurements that are performed on shielded power cables to identify the location of a fault are described. Whenever possible, the limitations of a particular test and measurement to locate a fault are provided and recommendations are made regarding specialized fault-locating techniques. A fault characterization chart is included as an aid to select a fault-locating technique.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4385340"/>
 </reference>

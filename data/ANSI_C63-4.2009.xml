@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-4.2009" target="https://ieeexplore.ieee.org/document/5246989">
   <front>
     <title>American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5246989"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,28 +10,7 @@
       </address>
     </author>
     <date year="2014" month="January" day="23"/>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Electric variables measurement</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>Noise measurement</keyword>
-    <keyword>Electronic equipment</keyword>
-    <keyword>Electromagnetic compatibility</keyword>
-    <keyword>C63.4-2009</keyword>
-    <keyword>conducted emission testing</keyword>
-    <keyword>conducting ground plane</keyword>
-    <keyword>digital equipment</keyword>
-    <keyword>electric-field measurement</keyword>
-    <keyword>intentional radiators</keyword>
-    <keyword>line impedance stabilization network</keyword>
-    <keyword>low-voltage electrical equipment</keyword>
-    <keyword>low-voltage electronic equipment</keyword>
-    <keyword>magnetic field measurement</keyword>
-    <keyword>normalized site attenuation</keyword>
-    <keyword>radiated emission testing</keyword>
-    <keyword>radio-noise emissions</keyword>
-    <keyword>radio-noise power</keyword>
-    <keyword>site attenuation</keyword>
-    <keyword>unintentional radiators</keyword>
     <abstract>U.S. consensus standard methods, instrumentation, and facilities for measurement of radio-frequency (RF) signals and noise emitted from electrical and electronic devices in the frequency range 9 kHz to 40 GHz are specified. This standard does not include generic nor product-specific emission limits. Where possible, the specifications herein are harmonized with other national and international standards used for similar purposes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5246989"/>
 </reference>

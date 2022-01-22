@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.292.1969" target="https://ieeexplore.ieee.org/document/9404074">
   <front>
     <title>IEEE Specification Format for Single-Degree-of-Freedom Spring-Restrained Rate Gyros</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.9404074"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Mathematical model</keyword>
-    <keyword>Accelerometers</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Rotors</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>Optical switches</keyword>
-    <keyword>Gyroscopes</keyword>
     <abstract>This specification defines the requirements for a single-degree-of-freedom spring-restrained rate gyro for [aircraft, missile, spacecraft,______] applications. The rate gyro shall be capable of providing [(dc, ac) voltage outputs proportional to angular rate inputs up to______ degrees per second, a switch closure(s) at angular rates (exceeding,less than)______ (+,-,±)______ degrees per second].</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.9404074"/>
 </reference>

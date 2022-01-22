@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.11.1980" target="https://ieeexplore.ieee.org/document/7736242">
   <front>
     <title>IEEE Standard for Rotating Electric Machinery for Rail and Road Vehicles</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7736242"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2016" month="November" day="4"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Road vehicles</keyword>
-    <keyword>Electric machinery</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Rail transportation</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Compressor motors</keyword>
     <abstract>This standard applies to rotating electric machinery which forms part of the propulsion and major auxiliary equipment on internally and externally powered electrically propelled rail and road vehicles and similar large transport and haulage vehicles and their trailers where speciÞed in the contract. Major auxiliary equipment includes equipment such as blower and compressor motors, motor-generator and motoralternator sets, auxiliary generators, and exciters, usually larger than 3 kilowatts.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7736242"/>
 </reference>

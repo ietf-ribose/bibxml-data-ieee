@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1149-6.2015" target="https://ieeexplore.ieee.org/document/7436703">
   <front>
     <title>IEEE Standard for Boundary-Scan Testing of Advanced Digital Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7436703"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,24 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Boundary scan testing</keyword>
-    <keyword>Digital systems</keyword>
-    <keyword>Network topology</keyword>
-    <keyword>Integrated circuits</keyword>
-    <keyword>AC machines</keyword>
-    <keyword>Printed circuits</keyword>
-    <keyword>Interconnections</keyword>
-    <keyword>Differential equations</keyword>
-    <keyword>ac-coupled signaling</keyword>
-    <keyword>boundary scan</keyword>
-    <keyword>circuit boards</keyword>
-    <keyword>differential signaling</keyword>
-    <keyword>IEEE 1149.6(TM)</keyword>
-    <keyword>integrated circuits</keyword>
-    <keyword>interconnect test</keyword>
-    <keyword>printed circuit boards</keyword>
-    <keyword>test</keyword>
     <abstract>IEEE Std 1149.1(TM) is augmented by this standard to improve the ability for testing differential and/or ac-coupled interconnections between integrated circuits on circuit boards and systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7436703"/>
 </reference>

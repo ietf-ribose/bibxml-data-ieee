@@ -1,7 +1,6 @@
 <reference anchor="IEEE.62.1958" target="https://ieeexplore.ieee.org/document/8684428">
   <front>
     <title>IEEE Recommended Guide for Making Dielectric Measurements in the Field</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1957.8684428"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1957.8684428"/>
 </reference>

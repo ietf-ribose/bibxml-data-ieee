@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-3/Amd6.2021" target="https://ieeexplore.ieee.org/document/9604023">
   <front>
     <title>IEEE/ISO/IEC-International Standard-Telecommunications and exchange between information technology systems--Requirements for local and metropolitan area networks--Part 3:Standard for Ethernet AMENDMENT 6: Maintenance #13:Power over ethernet over 2 pairs</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9604023"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="4"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Urban areas</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>802.3</keyword>
-    <keyword>802.3cq</keyword>
-    <keyword>amendment</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>DTE power via MDI</keyword>
-    <keyword>Power over Ethernet</keyword>
-    <keyword>PoE</keyword>
     <abstract>This amendment to IEEE Std 802.3-2018 makes technical and editorial corrections and refinements to Power over Ethernet over 2-pairs in Clause 33.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9604023"/>
 </reference>

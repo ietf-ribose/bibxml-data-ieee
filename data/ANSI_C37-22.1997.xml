@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C37-22.1997" target="https://ieeexplore.ieee.org/document/1389257">
   <front>
     <title>American National Standard Preferred Ratings and Related Required Capabilities for Indoor AC Medium-Voltage Switches Used in Metal-Enclosed Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.95626"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <abstract>This standard provides preferred ratings for indoor AC medium-voltage switches used in metal-enclosed switchgear.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.95626"/>
 </reference>

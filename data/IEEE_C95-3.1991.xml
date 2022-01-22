@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C95-3.1991" target="https://ieeexplore.ieee.org/document/182889">
   <front>
     <title>Recommended Practice for the Measurement of Potentially Hazardous Electromagnetic Fields - RF and Microwave</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106979"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Microwave measurements</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>Electromagnetic radiative interference</keyword>
-    <keyword>Occupational health and safety</keyword>
-    <keyword>Microwave fields</keyword>
-    <keyword>Electromagnetic fields</keyword>
-    <keyword>SAR measurement</keyword>
-    <keyword>RF microwave survey instrument</keyword>
-    <keyword>RF microwave instrumentation</keyword>
-    <keyword>RF hazard determination</keyword>
-    <keyword>RF fields</keyword>
-    <keyword>Potentially hazardous fields</keyword>
     <abstract>Superseded by C95.3-1991. Establish specifications for techniques and instumentation to used in evaluating radio-frequency hazards to amnkind, flammable volatile materials, and explosive devices.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106979"/>
 </reference>

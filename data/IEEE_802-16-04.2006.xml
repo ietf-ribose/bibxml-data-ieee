@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-16-04.2006" target="https://ieeexplore.ieee.org/document/4068405">
   <front>
     <title>IEEE Standard for Conformance to IEEE 802.16 - Part 4: Protocol Implementation Conformance Statement (PICS) Proforma for Frequencies below 11 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.288643"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2014" month="February" day="19"/>
-    <keyword>broadband wireless access (BWA)</keyword>
-    <keyword>compliance test</keyword>
-    <keyword>fixed broadband wireless access networks</keyword>
-    <keyword>metropolitan area network</keyword>
-    <keyword>microwaves</keyword>
-    <keyword>point-to-multipoint</keyword>
-    <keyword>wireless access systems WAS)</keyword>
-    <keyword>WirelessMAN(R) standards</keyword>
     <abstract>Conformance to IEEE Std 802.16-2004 This amendment updates and expands IEEE Std 802.16-2004 to allow for mobile subscriber stations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.288643"/>
 </reference>

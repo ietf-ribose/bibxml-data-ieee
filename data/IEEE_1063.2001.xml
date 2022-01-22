@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1063.2001" target="https://ieeexplore.ieee.org/document/974401">
   <front>
     <title>IEEE Standard for Software User Documentation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93368"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2013" month="March" day="14"/>
-    <keyword>Documentation</keyword>
-    <keyword>online help</keyword>
-    <keyword>software user documentation</keyword>
-    <keyword>user manual</keyword>
     <abstract>Minimum requirements for the structure, information content, and format of user docu-mentation, including both printed and electronic documents used in the work environment by usersof systems containing software, are provided in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93368"/>
 </reference>

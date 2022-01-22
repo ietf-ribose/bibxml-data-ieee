@@ -1,7 +1,6 @@
 <reference anchor="IEEE.610-12.1990" target="https://ieeexplore.ieee.org/document/159342">
   <front>
     <title>IEEE Standard Glossary of Software Engineering Terminology</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101064"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2013" month="March" day="19"/>
-    <keyword>Terminology</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Standards</keyword>
-    <keyword>glossary</keyword>
-    <keyword>terminology</keyword>
-    <keyword>dictionary</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Definitions</keyword>
     <abstract>This IEEE Standards product is part of the family on Software Engineering. This standard identifies terms currently in use in the field of Software Engineering. Standard definitions for those terms are established.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101064"/>
 </reference>

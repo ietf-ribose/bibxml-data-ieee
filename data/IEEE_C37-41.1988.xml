@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-41.1988" target="https://ieeexplore.ieee.org/document/689542">
   <front>
     <title>IEEE Standard Design Tests for High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.82878"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Switchgear testing</keyword>
-    <keyword>high-voltage fuses</keyword>
-    <keyword>single-pole air switches</keyword>
-    <keyword>AC</keyword>
-    <keyword>distribution</keyword>
-    <keyword>switch blades</keyword>
-    <keyword>oil cutouts</keyword>
     <abstract>Superseded. Tests for high-voltage fuses (above 600 V), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories (for AC distribution systems) are covered. These include enclosed, open, and open-link types of distribution cutouts and fuses; distribution current-limiting fuses; distribution oil cutouts; distribution enclosed single-pole air switches; power fuses, including current-limiting types; outdoor and indoor fuse disconnecting switches; fuse supports, fuse mountings, fuse hooks, fuse tongs, and fuse links of the type used exclusively with the above products; and removable switch blades for certain of the above.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.82878"/>
 </reference>

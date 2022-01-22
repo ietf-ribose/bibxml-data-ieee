@@ -11,18 +11,6 @@
       </address>
     </author>
     <date year="2017" month="October" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>Semiconductor testing</keyword>
-    <keyword>Simulation</keyword>
-    <keyword>Digital systems</keyword>
-    <keyword>ATPG</keyword>
-    <keyword>fault models</keyword>
-    <keyword>fault simulation</keyword>
-    <keyword>IEEE 1804(TM)</keyword>
-    <keyword>semiconductor testing</keyword>
-    <keyword>stuck-at faults</keyword>
-    <keyword>test coverage</keyword>
     <abstract>Aspects of fault models as they are relevant to the generation of test patterns for digital circuits are formalized in this standard. Fault counting, fault classification, and fault coverage reporting across different automatic test pattern generation (ATPG) tools, for the single stuck-at fault model are included in the scope. It shall be incumbent for fault coverage to be reported in a uniform way on all ATPG tools (that comply with this standard). The generation of a uniform coverage (and, hence, a uniform test quality) metric for large chips [including systems-on-chips (SOCs)] with different cores and modules for which test patterns have been independently generated will be facilitated by this standard.</abstract>
   </front>
 </reference>

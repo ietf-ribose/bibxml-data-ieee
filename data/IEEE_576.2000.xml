@@ -1,7 +1,6 @@
 <reference anchor="IEEE.576.2000" target="https://ieeexplore.ieee.org/document/929428">
   <front>
     <title>IEEE Recommended Practice for Installation, Termination, and Testing of Insulated Power Cable as Used in Industrial and Commercial Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92769"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="31"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>jamming</keyword>
-    <keyword>minimum bending radius</keyword>
-    <keyword>pulling lubricants</keyword>
-    <keyword>pulling tensions</keyword>
-    <keyword>sidewall pressure</keyword>
-    <keyword>splicing</keyword>
     <abstract>A guide for installing, splicing, terminating, and field proof testing of cable systems in industrial and commercial applications is provided. It is not intended to be a design document,although many of the problems of installation can be avoided by designing cable layouts within the installation limits of this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92769"/>
 </reference>

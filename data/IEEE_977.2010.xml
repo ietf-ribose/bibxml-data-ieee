@@ -1,7 +1,6 @@
 <reference anchor="IEEE.977.2010" target="https://ieeexplore.ieee.org/document/5716533">
   <front>
     <title>IEEE Guide to Installation of Foundations for Transmission Line Structures</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5716533"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2022" month="January" day="6"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Transmission lines</keyword>
-    <keyword>Ground support</keyword>
-    <keyword>anchor</keyword>
-    <keyword>foundation</keyword>
-    <keyword>pile</keyword>
-    <keyword>transmission line structure</keyword>
     <abstract>Various approaches to good construction practices that could improve the installation of transmission line structure foundations are presented. Spread foundations, drilled shaft foundations, pile foundations, and anchors are treated. This guide is intended to be used as a reference source for those involved in the ownership, design, and construction of transmission structures.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5716533"/>
 </reference>

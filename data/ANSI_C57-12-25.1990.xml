@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C57-12-25.1990" target="https://ieeexplore.ieee.org/document/587793">
   <front>
     <title>American National Standard for Transformers - Pad-Mounted, Compartmental-Type, Self-Cooled, Single-Phase Distribution Transformers With Separable Insulated High-Voltage Connectors; High Voltage, 34 500 Grdy/ 19 920 Volts and Below; Low Voltage, 240/120 Volts; 167 kVa and Smaller Requirements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.82371"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Pad mounted equipment</keyword>
-    <keyword>Low voltage</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Power distribution</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.82371"/>
 </reference>

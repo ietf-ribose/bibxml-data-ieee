@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1394-3.2003" target="https://ieeexplore.ieee.org/document/1288537">
   <front>
     <title>IEEE Standard for a High Performance Serial Bus Peer-to-Peer Data Transport Protocol (PPDT)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94445"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>IEEE 1394 Standard</keyword>
-    <keyword>Peer-to-peer computing</keyword>
-    <keyword>Transport protocols</keyword>
-    <keyword>Patents</keyword>
-    <keyword>computers</keyword>
-    <keyword>CSR architecture</keyword>
-    <keyword>connect</keyword>
-    <keyword>peer-to-peer</keyword>
-    <keyword>SBP-2</keyword>
-    <keyword>transport protocol</keyword>
     <abstract>This standard defines a peer-to-peer data transport (PPDT) protocol between Serial Bus devices that implement Serial Bus Protocol 2 (SBP-2). The facilities specified include device and service discovery, self-configurable (plug and play) binding, and connection management.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94445"/>
 </reference>

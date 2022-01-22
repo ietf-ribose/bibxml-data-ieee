@@ -1,30 +1,11 @@
 <reference anchor="IEEE.484.1996" target="https://ieeexplore.ieee.org/document/503682">
   <front>
     <title>IEEE Recommended Practice for Installation Design and Installation of Vented Lead-Acid Batteries for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81024"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Lead materials/devices</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Protection/safety</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>alarms</keyword>
-    <keyword>assembly</keyword>
-    <keyword>data collection</keyword>
-    <keyword>float operation</keyword>
-    <keyword>flooded cells</keyword>
-    <keyword>freshening charge</keyword>
-    <keyword>installation design</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>internal ohmic</keyword>
-    <keyword>ohmic measurements</keyword>
-    <keyword>mounting</keyword>
-    <keyword>precautions</keyword>
-    <keyword>protective equipment</keyword>
-    <keyword>resistance readings</keyword>
-    <keyword>seismic</keyword>
     <abstract>Superseded by 484-2002. Recommended design practices and procedures for storage, location, mounting, ventilation, instrumentation, preassembly, assembly, and charging of vented lead-acid batteries are provided. Required safety practices are also included. These recommended practices are applicable to all stationary applications. However, specific applications, such as emergency lighting units and semiportable equipment, and alternate energy applications, may have other appropriate practices and are beyond the scope of this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81024"/>
 </reference>

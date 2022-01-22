@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-17.2012" target="https://ieeexplore.ieee.org/document/6307802">
   <front>
     <title>IEEE Standard for Trip Systems for Low-Voltage (1000 V and below) AC and General Purpose (1500 V and below) DC Power Circuit Breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6307802"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,26 +10,7 @@
       </address>
     </author>
     <date year="2012" month="September" day="19"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Current control</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>Low voltage</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>AC motors</keyword>
-    <keyword>Direct-acting trip</keyword>
-    <keyword>ground fault</keyword>
-    <keyword>I2t</keyword>
-    <keyword>IEEE C37.17</keyword>
-    <keyword>i-squared-t</keyword>
-    <keyword>instantaneous</keyword>
-    <keyword>longtime</keyword>
-    <keyword>low-voltage power circuit breaker</keyword>
-    <keyword>power system protection</keyword>
-    <keyword>short-time</keyword>
-    <keyword>time-overcurrent</keyword>
-    <keyword>trip unit</keyword>
     <abstract>Requirements for direct acting current and voltage protective functions of direct-acting overcurrent electromechanical trip devices, direct-acting overcurrent electronic trip systems, reverse-current trip systems for dc circuit breakers, and undervoltage trip devices that are integral with low-voltage ac (1000 V and below) and general purpose low-voltage dc (1500 and below) power circuit breakers covered by IEEE Std C37.13<sup>TM</sup>, IEEE Std C37.14<sup>TM</sup>, and IEEE Std C37.16<sup>TM</sup> are included in this standard. Additional information, communication and/or additional internal or external protective functions or devices are not covered (but also not restricted) by this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6307802"/>
 </reference>

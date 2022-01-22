@@ -11,39 +11,6 @@
       </address>
     </author>
     <date year="2017" month="December" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Microgrids</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Energy storage</keyword>
-    <keyword>Energy management</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>compliance testing</keyword>
-    <keyword>core functions</keyword>
-    <keyword>dispatch</keyword>
-    <keyword>distributed energy resources</keyword>
-    <keyword>distributed energy storage</keyword>
-    <keyword>distributed generation</keyword>
-    <keyword>electric distribution systems</keyword>
-    <keyword>energy management system</keyword>
-    <keyword>grid-connected</keyword>
-    <keyword>IEEE 2030.8™</keyword>
-    <keyword>initiating event</keyword>
-    <keyword>interconnection agreement</keyword>
-    <keyword>interconnection requirements</keyword>
-    <keyword>islanded</keyword>
-    <keyword>microgrid</keyword>
-    <keyword>microgrid controller</keyword>
-    <keyword>microgrid control system (MGCS)</keyword>
-    <keyword>microgrid system</keyword>
-    <keyword>planned islanding</keyword>
-    <keyword>point of interconnection (POI)</keyword>
-    <keyword>power quality</keyword>
-    <keyword>reconnection</keyword>
-    <keyword>ride through</keyword>
-    <keyword>standards</keyword>
-    <keyword>steady state (SS)</keyword>
-    <keyword>transition</keyword>
-    <keyword>unplanned islanding</keyword>
     <abstract>A key element of microgrid operation is the microgrid controller and more specifically the energy management system. It includes the control functions that define the microgrid as a system that can manage itself, and operate autonomously or grid connected, and seamlessly connect to and disconnect from the main distribution grid for the exchange of power and the supply of ancillary services, including for the distribution system to which it is connected. It is recognized that microgrid components and operational solutions exist in different configurations with different implementations. The scope of this standard is to develop a set of testing procedures allowing the verification, the quantification of the performance and a comparison of the performance with expected minimum requirements of the different functions of the microgrid controller that are common to the control of all microgrids, regardless of topology, configuration or jurisdiction. It aims to present metrics for a comparison of the control functions required from both the microgrid operator and the distribution system operator. The reason for establishing a standard for testing microgrid controllers, in the context of enabling interoperability of the different controllers and components needed to operate the controller through cohesive and platform-independent interfaces, is to establish standardized testing criteria leading to procedures. This approach allows for flexibility and customization of components and control algorithms to be 16 deployed without limiting potential functionality, while ensuring minimum requirements are met. The standardization focuses on testing functional requirements, while recognizing that there are many possible hardware and software implementations of the same microgrid controller generic functions. The interoperability with various Distributed Energy Resource (DER) interfaces, and other electrical system interfaces within the microgrid should be considered. A standardized set of testing criteria/procedures should facilitate the wide adoption standard microgrid controller functional and performance requirements by vendors and utilities, including the Distribution System Operator, for ease of interfacing with the Distribution Management System. The standard is functionality-driven and focuses on a modular approach to the implementation of the functional requirements.</abstract>
   </front>
 </reference>

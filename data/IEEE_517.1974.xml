@@ -1,7 +1,6 @@
 <reference anchor="IEEE.517.1974" target="https://ieeexplore.ieee.org/document/19474">
   <front>
     <title>IEEE Standard Specification Format Guide and Test Procedure for Single-Degree-of-Freedom Rate-Integrating Gyros</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.120237"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="13"/>
-    <keyword>Attitude control</keyword>
-    <keyword>Displacement measurement</keyword>
-    <keyword>Gyroscopes</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>single</keyword>
-    <keyword>degree</keyword>
-    <keyword>freedom</keyword>
-    <keyword>intergrating</keyword>
-    <keyword>gyros</keyword>
-    <keyword>Gyroscopes</keyword>
     <abstract>A specification format guide for the preparation of a rate-integrating gyro specification that provides a common meeting ground of terminology and practice for manufacturers and users is presented. A compilation of recommended procedures for testing a rate-integrating gyro is given.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.120237"/>
 </reference>

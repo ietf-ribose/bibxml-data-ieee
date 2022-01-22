@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P338/D-6.2011-02" target="https://ieeexplore.ieee.org/document/5764881">
   <front>
     <title>IEEE Draft Standard for Standard Criteria for the Periodic Surveillance Testing of Nuclear Power Generating Station Safety Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764881"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,14 +9,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Surveillance</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>functional tests</keyword>
-    <keyword>periodic testing</keyword>
-    <keyword>risk-informed testing</keyword>
-    <keyword>surveillance testing</keyword>
     <abstract>The standard provides criteria for the performance of periodic surveillance testing of nuclear power generating station safety systems. The scope of periodic surveillance testing consists of functional tests and checks, calibration verification, and time response measurements, as required, to verify that the safety system performs its defined safety function. Post maintenance and post-modification testing are not covered by this document. This standard amplifies the periodic surveillance testing requirements of other nuclear safety-related IEEE standards.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764881"/>
 </reference>

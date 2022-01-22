@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1363a.2004" target="https://ieeexplore.ieee.org/document/1335427">
   <front>
     <title>IEEE Standard Specifications for Public-Key Cryptography - Amendment 1: Additional Techniques</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94612"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2014" month="August" day="8"/>
-    <keyword>digital signature</keyword>
-    <keyword>encryption</keyword>
-    <keyword>key agreement</keyword>
-    <keyword>public-key cryptography</keyword>
     <abstract>Amendment to IEEE Std 1363-2000, this standard specifies additional public-key cryptographic techniques beyond those in IEEE Std 1363-2000. It is intended to be merged with IEEE Std 1363-2000 during future revisions.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94612"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.11073-30200a.2011" target="https://ieeexplore.ieee.org/document/6022710">
   <front>
     <title>Health informatics--Point-of-care medical device communication Part 30200: Transport profile--Cable connected Amendment 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6022710"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2013" month="October" day="23"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>IEEE 802.3 Standards</keyword>
-    <keyword>Medical services</keyword>
-    <keyword>Biomedical equipment</keyword>
-    <keyword>Infrared imaging</keyword>
-    <keyword>Patient monitoring</keyword>
-    <keyword>bedside</keyword>
-    <keyword>IEEE 11073</keyword>
-    <keyword>IEEE Std 802.3-2008</keyword>
-    <keyword>Infrared Data Association (IrDA)</keyword>
-    <keyword>legacy device</keyword>
-    <keyword>medical device</keyword>
-    <keyword>medical device communications</keyword>
-    <keyword>MIB</keyword>
-    <keyword>patient</keyword>
-    <keyword>SNTP</keyword>
     <abstract>ISO/IEEE Std 11073-30200:2004 is extended in this amendment to include IEEE 802.3 100BASE-T and analysis of the compatibility of cable connections between ISO/IEEE Std 11073-30200:2004 and IEEE Std 802.3™-2008.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6022710"/>
 </reference>

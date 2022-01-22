@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C57-12-29.1991" target="https://ieeexplore.ieee.org/document/1389307">
   <front>
     <title>American National Standard for Switchgear and Transformers - Pad-Mounted Equipment- Enclosure Integrity for Coastal Environments</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.95636"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="29"/>
-    <keyword>Standards</keyword>
-    <keyword>Coatings</keyword>
-    <keyword>Welding</keyword>
-    <keyword>Resistance</keyword>
-    <keyword>Sea measurements</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Corrosion</keyword>
-    <keyword>IEEE C57.12</keyword>
-    <keyword>IEEE C57.12.29</keyword>
     <abstract>This standard covers conformance tests and requirements for the integrity of above grade pad-mounted enclosures intended for installation in coastal environments. Other performance requirements may be needed to provide long field life in other contaminated environments. These enclosures contain apparatus energized in excess of 600 volts that may be exposed to the public including, but not limited to, the following types of equipments enclosures: Pad-mounted capacitors or inductors; Pad-mounted distribution transformers; Pad-mounted junction enclosures; Pad-mounted metering equipment; Pad-mounted switchgear. This standard does not cover installations that are under the exclusive control of electric utilities and that are located in such a manner that access to the equipment is controlled exclusively by the utility.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.95636"/>
 </reference>

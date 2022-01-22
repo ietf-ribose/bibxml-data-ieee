@@ -1,7 +1,6 @@
 <reference anchor="IEEE.No-284" target="https://ieeexplore.ieee.org/document/19453">
   <front>
     <title>IEEE Standards Report on State-of-the-Art of Measuring Field Strength, Continuous Wave, Sinusoidal</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.120171"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="14"/>
-    <keyword>Calibration</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>field</keyword>
-    <keyword>strength</keyword>
-    <keyword>continuous</keyword>
-    <keyword>wave</keyword>
-    <keyword>sinusoidal</keyword>
     <abstract>This document is a Report on the state-of-the-art of measuring field strength of radio-frequency electromagnetic waves, with respect to available and desireable accuracies, general principles of measurement techniques and calibration methods, and references to pertinent literature.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.120171"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2400.2016" target="https://ieeexplore.ieee.org/document/7502056">
   <front>
     <title>IEEE Standard for Wind Turbine Aero Acoustic Noise Measurement Techniques</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7502056"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,21 +10,7 @@
       </address>
     </author>
     <date year="2016" month="June" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Noise measurement</keyword>
-    <keyword>Wind power generation</keyword>
-    <keyword>Acoustic measurements</keyword>
-    <keyword>Low frequency noise</keyword>
-    <keyword>Wind turbines</keyword>
-    <keyword>Amplitude modulation</keyword>
-    <keyword>aero acoustic noise</keyword>
-    <keyword>amplitude modulation noise</keyword>
-    <keyword>far-field</keyword>
-    <keyword>IEEE 2400(TM)</keyword>
-    <keyword>low-frequency noise including infrasound</keyword>
-    <keyword>near-field</keyword>
-    <keyword>wind farm</keyword>
-    <keyword>wind turbine</keyword>
     <abstract>Techniques to select wind turbine and wind farm aero acoustic noise measurements, including instrumentation standards and metrology technology, measurement set, measurement procedures, data processing, and noise source data analysis are described in this standard. Nearfield sound measurement similar to IEC 61400-11 distance and far-field sound measurement both outside and inside concerned houses or buildings are within the scope of this standard. This standard focuses on amplitude modulation noise, however, guidelines for low-frequency noise including infrasound near-field measurement are provided. IEC 61400-11 provides overall wind turbine noise measurement standards, while this standard focuses more on the aero acoustic noise of wind turbines to avoid overlap with IEC 61400-11.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7502056"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-11/Amd1.2012" target="https://ieeexplore.ieee.org/document/6774846">
   <front>
     <title>ISO/IEC/IEEE International Standard Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 1: Prioritization of Management Frames (adoption of IEEE Std 802-11ae-2012)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6774846"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2014" month="March" day="18"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>ISO standards</keyword>
-    <keyword>IEC standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Quality of service</keyword>
-    <keyword>Service level management</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>IEEE 802.11</keyword>
-    <keyword>IEEE 802.11ae</keyword>
-    <keyword>management</keyword>
-    <keyword>QMF</keyword>
-    <keyword>QoS</keyword>
-    <keyword>quality-of-service management frame</keyword>
     <abstract>A mechanism for prioritization of management frames is provided and a protocol to communicate management frame prioritization policy is specified in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6774846"/>
 </reference>

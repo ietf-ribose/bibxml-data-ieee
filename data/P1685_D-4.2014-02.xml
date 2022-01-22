@@ -5,34 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2014" month="March"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electronic design automation and methodology</keyword>
-    <keyword>XML</keyword>
-    <keyword>Metadata</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>Registration</keyword>
-    <keyword>Semantics</keyword>
-    <keyword>User interfaces</keyword>
-    <keyword>abstraction definitions</keyword>
-    <keyword>address space specification</keyword>
-    <keyword>bus definitions</keyword>
-    <keyword>designenvironment</keyword>
-    <keyword>EDA</keyword>
-    <keyword>electronic design automation</keyword>
-    <keyword>electronic system level</keyword>
-    <keyword>ESL</keyword>
-    <keyword>implementationconstraints</keyword>
-    <keyword>IP-XACT</keyword>
-    <keyword>register transfer level</keyword>
-    <keyword>RTL</keyword>
-    <keyword>SCRs</keyword>
-    <keyword>semantic consistency rules</keyword>
-    <keyword>TGI</keyword>
-    <keyword>tightgenerator interface</keyword>
-    <keyword>tool and data interoperability</keyword>
-    <keyword>use models</keyword>
-    <keyword>XML design meta-data</keyword>
-    <keyword>XMLschema</keyword>
     <abstract>Conformance checks for eXtensible Markup Language (XML) data designed to describeelectronic systems are formulated by this standard. The meta-data forms that are standardizedinclude: components, systems, bus interfaces and connections, abstractions of those buses, anddetails of the components including address maps, register and field descriptions, and file setdescriptions for use in automating design, verification, documentation, and use flows for electronicsystems. A set of XML schemas of the form described by the World Wide Web Consortium (W3C)and a set of semantic consistency rules (SCRs) are included. A generator interface that is portableacross tool environments is provided. The specified combination of methodology-independentmeta-data and the tool-independent mechanism for accessing that data provides for portability ofdesign data, design methodologies, and environment implementations.</abstract>
   </front>
 </reference>

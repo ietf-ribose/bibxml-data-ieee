@@ -1,7 +1,6 @@
 <reference anchor="IEEE.339.1972" target="https://ieeexplore.ieee.org/document/7407590">
   <front>
     <title>IEEE Standard Requirements for Switching-Impulse Voltage Insulation Strength for AC High Voltage Circuit Breakers Rated on a Symmetrical Current Basis (362 kB and Above)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7407590"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>AC machines</keyword>
-    <keyword>Current limiters</keyword>
-    <keyword>Symmetrical current basis </keyword>
-    <keyword>ANSI Standards</keyword>
     <abstract>This standard covers requirements for switching-impulse voltage insulation strength for outdoor AC high-voltage circuit breakers having rated maximum voltages of 362 kV and above.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.7407590"/>
 </reference>

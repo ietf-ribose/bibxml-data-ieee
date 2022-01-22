@@ -1,7 +1,6 @@
 <reference anchor="IEEE.145.2013" target="https://ieeexplore.ieee.org/document/6758443">
   <front>
     <title>IEEE Standard for Definitions of Terms for Antennas</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6758443"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
       </address>
     </author>
     <date year="2014" month="March" day="6"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Antennas</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>antennas</keyword>
-    <keyword>definitions</keyword>
-    <keyword>IEEE 145</keyword>
-    <keyword>terms</keyword>
     <abstract>Definitions for antennas and for systems that incorporate an antenna as a component of the system are established in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6758443"/>
 </reference>

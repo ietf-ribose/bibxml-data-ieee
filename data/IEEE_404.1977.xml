@@ -1,7 +1,6 @@
 <reference anchor="IEEE.404.1977" target="https://ieeexplore.ieee.org/document/7415887">
   <front>
     <title>IEEE Standard for Cable Joints</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7415887"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,9 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Cable joints</keyword>
     <abstract>The purpose of this standard is to outline definitions, terminology, voltage ratings, and test requirements for cable joints for all types of insulated ac power cable rated in preferred voltage steps from 2.5 to 500kV. No attempt is made in this standard to cover design details, dimensional data, or installation instructions normally supplied by the designer. Cable joints are made or assembled on the jobsite with the components supplied, and therefore, it is essential that all drawings and instructions be followed carefully by trained personnel in order that the actual field joints develop the characteristics established by design tests on similar joints.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.7415887"/>
 </reference>

@@ -10,18 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Timing</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>IEEE 802.11 Standards</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>channel coordination</keyword>
-    <keyword>multi-channel operation</keyword>
-    <keyword>user priority</keyword>
-    <keyword>WAVE</keyword>
-    <keyword>wireless access in vehicular environments</keyword>
-    <keyword>802.11</keyword>
     <abstract>This standard describes multi-channel wireless radio operations, WAVE mode, medium access control (MAC) and physical layers (PHYs), including the operation of control channel (CCH) and service channel (SCH) interval timers, parameters for priority access, channel switching and routing, management services, and primitives designed for multi-channel operations.</abstract>
   </front>
 </reference>

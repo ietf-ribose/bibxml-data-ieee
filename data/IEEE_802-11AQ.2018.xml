@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11aq.2018" target="https://ieeexplore.ieee.org/document/8457463">
   <front>
     <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area network--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 5: Preassociation Discovery</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8457463"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2018" month="September" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>amendment</keyword>
-    <keyword>bloom filter</keyword>
-    <keyword>hash function</keyword>
-    <keyword>IEEE 802.11&amp;#8482;</keyword>
-    <keyword>IEEE 802.11aq&amp;#8482;</keyword>
-    <keyword>preassociation</keyword>
-    <keyword>service discovery</keyword>
     <abstract>Modifications to IEEE Std 802.11™-2016, above the physical layer (PHY), to enable delivery of preassociation service discovery information to IEEE 802.11 stations (STAs) are defined in this amendment., above the physical layer (PHY), to enable delivery of preassociation service discovery information to IEEE Std 802.11 stations (STAs). (The PDF of this standard is available at no cost to you compliments of the IEEE GET program https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8457463"/>
 </reference>

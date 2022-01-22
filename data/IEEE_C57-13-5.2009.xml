@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-13-5.2009" target="https://ieeexplore.ieee.org/document/5372457">
   <front>
     <title>IEEE Standard of Performance and Test Requirements for Instrument Transformers of a Nominal System Voltage of 115 kV and Above</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5372457"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,24 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Instrument transformers</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>C37.13.5-2009</keyword>
-    <keyword>design test</keyword>
-    <keyword>high-voltage</keyword>
-    <keyword>instrument transformers</keyword>
-    <keyword>routine tests</keyword>
-    <keyword>special tests</keyword>
-    <keyword>test criteria</keyword>
-    <keyword>test method</keyword>
-    <keyword>test requirements</keyword>
-    <keyword>test sequence</keyword>
-    <keyword>design test, high-voltage, instrument transformers, routine tests, special tests</keyword>
-    <keyword>test criteria, test method, test requirements, test sequence</keyword>
     <abstract>Single-phase instrument transformers of a nominal system voltage of 115 kV and above with capacitive insulation system for line-to-ground connection and for both indoor and outdoor application is discussed in this standard. This standard is intended for use as a supplement to IEEE Std C57.13¿-2008 and as a basis for performance and safety of equipment. It also describes test sequences, criteria, methods, and documentation for the test.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5372457"/>
 </reference>

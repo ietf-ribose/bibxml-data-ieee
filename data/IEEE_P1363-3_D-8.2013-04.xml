@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2013" month="April" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Encryption</keyword>
-    <keyword>Public key cryptography</keyword>
-    <keyword>Identity management</keyword>
-    <keyword>Cryptography</keyword>
-    <keyword>Public-key cryptography</keyword>
-    <keyword>encryption</keyword>
-    <keyword>identity-based encryption</keyword>
-    <keyword>pairing-based encryption</keyword>
-    <keyword>pairing-based cryptography</keyword>
     <abstract>This standard specifies common identity-based public-key cryptographic techniques that use pairings, including mathematical primitives for secret value (key) derivation, public-key encryption, and digital signatures, and cryptographic schemes based on those primitives. It also specifies related cryptographic parameters, public keys and private keys. The purpose of this standard is to provide a reference for specifications of a variety of techniques from which applications may select.</abstract>
   </front>
 </reference>

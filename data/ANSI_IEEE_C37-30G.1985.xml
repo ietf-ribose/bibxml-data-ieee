@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-30g.1985" target="https://ieeexplore.ieee.org/document/598653">
   <front>
     <title>Standard Definitions and Requirements for High Voltage Air Switches, Insulators, and Bus Supports</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82931"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Switches</keyword>
-    <keyword>Silver</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Copper alloys</keyword>
-    <keyword>C37.30g</keyword>
     <abstract>Supplement to ANSI/IEEE C37.30-1971</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.82931"/>
 </reference>

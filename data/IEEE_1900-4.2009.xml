@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1900-4.2009" target="https://ieeexplore.ieee.org/document/4798288">
   <front>
     <title>IEEE Standard for Architectural Building Blocks Enabling Network-Device Distributed Decision Making for Optimized Radio Resource Usage in Heterogeneous Wireless Access Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4798288"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2014" month="December" day="4"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Probability density function</keyword>
-    <keyword>Data mining</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Standards Board</keyword>
-    <keyword>Distributed decision making</keyword>
-    <keyword>1900.4-2009</keyword>
-    <keyword>architectural building blocks</keyword>
-    <keyword>dynamic spectrum access</keyword>
-    <keyword>heterogeneous wireless networks</keyword>
-    <keyword>network-device distributed optimization of spectrum usage</keyword>
     <abstract>The building blocks comprising (i) network resource managers, (ii) device resource managers, and (iii) the information to be exchanged between the building blocks, for enabling coordinated network-device distributed decision making that will aid in the optimization of radio resource usage, including spectrum access control, in heterogeneous wireless access networks are defined. The standard is limited to the architectural and functional definitions at a first stage. The corresponding protocols definition related to the information exchange will be addressed at a later stage.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4798288"/>
 </reference>

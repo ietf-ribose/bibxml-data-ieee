@@ -9,30 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>communications networking device</keyword>
-    <keyword>communications ports</keyword>
-    <keyword>serial device</keyword>
-    <keyword>modems</keyword>
-    <keyword>Ethernet hubs</keyword>
-    <keyword>switches</keyword>
-    <keyword>routers</keyword>
-    <keyword>bridges</keyword>
-    <keyword>firewalls</keyword>
-    <keyword>auto dialers</keyword>
-    <keyword>power apparatus</keyword>
-    <keyword>temperature range</keyword>
-    <keyword>humidity</keyword>
-    <keyword>derating</keyword>
-    <keyword>voltage rating</keyword>
-    <keyword>temperature rise</keyword>
-    <keyword>insulation test</keyword>
-    <keyword>dielectric test</keyword>
-    <keyword>impulse test</keyword>
-    <keyword>SWC test</keyword>
-    <keyword>fast transient test</keyword>
-    <keyword>RFI test</keyword>
-    <keyword>ESD test</keyword>
-    <keyword>environmental requirements.</keyword>
     <abstract>Service conditions, electrical ratings, thermal ratings and environmental testing requirements are defined for communications networking devices to be installed in electric power substations. This standard establishes a common reproducible basis for designing and evaluating communications networking devices and the communications ports of protective relays for use in this harsh environment.</abstract>
   </front>
 </reference>

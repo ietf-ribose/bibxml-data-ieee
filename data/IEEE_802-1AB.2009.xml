@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1AB.2009" target="https://ieeexplore.ieee.org/document/5251812">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks-- Station and Media Access Control Connectivity Discovery</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5251812"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="3"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Data mining</keyword>
-    <keyword>Standards Board</keyword>
-    <keyword>Societies</keyword>
-    <keyword>Topology</keyword>
-    <keyword>Materials</keyword>
-    <keyword>link layer discovery protocol</keyword>
-    <keyword>management information base</keyword>
-    <keyword>topology discovery</keyword>
-    <keyword>topology information</keyword>
     <abstract>This document defines a protocol and a set of managed objects that can be used for discovering the physical topology from adjacent stations in IEEE 802(R) LANs.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5251812"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1235.2000" target="https://ieeexplore.ieee.org/document/875853">
   <front>
     <title>IEEE Guide for the Properties of Identifiable Jackets for Underground Power Cables and Ducts</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91942"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="3"/>
-    <keyword>duct</keyword>
-    <keyword>identification</keyword>
-    <keyword>jacket</keyword>
-    <keyword>power cables</keyword>
-    <keyword>raised ridge</keyword>
-    <keyword>red stripe</keyword>
     <abstract>" Identification markings of jacketed underground power cables and ducts are establishedin this guide. Included are various methods of identifying underground power cables and ducts, andthe visual, chemical, and mechanical properties of the identification materials and/or methods, andtheir impact on the properties of the overall jacket or duct as well as their impact on installationpractices. "</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91942"/>
 </reference>

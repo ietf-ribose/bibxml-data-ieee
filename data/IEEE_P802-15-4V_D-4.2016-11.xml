@@ -11,20 +11,6 @@
       </address>
     </author>
     <date year="2016" month="December" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEEE 802.15 Standards</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>Personal area networks</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>IEEE 802.15.4(TM)</keyword>
-    <keyword>863 - 870 MHz band</keyword>
-    <keyword>870 - 876 MHz band</keyword>
-    <keyword>470 - 510 MHz band</keyword>
-    <keyword>902 - 928 MHz band</keyword>
-    <keyword>low data rate</keyword>
-    <keyword>low power</keyword>
-    <keyword>wireless personal area network</keyword>
-    <keyword>WPAN</keyword>
     <abstract>This amendment defines changes to the IEEE Std 802.15.4-2015 SUN PHYs enabling the use of the 870-876 MHz &amp; 915-921 MHz bands in Europe, the 902-928 MHz band in Mexico, the 902-907.5 MHz &amp; 915-928 MHz bands in Brazil, the 915-928 MHz band in Australia/New Zealand and Asian regional frequency bands that are not in IEEE Std 802.15.4-2015. This amendment also changes the channel parameters listed in the SUN PHYs, Low Energy Critical Infrastructure Monitoring (LECIM) PHY and the TV White Space (TVWS) PHY for the 470-510 MHz band in China and the 863-870 MHz band in Europe, and aligns these channel parameters with regional requirements. The amendment includes channel access and/or timing changes to the MAC necessary for conformance to regional requirements for these bands.</abstract>
   </front>
 </reference>

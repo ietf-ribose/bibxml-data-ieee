@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2003.1997" target="https://ieeexplore.ieee.org/document/8698489">
   <front>
     <title>IEEE Standard for Information Technology - Requirements and Guidelines for Test Methods Specifications and Test Method Implementations for Measuring Conformance to POSIX Standards</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8698489"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Guidelines</keyword>
-    <keyword>Documentation</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>assertion</keyword>
-    <keyword>assertion test</keyword>
-    <keyword>implementation under test</keyword>
-    <keyword>option</keyword>
-    <keyword>conformance</keyword>
-    <keyword>document</keyword>
-    <keyword>conformance test procedure</keyword>
-    <keyword>conformance test software</keyword>
-    <keyword>test method implementation</keyword>
-    <keyword>test method specification</keyword>
-    <keyword>test result code</keyword>
     <abstract>This standard defines the requirements and guidelines for test method specifications and test method implementations for measuring conformance to POSIX standards. Test specification standard developers for other Application Programming Interface (API) standards are encouraged to use this standard. This document is aimed primarily at developers and users of test method specifications and implementations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8698489"/>
 </reference>

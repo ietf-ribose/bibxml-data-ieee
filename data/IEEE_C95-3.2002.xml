@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C95-3.2002" target="https://ieeexplore.ieee.org/document/8329043">
   <front>
     <title>IEEE Recommended Practice for Measurements and Computations of Radio Frequency Electromagnetic Fields With Respect to Human Exposure to Such Fields, 100 kHz-300 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.8329043"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2018" month="March" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electromagnetic fields</keyword>
-    <keyword>Electromagnetic measurements</keyword>
-    <keyword>Specific absorption rate</keyword>
-    <keyword>Microwave measurement</keyword>
-    <keyword>Hazards</keyword>
-    <keyword>Radiation effects</keyword>
-    <keyword>Radiation protection</keyword>
-    <keyword>electromagnetic field computation</keyword>
-    <keyword>electromagnetic field measurements</keyword>
-    <keyword>exposure assessment</keyword>
-    <keyword>non-ionizing radiation</keyword>
-    <keyword>RF/microwave hazard assessment</keyword>
-    <keyword>RF/microwave survey instruments</keyword>
-    <keyword>RF/microwave surveys</keyword>
-    <keyword>specific absorption rate (SAR)assessment</keyword>
     <abstract>Techniques and instrumentation for the measurement and computation of potentially hazardous electromagnetic (EM) fields both in the near field and the far field of the electromagnetic source are specified. The specifications previously set forth in IEEE Std C95.3-1991 are extended and combined. Leakage and near-field measurements and a description of the concepts, techniques, and instruments that can be applied to the measurement of specific absorption rate (SAR) or the electric field strength in organisms (including humans) and phantoms exposed to electromagnetic fields are included. Below 100 MHz, the current flowing through the body to ground is measurable and can be used to determine the SAR and, therefore, a brief treatment of low-frequency body current measurement is included. The "IEEE Get Program" grants public access to view and download individual PDFs of select standards at no charge. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page for details.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.8329043"/>
 </reference>

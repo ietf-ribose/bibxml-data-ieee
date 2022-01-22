@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1029-1.1991" target="https://ieeexplore.ieee.org/document/182904">
   <front>
     <title>IEEE Standard for Waveform and Vector Exchange (WAVES)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106984"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="June" day="20"/>
-    <keyword>Design automation</keyword>
-    <keyword>Specification languages</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Very-large-scale integration</keyword>
-    <keyword>VHDL</keyword>
-    <keyword>WAVES standard packages</keyword>
-    <keyword>WAVES datasets</keyword>
     <abstract>The Waveform and Vector Exchange Specification (WAVES) is an application of the VHSIC Hardware Description Language (VHDL). This standard covers the dataset structure, header file, WAVES files, external files, execution model, and waveform semantics, and defines three standard packages to support WAVES datasets.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106984"/>
 </reference>

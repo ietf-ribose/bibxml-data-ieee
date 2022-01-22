@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-122-4.2016" target="https://ieeexplore.ieee.org/document/7930595">
   <front>
     <title>IEEE Guide for Application and User Guide for Gas-Insulated Transmission Lines, Rated 72.5 kV and Above</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7930595"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2017" month="May" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power transmission</keyword>
-    <keyword>Gas insulated transmission lines</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Substations</keyword>
-    <keyword>gas-insulated bus</keyword>
-    <keyword>gas-insulated cable</keyword>
-    <keyword>gas-insulated line</keyword>
-    <keyword>gas-insulated substation</keyword>
-    <keyword>gas-insulated switchgear</keyword>
-    <keyword>gas-insulated transmission line</keyword>
-    <keyword>GIB</keyword>
-    <keyword>GIC</keyword>
-    <keyword>GIL</keyword>
-    <keyword>GIS</keyword>
-    <keyword>IEEE C37.122.4(TM)</keyword>
     <abstract>Guidance for the planning, permitting, design, equipment specification, installation, commissioning, operation, and maintenance of gas-insulated transmission lines is provided in this project. Only technical aspects are addressed in this guide. Commercial and legal issues associated with gas-insulated transmission lines are not considered. This guide applies to ac transmission lines rated for maximum operating voltage of 72.5 kV and higher.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7930595"/>
 </reference>

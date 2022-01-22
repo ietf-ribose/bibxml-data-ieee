@@ -11,15 +11,6 @@
       </address>
     </author>
     <date year="2017" month="April" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Next generation networking</keyword>
-    <keyword>Overlay networks</keyword>
-    <keyword>Optimization</keyword>
-    <keyword>NGSON</keyword>
-    <keyword>Self-Organization</keyword>
-    <keyword>Self-Configuration</keyword>
-    <keyword>Self-Optimization</keyword>
-    <keyword>Self-Recovery</keyword>
     <abstract>This standard specifies protocols between Overlay Management (OM) Functional Entity (FE) and all other NGSON FEs, and/or NGSON nodes to enable OM FE involved self-organizing management capability. This capability includes activation and deactivation of an NGSON node and addition, deletion, movement and copy of an NGSON function entity from or to an NGSON node. This standard also specifies protocols among Service Routing (SR) FEs to enable OM FE non-involved self-organizing management capability such as re-organization of overlay structure among multiple SR FEs for recovery from a failed or overloaded SR FE or for performance improvement of service routing.</abstract>
   </front>
 </reference>

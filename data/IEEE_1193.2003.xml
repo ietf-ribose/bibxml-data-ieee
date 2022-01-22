@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1193.2003" target="https://ieeexplore.ieee.org/document/1278832">
   <front>
     <title>IEEE Guide for Measurement of Environmental Sensitivities of Standard Frequency Generators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94440"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Time-frequency analysis</keyword>
-    <keyword>Atomic clocks</keyword>
-    <keyword>Oscillators</keyword>
-    <keyword>Generators</keyword>
-    <keyword>atomic clock</keyword>
-    <keyword>atomic frequency standard</keyword>
-    <keyword>environmental sensitivities</keyword>
-    <keyword>frequency standard</keyword>
-    <keyword>oscillator</keyword>
-    <keyword>quartz crystal oscillator</keyword>
-    <keyword>standard frequency generator</keyword>
     <abstract>Standard frequency generators that include all atomic frequency standards and precision quartz crystal oscillators are addressed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94440"/>
 </reference>

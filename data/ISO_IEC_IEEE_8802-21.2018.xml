@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-21.2018" target="https://ieeexplore.ieee.org/document/8376063">
   <front>
     <title>ISO/IEC/IEEE International Standard - Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 21: Media independent services framework</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8376063"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,32 +11,7 @@
       </address>
     </author>
     <date year="2018" month="June" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Network security</keyword>
-    <keyword>Broadcasting</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Telecommunication network management</keyword>
-    <keyword>broadcast</keyword>
-    <keyword>downlink only</keyword>
-    <keyword>group</keyword>
-    <keyword>group management</keyword>
-    <keyword>group security</keyword>
-    <keyword>IEEE 802.21(TM)</keyword>
-    <keyword>management</keyword>
-    <keyword>media independent handover</keyword>
-    <keyword>media independent service</keyword>
-    <keyword>mobile node</keyword>
-    <keyword>mobility</keyword>
-    <keyword>multicast</keyword>
-    <keyword>point of attachment</keyword>
-    <keyword>point of service</keyword>
-    <keyword>proactive authentication</keyword>
-    <keyword>seamless</keyword>
-    <keyword>security protection</keyword>
-    <keyword>service access authentication</keyword>
     <abstract>An extensible IEEE 802(R) media access independent services framework (i.e., function and protocol) is defined that enables the optimization of services including handover and other services when performed between heterogeneous IEEE 802 networks. These services are facilitated by this standard when networking between IEEE 802 networks and cellular networks.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8376063"/>
 </reference>

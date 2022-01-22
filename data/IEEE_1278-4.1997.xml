@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1278-4.1997" target="https://ieeexplore.ieee.org/document/8685803">
   <front>
     <title>IEEE Recommended Practice for Distributed Interactive Simulation -- Verification, Validation, and Accreditation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8685803"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Simulation</keyword>
-    <keyword>Accrediation</keyword>
-    <keyword>Command and control systems</keyword>
-    <keyword>accreditation; certification; Distributed Interactive Simulation; simulation; validation; verification; warfare simulation; wargames</keyword>
     <abstract>Guidelines are established for the verification, validation, and accreditation (VV&amp;A) of distributed interactive simulation (DIS) exercises. “How-to” procedures for planning and conducting DIS exercise VV&amp;A are provided. Intended for use in conjunction with IEEE Std 1278.3-1996, this recommended practice presents data flow and connectivity for all proposed verification and validation activities and provides rationale and justification for each step. VV&amp;A guidance is provided to exercise users/sponsors and developers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.8685803"/>
 </reference>

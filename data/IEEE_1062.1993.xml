@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1062.1993" target="https://ieeexplore.ieee.org/document/8684509">
   <front>
     <title>IEEE Recommended Practice for Software Acquisition</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8684509"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>acquirer</keyword>
-    <keyword>modified-off-the-shelf software</keyword>
-    <keyword>software acquisition life cycle</keyword>
-    <keyword>software acquisition process</keyword>
-    <keyword>supplier</keyword>
     <abstract>Superseded by 1062-1998. A set of useful quality practices that can be selected and applied during one or more steps in a software acquisition process is described. This recommended practice can be applied to software that runs on any computer system regardless of the size, complexity, or criticality of the software, but is more suited for use on modified-off-the-shelf software and fully developed software.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8684509"/>
 </reference>

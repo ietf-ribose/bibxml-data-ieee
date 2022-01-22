@@ -1,7 +1,6 @@
 <reference anchor="IEEE.48.1990" target="https://ieeexplore.ieee.org/document/89660">
   <front>
     <title>IEEE Standard Test Procedures and Requirements for High-Voltage Alternating-Current Cable Terminations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94587"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
-    <keyword>high-voltage</keyword>
-    <keyword>cable terminators</keyword>
-    <keyword>alternating currents</keyword>
     <abstract>This standard applies to all indoor and outdoor cable terminations used on ac cables having laminated or extruded insulation rated 2.5 kV through 500 kV except separable insulated connectors.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94587"/>
 </reference>

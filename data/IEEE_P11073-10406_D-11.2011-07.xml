@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P11073-10406/D-11.2011-07" target="https://ieeexplore.ieee.org/document/5976959">
   <front>
     <title>IEEE Draft Standard for Health informatics - Personal health device communication - Device specialization - Basic Electrocardiograph(ECG) (1 to 3-lead ECG)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5976959"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Medical information systems</keyword>
-    <keyword>Biomedical computing</keyword>
-    <keyword>Information systems</keyword>
-    <keyword>Informatics</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Biomedical informatics</keyword>
-    <keyword>Basic ECG (1 to 3-lead ECG)</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard establishes a normative definition of the communication between personal basic electrocardiograph (ECG) devices and managers (e.g. cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology and IEEE Std 11073-20601 information models. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for personal telehealth basic ECG (1 to 3-lead ECG) devices. Monitoring ECG devices are distinguished from diagnostic ECG equipment with respect to: including support for wearable ECG devices; limiting the number of leads supported by the equipment to three; not requiring the capability of annotating or analyzing the detected electrical activity to determine known cardiac phenomena. This standard is consistent with the base framework and allows multi-function implementations by following multiple device specializations (e.g., ECG and respiration rate).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5976959"/>
 </reference>

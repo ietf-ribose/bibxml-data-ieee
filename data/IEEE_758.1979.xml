@@ -1,7 +1,6 @@
 <reference anchor="IEEE.758.1979" target="https://ieeexplore.ieee.org/document/19507">
   <front>
     <title>IEEE Standard Subroutines for Computer Automated Measurement and Control (CAMAC)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120307"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="31"/>
-    <keyword>CAMAC</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Algorithms</keyword>
-    <keyword>subroutines</keyword>
-    <keyword>CAMAC</keyword>
     <abstract>A set of standard subroutines that provide access to CAMAC facilities in a variety of computer programming languages is described. The subroutines are specifically intended to be suitable for use with FORTRAN, although they are not restricted to that language. The subroutines have been grouped into three subsets in order to provide different standard levels of implementation. The lowest level requires only two subroutines, but, nevertheless, gives access to most of the facilities that can be found in CAMAC. In higher levels of implementation, subroutines are added that permit procedures to be written in more mnemonic terminology, provide better handling of LAMs, permit procedures to be independent of the type of CAMAC highway used, and provide efficient block-transfer capability.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.120307"/>
 </reference>

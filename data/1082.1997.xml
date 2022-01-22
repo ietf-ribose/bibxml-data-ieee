@@ -1,13 +1,11 @@
 <reference anchor="IEEE.1082.1997" target="https://ieeexplore.ieee.org/document/8684493">
   <front>
     <title>IEEE Guide for Incorporating Human Action Reliability Analysis for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684493"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>human reliability analysis (HRA)</keyword>
-    <keyword>probabilistic risk assessment (PRA)</keyword>
     <abstract>A structured framework for the incorporation of human/system interactions into probabilistic risk assessments is provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684493"/>
 </reference>

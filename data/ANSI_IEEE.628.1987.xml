@@ -1,21 +1,11 @@
 <reference anchor="ANSI/IEEE.628.1987" target="https://ieeexplore.ieee.org/document/29047">
   <front>
     <title>IEEE Standard Criteria for the Design, Installation, and Qualification of Raceway Systems for Class 1E Circuits for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81529"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April" day="16"/>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Standards</keyword>
-    <keyword>raceway</keyword>
-    <keyword>systems</keyword>
-    <keyword>class</keyword>
-    <keyword>1E</keyword>
-    <keyword>circuits</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Nuclear power generation protection</keyword>
     <abstract>Criteria for the minimum requirements in the selection, design, installation, and qualification of raceway systems for Class 1E circuits for nuclear power generating stations are provided. Methods for the structural qualification of such raceway systems are prescribed. Since aging and radiation have no known detrimental effect upon metallic raceway systems, and since nonmetallic raceway systems are limited to underground or embedded applications, these two environmental conditions are not considered, nor are the embedments or structural members to which a support is attached.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81529"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEEE.11073-10424.2016" target="https://ieeexplore.ieee.org/document/8279629">
   <front>
     <title>Health informatics--Personal health device communication - Part 10424: Device Specialization--Sleep Apnoea Breathing Therapy Equipment (SABTE)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8279629"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2018" month="February" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Sleep apnea</keyword>
-    <keyword>Biomedical equipment</keyword>
-    <keyword>Biomedical monitoring</keyword>
-    <keyword>IEEE 11073-10424(TM)</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
-    <keyword>sleep apnoea breathing therapy equipment (SABTE)</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of the communication between sleep apnoea breathing therapy equipment (SABTE) devices (agents) and managers (e.g., cell phones, personal computers, personal health appliances, set top boxes), in a manner that enables plug-and-play interoperability, is established in this standard. It leverages appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. It specifies the use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability. This standard defines a common core of communication functionality for SABTE. In this context, SABTE is defined as a device that is intended to alleviate the symptoms of a patient who suffers from sleep apnoea by delivering a therapeutic breathing pressure to the patient. SABTE is primarily used in the home health-care environment by a lay operator without direct professional supervision.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8279629"/>
 </reference>

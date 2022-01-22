@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-16-1.2012" target="https://ieeexplore.ieee.org/document/6297413">
   <front>
     <title>IEEE Standard for WirelessMAN-Advanced Air Interface for Broadband Wireless Access Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6297413"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2012" month="September" day="7"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Broadband communication</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>OFDM</keyword>
-    <keyword>IEEE 802.16 Standards</keyword>
-    <keyword>Mobile communication</keyword>
-    <keyword>broadband wireless access</keyword>
-    <keyword>IEEE 802.16</keyword>
-    <keyword>IEEE 802.16.1</keyword>
-    <keyword>IMT-Advanced radio interface</keyword>
-    <keyword>mobile broadband</keyword>
-    <keyword>orthogonal frequency-division multiple access (OFDMA)</keyword>
-    <keyword>WirelessMAN(R)-Advanced Air Interface</keyword>
-    <keyword>wireless metropolitan area networks</keyword>
     <abstract>The WirelessMAN-Advanced Air Interface, an enhanced air interface designated as “IMT-Advanced” by the International Telecommunication Union-Radiocommunication Sector (ITU-R), is specified in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6297413"/>
 </reference>

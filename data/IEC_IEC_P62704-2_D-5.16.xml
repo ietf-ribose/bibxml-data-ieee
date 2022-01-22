@@ -11,14 +11,6 @@
       </address>
     </author>
     <date year="2016" month="August" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Specific absorption rate</keyword>
-    <keyword>Finite difference methods</keyword>
-    <keyword>Time-domain analysis</keyword>
-    <keyword>Biological system modeling</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Vehicle mounted antennas</keyword>
     <abstract>This standard describes the concepts, techniques, vehicle models, validation procedures, uncertainties and limitations of the finite-difference time-domain technique (FDTD) when used for determining the spatial-peak specific absorption rate (SAR) in standardized human anatomical models exposed to vehicle mounted antennas. Recommended vehicle models and general benchmark data for these models are provided. Antenna locations, operating configurations, exposure conditions and positions of persons exposed to the vehicle mounted antennas are defined. Intended users of this practice are (but are not be limited to) wireless communication devices manufacturers, service providers for wireless communication that are required to certify that their products comply with the applicable SAR limits and government agencies. Specific SAR limit values (basic restrictions) are not included since these are found in other documents, e.g., IEEE C95.1-2005 and IEEE C95.1a-2010.</abstract>
   </front>
 </reference>

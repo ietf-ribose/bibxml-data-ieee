@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1016.1987" target="https://ieeexplore.ieee.org/document/565312">
   <front>
     <title>IEEE Recommended Practice for Software Design Descriptions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122643"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2018" month="November" day="20"/>
-    <keyword>Software design</keyword>
-    <keyword>Organizations</keyword>
-    <keyword>Jacobian matrices</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Lifting equipment</keyword>
-    <keyword>software</keyword>
-    <keyword>design</keyword>
-    <keyword>descriptions</keyword>
-    <keyword>Software development</keyword>
     <abstract>The necessary information content and recommended organization for a software design description are specified. A software design description is a representation of a software system that is used as a medium for communicating software design information. The recommendations, which may be applied to commercial, scientific, or military software that runs on any digital computer, are not limited to specific methodologies for design, configuration management, or quality assurance, or to any particular descriptive technique. Applicability is not restricted by the size, complexity, or criticality of the software.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122643"/>
 </reference>

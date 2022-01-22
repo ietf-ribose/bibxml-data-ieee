@@ -11,21 +11,6 @@
       </address>
     </author>
     <date year="2016" month="November" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Millimeter wave communication</keyword>
-    <keyword>Wireless personal area networks</keyword>
-    <keyword>Urban areas</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>60 GHz</keyword>
-    <keyword>P2P</keyword>
-    <keyword>close proximity</keyword>
-    <keyword>IEEE P802.15.3(TM)</keyword>
-    <keyword>fast setup</keyword>
-    <keyword>millimeter wave</keyword>
-    <keyword>wireless.</keyword>
     <abstract>This amendment defines an alternative physical layer (PHY) and a modified medium accesscontrol (MAC) layer.Two PHY modes have been defined that enable data rates up to 100 Gb/s using the 60 GHz band. MIMOand aggregation methods have been defined to increase the maximum achievable communication speeds.Stack acknowledgment has been defined to improve the medium access control (MAC) efficiency whenused in a P2P (point-to-point) topology between two devices.</abstract>
   </front>
 </reference>

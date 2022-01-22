@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P2030/D-6.0.2011-07" target="https://ieeexplore.ieee.org/document/5958567">
   <front>
     <title>IEEE Draft Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (EPS), and End-Use Applications and Loads</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5958567"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Smart grids</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Photovoltaic effects</keyword>
-    <keyword>Photovoltaic effects</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Power system planning</keyword>
-    <keyword>Supply and demand</keyword>
     <abstract>This document provides guidelines for smart grid interoperability. This guide provides a knowledge base addressing terminology, characteristics, functional performance and evaluation criteria, and the application of engineering principles for smart grid interoperability of the electric power system with end use applications and loads. The guide discusses alternate approaches to good practices for the smart grid.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5958567"/>
 </reference>

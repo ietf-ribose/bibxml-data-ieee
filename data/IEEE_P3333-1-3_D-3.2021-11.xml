@@ -11,22 +11,6 @@
       </address>
     </author>
     <date year="2021" month="November" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Deep learning</keyword>
-    <keyword>Quality of experience</keyword>
-    <keyword>Human factors</keyword>
-    <keyword>Augmented reality</keyword>
-    <keyword>Visualization</keyword>
-    <keyword>quality of experience (QoE)</keyword>
-    <keyword>deep learning</keyword>
-    <keyword>human factor</keyword>
-    <keyword>virtual reality (VR)</keyword>
-    <keyword>augmented reality (AR)</keyword>
-    <keyword>human visual system (HVS)</keyword>
-    <keyword>cybersickness</keyword>
-    <keyword>saliency detection</keyword>
-    <keyword>subjective assessment</keyword>
-    <keyword>visual experience</keyword>
     <abstract>Measuring quality of experience (QoE) aims to explore the factors that contribute to a user’s perceptual experience including human, system, and context factors. Since QoE stems from human interaction with various devices, the estimation should be started by investigating the mechanism of human visual perception. Therefore, measuring QoE is still a challenging task. In this standard, QoE assessment is categorized into two subcategories which are perceptual quality and virtual reality (VR) cybersickness. In addition, deep learning models considering human factors for various QoE assessments are covered, along with a reliable subjective test methodology and a database construction procedure.</abstract>
   </front>
 </reference>

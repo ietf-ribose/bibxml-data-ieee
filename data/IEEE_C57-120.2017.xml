@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-120.2017" target="https://ieeexplore.ieee.org/document/8103991">
   <front>
     <title>IEEE Guide for Loss Evaluation of Distribution and Power Transformers and Reactors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8103991"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2017" month="November" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Loss measurement</keyword>
-    <keyword>Power system economics</keyword>
-    <keyword>Reactors</keyword>
-    <keyword>economic evaluation</keyword>
-    <keyword>IEEE C57.120&amp;#8482;</keyword>
-    <keyword>losses</keyword>
-    <keyword>reactor</keyword>
-    <keyword>transformer</keyword>
     <abstract>The economic loss evaluation of liquid-filled distribution and power transformers, dry-type distribution and power transformers, and reactors is covered in this guide.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8103991"/>
 </reference>

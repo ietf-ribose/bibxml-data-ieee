@@ -11,33 +11,6 @@
       </address>
     </author>
     <date year="2019" month="September" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Physical Layer</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>Energy management</keyword>
-    <keyword>Wide area networks</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>Personal area networks</keyword>
-    <keyword>amendment</keyword>
-    <keyword>IEEE 802.15.4&amp;#8482;</keyword>
-    <keyword>IEEE 802.15.4w&amp;#8482;</keyword>
-    <keyword>low data rate</keyword>
-    <keyword>LPWAN</keyword>
-    <keyword>low power wide area network</keyword>
-    <keyword>LECIM</keyword>
-    <keyword>low-energy</keyword>
-    <keyword>critical infrastructure monitoring</keyword>
-    <keyword>PAN</keyword>
-    <keyword>personal area network</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>RF</keyword>
-    <keyword>ultra-low power</keyword>
-    <keyword>wireless personal area network</keyword>
-    <keyword>WPAN</keyword>
-    <keyword>splitting</keyword>
     <abstract>The existing low-energy critical infrastructure monitoring (LECIM) frequency shift keying (FSK) physical layer of IEEE Std 802.15.4-2015 is extended to be more robust in presence of interference and achieve higher link budgets for applications in low power wide area networks (LPWAN). Lower symbol rates and a split mode with low rate forward error correction (FEC) codes are introduced to achieve this goal.</abstract>
   </front>
 </reference>

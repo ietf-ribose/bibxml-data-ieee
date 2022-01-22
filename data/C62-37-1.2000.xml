@@ -1,16 +1,11 @@
 <reference anchor="IEEE.C62-37-1.2000" target="https://ieeexplore.ieee.org/document/946611">
   <front>
     <title>IEEE Guide for the Application of Thyristor Surge Protective Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93286"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="April" day="26"/>
-    <keyword>Power system protection</keyword>
-    <keyword>IEEE C62.37.1</keyword>
-    <keyword>SPC</keyword>
-    <keyword>telecommunication circuits</keyword>
-    <keyword>thyristor surge protective component</keyword>
     <abstract>Applications information on fixed voltage and gated thyristor surge protective devices(SPDs) are provided. Key device parameters and their sensitivities are explained. Several workedtelecommunication circuit design examples are given.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93286"/>
 </reference>

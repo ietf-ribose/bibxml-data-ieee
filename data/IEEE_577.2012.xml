@@ -1,7 +1,6 @@
 <reference anchor="IEEE.577.2012" target="https://ieeexplore.ieee.org/document/6335435">
   <front>
     <title>IEEE Standard Requirements for Reliability Analysis in the Design and Operation of Safety Systems for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6335435"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2012" month="October" day="19"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Reliability</keyword>
-    <keyword>Safety</keyword>
-    <keyword>IEEE 577</keyword>
-    <keyword>nuclear facilities</keyword>
-    <keyword>reliability analysis</keyword>
-    <keyword>safety systems</keyword>
     <abstract>The minimum acceptable requirements for the performance of reliability analyses for safety systems when used to address the reliability considerations discussed in industry standards and guidelines are set forth in this standard. The requirement that a reliability analysis be performed does not originate with this standard. However, when reliability analysis is used to demonstrate compliance with reliability requirements, this standard describes an acceptable response to the requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6335435"/>
 </reference>

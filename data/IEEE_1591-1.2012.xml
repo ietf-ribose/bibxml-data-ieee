@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1591-1.2012" target="https://ieeexplore.ieee.org/document/6161597">
   <front>
     <title>IEEE Standard for Testing and Performance of Hardware for Optical Ground Wire (OPGW)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6161597"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,17 +9,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Optical fiber testing</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Testing</keyword>
-    <keyword>fiber optic ground wire</keyword>
-    <keyword>IEEE 1591.1</keyword>
-    <keyword>laboratory tests</keyword>
-    <keyword>OPGW</keyword>
-    <keyword>optical ground wire</keyword>
-    <keyword>type tests</keyword>
     <abstract>Hardware performance, test requirements, procedures, and acceptance criteria for a transmission line overhead ground wire (also known as shield wire, static wire, earth wire, sky wire) with optical fibers commonly known as optical ground wire (OPGW) are covered. Functional requirements, such as electrical, mechanical, optical fiber, environmental, and test requirements related to design, installation, in service, and maintenance, including routine tests, are included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6161597"/>
 </reference>

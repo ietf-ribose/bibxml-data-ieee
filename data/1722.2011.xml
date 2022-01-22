@@ -1,28 +1,11 @@
 <reference anchor="IEEE.1722.2011" target="https://ieeexplore.ieee.org/document/5764875">
   <front>
     <title>IEEE Standard for Layer 2 Transport Protocol for Time Sensitive Applications in a Bridged Local Area Network</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764875"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2017" month="January"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Time factors</keyword>
-    <keyword>Transport protocols</keyword>
-    <keyword>IP networks</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>bridged LAN</keyword>
-    <keyword>IEC 61883</keyword>
-    <keyword>IEEE 802.1 AVB protocols</keyword>
-    <keyword>IEEE 802.1AS</keyword>
-    <keyword>IEEE 802.1BA</keyword>
-    <keyword>IEEE 802.1Qat</keyword>
-    <keyword>IEEE 802.1Qav</keyword>
-    <keyword>IEEE 1722</keyword>
-    <keyword>local area network (LAN)</keyword>
-    <keyword>quality of service</keyword>
-    <keyword>timesensitive media streaming</keyword>
-    <keyword>time synchronization</keyword>
     <abstract>The protocol, data encapsulations, and presentation time procedures used to ensure interoperability between audio- and video-based end stations that use standard networking services provided by all IEEE 802 networks meeting quality-of-service requirements for time sensitive applications by leveraging concepts of IEC 61883 are specified in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5764875"/>
 </reference>

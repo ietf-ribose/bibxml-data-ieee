@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P45-2/D-0.6.2011-04" target="https://ieeexplore.ieee.org/document/5948307">
   <front>
     <title>IEEE Draft Recommended Practice for Electrical Installations on Shipboard - Controls and Automation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5948307"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Marine vehicles</keyword>
-    <keyword>Boat</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Electrical products</keyword>
-    <keyword>Control system</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>Computer based system</keyword>
-    <keyword>Safety system</keyword>
-    <keyword>Navigation system</keyword>
-    <keyword>Interior communication system</keyword>
-    <keyword>Remote control</keyword>
     <abstract>The recommendations for controls, control applications, control apparatus, and automation on shipboards are established by this document. These recommendations reflect the present-day technologies, engineering methods, and engineering practices. This document is intended to be used in conjunction with IEEE 45.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5948307"/>
 </reference>

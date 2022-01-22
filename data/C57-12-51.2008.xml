@@ -1,42 +1,11 @@
 <reference anchor="IEEE.C57-12-51.2008" target="https://ieeexplore.ieee.org/document/4801512">
   <front>
     <title>IEEE Standard for Ventilated Dry- Type Power Transformers, 501 kVA and Larger, Three-Phase, with High- Voltage 601 V to 34 500 V; Low- Voltage 208Y/120 V to 4160 V- General Requirements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4801512"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="September" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Current transformers</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>C57.12.51-2008</keyword>
-    <keyword>ambient temperature</keyword>
-    <keyword>basic lightning impulse insulation level (BIL)</keyword>
-    <keyword>construction</keyword>
-    <keyword>current transformer</keyword>
-    <keyword>dry-type</keyword>
-    <keyword>electrical</keyword>
-    <keyword>forced-air cooled</keyword>
-    <keyword>grounding</keyword>
-    <keyword>insulation level</keyword>
-    <keyword>jacking</keyword>
-    <keyword>limiting temperature</keyword>
-    <keyword>mechanical</keyword>
-    <keyword>percent impedance voltage</keyword>
-    <keyword>performance</keyword>
-    <keyword>rating</keyword>
-    <keyword>self-cooled</keyword>
-    <keyword>surge arresters</keyword>
-    <keyword>taps</keyword>
-    <keyword>temperature device</keyword>
-    <keyword>temperature rise</keyword>
-    <keyword>tests</keyword>
-    <keyword>transformer</keyword>
-    <keyword>transformer enclosure</keyword>
-    <keyword>unit substation</keyword>
-    <keyword>winding temperature</keyword>
     <abstract>Characteristics relating to performance, limited electrical and mechanical interchangeability, as well as safety of the equipment described, and to assist in the proper selection of such equipment, are set forth in this standard. Specific rating combinations are described in the range from 750/1000 kVA to 7500/10 000 kVA inclusive, with high-voltage 601 V to 34 500 V inclusive and low-voltage 208Y/120 V to 4160 V inclusive. This standard describes certain electrical and mechanical requirements and takes into consideration certain safety features of 60 Hz, two-winding, three-phase, ventilated dry-type transformers with self-cooled ratings 501 kVA and larger, which are generally used for step-down purposes. Clause 9 through Clause 11 describe other requirements or alternatives that may be specified for some applications and lists forced-air-cooled ratings for certain sizes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4801512"/>
 </reference>

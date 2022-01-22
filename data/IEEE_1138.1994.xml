@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1138.1994" target="https://ieeexplore.ieee.org/document/8684633">
   <front>
     <title>IEEE Standard Construction of Composite Fiber Optic Groundwire (OPGW) for Use on Electric Utility Power Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8684633"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>fiber optic cable</keyword>
-    <keyword>multimode fiber</keyword>
-    <keyword>optical cable</keyword>
-    <keyword>optical ground wire</keyword>
-    <keyword>single-mode fiber</keyword>
-    <keyword>Stranded metallic wires</keyword>
-    <keyword>Rated breaking strength</keyword>
     <abstract>The construction, mechanical and electrical performance, installation guidelines, acceptance criteria, and test requirements for a composite overhead ground wire with optical fibers, commonly known as OPGW are discussed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8684633"/>
 </reference>

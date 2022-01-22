@@ -1,7 +1,6 @@
 <reference anchor="IEEE.323.2003" target="https://ieeexplore.ieee.org/document/1262932">
   <front>
     <title>IEEE Standard for Qualifying Class 1E Equipment for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94415"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Qualifications</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Surges</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>age conditioning</keyword>
-    <keyword>aging</keyword>
-    <keyword>condition monitoring</keyword>
-    <keyword>design basis events</keyword>
-    <keyword>equipment qualification</keyword>
-    <keyword>harsh environment</keyword>
-    <keyword>margin</keyword>
-    <keyword>mild environment</keyword>
-    <keyword>qualification method</keyword>
-    <keyword>qualified life</keyword>
-    <keyword>radiation</keyword>
-    <keyword>safety related function</keyword>
-    <keyword>significant aging mechanism</keyword>
-    <keyword>test plan</keyword>
     <abstract>The basic requirements for qualifying Class 1E equipment and interfaces that are to be used in nuclear power generating stations are described in this standard. The principles, methods, and procedures described are intended to be used for qualifying equipment, maintaining and extending qualification, and updating qualification, as required, if the equipment is modified. The qualification requirements in this standard, when met, demonstrate and document the ability of equipment to perform safety function(s) under applicable service conditions including design basis events, reducing the risk of common-cause equipment failure.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94415"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1070.2006" target="https://ieeexplore.ieee.org/document/4035722">
   <front>
     <title>IEEE Guide for the Design and Testing of Transmission Modular Restoration Structure Components</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.261412"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2016" month="June" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Power system restoration</keyword>
-    <keyword>Power transmission </keyword>
-    <keyword>Modular structures</keyword>
-    <keyword>Testing</keyword>
-    <keyword>box sections</keyword>
-    <keyword>column sections</keyword>
-    <keyword>end plates</keyword>
-    <keyword>foundations</keyword>
-    <keyword>gimbals</keyword>
-    <keyword>guy plates</keyword>
-    <keyword>transmission mutual aid</keyword>
     <abstract>Reaffirmed March 2012. A generic specification, including design and testing, for transmission modular restoration structure components used by electric utilities is provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.261412"/>
 </reference>

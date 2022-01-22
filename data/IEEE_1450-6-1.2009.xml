@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1450-6-1.2009" target="https://ieeexplore.ieee.org/document/5165453">
   <front>
     <title>IEEE Standard for Describing On-Chip Scan Compression</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5165453"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2018" month="March" day="29"/>
-    <keyword>1450.6.1-2009</keyword>
-    <keyword>chip design</keyword>
-    <keyword>design automation</keyword>
-    <keyword>on-chip scan compression</keyword>
-    <keyword>pattern generation</keyword>
-    <keyword>scan insertion</keyword>
     <abstract>This standard defines how the necessary information is passed from scan insertion to pattern generation and from pattern generation to diagnosis such that different tool vendors could be used for each step independent of on-chip scan compression logic used.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5165453"/>
 </reference>

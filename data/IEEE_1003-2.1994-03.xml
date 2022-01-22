@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1003-2.1994-03" target="https://ieeexplore.ieee.org/document/478220">
   <front>
     <title>IEEE Standards Interpretations for IEEE Std 1003.2-1992</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.79516"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="16"/>
-    <keyword>computer</keyword>
-    <keyword>computer environments</keyword>
-    <keyword>interpretations</keyword>
-    <keyword>portable operating system interface</keyword>
-    <keyword>POSIX</keyword>
-    <keyword>shell</keyword>
-    <keyword>utilities</keyword>
     <abstract>The Portable Applications Standards Committee of the IEEE Computer Society carried out a series of analyses of various problems encountered by users of IEEE Std 1003.2-1992, IEEE Standard for Information Technology - Portable Operating System Interface (POSIX)- Part 2: Shell and Utilities. The results of its deliberations are presented in this document. The intent is to give the POSIX community reasonable ways of interpreting unclear portions of the standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.79516"/>
 </reference>

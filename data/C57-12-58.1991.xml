@@ -1,11 +1,11 @@
 <reference anchor="IEEE.C57-12-58.1991" target="https://ieeexplore.ieee.org/document/8684483">
   <front>
     <title>IEEE Guide for Conducting a Transient Voltage Analysis of a Dry-Type Transformer Coil</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.8684483"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
     <abstract>General recommendations for measuring voltage transients in dry-type distribution and power transformer are provided. Recurrent surge voltage generator circuitry, instrumentation, test sample, test point location, mounting the test coil, conducting the test, and reporting results are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.8684483"/>
 </reference>

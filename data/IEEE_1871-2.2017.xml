@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1871-2.2017" target="https://ieeexplore.ieee.org/document/8315177">
   <front>
     <title>IEEE Recommended Practice for IEEE 1671 Test Equipment Templates and Extension Classes for Describing Intrinsic Signal Path Information for Cables, Interface Adapters, and Test Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8315177"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2018" month="March" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>Path planning</keyword>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>XML schema</keyword>
-    <keyword>ATML instance document</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>automatic test system (ATS)</keyword>
-    <keyword>test adapter</keyword>
-    <keyword>interface device</keyword>
-    <keyword>wire(s)</keyword>
-    <keyword>pin(s)</keyword>
-    <keyword>switch(es)</keyword>
-    <keyword>intrinsic path characteristics.</keyword>
     <abstract>Recommended practices to extend the ATML exchange formats for the purposes of describing intrinsic paths are provided. An XML schema, an ATML instance document, and use cases related to intrinsic path characterizations are presented in this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8315177"/>
 </reference>

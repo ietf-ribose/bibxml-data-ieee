@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-154.2012" target="https://ieeexplore.ieee.org/document/6357332">
   <front>
     <title>IEEE Standard for the Design, Testing, and Application of Liquid-Immersed Distribution, Power, and Regulating Transformers Using High-Temperature Insulation Systems and Operating at Elevated Temperatures</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6357332"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2012" month="November" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Insulation testing</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>High-temperature techniques</keyword>
-    <keyword>Dielectric liquids</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>conventional</keyword>
-    <keyword>full hybrid</keyword>
-    <keyword>high-temperature</keyword>
-    <keyword>hybrid</keyword>
-    <keyword>IEEE C57.154</keyword>
-    <keyword>insulation system</keyword>
-    <keyword>mixed hybrid</keyword>
     <abstract>All liquid-immersed distribution, power, and regulating transformers that are designed to operate at temperatures that exceed the normal thermal limits of IEEE C57.12.00TM under continuous load, in the designed average ambient, and at rated conditions are covered by this standard. Specific requirements and guidance in the design, testing, and application of the transformers covered within the scope of this standard are provided. High-temperature insulation systems or systems that use a combination of high-temperature and conventional insulation are incorporated by these transformers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6357332"/>
 </reference>

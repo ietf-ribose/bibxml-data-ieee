@@ -11,20 +11,6 @@
       </address>
     </author>
     <date year="2020" month="July" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Printed circuits</keyword>
-    <keyword>Embedded systems</keyword>
-    <keyword>Electrical measurement</keyword>
-    <keyword>Passivity</keyword>
-    <keyword>verification</keyword>
-    <keyword>consistency tests</keyword>
-    <keyword>de-embedding electrical measurement</keyword>
-    <keyword>S-parameters</keyword>
-    <keyword>interconnect</keyword>
-    <keyword>fixture</keyword>
-    <keyword>passivity</keyword>
-    <keyword>causality</keyword>
-    <keyword>reciprocity</keyword>
     <abstract>This document provides standard and recommended practices for ensuring the quality of measured data for high frequency electrical interconnect at frequencies up to 50 GHz. This might include but is not limited to: recommended design of test fixtures, methods and processes for ensuring the accuracy and consistency of measured data for signals with frequency content up to 50 GHz. The standard and general practice should be applicable for frequencies higher than 50 GHz as well. The methods and techniques contained herein have been validated only to 50 GHz as of this writing.</abstract>
   </front>
 </reference>

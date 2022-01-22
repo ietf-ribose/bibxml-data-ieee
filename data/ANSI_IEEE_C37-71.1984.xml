@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-71.1984" target="https://ieeexplore.ieee.org/document/579123">
   <front>
     <title>IEEE Standard for Three-Phase, Manually Operated Subsurface Load Interrupting Switches for Alternating-Current Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81982"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Switchgear testing</keyword>
-    <keyword>Interrupters</keyword>
     <abstract>This standard applies to three-phase group-operated 60-Hz subsurface load-interrupting switches with maximum ratings of 600 A and 38 kV that utilize separable insulated connectors. It covers service conditions; ratings and test requirements; design, production, and conformance tests; construction requirements; and shipping requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81982"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-48.1987" target="https://ieeexplore.ieee.org/document/26617">
   <front>
     <title>IEEE Guide for Application, Operation, and Maintenance of High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.79654"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Fuses</keyword>
-    <keyword>Maintenance</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Switchgear testing</keyword>
-    <keyword>Fuses</keyword>
-    <keyword>Disconnecting switches</keyword>
-    <keyword>Air break switches</keyword>
     <abstract>Superseded. Information on the application, operation, and maintenance of high-voltage fuses (above 1000 V), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories for use on AC distribution systems is provided. This guide is one of a series of complementary standards covering various types of high-voltage fuses and switches, so arranged that two of the standards apply to all devices while each of the other standards provides additional specifications for a particular device. For each device, IEEE Std C37.40-1993, IEEE Std C37.41-1994, plus the standard covering that device, constitute a complete set of standards for each device. In addition, IEEE Std C37.48-1997 is an application, operation, and maintenance guide for all the devices.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.79654"/>
 </reference>

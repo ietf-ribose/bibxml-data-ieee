@@ -11,13 +11,6 @@
       </address>
     </author>
     <date year="2016" month="January" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Informatics</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Insulin</keyword>
-    <keyword>Pumps</keyword>
-    <keyword>Diabetes</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of communication between personal telehealth insulin pump devices and compute engines (e.g., cell phones, personal computers, personal health appliances, set top boxes) in a manner that enables plug-and-play interoperability, is established in this standard. Appropriate portions of existing standards including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards are leveraged. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability are specified. A common core of communication functionality for personal telehealth insulin pump devices is defined. This standard corrects errors that have been identified in the IEEE Std 11073-10419-2015.</abstract>
   </front>
 </reference>

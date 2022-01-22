@@ -1,7 +1,6 @@
 <reference anchor="IEEE.421-2.2014" target="https://ieeexplore.ieee.org/document/6845300">
   <front>
     <title>IEEE Guide for Identification, Testing, and Evaluation of the Dynamic Performance of Excitation Control Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6845300"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2014" month="June" day="27"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>Excitation systems</keyword>
-    <keyword>Closed loop systems</keyword>
-    <keyword>Closed-loop performance</keyword>
-    <keyword>dynamic performance</keyword>
-    <keyword>excitation control systems</keyword>
-    <keyword>excitation system specifications</keyword>
-    <keyword>IEEE Std 421.2(TM)</keyword>
-    <keyword>large signal disturbances</keyword>
-    <keyword>model</keyword>
-    <keyword>small signal disturbances</keyword>
-    <keyword>stabilizer</keyword>
-    <keyword>synchronous machine</keyword>
     <abstract>This guide includes criteria, definitions, and test procedures for evaluating the dynamic performance of excitation control systems for synchronous machines as applied by electric utilities.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6845300"/>
 </reference>

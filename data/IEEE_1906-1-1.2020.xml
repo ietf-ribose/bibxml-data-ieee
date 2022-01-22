@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1906-1-1.2020" target="https://ieeexplore.ieee.org/document/9285373">
   <front>
     <title>IEEE Standard Data Model for Nanoscale Communication Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9285373"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,43 +11,7 @@
       </address>
     </author>
     <date year="2020" month="December" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Nanoscale devices</keyword>
-    <keyword>Communication systems</keyword>
-    <keyword>Molecular communication</keyword>
-    <keyword>Data models</keyword>
-    <keyword>Nanoelectromechanical systems</keyword>
-    <keyword>Nanobioscience</keyword>
-    <keyword>communication networks</keyword>
-    <keyword>communication standards</keyword>
-    <keyword>communication systems</keyword>
-    <keyword>data model</keyword>
-    <keyword>IEEE 1906.1</keyword>
-    <keyword>molecular communication</keyword>
-    <keyword>multi-scale network</keyword>
-    <keyword>nanobioscience</keyword>
-    <keyword>nanobiotechnology</keyword>
-    <keyword>nanobots</keyword>
-    <keyword>nanodevice</keyword>
-    <keyword>nanoelectrochemical systems</keyword>
-    <keyword>nanoelectromechanical systems</keyword>
-    <keyword>nanofluidics</keyword>
-    <keyword>nanomedicine</keyword>
-    <keyword>nanophysics</keyword>
-    <keyword>nanopositioning</keyword>
-    <keyword>nanoscale</keyword>
-    <keyword>nanoscale communication framework</keyword>
-    <keyword>nanoscale devices</keyword>
-    <keyword>nanosensors</keyword>
-    <keyword>nanostructured materials</keyword>
-    <keyword>nanotechnology</keyword>
-    <keyword>nanotube devices</keyword>
-    <keyword>nanowires</keyword>
-    <keyword>network management</keyword>
-    <keyword>quantum mechanics</keyword>
-    <keyword>simulation</keyword>
-    <keyword>standards development</keyword>
-    <keyword>YANG</keyword>
     <abstract>A set of YANG modules describing nanoscale communication systems and their associated physical quantities in conformance with IEEE Std 1906.1-2015--a common framework for all nanoscale communication technologies--are comprised by this data model. Physics unique to the nanoscale are represented by the model. The physics are referred to as non-standard, required by IEEE Std 1906.1-2015. Remote configuration and management for remote simulation, operation, and analysis of nanoscale communication systems are defined by the model. A self-describing data structure is defined by the model for datastores and repositories of nanoscale communication experimental data enabling a common understanding of the data from a wide variety of nanoscale communication media and technologies. Augmentation of the IEEE Std 1906.1-2015 common core components with details specific to the physics of the nanoscale communication system is allowed by the model. Techniques used by the model facilitate reuse and augmentation. In addition, extensions to IEEE Std 802.1Q and Internet Engineering Task Force (IETF) interfaces--allowing reusability within existing networks, which implies a macroscale to nanoscale interface, and defines nanoscale communication as a feature for bridge ports as defined in IEEE Std 802.1 - are provided. The model is composed of simple, required core components while allowing optional, device-specific components and metrics to be added. There is conformity with best practices as defined by the IEEE 802 YANG editors' coordination committee and IETF RFC 6087, and consideration of coexistence and interoperability with existing domain models and tools, such as the Systems Biology Markup Language (SBML).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9285373"/>
 </reference>

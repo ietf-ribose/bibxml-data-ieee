@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-37.2006" target="https://ieeexplore.ieee.org/document/4161134">
   <front>
     <title>American National Standard for Training Requirements for Homeland Security Purposes Using Radiation Detection Instrumentation for Interdiction and Prevention</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.352516"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2015" month="October" day="30"/>
-    <keyword>Instruments</keyword>
-    <keyword>Training</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>homeland security</keyword>
-    <keyword>interdiction and prevention</keyword>
-    <keyword>radiation detection instruments</keyword>
-    <keyword>training</keyword>
     <abstract>This standard describes training requirements for U.S. Homeland Security purposes using radiation detection instrumentation for interdiction and prevention.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.352516"/>
 </reference>

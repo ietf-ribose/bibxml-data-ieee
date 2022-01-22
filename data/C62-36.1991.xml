@@ -1,32 +1,11 @@
 <reference anchor="IEEE.C62-36.1991" target="https://ieeexplore.ieee.org/document/159439">
   <front>
     <title>IEEE Standard Test Methods for Surge Protectors Used in Low-Voltage Data, Communications, and Signaling Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101081"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Standards</keyword>
-    <keyword>Surge protection</keyword>
-    <keyword>Testing</keyword>
-    <keyword>C62.36</keyword>
-    <keyword>communications</keyword>
-    <keyword>circuits</keyword>
-    <keyword>data</keyword>
-    <keyword>electrical</keyword>
-    <keyword>protection</keyword>
-    <keyword>signaling</keyword>
-    <keyword>surge</keyword>
-    <keyword>protectors</keyword>
-    <keyword>devices</keyword>
-    <keyword>voltage</keyword>
-    <keyword>limiters</keyword>
-    <keyword>Voltage limiters</keyword>
-    <keyword>Surge-protective devices</keyword>
-    <keyword>Signaling circuits</keyword>
-    <keyword>Electrical protection</keyword>
-    <keyword>Data circuits</keyword>
-    <keyword>Communications circuits</keyword>
     <abstract>Superseded by C62.36-1994. Methods for testing and measuring the characteristics of surge protectors used in low voltage data, communications, and signaling circuits with voltages less than or equal to 1000 V rms or 1200 V dc are established. The surge protectors are designed to limit voltage surges, current surges, or both. The surge protectors covered are multiple-component series or parallel combinations of linear or nonlinear elements. Tests are included for characterizing standby performance, surge-limiting capabilities, and surge lifetime. Packaged single gas-tube, air-gap, varistor, or avalanche junction surge-protective devices are not covered, nor are test methods for low-voltage power circuit applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101081"/>
 </reference>

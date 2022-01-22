@@ -11,23 +11,6 @@
       </address>
     </author>
     <date year="2015" month="September" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>OFDM</keyword>
-    <keyword>Media Access Protocols</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Narrowband communication</keyword>
-    <keyword>coexistence</keyword>
-    <keyword>G3-PLC</keyword>
-    <keyword>IEEE 1901.2TM</keyword>
-    <keyword>IFFT OFDM</keyword>
-    <keyword>MAC</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>narrowband</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>PLC</keyword>
-    <keyword>power line communications</keyword>
-    <keyword>PRIME.</keyword>
     <abstract>An amendment to the IEEE Std 1901.2-2013™ standard for narrowband power line communications (PLC) via alternating current, direct current, and nonenergized electric power lines using frequencies below 500 kHz. The scope of the amendments include changes to clarify how and when to encrypt header and payload information elements, update the interleaver design in order to eliminate some drawbacks in certain channels, a new PHY data primitive attribute so sub-band SNR data can be obtained from the PHY, modification to the frame counter size for security to make it consistent with IEEE Std 802.15.4e™-2012, and adding a beacon attribute and change the zero crossing detector text.</abstract>
   </front>
 </reference>

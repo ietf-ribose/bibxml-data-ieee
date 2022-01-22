@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1115.1992" target="https://ieeexplore.ieee.org/document/286046">
   <front>
     <title>IEEE Recommended Practice for Sizing Nickel-Cadmium Batteries for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119653"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Cadmium</keyword>
-    <keyword>Nickel</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Stationary applications</keyword>
-    <keyword>Nickel-cadmium batteries</keyword>
     <abstract>Superseded by 1115-2000. Methods for defining the dc load and for sizing a nickel-cadmium battery to supply that load are described. Installation, maintenance, qualification, testing procedures, and consideration of battery types other than nickel-cadmium batteries are not included. Design of the dc system and sizing of the battery charger(s) are also not included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119653"/>
 </reference>

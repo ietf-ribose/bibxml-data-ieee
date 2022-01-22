@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.31320-2.2012" target="https://ieeexplore.ieee.org/document/6357338">
   <front>
     <title>ISO/IEC/IEEE International Standard - Information technology -- Modeling Languages -- Part 2: Syntax and Semantics for IDEF1X97 (IDEFobject)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6357338"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
       </address>
     </author>
     <date year="2012" month="November" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>Modeling</keyword>
-    <keyword>Information technollgy</keyword>
-    <keyword>Sematics</keyword>
-    <keyword>enterprise</keyword>
-    <keyword>functional modeling language</keyword>
-    <keyword>IDEF0</keyword>
-    <keyword>IEEE 1320.2</keyword>
-    <keyword>language</keyword>
-    <keyword>modeling language</keyword>
-    <keyword>conceptual schema</keyword>
-    <keyword>data model</keyword>
-    <keyword>IDEF1X</keyword>
-    <keyword>IDEF1X97</keyword>
-    <keyword>identity style</keyword>
-    <keyword>information model</keyword>
-    <keyword>keymodel style</keyword>
-    <keyword>object</keyword>
     <abstract>IDEF1X<sub>97</sub> consists of two conceptual modeling languages. The key-style language supports data/information modeling and is downward compatible with the US government's 1993 standard, FIPS PUB 184. The identity-style language is based on the object model with declarative rules and constraints. IDEF1X<sub>97</sub> identity style includes constructs for the distinct but related components of object abstraction: interface, requests, and realization; utilizes graphics to state the interface; and defines a declarative, directly executable Rule and Constraint Language for requests and realizations. IDEF1X<sub>97</sub> conceptual modeling supports implementation by relational databases, extended relational databases, object databases, and object programming languages. IDEF1X<sub>97</sub> is formally defined in terms of first order logic. A procedure is given whereby any valid IDEF1X<sub>97</sub> model can be transformed into an equivalent theory in first order logic. That procedure is then applied to a meta model of IDEF1X<sub>97</sub> to define the valid set of IDEF1X<sub>97</sub> models.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6357338"/>
 </reference>

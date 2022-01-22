@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.945.1984" target="https://ieeexplore.ieee.org/document/8715840">
   <front>
     <title>IEEE Recommended Practice for Preferred Metric Units for Use in Electrical and Electronics Science and Technology</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.8715840"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="May" day="15"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electrical equipment industry</keyword>
-    <keyword>Measurement units</keyword>
-    <keyword>metric</keyword>
-    <keyword>metric units</keyword>
-    <keyword>electronics science</keyword>
-    <keyword>Measurement units</keyword>
     <abstract>Recommendations are made to aid in the selection of metric units, so as to promote uniformity in the use of metric units and to limit the number of different metric units that will be used in electrical and electronics science and technology. The recommendations can cover units for space and time, periodic and related phenomena, mechanics, heat, electricity and magnetism, light and related electromagnetic radiations, and acoustics. This document does not cover how metric units are to be used nor does it offer guidance concerning correct metric practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.8715840"/>
 </reference>

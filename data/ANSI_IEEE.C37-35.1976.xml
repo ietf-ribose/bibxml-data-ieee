@@ -1,17 +1,11 @@
 <reference anchor="ANSI/IEEE.C37-35.1976" target="https://ieeexplore.ieee.org/document/573178">
   <front>
     <title>IEEE Guide for the Application, Installation, Operation, and Maintenance of High-Voltage Air Disconnecting and Load Interrupter Switches</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.81622"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Personnel</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Interrupters</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>C37.35</keyword>
     <abstract>Suggestions on application, installation, operation, and maintenance are presented as an aid to obtaining satisfactory performance from indoor and outdoor high-voltage air disconnecting and load interrupter switches rated in excess of 1000 V ac. It is assumed that properly designed and maintained supporting structures are provided for the disconnecting equipment, taking into account such factors as location, soil conditions, wind and ice loadings, seismic considerations, and mechanical loads, including electromagnetic forces imposed by the switches, buses, or other equipment mounted thereon.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1976.81622"/>
 </reference>

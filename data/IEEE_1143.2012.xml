@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1143.2012" target="https://ieeexplore.ieee.org/document/6471984">
   <front>
     <title>IEEE Guide on Shielding Practice for Low Voltage Cables</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6471984"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2013" month="February" day="28"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Voltate control</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Cable shielding</keyword>
-    <keyword>Electromagnetic interference</keyword>
-    <keyword>Cable terminations</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Low voltage</keyword>
-    <keyword>cable shielding</keyword>
-    <keyword>cable terminations</keyword>
-    <keyword>electromagnetic interference</keyword>
-    <keyword>grounding</keyword>
-    <keyword>IEEE 1143</keyword>
-    <keyword>low voltage cables</keyword>
     <abstract>A concise overview of shielding options for various types of interference is discussed in this guide. Recommendations on shielding practices for low voltage cables are given. Suggestions on terminating and grounding methods are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6471984"/>
 </reference>

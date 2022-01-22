@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1407.1998" target="https://ieeexplore.ieee.org/document/757106">
   <front>
     <title>IEEE Guide for Accelerated Aging Tests for Medium-Voltage Extruded Electric Power Cables Using Water-Filled Tanks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89422"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Power cable insulation</keyword>
-    <keyword>accelerated cable life test (ACLT)</keyword>
-    <keyword>accelerated aging test</keyword>
-    <keyword>cross-linked polyethylene (XLPE)</keyword>
-    <keyword>ethylene propylene rubber (EPR)</keyword>
-    <keyword>medium-voltage cable</keyword>
-    <keyword>tank structure</keyword>
-    <keyword>temperature measurement and profile</keyword>
-    <keyword>test conditions</keyword>
-    <keyword>water-filled tanks</keyword>
     <abstract>Superseded by IEEE Std 1407-2007. Accelerated aging tests on extruded medium-voltage cables using water-filled tanks are addressed. Information on the equipment, cable samples, test conditions, and measurements to perform the aging tests is provided. Techniques on how to analyze the test data are also inlcuded.The implementation of this guide will allow a better description of the test data obtained by different laboratories.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.89422"/>
 </reference>

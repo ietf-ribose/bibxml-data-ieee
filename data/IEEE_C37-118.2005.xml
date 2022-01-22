@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-118.2005" target="https://ieeexplore.ieee.org/document/1611105">
   <front>
     <title>IEEE Standard for Synchrophasors for Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99376"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Phasor measurement units</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>phasor</keyword>
-    <keyword>phasor measurement</keyword>
-    <keyword>synchophasor</keyword>
-    <keyword>phasor measurement unit</keyword>
-    <keyword>PMU</keyword>
-    <keyword>data concentrator</keyword>
-    <keyword>DC</keyword>
-    <keyword>PDC</keyword>
-    <keyword>GPS synchronization</keyword>
-    <keyword>total vector error</keyword>
-    <keyword>TVE</keyword>
-    <keyword>IRIG</keyword>
     <abstract>This standard defines synchronized phasor measurements used in power system applications. It provides a method to quantify the measurement, tests to be sure the measurement conforms to the definition, and error limits for the test. It also defines a data communication protocol including message formats for communicating this data in a real-time system. Explanation, examples, and supporting information are also provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99376"/>
 </reference>

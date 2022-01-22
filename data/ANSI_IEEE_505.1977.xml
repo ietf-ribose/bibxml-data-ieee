@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.505.1977" target="https://ieeexplore.ieee.org/document/21012">
   <front>
     <title>IEEE Standard Nomenclature for Generating Station Electric Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.120958"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2014" month="June" day="27"/>
-    <keyword>Terminology</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Standards</keyword>
-    <keyword>nomenclature</keyword>
-    <keyword>generating</keyword>
-    <keyword>electric</keyword>
-    <keyword>power</keyword>
-    <keyword>systems</keyword>
     <abstract>Electric power systems in stationary generating stations that provide electric power to the power system are covered. Nomenclature is included for the following interrelated systems: generating unit power system, generating unit auxiliaries power system, station auxiliaries power system, generating unit dc auxiliaries power system, and station dc auxiliaries power system. Nomenclature for instrumentation, controls, or auxiliaries is not included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.120958"/>
 </reference>

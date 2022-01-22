@@ -10,15 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>IEEE 802.3 Standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>802.3bf</keyword>
-    <keyword>802.1AS</keyword>
-    <keyword>time synchronization protocol</keyword>
     <abstract>This amendment to IEEE Std 802.32008 defines the Time Synchronization Service Interface(TSSI) to indicate when the SFD crosses the generic Medium Independent Interface (xMII), together with management objects indicating transmission latency between the MDI and xMII for the given PHY. Both features are required to support IEEE Std P802.1AS-201X.</abstract>
   </front>
 </reference>

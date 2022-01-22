@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1603.2003" target="https://ieeexplore.ieee.org/document/1269678">
   <front>
     <title>IEEE Standard for an Advanced Library Format (ALF) Describing Integrated Circuit (IC) Technology, Cells, and Blocks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94429"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,31 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="15"/>
-    <keyword>Libraries</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Integrated circuit modeling</keyword>
-    <keyword>Tools</keyword>
-    <keyword>Patents</keyword>
-    <keyword>behavioral</keyword>
-    <keyword>block</keyword>
-    <keyword>cell</keyword>
-    <keyword>derate</keyword>
-    <keyword>EDA</keyword>
-    <keyword>electrical</keyword>
-    <keyword>format</keyword>
-    <keyword>functional</keyword>
-    <keyword>gate-level</keyword>
-    <keyword>integratedcircuit</keyword>
-    <keyword>language</keyword>
-    <keyword>layout</keyword>
-    <keyword>library</keyword>
-    <keyword>modeling</keyword>
-    <keyword>physical</keyword>
-    <keyword>power</keyword>
-    <keyword>RTL</keyword>
-    <keyword>signal integrity</keyword>
-    <keyword>technology</keyword>
-    <keyword>timing</keyword>
     <abstract>Superseded by IEC/IEEE 62265-2005. ALF shall serve as the data specification language of library elements for design applications used to implement integrated circuits. The range of abstraction shall include from the register-transfer level (RTL) to the physical level. The language shall model behavior, timing, power, signal integrity, physical abstraction and physical implementation rules of library elements. The purpose of ALF is to provide a modeling language and semantics for functional, physical and electrical performance description of technology-specific libraries for cell-based and block-based design. Without a standard, design implementation tools would use multiple proprietary and tool-specific library descriptions. The semantics would be defined by tool implementations only, which are subject to change and prone to mis- interpretation. Also there would be redundancy using multiple descriptions for similar library aspects. Therefore a standard is proposed to create a consistent library view suitable as a reference for all design implementation applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94429"/>
 </reference>

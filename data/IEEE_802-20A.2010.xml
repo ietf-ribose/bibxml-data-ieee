@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-20a.2010" target="https://ieeexplore.ieee.org/document/5672283">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks--Part 20: Air Interface for Mobile Broadband Wireless Access Systems Supporting Vehicular Mobility--Physical and Media Access Control Layer Specification Amendment 1: Management Information Base Enhancements and Corrigenda Items</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5672283"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="11"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Mobile communication</keyword>
-    <keyword>Media access control</keyword>
-    <keyword>Management information systems</keyword>
-    <keyword>802.20</keyword>
-    <keyword>Management Information Base</keyword>
-    <keyword>MIB</keyword>
     <abstract>This amendment enhances IEEE 802.20 Management Information Base (MIB) clauses to include additional information and MIB documentation (i.e., a discussion of security impacts, and cross references to the text for appropriate parameters within the MIB, itself) to conform with the applicable parts of the lETF's 2008 guidelines for MIBs. The amendment also corrects any errors, inconsistencies, and ambiguities associated with the MIB clause of IEEE Std 802.20-2008.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5672283"/>
 </reference>

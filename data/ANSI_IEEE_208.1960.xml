@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.208.1960" target="https://ieeexplore.ieee.org/document/18459">
   <front>
     <title>IEEE Standards on Video Techniques: Measurement of Resolution of Camera Systems, 1961</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.119201"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="12"/>
-    <keyword>TV cameras</keyword>
-    <keyword>Communication standards</keyword>
-    <keyword>measure</keyword>
-    <keyword>video</keyword>
-    <keyword>differential</keyword>
-    <keyword>gain</keyword>
-    <keyword>phase</keyword>
     <abstract>Superseded by IEEE Std 208-1995 The methods for measuring the resolution of camera systems are described. The primary application is for users and manufacturers to quantify the limit where fine detail contained in the original image is no longer reproduced by the camera system. The techniques described may also be used for laboratory measurements and for proof-of-performance specifications for a camera.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.119201"/>
 </reference>

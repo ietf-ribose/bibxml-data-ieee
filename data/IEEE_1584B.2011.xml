@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1584b.2011" target="https://ieeexplore.ieee.org/document/6007019">
   <front>
     <title>IEEE Guide for Performing Arc-Flash Hazard Calculations--Amendment 2: Changes to Clause 4</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6007019"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,28 +11,7 @@
       </address>
     </author>
     <date year="2014" month="April" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Arc discharges</keyword>
-    <keyword>Hazards</keyword>
-    <keyword>Electrical safety</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Short circuit currents</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>arc fault currents</keyword>
-    <keyword>arc-flash hazard</keyword>
-    <keyword>arc-flash hazard analysis</keyword>
-    <keyword>arc-flash hazard marking</keyword>
-    <keyword>arc-flash protection boundary</keyword>
-    <keyword>arc in enclosures</keyword>
-    <keyword>arc in open air</keyword>
-    <keyword>bolted fault currents</keyword>
-    <keyword>electrical hazard</keyword>
-    <keyword>IEEE 1584b</keyword>
-    <keyword>incident energy</keyword>
-    <keyword>personal protective equipment</keyword>
-    <keyword>protective device coordination study</keyword>
-    <keyword>short-circuit study</keyword>
-    <keyword>working distances</keyword>
     <abstract>Techniques for designers and facility operators to apply in determining the arc-flash hazard distance and the incident energy to which employees could be exposed during their work on or near electrical equipment are provided in IEEE Std 1584-2002 and IEEE Std 1584a-2004. Changes in Clause 4 (the analysis process), based on the experience of persons who have conducted many of these studies, are provided in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6007019"/>
 </reference>

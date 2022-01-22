@@ -1,7 +1,6 @@
 <reference anchor="IEEE.112.2017" target="https://ieeexplore.ieee.org/document/8291810">
   <front>
     <title>IEEE Standard Test Procedure for Polyphase Induction Motors and Generators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8291810"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2018" month="February" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Induction motors</keyword>
-    <keyword>Induction machines</keyword>
-    <keyword>acceptance and performance testing</keyword>
-    <keyword>generators</keyword>
-    <keyword>IEEE 112(TM)</keyword>
-    <keyword>induction</keyword>
-    <keyword>machines</keyword>
-    <keyword>motors</keyword>
-    <keyword>polyphase</keyword>
     <abstract>Instructions for conducting and reporting the more generally applicable and acceptable tests of polyphase induction motors and generators are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8291810"/>
 </reference>

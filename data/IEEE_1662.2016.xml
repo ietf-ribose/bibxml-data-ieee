@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1662.2016" target="https://ieeexplore.ieee.org/document/7874058">
   <front>
     <title>IEEE Recommended Practice for the Design and Application of Power Electronics in Electrical Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7874058"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2017" month="March" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power systems reliability</keyword>
-    <keyword>Power electronics</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Reliability engineering</keyword>
-    <keyword>IEEE 1662(TM)</keyword>
-    <keyword>integrated power systems</keyword>
-    <keyword>PEBB</keyword>
-    <keyword>power electronic building blocks</keyword>
-    <keyword>power electronics</keyword>
     <abstract>Recommendations and requirements for the design and applications of power electronics in land-based (onshore) and marine (offshore) electrical power systems are provided in this standard. A wide range of power electronics equipment with aggregated power ratings at and above 100 kW with voltages equal or less than 52 kV (ac) or (dc) is covered. Existing engineering practices, analytical methods, and performance characteristics are described. Applicable international and local standards are referenced with appropriate guidance to provide users of the standard with correct criteria for design, testing, and maintenance necessary for reliable operation of integrated power systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7874058"/>
 </reference>

@@ -5,28 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2018" month="September" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Patient monitoring</keyword>
-    <keyword>Point of care</keyword>
-    <keyword>Semantics</keyword>
-    <keyword>Ontologies</keyword>
-    <keyword>codes</keyword>
-    <keyword>IEEE 11073-10101</keyword>
-    <keyword>IHE PCD-01</keyword>
-    <keyword>independent living</keyword>
-    <keyword>information model</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>nomenclature</keyword>
-    <keyword>ontology</keyword>
-    <keyword>patient</keyword>
-    <keyword>personal health devices</keyword>
-    <keyword>PHD</keyword>
-    <keyword>POC</keyword>
-    <keyword>point-of-care</keyword>
-    <keyword>semantics</keyword>
-    <keyword>service model</keyword>
-    <keyword>terminology</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care (POC) and personal health devices (PHD) medical device communication (MDC), this standard provides the nomenclature that supports both the domain information model and service model components of the standards family, as well as the semantic content exchanged with medical devices. The nomenclature is specialized for patient vital signs information representation and medical device informatics, with major areas including concepts for electrocardiograph (ECG), haemodynamics, respiration, blood gas, urine, fluid-related metrics, and neurology, as well as specialized units of measurement, general device events, alarms, and body sites. The standard defines both the architecture and major components of the nomenclature, along with extensive definitions for each conceptual area.</abstract>
   </front>
 </reference>

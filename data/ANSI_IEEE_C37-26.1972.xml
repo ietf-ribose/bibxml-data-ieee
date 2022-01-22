@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-26.1972" target="https://ieeexplore.ieee.org/document/573177">
   <front>
     <title>IEEE Standard Guide for Methods of Power-Factor Measurement for Low-Voltage Inductive Test Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.81621"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>Personnel</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Reactive power</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>Electric variables measurement</keyword>
-    <keyword>Circuit-breaker testing</keyword>
     <abstract>Methods used to measure the power factor in low-voltage test circuits are covered. Since the power factor measurement for high-capacity test circuits is particularly difficult, and different methods may yield different results, the methods that are least likely to yield errors are recommended for particular circuit conditions. The ratio method is recommended for fast clearing devices that may have total interruption times of 0.5 cycle or less. The DC decrement method is recommended for circuits with a 30% power factor or less when the device to be tested interrupts at a point in time more than 0.5 cycle from the initiation of the current. The phase relationship method, using current and voltage waves, is recommended for circuits having power factors over 30%.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.81621"/>
 </reference>

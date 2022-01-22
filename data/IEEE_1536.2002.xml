@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1536.2002" target="https://ieeexplore.ieee.org/document/1177839">
   <front>
     <title>IEEE Standard for Rail Transit Vehicle Battery Physical Interface</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94230"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>Batteries</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Discharges (electric)</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Rails</keyword>
-    <keyword>Polymers</keyword>
-    <keyword>battery tray</keyword>
-    <keyword>high discharge rate</keyword>
-    <keyword>low discharge rate</keyword>
-    <keyword>medium discharge rate</keyword>
-    <keyword>multi-cell unit</keyword>
     <abstract>This standard prescribes the maximum dimensional requirements of each battery tray for a specific number of cells and battery capacity rating. The battery hardware requirement and battery compartment are also prescribed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94230"/>
 </reference>

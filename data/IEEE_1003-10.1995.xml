@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1003-10.1995" target="https://ieeexplore.ieee.org/document/478420">
   <front>
     <title>IEEE Standard for Information Technology POSIX(R)-Based Supercomputing Application Environment Profile</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79371"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="24"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>AEP</keyword>
-    <keyword>application portability</keyword>
-    <keyword>batch</keyword>
-    <keyword>portable application</keyword>
-    <keyword>profile</keyword>
-    <keyword>queue</keyword>
-    <keyword>resource</keyword>
-    <keyword>supercomputer</keyword>
-    <keyword>supercomputing</keyword>
-    <keyword>user portability</keyword>
     <abstract>This standard is related to the POSIX¨ series of standards for applications and user interfaces to open systems. It specifies the set of standards and the requirements needed for portability of supercomputing applications, users, and system administrators.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79371"/>
 </reference>

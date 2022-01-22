@@ -10,9 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Software testing</keyword>
-    <keyword>Software engineering</keyword>
     <abstract>This standard covers software testing processes, for use by any organization, project or smaller testing activity (e.g. a maintenance testing activity). Testing processes (both prescriptive and exploratory), that support all software development lifecycle models, including (but not limited to) waterfall, spiral and agile models of development are supported by this standard.This part, ISO/IEC 29119-2 Test Process, comprises test process descriptions and diagrams that define the software testing processes for use by any organization, project, team or individual. It is assumed that configuration management of all assets required for testing, including testware, is handled by a separate (parallel) process. Therefore, it is not within the scope of this standard.</abstract>
   </front>
 </reference>

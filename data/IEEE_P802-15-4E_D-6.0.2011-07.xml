@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P802-15-4e/D-6.0.2011-07" target="https://ieeexplore.ieee.org/document/5975184">
   <front>
     <title>IEEE Draft Standard for Local and Metropolitan Area Networks Part 15.4: Low Rate Wireless Personal Area Networks (LR-WPANs) Amendment to the MAC sub-layer</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5975184"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Personal area networks</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Media Access Protocol</keyword>
     <abstract>The intention of this amendment is to enhance and add functionality to the 802.15.4 MAC to a) better support the industrial markets and b) permit compatibility with modifications being proposed within the Chinese WPAN. Specifically, the MAC enhancements are limited to: * TDMA: to provide a)determinism, b)enhanced utilization of bandwidth * Channel Hopping: to provide additional robustness in high interfering environments and enhance coexistence with other wireless networks * GTS: to increase its flexibility such as a) supporting peer to peer, b)the length of the slot, and c) number of slots * CSMA: to improve throughput and reduce energy consumption * Security: to add support for additional options such as asymmetrical keys * Low latency: to reduce end to end delivery time such as needed for control applications</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5975184"/>
 </reference>

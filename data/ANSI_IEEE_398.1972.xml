@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.398.1972" target="https://ieeexplore.ieee.org/document/18431">
   <front>
     <title>IEEE Standard Test Procedures for Photomultipliers for Scintillation Counting and Glossary for Scintillation Counting Field</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.118970"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2020" month="January" day="31"/>
-    <keyword>Cerenkov detectors</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Photomultipliers</keyword>
-    <keyword>Scintillation detectors</keyword>
-    <keyword>Standards</keyword>
-    <keyword>photo</keyword>
-    <keyword>multipliers</keyword>
-    <keyword>scintillation</keyword>
-    <keyword>counting</keyword>
-    <keyword>test</keyword>
     <abstract>Tests for measuring the pulse-height, spurious-pulse, and pulse-timing characteristics of photomultipliers used in scintillation and Cerenkov counters are presented. Five different measurement techniques are described. They are rise-time measurements, fall-time measurements, photocathode transit-time difference measurements, and transit-time spread measurements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1972.118970"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.252.1977" target="https://ieeexplore.ieee.org/document/27718">
   <front>
     <title>IEEE Test Procedure for Polyphase Induction Motors Having Liquid in the Magnetic Gap</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.80334"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="6"/>
-    <keyword>Induction motors</keyword>
-    <keyword>Standards</keyword>
-    <keyword>polyphase</keyword>
-    <keyword>induction</keyword>
-    <keyword>motors</keyword>
-    <keyword>magnetic</keyword>
-    <keyword>liquid</keyword>
     <abstract>This test procedure covers instructions for conducting and reporting the more generally applicable and acceptable tests to determine the performance characteristics of polyphase induction motors having liquid in the magnetic gap. Constants in several equations and forms apply to three-phase motors only and require modification for application to motors having another number of phases. It is not intended that the Procedure cover all possible tests of tests of a research nature. The Procedure shall not be interpreted as requiring the making of any or all of the tests described herein in any given transaction.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.80334"/>
 </reference>

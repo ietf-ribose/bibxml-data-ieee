@@ -1,7 +1,6 @@
 <reference anchor="ASA.C37-1.1937" target="https://ieeexplore.ieee.org/document/8684437">
   <front>
     <title>ASA American Standard for Relays Associated with Power Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1936.8684437"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Relays</keyword>
-    <keyword>ASA</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Performance evaluation</keyword>
     <abstract>This standard relates only to relays of types directly associated with power switchgear. It does not cover relays of types designed primarily for industrial control, excitation or governor regulating, telephone, telegraph, traffic signal, or similar purpose.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1936.8684437"/>
 </reference>

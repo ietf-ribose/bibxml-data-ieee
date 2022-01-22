@@ -1,32 +1,11 @@
 <reference anchor="IEEE.1250.2011" target="https://ieeexplore.ieee.org/document/5744556">
   <front>
     <title>IEEE Guide for Identifying and Improving Voltage Quality in Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5744556"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="January"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Voltage fluctuations</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Surges</keyword>
-    <keyword>Power system control</keyword>
-    <keyword>Power system management</keyword>
-    <keyword>benchmarking</keyword>
-    <keyword>disturbance analyzers</keyword>
-    <keyword>faults</keyword>
-    <keyword>harmonic distortion</keyword>
-    <keyword>IEEE 1250</keyword>
-    <keyword>lightflicker</keyword>
-    <keyword>momentary voltage disturbances</keyword>
-    <keyword>noise</keyword>
-    <keyword>performance</keyword>
-    <keyword>power conditioners</keyword>
-    <keyword>susceptible equipment</keyword>
-    <keyword>surge protection</keyword>
-    <keyword>surges</keyword>
-    <keyword>voltage fluctuation</keyword>
-    <keyword>voltage quality</keyword>
     <abstract>The use of some electrical equipment attached to typical power systems creates voltage quality concerns. There is an increasing awareness that some equipment is not designed to withstand the surges, faults, distortion, and reclosing duty present on typical utility distribution systems. Traditional concerns about steady-state voltage levels and light flicker due to voltage fluctuation also remain. These concerns are addressed by this guide by documenting typical levels of these aspects of voltage quality and indicating how to improve them. Other documents that treat these subjects in more detail are referenced.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5744556"/>
 </reference>

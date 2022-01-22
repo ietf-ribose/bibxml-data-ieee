@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1613.2006" target="https://ieeexplore.ieee.org/document/1634277">
   <front>
     <title>IEEE Standard Environmental and Testing Requirements for Communications Networking Devices in Electric Power Substations - Corrigendum 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215330"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>impulse test requirement</keyword>
-    <keyword>impulse voltage tests</keyword>
-    <keyword>insulation tests</keyword>
     <abstract>Error identified in IEEE Std 1613-2003 are addressed in this corrigendum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.215330"/>
 </reference>

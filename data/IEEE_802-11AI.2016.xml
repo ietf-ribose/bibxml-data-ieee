@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11ai.2016" target="https://ieeexplore.ieee.org/document/7792308">
   <front>
     <title>IEEE Standard for Information technology&amp;#8212;Telecommunications and information exchange between systems - Local and metropolitan area networks&amp;#8212;Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 1: Fast Initial Link Setup</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7792308"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2016" month="December" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Security</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>amendment</keyword>
-    <keyword>Fast Initial Link setup</keyword>
-    <keyword>FILS</keyword>
-    <keyword>IEEE 802.11ai&amp;#8482;</keyword>
     <abstract>Mechanisms that provide IEEE Std 802.11 networks with fast initial link setup methods that do not degrade the security offered by Robust Security Network Association (RSNA) already defined in IEEE Std 802.11 are defined in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7792308"/>
 </reference>

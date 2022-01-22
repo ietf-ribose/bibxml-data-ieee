@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.979.1984" target="https://ieeexplore.ieee.org/document/578034">
   <front>
     <title>IEEE Guide for Substation Fire Protection</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81974"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2013" month="November" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Fires</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Micromechanical devices</keyword>
-    <keyword>IEEE Societies</keyword>
-    <keyword>fire-protection practices</keyword>
-    <keyword>electric utility industry and existing fire- protection standards</keyword>
-    <keyword>design of components</keyword>
     <abstract>Substation fire-protection practices that generally have been accepted by the electric utility industry and existing fire- protection standards and guides that may aid in the design of components are identified. The purpose is to give design guidance to the substation engineer in the area of fire protection. The following are covered: control and relay buildings; transformers; separation and location of oil-filled equipment; cable installation; fire detection systems; fire extinguishing systems; substation components; indoor substations; and fire fighting</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81974"/>
 </reference>

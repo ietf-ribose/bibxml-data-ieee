@@ -1,7 +1,6 @@
 <reference anchor="IEEE.979.1994" target="https://ieeexplore.ieee.org/document/8684713">
   <front>
     <title>IEEE Guide for Substation Fire Protection</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.8684713"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>substation design</keyword>
-    <keyword>fire</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Fire protection</keyword>
     <abstract>Guidance is provided to substation engineers in determining the design, equipment, and practices deemed necessary for the fire protection of substations. A list of publications that can be used to acquire more detailed information for specific substations or substation components is presented.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.8684713"/>
 </reference>

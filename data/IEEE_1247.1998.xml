@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1247.1998" target="https://ieeexplore.ieee.org/document/720564">
   <front>
     <title>IEEE Standard for Interrupter Switches for Alternating Current, Rated Above 1,000 Volts</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88279"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Interrupters</keyword>
-    <keyword>enclosed switch</keyword>
-    <keyword>indoor switch</keyword>
-    <keyword>interrupter switch</keyword>
-    <keyword>outdoor switch</keyword>
-    <keyword>switching ability</keyword>
-    <keyword>switching current</keyword>
-    <keyword>switching rating</keyword>
     <abstract>The basic requirements of interrupter switches used indoors, outdoors, and in enclosures are covered. This standard does not apply to load-break separable insulated connectors.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88279"/>
 </reference>

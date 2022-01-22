@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.770X3-160.1989" target="https://ieeexplore.ieee.org/document/159330">
   <front>
     <title>IEEE/ANSI Standard for the Programming Language Extended Pascal</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101061"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2012" month="June" day="4"/>
-    <keyword>High-level languages</keyword>
-    <keyword>Software portability</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Pascal</keyword>
-    <keyword>extended Pascal</keyword>
-    <keyword>portability</keyword>
-    <keyword>data processing systems</keyword>
-    <keyword>programming</keyword>
     <abstract>The standard provides an unambiguous and machine-independent definition of the computer programming language Extended Pascal by specifying requirements for a processor and for a conforming program. Its purpose is to facilitate portability of Extended Pascal programs for use on a wide variety of data processing systems. Two levels of compliance are defined for both processors and programs.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101061"/>
 </reference>

@@ -1,20 +1,11 @@
 <reference anchor="IEEE.666.1991" target="https://ieeexplore.ieee.org/document/239615">
   <front>
     <title>IEEE Design Guide for Electric Power Service Systems for Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115133"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2015" month="July" day="22"/>
-    <keyword>Power supplies</keyword>
-    <keyword>Standards</keyword>
-    <keyword>cable</keyword>
-    <keyword>motor</keyword>
-    <keyword>relay</keyword>
-    <keyword>transformer</keyword>
-    <keyword>voltage</keyword>
-    <keyword>Short circuit</keyword>
-    <keyword>Auxiliary systems</keyword>
     <abstract>This guide applies to station service systems that supply electric power to auxiliary loads for electric power generating stations. The discussions and recommendations contained herein provide the practices, criteria, and range of system parameters that relate to the service system requirements and assist in the application of existing engineering documents. This guide is not a handbook of design data; however, it explains what is good practice for the many different types of electric power service systems for generating stations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.115133"/>
 </reference>

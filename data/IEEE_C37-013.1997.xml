@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-013.1997" target="https://ieeexplore.ieee.org/document/643519">
   <front>
     <title>IEEE Standard for AC High-Voltage Generator Circuit Breakers Rated on a Symmetrical Current Basis</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85255"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="3"/>
-    <keyword>AC generators</keyword>
-    <keyword>ac high-voltage generataor</keyword>
-    <keyword>application</keyword>
-    <keyword>application guidance</keyword>
-    <keyword>generator circuit breakers</keyword>
-    <keyword>symmetrical current-rating structure</keyword>
-    <keyword>terminals of large generators</keyword>
-    <keyword>testing procedures</keyword>
     <abstract>Ratings, performance requirements, and compliance test methods are provided for ac high-voltage generator circuit breakers rated on a symmetrical current basis that are installed between the generator and the transformer terminals. Guidance for applying generator circuit breakers is given. Pumped storage installations are considered a special application, and their requirements are not completely covered by this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.85255"/>
 </reference>

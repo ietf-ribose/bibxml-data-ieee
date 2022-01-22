@@ -1,18 +1,11 @@
 <reference anchor="IEEE.484.1981" target="https://ieeexplore.ieee.org/document/7425101">
   <front>
     <title>IEEE Recommended Practice for Installation Design and Installation of Large Lead Storage Batteries for Generating Stations and Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7425101"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Lead batteries</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Storage </keyword>
-    <keyword>Generators</keyword>
-    <keyword>Design methodology</keyword>
-    <keyword>Substations</keyword>
     <abstract>Large stationary lead storage batteries play an ever increasing role in substation and generating station control and power systems and in providing the back-up energy for emergencies. This Recommended Practice fulfills the need within the industry to provide common or standard practices for the design of battery installations and the battery installation procedures. The methods described are applicable to all installations and battery sizes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.7425101"/>
 </reference>

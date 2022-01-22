@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1788-1.2017" target="https://ieeexplore.ieee.org/document/8277144">
   <front>
     <title>IEEE Standard for Interval Arithmetic (Simplified)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8277144"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2018" month="January" day="31"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Microprocessors</keyword>
-    <keyword>Arithmetic</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Security</keyword>
-    <keyword>arithmetic</keyword>
-    <keyword>computing</keyword>
-    <keyword>decoration</keyword>
-    <keyword>enclosure</keyword>
-    <keyword>interval</keyword>
-    <keyword>IEEE 754TM</keyword>
-    <keyword>IEEE 1788TM</keyword>
-    <keyword>operation</keyword>
-    <keyword>verified.</keyword>
     <abstract>This standard is a simplified version and a subset of the IEEE Std 1788TM-2015 for Interval Arithmetic and includes those operations and features of the latter that in the the editors view are most commonly used in practice. IEEE Std 1788.1-2017 specifies interval arithmetic operations based on intervals whose endpoints are IEEE Std 754TM-2008 binary64 floating-point numbers and a decoration system for exception-free computations and propagation of properties of the computed results.A program built on top of an implementation of IEEE Std 1788.1-2017 should compile and run, and give identical output within round off, using an implementation of IEEE Std 1788-2015, or any superset of the former.Compared to IEEE Std 1788-2015, this standard aims to be minimalistic, yet to cover much of the functionality needed for interval computations. As such, it is more accessible and will be much easier to implement, and thus will speed up production of implementations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8277144"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P1591-3/D-6.2010-09" target="https://ieeexplore.ieee.org/document/5724244">
   <front>
     <title>IEEE Draft Standard for Qualifying Hardware for Helically-Applied Fiber Optic Cable Systems (WRAP Cable)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5724244"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,9 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Optical fiber cables</keyword>
     <abstract>The purpose of this standard is to establish performance and testing specifications for hardware used on WRAP CABLE systems in order to standardize testing, simplify procurement specifications, and assure product quality.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5724244"/>
 </reference>

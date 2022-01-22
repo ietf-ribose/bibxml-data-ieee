@@ -1,7 +1,6 @@
 <reference anchor="IEEE.454.1973" target="https://ieeexplore.ieee.org/document/7420561">
   <front>
     <title>IEEE Recommended Practice for the Detection and Measurement of Partial Discharges (Corona) During Dielectric Tests</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7420561"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="26"/>
-    <keyword>Partial discharges</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>Partial discharge measurement</keyword>
-    <keyword>Calibration</keyword>
-    <keyword>Corona</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
     <abstract>This document is based on IEC Publication 270-1968, Partial Discharge Measurements. adheres closely to the IEC recommendations with the following exceptions:(1) The terms partial discharge energy and partial discharge power are not used in this document but are defined for future reference.(2) Likewise, the corona discharge reference source shown in Fig 5 of the IEC document has been omitted since it is not in common use in the United States.(3) An Appendix concerning calibration techniques has been added since it is felt that the IECrecommendation is lacking in this respect.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7420561"/>
 </reference>

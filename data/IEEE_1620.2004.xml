@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1620.2004" target="https://ieeexplore.ieee.org/document/1293918">
   <front>
     <title>Standard for Test Methods for the Characterization of Organic Transistors and Materials</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94492"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>FETs</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Measurement errors</keyword>
-    <keyword>field-effect transistor</keyword>
-    <keyword>organic electronic technology</keyword>
-    <keyword>organic materials</keyword>
-    <keyword>organic transis-tors</keyword>
-    <keyword>organic semiconductor technology</keyword>
-    <keyword>polymer field-effect transistor</keyword>
     <abstract>This standard describes a method for characterizing organic electronic devices, including measurement techniques, methods of reporting data, and the testing conditions during characterization.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94492"/>
 </reference>

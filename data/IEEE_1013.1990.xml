@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1013.1990" target="https://ieeexplore.ieee.org/document/210970">
   <front>
     <title>IEEE Recommended Practice for Sizing Lead-Acid Batteries for Photovoltaic (PV) Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.114381"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="30"/>
-    <keyword>Lead</keyword>
-    <keyword>Photovoltaic power systems</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Battery sizing</keyword>
-    <keyword>lead</keyword>
-    <keyword>acid</keyword>
-    <keyword>batteries</keyword>
-    <keyword>photovoltaics</keyword>
-    <keyword>Acid-Lead Batteries</keyword>
-    <keyword>Bond Determination</keyword>
-    <keyword>Battery reserve</keyword>
-    <keyword>Photovoltaic power systems</keyword>
-    <keyword>Lead-acid batteries</keyword>
     <abstract>Methods for sizing both vented and valve-regulated lead-acid batteries used with terrestrial photovoltaic (PV) systems are described. The purpose of this document is to assist system designers in sizing batteries for residential, commercial, and industrial PV systems. Iterative techniques to optimize battery costs, installation, maintenance, safety, testing procedures and consideration of battery types other than lead-acid, are beyond the scope of this document. Recommended practices for the remainder of the electrical systems associated with PV installations are also beyond the scope of this document.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.114381"/>
 </reference>

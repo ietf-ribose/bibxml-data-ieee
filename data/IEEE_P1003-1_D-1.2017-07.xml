@@ -11,40 +11,6 @@
       </address>
     </author>
     <date year="2017" month="August" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Application programming interface</keyword>
-    <keyword>Operating systems</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Batch production systems</keyword>
-    <keyword>Command languages</keyword>
-    <keyword>Input-output programs</keyword>
-    <keyword>application program interface (API)</keyword>
-    <keyword>argument</keyword>
-    <keyword>asynchronous</keyword>
-    <keyword>basic regular expression (BRE)</keyword>
-    <keyword>batch job</keyword>
-    <keyword>batch system</keyword>
-    <keyword>built-in utility</keyword>
-    <keyword>byte</keyword>
-    <keyword>child</keyword>
-    <keyword>command language interpreter</keyword>
-    <keyword>CPU</keyword>
-    <keyword>extended regular expression (ERE)</keyword>
-    <keyword>FIFO</keyword>
-    <keyword>file access control mechanism</keyword>
-    <keyword>IEEE 1003.1</keyword>
-    <keyword>input/output (I/O)</keyword>
-    <keyword>job control</keyword>
-    <keyword>network</keyword>
-    <keyword>parent</keyword>
-    <keyword>portable operating system interface (POSIX)</keyword>
-    <keyword>shell</keyword>
-    <keyword>stream</keyword>
-    <keyword>string</keyword>
-    <keyword>synchronous</keyword>
-    <keyword>system</keyword>
-    <keyword>thread</keyword>
-    <keyword>X/Open System Interface (XSI)</keyword>
     <abstract>POSIX.1-2017 is simultaneously IEEE Std 1003.1-2017 and The Open Group Standard Base Specifications, Issue 7. POSIX.1-2017 defines a standard operating system interface and environment, including a command interpreter (or “shell”), and common utility programs to support applications portability at the source code level. POSIX.1-2017 is intended to be used by both application developers and system implementors and comprises four major components (each in an associated volume): • General terms, concepts, and interfaces common to all volumes of this standard, including utility conventions and C-language header definitions, are included in the Base Definitions volume. • Definitions for system service functions and subroutines, language-specific system services for the C programming language, function issues, including portability, error handling, and error recovery, are included in the System Interfaces volume. • Definitions for a standard source code-level interface to command interpretation services (a “shell”) and common utility programs for application programs are included in the Shell and Utilities volume. • Extended rationale that did not fit well into the rest of the document structure, which contains historical information concerning the contents of POSIX.1-201x and why features were included or discarded by the standard developers, is included in the Rationale (Informative) volume. The following areas are outside the scope of POSIX.1-201x: • Graphics interfaces • Database management system interfaces • Record I/O considerations • Object or binary code portability • System configuration and resource availability POSIX.1-2017 describes the external characteristics and facilities that are of importance to application developers, rather than the internal construction techniques employed to achieve these capabilities. Special emphasis is placed on those functions and facilities that are needed in a wide variety of commercial applications.</abstract>
   </front>
 </reference>

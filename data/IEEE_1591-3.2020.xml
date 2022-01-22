@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1591-3.2020" target="https://ieeexplore.ieee.org/document/9416941">
   <front>
     <title>IEEE Standard for Qualifying Hardware for Helically-Applied Fiber Optic Cable System (WRAP Cable)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9416941"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="27"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Optical fiber cables</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Quality assessment</keyword>
-    <keyword>Product design</keyword>
-    <keyword>Optical fibers</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>clearance</keyword>
-    <keyword>conductor</keyword>
-    <keyword>IEEE 1591.3</keyword>
-    <keyword>skywrap</keyword>
-    <keyword>WRAP</keyword>
     <abstract>Performance and testing specifications for hardware used on helically-applied cable systems (WRAP) in order to standardize testing, simplify procurement specifications, and improve product quality is established in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9416941"/>
 </reference>

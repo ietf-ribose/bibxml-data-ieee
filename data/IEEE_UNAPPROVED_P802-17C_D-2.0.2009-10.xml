@@ -9,17 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>bridging</keyword>
-    <keyword>fairness</keyword>
-    <keyword>layer management</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>metropolitan area network (MAN)</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>protection switching</keyword>
-    <keyword>resilient packet ring (RPR)</keyword>
-    <keyword>ring topology</keyword>
-    <keyword>spatial reuse</keyword>
-    <keyword>topology detection</keyword>
     <abstract>This amendment enables a service provider to use the architecture and protocols of IEEE Std 802.17TM to support ring interconnection through dual station oming, providing 50-ms protection, loop preventation, and load balancing of traffic between rings.</abstract>
   </front>
 </reference>

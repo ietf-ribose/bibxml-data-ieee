@@ -11,23 +11,6 @@
       </address>
     </author>
     <date year="2017" month="May" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>ATE</keyword>
-    <keyword>ATML</keyword>
-    <keyword>ATS</keyword>
-    <keyword>ATML instance document</keyword>
-    <keyword>automatic test equipment</keyword>
-    <keyword>Automatic Test Markup Language</keyword>
-    <keyword>automatic test system</keyword>
-    <keyword>IEEE 1671.1(TM)</keyword>
-    <keyword>test program documentation</keyword>
-    <keyword>test requirements</keyword>
-    <keyword>unit under test</keyword>
-    <keyword>UUT</keyword>
-    <keyword>XML schema</keyword>
     <abstract>An exchange format, utilizing Extensible Markup Language (XML), for both the static description of unit under test (UUT), and the specific description of UUT instance information is defined in this standard.</abstract>
   </front>
 </reference>

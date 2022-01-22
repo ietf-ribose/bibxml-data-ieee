@@ -11,17 +11,6 @@
       </address>
     </author>
     <date year="2015" month="May" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Encryption</keyword>
-    <keyword>Trust management</keyword>
-    <keyword>Intellectual property</keyword>
-    <keyword>Rights management</keyword>
-    <keyword>Digital systems</keyword>
-    <keyword>encrypted IP</keyword>
-    <keyword>digital envelope</keyword>
-    <keyword>trust model</keyword>
-    <keyword>keys</keyword>
-    <keyword>rights management</keyword>
     <abstract>Correct an inconsistency within 7.4.3 of IEEE Std 1735-2014. The section contains a description of a rights digest followed by details on how to calculate it. The two do not match. (Note: This corrigenda was not published as a separate document, but was incorporated into IEEE Std 1735-2014)</abstract>
   </front>
 </reference>

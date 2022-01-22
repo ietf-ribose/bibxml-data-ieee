@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3ab.1999" target="https://ieeexplore.ieee.org/document/798775">
   <front>
     <title>IEEE Standard for Information Technology - Telecommunications and information exchange between systems - Local and Metropolitan Area Networks - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications - Physical Layer Parameters and Specifications for 1000 Mb/s Operation over 4 pair of Category 5 Balanced Copper Cabling, Type 1000BASE-T</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90568"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2018" month="June" day="22"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Auto-Negotiation</keyword>
-    <keyword>Category 5</keyword>
-    <keyword>copper</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>gigabit</keyword>
-    <keyword>MASTER-SLAVE</keyword>
-    <keyword>medium dependent interface</keyword>
-    <keyword>physical coding sublayer</keyword>
-    <keyword>Physical Layer</keyword>
-    <keyword>physical medium attachment</keyword>
     <abstract>Superseded by IEEE Std 802.3-2002. This IEEE Standards product is part of the 802 Family on LAN/MAN. Abstract: Type 1000BASE-T PCS, type 1000BASE-T PMA sublayer, and type 1000BASE-T Medium Dependent Interface (MDI) are defined. This supplement provides fully functional, electrical and mechanical specifications for the type 1000BASE-T PCS, PMA, and MDI. This supplement also specifies the baseband medium used with 1000BASE-T.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90568"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-122.2010" target="https://ieeexplore.ieee.org/document/5700076">
   <front>
     <title>IEEE Standard for High Voltage Gas-Insulated Substations Rated Above 52 kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5700076"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2020" month="August" day="7"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Gas insulated transmission lines</keyword>
-    <keyword>IEEE C37.122</keyword>
-    <keyword>gas-insulated metal enclosed switchgear</keyword>
-    <keyword>gas-insulated substation</keyword>
-    <keyword>gas-insulated switchgear</keyword>
-    <keyword>GIS</keyword>
-    <keyword>GIS design</keyword>
-    <keyword>GIS equipment</keyword>
-    <keyword>GIS installation</keyword>
-    <keyword>GIS testing</keyword>
-    <keyword>SF6</keyword>
-    <keyword>sulfur hexafluoride</keyword>
     <abstract>The technical requirements for the design, fabrication, testing, and installation of a gas-insulated substations are covered. The parameters to be supplied by the purchaser are set, and the technical requirements for the design, fabrication, testing, and installation details to be furnished by the manufacturer are established.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5700076"/>
 </reference>

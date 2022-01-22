@@ -1,28 +1,11 @@
 <reference anchor="IEEE.754.2008.Redline" target="https://ieeexplore.ieee.org/document/5976968">
   <front>
     <title>IEEE Standard for Floating-Point Arithmetic</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.5976968"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Arithmetic</keyword>
-    <keyword>Floating-point arithmetic</keyword>
-    <keyword>754-2008</keyword>
-    <keyword>arithmetic</keyword>
-    <keyword>binary</keyword>
-    <keyword>computer</keyword>
-    <keyword>decimal</keyword>
-    <keyword>exponent</keyword>
-    <keyword>floating-point</keyword>
-    <keyword>format</keyword>
-    <keyword>interchange</keyword>
-    <keyword>NaN</keyword>
-    <keyword>number</keyword>
-    <keyword>rounding</keyword>
-    <keyword>significand</keyword>
-    <keyword>subnormal</keyword>
     <abstract>This standard specifies formats and methods for floating-point arithmetic in computer systems: standard and extended functions with single, double, extended, and extendable precision, and recommends formats for data interchange. Exception conditions are defined and standard handling of these conditions is specified.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.5976968"/>
 </reference>

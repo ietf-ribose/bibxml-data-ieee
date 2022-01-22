@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3u.1995" target="https://ieeexplore.ieee.org/document/7974916">
   <front>
     <title>IEEE Standards for Local and Metropolitan Area Networks: Supplement - Media Access Control (MAC) Parameters, Physical Layer, Medium Attachment Units, and Repeater for 100Mb/s Operation, Type 100BASE-T (Clauses 21-30)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.7974916"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2017" month="July" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Repeaters</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>fast ethernet</keyword>
-    <keyword>100BASE-FX</keyword>
-    <keyword>100BASE-T</keyword>
-    <keyword>100BASE-T4</keyword>
-    <keyword>100BASE-TX</keyword>
-    <keyword>100BASE-X</keyword>
-    <keyword>Auto-Negotiation</keyword>
-    <keyword>management</keyword>
-    <keyword>MII</keyword>
-    <keyword>repeater</keyword>
     <abstract>Superseded by 802.3aa-1998. The ISO/IEC CSMA/CD Media Access Control (MAC) is coupled with a family of new Physical Layer specifications to achieve 100 Mb/s operation. Known collectively as 100BASE-T, this family of Physical Layer specifications includes 100BASE-T4, which uses four pairs of ISO/IEC 11801: 1995 Category 3, 4, or 5 balanced cable; 100BASE-TX, which uses two pairs of Category 5 balanced cable or 150 ohm shielded balanced cable; and 100BASE-FX, which uses two multi-mode fibers. The two 100BASE-X specifications (100BASE-TX and 100BASE-FX) reused portions of the 100 Mb/s physical signaling specifications originally developed for Fibre Distributed Data Interface (FDDI).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.7974916"/>
 </reference>

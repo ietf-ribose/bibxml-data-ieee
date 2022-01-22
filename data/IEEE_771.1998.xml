@@ -1,7 +1,6 @@
 <reference anchor="IEEE.771.1998" target="https://ieeexplore.ieee.org/document/9090397">
   <front>
     <title>IEEE Guide to the Use of the ATLAS Specification</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.9090397"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2020" month="May" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>Testing</keyword>
-    <keyword>ATE</keyword>
-    <keyword>ATLAS</keyword>
-    <keyword>automatic test equipment</keyword>
-    <keyword>C/ATLAS</keyword>
-    <keyword>guide</keyword>
-    <keyword>test language</keyword>
-    <keyword>test requirement unit under test</keyword>
-    <keyword>UUT</keyword>
     <abstract>Guidance in the use of ATLAS test languages is provided. ATLAS may be used to de- scribe test requirements independent of any specific test equipment, and examples of best practice in the use of ATLAS are given.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.9090397"/>
 </reference>

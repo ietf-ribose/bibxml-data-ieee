@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-3/Amd5.2017" target="https://ieeexplore.ieee.org/document/8323454">
   <front>
     <title>ISO/IEC/IEEE International Standard - Amendment 5: Specification and Management Parameters for Interspersing Express Traffic</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8323454"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2018" month="March" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Telecommunication traffic</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>express traffic</keyword>
-    <keyword>IEEE 802(R)</keyword>
-    <keyword>IEEE 802.3(TM)</keyword>
-    <keyword>IEEE 802.3br(TM)</keyword>
-    <keyword>preemption</keyword>
     <abstract>This amendment to IEEE Std 802.3-2015 specifies additions to and appropriate modifications to add support for interspersing express traffic over a single physical link.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8323454"/>
 </reference>

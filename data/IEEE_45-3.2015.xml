@@ -1,7 +1,6 @@
 <reference anchor="IEEE.45-3.2015" target="https://ieeexplore.ieee.org/document/7172975">
   <front>
     <title>IEEE Recommended Practice for Shipboard Electrical Installations -- Systems Engineering</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7172975"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2015" month="July" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Radial design</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>Zonal design</keyword>
-    <keyword>Design methodology</keyword>
-    <keyword>Shipbuilding industry</keyword>
-    <keyword>Marine vehicles</keyword>
-    <keyword>Electrical installations</keyword>
-    <keyword>baselines</keyword>
-    <keyword>concept of operations</keyword>
-    <keyword>IEEE 45.3(TM)</keyword>
-    <keyword>radial design</keyword>
-    <keyword>systems engineering</keyword>
-    <keyword>zonal design</keyword>
     <abstract>Recommendations for systems engineering, design, and integration of electrical power systems at the total ship level from concept design through the establishment of the design baseline prior to detail design are provided in this document. Recommendations for ac power systems, dc power systems, emergency power systems, shore power, quality of service, power quality and harmonics, electric propulsion and maneuvering systems, motors and drives, thrusters, and steering systems onboard ships are established by this document. These recommendations reflect the present-day technologies, engineering methods, and engineering practices. This document is intended to be used in conjunction with the IEEE 45(TM) series of documents.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7172975"/>
 </reference>

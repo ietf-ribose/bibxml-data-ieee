@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1095.2012" target="https://ieeexplore.ieee.org/document/6222303">
   <front>
     <title>IEEE Guide for the Installation of Vertical Generators and Generator/Motors for Hydroelectric Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6222303"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2012" month="June" day="21"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Assembly</keyword>
-    <keyword>Generators</keyword>
-    <keyword>Electric motors</keyword>
-    <keyword>Hydroelectric power generation</keyword>
-    <keyword>assembly</keyword>
-    <keyword>coupling</keyword>
-    <keyword>erection</keyword>
-    <keyword>generator</keyword>
-    <keyword>generator/motor</keyword>
-    <keyword>hydroelectric</keyword>
-    <keyword>IEEE 1095</keyword>
-    <keyword>installation</keyword>
-    <keyword>runout</keyword>
-    <keyword>shaft</keyword>
-    <keyword>tolerance</keyword>
-    <keyword>vertical</keyword>
     <abstract>The procedures for installation described in this guide apply to all types of synchronous generators and generator/motors rated 5 MVA and above to be coupled to hydraulic turbines or hydraulic pump/turbines having vertical shafts.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6222303"/>
 </reference>

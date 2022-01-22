@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3ad.2000" target="https://ieeexplore.ieee.org/document/850426">
   <front>
     <title>IEEE Standard for Information Technology - Local and Metropolitan Area Networks - Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications-Aggregation of Multiple Link Segments</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91610"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>IEEE 802.3 Standard</keyword>
-    <keyword>EPON</keyword>
-    <keyword>Aggregated Link</keyword>
-    <keyword>Aggregator</keyword>
-    <keyword>Link Aggregation Group</keyword>
-    <keyword>Physical Layer</keyword>
     <abstract>Incorporated in IEEE Std 802.3, 2000 Edition. Superseded by 802.3-2002. An optional Link Aggregation sublayer for use with CSMA/CD MACs is defined. Link Aggregation allows one or more links to be aggregated together to form a Link Aggregation Group, such that a MAC Client can treat the Link Aggregation Group as if it were a single link. To this end, it specifies the establishment of DTE to DTE logical links, consisting of N parallel instances of full duplex point-to-point links operating at the same data rate.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91610"/>
 </reference>

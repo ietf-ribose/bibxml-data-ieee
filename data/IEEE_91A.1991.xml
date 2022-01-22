@@ -1,7 +1,6 @@
 <reference anchor="IEEE.91a.1991" target="https://ieeexplore.ieee.org/document/7896954">
   <front>
     <title>IEEE Standard Graphic Symbols for Logic Functions (Including and incorporating IEEE Std 91a-1991, Supplement to IEEE Standard Graphic Symbols for Logic Functions)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7896954"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2017" month="April" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Symbols</keyword>
-    <keyword>Graphics</keyword>
-    <keyword>Logic functions</keyword>
-    <keyword>symbols</keyword>
-    <keyword>graphic</keyword>
-    <keyword>logic</keyword>
-    <keyword>functions</keyword>
     <abstract>Graphic symbols for representing logic functions or physical devices capable of carrying out logic functions are presented. Descriptions of logic functions, the graphic representation of these functions, and examples of their applications are provided. The symbols are presented in the context of electrical applications, but most may also be applied to nonelectrical systems (for example, pneumatic, hydraulic, or mechanical). The supplement provided additional internationally approved graphic symbols and made corrections as needed to IEEE Std 91-1984.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.7896954"/>
 </reference>

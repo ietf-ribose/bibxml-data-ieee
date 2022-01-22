@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-13-3.2014" target="https://ieeexplore.ieee.org/document/7015515">
   <front>
     <title>IEEE Guide for Grounding of Instrument Transformer Secondary Circuits and Cases</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7015515"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2015" month="January" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Capacitance-voltage characteristics</keyword>
-    <keyword>Transducers</keyword>
-    <keyword>Capacitive voltage transformer</keyword>
-    <keyword>combined metering unit</keyword>
-    <keyword>current transformer</keyword>
-    <keyword>grounding of cases of instrument transformers</keyword>
-    <keyword>grounding secondary circuits of instrument transformers</keyword>
-    <keyword>IEEE C57.13.3(TM)</keyword>
-    <keyword>instrument transformer</keyword>
-    <keyword>linear coupler</keyword>
-    <keyword>low energy transducer</keyword>
-    <keyword>resistive voltage transformer</keyword>
-    <keyword>voltage transformer.</keyword>
     <abstract>General and specific recommendations for grounding current and voltage transformer secondary circuits and cases of connected equipment are covered in this guide. Although most diagrams included in this guide show relaying applications, the recommended practices apply equally to metering and other areas where instrument transformers are used. Grounding practices presently used, and practices that were not previously reported, are included in this guide. Specifically, a review of other than North American grounding practices is included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7015515"/>
 </reference>

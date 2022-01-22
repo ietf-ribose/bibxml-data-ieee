@@ -1,18 +1,11 @@
 <reference anchor="IEEE.644.1979" target="https://ieeexplore.ieee.org/document/7434550">
   <front>
     <title>IEEE Recommended Practices for Measurement of Power Frequency Electric and Magnetic Fields from AC Power Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7434550"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>Magnetic field measurement</keyword>
-    <keyword>Magnetic fields</keyword>
-    <keyword>AC machines</keyword>
-    <keyword>Power transmission lines</keyword>
     <abstract>The purpose of this document is to establish uniform procedures for the measurement of steady state electric and magnetic fields from alternating current overhead power lines and for the calibration of the meters used in these measurements. A uniform procedure is a prerequisite to comparisons of electric and magnetic fields of various alternating current overhead power lines. These procedures apply to the measurement of the near fields close to ground level. They can also be tentatively applied to electric field measurements near an energized conductor or structure with the limitations outlined in 3.5 of this document.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7434550"/>
 </reference>

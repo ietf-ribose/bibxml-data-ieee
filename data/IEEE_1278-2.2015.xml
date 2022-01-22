@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1278-2.2015" target="https://ieeexplore.ieee.org/document/7459689">
   <front>
     <title>IEEE Standard for Distributed Interactive Simulation (DIS) -- Communication Services and Profiles</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7459689"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2016" month="April" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Distributed processing</keyword>
-    <keyword>Multicast communication</keyword>
-    <keyword>Simulation networks</keyword>
-    <keyword>Interactive simulation</keyword>
-    <keyword>communication service</keyword>
-    <keyword>DIS</keyword>
-    <keyword>distributed interactive simulation</keyword>
-    <keyword>IEEE 1278.2(TM)</keyword>
-    <keyword>multicast</keyword>
-    <keyword>protocol data units (PDUs)</keyword>
-    <keyword>simulation network</keyword>
     <abstract>Communication services to support information exchange between simulation applications participating in the distributed interactive simulation (DIS) environment are defined. These communication services describe a connectionless information transfer that supports real-time, as well as non-real-time, exchange. Several communication profiles specifying communication services are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7459689"/>
 </reference>

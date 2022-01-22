@@ -1,7 +1,6 @@
 <reference anchor="ASA.C37-42.1962" target="https://ieeexplore.ieee.org/document/8684424">
   <front>
     <title>ASA American Standard Specifications for Distribution Enclosed Open and Open Link Cutouts</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.8684424"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.8684424"/>
 </reference>

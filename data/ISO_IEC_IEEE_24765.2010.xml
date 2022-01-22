@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.24765.2010" target="https://ieeexplore.ieee.org/document/5733835">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- Vocabulary</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5733835"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2018" month="February" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>ISO standards</keyword>
-    <keyword>IEC standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Dictionaries</keyword>
-    <keyword>computer</keyword>
-    <keyword>dictionary</keyword>
-    <keyword>information technology</keyword>
-    <keyword>software engineering</keyword>
-    <keyword>systems engineering</keyword>
-    <keyword>terminology</keyword>
-    <keyword>vocabulary</keyword>
     <abstract>The systems and software engineering disciplines are continuing to mature while information technology advances. This International Standard was prepared to collect and standardize terminology. Its purpose is to identify terms currently in use in the field and standard definitions for these terms. It is intended to serve as a useful reference for those in the Information Technology field, and to encourage the use of systems and software engineering standards prepared by ISO and liaison organizations IEEE Computer Society and Project Management Institute (PMI). This International Standard replaces IEEE Std 610.12-1990, IEEE Standard Glossary of Software Engineering Terminology, which was contributed by the IEEE as a source document. The approach and lexical exactitude of IEEE Std 610.12-1990 served as a model for this International Standard. Nevertheless, approximately two thirds of the definitions in this International Standard are new since IEEE Std 610.12 was last updated in 1990, a reflection of the continued evolution in the field.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5733835"/>
 </reference>

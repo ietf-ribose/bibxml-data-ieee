@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1653-3.2012" target="https://ieeexplore.ieee.org/document/6415944">
   <front>
     <title>IEEE Guide for Rail Transit Traction Power Systems Modeling</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6415944"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="21"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Railway transportation</keyword>
-    <keyword>Power system dynamics</keyword>
-    <keyword>Traction power supplies</keyword>
-    <keyword>Modeling</keyword>
-    <keyword>analysis</keyword>
-    <keyword>IEEE 1653.3</keyword>
-    <keyword>modeling</keyword>
-    <keyword>traction power</keyword>
     <abstract>A description of the data, techniques, and procedures typically used in modeling and analysis of traction power systems is provided in this guide.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6415944"/>
 </reference>

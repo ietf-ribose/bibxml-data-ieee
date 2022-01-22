@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2020" month="April" day="28"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Integrated circuits</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>Timing anlaysis</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>chip delay</keyword>
-    <keyword>electronic design automation (EDA)</keyword>
-    <keyword>IEEE 1481</keyword>
-    <keyword>integrated circuit (IC) design</keyword>
-    <keyword>power calculation</keyword>
     <abstract>Ways for integrated circuit designers to analyze chip timing and power consistently across a broad set of electric design automation (EDA) applications are covered in this standard. Methods by which integrated circuit vendors can express timing and power information once per given technology are also covered. In addition, the means by which EDA vendors can meet their application performance and capacity needs are discussed.</abstract>
   </front>
 </reference>

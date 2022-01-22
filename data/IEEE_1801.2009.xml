@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1801.2009" target="https://ieeexplore.ieee.org/document/4809845">
   <front>
     <title>IEEE Standard for Design and Verification of Low Power Integrated Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4809845"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,26 +10,7 @@
       </address>
     </author>
     <date year="2013" month="May" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEEE Standards Association</keyword>
-    <keyword>Power integrated circuits</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>Encapsulation</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>1801-2009</keyword>
-    <keyword>corruption semantics</keyword>
-    <keyword>interface specification</keyword>
-    <keyword>IP reuse</keyword>
-    <keyword>isolation</keyword>
-    <keyword>level-shifting</keyword>
-    <keyword>poweraware design</keyword>
-    <keyword>power intent</keyword>
-    <keyword>power domains</keyword>
-    <keyword>power modes</keyword>
-    <keyword>power states</keyword>
-    <keyword>progressive design refinement</keyword>
-    <keyword>retention</keyword>
-    <keyword>retention strategies</keyword>
     <abstract>The power supplied to elements in an electronic design affects the way circuits operate. Although this is obvious when stated, today's set of high-level design languages have not had a consistent way to concisely represent the regions of a design with different power provisions, nor the states of those regions or domains. This standard provides an HDL-independent way of annotating a design with power intent. In addition, the level-shifting and isolation between power domains may be described for a specific implementation, from high-level constraints to particular configurations. When the logic in a power domain receives different power supply levels, the logic state of portions of the design may be preserved with various state-retention strategies. This standard provides mechanisms for the refined and specific description of intent, effect, and implementation of various retention strategies. Incorporating components into designs is greatly assisted by the encapsulation and specification of the characteristics of the power environment of the design and the power requirements and capabilities of the components; this information encapsulation mechanism is also described in this standard. The analysis of the various power modes of a design is enabled with a combination of the description of the power modes and the collection, generation, and propagation of switching information.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4809845"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.336.2010" target="https://ieeexplore.ieee.org/document/5593983">
   <front>
     <title>IEEE Recommended Practice for Installation, Inspection, and Testing for Class 1E Power, Instrumentation, and Control Equipment at Nuclear Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5593983"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
       </address>
     </author>
     <date year="2020" month="June" day="29"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Inspection</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Class 1E</keyword>
-    <keyword>configuration management</keyword>
-    <keyword>constructability reviews</keyword>
-    <keyword>functional testing</keyword>
-    <keyword>inspection procedures</keyword>
-    <keyword>multi-unit</keyword>
-    <keyword>nuclear facilities</keyword>
-    <keyword>plant design bases</keyword>
-    <keyword>pre-installation</keyword>
-    <keyword>post-installation inspection</keyword>
-    <keyword>post-maintenance test</keyword>
-    <keyword>post-modification test</keyword>
-    <keyword>test plans</keyword>
-    <keyword>test procedures</keyword>
     <abstract>Considerations for the pre-installation, installation, inspection, and testing of Class 1E power, instrumentation, and control equipment and systems of a nuclear facility while in the process of installing, inspecting, and testing during new construction, modification, or maintenance are provided. This recommended practice does not apply to periodic testing. For purposes of this standard, in addition to a nuclear power plant, a nuclear facility is defined as a facility related to the nuclear fuel cycle from fuel processing to reprocessing and waste facilities.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5593983"/>
 </reference>

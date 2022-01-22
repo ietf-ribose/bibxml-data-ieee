@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1005.1991" target="https://ieeexplore.ieee.org/document/159369">
   <front>
     <title>IEEE Standard Definitions and Characterization of Floating Gate Semiconductor Arrays</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101070"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="13"/>
-    <keyword>Cellular logic arrays</keyword>
-    <keyword>Circuit reliability</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Semiconductor memories</keyword>
-    <keyword>Memory architecture</keyword>
-    <keyword>array</keyword>
-    <keyword>Nonvolatile memory</keyword>
-    <keyword>Floating gate</keyword>
     <abstract>An introduction to the physics unique to this type of memory and an overview of typical array architectures are presented. The variations on the basic floating gate nonvolatile cell structure that have been used in commercially available devices are described. The various reliability considerations involved in these devices are explored. Retention and endurance failures and the interaction between endurance, retention, and standard semiconductor failure mechanisms in determining the device failure rate are covered. How to specify and perform engineering verification of retention of data stored in the arrays is described. Effects that limit the endurance of the arrays are discussed. The specification and engineering verification of endurance are described. The more common features incorporated into the arrays and methods for testing these complex products efficiently are addressed. The effects that various forms of ionizing radiation may have on floating gate arrays and approaches to test for these effects are covered. The use of floating gate cells in nonmemory applications is briefly considered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101070"/>
 </reference>

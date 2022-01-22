@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1212-1.1993" target="https://ieeexplore.ieee.org/document/8686399">
   <front>
     <title>IEEE Standard for Communicating Among Processors and Peripherals Using Shared Memory (Direct Memory Access - DMA)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8686399"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Memory management</keyword>
-    <keyword>Instruction sets</keyword>
-    <keyword>Integrated circuits</keyword>
-    <keyword>Processor</keyword>
-    <keyword>Memory</keyword>
-    <keyword>I/O</keyword>
-    <keyword>Direct memory access</keyword>
-    <keyword>DMA</keyword>
     <abstract>Administratively withdrawn January 2007 Primitive yet high-performance means are defined for passing messages across the bus between the Processor and some form of intelligence in the I/O Unit's Function. This message-passing scheme makes minimal demands on the instruction set and hardware required. In addition, several simple conventions are defined for the structure of the messages passed. The intent is to provide a standard architectural framework that supports the detailed definition of application-dependent I/O Unit and Function interface standards. The algorithms and definitions themselves are useful in the design of integrated circuits for I/O.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.8686399"/>
 </reference>

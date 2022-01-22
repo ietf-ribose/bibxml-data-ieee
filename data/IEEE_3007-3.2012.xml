@@ -1,7 +1,6 @@
 <reference anchor="IEEE.3007-3.2012" target="https://ieeexplore.ieee.org/document/6179956">
   <front>
     <title>IEEE Recommended Practice for Electrical Safety in Industrial and Commercial Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6179956"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2012" month="August" day="7"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Hazards</keyword>
-    <keyword>Electrical safety</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Fires</keyword>
-    <keyword>electrical hazards</keyword>
-    <keyword>electrical safety program</keyword>
-    <keyword>electrical safety-related maintenance</keyword>
-    <keyword>fire protection</keyword>
-    <keyword>grounding</keyword>
-    <keyword>IEEE 3007.3</keyword>
-    <keyword>personal protective equipment</keyword>
-    <keyword>safe electrical work practices</keyword>
-    <keyword>safety single-line diagram</keyword>
     <abstract>All aspects of electrical safety in industrial and commercial power systems are covered. This recommended practice provides personnel with guidelines for understanding the fundamental concepts of the hazards of electricity along with safety-related activities associated with the operation and maintenance of in-plant electrical power distribution systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6179956"/>
 </reference>

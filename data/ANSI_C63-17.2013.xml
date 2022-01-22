@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-17.2013" target="https://ieeexplore.ieee.org/document/6624118">
   <front>
     <title>American National Standard Methods of Measurement of the Electromagnetic and Operational Compatibility of Unlicensed Personal Communications Services (UPCS) Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6624118"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,21 +10,7 @@
       </address>
     </author>
     <date year="2013" month="October" day="8"/>
-    <keyword>ANSI standards</keyword>
-    <keyword>Electromagnetic measurements</keyword>
-    <keyword>Wideband</keyword>
-    <keyword>Emissions</keyword>
-    <keyword>Handheld devices</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>Personal communication networks</keyword>
-    <keyword>ANSI C63.17</keyword>
-    <keyword>etiquette</keyword>
-    <keyword>personal communications</keyword>
-    <keyword>RF emissions</keyword>
-    <keyword>spectrum access</keyword>
-    <keyword>unlicensed devices</keyword>
-    <keyword>UPCS</keyword>
-    <keyword>wideband</keyword>
     <abstract>Specific test procedures for verifying the compliance of unlicensed personal communications services (UPCS) devices (including wideband voice and data devices) are established including applicable regulatory requirements regarding radio-frequency emission levels and spectrum access procedures.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6624118"/>
 </reference>

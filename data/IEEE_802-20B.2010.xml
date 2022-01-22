@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-20b.2010" target="https://ieeexplore.ieee.org/document/7327115">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks - Amendment 15: Bridging of IEEE 802.20</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.7327115"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2015" month="November" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Virtual LAN</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>802.20</keyword>
-    <keyword>bridging</keyword>
     <abstract>This amendment specifies the mechanism for the support of bridging of IEEE 802.20 networks.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.7327115"/>
 </reference>

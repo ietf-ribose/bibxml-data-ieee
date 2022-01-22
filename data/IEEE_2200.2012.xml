@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2200.2012" target="https://ieeexplore.ieee.org/document/6265328">
   <front>
     <title>IEEE Standard Protocol for Stream Management in Media Client Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6265328"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2012" month="August" day="10"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Content management</keyword>
-    <keyword>Media</keyword>
-    <keyword>Cache storage</keyword>
-    <keyword>Streaming media</keyword>
-    <keyword>Queueing analysis</keyword>
-    <keyword>content caching</keyword>
-    <keyword>content queue</keyword>
-    <keyword>delayed delivery</keyword>
-    <keyword>device discovery download</keyword>
-    <keyword>IEEE 2200</keyword>
-    <keyword>intermediate devices</keyword>
-    <keyword>mobile content delivery network policy</keyword>
-    <keyword>seamless play</keyword>
     <abstract>Interfaces for intelligently distributing and replicating content over heterogeneous networks to portable and intermediate devices with local storage are defined.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6265328"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-4z.2020" target="https://ieeexplore.ieee.org/document/9179124">
   <front>
     <title>IEEE Standard for Low-Rate Wireless Networks--Amendment 1: Enhanced Ultra Wideband (UWB) Physical Layers (PHYs) and Associated Ranging Techniques</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9179124"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,48 +11,7 @@
       </address>
     </author>
     <date year="2020" month="August" day="27"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Wideband</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Ultra wideband technology</keyword>
-    <keyword>Encoding</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Distance measurement</keyword>
-    <keyword>Receivers</keyword>
-    <keyword>Transmitters</keyword>
-    <keyword>Double-sided two-way ranging</keyword>
-    <keyword>DS-TWR</keyword>
-    <keyword>Enhanced ranging device</keyword>
-    <keyword>ERDEV</keyword>
-    <keyword>HRP UWB PHY</keyword>
-    <keyword>HRP-ERDEV</keyword>
-    <keyword>IEEE 802.15.4&amp;#8482;</keyword>
-    <keyword>IEEE 802.15.4z&amp;#8482;</keyword>
-    <keyword>Low power</keyword>
-    <keyword>Low-Rate Wireless Networks</keyword>
-    <keyword>LRP UWB PHY</keyword>
-    <keyword>LRP-ERDEV</keyword>
-    <keyword>Multi-node ranging</keyword>
-    <keyword>Precision ranging</keyword>
-    <keyword>Ranging device</keyword>
-    <keyword>RDEV</keyword>
-    <keyword>RF</keyword>
-    <keyword>RFID</keyword>
-    <keyword>Real Time Location Systems</keyword>
-    <keyword>RTLS</keyword>
-    <keyword>Single-sided two-way ranging</keyword>
-    <keyword>SS-TWR</keyword>
-    <keyword>Time of flight</keyword>
-    <keyword>TOF</keyword>
-    <keyword>TOF integrity</keyword>
-    <keyword>Two-way ranging</keyword>
-    <keyword>TWR</keyword>
-    <keyword>Ultra wideband</keyword>
-    <keyword>UWB</keyword>
-    <keyword>Wireless Specialty Networks</keyword>
-    <keyword>WSN.</keyword>
     <abstract>This amendment enhances the UWB PHYs with additional coding options and improvements to increase the integrity and accuracy of ranging measurements. It also enhances the MAC to support control of time-of-flight ranging procedures and exchange ranging related information between the participating ranging devices.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9179124"/>
 </reference>

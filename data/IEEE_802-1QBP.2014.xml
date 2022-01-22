@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1Qbp.2014" target="https://ieeexplore.ieee.org/document/6783684">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks - Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks - Amendment 22: Equal Cost Multiple Path (ECMP)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6783684"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,26 +10,7 @@
       </address>
     </author>
     <date year="2014" month="April" day="4"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>Costs</keyword>
-    <keyword>Shortest path problem</keyword>
-    <keyword>amendment</keyword>
-    <keyword>Bridged Local Area Networks</keyword>
-    <keyword>ECMP</keyword>
-    <keyword>Equal Cost Multiple Paths</keyword>
-    <keyword>IEEE 802.1Q(TM)</keyword>
-    <keyword>IEEE 802.1Qbp(TM)</keyword>
-    <keyword>LANs</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>MANs</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>Shortest Path Bridging</keyword>
-    <keyword>Virtual Bridged Local Area Networks</keyword>
     <abstract>Routing algorithms and relay behavior supporting equal cost multipath forwarding in shortest path bridged VLANs are specified in this amendment to IEEE Std 802.1Q.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6783684"/>
 </reference>

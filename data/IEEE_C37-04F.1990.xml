@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-04f.1990" target="https://ieeexplore.ieee.org/document/591791">
   <front>
     <title>Supplement to IEEE Standard Rating Structure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.82417"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
       </address>
     </author>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.82417"/>
 </reference>

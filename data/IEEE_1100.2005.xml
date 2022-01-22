@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1100.2005" target="https://ieeexplore.ieee.org/document/1638205">
   <front>
     <title>IEEE Recommended Practice for Powering and Grounding Electronic Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.216391"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Commercialization</keyword>
-    <keyword>Electronic equipment</keyword>
-    <keyword>Industry applications</keyword>
-    <keyword>Power conditioning</keyword>
-    <keyword>Power system quality</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>commercial applications</keyword>
-    <keyword>electrical power</keyword>
-    <keyword>electronic equipment</keyword>
-    <keyword>grounding</keyword>
-    <keyword>industrial applications</keyword>
-    <keyword>power conditioning</keyword>
-    <keyword>power disturbance</keyword>
-    <keyword>power monitor</keyword>
-    <keyword>power quality</keyword>
-    <keyword>color book</keyword>
     <abstract>The IEEE Emerald Book(TM) presents a collection of consensus best practices for the powering and grounding of electronic equipment used in commercial and industrial applications.The main objective is to provide consensus recommended practices in an area where conflicting information and conflicting design philosophies have dominated. The recommended practices described are intended to enhance equipment performance while maintaining a safe installation. A description of the nature and origin of power disturbances is provided, followed by theory on the various parameters that impact power quality. Information on quantifying and resolving power and grounding related concerns using measurement and diagnostic instrumentation and standardized investigative procedures are included. Recommended power protection equipment and wiring and grounding system design practices are presented. Information on telecommunications system power protection as well as grounding, industrial system grounding, and noise control is included.Finally a selection of case studies are presented to support the recommended practices presented throughout the book.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.216391"/>
 </reference>

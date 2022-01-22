@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-12-10.2017" target="https://ieeexplore.ieee.org/document/8360791">
   <front>
     <title>IEEE Standard Requirements for Liquid-Immersed Power Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8360791"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2018" month="May" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Immersion cooling</keyword>
-    <keyword>Liquid cooling</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Substations</keyword>
-    <keyword>dimensional characteristics</keyword>
-    <keyword>electrical characteristics</keyword>
-    <keyword>IEEE C57.12.10</keyword>
-    <keyword>jacking</keyword>
-    <keyword>lifting</keyword>
-    <keyword>mechanical characteristics</keyword>
-    <keyword>on-load tap changer</keyword>
-    <keyword>power transformer</keyword>
-    <keyword>single-phase</keyword>
-    <keyword>three-phase</keyword>
     <abstract>This voluntary consensus standard sets forth the requirements for power transformer application. This standard is intended to be used as a basis for performance, interchangeability, and safety of the equipment covered, and to assist in the proper selection of such equipment. This document is a product standard that covers certain electrical, dimensional, and mechanical characteristics of 50 Hz and 60 Hz, liquid-immersed power transformers and autotransformers. Such power transformers may be remotely or integrally associated with either primary switchgear or substations, or both, for step-down or step-up purposes and base rated as follows: 833 kVA and above single-phase, 750 kVA and above three-phase.This standard applies to all liquid-immersed power transformers and autotransformers that do not belong to the following types of apparatus: instrument transformers, step voltage and induction voltage regulators, arc-furnace transformers, rectifier transformers, specialty transformers, grounding transformers, mobile transformers, and mine transformers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8360791"/>
 </reference>

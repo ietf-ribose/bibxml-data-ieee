@@ -1,25 +1,11 @@
 <reference anchor="IEEE.C37-20-6.2007" target="https://ieeexplore.ieee.org/document/4475508">
   <front>
     <title>IEEE Standard for 4.76 kV to 38 kV Rated Ground and Test Devices Used in Enclosures</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4475508"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2014" month="January" day="30"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Standards Board</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Committees</keyword>
-    <keyword>IEEE Power &amp; Energy Society</keyword>
-    <keyword>Testing</keyword>
-    <keyword>C37.20.6-2007</keyword>
-    <keyword>electrical operation</keyword>
-    <keyword>ground and test (G&amp;amp;T) devices</keyword>
-    <keyword>locking/interlocking</keyword>
-    <keyword>manual operation</keyword>
-    <keyword>one or two terminal sets</keyword>
-    <keyword>selector switch</keyword>
-    <keyword>test port</keyword>
     <abstract>Drawout-type ground and test devices for use in medium-voltage metal-clad switchgear rated 4.76 kV through 38 kV are covered. The description, design, and testing of these accessory devices that are inserted in place of drawout circuit breakers for the purpose of grounding and testing are also covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4475508"/>
 </reference>

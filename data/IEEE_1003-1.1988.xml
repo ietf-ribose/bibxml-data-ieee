@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1003-1.1988" target="https://ieeexplore.ieee.org/document/8684566">
   <front>
     <title>IEEE Standard Portable Operating System Interface for Computer Environments</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.8684566"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Interpretations</keyword>
-    <keyword>portable</keyword>
-    <keyword>operating</keyword>
-    <keyword>systems</keyword>
-    <keyword>interface</keyword>
-    <keyword>computer</keyword>
-    <keyword>environments</keyword>
     <abstract>The results of deliberations by the Technical Committee on Operating Systems and Application Environments of the IEEE Computer Society concerning various problems encountered by users of IEEE Std 1003.1-1988 are presented. The intent is to give the POSIX community reasonable ways of interpreting the unclear portions of the standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.8684566"/>
 </reference>

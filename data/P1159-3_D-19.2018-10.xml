@@ -5,17 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2018" month="October" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power quality</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Data integration</keyword>
-    <keyword>data interchange</keyword>
-    <keyword>file format</keyword>
-    <keyword>IEEE 1159.3</keyword>
-    <keyword>measurement</keyword>
-    <keyword>monitoring</keyword>
-    <keyword>power quality</keyword>
-    <keyword>PQDIF</keyword>
     <abstract>A file format suitable for exchanging power quality related measurement and simulation data in a vendor independent manner is defined in this recommended practice. The format is designed to represent all power quality phenomena identified in IEEE Std 1159-2009, IEEE Recommended Practice on Monitoring Electric Power Quality, other power related measurement data, and is extensible to other data types as well. The recommended file format utilizes a highly compressed storage scheme to help reduce disk space and transmission times. The utilization of Globally Unique Identifiers (GUID) to represent each element in the file permits the format to be extensible without the need for a central registration authority.</abstract>
   </front>
 </reference>

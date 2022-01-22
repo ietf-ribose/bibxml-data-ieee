@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.62271-37-013.2021" target="https://ieeexplore.ieee.org/document/9586449">
   <front>
     <title>IEEE/IEC International Standard for High-voltage switchgear and controlgear--Part 37-013: Alternating current generator circuit-breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9586449"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,6 @@
       </address>
     </author>
     <date year="2021" month="October" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Encoding</keyword>
-    <keyword>Dielectric liquids</keyword>
-    <keyword>Generators</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>Switchgear</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9586449"/>
 </reference>

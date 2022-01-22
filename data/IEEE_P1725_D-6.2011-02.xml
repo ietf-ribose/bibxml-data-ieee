@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P1725/D-6.2011-02" target="https://ieeexplore.ieee.org/document/5714988">
   <front>
     <title>IEEE Draft Standard for Rechargeable Batteries for Cellular Telephones</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5714988"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Mobile handsets</keyword>
-    <keyword>Reliability engineering</keyword>
-    <keyword>Cellular phones</keyword>
-    <keyword>lithium ion batteries</keyword>
-    <keyword>cellular telephones</keyword>
     <abstract>This standard establishes criteria for design analysis for qualification, quality, and reliability of rechargeable lithium ion and lithium ion polymer batteries for cellular telephone applications. Also included in the standard are: battery pack electrical and mechanical construction, packaging technologies, and pack and cell level charge and discharge controls and overall system considerations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5714988"/>
 </reference>

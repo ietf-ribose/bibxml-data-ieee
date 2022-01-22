@@ -1,7 +1,6 @@
 <reference anchor="IEEE.3652-1.2020" target="https://ieeexplore.ieee.org/document/9382202">
   <front>
     <title>IEEE Guide for Architectural Framework and Application of Federated Machine Learning</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9382202"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2021" month="March" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Machine learning</keyword>
-    <keyword>Privacy</keyword>
-    <keyword>Modeling</keyword>
-    <keyword>Economics</keyword>
-    <keyword>Collaborative work</keyword>
-    <keyword>Metasearch</keyword>
-    <keyword>computation efficiency</keyword>
-    <keyword>economic viability</keyword>
-    <keyword>federated machine learning (FML)</keyword>
-    <keyword>IEEE 3652.1&amp;#8482;</keyword>
-    <keyword>incentive mechanism</keyword>
-    <keyword>machine learning</keyword>
-    <keyword>model performance</keyword>
-    <keyword>privacy</keyword>
-    <keyword>privacy regulations</keyword>
-    <keyword>security</keyword>
     <abstract>Federated machine learning defines a machine learning framework that allows a collective model to be constructed from data that is distributed across repositories owned by different organizations or devices. A blueprint for data usage and model building across organizations and devices while meeting applicable privacy, security and regulatory requirements is provided in this guide. It defines the architectural framework and application guidelines for federated machine learning, including description and definition of federated machine learning; the categories federated machine learning and the application scenarios to which each category applies; performance evaluation of federated machine learning; and associated regulatory requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9382202"/>
 </reference>

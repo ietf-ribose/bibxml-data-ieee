@@ -1,7 +1,6 @@
 <reference anchor="IEEE.837.2014" target="https://ieeexplore.ieee.org/document/6922156">
   <front>
     <title>IEEE Standard for Qualifying Permanent Connections Used in Substation Grounding</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6922156"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
       </address>
     </author>
     <date year="2014" month="October" day="13"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Current loop cycles</keyword>
-    <keyword>Equalizers</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Thermal managemnent</keyword>
-    <keyword>Capacity planning</keyword>
-    <keyword>conductor</keyword>
-    <keyword>conductor combination</keyword>
-    <keyword>connection</keyword>
-    <keyword>connection thermal capacity</keyword>
-    <keyword>control conductor</keyword>
-    <keyword>current loop cycle</keyword>
-    <keyword>equalizer</keyword>
-    <keyword>grid system</keyword>
-    <keyword>grounding</keyword>
-    <keyword>grounding connection</keyword>
-    <keyword>IEEE 837(TM)</keyword>
-    <keyword>permanent connection</keyword>
     <abstract>Direction and methods for qualifying permanent connections used for substation grounding are provided in this standard. This standard particularly addresses the connection used within the grid system, the connection used to join ground leads to the grid system, and the connection used to join the ground leads to equipment and structures.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6922156"/>
 </reference>

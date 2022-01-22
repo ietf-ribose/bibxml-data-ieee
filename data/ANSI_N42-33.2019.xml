@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-33.2019" target="https://ieeexplore.ieee.org/document/8863802">
   <front>
     <title>American National Standard Portable Exposure Rate Meters for Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8863802"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Radiation detectors</keyword>
-    <keyword>ANSI N42.33</keyword>
-    <keyword>design criteria</keyword>
-    <keyword>initial response [consequence management]</keyword>
-    <keyword>performance requirements</keyword>
-    <keyword>performance tests</keyword>
-    <keyword>portable radiation detectors</keyword>
     <abstract>This standard describes design criteria, performance requirements, and performance tests for portable exposure rate meters. The PDF of this standard is available in the IEEE GET program. "IEEE Get Program" grants public access to view and download individual PDFs of select standards at no charge. Visit https://ieeexplore.ieee.org/browse/standards/get-program/page for details.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8863802"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1Qbc.2011" target="https://ieeexplore.ieee.org/document/6029267">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks--Media Access Control (MAC) Bridges and Virtual Bridged Local Area Networks--Amendment 16: Provider Bridging--Remote Customer Service Interfaces</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6029267"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2014" month="December" day="18"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Customer services</keyword>
-    <keyword>Virtual environments</keyword>
-    <keyword>Bridged Local Area Networks</keyword>
-    <keyword>LANs</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>MANs</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>Provider Bridge</keyword>
-    <keyword>Provider Bridged Local Area Networks</keyword>
-    <keyword>Provider Edge Bridge</keyword>
-    <keyword>RCSI</keyword>
-    <keyword>Remote Customer Service Interface</keyword>
-    <keyword>Virtual Bridged Local Area Networks</keyword>
     <abstract>This amendment to IEEE Std 802.1 Q-2011 specifies the use of service virtual local area networks (S-VLANs) to provide customer service interfaces in one Provider Bridged Network for customer interface local area networks (LANs) attached to another Provider Bridged Network.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6029267"/>
 </reference>

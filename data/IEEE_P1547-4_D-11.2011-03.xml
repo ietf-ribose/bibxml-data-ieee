@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P1547-4/D-11.2011-03" target="https://ieeexplore.ieee.org/document/5738371">
   <front>
     <title>IEEE Draft Guide for Design, Operation, and Integration of Distributed Resource Island Systems with Electric Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5738371"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Voltage fluctuations</keyword>
-    <keyword>circuit island</keyword>
-    <keyword>distributed resources</keyword>
-    <keyword>DR island systems</keyword>
-    <keyword>electric power systems</keyword>
-    <keyword>intentional island</keyword>
-    <keyword>interconnection</keyword>
-    <keyword>lateral island</keyword>
-    <keyword>microgrid</keyword>
-    <keyword>secondary island</keyword>
-    <keyword>substation bus island</keyword>
     <abstract>This document provides alternative approaches and good practices for the design, operation, and integration of distributed resource (DR) island systems with electric power systems (EPS). This includes the ability to separate from and reconnect to part of the area EPS while providing power to the islanded EPSs. This guide includes the distributed resources, interconnection systems, and participating electric power systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5738371"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1149-1b.1994" target="https://ieeexplore.ieee.org/document/467487">
   <front>
     <title>IEEE Supplement to Standard Test Access Port and Boundary-Scan Architecture (1149.1)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122623"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="8"/>
-    <keyword>Boundary scan testing</keyword>
-    <keyword>Hardware design languages</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>boundary scan architure</keyword>
-    <keyword>description language</keyword>
-    <keyword>BSDL</keyword>
-    <keyword>test access port</keyword>
-    <keyword>VHDL</keyword>
-    <keyword>VHSIC Harware Description</keyword>
     <abstract>Superseded by 1149.1-2001 A language to describe components that conform to IEEE Std 1149.1-1990 is described in this supplement. The language is based on the VHSIC Hardware Description Language (VHDL). General characteristics, the overall structure of a boundary-scan description language (BSDL) description, special cases, and example packages are included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122623"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-7.2011" target="https://ieeexplore.ieee.org/document/6016195">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks--Part 15.7: Short-Range Wireless Optical Communication Using Visible Light</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6016195"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2013" month="September" day="10"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Optical fiber communication</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Laser diodes</keyword>
-    <keyword>IEEE 802.15 Standards</keyword>
-    <keyword>IEEE 802.15.7</keyword>
-    <keyword>laser diode</keyword>
-    <keyword>LD</keyword>
-    <keyword>LED</keyword>
-    <keyword>light-emitting diode</keyword>
-    <keyword>short-range optical wireless communications</keyword>
-    <keyword>visible light</keyword>
-    <keyword>visible-light communication</keyword>
-    <keyword>VLC</keyword>
     <abstract>A PHY and a MAC layer for short-range optical wireless communications using visible light in optically transparent media are defined. The visible light spectrum extends from 380 nm to 780 nm in wavelength. The standard is capable of delivering data rates sufficient to support audio and video multimedia services and also considers mobility of the visible link, compatibility with visible-light infrastructures, impairments due to noise and interference from sources like ambient light and a MAC layer that accommodates visible links. The standard adheres to applicable eye safety regulations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6016195"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.487-5.2013" target="https://ieeexplore.ieee.org/document/6512517">
   <front>
     <title>IEEE Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locations Through the Use of Isolation Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6512517"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="May" day="2"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>electric supply locations</keyword>
-    <keyword>IEEE 487.5</keyword>
-    <keyword>isolation</keyword>
-    <keyword>power stations</keyword>
-    <keyword>protection</keyword>
-    <keyword>transformers</keyword>
-    <keyword>wire-line communications</keyword>
     <abstract>Engineering design procedures for the electrical protection of communication facilities serving electric supply locations through the use of isolation transformers are presented in this standard. These isolation transformers are hard-wired (i.e., have no plug-in units and are not modular).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6512517"/>
 </reference>

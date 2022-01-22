@@ -1,7 +1,6 @@
 <reference anchor="IEEE.776.1992" target="https://ieeexplore.ieee.org/document/8673316">
   <front>
     <title>IEEE Recommended Practice for Inductive Coordination of Electric Supply and Communication Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8673316"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2019" month="March" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power systems reliability</keyword>
-    <keyword>Rail transportation</keyword>
-    <keyword>Induction motors</keyword>
-    <keyword>Telephone sets</keyword>
-    <keyword>Signal circiuts</keyword>
-    <keyword>Inductive coordination</keyword>
-    <keyword>Electric supply</keyword>
-    <keyword>Communication lines</keyword>
     <abstract>The inductive environment that exists in the vicinity of electric power and wire-line telecommunications systems and the interfering effects that may be produced are addressed. An interface that permits either party, without need to involve the other, to verify the induction at the interface by use of a probe wire is presented. This recommended practice does not apply to railway signal circuits.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.8673316"/>
 </reference>

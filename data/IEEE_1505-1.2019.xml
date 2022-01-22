@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1505-1.2019" target="https://ieeexplore.ieee.org/document/8807432">
   <front>
     <title>IEEE Standard for the Common Test Interface Pin Map Configuration for High-Density, Single-Tier Electronics Test Requirements Utilizing IEEE Std 1505</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8807432"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,22 +11,7 @@
       </address>
     </author>
     <date year="2019" month="August" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>Receivers</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>automatic test systems (ATS)</keyword>
-    <keyword>fixture</keyword>
-    <keyword>IEEE 1505.1TM</keyword>
-    <keyword>interconnecting device (ICD)</keyword>
-    <keyword>interface</keyword>
-    <keyword>interface test adapter (ITA)</keyword>
-    <keyword>mass termination</keyword>
-    <keyword>receiver</keyword>
-    <keyword>scalable</keyword>
-    <keyword>test program set (TPS)</keyword>
-    <keyword>unit under test (UUT)</keyword>
     <abstract>An extension to the IEEE 1505TM receiver fixture interface (RFI) standard specification is provided in this standard. Particular emphasis is placed on defining within the IEEE 1505 RFI standard a more specific set of performance requirements that employ a common scalable: 1) pin map configuration; 2) specific connector modules; 3) respective contacts; 4) recommended switching implementation; and 5) legacy automatic test equipment (ATE) transitional devices. This is intentionally done to standardize the footprint and assure mechanical and electrical interoperability between past and future automatic test systems (ATS).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8807432"/>
 </reference>

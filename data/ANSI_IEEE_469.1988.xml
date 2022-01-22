@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.469.1988" target="https://ieeexplore.ieee.org/document/26508">
   <front>
     <title>IEEE Recommended Practice for Voice-Frequency Electrical-Noise Tests of Distribution Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.122902"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="1"/>
-    <keyword>Electromagnetic induction</keyword>
-    <keyword>Electromagnetic interference</keyword>
-    <keyword>Harmonic analysis</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Telephony</keyword>
-    <keyword>electrical</keyword>
-    <keyword>noise</keyword>
-    <keyword>distribution</keyword>
-    <keyword>transformers</keyword>
-    <keyword>Wire communication</keyword>
-    <keyword>Power transformer testing</keyword>
-    <keyword>Electromagnetic interference</keyword>
     <abstract>Instruction for the testing of distribution transformers as sources of voice-frequency noise for communication circuits is provided. The tests measure the degree to which a transformer may contribute to electrical noise in communication circuits that are physically paralleling the power-supply circuits feeding the transformer. They provide a standard method for use by the transformer manufacturer, user, and others in the industry for the purpose of better evaluating the design choices that are available and moving toward industry objectives with regard to levels of harmonic exciting current.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.122902"/>
 </reference>

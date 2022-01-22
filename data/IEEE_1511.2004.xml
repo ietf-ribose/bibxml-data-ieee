@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1511.2004" target="https://ieeexplore.ieee.org/document/8880578">
   <front>
     <title>IEEE Guide for Investigating and Analyzing Power Cable, Joint, and Termination Failures on Systems Rated 5 kV Through 46 kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.8880578"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Flow graphs</keyword>
-    <keyword>documentation</keyword>
-    <keyword>examination</keyword>
-    <keyword>failures</keyword>
-    <keyword>failure analysis</keyword>
-    <keyword>flow charts</keyword>
-    <keyword>flow charting</keyword>
     <abstract>This guide will discuss the importance of failure analysis on cable, joints, and terminations used in power systems rated 5kV through 46kV. Users should review the definitions and technical papers that are listed in the References and in the Bibliography to gain an understanding of failure analysis issues. Why a cable, joint, or termination fails is an important part of understanding trends and planning for improvements in system reliability.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.8880578"/>
 </reference>

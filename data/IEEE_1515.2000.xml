@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1515.2000" target="https://ieeexplore.ieee.org/document/868942">
   <front>
     <title>IEEE Recommended Practice for Electronic Power Subsystems: Parameter Definitions, Test Conditions, and Test Methods</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91922"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>electronic power distribution</keyword>
-    <keyword>power supply</keyword>
-    <keyword>specification</keyword>
-    <keyword>specification language</keyword>
     <abstract>This recommended practice defines many common parameters for ac-dc and dc-dc electronic power distribution components and subsystems. This enables electronic system engineers, manufacturers, and researchers to speak with a common language and hence facilitates effective and efficient communications. Furthermore, implementation of a common specification language will allow the power electronics industry as well as the user communities, including government system developers, to acquire cost and time-effective electronic power subsystems with significantly enhanced interchangeability.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91922"/>
 </reference>

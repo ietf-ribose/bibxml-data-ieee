@@ -1,7 +1,6 @@
 <reference anchor="NESC.Handbook" target="https://ieeexplore.ieee.org/document/8574031">
   <front>
     <title>NESC Handbook, Premier Edition &amp;#8211; Spanish version - A Discussion of the National Electrical Safety Code(R) plus COMENTARIOS EN ESPA??OL</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8574031"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,6 @@
       </address>
     </author>
     <date year="2018" month="December" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>National Electric Code</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Occupational safety</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Underground power cables</keyword>
-    <keyword>Electrical safety</keyword>
-    <keyword>Spanish</keyword>
-    <keyword>communications industry safety; construction of communication lines; construction of electric supply lines; electrical safety; electric supply stations; electric utility stations; high-voltage safety; operation of communications sys??tems; operation of electric supply systems; power station equipment; power station safety; public utility safety; safety work rules; underground communication line safety; underground electric line safety</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8574031"/>
 </reference>

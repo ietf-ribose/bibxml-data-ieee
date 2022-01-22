@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1003-5.1992" target="https://ieeexplore.ieee.org/document/7160863">
   <front>
     <title>IEEE Standard for Information Technology--POSIX(R) Ada Language Interfaces--PART 1: Binding for System Application Program Interface (API)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.7160863"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,21 +10,7 @@
       </address>
     </author>
     <date year="2015" month="July" day="16"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Appication programming interfaces</keyword>
-    <keyword>Operating systems</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>Portability</keyword>
-    <keyword>Ada</keyword>
-    <keyword>API</keyword>
-    <keyword>operating system</keyword>
-    <keyword>portable application</keyword>
-    <keyword>POSIX</keyword>
-    <keyword>POSIX language bindings</keyword>
-    <keyword>Open systems</keyword>
-    <keyword>Computer language bindings</keyword>
-    <keyword>Application portability</keyword>
     <abstract>This standard is part of the POSIX series of standards for applications and user interfaces to open systems. It defines the Ada language bindings as package specifications and accompanying textual descriptions to the application program interface (API). This standard supports application portability at the source level through the binding between ISO 8652:1987 (Ada) and ISO/IEC 9945-1:1990 (IEEE Std 1003.1-1990) (POSIX). Terminology and general requirements, process primitives, the process environment, files and directories, input and output primitives, device- and class-specific functions, language-specific services for Ada, and system databases are covered. It also specifies behavior to support the binding that must be provided by the Ada compilation system. The emphasis in POSIX is on application programs, so the interfaces in this document are not sufficient to implement an Ada compilation system or a POSIX shell, nor is this standard meant to be sufficient for real-time applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.7160863"/>
 </reference>

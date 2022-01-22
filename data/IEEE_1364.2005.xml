@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1364.2005" target="https://ieeexplore.ieee.org/document/1620780">
   <front>
     <title>IEEE Standard for Verilog Hardware Description Language</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99495"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Hardware design languages</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Solid modeling</keyword>
-    <keyword>computer</keyword>
-    <keyword>computer languages</keyword>
-    <keyword>digital systems</keyword>
-    <keyword>electronic systems</keyword>
-    <keyword>hardware</keyword>
-    <keyword>hardware description languages</keyword>
-    <keyword>hardware design</keyword>
-    <keyword>HDL</keyword>
-    <keyword>PLI</keyword>
-    <keyword>programming language interface</keyword>
-    <keyword>Verilog</keyword>
-    <keyword>Verilog HDL</keyword>
-    <keyword>Verilog P</keyword>
     <abstract>The Verilog hardware description language (HDL) is defined in this standard. Verilog HDL is a formal notation intended for use in all phases of the creation of electronic systems. Because it is both machine-readable and human-readable, it supports the development, verification, synthesis, and testing of hardware designs; the communication of hardware design data; and the maintenance, modification, and procurement of hardware. The primary audiences for this standard are the implementers of tools supporting the language and advanced users of the language. (Supersedes IEEE Std 1364-2001. Superseded by IEEE Std 1800-2009).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99495"/>
 </reference>

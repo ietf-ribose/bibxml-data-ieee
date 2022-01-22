@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-9.2016" target="https://ieeexplore.ieee.org/document/7544442">
   <front>
     <title>IEEE Recommended Practice for Transport of Key Management Protocol (KMP) Datagrams</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7544442"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2016" month="August" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Key management protocols</keyword>
-    <keyword>Data processing</keyword>
-    <keyword>Security of data</keyword>
-    <keyword>Data grams</keyword>
-    <keyword>fragmentation</keyword>
-    <keyword>IE</keyword>
-    <keyword>IEEE 802.15.9(TM)</keyword>
-    <keyword>information element</keyword>
-    <keyword>key management protocol</keyword>
-    <keyword>KMP</keyword>
-    <keyword>multiplexed data service</keyword>
-    <keyword>security</keyword>
     <abstract>A message exchange framework based on information elements as a transport method for key management protocol (KMP) datagrams and guidelines for the use of some existing KMPs with IEEE Std 802.15.4 are defined in the recommended practice. A new KMP is not created in this recommended practice. In support of KMP transmission and reception, a generic multiplexed data service layer that can be used to transmit large packets from the upper KMP to another peer is also provided in this recommended practice. The multiplexed data service provides a fragmentation and multiplexing layer for those packets so they can be delivered over smaller MAC layer frames and multiplexed on the recipient end to the right processing service.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7544442"/>
 </reference>

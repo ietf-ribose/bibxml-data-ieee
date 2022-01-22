@@ -1,19 +1,11 @@
 <reference anchor="ANSI/IEEE.525.1987" target="https://ieeexplore.ieee.org/document/27813">
   <front>
     <title>IEEE Guide for the Design and Installation of Cable Systems in Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81022"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March" day="10"/>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Substations</keyword>
-    <keyword>design</keyword>
-    <keyword>installation</keyword>
-    <keyword>cable</keyword>
-    <keyword>systems</keyword>
-    <keyword>substations</keyword>
     <abstract>Guidance for the design, installation, and protection of wire and cable systems in substations with the objective of minimizing cable failures and their consequences is provided. The design of wire and cable systems in generating stations is not covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.81022"/>
 </reference>

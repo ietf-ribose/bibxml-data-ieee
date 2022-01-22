@@ -1,7 +1,6 @@
 <reference anchor="IEEE.55.1953" target="https://ieeexplore.ieee.org/document/109453">
   <front>
     <title>IEEE Guide for Temperature Correlation in the Connection of Insulated Wire and Cables to Electronic Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1953.97976"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2014" month="February" day="21"/>
-    <keyword>Cable insulation</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Electronic equipment testing</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
-    <keyword>temperature correlation</keyword>
-    <keyword>insulated wire</keyword>
-    <keyword>electronic equipment</keyword>
     <abstract>Although the standard permissible operating temperatures of various types of equipment are different for one reason or another, this causes little or no difficulty except where two kinds of equipment with different temperature limits connect together directly. This guide is issued as an aid in determining proper cable termination practice, as related to temperature correlation, when making connections to electric equipment. The data presented in this guide supplements the standards of the AIEE or ASA and other applicable standards, which should be observed. This guide is prepared in the form of a general section which relates to the temperature correlation problem as a whole, covering those points which are common. Individual equipment sections may be issued later and will consider special aspects identified with particular types of power equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1953.97976"/>
 </reference>

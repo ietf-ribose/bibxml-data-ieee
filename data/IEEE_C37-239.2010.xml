@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-239.2010" target="https://ieeexplore.ieee.org/document/5638582">
   <front>
     <title>IEEE Standard for Common Format for Event Data Exchange (COMFEDE) for Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5638582"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2021" month="June" day="24"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Data models</keyword>
-    <keyword>eXtensible Markup Language (XML) name spaces</keyword>
-    <keyword>instance file</keyword>
-    <keyword>payload data</keyword>
-    <keyword>XML schema</keyword>
     <abstract>A common format for data files used for the interchange of various types of event data collected from electrical power systems or power system models is defined. Extensibility, extension mechanisms, and compatibility of future versions of the format are discussed. An XML schema is defined. A sample file is given.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5638582"/>
 </reference>

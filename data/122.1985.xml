@@ -1,19 +1,11 @@
 <reference anchor="IEEE.122.1985" target="https://ieeexplore.ieee.org/document/27883">
   <front>
     <title>IEEE Recommended Practice for Functional Performance Characteristics of Control Systems for Steam Turbine-Generator Units</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81060"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Load flow control</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Steam turbines</keyword>
-    <keyword>Turbogenerators</keyword>
-    <keyword>Velocity control</keyword>
-    <keyword>control systems</keyword>
-    <keyword>steam turbine-generator units</keyword>
-    <keyword>performance</keyword>
     <abstract>Superseded by 122-1991. Minimum functional and performance characteristics related to speed/load-control systems for steam turbine-generator units that may be interconnected on a power system are recommended. The recommendations apply to the following types of steam turbines, rated at 500 kW and larger, intended to drive electric generators at constant speed without initial steam-pressure control, exhaust steam pressure control, or either: (1) condensing or noncondensing turbines without initial steam-pressure control, exhaust steam-pressure control, or either, including turbines used with reheat, regenerative feedwater heaters, or both; (2) condensing or noncondensing turbines with initial and/or exhaust steam-pressure control, including turbines used with reheat, regenerative feedwater heaters, or both; (3) automatic extraction and/or induction and mixed-pressure turbines. Emergency governors, other overspeed control devices, and, in general, devices that are not responsive to speed are not covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81060"/>
 </reference>

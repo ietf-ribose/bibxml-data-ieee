@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.662.1980" target="https://ieeexplore.ieee.org/document/7434529">
   <front>
     <title>IEEE Standard Terminology for Semiconductor Memory</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7434529"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Semiconductor devices</keyword>
-    <keyword>Memory</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Semiconductor memory</keyword>
-    <keyword>semiconductor</keyword>
-    <keyword>memory</keyword>
-    <keyword>terminology</keyword>
     <abstract>The purpose of this standard is to provide guidelines under which data sheets for new semiconductor memories are to be generated. Adherence to these guidelines should produce data sheets that are concise and consistently define the operation and characteristics of semiconductor memory devices. It is not intended that data sheets already in existence be changed to this format. However, data sheets being generated for the first time for new products should adhere to this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7434529"/>
 </reference>

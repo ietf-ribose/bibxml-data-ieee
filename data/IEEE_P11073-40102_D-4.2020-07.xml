@@ -11,18 +11,6 @@
       </address>
     </author>
     <date year="2020" month="July" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Computer security</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Medical decices</keyword>
-    <keyword>Privacy</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>IEEE 11073-40102&amp;#8482;</keyword>
-    <keyword>Medical Device Communication</keyword>
-    <keyword>Personal Health Devices</keyword>
-    <keyword>Point-of-Care Devices</keyword>
-    <keyword>Cybersecurity</keyword>
-    <keyword>Mitigation Techniques</keyword>
     <abstract>This standard defines for Personal Health Devices (PHDs) and Point-of-Care Devices (PoCDs) a security baseline of application layer cybersecurity mitigation techniques for certain use cases or when certain criteria are met. The mitigation techniques are based on the extended Confidentiality, Integrity and Availability (CIA) triad and are described generally to allow manufacturers to determine the most appropriate algorithms and implementations. A scalable information security toolbox appropriate for PHDs/PoCDs interfaces are specified, which fulfills the intersection of requirements and recommendations from the National Institute of Standards and Technology (NIST) and the European Network and Information Security Agency (ENISA). A mapping of this standard to the NIST Cybersecurity framework ISO/IEC 80001-2-2, and STRIDE classification scheme is defined.</abstract>
   </front>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1138.2014" target="https://ieeexplore.ieee.org/document/6911930">
   <front>
     <title>IEEE Standard for Testing and Performance for Optical Ground Wire (OPGW) Use on Electric Utility Power Lines -- Corrigendum 1: Stress-Strain Temperature Correction, Aeolian Vibration Velocity</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6911930"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2014" month="September" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Optical fiber communication</keyword>
-    <keyword>Vibration control</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Aeolian vibration test</keyword>
-    <keyword>IEEE 1138(TM)</keyword>
-    <keyword>fiber optic ground wire</keyword>
-    <keyword>laboratory tests</keyword>
-    <keyword>OPGW</keyword>
-    <keyword>optical ground wire</keyword>
-    <keyword>stress-strain test</keyword>
-    <keyword>type tests</keyword>
     <abstract>This corrigendum corrects the temperature associated with the Stress-Strain clause; and corrects the use of the term velocity in the Aeolian Vibration clause of IEEE Std 1138(TM)-2009.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6911930"/>
 </reference>

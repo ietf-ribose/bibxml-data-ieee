@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P11073-10417/D-02.2011-07" target="https://ieeexplore.ieee.org/document/5967874">
   <front>
     <title>Draft Standard for Health informatics--Personal health device communication Part 10417: Device specialization- Glucose meter</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5967874"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Medical services</keyword>
-    <keyword>Biomedical informatics</keyword>
-    <keyword>Biomedical measurements</keyword>
-    <keyword>Biomedical equipment</keyword>
-    <keyword>Sugar</keyword>
-    <keyword>Informatics</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5967874"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-09/Cor1.2007" target="https://ieeexplore.ieee.org/document/4197464">
   <front>
     <title>IEEE Standard Test Procedure for AC High-Voltage Circuit Breakers Rated on a Symmetrical Current Basis - Corrigendum 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.357956"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Printing</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>Testing</keyword>
-    <keyword>fast transient recovery voltage</keyword>
-    <keyword>indoor</keyword>
-    <keyword>initial</keyword>
-    <keyword>mechanical endurance</keyword>
-    <keyword>operating duty</keyword>
-    <keyword>outdoor</keyword>
-    <keyword>power frequency</keyword>
-    <keyword>short-circuit current</keyword>
-    <keyword>short-line fault</keyword>
-    <keyword>single-phase testing</keyword>
-    <keyword>test data reporting</keyword>
-    <keyword>three-phase testing</keyword>
-    <keyword>unit test</keyword>
-    <keyword>voltage distribution synthetic test</keyword>
     <abstract>This corrigendum corrects technical and other non-editorial errors made during the preparation of IEEE Std C37.09-1999 latest version, second printing 19 December 2005, which covers test procedures for all high-voltage circuit breakers rated over 1000 VAC. This text also includes corrections to the errata dated 19 December 2005, which adjusts Figure 17 on page 62 of the main text (under 7.2). As of the printing of this corrigendum, IEEE Std C37.09-1999 includes all of the following: IEEE Std C37.09-1999 latest version, second printing 19 December 2005; Errata to IEEE Std C37.09-1999 (edited 18 April 2007), which corrects typographical and editorial errors to the standard (note that these alterations have been made to the most current electronic version of the standard which is available online http://shop.ieee.org/ieeestore/); IEEE Std C37.09a-2005, amendment to IEEE Std C37.09-1999, which adds additional content to the standard; and this corrigendum, IEEE Std C37.09-1999/Cor 1-2007, which makes technical corrections to both the original IEEE Std C37.09-1999 and the subsequently published errata.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.357956"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1142.2009.Redline" target="https://ieeexplore.ieee.org/document/5953450">
   <front>
     <title>IEEE Guide for the Selection, Testing, Application, and Installation of Cables having Radial-Moisture Barriers and/or Longitudinal Water Blocking</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953450"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2013" month="October" day="9"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Moisture control</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Environmental factors</keyword>
-    <keyword>Water</keyword>
-    <keyword>1142-2009</keyword>
-    <keyword>laminate sheaths</keyword>
-    <keyword>longitudinal water blocking</keyword>
-    <keyword>moisture impervious</keyword>
-    <keyword>powders</keyword>
-    <keyword>radialmoisture barriers</keyword>
-    <keyword>sealed overlap</keyword>
-    <keyword>water-swellable tapes</keyword>
-    <keyword>yarns</keyword>
     <abstract>Detailed information relating to the design, testing, application and installation of various types of electrical cables in order to prevent the deleterious effect of moisture and chemical ingress and resultant failures in service is provided in this guide. This includes single and multi-conductor cables over a complete range of voltage ratings. Testing criteria and installation methods covered along with many technical references.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953450"/>
 </reference>

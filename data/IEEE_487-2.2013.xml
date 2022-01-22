@@ -1,7 +1,6 @@
 <reference anchor="IEEE.487-2.2013" target="https://ieeexplore.ieee.org/document/6600693">
   <front>
     <title>IEEE Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locationsthrough the Use of Optical FiberSystems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6600693"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="September" day="16"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electricity supply locations</keyword>
-    <keyword>Optical fiber communication</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Power stations</keyword>
-    <keyword>electric power stations</keyword>
-    <keyword>electric supply locations</keyword>
-    <keyword>electrical protection</keyword>
-    <keyword>fiber optic systems</keyword>
-    <keyword>ground potential rise</keyword>
-    <keyword>high-voltage environment</keyword>
-    <keyword>IEEE 487.2(TM)</keyword>
-    <keyword>optical fiber systems</keyword>
     <abstract>Safe and reliable methods for the electrical protection of telecommunication facilities serving electric supply locations through the use of optical fiber systems for the entire facility are presented in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6600693"/>
 </reference>

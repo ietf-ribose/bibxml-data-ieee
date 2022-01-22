@@ -1,7 +1,6 @@
 <reference anchor="IEEE.84.1963" target="https://ieeexplore.ieee.org/document/7439695">
   <front>
     <title>IEEE Test Procedure for Determining Tensile Strength and Hardness of Lead Sheaths</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7439695"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Tensile strength</keyword>
-    <keyword>Lead sheaths</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Metallic materials</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Load management</keyword>
-    <keyword>Hardness testing</keyword>
     <abstract>This standard recommends testing procedure for tensile strength, elongation, and hardness tests on samples of lead sheaths removed from cables.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1963.7439695"/>
 </reference>

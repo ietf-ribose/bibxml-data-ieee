@@ -1,7 +1,6 @@
 <reference anchor="IEEE.692.2010.Redline" target="https://ieeexplore.ieee.org/document/5953432">
   <front>
     <title>IEEE Standard Criteria for Security Systems for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953432"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,30 +11,7 @@
       </address>
     </author>
     <date year="2013" month="September" day="30"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Security</keyword>
-    <keyword>Uninterruptible power systems</keyword>
-    <keyword>Access control</keyword>
-    <keyword>Surveillance</keyword>
-    <keyword>Intrusion detection</keyword>
-    <keyword>692-2010</keyword>
-    <keyword>access control</keyword>
-    <keyword>central alarm station (CAS)</keyword>
-    <keyword>cyber security</keyword>
-    <keyword>duress alarms</keyword>
-    <keyword>integrated security system</keyword>
-    <keyword>intrusion detection</keyword>
-    <keyword>line supervision</keyword>
-    <keyword>perimeter intrusion alarm</keyword>
-    <keyword>portal security lighting</keyword>
-    <keyword>remote video surveillance</keyword>
-    <keyword>secondary alarm station (SAS)</keyword>
-    <keyword>security lighting</keyword>
-    <keyword>security systems</keyword>
-    <keyword>threat assessment</keyword>
-    <keyword>uninterruptible power supply (UPS) system</keyword>
-    <keyword>voice communications</keyword>
     <abstract>The standard provides criteria for the design, testing, and maintenance of security system equipment for nuclear power generating stations. Such equipment includes permanently or temporarily installed systems, subsystems, and components used by the security force for physical protection of the station against security threats. It includes equipment for security-related detection, assessment, surveillance, access control, communication, and data acquisition.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5953432"/>
 </reference>

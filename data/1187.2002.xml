@@ -1,27 +1,11 @@
 <reference anchor="IEEE.1187.2002" target="https://ieeexplore.ieee.org/document/1019771">
   <front>
     <title>IEEE Recommended Practice for Installation Design and Installation of Valve-Regulated Lead-Acid Batteries for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93623"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2014" month="March"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>Lead</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Patents</keyword>
-    <keyword>acceptance test</keyword>
-    <keyword>battery capacity</keyword>
-    <keyword>battery installation</keyword>
-    <keyword>battery installation design</keyword>
-    <keyword>battery maintenance</keyword>
-    <keyword>battery terminal voltage</keyword>
-    <keyword>battery testing</keyword>
-    <keyword>connection resistance measurements</keyword>
-    <keyword>float voltage</keyword>
-    <keyword>internal ohmic measurements</keyword>
-    <keyword>standby power application</keyword>
     <abstract>This recommended practice provides guidance for the installation and installation designof valve-regulated lead acid (VRLA) batteries. This recommended practice is intended for all float-service stationary installations. However, specific applications, such as emergency lighting units and semi-portable equipment, may have other appropriate practices and are beyond the scope ofthis recommended practice. Alternate energy applications are not covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93623"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1226.1993" target="https://ieeexplore.ieee.org/document/392543">
   <front>
     <title>IEEE ABBET(TM) Trial-Use Standard for A Broad-Based Environment for Test (ABBET) Overview and Architecture</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.121427"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Programming</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>ABBET</keyword>
-    <keyword>ABBET layer</keyword>
-    <keyword>base document</keyword>
-    <keyword>component standard</keyword>
-    <keyword>reference document</keyword>
-    <keyword>broad based</keyword>
-    <keyword>environment for test</keyword>
     <abstract>Superseded. The overall concept of A Broad-Based Environment for Test (ABBET) is defined, and mandatory requirements for implementations ABBET are specified. The elements of ABBET and their interrelationships are described. Guidelines and requirements governing the elements of the ABBET set of standards and guides are established, and common terms to be used throughout the set are defined.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.121427"/>
 </reference>

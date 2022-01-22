@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1101-3.1993" target="https://ieeexplore.ieee.org/document/278312">
   <front>
     <title>IEEE Mechanical Standard for Conduction-Cooled and Air-Cooled 10 SU Modules</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119225"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Feature extraction</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Heating systems</keyword>
-    <keyword>Printed wiring board (PWB)</keyword>
-    <keyword>Heatsink</keyword>
-    <keyword>Direct air impingement</keyword>
-    <keyword>Convection</keyword>
-    <keyword>Conduction</keyword>
     <abstract>Withdrawn Standard. Withdrawn Date: Jan 15, 2001. No longer endorsed by the IEEE. The mechanical design requirements for conduction-cooled and air-cooled modules of the 10SU by 6.375 in (161.9 mm) format are established. The specification of dimensions and tolerances is intended to ensure the mechanical intermateability of modules within associated subracks. The basic dimension, frames, PWBs, materials, assembly, and chassis interface of single-sided and double-sided modules are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119225"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2889.2021" target="https://ieeexplore.ieee.org/document/9650810">
   <front>
     <title>IEEE Guide for the Definition of Incident Power Density to Correlate Surface Temperature Elevation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9650810"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2021" month="December" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electromagnetics</keyword>
-    <keyword>Dosimetry</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Thermal management</keyword>
-    <keyword>Millimeter wave measurements</keyword>
-    <keyword>Safety</keyword>
-    <keyword>dosimetry modeling</keyword>
-    <keyword>electromagnetic dosimetry</keyword>
-    <keyword>electromagnetic safety</keyword>
-    <keyword>IEEE 2889</keyword>
-    <keyword>incident power density definition</keyword>
-    <keyword>millimeter wave exposure</keyword>
-    <keyword>numerical dosimetry</keyword>
-    <keyword>standardization</keyword>
-    <keyword>temperature rise</keyword>
-    <keyword>thermal dosimetry</keyword>
     <abstract>Guidance on the definition of the incident power density in correlation with surface temperature elevation in the frequency range from 6 GHz to 300 GHz is provided. Using numerical simulations or measurement, this guide is also applicable to compliance assessment of wireless products operating in millimeter wave frequencies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9650810"/>
 </reference>

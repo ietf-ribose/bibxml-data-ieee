@@ -1,7 +1,6 @@
 <reference anchor="IEEE.315.1975" target="https://ieeexplore.ieee.org/document/8996120">
   <front>
     <title>IEEE Standard for Graphic Symbols for Electrical and Electronics Diagrams (Including Reference Designation Letters)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.8996120"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Symbols</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Graphics</keyword>
-    <keyword>Electronic equipment</keyword>
-    <keyword>graphic</keyword>
-    <keyword>symbols</keyword>
-    <keyword>diagrams</keyword>
-    <keyword>electrical</keyword>
-    <keyword>electronics</keyword>
-    <keyword>Y32.1</keyword>
-    <keyword>Y32.2</keyword>
-    <keyword>Z99</keyword>
     <abstract>A list of graphic symbols and class designation letters for use on electrical and electronics diagrams is provided. All of the symbols are designed so that their connection points fall on a modular grid, to help those who use a grid basis for the preparation of diagrams. A substantial effort has been made to make this standard compatible with approved International Electrotechnical Commission (IEC) Recommendations (IEC Publication 117, in various parts).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.8996120"/>
 </reference>

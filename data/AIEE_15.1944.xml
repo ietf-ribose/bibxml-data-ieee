@@ -1,7 +1,6 @@
 <reference anchor="AIEE.15.1944" target="https://ieeexplore.ieee.org/document/7368069">
   <front>
     <title>AIEE American Standard for Industrial Control Apparatus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1943.7368069"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,6 @@
       </address>
     </author>
     <date year="2015" month="December" day="29"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Industrial control</keyword>
-    <keyword>Industrial electronics</keyword>
-    <keyword>Equipment</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1943.7368069"/>
 </reference>

@@ -9,14 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>anomaly</keyword>
-    <keyword>bug</keyword>
-    <keyword>classification</keyword>
-    <keyword>defect</keyword>
-    <keyword>error</keyword>
-    <keyword>failure</keyword>
-    <keyword>fault</keyword>
-    <keyword>problem</keyword>
     <abstract>This standard provides a uniform approach to the classification of software anomalies, regardless of when they originate or when they are encountered within the project, product, or system lifecycle. Classification data can be used for a variety of purposes, including defect causal analysis, project management, and software process improvement (e.g., to reduce the likelihood of defect insertion and/or increase the likelihood of early defect detection).</abstract>
   </front>
 </reference>

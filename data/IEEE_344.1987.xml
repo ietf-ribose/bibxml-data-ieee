@@ -1,7 +1,6 @@
 <reference anchor="IEEE.344.1987" target="https://ieeexplore.ieee.org/document/26468">
   <front>
     <title>IEEE Recommended Practice for Seismic Qualification of Class 1E Equipment for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122155"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Earthquakes</keyword>
-    <keyword>Fission reactor safety</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Standards</keyword>
-    <keyword>seismic</keyword>
-    <keyword>qualification</keyword>
-    <keyword>class 1E</keyword>
-    <keyword>nuclear</keyword>
-    <keyword>equipment</keyword>
-    <keyword>Seismic factors</keyword>
-    <keyword>Power generation testing</keyword>
-    <keyword>Nuclear power generation protection</keyword>
     <abstract>Superseded by IEEE 344-2004. Recommended practices for establishing procedures that will yield data that verify that the Class 1E equipment can meet its performance requirements during and following one safe shutdown earthquake preceded by a number of operating-basis earthquakes are provided. This recommended practice may be used to establish tests or analyses that will yield data to substantiate performance claims or to evaluate and verify performance of representative devices and assemblies as part of an overall qualification effort. Two approaches to seismic analysis are described, one based on dynamic analysis and the other on static coefficient analysis. Common methods currently in use for seismic qualification by test are presented.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.122155"/>
 </reference>

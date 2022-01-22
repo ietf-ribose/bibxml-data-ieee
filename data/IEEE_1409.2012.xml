@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1409.2012" target="https://ieeexplore.ieee.org/document/6190701">
   <front>
     <title>IEEE Guide for Application of Power Electronics for Power Quality Improvement on Distribution Systems Rated 1 kV Through 38 kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6190701"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,32 +10,7 @@
       </address>
     </author>
     <date year="2012" month="April" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power electronics</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Power system planning</keyword>
-    <keyword>Power quality</keyword>
-    <keyword>Energy storage</keyword>
-    <keyword>Capacitors</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Flicker</keyword>
-    <keyword>Harmonic analysis</keyword>
-    <keyword>Static VAr compensators</keyword>
-    <keyword>backup stored energy system device</keyword>
-    <keyword>custom power</keyword>
-    <keyword>distribution series capacitors</keyword>
-    <keyword>distribution static compensator</keyword>
-    <keyword>distribution static var compensator</keyword>
-    <keyword>dynamic voltage restorer</keyword>
-    <keyword>flicker</keyword>
-    <keyword>harmonics</keyword>
-    <keyword>IEEE 1409</keyword>
-    <keyword>power conditioning</keyword>
-    <keyword>power quality</keyword>
-    <keyword>static voltage regulator</keyword>
-    <keyword>transfer switch</keyword>
-    <keyword>voltage fluctuations</keyword>
-    <keyword>voltage sags</keyword>
     <abstract>Guidelines and performance expectations are provided for the application of power electronic-based equipment on distribution systems of power providers to improve power quality. It is a resource to electric utility providers as they enter into the competitive marketplace. It provides detailed information about custom power devices as options to solve power quality problems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6190701"/>
 </reference>

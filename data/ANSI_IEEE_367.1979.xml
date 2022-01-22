@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.367.1979" target="https://ieeexplore.ieee.org/document/7409903">
   <front>
     <title>IEEE Guide for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7409903"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Electric potential</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Fault currents</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Circuit faults</keyword>
-    <keyword>Communications technology</keyword>
-    <keyword>Electrical resistance measurement</keyword>
-    <keyword>ANSI Standards</keyword>
     <abstract>Difficulties are experienced by telecommunication and protective relay engineers in determining the maximum power station ground potential rise, or induced voltages, or both. Suitably rated protective devices are required for personnel safety and for the protection and continuity of service of wire line telecommunication facilities entering electrical power stations, or otherwise exposed to the influence of electrical power circuits. This guide provides guidance for the calculation of these maximum voltages and for the acceptance of values lower than maximum, as well as the time requirements of communication channels where protective relaying is involved.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7409903"/>
 </reference>

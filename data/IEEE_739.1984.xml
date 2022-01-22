@@ -1,7 +1,6 @@
 <reference anchor="IEEE.739.1984" target="https://ieeexplore.ieee.org/document/469111">
   <front>
     <title>IEEE Recommended Practice for Energy Conservation and Cost-Effective Planning in Industrial Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.122647"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="16"/>
-    <keyword>Energy conservation</keyword>
-    <keyword>Planning</keyword>
-    <keyword>Industrial facilities</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Economics</keyword>
-    <keyword>Color</keyword>
-    <keyword>Power systems</keyword>
     <abstract>Superseded by IEEE Std 739-1995 This recommended practice serves as an engineering guide for use in electrical design for energy conservation. It provides a standard design practice to assist engineers in evaluating electrical options from an energy standpoint. It establishes engineering techniques and procedures to allow efficiency optimization in the design and operation of an electrical system considering all aspects (safety, costs, environment, those occupying the facility, management needs, etc.).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.122647"/>
 </reference>

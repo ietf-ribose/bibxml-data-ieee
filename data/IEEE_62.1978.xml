@@ -1,7 +1,6 @@
 <reference anchor="IEEE.62.1978" target="https://ieeexplore.ieee.org/document/27742">
   <front>
     <title>IEEE Guide for Field Testing Power Apparatus Insulation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80815"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="24"/>
-    <keyword>Insulation testing</keyword>
-    <keyword>Standards</keyword>
-    <keyword>insulation</keyword>
-    <keyword>apparatus</keyword>
-    <keyword>testing</keyword>
-    <keyword>field</keyword>
-    <keyword>power</keyword>
     <abstract>Diagnostic tests and measurements that are performed in the field on oil-immersed power transformers and regulators are described. Whenever possible, shunt reactors are treated in a similar manner to transformers. Tests are presented systematically in categories depending on the subsystem of the unit being examined. A diagnostic chart is included as an aid to identify the various subsystems. Additional information is provided regarding specialized test and measuring techniques.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.80815"/>
 </reference>

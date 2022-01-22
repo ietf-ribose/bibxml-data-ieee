@@ -11,23 +11,6 @@
       </address>
     </author>
     <date year="2019" month="August" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Telecommuncation network management</keyword>
-    <keyword>Transport protocols</keyword>
-    <keyword>central unit</keyword>
-    <keyword>CU</keyword>
-    <keyword>distributed unit</keyword>
-    <keyword>DU</keyword>
-    <keyword>fronthaul transport node</keyword>
-    <keyword>FTN</keyword>
-    <keyword>IEEE 1914.1</keyword>
-    <keyword>Next Generation Fronthaul Interface</keyword>
-    <keyword>NGFI</keyword>
-    <keyword>NGFI networks</keyword>
-    <keyword>NGFI-I</keyword>
-    <keyword>NGFI-II</keyword>
-    <keyword>radio unit</keyword>
-    <keyword>RU</keyword>
     <abstract>The architecture and requirements for next generation fronthaul networks are specified in this standard. NGFI-I is defined as the next generation fronthaul network with low layer splits in a baseband station. NGFI-II is defined as the next generation fronthaul network with high layer splits in a baseband station. The requirements of fronthaul transport nodes in these networks are also specified.</abstract>
   </front>
 </reference>

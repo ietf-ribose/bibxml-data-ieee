@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1w.2001" target="https://ieeexplore.ieee.org/document/946612">
   <front>
     <title>IEEE Standard for Information Technology -Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks - Common Specifications - Part 3: Media Access Control (MAC) Bridges: Amendment 2 - Rapid Reconfiguration</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93287"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>MAC Bridge management</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>media access control (MAC) bridges</keyword>
-    <keyword>Rapid Spanning Tree Algorithm and Protocol (RSTP)</keyword>
     <abstract>Superseded by IEEE Std 802.1D-2004 This IEEE Standards product is part of the 802 family on LAN/MAN. This amendment to IEEE Std 802.1D, 1998 Edition (ISO/IEC 15802-3: 1998) and IEEE Std 802.1t-2001 defines the changes necessary to the operation of a MAC Bridge in order to provide rapid Spanning Tree reconfiguration capability.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93287"/>
 </reference>

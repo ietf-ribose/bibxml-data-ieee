@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1580.2001" target="https://ieeexplore.ieee.org/document/8383924">
   <front>
     <title>IEEE Recommended Practice for Marine Cable for Use on Shipboard and Fixed or Floating Platforms</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.8383924"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2018" month="June" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Underwater cables</keyword>
-    <keyword>Marine vehicles</keyword>
-    <keyword>marine cable</keyword>
-    <keyword>platforms</keyword>
-    <keyword>shipboard</keyword>
     <abstract>Requirements are given for single or multiconductor cables, with or without metal armorand/or jacket, and rated 300 V to 35 kV, intended to be installed aboard marine vessels, fixed andfloating offshore facilities, and in accordance with industry installation standards and the regula-tions of the authorities having jurisdiction (AHJ).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.8383924"/>
 </reference>

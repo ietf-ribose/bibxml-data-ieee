@@ -1,20 +1,10 @@
 <reference anchor="ANSI/IEEE.C37-91.1985" target="https://ieeexplore.ieee.org/document/579125">
   <front>
     <title>IEEE Guide for Protective Relay Applications to Power Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81970"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2015" month="February" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Circuit faults</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Protective relaying</keyword>
-    <keyword>Power system relaying</keyword>
-    <keyword>relay</keyword>
-    <keyword>applications</keyword>
-    <keyword>transformers</keyword>
-    <keyword>Protective relaying</keyword>
-    <keyword>Power transformer protection</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1985.81970"/>
 </reference>

@@ -1,30 +1,11 @@
 <reference anchor="IEC.62527.2007" target="https://ieeexplore.ieee.org/document/4410232">
   <front>
     <title>IEC 62527 Ed. 1 (IEEE Std 1450.2(TM)-2002): Standard for Extensions to Standard Test Interface Language (STIL) for DC Level Specification</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4410232"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEC Standards</keyword>
-    <keyword>IEC</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Central office</keyword>
-    <keyword>Customer services</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>: automated test equipment (ATE)</keyword>
-    <keyword>comparator</keyword>
-    <keyword>DC levels</keyword>
-    <keyword>device power supply (DPS)</keyword>
-    <keyword>device under test (DUT)</keyword>
-    <keyword>driver</keyword>
-    <keyword>driver termination</keyword>
-    <keyword>dynamic load</keyword>
-    <keyword>functional test</keyword>
-    <keyword>parametric measurement unit (PMU)</keyword>
-    <keyword>power sequence</keyword>
-    <keyword>slew rate</keyword>
-    <keyword>voltage clamp</keyword>
     <abstract>This standard extends IEEE Std 1450-1999 (STIL) to support the definition of DC levels. STIL language constructs are defined to specify the DC conditions necessary to execute digital vectors on automated test equipment (ATE). STIL language extensions include structures for: (a) specifying the DC conditions for a device under test; (b) specifying DC conditions either globally, by pattern burst, by pattern, or by vector; (c) specifying alternate DC levels; and (d) selecting DC levels and alternate levels within a period, much the same as timed format events.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4410232"/>
 </reference>

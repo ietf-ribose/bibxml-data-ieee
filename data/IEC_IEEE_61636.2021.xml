@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.61636.2021" target="https://ieeexplore.ieee.org/document/9451889">
   <front>
     <title>International Standard-Software Interface for Maintenance Information Collection and Analysis (SIMICA)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9451889"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2021" month="June" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Software maintenance</keyword>
-    <keyword>Automated test equipment</keyword>
-    <keyword>automated test system (ATS)</keyword>
-    <keyword>extensible markup language (XML)</keyword>
-    <keyword>IEEE 1636</keyword>
-    <keyword>maintenance action information</keyword>
-    <keyword>OWL ontology</keyword>
-    <keyword>Software Interface for Maintenance Information Collection and Analysis (SIMICA)</keyword>
-    <keyword>test results and session information</keyword>
-    <keyword>XML schema</keyword>
     <abstract>Promoting and facilitating interoperability between components of automatic test systems where test results and/or maintenance actions need to be shared is addressed in this standard. The standard defines the common elements between both test results data and maintenance action data. The common schema becomes a class of information that shall be used within the SIMICA family of standards.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9451889"/>
 </reference>

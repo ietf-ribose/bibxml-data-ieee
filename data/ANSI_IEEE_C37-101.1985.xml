@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-101.1985" target="https://ieeexplore.ieee.org/document/8684526">
   <front>
     <title>IEEE Guide for Generator Ground Protection</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.8684526"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,7 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Guide for Generator Ground Protection</keyword>
     <abstract>This guide has been prepared to aid in the application of relays and relaying schemes for the protection of synchronous generators for single-phase-to- ground faults in the stator winding. The guide is not intended for the selection of generator or ground connection schemes. The information included in the main body is limited to those generator connections, grounding practices, and protective schemes generally used in North America. Appendix A provides information on some of the protective schemes in use elsewhere in the world and on schemes which are not in wide-spread use throughout North America. Appendix B provides examples of how to calculate ground overcurrent and overvoltage relay settings for the various protective schemes (and how to coordinate them with voltage transformer secondary fuses. Appendix C is a bibliography of available literature on the ground-fault problem from which source material was drawn. Recommended protective schemes and the arrangements in which they may be applied are indicated in Table 1. The use of this table is described in Section 3 with supporting information provided in subsequent sections.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.8684526"/>
 </reference>

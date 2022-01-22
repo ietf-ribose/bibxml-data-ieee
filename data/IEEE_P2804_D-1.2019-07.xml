@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2019" month="July" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Multicore processing</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Software tools</keyword>
-    <keyword>IEEE 2804</keyword>
-    <keyword>many-core</keyword>
-    <keyword>multicore</keyword>
-    <keyword>SHIM</keyword>
-    <keyword>software hardware interface</keyword>
-    <keyword>software tools</keyword>
     <abstract>This standard is intended primarily for tool developers and hardware developers who would use Software Hardware Interface for Multi-Many-core (SHIM) to exchange hardware description for software tools. It also attempts to provide software developers with insights into what hardware information is described in SHIM to foster understanding of the intention and the extent of SHIM.</abstract>
   </front>
 </reference>

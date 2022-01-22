@@ -1,7 +1,6 @@
 <reference anchor="IEEE.45-8.2016" target="https://ieeexplore.ieee.org/document/7448798">
   <front>
     <title>IEEE Recommended Practice for Electrical Installations on Shipboard--Cable Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7448798"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,25 +10,7 @@
       </address>
     </author>
     <date year="2016" month="April" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Transportation</keyword>
-    <keyword>Cable installations</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Data communication</keyword>
-    <keyword>Offshore installations</keyword>
-    <keyword>Marine technology</keyword>
-    <keyword>cable application</keyword>
-    <keyword>cable installation</keyword>
-    <keyword>cable selection</keyword>
-    <keyword>cable systems</keyword>
-    <keyword>control cable</keyword>
-    <keyword>data cable</keyword>
-    <keyword>IEEE 45.8(TM)</keyword>
-    <keyword>offshore drilling and production platforms</keyword>
-    <keyword>power cable</keyword>
-    <keyword>shipboard systems</keyword>
-    <keyword>signal cable</keyword>
-    <keyword>specialty marine cable</keyword>
     <abstract>Recommendations are provided for selection, application, and installation of electrical power, signal, control, data, and specialty marine cable systems on shipboard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7448798"/>
 </reference>

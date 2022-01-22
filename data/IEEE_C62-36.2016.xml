@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-36.2016" target="https://ieeexplore.ieee.org/document/7731254">
   <front>
     <title>IEEE Standard Test Methods for Surge Protectors and Protective Circuits Used in Information and Communications Technology (ICT) Circuits, and Smart Grid Data Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7731254"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2016" month="November" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Surge protection</keyword>
-    <keyword>Surges</keyword>
-    <keyword>Smart grids</keyword>
-    <keyword>Information and communication technology</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Surge Protector</keyword>
-    <keyword>SPD</keyword>
-    <keyword>Transient Overvoltage Protector</keyword>
-    <keyword>Surge Protective Circuits</keyword>
-    <keyword>ICT Surge Protection</keyword>
-    <keyword>Smart Grid Surge Protection</keyword>
-    <keyword>Telecommunication Line Protector Unit</keyword>
-    <keyword>Signal Line Surge Protection</keyword>
     <abstract>Surge protectors for application on multiconductor balanced or unbalanced information and communications technology (ICT) circuits and smart grid data circuits are addressed in this standard. These surge protectors are designed to limit voltage surges, current surges, or both. The surge protectors covered are generally multiple-component series or parallel combinations of linear or nonlinear elements, packaged or organized for the purpose of limiting voltage, current, or both. The methods of testing and criteria (where appropriate) for the characteristics and ratings of surge protectors used in ICT circuits and smart grid data circuits are also described in this standard. Packaged single gas tube, air gap, varistor, or avalanche junction surge-protective components are not covered by this standard, but rather are covered by IEEE Std C62.31(TM), IEEE Std C62.32(TM), IEEE Std C62.33(TM), and IEEE Std C62.35(TM), respectively. Specifically excluded from this standard are test methods for low-voltage power circuit applications. For protection of wire-line communication facilities under the specialized conditions found at power stations, consult IEEE Std 487(TM).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7731254"/>
 </reference>

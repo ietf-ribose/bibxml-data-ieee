@@ -1,7 +1,6 @@
 <reference anchor="IEEE.N42-44.2008" target="https://ieeexplore.ieee.org/document/4667702">
   <front>
     <title>American National Standard for the Performance of Checkpoint Cabinet X-Ray Imaging Security Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4667702"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2012" month="May" day="17"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>X-ray imaging</keyword>
-    <keyword>Inspection</keyword>
-    <keyword>Security</keyword>
-    <keyword>N42.44-2008</keyword>
-    <keyword>cabinet x-ray</keyword>
-    <keyword>checkpoint</keyword>
-    <keyword>minimum performance</keyword>
     <abstract>This document establishes standards for the technical performance of cabinet X-ray imaging systems used for screening at security checkpoints and other inspection venues.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4667702"/>
 </reference>

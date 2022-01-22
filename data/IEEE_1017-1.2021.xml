@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1017-1.2021" target="https://ieeexplore.ieee.org/document/9686661">
   <front>
     <title>IEEE Recommended Practice for Testing of Electric Submersible Pump Cable</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9686661"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2022" month="January" day="19"/>
-    <keyword>cable ampacity</keyword>
-    <keyword>cable maintenance</keyword>
-    <keyword>cable testing</keyword>
-    <keyword>conductors</keyword>
-    <keyword>electric submersible pump (ESP)</keyword>
-    <keyword>factory testing</keyword>
-    <keyword>field testing</keyword>
-    <keyword>IEEE 1017</keyword>
-    <keyword>submersible pump cable</keyword>
     <abstract>Procedures and test voltage values for factory, acceptance, and maintenance testing of electric submersible pump (ESP) cable systems are presented. This recommended practice applies to cable systems rated 3 kV through 8 kV (phase to phase) and is intended only for this special purpose cable. The intent is to provide uniform test procedures and guidelines for evaluation of the test results.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9686661"/>
 </reference>

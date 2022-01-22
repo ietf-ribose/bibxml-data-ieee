@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1059.1993" target="https://ieeexplore.ieee.org/document/838043">
   <front>
     <title>IEEE Guide for Software Verification and Validation Plans</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121430"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="30"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Software</keyword>
-    <keyword>Task analysis</keyword>
-    <keyword>Planning</keyword>
-    <keyword>Standards organizations</keyword>
-    <keyword>Organizations</keyword>
-    <keyword>software</keyword>
-    <keyword>verification</keyword>
-    <keyword>validation</keyword>
-    <keyword>V &amp;amp; V tasks</keyword>
-    <keyword>Master schedule</keyword>
-    <keyword>Life cycle phases</keyword>
-    <keyword>Baseline change assessment</keyword>
     <abstract>Guidance in preparing Software Verification and Validation Plans (SVVPs) that comply with IEEE Std 1012-1986 are provided. IEEE Std 1012-1986 specifies the required content for an SVVP. This guide recommends approaches to Verification and Validation (V &amp; V) planning. This guide does not present requirements beyond those stated in IEEE Std 1012-1986.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121430"/>
 </reference>

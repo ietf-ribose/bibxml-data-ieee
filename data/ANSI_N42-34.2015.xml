@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-34.2015" target="https://ieeexplore.ieee.org/document/7551091">
   <front>
     <title>American National Standard Performance Criteria for Handheld Instruments for the Detection and Identification of Radionuclides</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7551091"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2016" month="August" day="24"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Gamma rays</keyword>
-    <keyword>Radionuclides</keyword>
-    <keyword>Security</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>Nuclear material</keyword>
-    <keyword>Handheld devices</keyword>
-    <keyword>ANSI N42.34</keyword>
-    <keyword>gamma rays</keyword>
-    <keyword>homeland security</keyword>
-    <keyword>industrial radionuclides</keyword>
-    <keyword>medical radionuclides</keyword>
-    <keyword>neutrons</keyword>
-    <keyword>special nuclear material (SNM)</keyword>
     <abstract>Performance specifications and testing methods for the evaluation of handheld instruments (also known as radionuclide identification devices or RIDs) used for the detection and identification of radionuclides, which emit gamma rays and, in some cases, neutrons, are contained in this standard. The specifications for general, radiological, environmental, electromagnetic and mechanical performances are given and the corresponding testing methods are described. The documentation to be provided by the manufacturer is listed as part of the requirements. Normative and informative annexes that provide guidance for the implementation of this standard are also included. (The PDF of this standard is available at no cost compliments of the Department of Homeland Security Domestic Nuclear Detection Office. http://standards.ieee.org/getN42/download/N42.34-2015.pdf).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7551091"/>
 </reference>

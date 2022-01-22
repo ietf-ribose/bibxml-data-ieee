@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11d.2001" target="https://ieeexplore.ieee.org/document/946610">
   <front>
     <title>IEEE Standard for Information technology-- Local and metropolitan area networks-- Specific requirements-- Part 11: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 3: Specification for operation in additional regulatory domains</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93285"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>international roaming</keyword>
-    <keyword>local area network (LAN)</keyword>
-    <keyword>mobility</keyword>
-    <keyword>radio</keyword>
-    <keyword>roam</keyword>
-    <keyword>roaming</keyword>
-    <keyword>wireless</keyword>
-    <keyword>wireless network</keyword>
     <abstract>This amendment specifies the extensions to IEEE Std 802.11 ¤ for Wireless Local AreaNetworks providing specifications for conformant operation beyond the original six regulatory domains of that standard. These extensions provide a mechanism for an IEEE Std 802.11 access point to deliver the required radio transmitter parameters to an IEEE Std 802.11 mobile station,which allows that station to configure its radio to operate within the applicable regulations of ageographic or political subdivision. This mechanism is applicable to all IEEE Std 802.11 PHYtypes. A secondary benefit of the mechanism described in this amendment is the ability for anIEEE Std 802.11 moble station to roam between regulatory domains</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.93285"/>
 </reference>

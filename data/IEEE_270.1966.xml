@@ -1,7 +1,6 @@
 <reference anchor="IEEE.270.1966" target="https://ieeexplore.ieee.org/document/7393414">
   <front>
     <title>IEEE Proposed Standard Definitions of General (Fundamental and Derived) Electrical and Electronic Terms</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1966.7393414"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="26"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Electrical equipment</keyword>
-    <keyword>Electronics</keyword>
     <abstract>The following topics are dealt with: standard definitions; general electrical terms; and general electronic terms.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1966.7393414"/>
 </reference>

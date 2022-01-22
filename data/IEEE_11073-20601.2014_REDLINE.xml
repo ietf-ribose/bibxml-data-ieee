@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2015" month="January" day="26"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>ISO standards</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Personal health devices</keyword>
-    <keyword>IEEE 11073-20601(TM)</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, this standard defines a common framework for making an abstract model of personal health data available in transport-independent transfer syntax required to establish logical connections between systems and to provide presentation capabilities and services needed to perform communication tasks. The protocol is optimized to personal health usage requirements and leverages commonly used methods and tools wherever possible.</abstract>
   </front>
 </reference>

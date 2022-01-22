@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-38.1994" target="https://ieeexplore.ieee.org/document/696974">
   <front>
     <title>IEEE Guide on Electrostatic Discharge (ESD): ESD Withstand Capability Evaluation Methods (for Electronic Equipment Subassemblies)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122625"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2012" month="October" day="9"/>
-    <keyword>Electronic equipment testing</keyword>
-    <keyword>Electrostatic discharges</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Printed circuit testing</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>electronic equipment</keyword>
-    <keyword>electrostatic discharge</keyword>
-    <keyword>ESD</keyword>
-    <keyword>subassemblies</keyword>
-    <keyword>withstand capability</keyword>
     <abstract>This guide establishes test methods for the evaluation of ESD withstand capability for electronic equipment subassemblies. It includes information about test conditions, test equipment, and test procedures for ESD tests of printed circuit boards and other subassemblies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122625"/>
 </reference>

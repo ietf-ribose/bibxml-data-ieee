@@ -1,19 +1,11 @@
 <reference anchor="IEEE.C57-12-23.1992" target="https://ieeexplore.ieee.org/document/210909">
   <front>
     <title>IEEE Standard for Transformers--Underground-Type, Self-Cooled, Single-Phase Distribution Transformers with Separable, Insulated, High-Voltage Connectors; High Voltage (24 940 GrdY/14 400 V and Below) and Low-Voltage (240/120 V, 167 kVA and Smaller)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114374"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="November"/>
-    <keyword>Power transformers</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Standards</keyword>
-    <keyword>distribution</keyword>
-    <keyword>interchangeability</keyword>
-    <keyword>performance</keyword>
-    <keyword>safety</keyword>
-    <keyword>transformers</keyword>
     <abstract>Electrical, dimensional, and mechanical characteristics and certain safety features of single-phase, 60 Hz, mineral-oil-immersed, self-cooled, distribution transformers with separable insulated high-voltage connectors are covered. Ratings, testing, and construction are discussed. These transformers are generally used for step-down pruposes from an underground primary cable supply and are suitable for occasional submerged operation. The intent is to provide a basis for determining their performance, interchangeability, and safety, and for their selection. This standard does not cover the electrical and mechanical requirements of accessory devices that may be supplied with the transformer</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114374"/>
 </reference>

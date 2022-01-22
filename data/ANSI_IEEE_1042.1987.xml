@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.1042.1987" target="https://ieeexplore.ieee.org/document/89631">
   <front>
     <title>IEEE Guide to Software Configuration Management</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.94582"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="15"/>
-    <keyword>Computer industry</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Standards</keyword>
-    <keyword>configuration</keyword>
-    <keyword>Software safety</keyword>
-    <keyword>Software maintenance</keyword>
-    <keyword>Software development management</keyword>
     <abstract>The application of configuration management (CM) disciplines to the management of software engineering projects is described. For those planning software configuration management (SCM) activities, this guide provides insight into the various factors that must be considered. For users implementing SCM disciplines, suggestions and detailed examples of plans are provided. An interpretation is given of how ANSI/IEEE Std 828-1983, IEEE Standard for Software Configuration Management Plans, can be used for planning the management of different kinds of computer program development and maintenance activities.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1988.94582"/>
 </reference>

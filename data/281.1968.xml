@@ -1,15 +1,11 @@
 <reference anchor="IEEE.281.1968" target="https://ieeexplore.ieee.org/document/7384653">
   <front>
     <title>IEEE Standard Service Conditions for Power System Communications Apparatus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.7384653"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="January" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Service conditions</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Communications technology</keyword>
     <abstract>This Standard covers usual and unusual environmental service conditions; nominal voltage ratings, allowable voltage and supply frequency variations and ripple, and insulation withstand voltage levels.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.7384653"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.268A.1980" target="https://ieeexplore.ieee.org/document/713350">
   <front>
     <title>IEEE International System of Units Conversion Factors Card </title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.88275"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Meters</keyword>
-    <keyword>Force</keyword>
-    <keyword>Reactive power</keyword>
-    <keyword>Permeability</keyword>
-    <keyword>Micrometers</keyword>
-    <keyword>Conductivity</keyword>
-    <keyword>Voltage</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.88275"/>
 </reference>

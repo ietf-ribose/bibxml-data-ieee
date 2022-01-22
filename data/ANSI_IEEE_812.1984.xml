@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.812.1984" target="https://ieeexplore.ieee.org/document/578043">
   <front>
     <title>IEEE Standard Definitions of Terms Relating to Fiber Optics</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81975"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -14,4 +13,5 @@
     <date year="2015" month="January" day="12"/>
     <abstract>This document is based on the NTIA-SP-794 Optical Waveguide Communications Glossary, issued inSeptember 1979 by the U.S. Department of Commerce;</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81975"/>
 </reference>

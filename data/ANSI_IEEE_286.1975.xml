@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.286.1975" target="https://ieeexplore.ieee.org/document/6523047">
   <front>
     <title>IEEE Recommended Practice for Measurement of Power-Factor Tip-Up of Rotating Machinery Stator Coil Insulation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.6523047"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2013" month="June" day="4"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Dielectric measurement</keyword>
-    <keyword>Machinery</keyword>
-    <keyword>Stator windings</keyword>
-    <keyword>Coils</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>power factor</keyword>
-    <keyword>tip-up</keyword>
-    <keyword>rotating</keyword>
-    <keyword>insulation</keyword>
-    <keyword>coil</keyword>
-    <keyword>dielectric phase angle</keyword>
-    <keyword>loss angle</keyword>
     <abstract>The purpose of this recommended practice is to describe the power-factor tip-up of coil insulation and to establish preferred procedures for its measurement. This recommended practice applies to stator coils of rotating machinery operating at 6600 V or higher. the coil Insulation under consideration is principally the major ground-wall insulation which is external to the conductor structure. Only that part of the strand and turn insulation which dielectrically in series with the ground-wall insulation enters into the measurements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1975.6523047"/>
 </reference>

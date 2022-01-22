@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.399.1980" target="https://ieeexplore.ieee.org/document/18478">
   <front>
     <title>IEEE Recommended Practice for Power System Analysis (IEEE Brown Book)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.119230"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="16"/>
-    <keyword>Power systems</keyword>
-    <keyword>Standards</keyword>
-    <keyword>power</keyword>
-    <keyword>system</keyword>
-    <keyword>analysis</keyword>
-    <keyword>brown</keyword>
     <abstract>Superseded by 399-1990. This recommended practice is a reference source for engineers involved in industrial and commercial power systems analysis. It contains a thorough analysis of the power system data required, and the techniques most commonly used in computer-aided analysis, in order to perform specific power system studies of the following: short-circuit, load flow, motorstarting, cable ampacity, stability, harmonic analysis, switching transient, reliability, ground mat, protective coordination, DC auxiliary power system, and power system modeling.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.119230"/>
 </reference>

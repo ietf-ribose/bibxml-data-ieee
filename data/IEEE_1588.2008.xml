@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1588.2008" target="https://ieeexplore.ieee.org/document/4579760">
   <front>
     <title>IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4579760"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2015" month="June" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Clocks</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Patents</keyword>
-    <keyword>1588-2008</keyword>
-    <keyword>boundary clock</keyword>
-    <keyword>clock</keyword>
-    <keyword>distributed system</keyword>
-    <keyword>master clock</keyword>
-    <keyword>measurement and control system</keyword>
-    <keyword>real-time clock</keyword>
-    <keyword>synchronized clock</keyword>
-    <keyword>transparent clock</keyword>
     <abstract>A protocol is provided in this standard that enables precise synchronization of clocks in measurement and control systems implemented with technologies such as network communication, local computing, and distributed objects. The protocol is applicable to systems communicating via packet networks. Heterogeneous systems are enabled that include clocks of various inherent precision, resolution, and stability to synchronize. System-wide synchronization accuracy and precision in the sub-microsecond range are supported with minimal network and local clock computing resources. Simple systems are installed and operated without requiring the management attention of users because the default behavior of the protocol allows for it.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4579760"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2861.2021" target="https://ieeexplore.ieee.org/document/9626693">
   <front>
     <title>IEEE Standard for Mobile Gaming Performance Evaluation and Optimization</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9626693"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Games</keyword>
-    <keyword>Mobile computing</keyword>
-    <keyword>Application programming interface</keyword>
-    <keyword>Smart phones</keyword>
-    <keyword>API</keyword>
-    <keyword>gaming</keyword>
-    <keyword>IEEE 2861&amp;#8482;</keyword>
-    <keyword>interface</keyword>
-    <keyword>mobile application</keyword>
-    <keyword>mobile device</keyword>
-    <keyword>mobile game</keyword>
-    <keyword>optimization</keyword>
-    <keyword>performance</keyword>
-    <keyword>smart phone</keyword>
     <abstract>This standard is to improve the user experience of mobile gaming by solving the issues between the high demands from game applications and the resource limitation of a mobile device. Message exchange is critical to coordinate the resource allocation and to optimize the performance of gaming that ensure fluent user experiences in games. Additionally, this standard specifies evaluation methods and criteria that enables the control and optimization.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9626693"/>
 </reference>

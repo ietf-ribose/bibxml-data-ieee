@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1312.1993" target="https://ieeexplore.ieee.org/document/850427">
   <front>
     <title>IEEE Standard Preferred Voltage Ratings for Alternating-Current Electrical Systems and Equipment Operating at Voltages Above 230 kV Nominal</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.91611"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="21"/>
-    <keyword>alternating current electrical systems</keyword>
-    <keyword>system voltage</keyword>
-    <keyword>voltage ratings</keyword>
     <abstract>Perferred voltage ratings above 230 kV nominal for alternating-current (ac) systems and equipment are provided, along with definitions of various types of system voltages.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.91611"/>
 </reference>

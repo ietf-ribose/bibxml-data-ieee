@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-96.1999" target="https://ieeexplore.ieee.org/document/8684748">
   <front>
     <title>IEEE Guide for Loading Dry-Type Distribution and Power Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.8684748"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ambient temperature</keyword>
-    <keyword>cast-resin transformer</keyword>
-    <keyword>constant load</keyword>
-    <keyword>derating factors</keyword>
-    <keyword>hottest-spot temperature</keyword>
-    <keyword>loading capability</keyword>
-    <keyword>loading transformer</keyword>
-    <keyword>rated output</keyword>
-    <keyword>resin-encapsulated</keyword>
-    <keyword>solid-cast</keyword>
-    <keyword>time constant</keyword>
-    <keyword>transient loading</keyword>
     <abstract>Reaffirmed 2004. General recommendations for the loading of dry-type distribution and power transformers that have 80 °C, 115 °C, and 150 °C average winding rises and insulation systems limited to 150 °C, 180 °C, and 220 °C maximum hottest-spot operating temperatures, respectively, are covered in this guide. Recommendations for ventilated, nonventilated, and sealed dry-type transformers having impregnated insulation systems are included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.8684748"/>
 </reference>

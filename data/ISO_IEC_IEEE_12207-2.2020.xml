@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.12207-2.2020" target="https://ieeexplore.ieee.org/document/9238529">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering--Software life cycle processes--Part 2: Relation and mapping between ISO/IEC/IEEE 12207:2017 and ISO/IEC 12207:2008</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9238529"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -14,4 +13,5 @@
     <date year="2020" month="October" day="23"/>
     <abstract>ISO/IEC/IEEE 12207-2 provides the mapping expressing corresponding relations between software life cycle processes in ISO/IEC/IEEE 12207:2017 and the processes in the previous edition ISO/IEC 12207:2008. These relations are demonstrated by means of mapping tables that show relationships between Process Outcomes, and Activities and Tasks in these both editions of ISO/IEC/IEEE 12207. This mapping assists users of the ISO/IEC 12207:2008 edition to transition to using the ISO/IEC/IEEE 12207:2017 edition. This document will help users understand the differences between the reference processes and requirements of the two editions of ISO/IEC/IEEE 12207, and help the user to understand any potential gaps or process enhancements might be needed in seeking conformance to, and/or use of ISO/IEC/IEEE 12207:2017. Also, this document provides to such users the mapping which helps to identify corresponding and compatible process outcomes, activities and tasks of processes for software systems in the ISO/IEC/IEEE 12207:2017.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9238529"/>
 </reference>

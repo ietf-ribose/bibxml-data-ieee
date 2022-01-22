@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.309.1970" target="https://ieeexplore.ieee.org/document/8684586">
   <front>
     <title>IEEE Standard Test Procedure for Geiger-Müller Counters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.8684586"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>geiger</keyword>
-    <keyword>mueller</keyword>
-    <keyword>counters</keyword>
-    <keyword>radiation</keyword>
-    <keyword>nuclear</keyword>
     <abstract>This publication presents standard test procedures for Geiger-Muller counter radiation detectors. These detectors, originally announced by ?Geiger and Muller in 1928, represented a major step forward in the detection and counting of individual radioactive events. Standard test procedures are desirable so that measurements may have the same meaning to all manufacturers and users.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.8684586"/>
 </reference>

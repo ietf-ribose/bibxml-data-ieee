@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N322.1977" target="https://ieeexplore.ieee.org/document/595148">
   <front>
     <title>American National Standard Inspection and Test Specifications for Direct and Indirect Reading Quartz Fiber Pocket Dosimeters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.82448"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2014" month="February" day="26"/>
-    <keyword>Standards</keyword>
-    <keyword>Laboratories</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Inspection</keyword>
-    <keyword>Manufacturing</keyword>
-    <keyword>X-ray detectors</keyword>
-    <keyword>Gamma-ray detectors</keyword>
     <abstract>The procedures to be used by manufacturers in testing direct and indirect reading quartz fiber pocket dosimeters for measuring X-ray and gamma-ray exposure are defined. The standard covers equipment requirements, test requirements, inspection for workmanship, charging and reading, physical tests, tests of radiation response under standard and extreme environmental conditions, and energy dependence and geometrical considerations. The intent is to ensure that each dosimeter meets the requisite standards of performance and workmanship as specified in ANSI N13.5-1972, Performance Specifications for Direct Reading and Indirect Reading Pocket Dosimeters for X and Gamma Radiation, and conforms to the certification for that model provided to the user. The user is encouraged to perform certain of the inspections and tests at intervals considered appropriate for the specific applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.82448"/>
 </reference>

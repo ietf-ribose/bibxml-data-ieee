@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1AX/Cor1.2018" target="https://ieeexplore.ieee.org/document/8490833">
   <front>
     <title>IEEE/ISO/IEC International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements - Part 1AX: Link aggregation TECHNICAL CORRIGENDUM 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8490833"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2018" month="October" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Aggregated Link</keyword>
-    <keyword>Aggregator</keyword>
-    <keyword>corrigendum</keyword>
-    <keyword>Distributed Resilient Network Interconnect</keyword>
-    <keyword>DRNI</keyword>
-    <keyword>IEEE 802&amp;#174;</keyword>
-    <keyword>IEEE 802.1AX&amp;#8482;</keyword>
-    <keyword>interconnect</keyword>
-    <keyword>Link Aggregation</keyword>
-    <keyword>Link Aggregation Group</keyword>
-    <keyword>local area network</keyword>
-    <keyword>management</keyword>
-    <keyword>Network-Network Interface</keyword>
-    <keyword>NNI</keyword>
     <abstract>Technical and editorial corrections are provided in this corrigendum to IEEE Std 802.1AX-2014.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8490833"/>
 </reference>

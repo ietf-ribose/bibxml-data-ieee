@@ -11,29 +11,6 @@
       </address>
     </author>
     <date year="2019" month="April" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Access control</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Network security</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>access control</keyword>
-    <keyword>authentication</keyword>
-    <keyword>authorization</keyword>
-    <keyword>certificate</keyword>
-    <keyword>IEEE 802.1AR</keyword>
-    <keyword>LANs</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>MAC security</keyword>
-    <keyword>MANs</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>PKI</keyword>
-    <keyword>port-based network access control</keyword>
-    <keyword>secure association</keyword>
-    <keyword>Secure Device Identifier</keyword>
-    <keyword>security</keyword>
-    <keyword>X.509</keyword>
     <abstract>A Secure Device Identifier (DevID) is cryptographically bound to a device and supports authentication of the device’s identity. An Initial Device Identifier (IDevID) provide by the supplier of a device can be supplemented by Local Device Identifiers (LDevIDs) facilitating enrollment (provisioning of authentication and authorization credentials) by local network administrators. (The PDF of this standard is available at no cost compliments of the IEEE GET Program at https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68)</abstract>
   </front>
 </reference>

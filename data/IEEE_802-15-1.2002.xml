@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-1.2002" target="https://ieeexplore.ieee.org/document/1016473">
   <front>
     <title>IEEE Standard for Telecommunications and Information Exchange Between Systems - LAN/MAN - Specific Requirements - Part 15: Wireless Medium Access Control (MAC) and Physical Layer (PHY) Specifications for Wireless Personal Area Networks (WPANs)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93621"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Bluetooth</keyword>
-    <keyword>Wireless personal area networks</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>IEEE 802.15 Standard</keyword>
-    <keyword>Patents</keyword>
-    <keyword>ad hoc network</keyword>
-    <keyword>Bluetooth</keyword>
-    <keyword>Bluetooth wireless technology</keyword>
-    <keyword>circuit switching</keyword>
-    <keyword>FH-CDMA</keyword>
-    <keyword>frequency-hopping code division multiple access</keyword>
-    <keyword>mobile</keyword>
-    <keyword>mobility</keyword>
-    <keyword>nomadic</keyword>
-    <keyword>packet switching</keyword>
-    <keyword>piconet</keyword>
-    <keyword>radio</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>scatternet</keyword>
-    <keyword>short-range</keyword>
     <abstract>This IEEE Standards product is part of the 802 family on LAN/MAN. Abstract: The lower transport layers [(Logical Link Control and Adaptation Protocol (L2CAP), Link Manager Protocol (LMP), baseband, and radio] of the Bluetooth™ wireless technology are defined. Bluetooth is an industry specification for short-range radio frequency (RF)-based connectivity for portable personal devices. The IEEE 802.15.1 Task Group has reviewed and provided a standard adaptation of the Bluetooth specifications (version 1.1) medium access control (MAC) (L2CAP, LMP, and baseband) and physical layer (PHY) (radio). Also specified is a clause on service access points (SAPs), which includes a logical link control (LLC)-MAC interface for the ISO/IEC 8802-2 LLC. A normative annex is included that provides a Protocol Implementation Conformance Statement (PICS) proforma, and an informative high-level behavioral ITU-T Z.100 specification and description language (SDL) model for an integrated Bluetooth MAC sublayer are also specified.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93621"/>
 </reference>

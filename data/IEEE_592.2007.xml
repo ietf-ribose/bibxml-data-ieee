@@ -1,7 +1,6 @@
 <reference anchor="IEEE.592.2007" target="https://ieeexplore.ieee.org/document/4512343">
   <front>
     <title>IEEE Standard for Exposed Semiconducting Shields on High-Voltage Cable Joints and Separable Connectors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4512343"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Standards Board</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Cable shielding</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Committees</keyword>
-    <keyword>592-2007</keyword>
-    <keyword>fault-current initiation</keyword>
-    <keyword>shield resistance</keyword>
     <abstract>Design test for shield resistance and a simulated fault-current initiation for exposed semiconducting shields used on cable accessories, specifically joints and separable insulated connectors rated 15 kV through 35 kV are provided in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4512343"/>
 </reference>

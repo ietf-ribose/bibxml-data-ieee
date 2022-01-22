@@ -1,19 +1,11 @@
 <reference anchor="ANSI/IEEE.352.1975" target="https://ieeexplore.ieee.org/document/7409888">
   <front>
     <title>IEEE Guide for General Principles of Reliability Analysis of Nuclear Power Generating Station Protection Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7409888"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="February" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Reliability engineering</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Capacitors</keyword>
-    <keyword>Safety</keyword>
-    <keyword>ANSI Standards</keyword>
     <abstract>This document was prepared to provide the designers and operators of nuclear power plant protection systems and the concerned regulatory groups with the essential methods and procedures of reliability engineering that are applicable to protection systems. By applying principles given, systems may be analyzed, acceptable test intervals may be established, results may be reconciled with reliability objectives, and the analyses may be suitably documented. The quantitative principles are applicable to the analysis of the effects of random failures on protection system reliability. They are not intended for use in treating the problem of systematic or common-mode failure. The principles are applicable during any phase of a protection system's lifetime. They have their greatest value during the design phase. During this phase reliability engineering can have the greatest effect for enhancing safety. The principles may also be applied during the per-operational phase or at any time during the normal lifetime of a system. When the principles are applied during either of these two phases, they will aid in the evaluation of systems and in improving test programs. Although not inherently limited, these principles are intended for application to systems covered in the scope of IEEE Std 279-1971, Criteria for Protection Systems for Nuclear Power Generating Stations, ANSI N42.7-1972.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.7409888"/>
 </reference>

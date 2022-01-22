@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-40.2003" target="https://ieeexplore.ieee.org/document/1269640">
   <front>
     <title>IEEE Standard Service Conditions and Definitions for High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94430"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Fuses</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>distribution enclosed single-pole air switch</keyword>
-    <keyword>fuse accessories</keyword>
-    <keyword>fuse disconnecting switch</keyword>
-    <keyword>high-voltage fuse</keyword>
     <abstract>Revision of IEEE Std C37.40-1993 and C37.40b-1996. Superseded by IEEE C37.41-2016. Service conditions and definitions for high-voltage fuses (above 1000 V), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories for ac distribution systems are covered. These include enclosed, open, and open-link types of distribution cutouts and fuses; distribution current-limiting fuses; distribution enclosed single-pole air switches; power fuses, including current-limiting types; outdoor and indoor fuse disconnecting switches; fuse supports, mountings, switch sticks, and links, all of the type used exclusively with the above; and removable switch blades for certain products among the above.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94430"/>
 </reference>

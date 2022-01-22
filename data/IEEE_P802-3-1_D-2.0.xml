@@ -11,17 +11,6 @@
       </address>
     </author>
     <date year="2012" month="December" day="18"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Management information systems</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Information systems</keyword>
-    <keyword>Network management</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>IEEE 802.3.1</keyword>
-    <keyword>MIB</keyword>
-    <keyword>network management</keyword>
-    <keyword>SNMP</keyword>
-    <keyword>SMIv2</keyword>
     <abstract>The Management Information Base (MIB) module specifications for IEEE Std 802.3, alsoknown as Ethernet, are contained in this standard. It includes the Structure of Management InformationVersion 2 (SMIv2) MIB module specifications formerly produced and published by the InternetEngineering Task Force (IETF), as well as extensions resulting from amendments to IEEE Std802.3. The SMIv2 MIB modules are intended for use with the Simple Network Management Protocol(SNMP), commonly used to manage Ethernet.</abstract>
   </front>
 </reference>

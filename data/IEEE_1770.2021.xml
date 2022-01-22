@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1770.2021" target="https://ieeexplore.ieee.org/document/9656841">
   <front>
     <title>IEEE Recommended Practice for the Usage of Terms Commonly Employed in the Field of Large-Signal Vector Network Analysis</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9656841"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2021" month="December" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Network analyzers</keyword>
-    <keyword>Vector processors</keyword>
-    <keyword>Signal processing</keyword>
-    <keyword>definitions</keyword>
-    <keyword>IEEE 1770</keyword>
-    <keyword>large-signal network analysis</keyword>
-    <keyword>small-signal network analysis</keyword>
-    <keyword>vector network analysis</keyword>
     <abstract>Common terms in large-signal vector network analysis are defined in this recommended practice. Some fundamental terms used in small-signal vector network analysis that are also commonly used in large-signal vector network analysis are covered as well.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9656841"/>
 </reference>

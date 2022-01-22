@@ -1,7 +1,6 @@
 <reference anchor="IEEE.521.2019" target="https://ieeexplore.ieee.org/document/8999849">
   <front>
     <title>IEEE Standard Letter Designations for Radar-Frequency Bands</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.8999849"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Radio frequency</keyword>
-    <keyword>Radar</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>frequency</keyword>
-    <keyword>IEEE 521 letter band</keyword>
-    <keyword>radar</keyword>
     <abstract>Letter terms in common usage are related to the frequency ranges that they represent in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.8999849"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.336.2020" target="https://ieeexplore.ieee.org/document/9246997">
   <front>
     <title>IEEE Recommended Practice for Installation, Inspection, and Testing for Class 1E Power, Instrumentation, and Control Equipment at Nuclear Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9246997"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2020" month="November" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Control systems</keyword>
-    <keyword>Instrumentation</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Class 1E</keyword>
-    <keyword>configuration management</keyword>
-    <keyword>constructability reviews</keyword>
-    <keyword>functional testing</keyword>
-    <keyword>IEEE 336&amp;#8482;</keyword>
-    <keyword>inspection procedures</keyword>
-    <keyword>multi-unit</keyword>
-    <keyword>nuclear facilities</keyword>
-    <keyword>plant design bases</keyword>
-    <keyword>pre-installation</keyword>
-    <keyword>post-installation inspection</keyword>
-    <keyword>post-maintenance test</keyword>
-    <keyword>post-modification test</keyword>
-    <keyword>test plans</keyword>
-    <keyword>test procedures</keyword>
     <abstract>Considerations for the pre-installation, installation, inspection, and testing of Class 1E power, instrumentation, and control equipment and systems of a nuclear facility while in the process of installing, inspecting, and testing during new construction, modification, or maintenance are provided in this recommended practice. This recommended practice does not apply to periodic surveillance testing. For purposes of this recommended practice, in addition to a nuclear power plant, a nuclear facility is defined as a facility related to the nuclear fuel cycle from fuel processing to reprocessing and waste management.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9246997"/>
 </reference>

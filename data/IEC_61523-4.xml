@@ -1,7 +1,6 @@
 <reference anchor="IEC.61523-4" target="https://ieeexplore.ieee.org/document/7076554">
   <front>
     <title>IEEE/IEC International Standard - Design and Verification of Low-Power Integrated Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7076554"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,27 +10,7 @@
       </address>
     </author>
     <date year="2015" month="April" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Low power electronics</keyword>
-    <keyword>Semantics</keyword>
-    <keyword>Power modes</keyword>
-    <keyword>Integrated circuits</keyword>
-    <keyword>corruption semantics</keyword>
-    <keyword>IEEE 1801</keyword>
-    <keyword>interface specification</keyword>
-    <keyword>IP reuse</keyword>
-    <keyword>isolation</keyword>
-    <keyword>level shifting</keyword>
-    <keyword>power-aware design</keyword>
-    <keyword>power domains</keyword>
-    <keyword>power intent</keyword>
-    <keyword>power modes</keyword>
-    <keyword>power states</keyword>
-    <keyword>progressive design refinement</keyword>
-    <keyword>retention</keyword>
-    <keyword>retention strategies</keyword>
-    <keyword>IEC 61523-4</keyword>
     <abstract>A method is provided for specifying power intent for an electronic design, for use inverification of the structure and behavior of the design in the context of a given power managementarchitecture, and for driving implementation of that power management architecture. The methodsupports incremental refinement of power intent specifications required for IP-based design flows.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7076554"/>
 </reference>

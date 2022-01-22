@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1484-12-1/Cor1.2011" target="https://ieeexplore.ieee.org/document/5982125">
   <front>
     <title>IEEE Standard for Learning Object Metadata - Corrigendum 1: Corrigenda for 1484.12.1 LOM (Learning Object Metadata)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5982125"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Metamodeling</keyword>
-    <keyword>Learning systems</keyword>
-    <keyword>IEEE 1484.12.1</keyword>
-    <keyword>learning object</keyword>
-    <keyword>learning object metadata (LOM)</keyword>
-    <keyword>metadata</keyword>
-    <keyword>reuse</keyword>
     <abstract>This corrigendum clarifies and corrects technical errors, editorial errors, and omissions in IEEE Std 1484.12.1-2002.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5982125"/>
 </reference>

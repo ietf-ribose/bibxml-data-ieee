@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-20-1b.2006" target="https://ieeexplore.ieee.org/document/4167677">
   <front>
     <title>IEEE Standard for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear - Amendment 2: Additional Requirements for Control and Auxiliary Power Wiring in DC Traction Power Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.353213"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2015" month="July" day="14"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>control wiring</keyword>
-    <keyword>dc switchgear</keyword>
-    <keyword>dc traction power switchgear</keyword>
-    <keyword>traction power substation</keyword>
     <abstract>This amendment addresses additional requirements of auxiliary power wiring and control wiring within dc switchgear of traction power substations with rated maximum voltage up to 3200 volts dc. This amendment provides control and power wiring methods for dc traction power switchgear intended to increase reliability of the operation of the equipment, improve protection, reduce maintenance cost and initial cost, and improve overall performance of the dc traction power switchgear.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.353213"/>
 </reference>

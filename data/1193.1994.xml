@@ -1,28 +1,11 @@
 <reference anchor="IEEE.1193.1994" target="https://ieeexplore.ieee.org/document/467473">
   <front>
     <title>IEEE Guide for Measurement of Environmental Sensitivities of Standard Frequency Generators</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122620"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Atomic clocks</keyword>
-    <keyword>Piezoelectric resonator oscillators</keyword>
-    <keyword>Environmental testing</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Frequency synthesizers</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Sensitivity</keyword>
-    <keyword>Time measurement</keyword>
-    <keyword>test</keyword>
-    <keyword>standard frequency generators</keyword>
-    <keyword>quartz crystal oscillator</keyword>
-    <keyword>oscillator</keyword>
-    <keyword>frequency standard</keyword>
-    <keyword>environmental sensitivities</keyword>
-    <keyword>atomic frequency standard</keyword>
-    <keyword>atomic clock</keyword>
     <abstract>Standard frequency generators that include all atomic frequency standards and precision quartz crystal oscillators are addressed.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.122620"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.60079.1930" target="https://ieeexplore.ieee.org/document/7279041">
   <front>
     <title>IEEE/IEC International Standard for Explosive atmospheres -- Part 30-2: Electrical resistance trace heating -- Application guide for design, installation and maintenance</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7279041"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2015" month="September" day="28"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Resistance heating</keyword>
-    <keyword>Atmospheric measurements</keyword>
-    <keyword>Explosives</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Trace heating</keyword>
     <abstract>The paper presents the standard for explosive atmospheres.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7279041"/>
 </reference>

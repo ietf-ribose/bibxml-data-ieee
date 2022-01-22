@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-31.2006" target="https://ieeexplore.ieee.org/document/4035728">
   <front>
     <title>IEEE Standard Test Methods for Low-Voltage Gas-Tube Surge-Protective Device Components</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.261414"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,33 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="6"/>
-    <keyword>Standards</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Breakdown voltage</keyword>
-    <keyword>Discharges (electric)</keyword>
-    <keyword>Surges</keyword>
-    <keyword>Surge protection</keyword>
-    <keyword>voltage</keyword>
-    <keyword>capacitance</keyword>
-    <keyword>current</keyword>
-    <keyword>discharge current</keyword>
-    <keyword>discharge voltage</keyword>
-    <keyword>dc holdover voltage</keyword>
-    <keyword>dc sparkover voltage</keyword>
-    <keyword>follow current</keyword>
-    <keyword>gas-tube surge protector</keyword>
-    <keyword>glow current</keyword>
-    <keyword>glow-to-arc transition current</keyword>
-    <keyword>glow voltage</keyword>
-    <keyword>impulse sparkover voltage</keyword>
-    <keyword>insulation resistance</keyword>
-    <keyword>longitudinal mode voltage</keyword>
-    <keyword>short circuit</keyword>
-    <keyword>transfer time</keyword>
-    <keyword>transition time</keyword>
-    <keyword>transverse mode voltage</keyword>
-    <keyword>wave shape</keyword>
     <abstract>This standard applies to gas-tube surge-protective devices for application on systemswith voltages, 1000 V rms or 1200 V dc.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.261414"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1267.1999" target="https://ieeexplore.ieee.org/document/815312">
   <front>
     <title>IEEE Guide for Development of Specification for Turnkey Substation Projects</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90613"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,7 +11,7 @@
       </address>
     </author>
     <date year="2017" month="September" day="18"/>
-    <keyword>Substations</keyword>
     <abstract>The technical requirements to engineer, design, specify, fabricate, manufacture, furnish,install, test, commission, and provide as-built documents for air-insulated substations are covered.This guide investigates the methods, practices, and requirements of both users and suppliers in order to promogate a systematic and coordinated approach for development of specifications for turn-key substation projects.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90613"/>
 </reference>

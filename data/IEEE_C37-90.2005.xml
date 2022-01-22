@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-90.2005" target="https://ieeexplore.ieee.org/document/1588760">
   <front>
     <title>IEEE Standard for Relays and Relay Systems Associated with Electric Power Apparatus</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.98985"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2012" month="October" day="11"/>
-    <keyword>ac component in dc</keyword>
-    <keyword>contact rating</keyword>
-    <keyword>current range</keyword>
-    <keyword>derating</keyword>
-    <keyword>dielectric test</keyword>
-    <keyword>humidity</keyword>
-    <keyword>impulse test</keyword>
-    <keyword>insulation test</keyword>
-    <keyword>power apparatus</keyword>
-    <keyword>protection relay</keyword>
-    <keyword>temperature range</keyword>
-    <keyword>temperature rise</keyword>
-    <keyword>voltage range</keyword>
     <abstract>Service conditions, electrical ratings, thermal ratings, and testing requirements are defined for relays and relay systems used to protect and control power apparatus. This standard establishes a common reproducible basis for designing and evaluating relays and relay systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.98985"/>
 </reference>

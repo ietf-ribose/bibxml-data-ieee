@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1326.1993" target="https://ieeexplore.ieee.org/document/286079">
   <front>
     <title>IEEE Standard for Information Technology--Test Methods for Measuring Conformance to Open Systems Interconnection (OSI) Abstract Data Manipulation - Application Program Interface (API) [Language Independent]</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119659"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>Open systems</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Application programming interfaces</keyword>
-    <keyword>Patents</keyword>
-    <keyword>API</keyword>
-    <keyword>OSI</keyword>
-    <keyword>Test methods</keyword>
-    <keyword>Language independent</keyword>
-    <keyword>Abstract data manipulation</keyword>
     <abstract>Withdrawn Standard. Withdrawn Date: Mar 06, 2000. No longer endorsed by the IEEE. Test methods for measuring conformance to IEEE Std 1224-1993, which defines a general purpose OSI Abstract Data Manipulation (OM) Application Programming Interface (API) in terms that are independent of any particular programming language, are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1993.119659"/>
 </reference>

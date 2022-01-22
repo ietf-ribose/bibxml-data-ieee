@@ -1,19 +1,11 @@
 <reference anchor="IEEE.211.1990" target="https://ieeexplore.ieee.org/document/159314">
   <front>
     <title>IEEE Standard Definitions of Terms for Radio Wave Propagation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101057"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Terminology</keyword>
-    <keyword>Radio propagation</keyword>
-    <keyword>Standards</keyword>
-    <keyword>glossary</keyword>
-    <keyword>terminology</keyword>
-    <keyword>definitions</keyword>
-    <keyword>dictionary</keyword>
-    <keyword>Radio Wave Propagation</keyword>
     <abstract>Terms and definitions used in the context of electromagnetic wave propagation relating to the fields of telecommunications, remote sensing, radio astronomy, optical waves, plasma waves, the ionosphere, the magnetosphere, and magnetohydrodynamic, acoustic, and electrostatic waves are supplied.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101057"/>
 </reference>

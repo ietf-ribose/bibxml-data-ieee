@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1656.2010" target="https://ieeexplore.ieee.org/document/5722090">
   <front>
     <title>IEEE Guide for Testing the Electrical, Mechanical, and Durability Performance of Wildlife Protective Devices on Overhead Power Distribution Systems Rated up to 38 kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5722090"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2022" month="January" day="6"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Wildlife</keyword>
-    <keyword>Power overhead lines</keyword>
-    <keyword>Power system restoration</keyword>
-    <keyword>Hazards</keyword>
-    <keyword>tests for wildlife protective products</keyword>
-    <keyword>wildlife deterrent</keyword>
-    <keyword>wildlife guard</keyword>
-    <keyword>wildlife protective product</keyword>
     <abstract>This guide is applicable to wildlife protective products installed on overhead electrical distribution systems rated up to and including 38 kV. Test recommendations regarding these products that are in direct contact or in the proximity of energized parts and conductors are provided in this guide.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5722090"/>
 </reference>

@@ -1,24 +1,11 @@
 <reference anchor="IEEE.C37-99.1990" target="https://ieeexplore.ieee.org/document/159286">
   <front>
     <title>IEEE Guide for the Protection of Shunt Capacitor Banks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101053"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Power capacitors</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Protective relaying</keyword>
-    <keyword>Substations</keyword>
-    <keyword>bank connections</keyword>
-    <keyword>bus voltage</keyword>
-    <keyword>capacitor units</keyword>
-    <keyword>equipment</keyword>
-    <keyword>protection of banks</keyword>
-    <keyword>Y-banks</keyword>
-    <keyword>relaying methods</keyword>
-    <keyword>Equipment considerations</keyword>
-    <keyword>Delta-connected banks</keyword>
     <abstract>Superseded by C37.99-2000. This standard assists in the effective application of relays and other devices for the protection of shunt capacitors used in substations. It covers the protective considerations, along with recommended and alternate methods of protection for the most commonly used capacitor bank configurations. Capacitor bank design tradeoffs are also discussed. This guide covers protection of filter tanks and very large EHV capacitor banks, but does not include a discussion of pole-mounted capacitor banks on distribution circuits or application of capacitors connected to rotating apparatus.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101053"/>
 </reference>

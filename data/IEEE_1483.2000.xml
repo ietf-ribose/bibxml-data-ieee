@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1483.2000" target="https://ieeexplore.ieee.org/document/836391">
   <front>
     <title>IEEE Standard for Verification of Vital Functions in Processor-Based Systems Used in Rail Transit Control</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91307"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="14"/>
-    <keyword>Traffic control (transportation)</keyword>
-    <keyword>rail</keyword>
-    <keyword>safety</keyword>
-    <keyword>safety critical</keyword>
-    <keyword>software</keyword>
-    <keyword>transit</keyword>
-    <keyword>verification</keyword>
-    <keyword>vital</keyword>
     <abstract>A set of standard verification tasks for processor-based equipment used in safety-critical applications on rail and transit systems is covered. This standard also covers processes that verify the level of safety achieved in the implementation of safety-critical functions that are required to be fail-safe. Quality assurance or validation processes that affect the overall level of system safety are not covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91307"/>
 </reference>

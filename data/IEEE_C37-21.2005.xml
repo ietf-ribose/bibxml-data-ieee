@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-21.2005" target="https://ieeexplore.ieee.org/document/1556466">
   <front>
     <title>IEEE Standard for Control Switchboards</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97971"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2017" month="June" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Switches</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Switching circuits</keyword>
-    <keyword>control switchboard</keyword>
-    <keyword>vertical switchboard</keyword>
-    <keyword>dead-front switchboard</keyword>
-    <keyword>enclosed switchboard</keyword>
-    <keyword>dual switchboard</keyword>
-    <keyword>duplex switchboard</keyword>
-    <keyword>control desk</keyword>
-    <keyword>console</keyword>
-    <keyword>benchboard</keyword>
-    <keyword>dual or duplex benchboard</keyword>
-    <keyword>fixed rack cabinet</keyword>
-    <keyword>or swing rack cabinet</keyword>
     <abstract>This standard covers ratings, construction, and testing of dead-front control switchboards containing but not limited to devices such as switches, control devices, instrumentation, metering, monitoring, alarms, annunciators, protective and auxiliary relays, and regulating devices and accessories. It includes, but is not specifically limited to, switchboards for the control and protection of apparatus used for or associated with power generation, conversion, transmission, and distribution. Types of switchboards may include control, vertical, dead-front, enclosed, dual, or duplex switchboards. Other construction types include control desks, consoles, benchboards, dual or duplex benchboards, fixed rack, cabinet, and swing rack cabinets. It does not apply to industrial controls, communication equipment, switchboards for use on board ships, or Class 1E switchboards for use in nuclear generating stations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97971"/>
 </reference>

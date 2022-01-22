@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1560.2005" target="https://ieeexplore.ieee.org/document/1602705">
   <front>
     <title>IEEE Standard for Methods of Measurement of Radio Frequency Power Line Interference Filter in the Range of 100 Hz to 10 GHz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99105"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="3"/>
-    <keyword>attenuation measurements</keyword>
-    <keyword>crest factor</keyword>
-    <keyword>dB</keyword>
-    <keyword>electromagnetic interference power-linefilters</keyword>
-    <keyword>EMI/RFI filters</keyword>
-    <keyword>insertion loss</keyword>
-    <keyword>LISN</keyword>
-    <keyword>no-load insertion loss</keyword>
-    <keyword>nonlinear load</keyword>
-    <keyword>radio-frequencycurrent injection</keyword>
-    <keyword>S-parameters</keyword>
     <abstract>Uniform methods of measurements of radio-frequency power-line interference filterattenuation performance in the range of 100 Hz to 10 GHz are set forth. Nonloaded and loaded attenuation measurements are presented with varying source impedance, including radiofrequency current injection with linear and nonlinear load impedances. H- and S-parameter measurements are introduced for modeling results. New methods for placing filter performance criteria on a filter label are also included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.99105"/>
 </reference>

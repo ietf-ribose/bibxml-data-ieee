@@ -1,7 +1,6 @@
 <reference anchor="IEEE.535.2006" target="https://ieeexplore.ieee.org/document/7027731">
   <front>
     <title>IEEE Standard for Qualification of Class 1E Lead Storage Batteries for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.7027731"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2015" month="January" day="30"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Lead batteries</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Seismic measurements</keyword>
-    <keyword>battery</keyword>
-    <keyword>battery aging</keyword>
-    <keyword>battery qualification</keyword>
-    <keyword>battery qualification methods</keyword>
-    <keyword>battery seismic testing</keyword>
-    <keyword>Class 1E battery</keyword>
-    <keyword>qualification</keyword>
-    <keyword>vented lead acid battery</keyword>
     <abstract>Qualification methods for Class 1E vented lead acid batteries and racks to be used in nuclear power generating stations outside primary containment are described in this standard. Remarks: Revision of EEE 535-1986</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.7027731"/>
 </reference>

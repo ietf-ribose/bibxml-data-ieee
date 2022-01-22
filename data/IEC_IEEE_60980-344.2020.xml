@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.60980-344.2020" target="https://ieeexplore.ieee.org/document/9231295">
   <front>
     <title>IEEE/IEC International Standard - Nuclear facilities - Equipment important to safety - Seismic qualification</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9231295"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,6 @@
       </address>
     </author>
     <date year="2020" month="October" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Seismic measurements</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Power system reliability</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9231295"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1671-2.2012" target="https://ieeexplore.ieee.org/document/6461897">
   <front>
     <title>IEEE Standard for Automatic Test Markup Language (ATML) Instrument Description</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6461897"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,20 +10,7 @@
       </address>
     </author>
     <date year="2013" month="February" day="14"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Instrumentation</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>ATML instance document</keyword>
-    <keyword>ATS</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>automatic test system</keyword>
-    <keyword>IEEE 1671.2</keyword>
-    <keyword>instrument</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>synthetic instrument</keyword>
-    <keyword>XML schema</keyword>
     <abstract>An exchange format is specified in this standard, using extensible markup language (XML), for identifying instrumentation that may be integrated in an automatic test system (ATS) that is to be used to test and diagnose a unit under test (UUT).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6461897"/>
 </reference>

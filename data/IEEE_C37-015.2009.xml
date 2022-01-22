@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-015.2009" target="https://ieeexplore.ieee.org/document/5415871">
   <front>
     <title>IEEE Guide for the Application of Shunt Reactor Switching</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5415871"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,16 +10,7 @@
       </address>
     </author>
     <date year="2013" month="October" day="9"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Shunt (electrical)</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>C37.015-2009</keyword>
-    <keyword>ac high voltage circuit breakers</keyword>
-    <keyword>application</keyword>
-    <keyword>inductive load switching</keyword>
-    <keyword>overvoltages</keyword>
-    <keyword>shunt reactor switching</keyword>
-    <keyword>small inductive currents</keyword>
     <abstract>Guidance for the application of ac high-voltage circuit breakers for shunt reactor switching is provided. Overvoltage generation for the three cases of shunt reactors being directly grounded, ungrounded, or grounded through a neutral reactor is addressed in terms of derivation and limitation methods. Circuit breaker specification for the purpose and the use of laboratory test results to predict field performance is also covered by this guide.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5415871"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1829.2017" target="https://ieeexplore.ieee.org/document/7891097">
   <front>
     <title>IEEE Guide for Conducting Corona Tests on Hardware for Overhead Transmission Lines and Substations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7891097"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2017" month="March" day="31"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Corona</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Visualization</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Substations</keyword>
-    <keyword>corona</keyword>
-    <keyword>hardware</keyword>
-    <keyword>IEEE Std 1829(TM)</keyword>
-    <keyword>RIV</keyword>
-    <keyword>testing</keyword>
-    <keyword>visual corona</keyword>
     <abstract>Uniform procedures for the testing of transmission line and station bus hardware in high voltage laboratories are established in this guide. Two tests are described: the first is a visual corona test, the second is a radio interference voltage (RIV) test. This guide does not address the permissible radio interference (RI) limits or specified corona extinction voltages. They are set either by regulation or by agreement between the utility and hardware manufacturer.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7891097"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1017.1991" target="https://ieeexplore.ieee.org/document/182796">
   <front>
     <title>IEEE Recommended Practice for Field Testing Electric Submersible Pump Cable</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106967"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="25"/>
-    <keyword>Maintenance</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Pumps</keyword>
-    <keyword>conductors</keyword>
-    <keyword>Cable ampacity</keyword>
     <abstract>Withdrawn Standard. Withdrawn Date: Dec 09, 1997. No longer endorsed by the IEEE. Revision of IEEE Std 1017-1985 Procedures and test-voltage values for acceptance and maintenance testing of electrical submersible pump (ESP) cable systems are presented. This recommended practice applies to cable systems rated 3000 V and 5000 V and is intended only for this special-purpose cable. The intent is to provide uniform test procedures an guidelines for evaluation of the test results.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.106967"/>
 </reference>

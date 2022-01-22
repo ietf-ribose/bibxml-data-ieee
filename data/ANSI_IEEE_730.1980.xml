@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.730.1980" target="https://ieeexplore.ieee.org/document/7435195">
   <front>
     <title>IEEE Trial Use Standard for Software Quality Assurance Plans</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7435195"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Quality assurance</keyword>
-    <keyword>Software assurance</keyword>
-    <keyword>Planning</keyword>
     <abstract>The following topics are dealt with: IEEE trial-use standard; software quality assurance plan; ANSI Std 730 and ANSI/IEEE Std 730.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.7435195"/>
 </reference>

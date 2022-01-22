@@ -1,7 +1,6 @@
 <reference anchor="IEEE.15288-2.2014" target="https://ieeexplore.ieee.org/document/7105321">
   <front>
     <title>IEEE Standard for Technical Reviews and Audits on Defense Programs</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7105321"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,34 +11,7 @@
       </address>
     </author>
     <date year="2015" month="May" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>US Deparment of Defense</keyword>
-    <keyword>Design methodology</keyword>
-    <keyword>Network architecture</keyword>
-    <keyword>Product life cylce management</keyword>
-    <keyword>Product management</keyword>
-    <keyword>Auditing</keyword>
-    <keyword>15288</keyword>
-    <keyword>acquirer-supplier agreement</keyword>
-    <keyword>alternative systems review</keyword>
-    <keyword>critical design review</keyword>
-    <keyword>defense acquisition program</keyword>
-    <keyword>defense acquisition program life cycle</keyword>
-    <keyword>flight readiness review</keyword>
-    <keyword>functional configuration audit</keyword>
-    <keyword>IEEE 15288.2(TM)</keyword>
-    <keyword>integration readiness review</keyword>
-    <keyword>physical configuration audit</keyword>
-    <keyword>preliminary design review</keyword>
-    <keyword>production readiness review</keyword>
-    <keyword>software requirements and architecture review</keyword>
-    <keyword>software specification review</keyword>
-    <keyword>system functional review</keyword>
-    <keyword>system requirements review</keyword>
-    <keyword>system verification review</keyword>
-    <keyword>technical audit</keyword>
-    <keyword>technical review</keyword>
-    <keyword>test readiness review</keyword>
     <abstract>The requirements for technical reviews and audits to be performed throughout the acquisition life cycle for the US Department of Defense (DoD) and other defense agencies are established in this standard. This standard provides the definition, description, and intent, as well as the entry/exit/success criteria, for each technical review and audit. It is to be used to establish agreement between acquirers and suppliers on the technical reviews and audits that are neededfor the project, as well as the focus and expectations of each.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7105321"/>
 </reference>

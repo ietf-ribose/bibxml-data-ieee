@@ -1,24 +1,11 @@
 <reference anchor="IEEE.1018.2004" target="https://ieeexplore.ieee.org/document/1425766">
   <front>
     <title>IEEE Recommended Practice for Specifying Electric Submersible Pump Cable - Ethylene-Propylene Rubber Insulation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95935"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="April" day="25"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power cable testing</keyword>
-    <keyword>Power cable insulation</keyword>
-    <keyword>Ethylene-propylene rubber</keyword>
-    <keyword>Pumps</keyword>
-    <keyword>Petroleum industry</keyword>
-    <keyword>Insulation testing</keyword>
-    <keyword>ampacity ratings</keyword>
-    <keyword>assembly</keyword>
-    <keyword>cable construction</keyword>
-    <keyword>cable testing</keyword>
-    <keyword>field testing</keyword>
-    <keyword>submersible pump cable</keyword>
     <abstract>Minimum requirements for the construction, manufacturing, purchasing, and application of electric submersible pump cable are presented. The cable is round or flat, with ethylene– propylene rubber insulation, nitrile jacket, ethylene–propylene diene monomer (EPDM) jacket or lead sheath, and armor. These cables are for voltages not exceeding 3 kV or 5 kV (phase to phase) and conductor temperatures not exceeding 140 ºC (284 ºF) for nitrile or a maximum of 204 ºC (400 ºF) for EPDM jacket or lead sheath cable. Conductors, insulation, barrier (optional), assembly and jacket, armor, requirements for testing by the manufacturer, and cable ampacity are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95935"/>
 </reference>

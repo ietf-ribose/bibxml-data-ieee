@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11ac.2013" target="https://ieeexplore.ieee.org/document/6687187">
   <front>
     <title>IEEE Standard for Information technology-- Telecommunications and information exchange between systemsLocal and metropolitan area networks-- Specific requirements--Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications--Amendment 4: Enhancements for Very High Throughput for Operation in Bands below 6 GHz.</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6687187"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,22 +10,7 @@
       </address>
     </author>
     <date year="2013" month="December" day="18"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>IEEE 802.11 standards</keyword>
-    <keyword>Array signal processing</keyword>
-    <keyword>MIMO</keyword>
-    <keyword>Bandwidth allocation</keyword>
-    <keyword>Throughput</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>256-QAM</keyword>
-    <keyword>beamforming</keyword>
-    <keyword>IEEE 802.11ac(TM)</keyword>
-    <keyword>multi-user MIMO</keyword>
-    <keyword>noncontiguous frequency segments</keyword>
-    <keyword>very high throughput</keyword>
-    <keyword>wider bandwidth</keyword>
     <abstract>The purpose of this amendment is to improve the IEEE 802.11 wireless local area network (WLAN) user experience by providing significantly higher basic service set (BSS) throughput for existing WLAN application areas and to enable new market segments for operation below 6 GHz including distribution of multiple multimedia/data streams.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6687187"/>
 </reference>

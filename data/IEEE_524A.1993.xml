@@ -1,7 +1,6 @@
 <reference anchor="IEEE.524a.1993" target="https://ieeexplore.ieee.org/document/395210">
   <front>
     <title>IEEE Guide to Grounding During the Installation of Overhead Transmission Line Conductors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121457"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="12"/>
-    <keyword>Grounding</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Magnetic fields</keyword>
-    <keyword>Electric fields</keyword>
-    <keyword>conductor stringing</keyword>
-    <keyword>grounding equipment</keyword>
-    <keyword>grounding practices</keyword>
-    <keyword>overhead transmision</keyword>
-    <keyword>line conductors</keyword>
-    <keyword>protective grounding</keyword>
     <abstract>General recommendations for the selection of methods and equipment found to be effective and practical for grounding during the stringing of overhead trasmission line conductors and overhead ground wires are provided. The guide is directed to transmission voltages only. The aim is to present in one document sufficient details of present day grounding practices and equipment used in effective grounding and to provide electrical theory and considerations necessary to safeguard personnel during the stringing operations of transmission lines.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121457"/>
 </reference>

@@ -9,17 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>LANs</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>Bridged Local Area Networks</keyword>
-    <keyword>virtual LANs</keyword>
-    <keyword>Virtual Bridged Local Area Networks</keyword>
-    <keyword>Provider Bridged Local Area Networks</keyword>
-    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
-    <keyword>Multiple Registration Protocol (MRP)</keyword>
-    <keyword>Multiple VLAN Registration Protocol (MVRP).</keyword>
     <abstract>This amendment defines an architecture and bridge protocols for interconnection of multiple Provider Bridged Networks, allowing a Provider to support up to 224 service instances.</abstract>
   </front>
 </reference>

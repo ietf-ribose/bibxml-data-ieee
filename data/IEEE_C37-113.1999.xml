@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-113.1999" target="https://ieeexplore.ieee.org/document/827748">
   <front>
     <title>IEEE Guide for Protective Relay Applications to Transmission Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91147"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2016" month="June" day="21"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>protective relaying</keyword>
-    <keyword>relay application</keyword>
-    <keyword>relaying</keyword>
-    <keyword>transmission line protection</keyword>
     <abstract>This newly developed guide compiles information on the application considerations ofprotective relays to ac transmission lines. The guide describes accepted transmission lineprotection schemes and the different electrical system parameters and situations that affect theirapplication. Its purpose is to provide a reference for the selection of relay schemes and to assistless experienced protective relaying engineers in their application.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.91147"/>
 </reference>

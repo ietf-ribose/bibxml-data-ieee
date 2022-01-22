@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1609-4.2006" target="https://ieeexplore.ieee.org/document/4025692">
   <front>
     <title>IEEE Trial-Use Standard for Wireless Access in Vehicular Environments (WAVE) - Multi-Channel Operation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.254109"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2012" month="July" day="4"/>
-    <keyword>Wireless Access in Vehicular Environments</keyword>
-    <keyword>Vehicular and wireless technologies</keyword>
-    <keyword>Intelligent transportation systems</keyword>
-    <keyword>IEEE 802.11 Standard</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>channel coordination</keyword>
-    <keyword>multi-channel operation</keyword>
-    <keyword>OBU</keyword>
-    <keyword>RSU</keyword>
-    <keyword>user priority</keyword>
-    <keyword>WAVE</keyword>
-    <keyword>1609</keyword>
-    <keyword>wireless access in vehicular environments</keyword>
     <abstract>Multi-channel operation is an extension to the IEEE 802.11 WAVE mode that describes how to support a multi-channel system with the IEEE 802.11 medium access control (MAC) and physical layers (PHYs) via a control channel (CCH) and multiple service channels (SCHs). Specifically, the multi-channel operation (channel coordination) provides mechanisms for prioritized access, channel routing and coordination, and data transmission.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2006.254109"/>
 </reference>

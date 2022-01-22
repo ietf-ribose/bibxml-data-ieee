@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-104.2019" target="https://ieeexplore.ieee.org/document/8890040">
   <front>
     <title>IEEE Guide for the Interpretation of Gases Generated in Mineral Oil-Immersed Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8890040"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="November" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Gas insulation</keyword>
-    <keyword>Oil insulation</keyword>
-    <keyword>Mineral oil</keyword>
-    <keyword>DGA</keyword>
-    <keyword>gas analysis</keyword>
-    <keyword>IEEE C57.104</keyword>
-    <keyword>mineral oil</keyword>
-    <keyword>mineral oil-immersed transformers</keyword>
-    <keyword>transformers</keyword>
     <abstract>Detailed procedures for interpreting Dissolved Gas Analysis results are described in this guide. The document details: 1) Overview of gas generation in transformer and DGA process; 2) The purpose and application of DGA; 3) DGA quality verification and DGA limitations; 4) DGA interpretation and norms; 5) Fault type definitions and identification; 6) Case studies and interpretation example. The intent is to provide the operator with useful information concerning the serviceability of the equipment. An extensive bibliography on gas evolution, detection, and interpretation is included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8890040"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.7000.2021" target="https://ieeexplore.ieee.org/document/9536679">
   <front>
     <title>IEEE Standard Model Process for Addressing Ethical Concerns during System Design</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9536679"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2021" month="September" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Ethics</keyword>
-    <keyword>System analysis and design</keyword>
-    <keyword>Stakeholders</keyword>
-    <keyword>Engineering management</keyword>
-    <keyword>Process control</keyword>
-    <keyword>Operations research</keyword>
-    <keyword>case for ethics</keyword>
-    <keyword>concept of operations</keyword>
-    <keyword>ethical value requirements</keyword>
-    <keyword>ethical values elicitation</keyword>
-    <keyword>ethically aligned design</keyword>
-    <keyword>IEEE 7000&amp;#8482;</keyword>
-    <keyword>software engineering</keyword>
-    <keyword>system engineering</keyword>
-    <keyword>value-based requirements</keyword>
-    <keyword>value prioritization</keyword>
     <abstract>A set of processes by which organizations can include consideration of ethical values throughout the stages of concept exploration and development is established by this standard. Management and engineering in transparent communication with selected stakeholders for ethical values elicitation and prioritization is supported by this standard, involving traceability of ethical values through an operational concept, value propositions, and value dispositions in the system design. Processes that provide for traceability of ethical values in the concept of operations, ethical requirements, and ethical risk-based design are described in the standard. All sizes and types of organizations using their own life cycle models are relevant to this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9536679"/>
 </reference>

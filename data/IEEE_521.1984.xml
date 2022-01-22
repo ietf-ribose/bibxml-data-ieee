@@ -1,7 +1,6 @@
 <reference anchor="IEEE.521.1984" target="https://ieeexplore.ieee.org/document/29086">
   <front>
     <title>IEEE Standard Letter Designations for Radar-Frequency Bands</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81588"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="20"/>
-    <keyword>Terminology</keyword>
-    <keyword>Radar</keyword>
-    <keyword>Standards</keyword>
-    <keyword>radar-frequency</keyword>
-    <keyword>radar</keyword>
     <abstract>Since World War II, radar systems engineers have used letter designations as a short notation for describing the frequency band of operation. This usage has continued throughout the years and is now an accepted practice of radar engineers. Radar-frequency letter designations are used for given reasons. The radar letter designations are consistent with the recommended nomenclature of the International Telecommunications Union (ITU). The high frequency (HF) and the very high frequency (VHF) definitions are identical in the two systems. The essence of the radar nomenclature is to subdivide the existing ITU bands, in accordance with radar practice, without conflict or ambiguity.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1984.81588"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.603.2018" target="https://ieeexplore.ieee.org/document/8573235">
   <front>
     <title>IEEE Standard Criteria for Safety Systems for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8573235"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2018" month="December" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Sensors</keyword>
-    <keyword>Radiation safety</keyword>
-    <keyword>Occupational safety</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>associated circuits</keyword>
-    <keyword>Class 1E</keyword>
-    <keyword>design</keyword>
-    <keyword>IEEE 603(TM)</keyword>
-    <keyword>failure</keyword>
-    <keyword>maintenance bypass</keyword>
-    <keyword>operating bypass</keyword>
-    <keyword>safety function</keyword>
-    <keyword>sense and command features</keyword>
-    <keyword>sensor</keyword>
     <abstract>Minimum functional and design criteria for the power, instrumentation, and control portions of nuclear power generating station safety systems are established. The criteria are to be applied to those systems required to protect the public health and safety by functioning to mitigate the consequences of design basis events. The intent is to promote appropriate practices for design and evaluation of safety system performance and reliability. Although the standard is limited to safety systems, many of the principles may have applicability to equipment provided for safe shutdown, post-accident monitoring display instrumentation, interlock features, or any other systems, structures, or equipment related to safety.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8573235"/>
 </reference>

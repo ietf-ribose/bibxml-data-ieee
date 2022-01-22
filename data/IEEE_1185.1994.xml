@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1185.1994" target="https://ieeexplore.ieee.org/document/392571">
   <front>
     <title>IEEE Guide for Installation Methods for Generating Station Cables</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121435"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Ducts</keyword>
-    <keyword>installation</keyword>
-    <keyword>generating</keyword>
-    <keyword>station</keyword>
-    <keyword>cables</keyword>
-    <keyword>cable pullback</keyword>
-    <keyword>cable pullby</keyword>
-    <keyword>cable pulling tension limiting</keyword>
-    <keyword>Pull rope selection criteria</keyword>
-    <keyword>Pull rope attachment methods</keyword>
-    <keyword>Conduit-cable pulling charts</keyword>
-    <keyword>Cable lubrication techniques</keyword>
     <abstract>Installation methods to improve cable installation practices in generating stations are provided. These include cable lubrication methods, conduit-cable pulling charts, pull rope selection criteria, pulling attachment methods, and alternative methods to traditional cable pulling tension monitoring. This guide supplements IEEE Std 422-1986 and IEEE Std 690-1984, which provide specific cable installation limits. This guide may also be of benefit to cable pulling crews in commercial and industrial facilities when similar cable types and raceways are used.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.121435"/>
 </reference>

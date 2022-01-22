@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.488.1978" target="https://ieeexplore.ieee.org/document/7425098">
   <front>
     <title>IEEE Standard Digital Interface for Programmable Instrumentation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.7425098"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Digital systems</keyword>
-    <keyword>Programming</keyword>
-    <keyword>Computer programs</keyword>
     <abstract>The IEEE Std 488-1978, IEEE Standard Digital Interface for Programmable Instrumentation, deals with systems that use a byte-serial bit-parallel means to transfer digital data among a group of instruments and system components. The interface system described herein is optimized as an interdevice interface for system components in relatively close proximity able to communicate over a contiguous party-line bus system. This document contains seven sections as follows. Section 1 contains the scope, the object, basic definitions, and summary description of the interface. Section 2 deals with functional concepts and specifications of the interface system described in this standard. One or more interface functions contained within a device are each able to process messages and change states to maintain an orderly flow of information among a set of interconnected devices. Section 3 deals with the electrical realization of the interface in order to transfer messages among a set of interconnected devices. Section 4 deals with the mechanical realization of the interface in order to implement the electrical aspects of the interface system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.7425098"/>
 </reference>

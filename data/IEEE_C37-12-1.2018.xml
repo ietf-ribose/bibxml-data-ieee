@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-12-1.2018" target="https://ieeexplore.ieee.org/document/8691888">
   <front>
     <title>IEEE Recommended Practice for Instruction Manual Content of AC High-Voltage Circuit Breakers above 1000 V</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8691888"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,19 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="15"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>AC machines</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Guidelines</keyword>
-    <keyword>circuit breaker</keyword>
-    <keyword>disposal</keyword>
-    <keyword>installation</keyword>
-    <keyword>IEEE C37.12.1(TM)</keyword>
-    <keyword>instruction manual</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>operation</keyword>
     <abstract>This recommended practice is intended to identify, organize, and summarize information about ac high-voltage circuit breakers provided by the manufacturer that knowledgeable users will find useful for the receipt, installation, commissioning, operation and maintenance, and decommissioning of ac high-voltage circuit breakers above 1000 V. Recommended categories and an arrangement for the presentation of information in circuit breaker instruction manuals is covered in this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8691888"/>
 </reference>

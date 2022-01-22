@@ -1,7 +1,6 @@
 <reference anchor="AIEE.33.1927" target="https://ieeexplore.ieee.org/document/7407555">
   <front>
     <title>AIEE Standards - Electrical Measuring Instruments</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1927.7407555"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,9 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="16"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Instrumentation and measurement</keyword>
-    <keyword>Electrical equipment</keyword>
     <abstract>The standards in this section apply to the following kinds of indicating electrical instruments for direct current and for alternating current: (1) ammeters (2) voltmeters (3) wattmeters (4) reactive volt-ampere meters (5) frequency meters (6) power-factor, reactive-factor and phase-angle meters (7) synchroscopes. These standards are not intended to apply to indicating instruments provided with arrangements for curve drawing, contact making, etc. They do not apply to the following kinds of instruments: (a) small instruments of types and sizes which are used where low cost is essential; for example, small polarized-vane ammeters used on automobiles, battery-charging outfits, etc. (b) instruments constructed for very special requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1927.7407555"/>
 </reference>

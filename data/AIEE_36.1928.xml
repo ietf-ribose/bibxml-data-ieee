@@ -1,7 +1,6 @@
 <reference anchor="AIEE.36.1928" target="https://ieeexplore.ieee.org/document/7409882">
   <front>
     <title>AIEE Storage Batteries (Revised)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1928.7409882"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="17"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Batteries</keyword>
-    <keyword>Storage batteries</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>Nickel cadmium batteries</keyword>
     <abstract>The standards in this section apply to storage batteries of the lead-acid type and of the nickeliron alkaline type. They are suitable for large and small batteries in either stationary or portable service.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1928.7409882"/>
 </reference>

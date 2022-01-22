@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C37-53-1.1989" target="https://ieeexplore.ieee.org/document/1389208">
   <front>
     <title>American National Standard High-Voltage Current-Limiting Motor-Starter Fuses -- Conference Test Procedures</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.95631"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -14,4 +13,5 @@
     <date year="2017" month="April" day="5"/>
     <abstract>These tests shall be used to demonstrate that the motor-starter fuses being tested conform with the specified ratings and characteristics. The standard is designed to cover a product that can be used with Class E2 controllers (fused) as described in Table 27.1 and elsewhere in the American National Standard Safety Standard for High Voltage Industrial Control Equipment, ANSI/UL 347-1985.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.95631"/>
 </reference>

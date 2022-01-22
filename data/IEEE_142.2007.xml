@@ -1,7 +1,6 @@
 <reference anchor="IEEE.142.2007" target="https://ieeexplore.ieee.org/document/4396963">
   <front>
     <title>IEEE Recommended Practice for Grounding of Industrial and Commercial Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4396963"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="8"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>Industrial power systems</keyword>
-    <keyword>connection to earth</keyword>
-    <keyword>electronic equipment grounding</keyword>
-    <keyword>equipment grounding</keyword>
-    <keyword>lightning protection</keyword>
-    <keyword>static protection</keyword>
-    <keyword>system grounding</keyword>
     <abstract>The problems of system grounding, that is, connection to ground of neutral, of the corner of the delta, or of the midtap of one phase, are covered. The advantages and disadvantages of grounded vs. ungrounded systems are discussed. Information is given on how to ground the system, where the system should be grounded, and how to select equipment for the ground of the neutral circuits. Connecting the frames and enclosures of electric apparatus, such as motors, switchgear, transformers, buses, cables, conduits, building frames, and portable equipment, to a ground system is addressed. The fundamentals of making the interconnection of a ground conductor system between electric equipment and the ground rods, water pipes, etc., are outlined. The problems of static electricity-how it is generated, what processes may produce it, how it is measured, and what should be done to prevent its generation or to drain the static charges to earth to prevent sparking-are treated. Methods of protecting structures against the effects of lightning are also covered. Obtaining a low-resistance connection to earth, use of ground rods, connections to water pipes, etc., are discussed. A separate chapter on electronic equipment is included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4396963"/>
 </reference>

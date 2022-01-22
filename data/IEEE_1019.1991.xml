@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1019.1991" target="https://ieeexplore.ieee.org/document/573280">
   <front>
     <title>IEEE Recommended Practice for Specifying Electric Submersible Pump Cable - Polypropylene Insulation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.81703"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2013" month="April" day="30"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Pumps</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Underwater cables</keyword>
-    <keyword>testing</keyword>
-    <keyword>Cable construction</keyword>
-    <keyword>Ampacity ratings</keyword>
     <abstract>Minimum requirements for the construction, manufacturing, purchasing, and application of electric submersible pump (ESP) cable are presented. The cable is round or flat, with ethylene-propylene rubber insulation, nitrile jacket and armor. The recommendations apply to cables rated for voltages not exceeding 3 kV or 5 kV and for ambient temperatures not exceeding 205 degrees Fahrenheit or below 14 degrees Fahrenheit. Conductors, insulation, assembly, jacket, armor, requirements for testing by the manufacturer, and cable ampacity ratings are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.81703"/>
 </reference>

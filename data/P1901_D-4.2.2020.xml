@@ -5,33 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2020" month="June" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Broadband communication</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Access control</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>access devices</keyword>
-    <keyword>adaptive power management</keyword>
-    <keyword>broadband over power lines (BPLs)</keyword>
-    <keyword>coexistence protocol (CXP)</keyword>
-    <keyword>convolutional turbo code</keyword>
-    <keyword>cosine modulated filter banks</keyword>
-    <keyword>extended ISP (E-ISP)</keyword>
-    <keyword>fast Fourier transform orthogonal frequency division multiplexing (FFT OFDM)</keyword>
-    <keyword>flexible channel wavelet (FCW) PHY/MAC</keyword>
-    <keyword>IEEE 1901&amp;#8482;</keyword>
-    <keyword>in-home devices</keyword>
-    <keyword>Internet of Things (IoT)</keyword>
-    <keyword>intersystem protocol (ISP)</keyword>
-    <keyword>low-density parity check code (LDPC)</keyword>
-    <keyword>medium access control (MAC)</keyword>
-    <keyword>power line communication (PLC)</keyword>
-    <keyword>physical layer (PHY)</keyword>
-    <keyword>privacy</keyword>
-    <keyword>quality of service (QoS)</keyword>
-    <keyword>security</keyword>
-    <keyword>sine modulated filter banks</keyword>
-    <keyword>wavelet orthogonal frequency division multiplexing (wavelet OFDM)</keyword>
     <abstract>Physical (PHY) and media access control (MAC) layers of a broadband powerline communication technology for local area networks (LANs), Smart Energy, Smart Grid, Internet of Things, transportation platforms (vehicle) applications, and other data distribution are defined in this standard. The balanced and efficient use of the power line communications channel by all classes of BPL devices is the main focus of this standard, defining detailed mechanisms for coexistence and interoperability between different BPL devices, and ensuring that desired bandwidth and quality of service may be delivered. The necessary security questions are addressed to ensure the privacy of communications between users and to allow the use of BPL for security sensitive services.</abstract>
   </front>
 </reference>

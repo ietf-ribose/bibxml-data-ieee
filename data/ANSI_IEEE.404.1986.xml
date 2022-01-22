@@ -1,12 +1,10 @@
 <reference anchor="ANSI/IEEE.404.1986" target="https://ieeexplore.ieee.org/document/29111">
   <front>
     <title>IEEE Standard for Cable Joints for Use With Extruded Dielectric Cable Rated 5000 V Through 46 000 V and Cable Joints for Use With Laminated Dielectric Cable Rated 2500 V Through 500 000 V</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81602"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
-    <keyword>Power cables</keyword>
-    <keyword>Standards</keyword>
     <abstract>To assure that the performance of the cable joint will equal the performance of the cable it joins electrical ratings and test requirements are established for cable joints. These are applicable to cable joints for use with extruded dielectric shielded cable rated in preferred voltage steps from 5000 V through 46000 V and cable joints for use with laminated dielectric cable rated in preferred voltage steps from 2500 V through 500000 V.&lt;<etx>&gt;</etx></abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.81602"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-100b.1986" target="https://ieeexplore.ieee.org/document/8684495">
   <front>
     <title>IEEE Standard Definitions for TRV Terms</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.8684495"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>C37.100b</keyword>
-    <keyword>transient recovery voltage</keyword>
-    <keyword>TRV</keyword>
     <abstract>Supplement to ANSI/IEEE C37.100-1981</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1986.8684495"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-20-10.2016" target="https://ieeexplore.ieee.org/document/7747731">
   <front>
     <title>IEEE Standard Definitions for AC (52 kV and below)and DC (3.2 kV and below) Switchgear Assemblies</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7747731"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2016" month="November" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Dictionaries</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Power conversion</keyword>
-    <keyword>definitions</keyword>
-    <keyword>IEEE C37.20.10&amp;#8482;</keyword>
-    <keyword>metal-enclosed bus</keyword>
-    <keyword>power circuit breakers</keyword>
-    <keyword>switchgear</keyword>
-    <keyword>terms</keyword>
     <abstract>Terms and definitions encompassing the products within the scope of ac (38 kV and below for air insulated equipment, 52 kV and below for gas insulated equipment) and dc (3.2 kV and below) power switchgear assemblies, including components for switching, interrupting, metering, protection, and regulating purposes as used primarily in connection with generation, transmission, distribution, and conversion of electric power are included in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7747731"/>
 </reference>

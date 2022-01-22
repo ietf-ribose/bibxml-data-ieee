@@ -11,35 +11,6 @@
       </address>
     </author>
     <date year="2018" month="July" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Video coding</keyword>
-    <keyword>UHF communication</keyword>
-    <keyword>Surveillance</keyword>
-    <keyword>IPTV</keyword>
-    <keyword>Internet</keyword>
-    <keyword>Encoding</keyword>
-    <keyword>coding unit</keyword>
-    <keyword>decoding</keyword>
-    <keyword>encoding</keyword>
-    <keyword>entropy coding</keyword>
-    <keyword>field</keyword>
-    <keyword>frame</keyword>
-    <keyword>IEEE 1857.4(TM)</keyword>
-    <keyword>image</keyword>
-    <keyword>inter prediction</keyword>
-    <keyword>Internet video</keyword>
-    <keyword>intra prediction</keyword>
-    <keyword>IPTV</keyword>
-    <keyword>picture</keyword>
-    <keyword>prediction block</keyword>
-    <keyword>prediction unit</keyword>
-    <keyword>quantization</keyword>
-    <keyword>slice</keyword>
-    <keyword>transform</keyword>
-    <keyword>transform block</keyword>
-    <keyword>UHDTV</keyword>
-    <keyword>ultra high definition</keyword>
-    <keyword>video surveillance</keyword>
     <abstract>A set of tools for efficient video coding, including directional intra prediction, variable block size inter prediction, context adaptive binary arithmetic coding, and the two corresponding decoding procedures, is defined in this standard. The target applications and services include, but are not limited to, UHDTV (ultra high definition TV), IP-based video surveillance, Internet video, IP-based video conference, IPTV, user-generated multimedia content, and other video/audio-enabled services and applications such as digital television broadcasting, digital storage media, and communication.</abstract>
   </front>
 </reference>

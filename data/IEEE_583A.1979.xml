@@ -1,7 +1,6 @@
 <reference anchor="IEEE.583A.1979" target="https://ieeexplore.ieee.org/document/7431924">
   <front>
     <title>IEEE Supplement to CAMAC IEEE Standards Documents</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7431924"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Serial Highway Interface System</keyword>
-    <keyword>Nuclear engineering</keyword>
-    <keyword>Digital interface systems</keyword>
-    <keyword>US Department of Energy</keyword>
     <abstract>In this supplement, reference is made to page numbers in the IEEE Standards and Department of Energy (DOE) reports. In general, these page numbers are different from those in the corresponding EUR, ESONE and IEC documents.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.7431924"/>
 </reference>

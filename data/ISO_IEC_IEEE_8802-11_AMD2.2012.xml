@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-11/Amd2.2012" target="https://ieeexplore.ieee.org/document/6774852">
   <front>
     <title>ISO/IEC/IEEE International Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications Amendment 2: MAC Enhancements for Robust Audio Video Streaming</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6774852"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2014" month="March" day="18"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>ISO standards</keyword>
-    <keyword>IEC standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Quality of service</keyword>
-    <keyword>Service level management</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Telecommunication services</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>audio</keyword>
-    <keyword>IEEE 802.11aa</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>video</keyword>
-    <keyword>wireless LAN</keyword>
     <abstract>This amendment specifies enhancements to the IEEE 802.11 medium access control (MAC) for robust audio video (AV) streaming, while maintaining coexistence with other types of traffic.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6774852"/>
 </reference>

@@ -1,17 +1,11 @@
 <reference anchor="IEEE.643.2013" target="https://ieeexplore.ieee.org/document/6712035">
   <front>
     <title>IEEE Guide for Power-Line Carrier Applications Corrigendum 1: Modal Analysis Power Equation Correction</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6712035"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2014" month="January" day="14"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Modal analysis</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>IEEE 643(TM)</keyword>
-    <keyword>modal analysis</keyword>
-    <keyword>power-line carrier</keyword>
     <abstract>Corrections to Equation 16, and Equation 18 through Equation 20 are addressed in this corrigendum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6712035"/>
 </reference>

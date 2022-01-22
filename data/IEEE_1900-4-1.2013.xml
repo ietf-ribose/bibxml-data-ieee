@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1900-4-1.2013" target="https://ieeexplore.ieee.org/document/6544530">
   <front>
     <title>IEEE Standard for Interfaces and Protocols Enabling Distributed Decision Making for Optimized Radio Resource Usage in Heterogeneous Wireless Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6544530"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="June" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Decision making</keyword>
-    <keyword>Optimization</keyword>
-    <keyword>Resource management</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>Radio spectrum management</keyword>
-    <keyword>distributed decision making</keyword>
-    <keyword>dynamic spectrum access</keyword>
-    <keyword>heterogeneous wireless networks</keyword>
-    <keyword>IEEE 1900.4TM</keyword>
-    <keyword>interface</keyword>
-    <keyword>protocol</keyword>
-    <keyword>radio resource usage optimization</keyword>
     <abstract>Interfaces and service access points defined in IEEE Std 1900.4™ are described in detail, enabling distributed decision making in heterogeneous wireless networks and obtaining context information for this decision making.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6544530"/>
 </reference>

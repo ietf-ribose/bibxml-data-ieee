@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-91.1995" target="https://ieeexplore.ieee.org/document/8684643">
   <front>
     <title>IEEE Guide for Loading Mineral-Oil-Immersed Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684643"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>distribution</keyword>
-    <keyword>transformer</keyword>
-    <keyword>loading</keyword>
-    <keyword>minerial oil</keyword>
-    <keyword>oil immersed</keyword>
-    <keyword>power transformer</keyword>
     <abstract>General recommendations for loading 65 C rise mineral-oil-immersed distribution and power transformers are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684643"/>
 </reference>

@@ -10,16 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Active circuits</keyword>
-    <keyword>Passive circuits</keyword>
-    <keyword>Signal processing</keyword>
-    <keyword>Integrated circuit testing</keyword>
-    <keyword>Integrated circuit layout</keyword>
-    <keyword>Boundary-scan-based stimulus methods</keyword>
-    <keyword>Passive components</keyword>
-    <keyword>Active components</keyword>
-    <keyword>Interconnections</keyword>
     <abstract>This standard specifies extensions to IEEE Std 1149.1 that define the boundary-scan structures and methods required to facilitate boundary-scan-based stimulus of interconnections to passive and/or active components. Such networks are not adequately addressed by existing standards, including those networks that are AC-coupled or differential. The selective AC stimulus generation enabled by this standard, when combined with non-contact signal sensing, will allow testing of the connections between devices adhering to this standard and circuit elements such as series components, sockets, connectors, and integrated circuits that do not implement IEEE Std 1149.1. This standard also specifies Boundary-Scan Description Language (BSDL) extensions to IEEE Std 1149.1 required to describe and support the new structures and methods.</abstract>
   </front>
 </reference>

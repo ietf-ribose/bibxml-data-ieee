@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-20-7/Cor1.2010" target="https://ieeexplore.ieee.org/document/5585619">
   <front>
     <title>IEEE Guide for Testing Metal-Enclosed Switchgear Rated up to 38 kV for Internal Arcing Faults Corrigendum 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5585619"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2014" month="March" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Fault diagnosis</keyword>
-    <keyword>Circuit faults</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>accessibility</keyword>
-    <keyword>arc</keyword>
-    <keyword>bus</keyword>
-    <keyword>compartment</keyword>
-    <keyword>internal arcing fault</keyword>
-    <keyword>metal-clad switchgear</keyword>
-    <keyword>metal-enclosed switchgear</keyword>
-    <keyword>metal-enclosed interrupter switchgear</keyword>
-    <keyword>metal-enclosed low-voltage power circuit breaker switchgear</keyword>
-    <keyword>overpressure</keyword>
-    <keyword>protection</keyword>
     <abstract>This corrigendum corrects technical errors found in IEEE Std C37.20.7-2007 during use in laboratories concerning current values and arc initiation in low-voltage (LV) testing and supply frequency for all equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2010.5585619"/>
 </reference>

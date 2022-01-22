@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.62209-1528.2020" target="https://ieeexplore.ieee.org/document/9231298">
   <front>
     <title>IEC/IEEE International Standard - Measurement procedure for the assessment of specific absorption rate of human exposure to radio frequency fields from hand-held and body-mounted wireless communication devices &amp;#8211; Part 1528: Human models, instrumentation, and procedures (Frequency range of 4 MHz to 10 GHz)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9231298"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2020" month="October" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Specific absorption rate</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Instrumentation</keyword>
-    <keyword>Head-mounted displays</keyword>
     <abstract>The objective of this document is to provide procedures for measuring the human exposure from devices intended to be used at a position near the human head or body. It was developed to provide procedures to evaluate electromagnetic field (EMF) exposures due to radio frequency (RF) transmitting devices used next to the ear, in front of the face, mounted on the body, operating in conjunction with other RF-transmitting and non -transmitting devices or accessories (e.g. belt -clips), or embedded in garments. The types of devices dealt with include but are not limited to mobile telephones, cordless telephones, cordless microphones, and radio transmitters in personal computers. The applicable frequency range is from 4 MHz to 10 GHz. The document defines: - measurement system requirements (Clause 6), - SAR measurement protocols (Clause 7), - SAR measurement uncertainty evaluation (Clause 8), and - reporting requirements (Clause 9). At the time this document was developed, two computational and measurement joint I EC/IEEE projects dealing with millimetre -wave power density assessment were under development, covering the frequency range from 6 GHz to 300 GHz. Hence there is an overlap of frequency between this document, which deals with SAR, and the other joint IEC/IEEE projects dealing with power density from 6 GHz to 10 GHz. The IEC/IEEE joint working group was aware of this fact and believed that it would give the flexibility of using whatever metrics suitable for the considered case of compliance assessment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9231298"/>
 </reference>

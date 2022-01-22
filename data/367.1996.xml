@@ -1,19 +1,11 @@
 <reference anchor="IEEE.367.1996" target="https://ieeexplore.ieee.org/document/8684711">
   <front>
     <title>IEEE Recommended Practice for Determining the Electric Power Station Ground Potential Rise and Induced Voltage from a Power Fault</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684711"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>electric power stations</keyword>
-    <keyword>ground potential rise</keyword>
-    <keyword>induced voltage</keyword>
-    <keyword>longitudinal induction voltages</keyword>
-    <keyword>power faults</keyword>
-    <keyword>power stations</keyword>
-    <keyword>telecommunication protection design</keyword>
-    <keyword>telecommunications</keyword>
     <abstract>Guidance for the calculation of power station ground potential rise (GPR) and longitudinal induction (LI) voltages is provided, as well as guidance for their appropriate reduction from worst-case values, for use in metallic telecommunication protection design.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.8684711"/>
 </reference>

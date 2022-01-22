@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-22.1997" target="https://ieeexplore.ieee.org/document/694190">
   <front>
     <title>IEEE Guide for Application of Metal-Oxide Surge Arresters for Alternating-Current Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87815"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Arresters</keyword>
-    <keyword>electric power equipment</keyword>
-    <keyword>high-voltage surges</keyword>
-    <keyword>metal-oxide surge arresters</keyword>
-    <keyword>surge arresters</keyword>
-    <keyword>surge-protective devices</keyword>
     <abstract>The application of metal-oxide surge arresters to safeguard electric power equipment against the hazards of abnormally high voltage surges of various origins is covered. Step-by- step directions toward proper solutions of various applications are provided. In many cases, the prescribed steps are adequate. More complex and special solutions requiring study by experi- enced engineers are described, but specific solutions are not always given. The procedures are based on theoretical studies, test results, and experience.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87815"/>
 </reference>

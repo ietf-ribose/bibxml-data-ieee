@@ -11,16 +11,6 @@
       </address>
     </author>
     <date year="2012" month="July" day="11"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Simulation</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>Message systems</keyword>
-    <keyword>Distributed processing</keyword>
-    <keyword>Interactive systems</keyword>
-    <keyword>data messages</keyword>
-    <keyword>Distributed Interactive Simulation</keyword>
-    <keyword>Protocol Data Units (PDUs)</keyword>
-    <keyword>Simulationnetwork</keyword>
     <abstract>Data messages, known as Protocol Data Units (PDUs), that are exchanged on a network amongsimulation applications are defined. These PDUs are for interactions that take place within specifieddomains called protocol families, which include Entity Information/Interaction, Warfare, Logistics, SimulationManagement, Distributed Emission Regeneration, Radio Communications, Entity Management, Minefield,Synthetic Environment, Simulation Management with Reliability, Information Operations, Live EntityInformation/Interaction, and Non-Real-Time protocol.</abstract>
   </front>
 </reference>

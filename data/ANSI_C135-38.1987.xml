@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C135-38.1987" target="https://ieeexplore.ieee.org/document/598498">
   <front>
     <title>American National Standard for Zinc-Coated Ferrous Washer Head Bolts and Washer Nuts</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.598498"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,6 @@
       </address>
     </author>
     <date year="2019" month="June" day="19"/>
-    <keyword>Fasteners</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Steel</keyword>
-    <keyword>Iron</keyword>
-    <keyword>Furnaces</keyword>
-    <keyword>Welding</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.598498"/>
 </reference>

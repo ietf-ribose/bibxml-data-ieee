@@ -1,16 +1,11 @@
 <reference anchor="IEEE.1219.1998" target="https://ieeexplore.ieee.org/document/720567">
   <front>
     <title>IEEE Standard for Software Maintenance</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88278"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2018" month="November"/>
-    <keyword>Software maintenance</keyword>
-    <keyword>life cycle</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>software</keyword>
-    <keyword>software maintenance</keyword>
     <abstract>Replaced by ISO/IEC 14764: 2006. The process for managing and executing software maintenance activities is described.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.88278"/>
 </reference>

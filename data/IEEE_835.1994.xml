@@ -1,7 +1,6 @@
 <reference anchor="IEEE.835.1994" target="https://ieeexplore.ieee.org/document/7297793">
   <front>
     <title>IEEE Standard Power Cable Ampacity Tables</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.7297793"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2015" month="October" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Ampacity</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>ampacity</keyword>
-    <keyword>cable</keyword>
-    <keyword>dielectric</keyword>
-    <keyword>extruded</keyword>
-    <keyword>laminar</keyword>
-    <keyword>power</keyword>
-    <keyword>black book</keyword>
     <abstract>Over 3000 ampacity tables for extruded dielectric power cables rated through 138 kV and laminar dielectric power cables rated through 500 kV are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.7297793"/>
 </reference>

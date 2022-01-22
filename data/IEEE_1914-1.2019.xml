@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1914-1.2019" target="https://ieeexplore.ieee.org/document/9079731">
   <front>
     <title>IEEE Standard for Packet-based Fronthaul Transport Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9079731"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,25 +11,7 @@
       </address>
     </author>
     <date year="2020" month="April" day="27"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Next generation networking</keyword>
-    <keyword>Baseband</keyword>
-    <keyword>Radio communication</keyword>
-    <keyword>Transport protocols</keyword>
-    <keyword>central unit</keyword>
-    <keyword>CU</keyword>
-    <keyword>distributed unit</keyword>
-    <keyword>DU</keyword>
-    <keyword>fronthaul transport node</keyword>
-    <keyword>FTN</keyword>
-    <keyword>IEEE 1914.1</keyword>
-    <keyword>Next Generation Fronthaul Interface</keyword>
-    <keyword>NGFI</keyword>
-    <keyword>NGFI networks</keyword>
-    <keyword>NGFI-I</keyword>
-    <keyword>NGFI-II</keyword>
-    <keyword>radio unit</keyword>
-    <keyword>RU</keyword>
     <abstract>The architecture and requirements for next generation fronthaul networks are specified in this standard. NGFI-I is defined as the next generation fronthaul network with low layer splits in a baseband station. NGFI-II is defined as the next generation fronthaul network with high layer splits in a baseband station. The requirements of fronthaul transport nodes in these networks are also specified.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9079731"/>
 </reference>

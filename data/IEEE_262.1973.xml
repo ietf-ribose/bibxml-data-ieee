@@ -1,7 +1,6 @@
 <reference anchor="IEEE.262.1973" target="https://ieeexplore.ieee.org/document/7387653">
   <front>
     <title>American National Standard Test Code for Distribution, Power, and Regulating Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7387653"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="20"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Encoding</keyword>
-    <keyword>IEEE Standards</keyword>
     <abstract>This standard prescribes methods for performing tests specified in American National Standard General Requirements for Distribution, Power, and Regulating Transformers, C57.12.00-1973 (IEEE Std 462-1973) and in the separate transformer standards of the C57.12 Series of American National Standards.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1973.7387653"/>
 </reference>

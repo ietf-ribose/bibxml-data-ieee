@@ -1,7 +1,6 @@
 <reference anchor="IEEE.144.1971" target="https://ieeexplore.ieee.org/document/8684360">
   <front>
     <title>IEEE Standard Guide for Evaluating the Effect of Solar Radiation on Outdoor Metal-Clad Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1970.8684360"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1970.8684360"/>
 </reference>

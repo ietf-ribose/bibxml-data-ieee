@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-96.2013" target="https://ieeexplore.ieee.org/document/6725564">
   <front>
     <title>IEEE Guide for Loading Dry-Type Distribution and Power Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6725564"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,24 +10,7 @@
       </address>
     </author>
     <date year="2014" month="January" day="27"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Load management</keyword>
-    <keyword>Ambient temperature</keyword>
-    <keyword>Encapusation</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>ambient temperature</keyword>
-    <keyword>constant load</keyword>
-    <keyword>hottest-spot temperature</keyword>
-    <keyword>IEEE C57.96(tm)</keyword>
-    <keyword>loading capability</keyword>
-    <keyword>loading transformer</keyword>
-    <keyword>rated output</keyword>
-    <keyword>resin-encapsulated</keyword>
-    <keyword>solid-cast transformer</keyword>
-    <keyword>time constant</keyword>
-    <keyword>transient loading</keyword>
     <abstract>General recommendations for the loading of dry-type distribution and power transformers installed in ventilated, non-ventilated, and sealed type enclosures are included in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6725564"/>
 </reference>

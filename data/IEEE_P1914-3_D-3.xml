@@ -11,18 +11,6 @@
       </address>
     </author>
     <date year="2018" month="June" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Encapsulation</keyword>
-    <keyword>Radio communication</keyword>
-    <keyword>IEEE 1914.3(TM)</keyword>
-    <keyword>native RoE</keyword>
-    <keyword>radio over Ethernet</keyword>
-    <keyword>RoE</keyword>
-    <keyword>RoE de-mapper</keyword>
-    <keyword>RoE mapper</keyword>
-    <keyword>structure-agnostic</keyword>
-    <keyword>structure-aware</keyword>
     <abstract>The encapsulation and mapping of radio protocols for transport over Ethernet frames, using radio over Ethernet (RoE), are defined in this standard. Structure-agnostic definitions are provided for any digitized radio data. Structure-aware definitions are provided for the Common Public Radio Interface (CPRI(TM)). Native mode definitions are provided for digitized radio in-phase and quadrature (I/Q) payload.</abstract>
   </front>
 </reference>

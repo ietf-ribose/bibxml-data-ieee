@@ -1,7 +1,6 @@
 <reference anchor="IEEE.848.1996" target="https://ieeexplore.ieee.org/document/8684406">
   <front>
     <title>IEEE Standard Procedure for the Determination of the Ampacity Derating of Fire-Protected Cables</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684406"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ampacity derating factor</keyword>
-    <keyword>cable penetration fire stops</keyword>
-    <keyword>electrical separation wrap systems</keyword>
-    <keyword>fire-protected cable systems</keyword>
-    <keyword>fire protected conduits</keyword>
     <abstract>A detailed test procedure is provided for determining the ampacity or derating factor in the following cable installation configurations: block-out or sleeve type cable penetration fire stops; conduits covered with a protective material; tray covered with a protective material; cable directly covered or coated with a fire-retardant material; and free-air drops enclosed with a protective material.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684406"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="AIEE.28.1936" target="https://ieeexplore.ieee.org/document/7403777">
   <front>
     <title>AIEE Standards for Lightning Arresters</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1936.7403777"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="February" day="9"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Arresters</keyword>
-    <keyword>AC generators</keyword>
-    <keyword>Lightning</keyword>
-    <keyword>Power system reliability</keyword>
     <abstract>The standards in this section shall apply to all types of lightning arresters designed for the protection of alternating-current power circuits.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1936.7403777"/>
 </reference>

@@ -1,15 +1,11 @@
 <reference anchor="ANSI/IEEE.C37-40.1981" target="https://ieeexplore.ieee.org/document/30640">
   <front>
     <title>American National Standard Service Conditions and Definitions for High-Voltage Fuses, Distribution Enclosed Single-Pole Air Switches, Fuse Disconnecting Switches, and Accessories</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.82372"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2016" month="March" day="29"/>
-    <keyword>Fuses</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>C37.40</keyword>
     <abstract>Service conditions and definitions for high-voltage fuses (above 1,000 V), distribution enclosed single-pole air switches, fuse disconnecting switches, and accessories for ac distribution systems are covered. These include enclosed, open, and open-link types of distribution cutouts and fuses; distribution current-limiting fuses; distribution oil cutouts; distribution enclosed single-pole air switches; power fuses, including current-limiting types; outdoor and indoor fuse disconnecting switches; fuse supports, mountings, hooks, and links, all of the type used exclusively with the above; and removable switch blades for certain products among the above.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.82372"/>
 </reference>

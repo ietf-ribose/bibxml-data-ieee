@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-15-3.2016" target="https://ieeexplore.ieee.org/document/7524656">
   <front>
     <title>IEEE Standard for High Data Rate Wireless Multi-Media Networks</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7524656"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2016" month="July" day="28"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Ad hoc networks</keyword>
-    <keyword>Mobile computing</keyword>
-    <keyword>Millimeter wave technology</keyword>
-    <keyword>Radio frequency</keyword>
-    <keyword>Wireless communication</keyword>
-    <keyword>Multimedia communication</keyword>
-    <keyword>ad hoc network</keyword>
-    <keyword>IEEE 802.15.3(TM)</keyword>
-    <keyword>mobility</keyword>
-    <keyword>mm-wave</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>wireless</keyword>
     <abstract>The protocol and compatible interconnection of data and multimedia communication equipment via 2.4 GHz and 60 GHz radio transmissions in a Wireless Personal Area Network (WPAN) using low power and multiple modulation formats to support scalable data rates is defined in this standard. The Medium Access Control (MAC) sublayer protocol supports both isochronous and asynchronous data types.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7524656"/>
 </reference>

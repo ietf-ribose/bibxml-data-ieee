@@ -1,7 +1,6 @@
 <reference anchor="IEEE.P1020/D-9.2011-03" target="https://ieeexplore.ieee.org/document/5750148">
   <front>
     <title>IEEE Draft Guide for Control of Small (100 kVA to 5 MVA) Hydroelectric Power Plants</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5750148"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,9 +10,7 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Hydroelectric power generation</keyword>
     <abstract>This guide describes the electrical control and monitoring requirements for equipment and systems associated with small hydroelectric power plants (100 kVA to 5 MVA).</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5750148"/>
 </reference>

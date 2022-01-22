@@ -9,22 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Wireless LAN</keyword>
-    <keyword>Interworking</keyword>
-    <keyword>Interworking with External Networks</keyword>
-    <keyword>E911</keyword>
-    <keyword>Emergency Services</keyword>
-    <keyword>Interface</keyword>
-    <keyword>QoS mapping</keyword>
-    <keyword>MIH</keyword>
-    <keyword>Media Independent Handover</keyword>
-    <keyword>Network Discovery</keyword>
-    <keyword>Network Selection</keyword>
-    <keyword>Emergency Alert System</keyword>
-    <keyword>SSP</keyword>
-    <keyword>SSPN</keyword>
-    <keyword>Subscriber Service Provider</keyword>
-    <keyword>Generic Advertisement Service.</keyword>
     <abstract>This amendment specifies enhancements to the 802.11 MAC that support WLAN Interworking with External Networks. It enables higher layer functionalities to provide overall end-to-end solutions. The main goals of 802.11u are aiding network discovery and selection, enabling information transfer from external networks, enabling emergency services, and SSPNs' to 802.11 Network that support WLAN Interworking with External Networks.</abstract>
   </front>
 </reference>

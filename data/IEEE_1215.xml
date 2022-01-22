@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1215" target="https://ieeexplore.ieee.org/document/992173">
   <front>
     <title>IEEE Guide for the Application of Separable Insulated Connectors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93572"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2013" month="July" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Connectors</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>connectors</keyword>
-    <keyword>power distribution</keyword>
-    <keyword>switchgear</keyword>
     <abstract>This guide provides general information on the application and operation of separable connectors. It is intended to be basic, and supplement the manufacturer’s specific recommenda-tions and established utility practices.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93572"/>
 </reference>

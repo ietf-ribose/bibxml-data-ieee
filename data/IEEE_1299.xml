@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1299" target="https://ieeexplore.ieee.org/document/588372">
   <front>
     <title>IEEE Guide for the Connection of Surge Arresters to Protect Insulated, Shielded Electric Power Cable Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82410"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="29"/>
-    <keyword>Power distribution lines</keyword>
-    <keyword>cable</keyword>
-    <keyword>lead length</keyword>
-    <keyword>margin of protection</keyword>
-    <keyword>surge arresters</keyword>
     <abstract>This guide suggests surge arrester installation methods at distribution cable terminal poles in order to minimize the total impressed transient voltage on medium-voltage distribution cables. Grounding electrode techniques, pole ground values, and system ground grid values are not addressed or considered in this document.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.82410"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-1Q/Amd2.2016" target="https://ieeexplore.ieee.org/document/8323457">
   <front>
     <title>ISO/IEC/IEEE Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements -- Part 1Q: Bridges and bridged networks AMENDMENT 2: Application virtual local area network (VLAN) type, length, value (TLV)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8323457"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2018" month="March" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>Data centers</keyword>
-    <keyword>Virtual LAN</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Bridged Networks</keyword>
-    <keyword>Data Center Bridging (DCB)</keyword>
-    <keyword>Data Center Bridging eXchange protocol (DCBX)</keyword>
-    <keyword>IEEE 802(R)</keyword>
-    <keyword>IEEE 802.1Q(TM)</keyword>
-    <keyword>IEEE 802.1Qcd(TM)</keyword>
-    <keyword>local area networks (LANs)</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>Virtual Bridged Networks (virtual LANs)</keyword>
-    <keyword>VLAN Bridges</keyword>
     <abstract>Enhancements to the set of TLVs used by the Data Center Bridging eXchange protocol (DCBX) for the purpose of simplifying the management of networks utilizing Data Center Bridging (DCB) features are defined in this amendment to IEEE Std 802.1Q-2014.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8323457"/>
 </reference>

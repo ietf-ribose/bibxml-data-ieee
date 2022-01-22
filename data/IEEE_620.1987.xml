@@ -1,7 +1,6 @@
 <reference anchor="IEEE.620.1987" target="https://ieeexplore.ieee.org/document/27821">
   <front>
     <title>IEEE Guide for Construction and Interpretation of Thermal Limit Curves for Squirrel-Cage Motors Over 500 hp</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81026"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="11"/>
-    <keyword>Squirrel cage motors</keyword>
-    <keyword>Standards</keyword>
-    <keyword>thermal</keyword>
-    <keyword>limit</keyword>
-    <keyword>curves</keyword>
-    <keyword>squirrel-cage</keyword>
-    <keyword>motors</keyword>
     <abstract>Thermal limit curves for induction machines are defined. A procedure is established for the presentation of these curves, and guidance for the interpretation and use of these curves for machine thermal protection is provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.81026"/>
 </reference>

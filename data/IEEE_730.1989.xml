@@ -1,7 +1,6 @@
 <reference anchor="IEEE.730.1989" target="https://ieeexplore.ieee.org/document/587395">
   <front>
     <title>IEEE Standard for Software Quality Assurance Plans</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.82361"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Software quality</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>Patents</keyword>
-    <keyword>assurance plans</keyword>
-    <keyword>Software quality</keyword>
     <abstract>Superseded Uniform minimum acceptable requirements for the preparation and content of Software Quality Assurance Plans (SQAPs) are provided. The standard also provides a standard against which such plans can be compared and assessed. It applies to the development and maintenance of critical software. For noncritical software, or for software already developed, a subset of the requirements of this standard may be applied.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.82361"/>
 </reference>

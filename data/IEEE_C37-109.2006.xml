@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-109.2006" target="https://ieeexplore.ieee.org/document/4168388">
   <front>
     <title>IEEE Guide for the Protection of Shunt Reactors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.353409"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,21 +10,7 @@
       </address>
     </author>
     <date year="2012" month="June" day="5"/>
-    <keyword>air-core</keyword>
-    <keyword>auxiliary power winding</keyword>
-    <keyword>circuit switcher</keyword>
-    <keyword>dry-type reactors</keyword>
-    <keyword>microprocessorbased relays</keyword>
-    <keyword>neutral reactor</keyword>
-    <keyword>oil-immersed</keyword>
-    <keyword>pole disagreement</keyword>
-    <keyword>protection</keyword>
-    <keyword>protective relay</keyword>
-    <keyword>reactance</keyword>
-    <keyword>resonance</keyword>
-    <keyword>series-compensated</keyword>
-    <keyword>shunt reactors</keyword>
-    <keyword>turn-to-turn</keyword>
     <abstract>The purpose of this guide is to provide users of shunt reactors acceptable methods and configurations for the protection of power system shunt reactors.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.353409"/>
 </reference>

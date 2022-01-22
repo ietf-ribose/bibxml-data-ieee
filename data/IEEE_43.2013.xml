@@ -1,7 +1,6 @@
 <reference anchor="IEEE.43.2013" target="https://ieeexplore.ieee.org/document/6754111">
   <front>
     <title>IEEE Recommended Practice for Testing Insulation Resistance of Electric Machinery</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6754111"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2014" month="March" day="3"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Windings</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Resistance</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Polarization</keyword>
-    <keyword>Rotor windings</keyword>
-    <keyword>armature winding</keyword>
-    <keyword>dc</keyword>
-    <keyword>field winding</keyword>
-    <keyword>IEEE 43(TM)</keyword>
-    <keyword>insulated</keyword>
-    <keyword>insulation resistance</keyword>
-    <keyword>polarization index</keyword>
-    <keyword>rotor winding</keyword>
-    <keyword>stator winding</keyword>
-    <keyword>voltage</keyword>
     <abstract>The dc voltage tests procedures for the measurement of the insulation resistance and polarization index of insulated stator, and rotor windings and how to interpret the results are described in this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6754111"/>
 </reference>

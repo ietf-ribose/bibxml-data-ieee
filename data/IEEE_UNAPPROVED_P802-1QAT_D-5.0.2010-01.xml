@@ -9,11 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>Virtual environment</keyword>
     <abstract>This standard provides a signaling protocol to enable the end- to-end management of resource reservation for quality of service (QoS) guaranteed streams. The signaling protocol facilitates the registration, deregistration, and retention of resource reservation information in relevant network elements. The signaling protocol is an essential component for automatic configuration in bridged local area network applications that require latency and bandwidth guarantees.</abstract>
   </front>
 </reference>

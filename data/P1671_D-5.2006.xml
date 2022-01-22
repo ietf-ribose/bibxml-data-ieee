@@ -5,17 +5,6 @@
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="May"/>
-    <keyword>XML</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>1671-2006</keyword>
-    <keyword>Automatic Test Equipment (ATE)</keyword>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>ATML instance document</keyword>
-    <keyword>automatic test system (ATS)</keyword>
-    <keyword>XML Schema</keyword>
     <abstract>This document specifies the framework for the family of ATML standards. ATML defines a standard exchange medium for sharing information between components of an Automatic Test System (ATS), utilizing the eXtensible Markup Language (XML).</abstract>
   </front>
 </reference>

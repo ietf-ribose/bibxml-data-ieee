@@ -1,25 +1,11 @@
 <reference anchor="ANSI.N42-32.2006" target="https://ieeexplore.ieee.org/document/4079474">
   <front>
     <title>American National Standard Performance Criteria for Alarming Personal Radiation Detectors for Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299333"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2012" month="June"/>
-    <keyword>Radiation detectors</keyword>
-    <keyword>Instruments</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>IEEE Standards Association</keyword>
-    <keyword>alarming</keyword>
-    <keyword>design criteria</keyword>
-    <keyword>performance specifications</keyword>
-    <keyword>personal radiation detectors</keyword>
-    <keyword>pocket-sized</keyword>
-    <keyword>radiation</keyword>
-    <keyword>radiation detection</keyword>
-    <keyword>radiation instrumentation</keyword>
     <abstract>Performance specifications, design criteria, and testing methods are provided for the evaluation of radiation detection instruments that are pocket sized and carried on the body.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.299333"/>
 </reference>

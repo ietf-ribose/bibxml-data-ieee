@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-28.2002" target="https://ieeexplore.ieee.org/document/1270353">
   <front>
     <title>American National Standard Calibration of Germanium Detectors for In-Situ Gamma-Ray Measurements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94433"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="25"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Gamma rays</keyword>
-    <keyword>Detectors</keyword>
-    <keyword>Gamma rays</keyword>
-    <keyword>calibration</keyword>
-    <keyword>gamma-ray</keyword>
-    <keyword>germanium detectors</keyword>
-    <keyword>in-situ</keyword>
     <abstract>The need for accurately measuring radioactivity in-situ for a variety of detector characterization techniques requires that performance criteria for efficiency calibration be developed, and such a calibration technique is described in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94433"/>
 </reference>

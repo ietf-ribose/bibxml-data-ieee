@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.729.1983" target="https://ieeexplore.ieee.org/document/7435207">
   <front>
     <title>IEEE Standard Glossary of Software Engineering Terminology</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.7435207"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Software engineering</keyword>
     <abstract>Software engineering is an emerging field. New terms are continually being generated, and new meanings are being adopted for existing terms. The Glossary of Software Engineering Terminology was undertaken to document this vocabulary. Its purpose is to identify terms currently used in software engineering and to present the current meanings of these terms. It is intended to serve as a useful reference for software engineers and for those in related fields and to promote clarity and consistency in the vocabulary of software engineering. It is recognized that software engineering is a dynamic area; thus the standard will be subject to appropriate change as becomes necessary.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1983.7435207"/>
 </reference>

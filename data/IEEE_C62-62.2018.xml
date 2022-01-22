@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-62.2018" target="https://ieeexplore.ieee.org/document/8430667">
   <front>
     <title>IEEE Standard Test Specifications for Surge-Protective Devices (SPDs) for Use on the Load Side of the Service Equipment in Low-Voltage (1000 V and Less) AC Power Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8430667"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,30 +11,7 @@
       </address>
     </author>
     <date year="2018" month="August" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Seismic measurements</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Earthquakes</keyword>
-    <keyword>Equipment</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>C62.62</keyword>
-    <keyword>bus</keyword>
-    <keyword>buswork</keyword>
-    <keyword>conductor</keyword>
-    <keyword>connections</keyword>
-    <keyword>earthquakes</keyword>
-    <keyword>electrical equipment</keyword>
-    <keyword>flexible bus</keyword>
-    <keyword>flexible buswork</keyword>
-    <keyword>IEEE 1527&amp;#8482;</keyword>
-    <keyword>interconnected equipment</keyword>
-    <keyword>interconnection</keyword>
-    <keyword>rigid bus</keyword>
-    <keyword>rigid buswork</keyword>
-    <keyword>seismic</keyword>
-    <keyword>seismic design</keyword>
-    <keyword>slack</keyword>
-    <keyword>substations</keyword>
     <abstract>Surge-protective devices (SPDs) intended to be installed on the load side of the service equipment connected to 50 Hz or 60 Hz ac power circuits rated at 1000 V (root mean squared [rms]) or less are the focus of this standard. Performance characteristics and standard methods for testing and rating are established for these devices, which may be composed of any combination of components. The tests in this standard are aimed at providing comparisons among the variety of SPDs available.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8430667"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.379.2014" target="https://ieeexplore.ieee.org/document/6823066">
   <front>
     <title>IEEE Standard for Application of the Single-Failure Criterion to Nuclear Power Generating Station Safety Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6823066"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2014" month="May" day="29"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nucelar power generation</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Actuators</keyword>
-    <keyword>actuator</keyword>
-    <keyword>cascaded failure</keyword>
-    <keyword>common-cause failure</keyword>
-    <keyword>design basis event</keyword>
-    <keyword>detectable failure</keyword>
-    <keyword>effects analysis</keyword>
-    <keyword>IEEE 379(TM)</keyword>
-    <keyword>nondetectable failure</keyword>
-    <keyword>safety system</keyword>
-    <keyword>single-failure criterion</keyword>
-    <keyword>system actuation</keyword>
-    <keyword>system logic</keyword>
     <abstract>Requirements for the application of the single-failure criterion to the electrical power, instrumentation, and control portions of nuclear power generating safety systems are provided in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6823066"/>
 </reference>

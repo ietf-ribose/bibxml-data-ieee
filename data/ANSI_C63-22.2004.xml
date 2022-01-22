@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C63-22.2004" target="https://ieeexplore.ieee.org/document/1425771">
   <front>
     <title>American National Standard Guide for Automated Electromagnetic Interference Measurements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95940"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2014" month="August" day="15"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Data analysis</keyword>
-    <keyword>Radiation measurements</keyword>
-    <keyword>Electromagnetic interference</keyword>
-    <keyword>conducted emissions</keyword>
-    <keyword>data analysis tools</keyword>
-    <keyword>data handling</keyword>
-    <keyword>exploratory measurements</keyword>
-    <keyword>facility integrity</keyword>
-    <keyword>final measurements</keyword>
-    <keyword>prescans</keyword>
-    <keyword>probability of signal intercept</keyword>
-    <keyword>radiated emissions</keyword>
-    <keyword>sweep times</keyword>
-    <keyword>scan rates</keyword>
     <abstract>U.S. consensus guideline for automation of conducted and radiated EMI compliance measurements is provided in this guide. This document does not include mandatory specifications for automation tools (i.e., application software, automated test equipment, computers and peripherals). Where possible, the guidance provided herein is harmonized with other national and international standards used for similar purposes.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.95940"/>
 </reference>

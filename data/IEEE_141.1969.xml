@@ -1,7 +1,6 @@
 <reference anchor="IEEE.141.1969" target="https://ieeexplore.ieee.org/document/8684354">
   <front>
     <title>IEEE Electric Power Distribution for Industrial Plants, Fourth Edition</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.8684354"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -13,4 +12,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1969.8684354"/>
 </reference>

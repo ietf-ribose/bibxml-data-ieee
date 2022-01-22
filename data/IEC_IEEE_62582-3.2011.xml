@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.62582-3.2011" target="https://ieeexplore.ieee.org/document/6392839">
   <front>
     <title>IIEC/IEEE International Standard - Nuclear Power Plants - Instrumentation and control important to safety - Electrical equipment condition monitoring methods - Part 3: Elongation at break</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6392839"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2012" month="December" day="24"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Industrial plants</keyword>
-    <keyword>62582-3</keyword>
-    <keyword>control systems</keyword>
-    <keyword>elongation</keyword>
-    <keyword>elongation techniques</keyword>
-    <keyword>instrumentation</keyword>
     <abstract>This standard contains methods for condition monitoring of organic and polymeric materials in instrumentation and control systems using tensile elongation techniques in the detail necessary to produce accurate and reproducible measurements. It includes the requirements for selection of samples, the measurement system and conditions, and the reporting of the measurement results. Standards in the IEC/IEEE 62582-series are measurement standards, primarily for use in the management of ageing in initial qualification and after installation. IEC/IEEE 62582-1 General includes requirements for the application of the IEC/IEEE 62582 series and some elements which are common to all methods. Information on the role of condition monitoring in qualification of equipment important to safety is found in IEEE Std 323. This standard is intended for application to non-energised equipment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6392839"/>
 </reference>

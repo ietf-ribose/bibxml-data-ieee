@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-10.1995" target="https://ieeexplore.ieee.org/document/8684701">
   <front>
     <title>IEEE Guide for Diagnostics and Failure Investigation of Power Circuit Breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684701"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,11 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>diagnostics</keyword>
-    <keyword>investigation</keyword>
-    <keyword>failure</keyword>
-    <keyword>power circuit</keyword>
-    <keyword>circuit breaker</keyword>
     <abstract>Procedures to be used to perform failure investigations of power circuit breakers are recommended. Although the procedure may be used for any circuit breaker, it is mainly focused on high-voltage ac power circuit breakers used on utility systems. Recommendations are also made for monitoring circuit breaker functions as a means of diagnosing their suitability for service condition.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684701"/>
 </reference>

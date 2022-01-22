@@ -11,24 +11,6 @@
       </address>
     </author>
     <date year="2013" month="August" day="20"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power distibution lines</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>OFDM</keyword>
-    <keyword>Narrowband</keyword>
-    <keyword>Smart grids</keyword>
-    <keyword>power line communication</keyword>
-    <keyword>PLC</keyword>
-    <keyword>medium access control</keyword>
-    <keyword>MAC</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>PHY</keyword>
-    <keyword>IFFT OFDM</keyword>
-    <keyword>narrow band</keyword>
-    <keyword>PRIME</keyword>
-    <keyword>G3-PLC</keyword>
-    <keyword>coexistence</keyword>
     <abstract>A worldwide standard for narrow band power line communications via AC, DC, and non-energized electric power lines using frequencies below 500 kHz. Data rates of up to 500 kbps are supported. The field-of-use includes Smart Grid applications. Coexistence mechanisms that can be used by other PLC technologies operating below 500 kHz are also included. These coexistence mechanisms may be used separately from the rest of the standard.</abstract>
   </front>
 </reference>

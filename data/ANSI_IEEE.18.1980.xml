@@ -1,13 +1,11 @@
 <reference anchor="ANSI/IEEE.18.1980" target="https://ieeexplore.ieee.org/document/26642">
   <front>
     <title>IEEE Standard for Shunt Power Capacitors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.79668"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2014" month="February" day="20"/>
-    <keyword>Power capacitors</keyword>
-    <keyword>Standards</keyword>
     <abstract>Capacitors rated 216 V or higher, 2.5 kvar or more, and designed for shunt connection to alternating-current transmission and distribution systems operating at a nominal frequency of 50 or 60 Hz are considered. Service conditions, ratings, manufacturing, and testing are covered. A guide to the application and operation of power capacitors is included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1980.79668"/>
 </reference>

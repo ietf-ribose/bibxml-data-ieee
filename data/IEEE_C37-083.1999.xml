@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-083.1999" target="https://ieeexplore.ieee.org/document/798773">
   <front>
     <title>IEEE Guide for Synthetic Capacitive Current Switching Tests of AC High-Voltage Circuit Breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90570"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="13"/>
-    <keyword>Circuit breakers</keyword>
-    <keyword>capacitive current switching</keyword>
-    <keyword>closing phenomena</keyword>
-    <keyword>opening phenomena</keyword>
-    <keyword>synthetic circuits</keyword>
-    <keyword>testing circuit breakers</keyword>
     <abstract>As an aid in testing circuit breakers under conditions of switching capacitive currents synthetic test circuits may be used. The design of the circuit should simulate the stress of actual service conditions as closely as possible. A number of circuits are given as examples. The limitation of the use of synthetic test methods is that the breaker under test must not display evidence of re-ignition or re-striking. The known circuits do not properly represent the interaction between the source and the capacitive load under this condition. Such breakers must be tested using direct circuits.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90570"/>
 </reference>

@@ -1,21 +1,11 @@
 <reference anchor="IEEE.389.1979" target="https://ieeexplore.ieee.org/document/30630">
   <front>
     <title>IEEE Recommended Practice for Testing Electronics Transformers and Inductors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.82359"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Impedance measurement</keyword>
-    <keyword>Dielectric breakdown</keyword>
-    <keyword>Electronic equipment testing</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>Loss measurement</keyword>
-    <keyword>Standards</keyword>
-    <keyword>testing</keyword>
-    <keyword>electronics</keyword>
-    <keyword>transformers</keyword>
-    <keyword>inductors</keyword>
     <abstract>Superseded This document presents a number of tests for use in determining the significant parameters and performance characteristics of electronic transformers and inductors. These tests are primarily desinged for transformers and inductors used in all types of electronic applications, but they are also applicable to many other types of transformers, except transformers of large apparant-power rating used in the electric power industry. Many of the tests described are applicable as means of specifying the required testing of transformers for specific applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1979.82359"/>
 </reference>

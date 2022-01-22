@@ -1,7 +1,6 @@
 <reference anchor="IEEE.167A.1975" target="https://ieeexplore.ieee.org/document/8684435">
   <front>
     <title>IEEE Facsimile Test Chart</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.8684435"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -14,4 +13,5 @@
     <date year="2019" month="April" day="5"/>
     <abstract>IEEE Std 167-1966. Test Procedure for Facsimile was based on previous issues of the IEEE Test Chart.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1974.8684435"/>
 </reference>

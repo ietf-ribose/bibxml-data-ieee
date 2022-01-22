@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1138.2021" target="https://ieeexplore.ieee.org/document/9610005">
   <front>
     <title>IEEE Standard for Testing and Performance of Optical Ground Wire (OPGW) for use on Electric Utility Power Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9610005"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2021" month="November" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Wires</keyword>
-    <keyword>Optical fiber</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Packaging</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>fiber optic ground wire</keyword>
-    <keyword>IEEE 1138</keyword>
-    <keyword>laboratory tests</keyword>
-    <keyword>OPGW</keyword>
-    <keyword>optical ground wire</keyword>
-    <keyword>type tests</keyword>
     <abstract>The performance, test requirements, procedures, and acceptance criteria for a transmission line overhead ground wire (a.k.a. shield wire, static wire, earth wire, skywire) with optical fibers commonly known as optical ground wire (OPGW) are covered in this standard. Functional requirements such as electrical, mechanical, optical fiber, environmental, and packaging, and test requirements related to design, installation, in-service, and maintenance, including routine tests are also covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2021.9610005"/>
 </reference>

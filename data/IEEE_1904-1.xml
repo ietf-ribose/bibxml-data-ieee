@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1904-1" target="https://ieeexplore.ieee.org/document/7044523">
   <front>
     <title>IEEE Standard for Conformance Test Procedures for Service Interoperability in Ethernet Passive Optical Networks, IEEE Std 1904.1(TM) Package B</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7044523"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2015" month="February" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>EPON</keyword>
-    <keyword>Passive optical networks</keyword>
-    <keyword>Conformance testing</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>1G-EPON</keyword>
-    <keyword>10G-EPON</keyword>
-    <keyword>conformance</keyword>
-    <keyword>Conformance02</keyword>
-    <keyword>EPON</keyword>
-    <keyword>Ethernet Passive Optical Network</keyword>
-    <keyword>IEEE 1904.1(TM)</keyword>
-    <keyword>Package B</keyword>
-    <keyword>SIEPON</keyword>
     <abstract>This standard specifies a suite of conformance tests for system-level requirements of Ethernet Passive Optical Network (EPON) equipment, defined in IEEE 1904.1 Package B.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7044523"/>
 </reference>

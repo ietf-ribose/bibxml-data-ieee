@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1671-1.2009" target="https://ieeexplore.ieee.org/document/5353117">
   <front>
     <title>IEEE Trial-Use Standard for Automatic Test Markup Language (ATML) for Exchanging Automatic Test Equipment and Test Information via XML: Exchanging Test Descriptions</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5353117"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2014" month="March" day="25"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Automatic test equipment</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>1671.1-2009</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>Automatic Test Markup Language (ATML) instance document</keyword>
-    <keyword>automatic test system (ATS)</keyword>
-    <keyword>diagnostic requirements</keyword>
-    <keyword>test description</keyword>
-    <keyword>Test Program Set (TPS)</keyword>
-    <keyword>test requirements</keyword>
-    <keyword>Test Requirements Document (TRD)</keyword>
-    <keyword>XML schema</keyword>
     <abstract>This document specifies an exchange format, using the extensible markup language (XML), for exchanging the test description information defining test performance, test conditions, diagnostic requirements, and support equipment to locate, align, and verify the proper operation of a unit under test (UUT). This is in support of the development of test program sets (TPSs) that will be used in an automatic test environment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5353117"/>
 </reference>

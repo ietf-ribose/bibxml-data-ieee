@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-19-1.2018" target="https://ieeexplore.ieee.org/document/8520953">
   <front>
     <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements--Part 19: Wireless Network Coexistence Methods</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8520953"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2018" month="November" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Spread spectrum management</keyword>
-    <keyword>Licenses</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Wireless networks</keyword>
-    <keyword>radio coexistence</keyword>
-    <keyword>IEEE 802.19.1</keyword>
-    <keyword>coexistence service</keyword>
-    <keyword>network-based coexistence</keyword>
-    <keyword>TV band White Spaces</keyword>
-    <keyword>the GHz license-exempt bands</keyword>
-    <keyword>general authorized access in the 3.5 GHz bands</keyword>
-    <keyword>geolocation</keyword>
-    <keyword>database</keyword>
-    <keyword>spectrum management</keyword>
     <abstract>This standard specifies radio technology independent methods for network-based coexistence among dissimilar or independently operated networks of unlicensed devices and dissimilar unlicensed devices. The standard is defined for geo-location capable devices operating under general authorization such as TV band White Spaces, the 5 GHz license-exempt bands and the general authorized access the 3.5 GHz bands.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8520953"/>
 </reference>

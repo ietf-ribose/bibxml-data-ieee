@@ -11,59 +11,6 @@
       </address>
     </author>
     <date year="2017" month="December" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>2.5 Gigabit Ethernet</keyword>
-    <keyword>5 Gigabit Ethernet</keyword>
-    <keyword>10 Gigabit Ethernet</keyword>
-    <keyword>25 Gigabit Ethernet</keyword>
-    <keyword>40 Gigabit Ethernet</keyword>
-    <keyword>100 Gigabit Ethernet</keyword>
-    <keyword>200 Gigabit Ethernet</keyword>
-    <keyword>400 Gigabit Ethernet</keyword>
-    <keyword>attachment unit interface</keyword>
-    <keyword>AUI</keyword>
-    <keyword>Auto-Negotiation</keyword>
-    <keyword>Backplane Ethernet</keyword>
-    <keyword>data processing</keyword>
-    <keyword>DTE Power via the MDI</keyword>
-    <keyword>Energy Efficient Ethernet</keyword>
-    <keyword>EPoC</keyword>
-    <keyword>EPON</keyword>
-    <keyword>EPON Protocol over Coax</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Ethernet in the First Mile</keyword>
-    <keyword>Ethernet passive optical network</keyword>
-    <keyword>express traffic</keyword>
-    <keyword>Fast Ethernet</keyword>
-    <keyword>Gigabit Ethernet</keyword>
-    <keyword>IEEE 802.3™</keyword>
-    <keyword>information exchange</keyword>
-    <keyword>LAN</keyword>
-    <keyword>local area network</keyword>
-    <keyword>management</keyword>
-    <keyword>MDI</keyword>
-    <keyword>medium dependent interface</keyword>
-    <keyword>media independent interface</keyword>
-    <keyword>MIB</keyword>
-    <keyword>MII</keyword>
-    <keyword>MPMC</keyword>
-    <keyword>multi-point MAC control</keyword>
-    <keyword>PCS</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical coding sublayer</keyword>
-    <keyword>Physical Layer</keyword>
-    <keyword>physical medium attachment</keyword>
-    <keyword>physical medium dependent</keyword>
-    <keyword>PMA</keyword>
-    <keyword>PMD</keyword>
-    <keyword>PoDL</keyword>
-    <keyword>Power over Data Lines</keyword>
-    <keyword>Power over Ethernet</keyword>
-    <keyword>reconciliation sublayer</keyword>
-    <keyword>repeater</keyword>
-    <keyword>RS</keyword>
-    <keyword>type field</keyword>
-    <keyword>VLAN tag</keyword>
     <abstract>Ethernet local area network operation is specified for selected speeds of operation from 1 Mb/s to 400 Gb/s using a common media access control (MAC) specification and management information base (MIB). The Carrier Sense Multiple Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium (half duplex) operation, as well as full duplex operation. Speed specific Media Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY) for operation over coaxial, twisted pair or fiber optic cables, or electrical backplanes. System considerations for multisegment shared access networks describe the use of Repeaters that are defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation is supported at all speeds. Other specified capabilities include: various PHY types for access networks, PHYs suitable for metropolitan area network applications, and the provision of power over selected twisted pair PHY types.</abstract>
   </front>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-012a.2020" target="https://ieeexplore.ieee.org/document/9162567">
   <front>
     <title>IEEE Guide for the Application of Capacitance Current Switching for AC High-Voltage Circuit Breakers Above 1000 V Amendment 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9162567"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,18 +11,7 @@
       </address>
     </author>
     <date year="2020" month="August" day="7"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Capacitance</keyword>
-    <keyword>Switching circuits</keyword>
-    <keyword>Shunts (electrical)</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>capacitive current switching</keyword>
-    <keyword>circuit breaker capacitive inrush/outrush limitations</keyword>
-    <keyword>IEEE C37.012a</keyword>
-    <keyword>switching reactor compensated lines</keyword>
     <abstract>Covered in this amendment are changes in di/dt limitations for non-oil circuit breakers. A section has been added describing possible delayed current zeros when doing a rapid close-open of a line circuit breaker (CO) when shunt reactors are connected to a line or cable. Some minor errors have been corrected and references have been updated.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9162567"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-40b.1996" target="https://ieeexplore.ieee.org/document/554941">
   <front>
     <title>IEEE Standard Service Conditions and Definitions for External Fuses for Shunt Capacitors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.81582"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,8 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Power capacitors</keyword>
-    <keyword>external capacitor fuses</keyword>
     <abstract>Definitions for high-voltage external capacitor fuses (above 1000 V) used for the protection of shunt capacitor banks are covered in this supplement.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.81582"/>
 </reference>

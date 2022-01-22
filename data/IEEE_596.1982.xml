@@ -1,7 +1,6 @@
 <reference anchor="IEEE.596.1982" target="https://ieeexplore.ieee.org/document/574717">
   <front>
     <title>IEEE Standard Parallel Highway Interface System (CAMAC) (Computer Automated Measurement and Control)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81715"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Instrumentation</keyword>
-    <keyword>Data communication</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Data transfer</keyword>
-    <keyword>parallel</keyword>
-    <keyword>highway</keyword>
-    <keyword>interface</keyword>
-    <keyword>system</keyword>
-    <keyword>CAMAC</keyword>
     <abstract>The CAMAC parallel highway interface system for interconnecting up to seven CAMAC crates (or other devices) and a system controller is defined. In particular, the signals, timing, and logical organization of the connections from crate controllers and parallel highway drivers to the parallel highway through a standard connector are defined. The internal structures of crate controllers and parallel highway drivers, and the physical construction of the parallel highway system, are defined only as they affect compatibility between parts of the system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1982.81715"/>
 </reference>

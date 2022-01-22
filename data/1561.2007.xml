@@ -1,22 +1,11 @@
 <reference anchor="IEEE.1561.2007" target="https://ieeexplore.ieee.org/document/4522641">
   <front>
     <title>IEEE Guide for Optimizing the Performance and Life of Lead-Acid Batteries in Remote Hybrid Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4522641"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="June"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Lead acid batteries</keyword>
-    <keyword>Hybrid power systems</keyword>
-    <keyword>Lead</keyword>
-    <keyword>1561-2007</keyword>
-    <keyword>charge control</keyword>
-    <keyword>deficit-charge cycling</keyword>
-    <keyword>oxygen recombination cycle</keyword>
-    <keyword>remote hybrid power systems</keyword>
-    <keyword>valve-regulated lead-acid (VRLA) batteries</keyword>
-    <keyword>vented lead-acid batteries</keyword>
     <abstract>This guide is applicable to lead-acid batteries that are used as the energy storage component in remote hybrid power supplies. The remote hybrid application, with its dual generator option, i.e., both renewable and dispatchable generation, is advantageous in that the battery can usually be charged at will and under circumstances that may also be advantageous for the dispatchable generator. The normative references provide guidance to battery safety, installation, and maintenance considerations. This guide discusses battery selection, sizing, and management issues, e.g., cycling, charging, and the effect of temperature and charge-discharge rates on performances such as life and capacity. An informative annex discusses the several lead-acid technologies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4522641"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1327-2.1993" target="https://ieeexplore.ieee.org/document/316885">
   <front>
     <title>IEEE Standard for Information Technology--Directory Services C Language Interfaces--Binding for Application Program Interface (API)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.120262"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>C languages</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Authentication</keyword>
-    <keyword>Portable application</keyword>
-    <keyword>Open systems</keyword>
-    <keyword>Directory</keyword>
-    <keyword>C language</keyword>
-    <keyword>Application portability</keyword>
-    <keyword>API</keyword>
     <abstract>A C programming language binding for the Application Program Interface (API) to directory services in IEEE Std 1224.2-1993 is defined. This standard is intended for use by application developers, system implementors, test method writers, and users to support application portability at the source-code level. The interface is designed for operational, rather than for management, interactions with a directory such as knowledge management or schema management. Security features are not generally visible in the interface in order to permit flexibility in security policies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1994.120262"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-1aj.2009" target="https://ieeexplore.ieee.org/document/5372461">
   <front>
     <title>IEEE Standard for Local and Metropolitan Area Networks--Virtual Bridged Local Area Networks Amendment 11: Two-Port Media Access Control (Mac) Relay</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5372461"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Relays</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>802.1aj-2009</keyword>
-    <keyword>802.1Q-2005</keyword>
-    <keyword>MAC Relay</keyword>
-    <keyword>network interface device</keyword>
-    <keyword>Provider Bridged Networks</keyword>
-    <keyword>Virtual Bridged Local Area Networks</keyword>
-    <keyword>Virtual LANs</keyword>
-    <keyword>VLANs</keyword>
     <abstract>This amendment to IEEE Std 802.1 Q specifies the function of a MAC Relay with two MACs, and the protocols and procedures to support its operation. A MAC Relay is transparent to all frame-based media independent protocols except those explicitly addressed to this device. It is remotely manageable through at least one of its external MACs, and signals a failure of either MAC'S LAN through the other MAC.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.5372461"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-102.1995" target="https://ieeexplore.ieee.org/document/8684617">
   <front>
     <title>IEEE Guide for AC Generator Protection</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684617"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ac generator</keyword>
-    <keyword>generator protection</keyword>
-    <keyword>relay protection</keyword>
-    <keyword>synchronous</keyword>
     <abstract>Superseded by IEEE Std C37.102-2006 A review of the generally accepted forms of relay protection for the synchronous generator and its excitation system is presented. This guide is primarily concerned with protection against faults and abnormal operating conditions for large hydraulic, steam and conbustion-turbine generators.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684617"/>
 </reference>

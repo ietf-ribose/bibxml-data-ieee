@@ -1,7 +1,6 @@
 <reference anchor="IEEE.487-4.2013" target="https://ieeexplore.ieee.org/document/6908979">
   <front>
     <title>IEEE Standard for the Electrical Protection of Communication Facilities Serving Electric Supply Locations Through the Use of Neutralizing Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6908979"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2014" month="September" day="24"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Communication systems</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>electric supply locations</keyword>
-    <keyword>IEEE 487.4</keyword>
-    <keyword>neutralizing transformers power stations</keyword>
-    <keyword>protection</keyword>
-    <keyword>wire-line communications</keyword>
     <abstract>Engineering design procedures for the electrical protection of communication facilities serving electric supply locations through the use of neutralizing transformers are presented in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6908979"/>
 </reference>

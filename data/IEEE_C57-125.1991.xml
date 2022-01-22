@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-125.1991" target="https://ieeexplore.ieee.org/document/159485">
   <front>
     <title>IEEE Guide for Failure Investigation, Documentation, and Analysis for Power Transformers and Shunt Reactors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101090"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2015" month="December" day="23"/>
-    <keyword>Failure analysis</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Inductors</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Electrical tests</keyword>
-    <keyword>Diagnostic tests</keyword>
     <abstract>A procedure to be used to perform a failure analysis is recommended. The procedure is primarily focused on power transformers used on electrical utility systems, although it may be used for an investigation into any ac transformer failure. This document provides a methodology by which the most probable cause of any particular transformer failure may be determined. This document is also intended to encourage the establishment of routine and uniform data collection procedures, consistency of nomenclature and compatibility with similar efforts by otherre organizations, and cooperative effects by users and manufacturers during the failure analysis.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101090"/>
 </reference>

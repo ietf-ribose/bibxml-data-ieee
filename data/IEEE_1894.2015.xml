@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1894.2015" target="https://ieeexplore.ieee.org/document/7353102">
   <front>
     <title>IEEE Guide for Online Monitoring and Recording Systems for Transient Overvoltages in Electric Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7353102"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2015" month="December" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Recording systems</keyword>
-    <keyword>Transient analysis</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Power transmission</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>capability checkout</keyword>
-    <keyword>divider system</keyword>
-    <keyword>IEEE 1894(TM)</keyword>
-    <keyword>recording system</keyword>
-    <keyword>transient overvoltages</keyword>
     <abstract>The guide for the online monitoring and recording system of transient overvoltages in power system is used to regularize its methods, define the concrete structure of recording system for transient overvoltages, and identify the requirements of capability checkout and uncertainty in online monitoring and recording systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7353102"/>
 </reference>

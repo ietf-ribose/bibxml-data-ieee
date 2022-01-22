@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1325.1996" target="https://ieeexplore.ieee.org/document/8684719">
   <front>
     <title>IEEE Recommended Practice for Reporting Field Failure Data for Power Circuit Breakers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684719"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,7 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>power circuit breakers</keyword>
     <abstract>A format is presented that provides a concise and meaningful method for recording pertinent information on power circuit breaker field failures. It is recommended that this format be utilized in record keeping and directing corrective action to improve field reliability of power circuit breakers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684719"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.216.1960" target="https://ieeexplore.ieee.org/document/573615">
   <front>
     <title>IRE Standards on Solid-State Devices: Definitions of Semiconductor Terms</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.81705"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,9 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="18"/>
-    <keyword>definitions</keyword>
-    <keyword>demiconductor</keyword>
-    <keyword>solid-state devices</keyword>
     <abstract>Definitions of Semiconductor Terms</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1960.81705"/>
 </reference>

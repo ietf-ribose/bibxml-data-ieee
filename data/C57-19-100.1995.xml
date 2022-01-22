@@ -1,20 +1,11 @@
 <reference anchor="IEEE.C57-19-100.1995" target="https://ieeexplore.ieee.org/document/475520">
   <front>
     <title>IEEE Guide for Application of Power Apparatus Bushings</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79071"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2013" month="February" day="22"/>
-    <keyword>Insulators</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>application</keyword>
-    <keyword>circuit breakers</keyword>
-    <keyword>transformers</keyword>
-    <keyword>power apparatus bushings</keyword>
-    <keyword>isolated-phase bus</keyword>
     <abstract>Guidance on the use of outdoor power apparatus bushings is provided. The bushings are limited to those built in accordance with IEEE Std C57.19.00-1991. General information and recommendations for the application of power apparatus bushings, when incorporated as part of power transformers, power circuit breakers, and isolated-phase bus, are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.79071"/>
 </reference>

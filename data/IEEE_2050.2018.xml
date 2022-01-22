@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2050.2018" target="https://ieeexplore.ieee.org/document/8445674">
   <front>
     <title>IEEE Standard for a Real-Time Operating System (RTOS) for Small-Scale Embedded Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8445674"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,50 +11,7 @@
       </address>
     </author>
     <date year="2018" month="August" day="24"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Real-time systems</keyword>
-    <keyword>Task analysis</keyword>
-    <keyword>Embedded systems</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>16-bit CPU</keyword>
-    <keyword>alarm handler</keyword>
-    <keyword>API</keyword>
-    <keyword>Application Programming Interface</keyword>
-    <keyword>cyclic handler</keyword>
-    <keyword>device management</keyword>
-    <keyword>embedded</keyword>
-    <keyword>event flag</keyword>
-    <keyword>fast lock</keyword>
-    <keyword>fast multi-lock</keyword>
-    <keyword>IEEE 2050&amp;#8482;</keyword>
-    <keyword>interrupt handler</keyword>
-    <keyword>kernel</keyword>
-    <keyword>IoT edgenode</keyword>
-    <keyword>mailbox</keyword>
-    <keyword>memory pool</keyword>
-    <keyword>message buffer</keyword>
-    <keyword>mutex</keyword>
-    <keyword>non-task portion</keyword>
-    <keyword>physical timer</keyword>
-    <keyword>power management</keyword>
-    <keyword>power saving</keyword>
-    <keyword>priority-based</keyword>
-    <keyword>quasi-task portion</keyword>
-    <keyword>real time</keyword>
-    <keyword>real-time operating system (RTOS)</keyword>
-    <keyword>semaphore</keyword>
-    <keyword>service profile</keyword>
-    <keyword>single chip microcomputer</keyword>
-    <keyword>single chip micro-controller</keyword>
-    <keyword>small scale</keyword>
-    <keyword>system call</keyword>
-    <keyword>task</keyword>
-    <keyword>task dispatching</keyword>
-    <keyword>task portion</keyword>
-    <keyword>task independent portion</keyword>
-    <keyword>task scheduling</keyword>
-    <keyword>TRON</keyword>
-    <keyword>&amp;#956;T-Kernel</keyword>
     <abstract>A real-time operating system (RTOS) called μT-Kernel for small-scale embedded systems such as systems with a single chip microcomputer including 16-bit CPUs, systems with a small amount of ROM/RAM, and systems without a memory management unit (MMU) are specified in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8445674"/>
 </reference>

@@ -11,14 +11,6 @@
       </address>
     </author>
     <date year="2015" month="February" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Security</keyword>
-    <keyword>Network security</keyword>
-    <keyword>Multicast communication</keyword>
-    <keyword>group</keyword>
-    <keyword>multicast</keyword>
-    <keyword>group management</keyword>
-    <keyword>group security</keyword>
     <abstract>This amendment standard specifies mechanisms to enable multicast group management for MIH services. The specification defines management primitives and messages that enable a user to join, leave or update group membership and security mechanisms to protect multicast communication.</abstract>
   </front>
 </reference>

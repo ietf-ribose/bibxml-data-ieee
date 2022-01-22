@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-161.2018" target="https://ieeexplore.ieee.org/document/8571325">
   <front>
     <title>IEEE Guide for Dielectric Frequency Response Test</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8571325"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2018" month="December" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Dielectrics</keyword>
-    <keyword>Frequency response</keyword>
-    <keyword>Oil insulation</keyword>
-    <keyword>Moisture measurement</keyword>
-    <keyword>dielectric frequency response</keyword>
-    <keyword>dissipation factor</keyword>
-    <keyword>IEEE C57.161(TM)</keyword>
-    <keyword>moisture estimation</keyword>
-    <keyword>oil conductivity</keyword>
     <abstract>Dielectric Frequency Response (DFR) test methods of liquid immersed transformers are discussed in this guide. The guide includes recommendations for instrumentation, procedures for performing the tests, and techniques for analyzing the data. This guide describes factors affecting the DFR test moisture estimate including winding configuration and measurement set-up, cellulose material type, low molecular weight acids, and background ac/dc noise interference. This guide is applicable to both field and factory applications. The purpose of this guide is to provide the user with information that will assist in performing Dielectric Frequency Response measurements and interpreting the results from these measurements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8571325"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.2140-1.2020" target="https://ieeexplore.ieee.org/document/9248667">
   <front>
     <title>IEEE Standard for General Requirements for Cryptocurrency Exchanges</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9248667"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2020" month="November" day="4"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Blockchain</keyword>
-    <keyword>Cryptocurrency</keyword>
-    <keyword>cryptocurrency</keyword>
-    <keyword>exchange</keyword>
-    <keyword>IEEE 2140.1</keyword>
-    <keyword>self-discipline</keyword>
-    <keyword>transaction</keyword>
     <abstract>Self-discipline and professional ethics of cryptocurrency exchange platforms, as well as relevance between them and to cryptocurrency wallets are covered in this standard. Exchange business logic, operational procedures, user authentication programs are also covered in this standard. In addition, a small but necessary technical category of requirements, including terminologies, basic architectural framework, key indicators, end-user interface specifications, in order to achieve the previously mentioned goals is covered in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9248667"/>
 </reference>

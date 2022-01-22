@@ -1,7 +1,6 @@
 <reference anchor="AIEE.26.1930" target="https://ieeexplore.ieee.org/document/7387650">
   <front>
     <title>AIEE Automatic Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1930.7387650"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,10 +11,6 @@
       </address>
     </author>
     <date year="2016" month="January" day="20"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Substation automation</keyword>
-    <keyword>Power transmission</keyword>
-    <keyword>Power systems</keyword>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1930.7387650"/>
 </reference>

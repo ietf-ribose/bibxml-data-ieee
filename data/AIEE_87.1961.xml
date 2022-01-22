@@ -1,7 +1,6 @@
 <reference anchor="AIEE.87.1961" target="https://ieeexplore.ieee.org/document/7439704">
   <front>
     <title>AIEE Proposed Recommended Practice for Medium-Voltage Motor Controllers for Rubber and Plastics Industries</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.7439704"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="23"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Medium voltage</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Plastics industry</keyword>
-    <keyword>Rubber industry</keyword>
-    <keyword>Controllers</keyword>
     <abstract>The provisions of this Recommended Practice apply to the construction and application of controllers for alternating-current motors in the medium-voltage classification (601 to 5,000 volts). Although many of the specifications herein have been influenced by the conditions peculiar to the processing areas of the industries, it is probable that they may be applied to all purchases of controllers for a given company in order to promote uniformity. They are intended as minimum requirements, and should be supplemented where special needs exist.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1961.7439704"/>
 </reference>

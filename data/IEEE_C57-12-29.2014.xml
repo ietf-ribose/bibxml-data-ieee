@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C57-12-29.2014" target="https://ieeexplore.ieee.org/document/6874471">
   <front>
     <title>IEEE Standard for Pad-Mounted Equipment--Enclosure Integrity for Coastal Environments</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6874471"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2014" month="August" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Pad mounted equipment</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Enclosures</keyword>
-    <keyword>Switching systems</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>enclosure integrity</keyword>
-    <keyword>IEEE C57.12.29(TM)</keyword>
-    <keyword>pad-mounted equipment</keyword>
-    <keyword>switches</keyword>
-    <keyword>transformers</keyword>
-    <keyword>voltage regulators</keyword>
     <abstract>Conformance tests and requirements for the integrity of above-grade pad-mounted enclosures for application in coastal environments that contain apparatus energized in excess of 600 V and that may be exposed to the public are described. These include, but are not limited to,the following types of equipment enclosures: pad-mounted capacitors or inductors, pad-mounted distribution transformers, pad-mounted junction enclosures, pad-mounted metering equipment, pad-mounted switchgear, and pad-mounted voltage regulators.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2014.6874471"/>
 </reference>

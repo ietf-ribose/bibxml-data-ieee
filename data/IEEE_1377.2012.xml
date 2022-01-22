@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1377.2012" target="https://ieeexplore.ieee.org/document/6264065">
   <front>
     <title>IEEE Standard for Utility Industry Metering Communication Protocol Application Layer (End Device Data Tables)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6264065"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,14 +10,7 @@
       </address>
     </author>
     <date year="2012" month="August" day="9"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Automatic meter reading</keyword>
-    <keyword>Electricity supply industry</keyword>
-    <keyword>Table lookup</keyword>
-    <keyword>ANSI C12.19</keyword>
-    <keyword>End Device</keyword>
-    <keyword>IEEE 1377</keyword>
-    <keyword>Utility Tables</keyword>
     <abstract>Common structures are provided in this standard for encoding data in communication between End Devices (meters, home appliances, IEEE 1703 Nodes) and Utility enterprise collection and control systems using binary codes and Extensible Markup Language (XML) content. The Advanced Metering Infrastructure (AMI) and SmartGrid requirements are addressed as identified by the Office of Electricity Delivery and Energy Reliability of the U.S. Department of Energy and by the Smart Metering Initiative of the Ontario Ministry of Energy (Canada) and of Measurement Canada. Sets of tables are exposed that are grouped together into sections that pertain to a particular feature-set and related function such as Time-of-use, Load Profile, Security, Power Quality, and more. Each standard Table Set (Data Model) can be expanded or restricted by the Manufacturer of the IEEE 1377 Device or home appliance using XML/TDL descriptive registered syntax (XML-based Table Definition Language) and enterprise data-value management using EDL (Exchange Data Language) in a manner that is machine readable. Published jointly with NEMA and Measurement Canada, Tables are provided in support of Gas, Water, and Electric sensors and related appliances. Tables are also provided for network configuration and management by referencing its companion standard IEEE Std 1703™-2012. IEEE Std 1377-2012 is co-published as ANSI C12.19 and MC12.19.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6264065"/>
 </reference>

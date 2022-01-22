@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-118-1.2011" target="https://ieeexplore.ieee.org/document/6111219">
   <front>
     <title>IEEE Standard for Synchrophasor Measurements for Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6111219"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,31 +10,7 @@
       </address>
     </author>
     <date year="2014" month="December" day="3"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Data storage</keyword>
-    <keyword>Data processing</keyword>
-    <keyword>Vectors</keyword>
-    <keyword>Error statistics</keyword>
-    <keyword>Phasor measurement units</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>data concentrator</keyword>
-    <keyword>DC</keyword>
-    <keyword>FE</keyword>
-    <keyword>frequency error</keyword>
-    <keyword>IEEE C37.118.1</keyword>
-    <keyword>IRIG-B</keyword>
-    <keyword>PDC</keyword>
-    <keyword>phasor</keyword>
-    <keyword>phasor measurement</keyword>
-    <keyword>phasor measurement unit</keyword>
-    <keyword>PMU</keyword>
-    <keyword>RFE</keyword>
-    <keyword>ROCOF</keyword>
-    <keyword>ROCOF error</keyword>
-    <keyword>synchronized phasor</keyword>
-    <keyword>synchrophasor</keyword>
-    <keyword>total vector error</keyword>
-    <keyword>TVE</keyword>
     <abstract>Synchronized phasor (synchrophasor) measurements for power systems are presented. This standard defines synchrophasors, frequency, and rate of change of frequency (ROCOF) measurement under all operating conditions. It specifies methods for evaluating these measurements and requirements for compliance with the standard under both steady-state and dynamic conditions. Time tag and synchronization requirements are included. Performance requirements are confirmed with a reference model, provided in detail. This document defines a phasor measurement unit (PMU), which can be a stand-alone physical unit or a functional unit within another physical unit. This standard does not specify hardware, software, or a method for computing phasors, frequency, or ROCOF.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6111219"/>
 </reference>

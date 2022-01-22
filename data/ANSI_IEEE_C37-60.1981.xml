@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-60.1981" target="https://ieeexplore.ieee.org/document/579142">
   <front>
     <title>IEEE Standard Requirements for Overhead, Pad Mounted, Dry Vault, and Submersible Automatic Circuit Reclosers and Fault Interrupters for AC Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81980"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,14 +11,7 @@
       </address>
     </author>
     <date year="2017" month="January" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Underwater vehicles</keyword>
-    <keyword>Interrupters</keyword>
-    <keyword>Consumer electronics</keyword>
-    <keyword>ANSI</keyword>
-    <keyword>Switchgear testing</keyword>
-    <keyword>Reclosing devices</keyword>
-    <keyword>Interrupters</keyword>
     <abstract>This standard applies to all overhead, pad mounted, dry vault and submersible single or multi-pole alternating current automatic circuit reclosers and fault interrupters for rated maximum voltages above 1000 V. In order to simplify this standard where possible, the term recloser has been substituted for automatic circuit recloser or fault interrupter or both.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81980"/>
 </reference>

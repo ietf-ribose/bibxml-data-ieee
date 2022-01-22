@@ -1,7 +1,6 @@
 <reference anchor="IEEE.317.2013" target="https://ieeexplore.ieee.org/document/6557399">
   <front>
     <title>IEEE Standard for Electric Penetration Assemblies in Containment Structures for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6557399"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,36 +10,7 @@
       </address>
     </author>
     <date year="2013" month="July" day="11"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Conductors</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Apertures</keyword>
-    <keyword>Power system restoration</keyword>
-    <keyword>Power system assembly</keyword>
-    <keyword>aperture seals</keyword>
-    <keyword>class MC components</keyword>
-    <keyword>conductor seals</keyword>
-    <keyword>containment electric penetration assembly</keyword>
-    <keyword>containment penetrations</keyword>
-    <keyword>control power penetrations</keyword>
-    <keyword>DBE</keyword>
-    <keyword>design basis events</keyword>
-    <keyword>electric penetration assembly</keyword>
-    <keyword>electrical penetration assembly</keyword>
-    <keyword>fiber seals</keyword>
-    <keyword>IEEE 317</keyword>
-    <keyword>instrumentation penetrations</keyword>
-    <keyword>low voltage power penetrations</keyword>
-    <keyword>LVP</keyword>
-    <keyword>medium voltage power penetrations</keyword>
-    <keyword>module seals</keyword>
-    <keyword>MVP</keyword>
-    <keyword>penetration feedthroughs</keyword>
-    <keyword>penetration modules</keyword>
-    <keyword>qualified life</keyword>
-    <keyword>SAC</keyword>
-    <keyword>severe accident conditions</keyword>
     <abstract>An electric penetration assembly is an assembly of insulated electric conductors, conductor seals, module seals (if any), and aperture seals that provides the passage of the electric conductors through a single aperture in the nuclear containment structure, while providing a pressure barrier between the inside and the outside of the containment structure. The electric penetration assembly includes terminal (junction) boxes, terminal blocks, connectors and cable supports, and splices which are designed and furnished as an integral part of the assembly. Requirements for the design, construction, qualification, test, and installation of electric penetration assemblies in nuclear containment structures for stationary nuclear power generating stations are prescribed in this standard. Criteria intended to facilitate the determination of the features of design, construction, test, qualification, and installation relative to the electric penetration assemblies of primary containments of the nuclear facilities that comply with the United States Nuclear Regulatory Commission's Code of Federal Regulations (10CFR50) are presented in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6557399"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C62-59.2019" target="https://ieeexplore.ieee.org/document/8886679">
   <front>
     <title>IEEE Standard for Test Methods and Preferred Values for Silicon PN-Junction Clamping Diodes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8886679"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="29"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Avalanche photodiodes</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>Surge protection</keyword>
-    <keyword>Silicon</keyword>
-    <keyword>Junctions</keyword>
-    <keyword>Clamps</keyword>
-    <keyword>avalanche breakdown</keyword>
-    <keyword>electrical characteristics</keyword>
-    <keyword>electrical ratings</keyword>
-    <keyword>foldback</keyword>
-    <keyword>forward conduction</keyword>
-    <keyword>IEEE C62.59</keyword>
-    <keyword>overvoltage protection</keyword>
-    <keyword>punch-through</keyword>
-    <keyword>surge protective component (SPC)</keyword>
-    <keyword>test methods</keyword>
-    <keyword>Zener breakdown</keyword>
     <abstract>Supersedes IEEE C62.35-2010 and IEEE C62.35-2010/Cor1-2018. The basic electrical parameters to be met by silicon PN junction voltage clamping components used for the protection of telecommunications equipment or lines from surges are defined in this standard. It is intended that this standard be used for the harmonization of existing or future specifications issued by PN diode surge protective component manufacturers, telecommunication equipment manufacturers, administrations, or network operators.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8886679"/>
 </reference>

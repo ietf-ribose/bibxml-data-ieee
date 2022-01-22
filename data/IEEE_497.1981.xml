@@ -1,7 +1,6 @@
 <reference anchor="IEEE.497.1981" target="https://ieeexplore.ieee.org/document/27805">
   <front>
     <title>IEEE Standard Criteria for Accident Monitoring Instrumentation for Nuclear Power Generating Stations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81019"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,16 +11,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="4"/>
-    <keyword>Accidents</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>Fission reactor safety</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Standards</keyword>
-    <keyword>post</keyword>
-    <keyword>accident</keyword>
-    <keyword>monitoring</keyword>
-    <keyword>instrumentation</keyword>
-    <keyword>nuclear</keyword>
     <abstract>Criteria for variable selection, performance, design, and qualification of accident monitoring instrumentation are established in this standard. Included requirements for display alternatives for accident monitoring instrumentation, documentation of design bases, and use of portable instrumentation.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.81019"/>
 </reference>

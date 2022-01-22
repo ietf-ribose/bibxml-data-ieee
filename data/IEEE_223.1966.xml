@@ -1,7 +1,6 @@
 <reference anchor="IEEE.223.1966" target="https://ieeexplore.ieee.org/document/7378259">
   <front>
     <title>IEEE Standard Definitions of Terms for Thyristors</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1966.7378259"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="11"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Thyristors</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Dictionaries</keyword>
     <abstract>Presents a list of the standard definition of terms for thyristors. Sections include: classes of thyristors; physical structure nomenclature and electrical characteristic terms.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1966.7378259"/>
 </reference>

@@ -1,22 +1,11 @@
 <reference anchor="IEEE.120.1955" target="https://ieeexplore.ieee.org/document/18444">
   <front>
     <title>IEEE Standard for Master Test Code for Electrical Measurements in Power Circuits</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1955.119034"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2015" month="October" day="29"/>
-    <keyword>Current measurement</keyword>
-    <keyword>Furnaces</keyword>
-    <keyword>Electric machines</keyword>
-    <keyword>Measurement standards</keyword>
-    <keyword>Power measurement</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Rectifiers</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>measurements</keyword>
-    <keyword>power</keyword>
-    <keyword>circuits</keyword>
     <abstract>The methods given here include measurements, as made with either indicating or integrating instruments, of power, voltage and current in direct current and alternating-current single-phase and polyphase rotating machinery, transformers, induction apparatus, arc and resistance heating equipment and mercury rectifiers. It also includes measurements made with supplementary instruments and devices. This code does not include such measurements as resistance and temperature which are often included in determining the performance characteristics of electric machinery. Instruments for these latter measurements will be found in the specific codes dealing with the particular measurement; such as AIEE Master Test Code for Temperature Measurement, No. 551.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1955.119034"/>
 </reference>

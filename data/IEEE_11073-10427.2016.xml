@@ -1,7 +1,6 @@
 <reference anchor="IEEE.11073-10427.2016" target="https://ieeexplore.ieee.org/document/7839876">
   <front>
     <title>IEEE Standard - Health informatics--Personal health device communication - Part 10427: Device specialization--Power Status Monitor of Personal Health Devices</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7839876"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="2"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Informatics</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Lightning</keyword>
-    <keyword>Partial discharge</keyword>
-    <keyword>Rail transportation</keyword>
-    <keyword>Ferroresonance</keyword>
-    <keyword>Voltage measurement</keyword>
-    <keyword>IEEE 11073-10427&amp;#8482;</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>personal health devices</keyword>
-    <keyword>power status monitor (PSM)</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a normative definition of power status communication between personal health devices (PHDs) and managers (e.g., cell phones, personal computers, personal health appliances, and set-top boxes) is established by this standard in a manner that enables plug-and-play interoperability. Appropriate portions of existing standards are leveraged, including ISO/IEEE 11073 terminology, information models, application profile standards, and transport standards. The use of specific term codes, formats, and behaviors in telehealth environments restricting optionality in base frameworks in favor of interoperability are specified. A common core of communication functionality for monitoring the power status of PHDs is defined in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7839876"/>
 </reference>

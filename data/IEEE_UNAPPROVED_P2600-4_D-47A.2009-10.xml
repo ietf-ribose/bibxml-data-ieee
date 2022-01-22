@@ -9,33 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Hardcopy</keyword>
-    <keyword>Paper</keyword>
-    <keyword>Document</keyword>
-    <keyword>Printer</keyword>
-    <keyword>Scanner</keyword>
-    <keyword>Copier</keyword>
-    <keyword>Facsimile</keyword>
-    <keyword>Fax</keyword>
-    <keyword>Document Server</keyword>
-    <keyword>Document Storage and Retrieval</keyword>
-    <keyword>Nonvolatile storage</keyword>
-    <keyword>Residual data</keyword>
-    <keyword>Temporary data</keyword>
-    <keyword>Disk overwrite</keyword>
-    <keyword>Network interface</keyword>
-    <keyword>Shared communications medium</keyword>
-    <keyword>Multifunction Device</keyword>
-    <keyword>Multifunction Product</keyword>
-    <keyword>All-In-One</keyword>
-    <keyword>MFD</keyword>
-    <keyword>MFP</keyword>
-    <keyword>Network</keyword>
-    <keyword>Office</keyword>
-    <keyword>ISO/IEC 15408</keyword>
-    <keyword>Common Criteria</keyword>
-    <keyword>Protection Profile</keyword>
-    <keyword>Security Target</keyword>
     <abstract>This standard covers the Protection Profile for Hardcopy Devices in a small, private information processing environment in which most elements of security are provided by the physical environment, but basic network security is needed to protect the device and its network from misuse from outside of the environment. Small offices and home offices are typical applications of this environment. This environment will be known as "Operational Environment D."</abstract>
   </front>
 </reference>

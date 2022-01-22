@@ -10,21 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Virtual environments</keyword>
-    <keyword>Bridge circuits</keyword>
-    <keyword>LANs</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>metropolitan area networks</keyword>
-    <keyword>MAC Bridges</keyword>
-    <keyword>Bridged LocalArea Networks</keyword>
-    <keyword>virtual LANs</keyword>
-    <keyword>Virtual Bridged Local Area Networks</keyword>
-    <keyword>Provider Backbone Bridge Local Area Networks (PBB)</keyword>
-    <keyword>Multiple Spanning Tree Protocol (MSTP)</keyword>
-    <keyword>Shortest Path Bridging Protocol (SPB) (SPBV) (SPBM) Intermediate System to Intermediate System (IS-IS).</keyword>
     <abstract>This amendment specifies shortest path bridging of unicast and multicast frames, including protocols to calculate multiple active topologies that can share learnt station information, and support of a VLAN by multiple, per topology VLAN identifiers (VIDs).</abstract>
   </front>
 </reference>

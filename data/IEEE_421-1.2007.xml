@@ -1,7 +1,6 @@
 <reference anchor="IEEE.421-1.2007" target="https://ieeexplore.ieee.org/document/4274782">
   <front>
     <title>IEEE Standard Definitions for Excitation Systems for Synchronous Machines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.385319"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Power generation</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>definitions of excitation controls</keyword>
-    <keyword>excitation block diagrams</keyword>
-    <keyword>excitation control systems</keyword>
-    <keyword>excitation systems terminology</keyword>
-    <keyword>synchronous generator controls</keyword>
     <abstract>This standard defines elements and commonly used components in excitation systems and contains definitions for excitation systems applied to synchronous machines. An included annex contains one-line block diagrams of some typical excitation systems. These are presented to illustrate the defined terminology referenced in this standard and clarify the understanding of the excitation control system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.385319"/>
 </reference>

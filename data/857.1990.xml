@@ -1,19 +1,11 @@
 <reference anchor="IEEE.857.1990" target="https://ieeexplore.ieee.org/document/89781">
   <front>
     <title>IEEE Guide for Test Procedures for HVDC Thyristor Valves</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94609"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>DC power transmission</keyword>
-    <keyword>Power conversion</keyword>
-    <keyword>Semiconductor device testing</keyword>
-    <keyword>Thyristor applications</keyword>
-    <keyword>Thyristor-levels</keyword>
-    <keyword>Multiple-valve unit (MVU)</keyword>
-    <keyword>HVDC thyristor valves</keyword>
-    <keyword>HVDC power transmission system</keyword>
     <abstract>Information and recommendations for the type testing of thyristor valves for high-voltage directcurrent (HVDC) power transmission systems are provided. These tests cover only the principal tests on the valves and do not include tests of auxiliary equipment associated with the valves.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.94609"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1415.2006" target="https://ieeexplore.ieee.org/document/4197458">
   <front>
     <title>IEEE Guide for Induction Machinery Maintenance Testing and Failure Analysis</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.357954"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2019" month="May" day="15"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Machinery</keyword>
-    <keyword>Maintenance engineering</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>failure analysis</keyword>
-    <keyword>induction machinery</keyword>
-    <keyword>induction motor</keyword>
-    <keyword>maintenance tests</keyword>
-    <keyword>maintenance testing</keyword>
-    <keyword>root cause analysis</keyword>
     <abstract>This guide provides maintenance testing and failure analysis guidance for form-wound, squirrel cage, induction machinery rated up to 15 kV. It addresses the following machine systems: Stator (Winding and Core) Rotor (Winding and Core) Vibration and Noise Bearings and Shafts Structure, Frame Ventilation Accessories. This guide is intended for use by personnel at the facility or corporate office responsible for the operation and maintenance of large induction machines. It is a guide to aid the thought processes and procedures necessary to determine root causes for failures.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.357954"/>
 </reference>

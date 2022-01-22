@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1857-2.2013" target="https://ieeexplore.ieee.org/document/6658828">
   <front>
     <title>IEEE Standard for Advanced Audio Coding</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6658828"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="November" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Audio coding</keyword>
-    <keyword>Loss measurement</keyword>
-    <keyword>Entropy</keyword>
-    <keyword>Encoding</keyword>
-    <keyword>audio coding</keyword>
-    <keyword>scalable coding</keyword>
-    <keyword>lossless coding</keyword>
-    <keyword>LPC</keyword>
-    <keyword>vector quantization</keyword>
-    <keyword>bit-plane coding</keyword>
-    <keyword>PQ-SPSC</keyword>
-    <keyword>entropy coding</keyword>
     <abstract>This standard defines a set of tools to support specific audio coding functions including general audio coding and lossless audio coding. The tool set defined in this standard, in combination provides regular high quality and efficient coding tool sets for compression, decompression, processing, and representing of audio data to save bandwidth for transmission, to save space for storage, to speed up indexing and multimedia search, and to enhance performance when using mixed media for virtual reality and other applications that demand high bandwidth. The target applications and services include but not limited audio transmission, audio recording, internet streaming, and other video/audio enabled services and applications.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6658828"/>
 </reference>

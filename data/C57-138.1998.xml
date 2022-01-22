@@ -1,15 +1,11 @@
 <reference anchor="IEEE.C57-138.1998" target="https://ieeexplore.ieee.org/document/694189">
   <front>
     <title>IEEE Recommended Practice for Routine Impulse Test for Distribution Transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87817"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2017" month="March" day="30"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>distribution transformers</keyword>
-    <keyword>routine impulse test</keyword>
-    <keyword>production line testing</keyword>
     <abstract>General test procedures for performing routine quality control test that is suitable for high-volume, production line testing. Transformer connections, test methods, circuit configurations, and failure detection methods are addressed. This recommended practice covers liquid-immersed, single-and three-phase distribution transformers.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87817"/>
 </reference>

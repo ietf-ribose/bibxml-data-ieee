@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-A/Amd1.2015" target="https://ieeexplore.ieee.org/document/8360788">
   <front>
     <title>ISO/IEC/IEEE International Standard - Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Part A: Overview and architecture--AMENDMENT 1: Allocation of Uniform Resource Name (URN) values in IEEE 802(R) standards</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8360788"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2018" month="May" day="17"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Uniform resource locators</keyword>
-    <keyword>IEEE 802(R)</keyword>
-    <keyword>Uniform Resource Name</keyword>
-    <keyword>URN</keyword>
     <abstract>How Uniform Resource Name (URN) values are allocated in IEEE 802(R) standards is described in this amendment to IEEE Std 802(R)-2014.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2018.8360788"/>
 </reference>

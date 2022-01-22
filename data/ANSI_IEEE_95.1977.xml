@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.95.1977" target="https://ieeexplore.ieee.org/document/598211">
   <front>
     <title>IEEE Recommended Practice for Insulation Testing of Large AC Rotating Machinery with High Direct Voltage</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.82914"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,20 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Machinery</keyword>
-    <keyword>Insulation</keyword>
-    <keyword>Windings</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Insulation testing</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>installation</keyword>
-    <keyword>large</keyword>
-    <keyword>rotating</keyword>
-    <keyword>testing</keyword>
-    <keyword>AC</keyword>
-    <keyword>high direct</keyword>
-    <keyword>AC rotating</keyword>
-    <keyword>insulation testing</keyword>
     <abstract>Recommendations are made to aid in the selection of metric units, so as to promote uniformity in the use of metric units and to limit the number of different metric units that will be used in electrical and electronics science and technology. The recommendations can cover units for space and time, periodic and related phenomena, mechanics, heat, electricity and magnetism, light and related electromagnetic radiations, and acoustics. This document does not cover how metric units are to be used nor does it offer guidance concerning correct metric practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1977.82914"/>
 </reference>

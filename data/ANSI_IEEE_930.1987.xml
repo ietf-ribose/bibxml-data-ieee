@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.930.1987" target="https://ieeexplore.ieee.org/document/35060">
   <front>
     <title>IEEE Guide for the Statistical Analysis of Electrical Insulation Voltage Endurance Data</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.86250"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Aging</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Insulation testing</keyword>
-    <keyword>Statistics</keyword>
-    <keyword>statistical analysis</keyword>
-    <keyword>electrical</keyword>
-    <keyword>insulation</keyword>
-    <keyword>voltage</keyword>
-    <keyword>endurance data</keyword>
     <abstract>Replaced by 930-2004. This guide describes, with examples, statistical methods to analyze the data for time-to-failure from constant-stress voltage endurance tests or breakdown voltage from progressive-stress tests on specimens or systems of electrical insulation. Methods to compare test data are also given. The methods are principally applied to data from tests on solid insulation, but may also apply to the analyses of data from tests on gas, liquid, and composite systems. The statistical methods discussed here do not take into consideration the physical mechanism of voltage aging. The methods assume that the only aging stress is alternating voltage of constant frequency. The methods may not apply if there is more than one aging stress. Methods to ascertain the short time withstand voltage or operating voltage of an insulation system are not presented in this guide. The mathematical techniques contained in this guide may not directly apply to the estimation of equipment life.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.86250"/>
 </reference>

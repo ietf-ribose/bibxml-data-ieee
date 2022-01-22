@@ -1,7 +1,6 @@
 <reference anchor="ANSI/IEEE.C37-20-3.1987" target="https://ieeexplore.ieee.org/document/26612">
   <front>
     <title>IEEE Standard for Metal-Enclosed Interrupter Switchgear</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.79652"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,13 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Fuses</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Interrupters</keyword>
-    <keyword>substations</keyword>
-    <keyword>switchgear assemblies</keyword>
     <abstract>This standard covers metal-enclosed interrupter switchgear assemblies containing but not limited to such devices as interrupter/switches, selector switches, power fuses, control, instrumentation and metering, and protective equipment. It includes, but is not specifically limited to, equipment for the control and protection of apparatus used for distribution of electrical power. This standard is concerned with enclosed, rather than open, switchgear assemblies rated above 1000 V. It includes equipments that are part of primary and secondary unit substations. It does not include gas insulated substation equipments, nor switching devices mounted integrally within a transformer enclosure. In this standard the metal-enclosed interrupter switchgear shall be called MEI switchgear.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1987.79652"/>
 </reference>

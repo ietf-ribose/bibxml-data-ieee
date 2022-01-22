@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1404.1998" target="https://ieeexplore.ieee.org/document/690973">
   <front>
     <title>IEEE Guide for Microwave Communications System Development: Design, Procurement, Construction, Maintenance and Operation</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87818"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2019" month="October" day="31"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>communications infrastructure</keyword>
-    <keyword>digital microwave</keyword>
-    <keyword>loop system</keyword>
-    <keyword>microwave spurs</keyword>
-    <keyword>ring system</keyword>
-    <keyword>star system</keyword>
-    <keyword>teleconferencing</keyword>
-    <keyword>terrestrial microwave system</keyword>
     <abstract>The needs and requirements specific to the design, procurement, construction, maintenance, and operation of a microwave system are addressed. Steps for a variety of applications have been included in this guide; however, users should select only those steps that apply to their particular system(s) and their procurement policies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.87818"/>
 </reference>

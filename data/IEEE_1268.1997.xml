@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1268.1997" target="https://ieeexplore.ieee.org/document/617988">
   <front>
     <title>IEEE Guide for the Safe Installation of Mobile Substation Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83811"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Substations</keyword>
-    <keyword>grounding</keyword>
-    <keyword>installation</keyword>
-    <keyword>lighting</keyword>
-    <keyword>lightning stroke protection</keyword>
-    <keyword>mobile substation equipment</keyword>
-    <keyword>shielding</keyword>
-    <keyword>step voltage</keyword>
-    <keyword>surge protection</keyword>
-    <keyword>touch voltage</keyword>
-    <keyword>transferred voltage</keyword>
     <abstract>Superseded by IEEE Std 1268-2005. Information pertaining to the installation of mobile substation equipment up to 230 kV is provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83811"/>
 </reference>

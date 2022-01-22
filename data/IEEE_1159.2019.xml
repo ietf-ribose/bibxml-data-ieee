@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1159.2019" target="https://ieeexplore.ieee.org/document/8796486">
   <front>
     <title>IEEE Recommended Practice for Monitoring Electric Power Quality</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8796486"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,32 +11,7 @@
       </address>
     </author>
     <date year="2019" month="August" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power quality</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Harmonic analysis</keyword>
-    <keyword>Distortion</keyword>
-    <keyword>Noise measurement</keyword>
-    <keyword>Electromagnetics</keyword>
-    <keyword>assessment</keyword>
-    <keyword>compatibility</keyword>
-    <keyword>dip</keyword>
-    <keyword>distortion</keyword>
-    <keyword>electromagnetic phenomena</keyword>
-    <keyword>harmonics</keyword>
-    <keyword>IEEE 1159</keyword>
-    <keyword>imbalance</keyword>
-    <keyword>instruments</keyword>
-    <keyword>interference</keyword>
-    <keyword>monitoring</keyword>
-    <keyword>noise</keyword>
-    <keyword>power quality</keyword>
-    <keyword>rms variation</keyword>
-    <keyword>sag</keyword>
-    <keyword>susceptibility</keyword>
-    <keyword>swell</keyword>
-    <keyword>transient</keyword>
-    <keyword>unbalance</keyword>
     <abstract>The monitoring of electrical characteristics of single-phase and polyphase ac power systems is encompassed in this recommended practice. It includes consistent descriptions of conducted electromagnetic phenomena occurring on power systems. This recommended practice describes nominal conditions and deviations from these nominal conditions that may originate within the source of supply or load equipment or may originate from interactions between the source and the load. Also, this recommended practice discusses power quality monitoring devices, application techniques, and the interpretation of monitoring results.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8796486"/>
 </reference>

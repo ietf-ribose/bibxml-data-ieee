@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3k.1992" target="https://ieeexplore.ieee.org/document/239576">
   <front>
     <title>Supplement to 802.3 - Layer Management for 10 Mb/s Baseband Repeaters (Section 19)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.115126"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,24 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>Carrier sense multiaccess</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>Repeaters</keyword>
-    <keyword>Communication system operations and management</keyword>
-    <keyword>Communication standards</keyword>
-    <keyword>carrier sense multiple access</keyword>
-    <keyword>CSMA/CD</keyword>
-    <keyword>LAN</keyword>
-    <keyword>collision</keyword>
-    <keyword>detection</keyword>
-    <keyword>layer</keyword>
-    <keyword>management</keyword>
-    <keyword>local</keyword>
-    <keyword>area</keyword>
-    <keyword>networks</keyword>
-    <keyword>hub</keyword>
-    <keyword>repeater</keyword>
     <abstract>The supplement to ISO/IEC 8802-3: 1992 [ANSI/IEEE Std 802.3, 1992 Edition] defines a set of mechanisms that enable management of ISO/IEC 8802-3 10 Mb/s baseband repeater units. The managed objects are defined in accordance with IEEE 802.1 and ISO/IEC standards for network management.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.115126"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1413-1.2002" target="https://ieeexplore.ieee.org/document/1182553">
   <front>
     <title>IEEE Guide for Selecting and Using Reliability Predictions Based on IEEE 1413</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94232"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2020" month="April" day="30"/>
-    <keyword>Circuit reliability</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Maintenance</keyword>
-    <keyword>baseline</keyword>
-    <keyword>classic reliability</keyword>
-    <keyword>constant failure rate</keyword>
-    <keyword>estimation</keyword>
-    <keyword>failure</keyword>
-    <keyword>goal</keyword>
-    <keyword>item</keyword>
-    <keyword>operating environment</keyword>
-    <keyword>reliability prediction</keyword>
-    <keyword>requirement</keyword>
-    <keyword>system life cycle</keyword>
     <abstract>A framework for reliability prediction procedures for electronic equipment at all levels is provided in this guide .</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94232"/>
 </reference>

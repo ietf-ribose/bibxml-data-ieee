@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1076c.2007" target="https://ieeexplore.ieee.org/document/4299594">
   <front>
     <title>IEEE Standard VHDL Language Reference Manual - Procedural Language Application Interface</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4299594"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Warranties</keyword>
-    <keyword>computer languages</keyword>
-    <keyword>electronic systems</keyword>
-    <keyword>hardware</keyword>
-    <keyword>hardware design</keyword>
-    <keyword>VHDL</keyword>
     <abstract>This amendment adds a simulation runtime application interface (VHDL Programming Interface or VHPI) to the existing base standard IEEE Std 1076-2002.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4299594"/>
 </reference>

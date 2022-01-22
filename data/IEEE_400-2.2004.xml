@@ -1,7 +1,6 @@
 <reference anchor="IEEE.400-2.2004" target="https://ieeexplore.ieee.org/document/1421887">
   <front>
     <title>IEEE Guide for Field Testing of Shielded Power Cable Systems Using Very Low Frequency (VLF)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95930"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2013" month="May" day="21"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Cable insulation</keyword>
-    <keyword>Cable shielding</keyword>
-    <keyword>cable fault locating</keyword>
-    <keyword>cable system testing</keyword>
-    <keyword>cable testing</keyword>
-    <keyword>dielectric spectroscopy</keyword>
-    <keyword>grounding</keyword>
-    <keyword>hipot testing</keyword>
-    <keyword>partial discharge testing</keyword>
-    <keyword>proof testing</keyword>
-    <keyword>safety</keyword>
-    <keyword>tan delta testing</keyword>
-    <keyword>very low frequency (VLF testing</keyword>
     <abstract>This guide describes very low frequency (VLF) withstand and diagnostic tests and the measurements that are performed in the field on shielded power cable systems. Whenever possible, cable systems are treated in a similar manner to individual cables. Tables are included as an aid to identifying the effectiveness of the VLF test for various cable system insulation problems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95930"/>
 </reference>

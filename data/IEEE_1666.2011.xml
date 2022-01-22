@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1666.2011" target="https://ieeexplore.ieee.org/document/6134619">
   <front>
     <title>IEEE Standard for Standard SystemC Language Reference Manual</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6134619"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,31 +10,7 @@
       </address>
     </author>
     <date year="2013" month="August" day="15"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Computer languages</keyword>
-    <keyword>Programming</keyword>
-    <keyword>Electronic design automation and methodology</keyword>
-    <keyword>Discrete event simulation</keyword>
-    <keyword>Hardware design languages</keyword>
-    <keyword>System-on-a-chip</keyword>
-    <keyword>Embedded software</keyword>
-    <keyword>C++</keyword>
-    <keyword>computer languages</keyword>
-    <keyword>digital systems</keyword>
-    <keyword>discrete event simulation</keyword>
-    <keyword>electronic design automation</keyword>
-    <keyword>electronic system level</keyword>
-    <keyword>electronic systems</keyword>
-    <keyword>embedded software</keyword>
-    <keyword>fixed-point</keyword>
-    <keyword>hardware description language</keyword>
-    <keyword>hardware design</keyword>
-    <keyword>hardware verification</keyword>
-    <keyword>IEEE 1666</keyword>
-    <keyword>SystemC</keyword>
-    <keyword>system modeling</keyword>
-    <keyword>system-on-chip</keyword>
-    <keyword>transaction level</keyword>
     <abstract>SystemC<sup>®</sup> is defined in this standard. SystemC is an ANSI standard C++ class library for system and hardware design for use by designers and architects who need to address complex systems that are a hybrid between hardware and software. This standard provides a precise and complete definition of the SystemC class library so that a SystemC implementation can be developed with reference to this standard alone. The primary audiences for this standard are the implementors of the SystemC class library, the implementors of tools supporting the class library, and the users of the class library.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6134619"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-21-1.2017" target="https://ieeexplore.ieee.org/document/7893678">
   <front>
     <title>IEEE Standard for Local and metropolitan area networks--Part 21.1: Media Independent Services</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7893678"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,30 +10,7 @@
       </address>
     </author>
     <date year="2017" month="April" day="6"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Home automation systems</keyword>
-    <keyword>Energy management</keyword>
-    <keyword>Device-to-device communication</keyword>
-    <keyword>Media Access Protocols</keyword>
-    <keyword>Software defined networking</keyword>
-    <keyword>Mobile communication</keyword>
-    <keyword>Handover</keyword>
-    <keyword>Resource management</keyword>
-    <keyword>home energy management system</keyword>
-    <keyword>IEEE 802(R)</keyword>
-    <keyword>IEEE 802.21(TM)</keyword>
-    <keyword>IEEE 802.21.1(TM)</keyword>
-    <keyword>media independent handover</keyword>
-    <keyword>media independent service</keyword>
-    <keyword>mobile node</keyword>
-    <keyword>mobility</keyword>
-    <keyword>network-assisted device-to-device communication</keyword>
-    <keyword>point of attachment</keyword>
-    <keyword>point of services</keyword>
-    <keyword>radio resource management</keyword>
-    <keyword>seamless</keyword>
-    <keyword>software-defined radio access network</keyword>
-    <keyword>use case</keyword>
     <abstract>Several use cases and services are defined, namely, handover between heterogeneous networks, home energy management system, software-defined radio access networks (SDRANs), radio resource management (RRM), and device-to-device (D2D) communication service that need to be implemented in conjunction with the media independent services (MIS) framework as specified in IEEE Std 802.21(TM)-2017.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7893678"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.12207.2008.Redline" target="https://ieeexplore.ieee.org/document/8742773">
   <front>
     <title>ISO/IEC/IEEE International Standard - Systems and software engineering -- Software life cycle processes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.8742773"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,28 +11,7 @@
       </address>
     </author>
     <date year="2019" month="June" day="20"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Software engineering</keyword>
-    <keyword>Systems engineering and theory</keyword>
-    <keyword>12207-2008</keyword>
-    <keyword>acquisition</keyword>
-    <keyword>agreement</keyword>
-    <keyword>assessment</keyword>
-    <keyword>audit</keyword>
-    <keyword>configuration management</keyword>
-    <keyword>development</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>disposal</keyword>
-    <keyword>operation</keyword>
-    <keyword>process reference model</keyword>
-    <keyword>process improvement</keyword>
-    <keyword>quality assurance</keyword>
-    <keyword>retirement</keyword>
-    <keyword>supply</keyword>
-    <keyword>validation</keyword>
-    <keyword>verification</keyword>
     <abstract>Supersedes Std. 12207.0 and also makes 12207.2 obsolete. This International Standard was jointly developed by ISO/IEC and IEEE. This International Standard establishes a common framework for software life cycle processes, with well-defined terminology, that can be referenced by the software industry. It applies to the acquisition of systems and software products and services, to the supply, development, operation, maintenance, and disposal of software products and the software portion of a system, whethere performed internally or externally to an organization. Those aspects of system definition needed to provide the context for software products and services are included. Software includes the software portion of firmware. This revision integrates ISO/IEC 12207:1995 with its two amendments and was coordinated with the parallel revision of ISO/IEC 15288:2002 (System life cycle processes) to align structure, terms, and corresponding organizational and project processes. This standard may be used stand alone or jointly with ISO/IEC 15288, and supplies a process reference model that supports process capability assessment in accordance with ISO/IEC 15504-2 (Process assessment). An annex provides support for IEEE users and describes relationships of this International Standard to IEEE standards.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.8742773"/>
 </reference>

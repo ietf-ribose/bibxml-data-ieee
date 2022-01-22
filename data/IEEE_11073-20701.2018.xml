@@ -1,7 +1,6 @@
 <reference anchor="IEEE.11073-20701.2018" target="https://ieeexplore.ieee.org/document/8620482">
   <front>
     <title>Health informatics--Point-of-care medical device communication - Part 20701: Service-Oriented Medical Device Exchange Architecture and Protocol Binding</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8620482"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,25 +11,7 @@
       </address>
     </author>
     <date year="2019" month="January" day="18"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Point of care</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Patient monitoring</keyword>
-    <keyword>Service oriented architecture</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>alert systems</keyword>
-    <keyword>BICEPS</keyword>
-    <keyword>DiffServ</keyword>
-    <keyword>IEEE 11073-20701</keyword>
-    <keyword>ISO/IEEE 11073</keyword>
-    <keyword>MDPWS</keyword>
-    <keyword>medical device communication</keyword>
-    <keyword>NTP</keyword>
-    <keyword>patient</keyword>
-    <keyword>point-of-care</keyword>
-    <keyword>remote control</keyword>
-    <keyword>service-oriented architecture</keyword>
     <abstract>Within the context of the ISO/IEEE 11073 family of standards for point-of-care (PoC) medical device communication, an architecture for service-oriented distributed PoC medical devices and medical IT systems is defined. This standard defines a binding of the Participant, Discovery, and Communication Model defined in IEEE Std 11073-10207(TM) to the profile for transport over Web Services defined in IEEE Std 11073-20702(TM). Moreover, a binding to Network Time Protocol (NTP) and Differentiated Services (DiffServ) is defined for time synchronization and transport Quality of Service requirements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8620482"/>
 </reference>

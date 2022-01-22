@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-3.2008" target="https://ieeexplore.ieee.org/document/4726971">
   <front>
     <title>IEEE Standard for Information technology--Telecommunications and information exchange between systems--Local and metropolitan area networks--Specific requirements Part 3: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access Method and Physical Layer Specifications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4726971"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,12 +10,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="28"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>Ethernet</keyword>
-    <keyword>Local area networks</keyword>
-    <keyword>Metropolitan area networks</keyword>
-    <keyword>802.3-2008</keyword>
     <abstract>Ethernet local area network operation is specified for selected speeds of operation from 1 Mb/s to 10 Gb/s using a common media access control (MAC) specification and management information base (MIB). The Carrier Sense Multiple Access with Collision Detection (CSMA/CD) MAC protocol specifies shared medium (half duplex) operation, as well as full duplex operation. Speed specific Media Independent Interfaces (MIIs) allow use of selected Physical Layer devices (PHY) for operation over coaxial, twisted pair or fiber optic cables. System considerations for multisegment shared access networks describe the use of Repeaters which are defined for operational speeds up to 1000 Mb/s. Local Area Network (LAN) operation is supported at all speeds.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2008.4726971"/>
 </reference>

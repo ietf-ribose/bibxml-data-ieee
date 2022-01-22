@@ -11,20 +11,6 @@
       </address>
     </author>
     <date year="2020" month="August" day="3"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Medical devices</keyword>
-    <keyword>Interoperability</keyword>
-    <keyword>Computer security</keyword>
-    <keyword>Bioinformatics</keyword>
-    <keyword>Safety</keyword>
-    <keyword>IEEE 11073-40101&amp;#8482;</keyword>
-    <keyword>Medical Device Communication</keyword>
-    <keyword>Personal Health Devices</keyword>
-    <keyword>Point-of-Care Devices</keyword>
-    <keyword>Cybersecurity</keyword>
-    <keyword>Vulnerability Assessment</keyword>
-    <keyword>STRIDE</keyword>
-    <keyword>embedded Common Vulnerability Scoring System</keyword>
     <abstract>This standard defines for Personal Health Devices (PHDs) and Point-of-Care Devices (PoCDs) an iterative, systematic, scalable, and auditable approach to identification of cybersecurity vulnerabilities and estimation of risk. The standard presents one approach to iterative vulnerability assessment using the Spoofing, Tampering, Repudiation, Information Disclosure (STRIDE) classification scheme and embedded Common Vulnerability Scoring System (eCVSS) scoring system. The assessment includes system context, system decomposition, pre-mitigation scoring, mitigation, post-mitigation score and iterates until the remaining vulnerabilities are reduced to an acceptable level of risk.</abstract>
   </front>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.122.1991" target="https://ieeexplore.ieee.org/document/159442">
   <front>
     <title>IEEE Recommended Practice for Functional and Performance Characteristics of Control Systems for Steam Turbine-Generator Units</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101082"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,21 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="30"/>
-    <keyword>Load flow control</keyword>
-    <keyword>Steam turbines</keyword>
-    <keyword>Synchronous generators</keyword>
-    <keyword>Turbogenerators</keyword>
-    <keyword>Velocity control</keyword>
-    <keyword>induction turbines</keyword>
-    <keyword>condensing turbines</keyword>
-    <keyword>mixed-pressure</keyword>
-    <keyword>noncondensing</keyword>
-    <keyword>steam turbine</keyword>
-    <keyword>generator units</keyword>
-    <keyword>Noncondensing turbines</keyword>
-    <keyword>Mixed-pressure turbines</keyword>
-    <keyword>Automatic induction turbines</keyword>
-    <keyword>Automatic extraction turbines</keyword>
     <abstract>Minimum functional and performance characteristics related to speed/load-control systems for steam turbine-generator units that may be interconnected on a power system are recommended. The recommendations apply to the following types of steam turbines, rated at 500 kW and larger, intended to drive electric generators at constant speed without initial steam-pressure control, exhaust steam-pressure control, or either: (1) condensing or noncondensing turbines without initial steam-pressure control, exhaust steam-pressure control, including turbines used with reheat, regenerative feedwater heaters, or both; (2) condensing or noncondensing turbines with initial and/or exhaust steam-pressure control, including turbines used with reheat, regenerative feedwater heaters, or both; (3) automatic extraction and/or induction and mixed-pressure turbines. Emergency governors, other overspeed control devices, and, in general, devices that are not responsive to speed, are not covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.101082"/>
 </reference>

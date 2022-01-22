@@ -1,7 +1,6 @@
 <reference anchor="IEC.62526.2007" target="https://ieeexplore.ieee.org/document/8671481">
   <front>
     <title>IEC 62526 Ed. 1 (IEEE Std 1450.1(TM)-2005): Standard for Extensions to Standard Test Interface Language (STIL) for Semiconductor Design Environments</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.8671481"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,26 +11,7 @@
       </address>
     </author>
     <date year="2019" month="March" day="19"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Feedback</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>Semiconductor materials</keyword>
-    <keyword>System-on-chip</keyword>
-    <keyword>Test pattern generation</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>advanced scan architecture</keyword>
-    <keyword>core</keyword>
-    <keyword>environment</keyword>
-    <keyword>fail feedback</keyword>
-    <keyword>lockstep</keyword>
-    <keyword>parallel patterns</keyword>
-    <keyword>parameterized data</keyword>
-    <keyword>pattern tiling</keyword>
-    <keyword>pragma</keyword>
-    <keyword>signal variable</keyword>
-    <keyword>system on chip (SoC)</keyword>
-    <keyword>test protocol</keyword>
     <abstract>Standard Test Interface Language (STIL) provides an interface between digital test generation tools and test equipment. Extensions to the test interface language (contained in this standard) are defined that (1) facilitate the use of the language in the design environment and (2) facilitate the use of the language for large designs encompassing subdesigns with reusable patterns.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.8671481"/>
 </reference>

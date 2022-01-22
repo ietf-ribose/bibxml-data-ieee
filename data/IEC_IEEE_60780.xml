@@ -1,7 +1,6 @@
 <reference anchor="IEC/IEEE.60780" target="https://ieeexplore.ieee.org/document/7425113">
   <front>
     <title>IEC/IEEE International Standard - Nuclear facilities -- Electrical equipment important to safety -- Qualification</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7425113"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,28 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="3"/>
-    <keyword>IEC Standards</keyword>
-    <keyword>IEL Standards</keyword>
-    <keyword>Aging</keyword>
-    <keyword>Environmental factors</keyword>
-    <keyword>Electrical safety</keyword>
-    <keyword>Safety</keyword>
-    <keyword>Radiation effects</keyword>
-    <keyword>Condition monitoring</keyword>
-    <keyword>age conditioning</keyword>
-    <keyword>aging</keyword>
-    <keyword>condition monitoring</keyword>
-    <keyword>design basis events</keyword>
-    <keyword>equipment qualification</keyword>
-    <keyword>harsh environment</keyword>
-    <keyword>margin</keyword>
-    <keyword>mild environment</keyword>
-    <keyword>qualification method</keyword>
-    <keyword>qualified life</keyword>
-    <keyword>radiation</keyword>
-    <keyword>safety related function</keyword>
-    <keyword>significant aging mechanism</keyword>
-    <keyword>test plan</keyword>
     <abstract>This International Standard describes the basic requirements for qualifying Class 1E electrical equipment important to safety and interfaces (electrical and mechanical) that are to be used in nuclear power generating stations facilities. The principles, methods, and procedures described are intended to be used for qualifying equipment, maintaining and extending qualification, and updating qualification, as required, if the equipment is modified. The qualification requirements in this standard, when met, demonstrate and document the ability of equipment to perform safety function(s) under applicable service conditions, including design basis events and reducing certain design extension conditions, and reduce the risk of environmentally induced common-cause equipment failure.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7425113"/>
 </reference>

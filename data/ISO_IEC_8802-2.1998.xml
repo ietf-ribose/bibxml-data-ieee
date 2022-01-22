@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC.8802-2.1998" target="https://ieeexplore.ieee.org/document/8684692">
   <front>
     <title>IEEE International Standard for Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 2: Logical Link Control</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.8684692"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,8 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>local area networks</keyword>
-    <keyword>protocols; logical link control</keyword>
     <abstract>This standard is part of a family of standards for local area networks (LANs) and metropolitan area networks (MANs) that deals with the physical and data link layers as defined by the ISO Open Systems Interconnection Basic Reference Model. The functions, features, protocol, and services of the Logical Link Control (LLC) sublayer, which constitutes the top sublayer in the data link layer of the ISO/IEC 8802 LAN protocol, are described. The services required of, or by, the LLC sublayer at the logical interfaces with the network layer, the medium access control (MAC) sublayer, and the LLC sublayer management function are specified. The protocol data unit (PDU) structure for data communication systems is defined using bit-oriented procedures, as are three types of operation for data communication between service access points. In the first type of operation, PDUs are exchanged between LLCs without the need for the establishment of a data link connection. In the second type of operation, a data link connection is established between two LLCs prior to any exchange of information-bearing PDUs. In the third type of operation, PDUs are exchanged between LLCs without the need for the establishment of a data link connection, but stations are permitted to both send data and request the return of data simultaneously.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.8684692"/>
 </reference>

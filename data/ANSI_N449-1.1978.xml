@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N449-1.1978" target="https://ieeexplore.ieee.org/document/595147">
   <front>
     <title>American National Standard Procedures for Periodic Inspection of Cobalt-60 and Cesium-137 Teletherapy Equipment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.82447"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2017" month="March" day="8"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Biomedical monitoring</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>Cobalt</keyword>
-    <keyword>Cesium</keyword>
-    <keyword>Inspection</keyword>
-    <keyword>Biomedical radiation application</keyword>
     <abstract>Procedures for the inspection of cobalt-60 and cesium-137 teletherapy equipment are suggested. Their purpose is to enable users to identify and quantify malfunctions or maladjustments of the safety and radiation-defining components. Methods and equipment are listed for each procedure.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1978.82447"/>
 </reference>

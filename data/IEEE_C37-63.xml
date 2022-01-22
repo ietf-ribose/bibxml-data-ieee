@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-63" target="https://ieeexplore.ieee.org/document/617046">
   <front>
     <title>IEEE Standard Requirements for Overhead, Pad-Mounted, Dry-Vault and Submersible Automatic Line Sectionalizers for AC Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83809"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>sectionalizers</keyword>
-    <keyword>cutout type</keyword>
-    <keyword>dry-vault sectionalizers</keyword>
-    <keyword>pad-mounted</keyword>
-    <keyword>submersible</keyword>
     <abstract>Required definitions (for cutout type sectionalizers), ratings, procedures for performing design tests and production tests, constructional requirements, and application considerations for overhead and pad-mounted, dry-vault, and submersible automatic line sectionalizers for ac systems are specified. Keywords: sectionalizers, cutout type, dry-vault sectionalizers, pad-mounted, submersible</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1997.83809"/>
 </reference>

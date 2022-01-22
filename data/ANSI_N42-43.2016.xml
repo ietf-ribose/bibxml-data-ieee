@@ -1,7 +1,6 @@
 <reference anchor="ANSI.N42-43.2016" target="https://ieeexplore.ieee.org/document/7488155">
   <front>
     <title>American National Standard Performance Criteria for Mobile and Transportable Radiation Monitors Used for Homeland Security</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7488155"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2016" month="June" day="9"/>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Radiation monitoring</keyword>
-    <keyword>Monitoring</keyword>
-    <keyword>Nuclear power generation</keyword>
-    <keyword>Mobile communication</keyword>
-    <keyword>Performance evaluation</keyword>
-    <keyword>ANSI N42.43</keyword>
-    <keyword>mobile radiation monitors</keyword>
-    <keyword>transportable radiation monitors</keyword>
     <abstract>The operational and performance requirements for transportable and/or mobile radiation monitors used in homeland security applications are specified in this standard. Transportable radiation monitors are designed to be transported to a location and used for a specific task or for a specified period of time and do not require permanent mounting platforms. Mobile monitors are those monitors that are typically in operation on a platform that is in motion.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7488155"/>
 </reference>

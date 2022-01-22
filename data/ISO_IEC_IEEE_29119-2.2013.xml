@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.29119-2.2013" target="https://ieeexplore.ieee.org/document/6588543">
   <front>
     <title>ISO/IEC/IEEE International Standard - Software and systems engineering &amp;#8212;Software testing &amp;#8212;Part 2:Test processes</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6588543"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,19 +10,7 @@
       </address>
     </author>
     <date year="2013" month="September" day="2"/>
-    <keyword>IEC standards</keyword>
-    <keyword>ISO standards</keyword>
-    <keyword>ISO</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Software testing</keyword>
-    <keyword>Formal verification</keyword>
-    <keyword>Process control</keyword>
-    <keyword>29119</keyword>
-    <keyword>29119-1</keyword>
-    <keyword>software testing</keyword>
-    <keyword>Test Planning Process</keyword>
-    <keyword>Test Plan</keyword>
-    <keyword>verification and validation</keyword>
     <abstract>The purpose of the ISO/IEC/IEEE 29119 series of software testing standards is to define an internationally-agreed set of standards for software testing that can be used by any organization when performing any form of software testing. ISO/IEC/IEEE 29119-2 comprises test process descriptions that define the software testing processes at the organizational level, test management level and dynamic test levels. It supports dynamic testing, functional and non-functional testing, manual and automated testing, and scripted and unscripted testing. The processes defined in ISO/IEC/IEEE 29119-2 can be used in conjunction with any software development lifecycle model. Since testing is a key approach to risk-mitigation in software development, ISO/IEC/IEEE 29119-2 follows a risk-based approach to testing. Risk-based testing is a common industry approach to strategizing and managing testing. Risk-based testing allows testing to be prioritized and focused on the most important features and functions.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2013.6588543"/>
 </reference>

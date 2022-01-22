@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1474-4.2011" target="https://ieeexplore.ieee.org/document/6026203">
   <front>
     <title>IEEE Recommended Practice for Functional Testing of a Communications-Based Train Control (CBTC) System</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6026203"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="8"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Training</keyword>
-    <keyword>Automation</keyword>
-    <keyword>Rail transportation</keyword>
-    <keyword>Traffic control</keyword>
-    <keyword>automation</keyword>
-    <keyword>communication</keyword>
-    <keyword>IEEE 1474.4</keyword>
-    <keyword>signaling</keyword>
-    <keyword>testing</keyword>
-    <keyword>train control</keyword>
     <abstract>A preferred approach for functional testing of a communications-based train control (CBTC) system, based on the CBTC system design and functional allocations as defined in IEEE Std 1474.3™-2008, is established in this recommended practice.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6026203"/>
 </reference>

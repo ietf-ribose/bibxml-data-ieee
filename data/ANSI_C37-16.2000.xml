@@ -1,7 +1,6 @@
 <reference anchor="ANSI.C37-16.2000" target="https://ieeexplore.ieee.org/document/1389255">
   <front>
     <title>American National Standard Low-Voltage Power Circuit Breakers and AC Power Circuit Protectors- Preferred Ratings, Related Requirements, and Application Recommendations</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.95624"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
       </address>
     </author>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.95624"/>
 </reference>

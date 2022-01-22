@@ -1,7 +1,6 @@
 <reference anchor="IEEE.241.1990" target="https://ieeexplore.ieee.org/document/159171">
   <front>
     <title>IEEE Recommended Practice for Electric Power Systems in Commercial Buildings</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101037"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,34 +11,7 @@
       </address>
     </author>
     <date year="2013" month="January" day="8"/>
-    <keyword>Data communication</keyword>
-    <keyword>Resistance heating</keyword>
-    <keyword>Lighting</keyword>
-    <keyword>Load management</keyword>
-    <keyword>Power supplies</keyword>
-    <keyword>Power system protection</keyword>
-    <keyword>Space heating</keyword>
-    <keyword>Standards</keyword>
-    <keyword>commercial</keyword>
-    <keyword>buildings</keyword>
-    <keyword>electric power</keyword>
-    <keyword>load</keyword>
-    <keyword>characteristics</keyword>
-    <keyword>gray book</keyword>
-    <keyword>Wiring</keyword>
-    <keyword>Wire communication</keyword>
-    <keyword>Space heating/cooling</keyword>
-    <keyword>Power supplies</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Load characteristics</keyword>
-    <keyword>Lighting</keyword>
-    <keyword>Industrial power system planning</keyword>
-    <keyword>Industrial power system control</keyword>
-    <keyword>Elevators</keyword>
-    <keyword>Electric power systems</keyword>
-    <keyword>Commercial buildings</keyword>
-    <keyword>colorbook</keyword>
     <abstract>This IEEE Standards product is part of the Color Books family. A guide and general reference on electrical design for commercial buildings is provided. It covers load characteristics; voltage considerations; power sources and distribution systems; power distribution apparatus; controllers; services, vaults, and electrical equipment rooms; wiring systems; systems protection and coordination; lighting; electric space conditioning; transportation; communication systems planning; facility automation; expansion, modernization, and rehabilitation; special requirements by occupancy; and electrical energy management. Although directed to the power oriented engineer with limited commercial building experience, it can be an aid to all engineers responsible for the electrical design of commercial buildings. This recommended practice is not intended to be a complete handbook; however, it can direct the engineer to texts, periodicals, and references for commercial buildings and act as a guide through the myriad of codes, standards, and practices published by the IEEE, other professional associations, and governmental bodies.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1991.101037"/>
 </reference>

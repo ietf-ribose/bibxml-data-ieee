@@ -9,11 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>ATML instance document</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>automatic test system (ATS)</keyword>
-    <keyword>unit under test (UUT)</keyword>
     <abstract>This document specifies an exchange format, utilizing XML, for identifying all of the hardware, software and documentation associated with a unit under test (UUT). This UUT may be tested and diagnosed using a test program set (TPS) on an automatic test system (ATS).</abstract>
   </front>
 </reference>

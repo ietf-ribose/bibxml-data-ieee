@@ -1,7 +1,6 @@
 <reference anchor="IEEE.275.1966" target="https://ieeexplore.ieee.org/document/8684391">
   <front>
     <title>IEEE Proposed Test Procedure for Evaluation of Systems of Insulating Materials for A-C Electric Machinery Employing Form-Wound Preinsulated Stator Coils for Machines Rated at 50 to 2000 horsepower 35 to 1500 Kilowatts mechanical output and below 6600 volts</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1965.8684391"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1965.8684391"/>
 </reference>

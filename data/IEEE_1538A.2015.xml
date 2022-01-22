@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1538a.2015" target="https://ieeexplore.ieee.org/document/7254104">
   <front>
     <title>IEEE Guide for Determination of Maximum Winding-Temperature Rise in Liquid Immersed Transformers -- Amendment 1</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7254104"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2015" month="September" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Temperature measurement</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>distribution transformer</keyword>
-    <keyword>hottest-spot temperature</keyword>
-    <keyword>power transformers. temperature-rise test</keyword>
-    <keyword>thermal model</keyword>
     <abstract>The clause that addresses direct measurement with fiber-optic detectors is expanded and an annex detailing examples of installation techniques for fiber-optic probes is added in this amendment.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2015.7254104"/>
 </reference>

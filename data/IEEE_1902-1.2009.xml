@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1902-1.2009" target="https://ieeexplore.ieee.org/document/4810102">
   <front>
     <title>IEEE Standard for Long Wavelength Wireless Network Protocol</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4810102"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2020" month="April" day="8"/>
-    <keyword>1902.1-2009</keyword>
-    <keyword>battery powered</keyword>
-    <keyword>carrier powered</keyword>
-    <keyword>displays</keyword>
-    <keyword>effectors</keyword>
-    <keyword>long wavelength</keyword>
-    <keyword>low frequency</keyword>
-    <keyword>RFID</keyword>
-    <keyword>sensors</keyword>
-    <keyword>transceiver</keyword>
-    <keyword>visibility networks</keyword>
     <abstract>This standard defines the air interface for radiating transceiver radio tags using long wavelength signals (kilometric and hectometric frequencies, &lt;450 kHz). Conforming devices can have very low power consumption (a few microwatts on average), while operating over medium ranges (0.5 to 30 meters) and at low data transfer speeds (300-9600 bps). They are well suited for visibility networks, sensors, effectors and battery operated displays. This standard fills a gap between non-network-based RFID standards (e.g., ISO/IEC CD 15961-3, ISO 18000-6C or ISO 18000-7) and existing high bandwidth network standards such as IEEE Std 802.11trade and IEEE 802.15.4trade.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2009.4810102"/>
 </reference>

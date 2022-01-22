@@ -1,7 +1,6 @@
 <reference anchor="IEEE.275.1992" target="https://ieeexplore.ieee.org/document/211052">
   <front>
     <title>IEEE Recommended Practice for Thermal Evaluation of Insulation Systems for Alternating-Current Electric Machinery Employing Form-Wound Preinsulated Stator Coils for Machines Rated 6900 V and Below</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114389"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,22 +11,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="29"/>
-    <keyword>AC machines</keyword>
-    <keyword>Insulation testing</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Machine windings</keyword>
-    <keyword>electric</keyword>
-    <keyword>machinery</keyword>
-    <keyword>ac</keyword>
-    <keyword>form</keyword>
-    <keyword>wound</keyword>
-    <keyword>preinsulated</keyword>
-    <keyword>stator</keyword>
-    <keyword>coils</keyword>
-    <keyword>insulation</keyword>
-    <keyword>systems</keyword>
-    <keyword>Insulation systems</keyword>
-    <keyword>Form-wound preinsulated stator</keyword>
     <abstract>A test procedure for comparing two or more insulation systems in accordance with their expected life at rated temperature is described. The procedure is limited to insulation systems for ac electric machines using form-wound preinsulated stator coils and rated 6900 V and below. This procedure is intended to evaluate insulation systems for use in usual service conditions with air cooling. It does not cover such special requirements as machines that are enclosed in gas atmospheres, or that are subjected to strong chemicals, to metal dust, or to submersion in liquids, etc. The procedure includes instructions for testing candidate systems in comparison with known systems having a proven record of service experience and interpretation of the results.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1992.114389"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.3006-2.2016" target="https://ieeexplore.ieee.org/document/7544439">
   <front>
     <title>IEEE Recommended Practice for Evaluating the Reliability of Existing Industrial and Commercial Power Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7544439"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2016" month="August" day="16"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Reliability engineering</keyword>
-    <keyword>Industrial power systems</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>availability</keyword>
-    <keyword>IEEE 3006.8™</keyword>
-    <keyword>mean down time (MDT)</keyword>
-    <keyword>mean time between failures (MTBF)</keyword>
-    <keyword>mean time to maintain (MTTM)</keyword>
-    <keyword>mean time to repair (MTTR)</keyword>
-    <keyword>reliability analysis</keyword>
-    <keyword>reliability data</keyword>
     <abstract>Described in this recommended practice are criteria for evaluating the reliability of existing industrial and commercial power systems. It is likely to be of greatest value to the power-oriented engineer with limited experience in the area of reliability. It can also be an aid to all engineers responsible for the electrical design of industrial and commercial power systems.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7544439"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C37-60.2012" target="https://ieeexplore.ieee.org/document/6307805">
   <front>
     <title>IEEE/IEC International Standard - High-voltage switchgear and controlgear - Part 111: Automatic circuit reclosers and fault interrupters for alternating current systems up to 38 kV</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6307805"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2012" month="September" day="19"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>Switchgear</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Current control</keyword>
-    <keyword>High-voltage techniques</keyword>
-    <keyword>Voltage control</keyword>
-    <keyword>alternating current automatic circuit reclosers</keyword>
-    <keyword>fault interrupters</keyword>
-    <keyword>IEEE C37.60</keyword>
-    <keyword>pad mounted</keyword>
-    <keyword>overhead</keyword>
     <abstract>This part of IEC 62271 applies to all overhead, pad mounted, dry vault and submersible single or multi-pole alternating current automatic circuit reclosers and fault interrupters for rated maximum voltages above 1 000 V and up to 38 kV. Devices that require a dependent manual operation are not covered by this standard. In order to simplify this standard where possible, the term recloser/FI (reclosers/FIs) has been substituted for automatic circuit recloser or fault interrupter or both.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6307805"/>
 </reference>

@@ -9,13 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>Cyber</keyword>
-    <keyword>Security</keyword>
-    <keyword>Intelligent Electronic Device</keyword>
-    <keyword>IED</keyword>
-    <keyword>Substation</keyword>
-    <keyword>Critical Infrastructure Protection</keyword>
-    <keyword>CIP</keyword>
     <abstract>This standard defines the functions and features to be provided in substation intelligent electronic devices (IEDs) to accommodate critical infrastructure protection programs. The standard addresses security regarding the access, operation, configuration, firmware revision and data retrieval from an IED It does not address communications for the purpose of power system protection (teleprotection). Encryption for the secure transmission of data both within and external to the substation, including SCADA, is not a part of this standard as this is being addressed in other efforts.</abstract>
   </front>
 </reference>

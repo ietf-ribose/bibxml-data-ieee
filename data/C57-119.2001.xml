@@ -1,20 +1,11 @@
 <reference anchor="IEEE.C57-119.2001" target="https://ieeexplore.ieee.org/document/991193">
   <front>
     <title>IEEE Recommended Practice for Performing Temperature Rise Tests on Oil-Immersed Power Transformers at Loads Beyond Nameplate Ratings</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93571"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2018" month="October" day="17"/>
-    <keyword>Power transformer insulation</keyword>
-    <keyword>Power transformer testing</keyword>
-    <keyword>IEEE standards</keyword>
-    <keyword>Oil insulation</keyword>
-    <keyword>mineral-oil-immersed</keyword>
-    <keyword>power transformers</keyword>
-    <keyword>rated load</keyword>
-    <keyword>thermal capacity</keyword>
-    <keyword>top oil temperature</keyword>
     <abstract>Reaffirmed 2008. Recommendations are made, where possible, regarding the performance and evaluation of temperature rise tests on oil-immersed power transformers beyond nameplate ratings. The intent is to assist power transformer manufacturers, and the ultimate users, in evaluating thermal performance of the transformers under varying loads.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.93571"/>
 </reference>

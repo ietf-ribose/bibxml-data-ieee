@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1212.2001" target="https://ieeexplore.ieee.org/document/1032653">
   <front>
     <title>IEEE Standard for a Control and Status Registers (CSR) Architecture for Microcomputer Buses</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94127"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2016" month="September" day="13"/>
-    <keyword>address space</keyword>
-    <keyword>architecture</keyword>
-    <keyword>bus</keyword>
-    <keyword>computer</keyword>
-    <keyword>CSR</keyword>
-    <keyword>interconnect</keyword>
-    <keyword>microprocessor</keyword>
-    <keyword>register</keyword>
-    <keyword>transaction set</keyword>
     <abstract>Administratively withdrawn January 2007 A common bus architecture (which includes functional components--modules, nodes,and units--and their address space, transaction set, CSRs, and configuration information) suitablefor both parallel and serial buses is provided in this standard. Bus bridges are enabled by the archi-tecture, but their details are beyond its scope. Configuration information is self- administered byvendors and organizations based upon IEEE Registration Authority company_id.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.94127"/>
 </reference>

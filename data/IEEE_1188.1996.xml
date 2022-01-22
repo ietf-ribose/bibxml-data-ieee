@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1188.1996" target="https://ieeexplore.ieee.org/document/511266">
   <front>
     <title>IEEE Recommended Practice for Maintenance, Testing, and Replacement of Valve- Regulated Lead-Acid (VRLA) Batteries for Stationary Applications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81039"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,12 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>testing</keyword>
-    <keyword>replacement</keyword>
-    <keyword>valve-regulated</keyword>
-    <keyword>batteries</keyword>
     <abstract>Superseded by IEEE Std 1188-2005 Maintenance, test schedules and testing procedures that can be used to optimize the life and performance of valve-regulated lead-acid (VRLA) batteries for stationary applications are covered. Guidance to determine when batteries should be replaced is also provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1996.81039"/>
 </reference>

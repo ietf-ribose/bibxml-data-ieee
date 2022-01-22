@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1850.2005" target="https://ieeexplore.ieee.org/document/1524461">
   <front>
     <title>IEEE Standard for Property Specification Language (PSL)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97780"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,23 +10,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="12"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>Specification languages</keyword>
-    <keyword>IEEE Standards Association</keyword>
-    <keyword>Design automation</keyword>
-    <keyword>ABV</keyword>
-    <keyword>assertion</keyword>
-    <keyword>assertion-based verification</keyword>
-    <keyword>assumption</keyword>
-    <keyword>cover</keyword>
-    <keyword>model checking</keyword>
-    <keyword>property</keyword>
-    <keyword>PSL</keyword>
-    <keyword>specification</keyword>
-    <keyword>temporal logic</keyword>
-    <keyword>verification</keyword>
     <abstract>The IEEE Property Specification Language (PSL) is defined in this standard. PSL is a formal notation for specification of electronic system behavior, compatible with multiple electronic system design languages, including IEEE Std 1076<sup>TM</sup> (VHDL<sup>reg</sup>), IEEE Std 1364<sup>TM</sup> (Verilog<sup>reg</sup>), IEEE P1666<sup>TM </sup> (SystemC<sup>reg</sup>), and IEEE P1800<sup>TM</sup> (SystemVerilog<sup>reg</sup>), thereby enabling a common specification and verification flow for multi-language and mixed-language designs. PSL captures design intent in a form suitable for simulation, formal verification, formal analysis, and hybrid verification tools. PSL enhances communication among architects, designers, and verification engineers to increase productivity throughout the design and verification process. The primary audiences for this standard are the implementors of tools supporting the language and advanced users of the language</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97780"/>
 </reference>

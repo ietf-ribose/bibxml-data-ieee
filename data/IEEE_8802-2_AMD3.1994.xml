@@ -1,7 +1,6 @@
 <reference anchor="IEEE.8802-2/Amd3.1994" target="https://ieeexplore.ieee.org/document/8684641">
   <front>
     <title>Information technology -- Telecommunications and information exchange between systems -- Local and metropolitan area networks -- Specific requirements -- Part 2: Logical link control Amendment 3: Conformance requirements</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684641"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,17 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Standards</keyword>
-    <keyword>Protocols</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>logical link control</keyword>
-    <keyword>protocols</keyword>
-    <keyword>local area networks</keyword>
-    <keyword>LAN</keyword>
     <abstract>Conformance requirements for ISO/IEC 8802-2: 1994 [ANSI/IEEE Std 802.2, 1994] are provided.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1995.8684641"/>
 </reference>

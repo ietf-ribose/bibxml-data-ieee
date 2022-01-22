@@ -1,17 +1,11 @@
 <reference anchor="IEEE.828.1990" target="https://ieeexplore.ieee.org/document/159336">
   <front>
     <title>IEEE Standard for Software Configuration Management Plans</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101063"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
     <date year="2019" month="April"/>
-    <keyword>Software engineering</keyword>
-    <keyword>Standards</keyword>
-    <keyword>configuration control board</keyword>
-    <keyword>configuration items</keyword>
-    <keyword>software configuration management</keyword>
-    <keyword>software configuration management activities.</keyword>
     <abstract>IEEE Std 828-1990, IEEE Standard for Software Configuration Management Plans, establishes the minimum required contents of a Software Configuration Management Plan and defines the specific activities to be addressed and their requirements for any portion of a software product’s life cycle.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1990.101063"/>
 </reference>

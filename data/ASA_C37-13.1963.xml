@@ -1,7 +1,6 @@
 <reference anchor="ASA.C37-13.1963" target="https://ieeexplore.ieee.org/document/8684455">
   <front>
     <title>American Standard - Low Voltage AC Power Circuit Breakers (600-Volt Insulation Class)</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.8684455"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,4 +11,5 @@
     </author>
     <date year="2019" month="April" day="5"/>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.8684455"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.C135-63.1998" target="https://ieeexplore.ieee.org/document/8999000">
   <front>
     <title>IEEE Standard for Shoulder Live Line Extension Links for Overhead Line Construction</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.8999000"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2020" month="February" day="13"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power distribution</keyword>
-    <keyword>Power transmission lines</keyword>
-    <keyword>Hardware</keyword>
-    <keyword>ball</keyword>
-    <keyword>socket</keyword>
-    <keyword>eye</keyword>
-    <keyword>clevis</keyword>
-    <keyword>oval eye fitting</keyword>
     <abstract>Dimensions and strength requirements for shoulder live line extension links used in overhead transmission and distribution hardware are covered.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1998.8999000"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.859.2018" target="https://ieeexplore.ieee.org/document/8686405">
   <front>
     <title>IEEE Standard Terms for Reporting and Analyzing Outage Occurrences and Outage States of Electrical Transmission Facilities</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8686405"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,23 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="10"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power outages</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Meterology</keyword>
-    <keyword>Power transmission</keyword>
-    <keyword>Failure analysis</keyword>
-    <keyword>Electricity</keyword>
-    <keyword>data</keyword>
-    <keyword>electricity transmission</keyword>
-    <keyword>exposure</keyword>
-    <keyword>failure</keyword>
-    <keyword>IEEE 859</keyword>
-    <keyword>maintenance</keyword>
-    <keyword>outage</keyword>
-    <keyword>power systems</keyword>
-    <keyword>reliability</keyword>
-    <keyword>weather</keyword>
     <abstract>Terminology and indices for reporting and analyzing outage occurrences of transmission facilities are defined in this standard. Outage definitions and indices are given for two general types of facilities: units and components. Units are functional facilities that transfer power between designated points, while components are specific pieces of equipment. Outage definitions are given both for describing the outage history of a particular facility and for describing groups of individual outage occurrences that are related in some way.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2019.8686405"/>
 </reference>

@@ -1,7 +1,6 @@
 <reference anchor="IEEE.400-3.2006" target="https://ieeexplore.ieee.org/document/4095162">
   <front>
     <title>IEEE Guide for Partial Discharge Testing of Shielded Power Cable Systems in a Field Environment</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.305045"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,18 +10,7 @@
       </address>
     </author>
     <date year="2013" month="October" day="22"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Testing</keyword>
-    <keyword>Partial discharges</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Trademarks</keyword>
-    <keyword>cable system testing</keyword>
-    <keyword>cable testing</keyword>
-    <keyword>diagnostic testing</keyword>
-    <keyword>off-line partial discharge testing</keyword>
-    <keyword>on-line partial discharge testing</keyword>
-    <keyword>partial discharge testing</keyword>
     <abstract>This guide covers the diagnostic testing of new or service-aged installed shielded power cable systems, which include cable, joints, and terminations, using partial discharge (PD) detection, measurement, and location. Partial discharge testing, which is a useful indicator of insulation degradation, may be carried out on-line or off-line by means of an external voltage source. This guide does not include the testing of compressed gas insulated systems or continuous on-line monitoring at normal service voltage.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.305045"/>
 </reference>

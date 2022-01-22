@@ -1,7 +1,6 @@
 <reference anchor="IEEE.273.1967" target="https://ieeexplore.ieee.org/document/7394911">
   <front>
     <title>IEEE Guide for Protective Relay Applications to Power transformers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1967.7394911"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,11 +10,7 @@
       </address>
     </author>
     <date year="2016" month="January" day="29"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Power transformers</keyword>
-    <keyword>Transformers</keyword>
-    <keyword>Relays</keyword>
-    <keyword>ANSI Standards</keyword>
     <abstract>This Guide has been prepared to aid in the effective application of relays and other devices for the protection of power transformers. It supplements information that was previously published in a Committee Report titled Protection of Power Transformers, 1962 Relays Committee Survey of Practices. (Reference 2.1.2) This Guide reviews the general philosophy and economic considerations involved in transformer protection, describes the types of faults that have been experienced, and discusses technical problems with such protection, including current transformer behavior under fault conditions. The various types of electric, mechanical, and thermal protective devices are described. Associated problems such as fault clearing and re-energizing considerations are also discussed. Emphasis in the Guide is placed on practical applications rather than basic theory which may be obtained from several good references in the Bibliography.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1967.7394911"/>
 </reference>

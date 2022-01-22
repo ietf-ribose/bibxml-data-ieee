@@ -1,7 +1,6 @@
 <reference anchor="ISO/IEC/IEEE.8802-11/Amd4.2018" target="https://ieeexplore.ieee.org/document/9184354">
   <front>
     <title>Telecommunications and exchange between information technology systems-Requirements for local and metropolitan area networks-Part 11: Wireless LAN medium access control (MAC) and physical layer (PHY) specifications AMENDMENT 4: Enhancements for transit links within bridged network</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9184354"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,28 +11,7 @@
       </address>
     </author>
     <date year="2020" month="September" day="1"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ISO Standards</keyword>
-    <keyword>IEC Standards</keyword>
-    <keyword>Information exchange</keyword>
-    <keyword>Infomation and communication technology</keyword>
-    <keyword>Urban areas</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>bridged</keyword>
-    <keyword>bridging</keyword>
-    <keyword>EPD</keyword>
-    <keyword>GCR</keyword>
-    <keyword>GLK</keyword>
-    <keyword>GLK-GCR</keyword>
-    <keyword>IEEE 802.11</keyword>
-    <keyword>IEEE 802.11ak</keyword>
-    <keyword>IEEE 802.1Q</keyword>
-    <keyword>LPD</keyword>
-    <keyword>priority code point</keyword>
-    <keyword>SYNRA</keyword>
-    <keyword>transit link</keyword>
     <abstract>Protocols, procedures, and managed objects to enhance the ability of IEEE 802.11(TM) media to provide transit links internal to IEEE 802.1Q(TM) bridged networks are specified in this amendment to IEEE Std 802.11(TM)-2016.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9184354"/>
 </reference>

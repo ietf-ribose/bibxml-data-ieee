@@ -11,20 +11,6 @@
       </address>
     </author>
     <date year="2013" month="September" day="5"/>
-    <keyword>IEEE standards</keyword>
-    <keyword>XML</keyword>
-    <keyword>Test equipment</keyword>
-    <keyword>Automatic equipment</keyword>
-    <keyword>Automatic Test Markup Language (ATML)</keyword>
-    <keyword>XML schema</keyword>
-    <keyword>ATML instance document</keyword>
-    <keyword>automatic test equipment (ATE)</keyword>
-    <keyword>automatic test system (ATS)</keyword>
-    <keyword>IEEE 1671.4</keyword>
-    <keyword>Master Configuration Control Document (MCCD)</keyword>
-    <keyword>Master Test Program Set Index (MTPSI)</keyword>
-    <keyword>station configuration file</keyword>
-    <keyword>test configuration</keyword>
     <abstract>An exchange format is specified in this standard, using extensible markup language (XML), for identifying the test configuration used to test for and diagnose faults of a unit under test (UUT) on an automatic test system (ATS).</abstract>
   </front>
 </reference>

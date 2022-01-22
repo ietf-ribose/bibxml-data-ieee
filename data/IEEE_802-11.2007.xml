@@ -1,7 +1,6 @@
 <reference anchor="IEEE.802-11.2007" target="https://ieeexplore.ieee.org/document/4248378">
   <front>
     <title>IEEE Standard for Information Technology - Telecommunications and Information Exchange Between Systems - Local and Metropolitan Area Networks - Specific Requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.373646"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,42 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Wireless LAN</keyword>
-    <keyword>Media Access Protocol</keyword>
-    <keyword>Physical layer</keyword>
-    <keyword>Information technology</keyword>
-    <keyword>2.4 GHz</keyword>
-    <keyword>4.9 GHz</keyword>
-    <keyword>5 GHz</keyword>
-    <keyword>advanced encryption standard</keyword>
-    <keyword>AES</keyword>
-    <keyword>carrier sense multiple access/collision avoidance</keyword>
-    <keyword>CCMP</keyword>
-    <keyword>Counter mode with Cipher-block chaining Message authentication code Protocol</keyword>
-    <keyword>confidentiality</keyword>
-    <keyword>CSMA/CA</keyword>
-    <keyword>DFS</keyword>
-    <keyword>dynamic frequency selection</keyword>
-    <keyword>international roaming</keyword>
-    <keyword>LAN</keyword>
-    <keyword>local area network</keyword>
-    <keyword>MAC</keyword>
-    <keyword>medium access controller</keyword>
-    <keyword>PHY</keyword>
-    <keyword>physical layer</keyword>
-    <keyword>QoS</keyword>
-    <keyword>quality of service</keyword>
-    <keyword>radio frequency</keyword>
-    <keyword>RF</keyword>
-    <keyword>temporal key integrity protocol</keyword>
-    <keyword>TKIP</keyword>
-    <keyword>TPC</keyword>
-    <keyword>transmit power control</keyword>
-    <keyword>wireless LAN</keyword>
-    <keyword>WLAN</keyword>
-    <keyword>Wi-Fi</keyword>
-    <keyword>WiFi</keyword>
     <abstract>This revision specifies technical corrections and clarifications to IEEE Std 802.11 for wireless local area networks (WLANS) as well as enhancements to the existing medium access control (MAC) and physical layer (PHY) functions. It also incorporates Amendments 1 through 8 including a corrigendum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.373646"/>
 </reference>

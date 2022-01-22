@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1512-1.2003" target="https://ieeexplore.ieee.org/document/1203092">
   <front>
     <title>IEEE Standard for Traffic Incident Management Message Sets for Use by Emergency Management Centers</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94279"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,27 +11,7 @@
       </address>
     </author>
     <date year="2019" month="April" day="5"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Emergency services</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Transportation</keyword>
-    <keyword>Hazardous materials</keyword>
-    <keyword>911</keyword>
-    <keyword>ASN.1</keyword>
-    <keyword>ATMS</keyword>
-    <keyword>CAD</keyword>
-    <keyword>center-to-center</keyword>
-    <keyword>commercial vehicles</keyword>
-    <keyword>data exchange</keyword>
-    <keyword>EMC</keyword>
-    <keyword>emergency services</keyword>
-    <keyword>emergency response</keyword>
-    <keyword>EMS</keyword>
-    <keyword>Hazmat</keyword>
-    <keyword>incidents</keyword>
-    <keyword>incident response</keyword>
-    <keyword>incidentmanagement</keyword>
-    <keyword>incident management system</keyword>
     <abstract>Revised by IEEE Std 1512.1-2006 The exchange of vital traffic management data and data to support traffic management decisions, between the Traffic Management Center and other agencies involved in transportation-related events, through common incident management message sets, is addressed in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94279"/>
 </reference>

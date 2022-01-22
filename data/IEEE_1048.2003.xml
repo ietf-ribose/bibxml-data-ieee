@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1048.2003" target="https://ieeexplore.ieee.org/document/1237558">
   <front>
     <title>IEEE Guide for Protective Grounding of Power Lines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94388"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,15 +11,7 @@
       </address>
     </author>
     <date year="2016" month="December" day="23"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Grounding</keyword>
-    <keyword>Power engineering</keyword>
-    <keyword>de-energized overhead line maintenance</keyword>
-    <keyword>protective ground set sizing</keyword>
-    <keyword>protective grounding</keyword>
-    <keyword>protective grounding practices</keyword>
-    <keyword>safety</keyword>
-    <keyword>testing and maintenance protective grounds</keyword>
     <abstract>Guidelines for protective grounding methods for individuals engaged in de-energized overhead transmission and distribution line maintenance are provided. This guide also provides information on the sizing and maintenance of protective ground sets. It is a compilation of information on protective grounding practice employed by North American power utilities.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2003.94388"/>
 </reference>

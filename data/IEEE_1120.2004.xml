@@ -1,7 +1,6 @@
 <reference anchor="IEEE.1120.2004" target="https://ieeexplore.ieee.org/document/1425768">
   <front>
     <title>IEEE Guide for the Planning, Design, Installation, and Repair of Submarine Power Cable Systems</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95937"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,15 +10,7 @@
       </address>
     </author>
     <date year="2021" month="April" day="29"/>
-    <keyword>Standards</keyword>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Patents</keyword>
-    <keyword>Underwater cables</keyword>
-    <keyword>Underwater vehicles</keyword>
-    <keyword>Power cables</keyword>
-    <keyword>Planning</keyword>
-    <keyword>Submarine cable</keyword>
-    <keyword>underwater cable</keyword>
     <abstract>This guide provides a list of factors to consider when planning, designing, permitting, installing, commissioning, and repairing submarine power cable systems. While many factors are common to both power and communication cables, this guide focuses on power cables that cross seas, lakes, and rivers</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.95937"/>
 </reference>

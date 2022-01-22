@@ -1,7 +1,6 @@
 <reference anchor="IEEE.285.1968" target="https://ieeexplore.ieee.org/document/7445121">
   <front>
     <title>IEEE Standards Report on State-of-the-Art of Measuring Phase Shift at Frequencies above 1 Ghz</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.7445121"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,10 +10,7 @@
       </address>
     </author>
     <date year="2016" month="March" day="31"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>ANSI Standards</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Phase measurement</keyword>
     <abstract>A discussion of the available standard phase shifters, the general principles of measurement techniques, and the basic measurement precautions is included in this report along with a bibliography of pertinent literature. This is one of a series of such reports planned under a program being carried out by the IEEE. The data in this report have been assembled by a special subcommittee working in the field of microwave phase-shift measurements.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1968.7445121"/>
 </reference>

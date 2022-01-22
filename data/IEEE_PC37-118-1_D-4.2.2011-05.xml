@@ -10,13 +10,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Synchronization</keyword>
-    <keyword>Power system reliability</keyword>
-    <keyword>Substations</keyword>
-    <keyword>Frequency measurement</keyword>
-    <keyword>Phasor measurement units</keyword>
-    <keyword>Smart grids</keyword>
     <abstract>This standard is for synchronized phasor measurement systems in power systems. It defines a synchronized phasor (synchrophasor), frequency and rate of change of frequency measurements. It describes timetag and synchronization requirements for measurement of all three of these quantities. It specifies methods for evaluating these measurements, and requirements for compliance with the standard under both static and dynamic conditions. It defines a Phasor Measurement Unit (PMU) which can be a stand-alone physical unit or a functional unit within another physical unit. This standard does not specify hardware, software or a method for computing phasors, frequency, or rate of change of frequency.</abstract>
   </front>
 </reference>

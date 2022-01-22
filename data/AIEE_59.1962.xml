@@ -1,7 +1,6 @@
 <reference anchor="AIEE.59.1962" target="https://ieeexplore.ieee.org/document/7862721">
   <front>
     <title>AIEE Standard for Semiconductor Rectifier Components</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.7862721"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -12,13 +11,7 @@
       </address>
     </author>
     <date year="2017" month="February" day="23"/>
-    <keyword>AIEE Standards</keyword>
-    <keyword>Rectifiers</keyword>
-    <keyword>Semiconductor diodes</keyword>
-    <keyword>Power systems</keyword>
-    <keyword>Diodes</keyword>
-    <keyword>Terminology</keyword>
-    <keyword>Semiconductor devices</keyword>
     <abstract>Definitions given herein apply specifically to semiconductor components used for rectification or control of electric power, or both. For the purpose of this standard, a semiconductor rectifier component is a semiconductor rectifier cell, rectifier diode, or rectifier stack. Note that the name of the actual semiconductor material (selenium, silicon, etc.) may be substituted in place of the word "semiconductor" in the name of the components.Only those definitions likely to be needed by the user are included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1962.7862721"/>
 </reference>

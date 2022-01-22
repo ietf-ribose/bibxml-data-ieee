@@ -1,7 +1,6 @@
 <reference anchor="IEEE.421-6.2017" target="https://ieeexplore.ieee.org/document/7945300">
   <front>
     <title>IEEE Recommended Practice for the Specification and Design of Field Discharge Equipment for Synchronous Machines</title>
-    <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7945300"/>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -11,17 +10,7 @@
       </address>
     </author>
     <date year="2017" month="June" day="9"/>
-    <keyword>IEEE Standards</keyword>
-    <keyword>Synchronous machines</keyword>
-    <keyword>Discharges (electric)</keyword>
-    <keyword>Circuit breakers</keyword>
-    <keyword>Field discharge of synchronous machines</keyword>
-    <keyword>field suppression</keyword>
-    <keyword>field breaker</keyword>
-    <keyword>field discharge resistor</keyword>
-    <keyword>crowbar</keyword>
-    <keyword>field discharge equipment</keyword>
-    <keyword>de-excitation</keyword>
     <abstract>This document is intended to serve as basic reference for the specification and design of field discharge circuits for synchronous machines. It is also intended to provide detailed information about field discharge that complements standards IEEE 421.4.-2004 Guide for Preparation of Excitation System Specification and includes many aspects of the withdrawn standard ANSI/IEEE C37.18.1979 Standard Enclosed Field Discharge Circuit Breakers . This document shows the most employed field discharge circuits and defines the main design criteria and conditions for the main components of field discharge circuit for synchronous machines.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7945300"/>
 </reference>

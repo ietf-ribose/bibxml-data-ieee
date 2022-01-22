@@ -9,18 +9,6 @@
         </postal>
       </address>
     </author>
-    <keyword>IEEE standards</keyword>
-    <keyword>Signal analysis</keyword>
-    <keyword>Testing</keyword>
-    <keyword>ATE</keyword>
-    <keyword>ATLAS</keyword>
-    <keyword>automatic test equipment</keyword>
-    <keyword>signal definitions</keyword>
-    <keyword>test definitions</keyword>
-    <keyword>test requirements</keyword>
-    <keyword>test signals</keyword>
-    <keyword>unit under test</keyword>
-    <keyword>UUT</keyword>
     <abstract>This standard provides the means to define and describe signals used in testing. It also provides a set of common basic signals, built upon formal mathematical specifications so that signals can be combined to form complex signals usable across all test platforms.</abstract>
   </front>
 </reference>
