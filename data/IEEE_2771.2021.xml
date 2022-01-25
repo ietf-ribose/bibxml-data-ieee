@@ -1,0 +1,17 @@
+<reference anchor="IEEE.2771.2021" target="https://ieeexplore.ieee.org/document/9690137">
+  <front>
+    <title>IEEE Guide for Parameter Configuration of Arcing Horns of DC Earth Electrode Lines</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="January" day="21"/>
+    <abstract>Operating voltage, overvoltage, and sustained dc arc current of dc earth electrode lines are introduced in this guide. Technical conditions of arcing horns are discussed, including gap spacing, structures, materials, and layout. In addition, tests for arcing horns are recommended.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9690137"/>
+</reference>

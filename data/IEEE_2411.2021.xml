@@ -1,0 +1,17 @@
+<reference anchor="IEEE.2411.2021" target="https://ieeexplore.ieee.org/document/9690140">
+  <front>
+    <title>IEEE Guide for Human Factors Engineering for the Validation of System Designs and Integrated Systems Operations at Nuclear Facilities</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="January" day="21"/>
+    <abstract>Guidance to prepare, plan, and conduct human factors performance-based validation of a component, sub-system, or system prior to its placement in-service, to assess reasonable confidence of compliance with functional and operational requirements is provided in this document.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9690140"/>
+</reference>
