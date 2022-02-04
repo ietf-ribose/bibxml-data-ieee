@@ -1,0 +1,16 @@
+<reference anchor="IEEE.PC37-17/D-7.2022-01" target="https://ieeexplore.ieee.org/document/9700983">
+  <front>
+    <title>IEEE Draft Standard for Trip Systems for Low-Voltage (1000 V and below) AC and General Purpose (1500 V and below) DC Power Circuit Breakers</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="February" day="1"/>
+    <abstract>This standard pertains to the requirements for current and voltage protective functions of: 1) direct-acting overcurrent electromechanical trip devices 2) direct-acting overcurrent electronic trip systems 3) reverse-current trip systems 4) undervoltage trip devices that are integral with low-voltage ac (1000 V and below) and general-purpose low-voltage dc (1500 V and below) power circuit breakers covered by IEEE Std C37.13, and IEEE Std C37.14. Additional information, communication and/or additional internal or external protective functions or devices are not covered by this standard. This standard should not be interpreted to restrict the inclusion of such functionality in the device.</abstract>
+  </front>
+</reference>

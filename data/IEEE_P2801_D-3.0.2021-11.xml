@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P2801/D-3.0.2021-11" target="https://ieeexplore.ieee.org/document/9700986">
+  <front>
+    <title>IEEE Draft Recommended Practice for the Quality Management of Datasets for Medical Artificial Intelligence</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="February" day="1"/>
+    <abstract>The recommended practice promotes quality management activities for datasets used for artificial intelligence medical device(AIMD). The document highlights quality objective for dataset responsible organizations. The document describes control of records during the life cycle of datasets, including but not limited to data collection, annotation, transfer, utilization, storage, maintenance, update, retirement and other activities. The document emphasizes special consideration for the dataset quality management system, including but not limited to responsibility management, resource management, dataset realization and quality control.</abstract>
+  </front>
+</reference>

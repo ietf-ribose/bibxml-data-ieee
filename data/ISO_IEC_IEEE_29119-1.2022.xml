@@ -1,0 +1,17 @@
+<reference anchor="ISO/IEC/IEEE.29119-1.2022" target="https://ieeexplore.ieee.org/document/9698145">
+  <front>
+    <title>ISO/IEC/IEEE International Standard - Software and systems engineering --Software testing --Part 1:General concepts</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="January" day="31"/>
+    <abstract>This document specifies general concepts in software testing and presents key concepts for the ISO/IEC/IEEE 29119 series.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9698145"/>
+</reference>
