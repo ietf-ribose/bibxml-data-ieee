@@ -1,16 +1,17 @@
-<reference anchor="IEEE.C57-12-90/Cor1.2017" target="https://ieeexplore.ieee.org/document/7917395">
+<reference anchor="IEEE.C57-12-90/Cor1.2017" target="https://ieeexplore.ieee.org/document/8094363">
   <front>
     <title>IEEE Standard Test Code for Liquid-Immersed Distribution, Power, and Regulating Transformers Corrigendum 1:Editorial and Technical Corrections</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2017" month="May" day="2"/>
+    <date year="2017" month="November" day="2"/>
     <abstract>The definition of constant k in Equation 2 (in 8.3) and line terminal rated voltage in the last paragraph of 10.8.2 are corrected in this corrigendum.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7917395"/>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.8094363"/>
 </reference>
