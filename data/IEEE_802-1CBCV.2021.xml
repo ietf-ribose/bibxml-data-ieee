@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P802-1CBcv/D-2.1.2021-09" target="https://ieeexplore.ieee.org/document/9552639">
+<reference anchor="IEEE.802-1CBcv.2021" target="https://ieeexplore.ieee.org/document/9715061">
   <front>
-    <title>IEEE Approved Draft Standard for Local and metropolitan area networks -- Frame Replication and Elimination for Reliability - Amendment 1: Information Model, YANG Data Model and Management Information Base Module</title>
+    <title>IEEE Standard for Local and metropolitan area networks -- Frame Replication and Elimination for Reliability - Amendment 1: Information Model, YANG Data Model, and Management Information Base Module</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="29"/>
+    <date year="2022" month="February" day="16"/>
     <abstract>This amendment specifies YANG data models and MIB modules that allow configuration and status reporting for bridges and end systems with the capabilities for Frame Replication and Elimination for Reliability (FRER) and Stream identification.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9715061"/>
 </reference>

@@ -1,0 +1,17 @@
+<reference anchor="IEEE.1541.2021" target="https://ieeexplore.ieee.org/document/9714443">
+  <front>
+    <title>IEEE Standard for Prefixes for Binary Multiples</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="February" day="15"/>
+    <abstract>Names and letter symbols for prefixes that denote multiplication of a unit by the binary multiplier 2 10n, where n = 1, 2, 3, 4, 5, 6, 7, or 8 are defined. Although the prefixes may be used with all units in all fields where multiplication by a binary multiplier is found to be appropriate, their primary use is in the field of information technology.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9714443"/>
+</reference>

@@ -1,0 +1,17 @@
+<reference anchor="IEEE.C37-016/Cor1.2021" target="https://ieeexplore.ieee.org/document/9714067">
+  <front>
+    <title>IEEE Standard for AC High Voltage Circuit Switchers 15.5 kV through 245 kV - Corrigendum 1</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="February" day="14"/>
+    <abstract>This corrigendum is to improve the current IEEE Std C37.016.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9714067"/>
+</reference>
