@@ -1,16 +1,16 @@
-<reference anchor="IEEE.286.2000" target="https://ieeexplore.ieee.org/document/8685849">
+<reference anchor="IEEE.286.2000" target="https://ieeexplore.ieee.org/document/913583">
   <front>
     <title>IEEE Recommended Practice for Measurement of Power Factor Tip-Up of Electric Machinery Stator Coil Insulation</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2019" month="April" day="9"/>
-    <abstract>The power factor tip-up testing of stator coils and bars for use in large electric machineryis covered in this recommended practice.</abstract>
+    <abstract>The power factor tip-up testing of stator coils and bars for use in large electric machinery is covered in this recommended practice.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.1109/IEEESTD.2000.8685849"/>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2001.92415"/>
 </reference>
