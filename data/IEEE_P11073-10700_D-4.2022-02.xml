@@ -1,4 +1,4 @@
-<reference anchor="IEEE.P11073-10700/D-3.2021-06" target="https://ieeexplore.ieee.org/document/9469012">
+<reference anchor="IEEE.P11073-10700/D-4.2022-02" target="https://ieeexplore.ieee.org/document/9721862">
   <front>
     <title>IEEE Draft Standard - Health Informatics -- Device Interoperability -- Part 10700: Point-of-Care Medical Device Communication -- Standard for Base Requirements for Participants in a Service-Oriented Device Connectivity (SDC) System</title>
     <author>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="June" day="30"/>
+    <date year="2022" month="February" day="25"/>
     <abstract>MEDICAL DEVICEs that offer a communication interface as specified by the IEEE 11073 Service-oriented Device Connectivity (SDC) standards can be integrated into a HEALTH IT SYSTEM to jointly execute SYSTEM FUNCTIONs. However, implementing the IEEE 11073 SDC communication protocol is not sufficient to demonstrate safety, effectiveness, and security of SYSTEM FUNCTIONs resulting from the combination of SYSTEM FUNCTION CONTRIBUTIONs from two or more MEDICAL DEVICEs. SDC PARTICIPANT KEY PURPOSEs (PKPs) are sets of requirements that support MANUFACTURERs in making valid assumptions about BICEPS PARTICIPANTs from other MANUFACTURERs. This common understanding allows for the MANUFACTURERs to perform RISK MANAGEMENT, verification, and USABILITY ENGINEERING for the safe use of SYSTEM FUNCTIONs. This standard specifies requirements for the allocation of responsibilities to SDC BASE PARTICIPANTs.</abstract>
   </front>
 </reference>
