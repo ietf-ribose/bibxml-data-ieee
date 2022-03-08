@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P802-3db/D-3.0.2022-03" target="https://ieeexplore.ieee.org/document/9729141">
+  <front>
+    <title>IEEE Draft Standard for Ethernet - Amendment 4: Physical Layer Specifications and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Operation over Optical Fiber using 100 Gb/s Signaling</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="4"/>
+    <abstract>This amendment to IEEE Std 802.3-202x adds Physical Layer specifications and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Ethernet optical interfaces for reaches up to 50 m and up to 100 m based on 100 Gb/s per wavelength optical signaling.</abstract>
+  </front>
+</reference>

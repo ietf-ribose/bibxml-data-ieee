@@ -1,13 +1,16 @@
 <reference anchor="IEEE.P434/D-10" target="https://ieeexplore.ieee.org/document/4040243">
   <front>
-    <title>Unapproved IEEE Draft Guide for Functional Evaluation of Insulation Systems for Large High-Voltage Machines (Revision of IEEE 434-1973)</title>
+    <title>IEEE Guide for Functional Evaluation of Insulation Systems for AC Electric Machines Rated 2300 V and Above</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
+    <date year="2022" month="March" day="3"/>
+    <abstract>A procedure that may be used to evaluate and compare insulation systems used, or proposed for use, in large ac electric machines is described in this guide.</abstract>
   </front>
 </reference>
