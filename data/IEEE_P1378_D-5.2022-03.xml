@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P1378/D-5.2022-03" target="https://ieeexplore.ieee.org/document/9730838">
+  <front>
+    <title>IEEE Draft Guide for Commissioning High-Voltage Direct-Current (HVDC) Converter Stations and Associated Transmission Systems</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="8"/>
+    <abstract>General guidelines for commissioning high-voltage direct-current (HVDC) converter stations and associated transmission systems are provided. These guidelines apply to HVDC systems utilizing 6-pulse or 12-pulse thyristor-valve converter units operated as a two-terminal HVDC transmission system or an HVDC back-to-back system.</abstract>
+  </front>
+</reference>

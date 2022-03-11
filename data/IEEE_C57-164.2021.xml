@@ -1,0 +1,17 @@
+<reference anchor="IEEE.C57-164.2021" target="https://ieeexplore.ieee.org/document/9732075">
+  <front>
+    <title>IEEE Guide for Establishing Short-Circuit Withstand Capabilities of Liquid-Filled Power Transformers, Regulators, and Reactors</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="9"/>
+    <abstract>Guidance on determining and establishing short-circuit withstand capabilities of power transformers, regulators, and reactors is provided in this standard.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9732075"/>
+</reference>

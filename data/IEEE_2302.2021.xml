@@ -1,0 +1,17 @@
+<reference anchor="IEEE.2302.2021" target="https://ieeexplore.ieee.org/document/9732072">
+  <front>
+    <title>IEEE Standard for Intercloud Interoperability and Federation (SIIF)</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="9"/>
+    <abstract>A functional model for federation based on the NIST Cloud Federation Reference Architecture is defined in this standard. This model allows a range of deployment topologies and governance. As a general federation model, it can be applied to many application domains using different implementation approaches. As such, it includes cloud-to-cloud federation and interoperability.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9732072"/>
+</reference>

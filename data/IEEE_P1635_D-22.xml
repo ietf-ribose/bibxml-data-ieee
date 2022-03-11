@@ -1,4 +1,4 @@
-<reference anchor="IEEE.P1635/D-19" target="https://ieeexplore.ieee.org/document/9611200">
+<reference anchor="IEEE.P1635/D-22" target="https://ieeexplore.ieee.org/document/9729934">
   <front>
     <title>IEEE/ASHRAE Draft Guide for the Ventilation and Thermal Management of Batteries for Stationary Applications</title>
     <author>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="November" day="10"/>
+    <date year="2022" month="March" day="7"/>
     <abstract>Vented lead-acid (VLA), valve-regulated lead-acid (VRLA), nickel-cadmium (Ni-Cd - both fully vented and partially-recombinant types), and Li-ion stationary battery installations are discussed in this guide, written to serve as a bridge between the electrical designer and the heating, ventilation, and air-conditioning (HVAC) designer. Ventilation of stationary battery installations is critical to improving battery life while reducing the hazards associated with hydrogen production (hydrogen production is not a concern with Li-ion under normal operating conditions [it is under thermal runaway conditions]). This guide describes battery operating modes and the hazards associated with each. It provides the HVAC designer with the information to provide a cost effective ventilation solution.</abstract>
   </front>
 </reference>
