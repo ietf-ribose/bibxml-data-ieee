@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P421-1/D-1.2021-02" target="https://ieeexplore.ieee.org/document/9355100">
+<reference anchor="IEEE.421-1.2021" target="https://ieeexplore.ieee.org/document/9737077">
   <front>
-    <title>IEEE Approved Draft Standard Definitions for Excitation Systems for Synchronous Machines</title>
+    <title>IEEE Standard Definitions for Excitation Systems for Synchronous Machines</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="February" day="16"/>
+    <date year="2022" month="March" day="16"/>
     <abstract>Defined in this standard are elements and commonly used components in excitation systems. Also contained are definitions for excitation systems applied to synchronous machines. An included annex contains one-line block diagrams of some typical excitation systems. These are presented to illustrate the defined terminology referenced in this standard and clarify the understanding of the excitation control system.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9737077"/>
 </reference>

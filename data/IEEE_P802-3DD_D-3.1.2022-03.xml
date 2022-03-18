@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P802-3dd/D-3.1.2022-03" target="https://ieeexplore.ieee.org/document/9737074">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Maintenance #17: Power over Data Lines of Single Pair Ethernet</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="16"/>
+    <abstract>This amendment to IEEE Std 802.3-202x makes editorial and technical corrections, refinements, and clarifications to Clause 104 Power over Data Lines of Single Pair Ethernet, and related portions of the standard. No new to features are added by the amendment.</abstract>
+  </front>
+</reference>

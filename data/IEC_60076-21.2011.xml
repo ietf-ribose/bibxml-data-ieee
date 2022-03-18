@@ -1,14 +1,16 @@
 <reference anchor="IEC.60076-21.2011" target="https://ieeexplore.ieee.org/document/6170932">
   <front>
-    <title>Power Transformers Part 21: Standard Requirements, Terminology, and Test Code for Step-Voltage Regulators</title>
+    <title>Power Transformers &amp;#8211; Part 21: Standard Requirements, Terminology, and Test Code for Step-Voltage Regulators</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
+    <date year="2022" month="March" day="15"/>
     <abstract>Description of design types, tables of 50 Hz and 60 Hz ratings, supplementary ratings, construction, and available accessories are provided. Methods for performing routine and design tests applicable to liquid-immersed single and three-phase step-voltage regulators are described. Winding resistance measurements, polarity tests, insulation power factor and resistance tests, ratio tests, no load loss and excitation current measurements, impedance and load loss measurements, dielectric tests, temperature tests, routine and design impulse tests, short-circuit tests, control tests, calculated data, and certified test data are covered.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6170932"/>

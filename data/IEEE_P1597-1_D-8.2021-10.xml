@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P1597-1/D-8.2021-10" target="https://ieeexplore.ieee.org/document/9737083">
+  <front>
+    <title>IEEE Draft Standard for Validation of Computational Electromagnetics Computer Modeling and Simulations</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="16"/>
+    <abstract>A method to validate computational electromagnetics computer modeling and simulation techniques, codes, and models is defined in this standard. It is applicable to a wide variety of electromagnetic applications including, but not limited to, the fields of electromagnetic compatibility, radar cross section, signal integrity, and antennas. Validation of a particular solution data set can be achieved by comparison to the data set obtained by measurements, alternative codes, canonical methods, or analytic methods.</abstract>
+  </front>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P1010/D-20.2021-11" target="https://ieeexplore.ieee.org/document/9737080">
+  <front>
+    <title>IEEE Draft Guide for Control of Hydroelectric Power Plants</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="16"/>
+    <abstract>This guide serves as a reference document for practicing engineers in the hydroelectric industry. It documents prevailing industry practices in hydroelectric power plant control system logic, control system configurations, and control modes. It describes the control and monitoring requirements for equipment and systems associated with conventional and pumped-storage hydroelectric power plants. It includes typical methods of local and remote control, details of the control interfaces for plant equipment, and requirements for centralized and off-site control.</abstract>
+  </front>
+</reference>

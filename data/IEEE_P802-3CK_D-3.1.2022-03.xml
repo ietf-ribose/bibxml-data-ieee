@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P802-3ck/D-3.1.2022-03" target="https://ieeexplore.ieee.org/document/9737089">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment: Physical Layer Specifications and Management Parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s Electrical Interfaces Based on 100 Gb/s Signaling</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="March" day="16"/>
+    <abstract>This amendment to IEEE Std 802.3-202x adds Clause 161 through Clause 163, Annex 120F, Annex 120G, and Annex 162A through Annex 162D, Annex 163A, and Annex 163B. This amendment includes Physical Layer specifications and management parameters for 100 Gb/s, 200 Gb/s, and 400 Gb/s electrical interfaces based on 100 Gb/s signaling.</abstract>
+  </front>
+</reference>
