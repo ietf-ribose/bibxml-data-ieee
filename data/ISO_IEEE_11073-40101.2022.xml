@@ -1,0 +1,16 @@
+<reference anchor="ISO/IEEE.11073-40101.2022" target="https://ieeexplore.ieee.org/document/9738537">
+  <front>
+    <title>IEEE/ISO International Standard-Health informatics--Device interoperability--Part 40101: Foundational--Cybersecurity--Processes for vulnerability assessment</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>For Personal Health Devices (PHDs) and Point-of-Care Devices (PoCDs), an iterative, systematic, scalable, and auditable approach to identification of cybersecurity vulnerabilities and estimation of risk is defined by this standard. The standard presents one approach to iterative vulnerability assessment that uses the Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege (STRIDE) classification scheme and the embedded Common Vulnerability Scoring System (eCVSS). The assessment includes system context, system decomposition, pre-mitigation scoring, mitigation, and post-mitigation scoring and iterates until the remaining vulnerabilities are reduced to an acceptable level of risk.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9738537"/>
+</reference>
