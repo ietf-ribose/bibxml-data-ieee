@@ -1,0 +1,16 @@
+<reference anchor="IEEE.C57-18-10.2021" target="https://ieeexplore.ieee.org/document/9743424">
+  <front>
+    <title>IEEE Standard Practices and Requirements for Semiconductor Power Rectifier Transformers</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Practices and requirements for semiconductor power rectifier transformers for dedicated loads rated single-phase 100 kW and above and three-phase 100 kW and above are included. Static precipitators, high-voltage converters for dc power transmission, and other nonlinear loads are excluded. Service conditions, both usual and unusual, are specified, or other standards are referenced as appropriate. Routine tests are specified, and an informative annex provides several examples of load loss calculations for transformers when subjected to nonsinusoidal currents, based on calculations provided in the standard.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9743424"/>
+</reference>
