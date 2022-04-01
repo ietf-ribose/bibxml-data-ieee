@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P802-3de/D-3.0.2022-03" target="https://ieeexplore.ieee.org/document/9744531">
+  <front>
+    <title>IEEE Draft Standard for Ethernet - Amendment: Enhancements to the MAC Merge function and the Time Synchronization Service Interface (TSSI) to Include Point-to-Point 10 Mb/s Single Pair Ethernet</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This amendment to IEEE Std 802.3-202x specifies additions to and appropriate modifications of the IEEE Std 802.3 MAC Merge sublayer and the Time Synchronization Service Interface (TSSI) to support 10 Mb/s Single-Pair Ethernet point to point PHYs.</abstract>
+  </front>
+</reference>

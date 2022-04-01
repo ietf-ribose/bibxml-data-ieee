@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P2847/D-4.2021-09" target="https://ieeexplore.ieee.org/document/9540638">
+<reference anchor="IEEE.2847.2021" target="https://ieeexplore.ieee.org/document/9744620">
   <front>
-    <title>IEEE Approved Draft Standard for DC Power Transmission and Communication to DC Loads</title>
+    <title>IEEE Standard for DC Power Transmission and Communication to DC Loads</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="16"/>
     <abstract>Physical layer and data link layer specifications for power supply and communication over power lines from a dc power source to multiple dc loads are specified. Each receiver has its own physical address and is connected to the transmitter through a pair of power lines in a multidrop bus or tree topology. The dc power is sent by the transmitter. This dc power, by electrically changing the voltage of the wires, corresponds to the communication packets, including the control command/data for controlling the dc loads and the target address. Power to the dc loads with the transmitted and voltage-flattened dc power is supplied by each receiver. The control command/data and addresses from electric signals on the power line is decoded by each receiver, to be used for the connected dc loads control if the addresses match. The standard is in compliance with known electromagnetic compatibility (EMC) regulations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9744620"/>
 </reference>
