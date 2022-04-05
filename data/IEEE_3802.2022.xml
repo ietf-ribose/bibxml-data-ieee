@@ -1,0 +1,16 @@
+<reference anchor="IEEE.3802.2022" target="https://ieeexplore.ieee.org/document/9745865">
+  <front>
+    <title>IEEE Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard specifies the terminology, technical reference framework, basic functional requirements, and technical indicators for the platform of blockchain-based e-commerce transaction evidence collecting, which is the foundation of digital business interactions.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9745865"/>
+</reference>

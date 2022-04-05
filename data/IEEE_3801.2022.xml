@@ -1,0 +1,16 @@
+<reference anchor="IEEE.3801.2022" target="https://ieeexplore.ieee.org/document/9745868">
+  <front>
+    <title>IEEE Standard for Blockchainbased Electronic Contracts</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard defines a technical reference framework and terminology for the platform of blockchain in electronic contracts. Functional requirements and technical indicators are also defined.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9745868"/>
+</reference>

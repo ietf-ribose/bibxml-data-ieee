@@ -1,0 +1,17 @@
+<reference anchor="ISO/IEC/IEEE.8802-1X/Amd2.2013" target="https://ieeexplore.ieee.org/document/9263413">
+  <front>
+    <title>ISO/IEC/IEEE International Standard - Telecommunications and exchange between information technology systems -- Requirements for local and metropolitan area networks--Part 1X: Port-based network access control AMENDMENT 2: YANG data model</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2020" month="November" day="18"/>
+    <abstract>The YANG data model specified in this amendment to IEEE Std 802.1X™-2010 allows configuration and status reporting for port-based network access control, in the scenarios described in Clause 7 of this standard and Clause 11 of IEEE Std 802.1AE™-2018, using the information model previously specified in this standard.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2020.9263413"/>
+</reference>
