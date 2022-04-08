@@ -1,0 +1,17 @@
+<reference anchor="ANSI.C57-12-50.1981" target="https://ieeexplore.ieee.org/document/1389293">
+  <front>
+    <title>American National Standard Requirements for Ventilated Dry-Type Distribution Transformers, 1 to 500 kVA, Single-Phase, and 15 to 500 kVA, Three-Phase, With High-Voltage 601 to 34 500 Volts, Low-Voltage 120 to 600 Volts</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2005" month="February" day="7"/>
+    <abstract>This standard describes certain electrical and mechanical characteristics and takes into consideration certain safety features of 60-Hz, two-winding, ventilated dry-type transformers with self-cooled ratings 1 to 500 kVA, single-phase, and 15 to 500 kVA, three-phase, inclusive; high-voltage 601 to 34 500 volts, and low-voltage 120 to 600 volts, inclusive; generally used for step-down purposes. (Forced-air-cooled ratings for certain sizes are listed in Part II.)</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1981.95638"/>
+</reference>

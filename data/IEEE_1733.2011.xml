@@ -5,10 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
+    <date year="2011" month="May" day="5"/>
     <abstract>Protocol, data encapsulations, connection management, and presentation time procedures used to ensure interoperability between audio and video-based end stations that use standard networking services provided by all IEEE 802 networks meeting QoS requirements for time-sensitive applications by leveraging the Real-time Transport Protocol (RTP) family of protocols and IEEE 802.1 Audio/Video Bridging (AVB) protocols is specified in this standard.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.5762653"/>

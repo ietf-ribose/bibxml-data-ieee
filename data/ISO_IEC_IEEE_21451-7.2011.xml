@@ -5,10 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
+    <date year="2012" month="February" day="17"/>
     <abstract>ISO/IEC/IEEE 21451-7:2011 defines data formats to facilitate communications between radio frequency identification (RFID) systems and smart RFID tags with integral transducers (sensors and actuators). It defines new Transducer Electronic Data Sheet (TEDS) formats based on the ISO/IEC/IEEE 21451 series of standards. It also defines a command structure and specifies the communication methods with which the command structure is designed to be compatible.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6155051"/>

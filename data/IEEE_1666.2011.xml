@@ -5,11 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2013" month="August" day="15"/>
+    <date year="2012" month="January" day="18"/>
     <abstract>SystemC<sup>®</sup> is defined in this standard. SystemC is an ANSI standard C++ class library for system and hardware design for use by designers and architects who need to address complex systems that are a hybrid between hardware and software. This standard provides a precise and complete definition of the SystemC class library so that a SystemC implementation can be developed with reference to this standard alone. The primary audiences for this standard are the implementors of the SystemC class library, the implementors of tools supporting the class library, and the users of the class library.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2012.6134619"/>

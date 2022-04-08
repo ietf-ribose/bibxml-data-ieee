@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2014" month="August" day="12"/>
+    <date year="2002" month="August" day="6"/>
     <abstract>Standard Test Interface Language (STIL) provides an interface between digital test generation tools and test equipment. A test description language is defined that: (a) facilitates the transfer of digital test vector data from CAE to ATE environments; (b) specifies pattern, format, and timing information sufficient to define the application of digital test vectors to a DUT; and (c) supports the volume of test vector data generated from structured tests.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.1999.90563"/>

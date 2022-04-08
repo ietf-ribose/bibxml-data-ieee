@@ -1,0 +1,17 @@
+<reference anchor="ANSI/IEEE.813.1988" target="https://ieeexplore.ieee.org/document/89622">
+  <front>
+    <title>IEEE Specification Format Guide and Test Procedure for Two-Degree-of-Freedom Dynamically Tuned Gyros</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2002" month="August" day="6"/>
+    <abstract>A format guide for the preparation of a two-degree-of-freedom dynamically tuned gyro (DTG) specification is given that provides a common ground of terminology and practice for manufacturers and users. A compilation of recommended procedures for testing a DTG is also given. The requirements and test procedures are defined in terms unique to the DTG. They cover applications of the gyro as an angular motion sensor in navigation and control systems. They apply to two modes of use: (1) as a strap-down sensor in operating environments typical of aircraft and missile applications, and (2) as a sensor in gimballed platform applications in which the dynamic angular inputs to which the gyro is subjected are benign relative to the accuracy required. In the case of the strap-down DTG, the characteristics of the external capture loops are considered to the extent necessary to define the gyro performance.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.1989.94579"/>
+</reference>

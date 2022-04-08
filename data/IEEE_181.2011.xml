@@ -5,11 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2013" month="July" day="26"/>
+    <date year="2011" month="September" day="8"/>
     <abstract>Approximately 100 terms and their definitions, for accurately and precisely describing the waveforms of pulse signals and the process of measuring pulse signals, are presented in this standard. Algorithms are provided for computing the values of defined terms that describe measurable parameters of the waveform, such as transition duration, state level, pulse amplitude, and waveform aberrations. These analysis algorithms are applicable to two-state waveforms having one or two transitions connecting these states. Compound waveform analysis is accomplished by decomposing the compound waveform into its constituent two-state single-transition waveforms.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6016198"/>

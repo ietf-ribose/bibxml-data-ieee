@@ -4,7 +4,7 @@
     <author>
       <organization abbrev="IEEE">IEEE</organization>
     </author>
-    <date year="2019" month="April" day="10"/>
+    <date year="2005" month="December" day="19"/>
     <abstract>This standard represents a merger of two previous standards: IEEE 1364-2005 Verilog hardware description language (HDL) and IEEE 1800-2005 SystemVerilog unified hardware design, specification and verification language. The 2005 SystemVerilog standard defines extensions to the 2005 Verilog standard. These two standards were designed to be used as one language. Merging the base Verilog language and the SystemVerilog extensions into a single standard enables users to have all information regarding syntax and semantics in a single document.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.97972"/>

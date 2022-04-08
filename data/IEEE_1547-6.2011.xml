@@ -5,11 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2013" month="November" day="4"/>
+    <date year="2011" month="September" day="16"/>
     <abstract>Recommendations and guidance for distributed resources (DR) interconnected on the distribution secondary networks, including both spot networks and grid networks, are provided. This document gives an overview of distribution secondary network systems design, components, and operation; describes considerations for interconnecting DR with networks; and provides potential solutions for the interconnection of DR on network distribution systems. lEEEStd 1547.6-2011 is part of the IEEE 1547™ series of standards. IEEE Std 1547-2003 provides mandatory requirements for the interconnection of DR with EPSs and focuses primarily on radial distribution circuit interconnections. For DR interconnected on networks, all of IEEE Std 1547-2003 needs to be satisfied. IEEE Std 1547.6-2011 was specifically developed to provide additional information in regard to interconnecting DR with distribution secondary networks.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2011.6022734"/>

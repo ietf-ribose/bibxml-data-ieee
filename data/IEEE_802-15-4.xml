@@ -1,0 +1,16 @@
+<reference anchor="IEEE.802-15-4" target="https://ieeexplore.ieee.org/document/9750998">
+  <front>
+    <title>IEEE Standard for Low-Rate Wireless Networks Amendment 4: Higher Data Rate Extension to IEEE 802.15.4 Smart Utility Network (SUN) Frequency Shift Keying (FSK) Physical Layer (PHY)</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This amendment defines a data rate extension of SUN FSK PHY to IEEE Std 802.15.4-2020. It adds data rate extensions for the SUN FSK modulation and channel parameters. These extensions focus on the Japanese frequency band.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9750998"/>
+</reference>
