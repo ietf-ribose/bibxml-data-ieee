@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P1500/D-1.5.2022" target="https://ieeexplore.ieee.org/document/9754320">
+  <front>
+    <title>IEEE Draft Standard Testability Method for Embedded Core-based Integrated Circuits</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard defines a mechanism for the test of core designs within a system on chip (SoC). This mechanism constitutes a hardware architecture and leverages the core test language (CTL) to facilitate communication between core designers and core integrators.</abstract>
+  </front>
+</reference>
