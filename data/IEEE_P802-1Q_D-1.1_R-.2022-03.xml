@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P802-1Q/D-1.1/R-.2022-03" target="https://ieeexplore.ieee.org/document/9756404">
+  <front>
+    <title>IEEE Draft Standard for Local and Metropolitan Area Networks--Bridges and Bridged Networks</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This standard specifies how the Media Access Control (MAC) Service is supported by Bridged Networks, the principles of operation of those networks, and the operation of MAC Bridges and VLAN Bridges, including management, protocols, and algorithms.</abstract>
+  </front>
+</reference>

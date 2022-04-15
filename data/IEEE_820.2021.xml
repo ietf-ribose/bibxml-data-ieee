@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P820/D-5.2021-03" target="https://ieeexplore.ieee.org/document/9495307">
+<reference anchor="IEEE.820.2021" target="https://ieeexplore.ieee.org/document/9756413">
   <front>
-    <title>IEEE Approved Draft Standard Telephone Loop Performance Characteristics</title>
+    <title>IEEE Standard Telephone Loop Performance Characteristics</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="July" day="26"/>
     <abstract>Common denominators for subscriber line performance, independent of facility types, construction processes or equipment, and circuit provisioning methods are provided in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9756413"/>
 </reference>

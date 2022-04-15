@@ -1,0 +1,15 @@
+<reference anchor="IEEE.PC57-12-200/D-10.2022-01" target="https://ieeexplore.ieee.org/document/9755299">
+  <front>
+    <title>IEEE Draft Guide for the Frequency Domain Spectroscopy Measurement of Transformer Bushings</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Bushings are critical components for power apparatus, as their main role is to conduct current at high voltage through a grounded barrier. Statistical studies have shown that bushing defects such as water ingression, and partial discharge are among the most important causes for unexpected failures. Dielectric Frequency Response, DFR, sometimes also known as Frequency Domain Spectroscopy, FDS, which involves measurement of the bushing capacitance and dielectric losses over a frequency range, is an effective method to detect deterioration of bushing insulation. This guide applies to the DFR measurement of various types of bushings either in the field or in the factory except for gas insulated bushings.</abstract>
+  </front>
+</reference>

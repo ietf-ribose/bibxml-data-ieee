@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1484-11-1.2022" target="https://ieeexplore.ieee.org/document/9756410">
+  <front>
+    <title>IEEE Standard for Learning Technology--Data Model for Content Object Communication</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>A data model to support the interchange of data elements and their values between a content object and a runtime service (RTS) is described in this standard. This standard is based on a current industry practice called “computer managed instruction” (CMI). The work on which this standard is based was developed to support a client–server environment in which a learning technology system, generically called a “learning management system” (LMS), delivers digital content, called “content objects,” to learners. The data model supports learner data and preferences; interactions; objectives; content-object entry, exit, and status information; time parameters; and scores.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9756410"/>
+</reference>
