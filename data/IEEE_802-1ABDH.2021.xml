@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P802-1ABdh/D-2.1.2021-09" target="https://ieeexplore.ieee.org/document/9552633">
+<reference anchor="IEEE.802-1ABdh.2021" target="https://ieeexplore.ieee.org/document/9760302">
   <front>
-    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks - Station and Media Access Control Connectivity Discovery - Amendment: Support for Multiframe Protocol Data Units</title>
+    <title>IEEE Standard for Local and metropolitan area networks-- Station and Media Access Control Connectivity Discovery Amendment 2: Support for Multiframe Protocol Data Units</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="29"/>
+    <date year="2022" month="April" day="19"/>
     <abstract>This amendment to IEEE Std 802.1AB(TM)-2016 specifies protocols, procedures and managed objects that support the transmission and reception of a set of Link Layer Discovery Protocol (LLDP) Type/Length/Values (TLVs) that exceed the space available in a single frame.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9760302"/>
 </reference>

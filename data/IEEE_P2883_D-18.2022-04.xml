@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P2883/D-18.2022-04" target="https://ieeexplore.ieee.org/document/9761124">
+  <front>
+    <title>IEEE Draft Standard for Sanitizing Storage</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Methods of sanitizing logical storage 1 and physical storage as well as providing technology-specific requirements and guidance for the elimination of recorded data is specified in this standard.</abstract>
+  </front>
+</reference>

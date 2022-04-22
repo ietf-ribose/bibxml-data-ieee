@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1616.2021.Redline" target="https://ieeexplore.ieee.org/document/9760253">
+  <front>
+    <title>IEEE Standard for Motor Vehicle Event Data Recorder (MVEDR)</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="April" day="19"/>
+    <abstract>Export data related to motor vehicle pre-defined events in usage history is collected, recorded, stored, and exported by motor vehicle event data recorders (MVEDRs). A protocol for MVEDR output data compatibility and export protocols of MVEDR data elements is defined by this standard. A motor vehicle event data recorder connector lockout apparatus (MVEDRCLA) and a near field communication (NFC) protocol is defined for safeguarding access to a vehicle’s event data recorder (EDR) data by securing the vehicle output diagnostic link connector (DLC) and establishing a chain of custody link. This standard is without prejudice to requirements of national or regional laws related to privacy, data protection, and personal data processing.</abstract>
+  </front>
+</reference>

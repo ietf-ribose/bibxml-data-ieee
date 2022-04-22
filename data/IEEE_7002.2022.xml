@@ -1,0 +1,17 @@
+<reference anchor="IEEE.7002.2022" target="https://ieeexplore.ieee.org/document/9760247">
+  <front>
+    <title>IEEE Standard for Data Privacy Process</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="April" day="19"/>
+    <abstract>The requirements for a systems/software engineering process for privacy-oriented considerations regarding products, services, and systems utilizing employee, customer, or other external user’s personal data are defined by this standard. Organizations and projects that are developing and deploying products, systems, processes, and applications that involve personal information are candidate users of the IEEE Std 7002™ standard. Specific procedures, diagrams, and checklists are provided for users of the IEEE Std 7002 standard to perform conformity assessments on their specific privacy practices. Privacy impact assessments (PIAs) are described as a tool for both identifying where privacy controls and measures are needed and for confirming they are in place.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9760247"/>
+</reference>

@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1780.2022" target="https://ieeexplore.ieee.org/document/9761130">
+  <front>
+    <title>IEEE Standard for Specifying Inertial Measurement Units (IMUs)</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Preparation of an inertial measurement unit (IMU) specification document is discussed in this standard. An outline is provided along with guidance for tailoring.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9761130"/>
+</reference>

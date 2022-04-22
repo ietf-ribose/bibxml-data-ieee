@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P980/D-5.2021-10" target="https://ieeexplore.ieee.org/document/9574107">
+<reference anchor="IEEE.980.2021" target="https://ieeexplore.ieee.org/document/9760250">
   <front>
-    <title>IEEE Approved Draft Guide for Containment and Control of Oil Spills in Substations</title>
+    <title>IEEE Guide for Containment and Control of Oil Spills in Substations</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="October" day="14"/>
+    <date year="2022" month="April" day="19"/>
     <abstract>The significance of oil-spillage regulations and their applicability to electric substations are discussed; the sources of oil spills are identified; typical designs and methods for dealing with oil containment and control of oil spills are discussed; and guidelines for preparation of a typical Spill Prevention Control and Countermeasures (SPCC) plan are provided. This guide excludes polychlorinated biphenyl (PCB) handling and disposal considerations.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9760250"/>
 </reference>
