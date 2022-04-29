@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P2937/D-6.2022-04" target="https://ieeexplore.ieee.org/document/9763456">
+  <front>
+    <title>IEEE Draft Standard for Performance Benchmarking for AI Server Systems</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Artificial intelligence (AI) computing differs from generic computing in terms of devices’ formation, operators, and usage. AI server systems, including AI server, cluster, and High-Performance Computing (HPC) infrastructures are designed specifically for this purpose. The performance of these infrastructures is important to users not only on generic models but the ones for specific domains. This standard provides formal methods for the performance benchmarking for AI server systems?including approaches for test, metrics and measure. In addition, this specification provides the technical requirements on tools for benchmarking.</abstract>
+  </front>
+</reference>
