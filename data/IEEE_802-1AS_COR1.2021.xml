@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P802-1AS/D-4.0/Cor1.2021-09" target="https://ieeexplore.ieee.org/document/9547237">
+<reference anchor="IEEE.802-1AS/Cor1.2021" target="https://ieeexplore.ieee.org/document/9765410">
   <front>
-    <title>IEEE Approved Draft Standard for Local and Metropolitan Area Networks--Timing and Synchronization for Time-Sensitive Applications - Corrigendum 1: Technical and Editorial Corrections</title>
+    <title>IEEE Standard for Local and Metropolitan Area Networks--Timing and Synchronization for Time-Sensitive Applications - Corrigendum 1: Technical and Editorial Corrections</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="September" day="23"/>
     <abstract>Technical and editorial corrections to IEEE Std 802.1AS™-2020 are provided in this corrigendum.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9765410"/>
 </reference>
