@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P1900-6b/D-6.0.2022-04" target="https://ieeexplore.ieee.org/document/9766285">
+  <front>
+    <title>IEEE Draft Standard for Spectrum Sensing Interfaces and Data Structures for Dynamic Spectrum Access and other Advanced Radio Communication Systems Amendment 2: Spectrum Database Interfaces</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This amendment to IEEE Std 1900.6-2011 adds procedures, protocols, and message format specifications for the exchange of sensing related data, control data, and configuration data between spectrum sensors and spectrum databases. In addition, it adds specifications for the exchange of sensing related data between the data archive and spectrum databases, and the cognitive engine and spectrum databases.</abstract>
+  </front>
+</reference>

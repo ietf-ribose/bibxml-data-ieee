@@ -1,0 +1,15 @@
+<reference anchor="IEEE.802-3x.1997" target="https://ieeexplore.ieee.org/document/9768038">
+  <front>
+    <title>IEEE Standards for Local and Metropolitan Area Networks: Specification for 802.3 Full Duplex Operation</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Superseded by IEEE Std 802.3-2002 Necessary changes and additions are made to provide for an additional, full duplex mode of operation on a speed-independent basis. Changes are made to the MAC and selected Physical Layer implementations (10BASE-T, 10BASE-FL, 100BASE-T) to support full duplex. A mechanism for pause-based flow control is also added.p&gt; Abstract 802.3y: Changes and additions to the 100BASE-T portion of IEEE Std 802.3 are provided to specify an additional 100 Mb/s transceiver type 100BASE-T, which can support full duplex operation over two pairs of Category 3 or better cabling.</abstract>
+  </front>
+</reference>
