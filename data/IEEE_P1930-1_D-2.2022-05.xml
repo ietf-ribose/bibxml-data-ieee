@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P1930-1/D-2.2022-05" target="https://ieeexplore.ieee.org/document/9770559">
+  <front>
+    <title>IEEE Draft Recommended Practice for Software Defined Networking (SDN) based Middleware for Control and Management of Wireless Networks</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This Recommended Practice specifies an SDN middleware to support unified control and management of multiple Radio Access Technology (multi-RAT) wireless access networks for Fifth Generation (5G) and beyond. It also defines an SDN based architecture, which facilitates Radio Access Network (RAN) level inter-working and unification of RATs.</abstract>
+  </front>
+</reference>

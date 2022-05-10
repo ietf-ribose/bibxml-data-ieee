@@ -1,4 +1,4 @@
-<reference anchor="IEC.62142.2005" target="https://ieeexplore.ieee.org/document/8894283">
+<reference anchor="IEC.62142.2005" target="https://ieeexplore.ieee.org/document/4140792">
   <front>
     <title>IEC/IEEE International Standard - Verilog(R) Register Transfer Level Synthesis</title>
     <author>
@@ -10,8 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2019" month="November" day="7"/>
+    <date year="2007" month="August" day="27"/>
     <abstract>Replaces IEEE Std 1364.1-2002. To develop a standard syntax and semantics for Verilog RTL synthesis. This standard shall define the subset of IEEE 1364 (Verilog HDL) which is suitable for RTL synthesis and shall define the semantics of that subset for the synthesis domain. This standard shall be based on the current existing standard IEEE 1364.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.1109/IEEESTD.2002.8894283"/>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2005.339572"/>
 </reference>

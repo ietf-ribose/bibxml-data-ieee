@@ -1,16 +1,17 @@
-<reference anchor="IEEE.1673.2015" target="https://ieeexplore.ieee.org/document/7426675">
+<reference anchor="IEEE.1673.2015" target="https://ieeexplore.ieee.org/document/8299604">
   <front>
     <title>IEEE Standard for Requirements for Conduit and Cable Seals for Field Connected Wiring to Equipment in Petroleum and Chemical Industry Exposed to Pressures above Atmospheric (1.5 kPa, 0.22 psi)</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2016" month="March" day="7"/>
+    <date year="2018" month="February" day="21"/>
     <abstract>Provided in this document are specific requirements for field installed sealing between a pressurized system (stream) containing flammable or combustible process fluids which is connected directly or indirectly to an electrical system where a failure could allow the migration of process fluids directly into the electrical system. Not addressed in this document are the basic requirements for electrical safety and the effects of the loss of containment of the process system in terms of risk to the environment and/or personnel health and safety.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.7426675"/>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2016.8299604"/>
 </reference>
