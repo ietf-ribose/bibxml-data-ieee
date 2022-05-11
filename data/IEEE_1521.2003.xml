@@ -1,16 +1,10 @@
-<reference anchor="IEEE.1521.2003" target="https://ieeexplore.ieee.org/document/8743099">
+<reference anchor="IEEE.1521.2003" target="https://ieeexplore.ieee.org/document/1266041">
   <front>
-    <title>IEEE Standard for Measurement of Video Jitter and Wander</title>
+    <title>IEEE Trial-Use Standard for Measurement of Video Jitter and Wander</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
-      <address>
-        <postal>
-          <country>USA</country>
-        </postal>
-      </address>
     </author>
-    <date year="2019" month="June" day="20"/>
-    <abstract>Reaffirmed March 2010. A set of metrics and methods to enable consistent measurement of the components of timing interval error in video synchronization signals is provided. By partitioning the spectra into regions of jitter and lower frequency wander (characterized as frequency offset and drift rate), timing performance can be better quantified for consistent control over nontraditional networks.</abstract>
+    <abstract>A set of metrics and methods to enable consistent measurement of the components of timing interval error in video synchronization signals is provided in this standard. By partitioning the spectra into regions of jitter and lower frequency wander (characterized as frequency offset and drift rate), timing performance can be better quantified for consistent control over nontraditional networks.</abstract>
   </front>
-  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.8743099"/>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2004.94426"/>
 </reference>

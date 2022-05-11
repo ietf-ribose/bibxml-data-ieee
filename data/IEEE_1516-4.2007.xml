@@ -1,0 +1,10 @@
+<reference anchor="IEEE.1516-4.2007" target="https://ieeexplore.ieee.org/document/4412958">
+  <front>
+    <title>IEEE Recommended Practice for Verification, Validation, and Accreditation of a Federationan Overlay to the High Level Architecture Federation Development and Execution Process</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+    </author>
+    <abstract>This recommended practice defines the processes and procedures that should be followed to implement Verification, Validation, and Accreditation (VV) for federations being developed using the High Level Architecture (HLA) Federation Development and Execution Process (FEDEP). This recommended practice is not intended to replace existing VV policies, procedures and guidance, but rather is intended to focus on the unique aspects of VV of federations. It is a higher-level framework into which such practices can be integrated and tailored for specific uses. The VV Overlay provides implementation-level guidance to VV practitioners.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2007.4412958"/>
+</reference>
