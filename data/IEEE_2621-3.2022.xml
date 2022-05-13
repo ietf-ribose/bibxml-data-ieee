@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P2621-3/D-3.0.2022-02" target="https://ieeexplore.ieee.org/document/9705279">
+<reference anchor="IEEE.2621-3.2022" target="https://ieeexplore.ieee.org/document/9773078">
   <front>
-    <title>IEEE Approved Draft Recommended Practice for Wireless Diabetes Device Security - Use of Mobile Devices in Diabetes Control Contexts</title>
+    <title>IEEE Recommended Practice for Wireless Diabetes Device Security: Use of Mobile Devices in Diabetes Control Contexts</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2022" month="February" day="4"/>
     <abstract>A framework for a connected electronic product security evaluation program, with specific requirements and guidance relating to digital diabetes devices and solutions, such as insulin pumps is defined in this standard.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9773078"/>
 </reference>

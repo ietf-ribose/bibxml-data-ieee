@@ -1,0 +1,16 @@
+<reference anchor="IEEE.2621-1.2022" target="https://ieeexplore.ieee.org/document/9773075">
+  <front>
+    <title>IEEE Standard for Wireless Diabetes Device Security Assurance Evaluation: Connected Electronic Product Security Evaluation Programs</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>A framework for a connected electronic product security assurance evaluation program, with specific requirements and guidance relating to digital diabetes devices and solutions, such as insulin pumps is described in this standard.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9773075"/>
+</reference>

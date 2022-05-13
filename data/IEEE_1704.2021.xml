@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P1704/D-28.2021-09" target="https://ieeexplore.ieee.org/document/9586452">
+<reference anchor="IEEE.1704.2021" target="https://ieeexplore.ieee.org/document/9772454">
   <front>
-    <title>IEEE Approved Draft Standard for Utility Industry End Device Communications Module</title>
+    <title>IEEE Standard for Utility Industry End Device Communications Module</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2021" month="October" day="26"/>
     <abstract>This standard is an extension to IEEE Std 1703(TM). Physical hardware interfaces and signals, such as logical interface and power (digital and mains), that link metrology devices to communications modules via the USB physical layer are specified in this standard. The communication module described in this standard is not integral (not on the same circuit board) with the metrology registers (circuit board) of the assembly. However, the module is envisioned to partner with a device implementing measurement registers (energy, demand load, power quality and related quantities) that are semantically modeled using IEEE Std 1377™, and encapsulated for communication using IEEE Std 1703(TM)application layer messages.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9772454"/>
 </reference>
