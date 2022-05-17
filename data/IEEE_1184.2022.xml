@@ -1,0 +1,16 @@
+<reference anchor="IEEE.1184.2022" target="https://ieeexplore.ieee.org/document/9774336">
+  <front>
+    <title>IEEE Guide for Batteries for Uninterruptible Power Supply Systems</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>Various battery systems are discussed so that the user can make informed decisions on selection, installation design, installation, maintenance, and testing of stationary standby batteries used in uninterruptible power supply (UPS) systems. UPS battery charging and converter components relation to the selection of the battery systems is described. Design requirements of the UPS components are beyond the scope of this document. Battery back-up systems for dc-output rectifiers are also beyond the scope of this document.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9774336"/>
+</reference>
