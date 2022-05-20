@@ -1,0 +1,17 @@
+<reference anchor="ANSI/USEMCSC.C63-27.2021" target="https://ieeexplore.ieee.org/document/9777636">
+  <front>
+    <title>American National Standard for Evaluation of Wireless Coexistence</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="May" day="18"/>
+    <abstract>An evaluation process and supporting test methods are provided in this standard to quantify the ability of a wireless device to coexist with other wireless services in its intended radio frequency environments.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9777636"/>
+</reference>

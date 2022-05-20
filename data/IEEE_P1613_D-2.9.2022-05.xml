@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P1613/D-2.9.2022-05" target="https://ieeexplore.ieee.org/document/9777911">
+  <front>
+    <title>IEEE Draft Standard for Environmental and Testing Requirements for Devices with Communications Functions used with Electric Power Apparatus</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="May" day="18"/>
+    <abstract>Service conditions, electrical ratings, thermal ratings, electromagnetic compatibility (EMC), and environmental testing requirements are defined in this standard based upon IEEE standards and five International Electrotechnical Commission (IEC) EMC standards (for which there are no equivalent IEEE standards), to represent the harsh environment of electric power apparatus installations. This develops a common and reproducible basis for designing and testing devices with communications functions installed in this harsh environment. Devices that support communications functions use communications ports.</abstract>
+  </front>
+</reference>

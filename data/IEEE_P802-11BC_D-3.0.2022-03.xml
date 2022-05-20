@@ -1,0 +1,15 @@
+<reference anchor="IEEE.P802-11bc/D-3.0.2022-03" target="https://ieeexplore.ieee.org/document/9777646">
+  <front>
+    <title>IEEE Draft Standard for Information technology--Telecommunications and information exchange between systems Local and metropolitan area networks--Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications - Amendment: Enhanced Broadcast Service</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <abstract>This amendment specifies modifications to the IEEE 802.11 medium access control (MAC) specifications that enable enhanced transmission and reception of broadcast data in an infrastructure BSS both where there is an association between the transmitter(s) and the receiver(s) and in cases where there is no association between transmitter(s) and receiver(s).</abstract>
+  </front>
+</reference>
