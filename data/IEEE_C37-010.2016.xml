@@ -5,11 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2017" month="April" day="20"/>
+    <date year="2017" month="April" day="24"/>
     <abstract>The application of indoor and outdoor high-voltage circuit breakers rated above 1000 Vac for use in commercial, industrial, and utility installations is covered in this guide. It deals with usage under varied service conditions, temperature conditions affecting continuous current compensation, reduced dielectrics, reclosing derating as applicable, calculation of system short-circuit current, compensation at different X/R ratios, detailed calculations with application curves, out-of-phase switching, and general application.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7906465"/>

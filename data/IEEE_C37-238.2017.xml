@@ -5,11 +5,12 @@
       <organization abbrev="IEEE">IEEE</organization>
       <address>
         <postal>
+          <city>New York</city>
           <country>USA</country>
         </postal>
       </address>
     </author>
-    <date year="2017" month="June" day="17"/>
+    <date year="2017" month="June" day="19"/>
     <abstract>An extended profile is specified for the use of Precision Time Protocol of IEEE Std 1588-2008 in power system protection, control, automation, and data communication applications utilizing an Ethernet communications architecture.</abstract>
   </front>
   <seriesInfo name="DOI" value="10.1109/IEEESTD.2017.7953616"/>
