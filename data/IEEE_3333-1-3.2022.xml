@@ -1,0 +1,17 @@
+<reference anchor="IEEE.3333-1-3.2022" target="https://ieeexplore.ieee.org/document/9781357">
+  <front>
+    <title>IEEE Standard for the Deep Learning-Based Assessment of Visual Experience Based on Human Factors</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="May" day="25"/>
+    <abstract>Measuring quality of experience (QoE) aims to explore the factors that contribute to a user’s perceptual experience including human, system, and context factors. Since QoE stems from human interaction with various devices, the estimation should be started by investigating the mechanism of human visual perception. Therefore, measuring QoE is still a challenging task. In this standard, QoE assessment is categorized into two subcategories which are perceptual quality and virtual reality (VR) cybersickness. In addition, deep learning models considering human factors for various QoE assessments are covered, along with a reliable subjective test methodology and a database construction procedure.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9781357"/>
+</reference>

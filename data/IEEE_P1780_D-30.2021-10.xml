@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P1780/D-30.2021-10" target="https://ieeexplore.ieee.org/document/9715058">
+<reference anchor="IEEE.P1780/D-30.2021-10" target="https://ieeexplore.ieee.org/document/9781305">
   <front>
-    <title>IEEE Aproved Draft Standard for the Specification of Inertial Measurement Units (IMU)</title>
+    <title>IEEE Draft Standard for the Specification of Inertial Measurement Units (IMU)</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,7 @@
         </postal>
       </address>
     </author>
-    <date year="2022" month="February" day="16"/>
+    <date year="2022" month="May" day="25"/>
     <abstract>Preparation of an inertial measurement unit (IMU) specification document is discussed in this standard. An outline is provided along with guidance for tailoring.</abstract>
   </front>
 </reference>
