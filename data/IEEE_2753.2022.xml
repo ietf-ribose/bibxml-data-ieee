@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P2753/D-6.2022-01" target="https://ieeexplore.ieee.org/document/9690128">
+<reference anchor="IEEE.2753.2022" target="https://ieeexplore.ieee.org/document/9784446">
   <front>
-    <title>IEEE Approved Draft Guide for the Measurement of Pantograph Off-Line and Evaluation of Current Collection Performance for High Speed Railway</title>
+    <title>IEEE Guide for Measurement of Pantograph Off-line and Evaluation of Current Collection Performance for High-Speed Railway</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022" month="January" day="21"/>
+    <date year="2022" month="May" day="27"/>
     <abstract>This guide provides comprehensive test methods for the pantograph off-line and the reasonable evaluation for the performance of current collection system in high-speed railway. Model for the arcing erosion, as well as the off-line induced transient overvoltage and harmonics, which impact the onsite devices’ safety are included.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9784446"/>
 </reference>
