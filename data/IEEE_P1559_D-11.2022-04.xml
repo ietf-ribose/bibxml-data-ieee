@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P1559/D-11.2022-04" target="https://ieeexplore.ieee.org/document/9786710">
+  <front>
+    <title>IEEE Draft Standard for Inertial Systems Terminology</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="1"/>
+    <abstract>Terms and definitions relating to aided and unaided inertial systems for navigation, guidance, orientation, stabilization, and related applications are presented. Usage as understood by the inertial systems community is given preference over general technical usage of the terms herein. The criterion for inclusion of a term and its definition in this document is the term's usefulness as related to inertial systems technology.</abstract>
+  </front>
+</reference>

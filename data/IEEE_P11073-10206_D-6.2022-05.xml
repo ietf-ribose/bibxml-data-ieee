@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P11073-10206/D-6.2022-05" target="https://ieeexplore.ieee.org/document/9786692">
+  <front>
+    <title>IEEE Draft Standard - Health informatics -- Device interoperability -- Part 10206: Personal health device communication -- Abstract information content model</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="1"/>
+    <abstract>Within the context of the ISO/IEEE 11073 family of standards for device communication, a simplified framework for making an abstract model of personal health data available. The specification addresses the structure and content of information. It does not address communication of the information between devices.</abstract>
+  </front>
+</reference>

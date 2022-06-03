@@ -1,0 +1,16 @@
+<reference anchor="IEEE.P802-3cs/D-3.4.2022" target="https://ieeexplore.ieee.org/document/9786701">
+  <front>
+    <title>IEEE Draft Standard for Ethernet Amendment 2: Physical Layers and management parameters for increased-reach point-to-multipoint Ethernet optical subscriber access (Super-PON)</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="1"/>
+    <abstract>This amendment to IEEE Std 802.3-202x extends the operation of Ethernet passive optical networks (EPONs) to Super-PON optical subscriber access networks. Super-PON supports an increased optical reach of up to 50 km and an expanded customer coverage of up to 1024 subscribers over a point-to-multipoint passive optical distribution network (ODN) through wavelength division multiplexing (WDM). The defining element of a Super-PON optical distribution network (ODN) is the presence of a passive wavelength router that determines the channels supported by the ODN. This standard specifies the Super-PON Reconciliation Sublayer (RS), Physical Coding Sublayer (PCS), Physical Media Attachment (PMA) sublayer, and Physical Medium Dependent (PMD) sublayer at a MAC data rate of 10 Gb/s in the downstream direction and of 10 Gb/s or 2.5 Gb/s in the upstream direction.</abstract>
+  </front>
+</reference>

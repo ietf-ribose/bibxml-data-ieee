@@ -1,0 +1,16 @@
+<reference anchor="IEEE.PC62-230/D-16.2022-05" target="https://ieeexplore.ieee.org/document/9786707">
+  <front>
+    <title>IEEE Draft Guide for Surge Protection of Electric Vehicle Infrastructure</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="1"/>
+    <abstract>The guide encompasses the application 1 of surge-protective devices for electric vehicle infrastructure with system voltages of 1000 V (ac) or 1500 V (dc) or less. The document provides guidance for North American types of electric vehicle supply equipment (EVSE) and electric vehicles (EVs) that conform to the SAE J1772 Surface Vehicle Recommended Practice. The guide includes applications such as power, data acquisition, and communications related circuitry. The guide was developed for use by manufacturers, system designers, educators, and end users of electric vehicle supply equipment.</abstract>
+  </front>
+</reference>
