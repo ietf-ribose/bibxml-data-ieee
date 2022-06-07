@@ -1,0 +1,17 @@
+<reference anchor="IEEE.620.2022" target="https://ieeexplore.ieee.org/document/9787355">
+  <front>
+    <title>IEEE Guide for the Presentation of Thermal Limit Curves for Squirrel Cage Induction Machines</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="3"/>
+    <abstract>A procedure is established for the presentation of thermal limit curves, and guidance for the interpretation and use of these curves for machine thermal protection is provided in this guide.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9787355"/>
+</reference>
