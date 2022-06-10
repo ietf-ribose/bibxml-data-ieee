@@ -1,6 +1,6 @@
-<reference anchor="IEEE.P2819/D-6.2022-01" target="https://ieeexplore.ieee.org/document/9676560">
+<reference anchor="IEEE.2819.2022" target="https://ieeexplore.ieee.org/document/9790051">
   <front>
-    <title>IEEE Approved Draft Recommended Practice for Measuring Method of Electromagnetic Environment for the Corridor of High-voltage Overhead Power Transmission Lines in Parallel Mixed with Alternating Current and Direct Current</title>
+    <title>IEEE Recommended Practice for Measuring Method of Electromagnetic Environment for the Corridor of High? Voltage Overhead Power Transmission Lines in Parallel Mixed with Alternating Current and Direct Current</title>
     <author>
       <organization abbrev="IEEE">IEEE</organization>
       <address>
@@ -10,7 +10,8 @@
         </postal>
       </address>
     </author>
-    <date year="2022" month="January" day="10"/>
+    <date year="2022" month="June" day="7"/>
     <abstract>Uniform procedures for the measurement of the power frequency electric field and dc electric field when ac/dc power transmission lines are installed in parallel or on shared towers are established in this recommended practice. Based on the mutual influence analysis between parallel ac/dc power transmission lines through the theoretical calculation and on-site measurements, the specification requirements and calibration methods of electric field meters are specified. The measurement ranges and layout of measurement points, data recording and processing, and result evaluation methods of parallel power transmission lines of different voltage levels are standardized. This recommended practice is applicable to electromagnetic environment measurement of ac transmission lines with a voltage not less than 100 kV, dc transmission lines with a voltage not less than ± 400 kV, and parallel transmission lines with a distance not over 100 m.</abstract>
   </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9790051"/>
 </reference>
