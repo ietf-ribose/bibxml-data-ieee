@@ -1,0 +1,17 @@
+<reference anchor="ISO/IEC/IEEE.8802-22.2022" target="https://ieeexplore.ieee.org/document/9794390">
+  <front>
+    <title>ISO/IEC/IEEE International Standard--Telecommunications and information exchange between systems--Wireless Regional Area Networks (WRAN)--Specific requirements--Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Policies and procedures for operation in the bands that allow spectrum sharing where the communications devices may opportunistically operate in the spectrum of primary service</title>
+    <author>
+      <organization abbrev="IEEE">IEEE</organization>
+      <address>
+        <postal>
+          <city>New York</city>
+          <country>USA</country>
+        </postal>
+      </address>
+    </author>
+    <date year="2022" month="June" day="10"/>
+    <abstract>This standard specifies the air interface, including the cognitive medium access control layer (MAC) and physical layer (PHY), of point--to--multipoint wireless regional area networks (WRANs) comprised of a professional fixed base station (BS) with fixed and portable user terminals operating in the VHF/UHF TV broadcast bands between 54 MHz to 862 MHz, and potentially in the 1300 MHz to 1750 MHz, and 2700 MHz to 3700 MHz bands provided the regulatory regime allows it.</abstract>
+  </front>
+  <seriesInfo name="DOI" value="10.1109/IEEESTD.2022.9794390"/>
+</reference>
